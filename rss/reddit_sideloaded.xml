@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:14:32 GMT</lastBuildDate>
+    <item>
+      <title>帮助 Instagram Rocket 侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bliyl8/help_with_instagram_rocket_sideloading/</link>
+      <description><![CDATA[我获得了最新 instagram 的解密版本，因为我想使用 Rocket，同时在安全更新后仍然能够发送消息。唯一的问题是我发现 deb 附带的说明令人困惑。我使用的是 Windows 和 iOS 17，并且不确定是否能够在不拿出 MacBook 的情况下执行此操作。这是我找到的说明的链接（在 zip 文件内）https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/Instagram/Rocket/3.7.42/IGSideloadFix-main.zip，如果有人能够指导我通过这个（或者甚至发送一个不和谐的链接，这样会更容易）那就太好了。我之前也只侧载过现成的 ipas。   由   提交 /u/connorbarrownx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bliyl8/help_with_instagram_rocket_sideloading/</guid>
+      <pubDate>Sat, 23 Mar 2024 03:50:29 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰移动战区</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bld3nk/warzone_mobile_netherlands/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Apple 设备除了 appdp 之外的任何东西 这样我就可以再次使用 Snapchat     由   提交 /u/Cocosavage102   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bkh2z1/help/</guid>
       <pubDate>Thu, 21 Mar 2024 20:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>布里奇连接 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bkgo9y/brydge_connect_ipa/</link>
-      <description><![CDATA[大家好， 我想知道是否有人有“Brydge Connect”的 IPA。 该应用程序已不再在 App Store 上提供，但对我和其他人来说也很有用。我尝试几乎所有能找到的地方，但都没有成功。 谢谢！   由   提交/u/TheUnhingedOne  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bkgo9y/brydge_connect_ipa/</guid>
-      <pubDate>Thu, 21 Mar 2024 20:33:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
