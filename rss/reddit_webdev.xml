@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：webdev</title>
+    <link>https://www.reddit.com/r/webdev/new</link>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 23 Mar 2024 00:45:37 GMT</lastBuildDate>
+    <item>
+      <title>我为我的自托管项目制作了一个信息和资源网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</link>
+      <description><![CDATA[您好， 我很想获得一些有关我的自托管产品 HortusFox 的官方主页的反馈。  其目的是让用户对项目有一个印象，尝试演示，查看屏幕截图或下载其工作区的主题。 我不是一个优秀的设计师，但也许您可以给出一些提示，该主页是否足够赏心悦目，以及所提供的信息是否不会让您留下到处问号。 提前谢谢您！ &lt; p&gt;主页链接：https://www.hortusfox.com/    由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>headless cms，如果我是一名开发人员，我应该使用一个还是只使用托管平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</link>
+      <description><![CDATA[我总是有一些个人项目想要测试，看看它们是否在某种程度上具有市场价值。我和自己争论的是，当我试图验证这样一个小想法时，仅仅构建还是值得购买，我会感到沮丧。有没有更好的系统可以快速制作营销创意网站？   由   提交 /u/Routine_Wasabi_4318   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于切换主机的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</link>
+      <description><![CDATA[Webdevs 您好，如果这是错误的子项，我深表歉意，我只是想确保我所做的一切都是正确的。我目前是一个组织的网站管理员，该组织有一个相当旧的网站，我们正在将其转移到另一个主机（目前使用 iPower 托管，并将切换到 Bluehost）。我的问题是：当我为新主机（bluehost）购买新软件包时，切换域所需要做的就是更改域（godaddy）的 DNS 设置以指向新服务器（例如 ns1.1）。 bluehost.com）？该网站的当前主机已经过期，并且目前将我锁定在所有设置之外，因此我只想确保我们基本上可以离开它，并能够通过域和主机网站处理所有事情。如果这是错误的子项，请再次道歉，我只是想彻底。   由   提交/u/Aaroniero432   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这家伙在说什么工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</link>
+      <description><![CDATA[       由   提交/u/mnsfjkllhlkdjsg   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，我有一个问题，如何对这些圆圈进行编码，以便无论屏幕大小如何，它们都保持固定在一个位置？我正在使用 Reactjs。我有一个与产品类似的图像，我想放置指示器，但当我调整它们的大小时它们会移动。谁能帮助我更好地理解这一点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</link>
+      <description><![CDATA[    /u/Adnannicetomeetyou   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:45:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以通过 Wireshark 将您的 Wi-Fi 数据包发送到 HTTPS 连接吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</link>
+      <description><![CDATA[假设您在本地 WiFi 网络上请求了一个 HTTPS 页面。 同一 LAN 中的其他人正在进行 Wireshark/嗅探周围并找到您的传出（甚至传入？）HTTPS/TCP 数据包以查看您请求的网页。 虽然数据包已加密并且并非全部一次性发送（由于 TCP 握手和协议）对于请求，理论上有人可以重新发送这些确切的数据包并基本上查看您请求的页面吗？如果数据包数据包含访问令牌，甚至可以查看您登录的页面？ 如果没有，其他人是否也可以在 Wireshark 上至少查看您请求的 URL？假设您没有使用 VPN？   由   提交/u/nazuralift89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在学习 Web 开发在未来 5 年后仍然值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</link>
+      <description><![CDATA[我最近学习了 Web 开发，刚刚开始学习 javascript，我真的很喜欢它，我听到了很多关于“AI”的内容。现在就像“devin”一样我想知道从长远来看这是否值得，你认为这个职业现在和未来五年值得追求吗？我想听听您的想法，谢谢！   由   提交/u/Mahalkita12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找社交媒体和消息应用程序的深层链接 URL 列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</link>
+      <description><![CDATA[     &lt; /td&gt; 您好， 我希望我的用户能够通过社交媒体或消息共享联系人卡片应用。我了解共享 API，我需要处理其他情况。 我找不到详尽或最新的列表，而且服务对此并不真正透明。 我找不到它们的详尽或最新列表。 p&gt; 这是我迄今为止发现的内容。希望您会发现它有用。 谢谢:) https://preview.redd.it/ppzgg0yuzypc1.png?width=1551&amp;format=png&amp;auto=webp&amp;s=95f12e641fe6df5a3f34c85abd11 82c5c37b467e &lt; /div&gt;  由   提交/u/yule-never-know   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node.js TSC 确认：无意从发行版中删除 npm</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>被 Javascript 的语法和逻辑淹没</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</link>
+      <description><![CDATA[我已经编码了一段时间（总是使用 Java 和一点 Python），并且我正在尝试接触 Web 开发第一次。 在查看 JS 代码时，我很难理解发生了什么。 一堆单独挂起的浮动方法（就像那些 .then( ) 只是悬而未决)？ 将函数定义为常量？ 像 =()=&gt; 这样的奇怪且令人困惑的语法？&lt; /p&gt; 有时，函数后面会出现一些奇怪的调用，这些调用只是单独挂起？ “Lifecycles”、“promises”、“closures”、...？ &lt; p&gt;然后我看到一些关于状态、效果和其他我不知道的东西的讨论。 老实说，我只是不知所措，感觉学习 Web 开发或 JS 一般只是另一个游戏共。有没有更简单的方法来接近它？一个有用的框架，用 JS 还是其他语言？   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</guid>
+      <pubDate>Fri, 22 Mar 2024 22:45:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>历史学学士学位不知道要进入这个行业。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</link>
+      <description><![CDATA[您好，刚刚完成了我的历史学士学位课程，我想最终转向 Web 开发。我只是很迷失。我应该获得证书吗？只是参加训练营吗？等等我打算学习能够如此全栈。    由   提交 /u/itsmychin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</guid>
+      <pubDate>Fri, 22 Mar 2024 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Html、CSS、JS 网站到 Wordpress 的转换器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blas4l/convertor_for_html_css_js_website_to_wordpress/</link>
+      <description><![CDATA[我用上述语言制作了一个网站，但客户希望能够自己更新博客。有可靠的转换器可以做到这一点吗？谢谢   由   提交 /u/HeyDannie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blas4l/convertor_for_html_css_js_website_to_wordpress/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我的应用程序是 GPT-Wrapper，那么 Google 只是一个“数据库包装器”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blajn7/if_my_app_is_a_gptwrapper_then_google_is_just_a/</link>
+      <description><![CDATA[   /u/Starks-Technology  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blajn7/if_my_app_is_a_gptwrapper_then_google_is_just_a/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对没有 Mac 的网络开发人员的浏览器测试建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blab5z/browser_testing_recommendations_for_a_webdev/</link>
+      <description><![CDATA[大家好。我知道这可能会让你们很多人感到震惊，但作为一名网络开发人员，我没有 Mac。有没有一种方法可以在不购买 Mac 的情况下测试浏览器（最新的 Safari）？可能会挖掘 Safari DOM？有没有虚拟机可以测试？   由   提交 /u/bubba_bumble   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blab5z/browser_testing_recommendations_for_a_webdev/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>最喜欢的 github 上应用程序审查工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl9bin/favorite_tool_for_review_apps_on_github/</link>
+      <description><![CDATA[每当有人在 github 上发布其更改的 PR 时，您喜欢使用什么来快速启动网站？我正在查看 Netlify，似乎您只需要链接一个存储库，它就会处理其余的事情，无需编码设置。加上它是免费的。但不确定数据库有多好。你用过什么？   由   提交/u/qpal123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl9bin/favorite_tool_for_review_apps_on_github/</guid>
+      <pubDate>Fri, 22 Mar 2024 20:31:29 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：软件</title>
+    <link>https://www.reddit.com/r/software/new</link>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 23 Mar 2024 00:45:14 GMT</lastBuildDate>
+    <item>
+      <title>将推文转换为视频截图？</title>
+      <link>https://www.reddit.com/r/software/comments/1bld2k4/convert_tweet_to_video_screenshot/</link>
+      <description><![CDATA[嗨，我正在寻找一个应用程序/网站，可以将包含视频的推文转换为视频屏幕截图。让我知道！ 示例：https://www.instagram.com/reel/C4UfzOWNg76/?utm\_source=ig\_web\_copy\_link&amp;igsh=MzRlODBiNWFlZA==    由   提交/u/bryans7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bld2k4/convert_tweet_to_video_screenshot/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows pdf 操作工具？</title>
+      <link>https://www.reddit.com/r/software/comments/1bl92ti/windows_pdf_manipulation_tool/</link>
+      <description><![CDATA[正在寻找一些工具，例如smallpdf/ilovepdf，它可以让我操作pdf。它不需要拥有所有功能，但应该具有拆分/合并功能。 另一个要求是我应该能够使用终端/cmd 使用这些功能（拆分/合并）。 GUI 很好，但我也想要一个带有命令行选项的。   由   提交 /u/YOitsibzi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bl92ti/windows_pdf_manipulation_tool/</guid>
+      <pubDate>Fri, 22 Mar 2024 20:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找基于文本的电子表格应用程序。</title>
+      <link>https://www.reddit.com/r/software/comments/1bl66x4/looking_for_text_base_spread_sheet_app/</link>
+      <description><![CDATA[大家好，我是个奇怪的人，我有一台运行 win10 的电脑，但我禁用了 GUI 并有全屏命令提示符。我是一个 CLI 类型的人。无论如何，我正在寻找一个电子表格应用程序或类似的东西，我可以使用它进行会计，可以在 CLI 或全屏中完全运行，并且它是基于文本的。鼠标支持会很好，但不是必需的。  提前致谢！   由   提交 /u/WildSpell2979   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bl66x4/looking_for_text_base_spread_sheet_app/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arc浏览器是骗局吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1bl43ld/is_arc_browser_a_scam/</link>
+      <description><![CDATA[删除在此 Reddit 子版块上批评浏览器的帖子。甚至禁止对此类帖子发表评论；一个宗派的气场，在社会上是可以感受到的。但最终，除了铬的“青春皮肤”之外，他们还没有解释自己所赋予的是什么。我正在参与测试版计划，对版主的这种行为感到非常不安。   由   提交/u/PianistAncient2954  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bl43ld/is_arc_browser_a_scam/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>维护开发阶段机密安全的 6 个最佳实践</title>
+      <link>https://www.reddit.com/r/software/comments/1bl1wvx/6_best_practices_for_maintaining_development/</link>
+      <description><![CDATA[ 由   提交/u/Mr_Cyber​​Fish  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bl1wvx/6_best_practices_for_maintaining_development/</guid>
+      <pubDate>Fri, 22 Mar 2024 15:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们需要一个卡拉OK歌曲排队的软件（只有排队部分）</title>
+      <link>https://www.reddit.com/r/software/comments/1bkyrru/we_need_a_software_for_karaoke_song_queuing_only/</link>
+      <description><![CDATA[您好，我们定期举办 20-30 人的卡拉 OK 派对。 我们当前的工作流程：  我们有一个数字歌曲列表，客人可以通过手机访问。 一旦客人找到一首或多首他们喜欢的歌曲，他们就会将其写在列表上（笔和纸） 唱完一首歌后，我们会查看（纸质）列表上的下一首歌曲并开始播放  问题：  很难跟踪谁想要哪首歌，因此可能会发生一些人唱了很多歌，而另一些人则等待数小时的情况。但出于实际原因，我们不能要求客人每人只能选择一首歌曲。 （地方很窄，要找到纸质列表并不容易。） 我们无法向客人展示接下来要播放哪些歌曲。因此，有些人等了一个小时才能听歌，而当轮到他们时，他们可能还没有准备好。  我希望有一个通用的软件解决方案来解决这个问题。我们需要的本质上是一个具有以下功能的（免费）软件：  该软件可能在我们自己的服务器上运行，或者它已经是我们可以使用的网站。 用户可以通过网站在手机上查看/搜索项目（歌曲）数据库。 用户可以选择项目并将其添加到队列中。 （或从队列中删除自己以前的项目） 所有用户都可以查看队列（接下来要演唱的歌曲列表） 管理员（活动主持人）可以标记队列中的下一个项目已完成（在卡拉 OK 软件中手动启动该歌曲后）。然后该项目将从队列中删除。 这可能很棘手：队列会自动按照“公平”的顺序排序。方式，例如如果用户 A 将 5 个项目添加到队列 A1 A2 A3 A4 A5，然后用户 B 将 1 个项目添加到队列 B1，则队列如下所示：A1 B1 A2 A3 A4 A5。 （这意味着每个人都有机会在任何人获得下一首歌曲之前唱歌） 队列中的下一个项目可以显示在房间某处的大屏幕上。 （这样客人就知道接下来要播放什么歌曲）  这听起来很简单，但我就是找不到合适的软件，也许我不知道要搜索哪些关键字。不幸的是，我们没有时间自己实现它。再说一遍，我们不需要卡拉 OK 软件，我们已经有了一个我们喜欢的软件。我们只需要一个独立于我们的卡拉 OK 软件来管理歌曲列表的系统。 如果有人有解决方案，那就太好了！   由   提交 /u/ecksofa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkyrru/we_need_a_software_for_karaoke_song_queuing_only/</guid>
+      <pubDate>Fri, 22 Mar 2024 13:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找能力矩阵软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bkunoc/looking_for_compentence_matrix_software/</link>
+      <description><![CDATA[你好， 我正在寻找我们的技术人员可以上传他们的证书/技能的软件，所以我们有一个概述我们公司的所有技术人员。   由   提交/u/SecretArtistic2506   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkunoc/looking_for_compentence_matrix_software/</guid>
+      <pubDate>Fri, 22 Mar 2024 08:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助寻找软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bku6u5/need_help_finding_a_software/</link>
+      <description><![CDATA[我遇到了一个小但很重要的问题。 在我的一个工作流程中，我使用了一款名为 aText 的软件（https://www.trankynam.com/atext/)。软件是一个很棒的文本自动化工具，它允许我在文本中输入“fill”或“c​​ta”等关键字。 （或任何人们想要的单词），它会自动将链接和一堆其他内容填充到不同的列中，这节省了我大量的时间，无需将粘贴内容一遍又一遍地复制到不同的列中。 现在，由于开发商 Trankynam 出于某种原因不再接受付款，我的问题出现了，因为他们提供的免费试用期只有 21 天，并且与使用它的每台设备/计算机绑定。尽管它很便宜，每年只有 5 美元左右，但我不能再使用甚至购买该软件... 所以我向你们提出的问题是，你们是否知道任何类似的软件可以更换它，因为我非常需要它。如果没有这种类型的软件，我的工作流程会显着减慢，这并不理想。不，它不能仅用键盘快捷键功能来替换，因为您将其设置为能够填充多个单独的文本列，并且它还需要能够跳过某些列等。 非常感谢任何帮助！   由   提交 /u/FunPeanut192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bku6u5/need_help_finding_a_software/</guid>
+      <pubDate>Fri, 22 Mar 2024 08:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mega easy DAW，即跨平台？</title>
+      <link>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</link>
+      <description><![CDATA[我需要 Mac 和 Windows 上的 DAW。我需要它非常易于使用。我对水果循环软件感到完全不知所措。真的只在 Vegas Pro 中编辑过我的音频。我在几个项目中使用过车库乐队。但我希望不同操作系统的计算机之间有一个一致的工作流程。主要是我只需要一个具有多种音频效果的多轨编辑器，这些编辑器组织整齐，而且看起来不像百科全书中的术语表。我不在乎是否必须购买一个，只要它简单并且在两个系统上都可以。   由   提交/u/SolidIcecube  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mosbys 护理助理必备知识第四版 CD</title>
+      <link>https://www.reddit.com/r/software/comments/1bkp054/mosbys_essentials_for_nursing_assistants_4th/</link>
+      <description><![CDATA[ 由   提交 /u/AcademicStorm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkp054/mosbys_essentials_for_nursing_assistants_4th/</guid>
+      <pubDate>Fri, 22 Mar 2024 02:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让阅读文档（软件/硬件）不再无聊？</title>
+      <link>https://www.reddit.com/r/software/comments/1bknwqk/how_do_you_make_reading/</link>
+      <description><![CDATA[ 由   提交/u/womhole  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bknwqk/how_do_you_make_reading/</guid>
+      <pubDate>Fri, 22 Mar 2024 01:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>多人创建和编辑文档的最新技术是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1bkl7hj/what_is_the_stateoftheart_for_creating_and/</link>
+      <description><![CDATA[我目前担任我所在城市的一个委员会主席，我们正在编写一份与历史保护相关的报告。在我的日常工作中，我已经迁移到使用谷歌驱动器来处理基本上所有的事情。但对于这个任务，他们似乎想传递Word草稿。我总是发现跟踪多份文档草稿很困难，而且我有点失去理智，哈哈。 无论如何，我想我很好奇：现在其他人都在使用什么？您是否来回传递 Word 文档、使用共享驱动器或其他方式？我一直在四处询问，有些人报告说，在其他情况下（例如：编辑研究生院论文），他们来回传递 Word 文档。只是好奇其他人在做什么，如果我必须这样做，我可以将其与我的驱动器集成，这样我就不必追寻最新的草案吗？   由   提交/u/Wrong-Garden-8495   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkl7hj/what_is_the_stateoftheart_for_creating_and/</guid>
+      <pubDate>Thu, 21 Mar 2024 23:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一种 zip 格式可以具有加密的文件名（打开 zip 的密码）但资源管理器可以打开？</title>
+      <link>https://www.reddit.com/r/software/comments/1bkkz2c/is_there_a_zip_format_that_can_have_encrypted/</link>
+      <description><![CDATA[我有想要保护的文件，但即使我无法访问安装了 WinRAR 或 7-Zip 的计算机，仍然可以访问这些文件。是否有这样一种格式，Windows可以读取和打开，但仍然具有“加密文件名”？功能？   由   提交 /u/Damariobros   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkkz2c/is_there_a_zip_format_that_can_have_encrypted/</guid>
+      <pubDate>Thu, 21 Mar 2024 23:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>EPUB 转换</title>
+      <link>https://www.reddit.com/r/software/comments/1bkhw2n/epub_conversion/</link>
+      <description><![CDATA[大家好，我正在紧急寻找一款可以将 PDF 或 InDesign 文件转换为 EPUBS 的软件。没有什么比 Calibre 更好，因为据我所知，这通常对可访问性没有帮助。我正在尝试找到符合 WCAG 标准的东西，或者至少检查可访问性问题。任何帮助，将不胜感激。谢谢。   由   提交/u/prosecutorpbug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkhw2n/epub_conversion/</guid>
+      <pubDate>Thu, 21 Mar 2024 21:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助管理客户的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bkhqyv/software_to_help_manage_clients/</link>
+      <description><![CDATA[我刚刚与VOC康复领域的一位合作伙伴一起开始了一项新业务，担任职业教练。我计划购买的软件 (Setworks) 每月 500 美元，直到我们的案例都满了（呃）之前我才买得起。  与此同时，我需要某种免费或低成本的 CRM 软件，我可以为每个客户建立一个文件，其中包含联系信息、案例说明等，可以与其他用户共享。与 Outlook 进行某种形式的集成会很棒。州政府的账单有特定的格式，所以我可以手动完成。 Windows 平台是必须的，IOS 应用程序会很酷，但实际上没有必要。 我尝试过为 Trello 上的每个客户端提供一张卡片，但这效果不太好。    由   提交 /u/Baird81   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bkhqyv/software_to_help_manage_clients/</guid>
+      <pubDate>Thu, 21 Mar 2024 21:17:35 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

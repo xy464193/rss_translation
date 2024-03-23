@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>拥抱脸 - 博客</title>
+    <link>https://huggingface.co/blog</link>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Fri, 22 Mar 2024 18:13:14 GMT</lastBuildDate>
+    <item>
+      <title>完全新手对拥抱脸部变形金刚的介绍</title>
+      <link>https://huggingface.co/blog/noob_intro_transformers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/noob_intro_transformers</guid>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>二进制和标量嵌入量化可显着加快检索速度并降低成本</title>
+      <link>https://huggingface.co/blog/embedding-quantization</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/embedding-quantization</guid>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>聊天机器人 Guardrails Arena 简介</title>
+      <link>https://huggingface.co/blog/arena-lighthouz</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/arena-lighthouz</guid>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>笔记本电脑上的聊天机器人：Intel Meteor Lake 上的 Phi-2</title>
+      <link>https://huggingface.co/blog/phi2-intel-meteor-lake</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/phi2-intel-meteor-lake</guid>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cosmopedia：如何为预训练大型语言模型创建大规模合成数据</title>
+      <link>https://huggingface.co/blog/cosmopedia</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cosmopedia</guid>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GaLore：推进消费级硬件的大型模型训练</title>
+      <link>https://huggingface.co/blog/galore</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/galore</guid>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 NVIDIA DGX Cloud 上使用 H100 GPU 轻松训练模型</title>
+      <link>https://huggingface.co/blog/train-dgx-cloud</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/train-dgx-cloud</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quanto：pytorch 量化工具包</title>
+      <link>https://huggingface.co/blog/quanto-introduction</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/quanto-introduction</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 🤗 Optimum Intel 和 fastRAG 进行 CPU 优化嵌入</title>
+      <link>https://huggingface.co/blog/intel-fast-embedding</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/intel-fast-embedding</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 WebSight 数据集解锁 Web 屏幕截图到 HTML 代码的转换</title>
+      <link>https://huggingface.co/blog/websight</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/websight</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ConTextual 简介：您的多模态模型在文本丰富的场景中联合推理文本和图像的能力如何？</title>
+      <link>https://huggingface.co/blog/leaderboard-contextual</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-contextual</guid>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据结合在一起效果更好</title>
+      <link>https://huggingface.co/blog/community-datasets</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/community-datasets</guid>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔® Gaudi® 2 人工智能加速器上的文本生成管道</title>
+      <link>https://huggingface.co/blog/textgen-pipe-gaudi</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/textgen-pipe-gaudi</guid>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>StarCoder2 和 Stack v2</title>
+      <link>https://huggingface.co/blog/starcoder2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/starcoder2</guid>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TTS Arena：在野外对文本转语音模型进行基准测试</title>
+      <link>https://huggingface.co/blog/arena-tts</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/arena-tts</guid>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
