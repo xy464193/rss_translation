@@ -4,13 +4,34 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 25 Mar 2024 15:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:10:45 GMT</lastBuildDate>
     <item>
-      <title>有人可以向我发送 YouTube Ultimate 的链接吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bnfruy/can_someone_send_me_link_for_youtube_ultimate/</link>
-      <description><![CDATA[一直在寻找此应用程序的新链接，找不到任何人可以发送它   由   提交/u/thunderstriker1098   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bnfruy/can_someone_send_me_link_for_youtube_ultimate/</guid>
-      <pubDate>Mon, 25 Mar 2024 14:59:31 GMT</pubDate>
+      <title>我该如何托管 ESign 存储库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnjozh/what_do_i_host_a_repo_for_esign/</link>
+      <description><![CDATA[我已经看过 AltStore 的指南，我唯一的问题是我可以在哪里托管文件我是否需要自己的 ipa 服务器/网站要链接它们，我可以使用 GitHub 吗？如果我想把它做得更大。可能吗？   由   提交/u/Tight_Presence_9055   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnjozh/what_do_i_host_a_repo_for_esign/</guid>
+      <pubDate>Mon, 25 Mar 2024 17:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有生成启用 HealthKit/其他功能的开发人员证书的指南吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bni7sj/does_anyone_have_a_guide_for_generating_a/</link>
+      <description><![CDATA[大家好， 我一直在通过我的个人开发帐户使用 Sidestore，并且在获取应用程序时没有遇到任何问题运行，但任何提供 HealthKit 集成的应用程序似乎都无法在我当前的 Sidestore 设置中开箱即用。我知道一些出售开发证书的服务会宣传启用的 HealthKit/VPN 权利，但由于我有自己的帐户，所以我更愿意学习如何创建自己的帐户。我遵循了一个现已不复存在的论坛上的指南，显然我不允许链接到该指南，该指南教我如何生成 .p12 和 mobileprovision 文件，并且我看到了启用其中一些功能的能力，但它们对我来说是灰色的，这意味着指南的某些步骤不允许启用它们。我不确定启用这些功能是否是 E-sign 或 SideTools 中的一个选项，因为我没有足够的时间来研究这些服务，但我的理解是这是创建证书时需要启用的东西。由于我没有找到概述如何使用功能/权利设置这些证书的全面指南，因此我想我应该在这里询问。 提前非常感谢，非常感谢您的帮助！    由   提交/u/bakaraka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bni7sj/does_anyone_have_a_guide_for_generating_a/</guid>
+      <pubDate>Mon, 25 Mar 2024 16:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 iOS 17.4，我是否可以在不付费成为 Apple 开发者的情况下最多只安装 3 个在 iOS 上加载的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/</link>
+      <description><![CDATA[我在这方面有点菜鸟，但我正在使用 iOS 17.4 侧载方式在 iPhone 11 上安装 ipa 应用程序？ &lt; /div&gt;  由   提交 /u/Visible-Employment43    reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/</guid>
+      <pubDate>Mon, 25 Mar 2024 16:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的应用程序签名服务？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bngph8/best_app_signing_service/</link>
+      <description><![CDATA[最佳应用签名服务？ 您会选择哪一个？您的体验如何？您有通知吗？   由   提交/u/Lekowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bngph8/best_app_signing_service/</guid>
+      <pubDate>Mon, 25 Mar 2024 15:37:38 GMT</pubDate>
     </item>
     <item>
       <title>此列表中未检测到哪些社交媒体调整</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我有一个用于 insta 的 nyx 版本，我不断收到 am 更新的弹出窗口，但该链接将我带到 telegram，并且只有列出 deb 文件。我如何获取 ipa 文件以便侧面加载它？    由   提交 /u/Kindly_Cucumber_8377   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bmv5w9/sideloading_an_app_from_a_deb_file/</guid>
       <pubDate>Sun, 24 Mar 2024 20:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是唯一一个在猩红色上“无法打开zip文件”的人吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmtkj5/am_i_the_only_one_whos_getting_failed_to_open_zip/</link>
-      <description><![CDATA[更具体地说是在尝试安装 youtube 时。这种情况已经发生两周了。我使用猩红云通过闪电电缆将我的 ipad 连接到 Windows 电脑   由   提交 /u/rickyesto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmtkj5/am_i_the_only_one_whos_getting_failed_to_open_zip/</guid>
-      <pubDate>Sun, 24 Mar 2024 19:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在启用 SponsorBlock 的同时仍让修改后的 YouTube IPA 正常工作？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmsfcr/is_there_a_way_to_enable_sponsorblock_and_still/</link>
-      <description><![CDATA[目前我必须禁用它，否则我测试过的所有 YouTube IPA（YTLitePlus 和 uYouEnhanced）都会在启动时崩溃。    由   提交 /u/yellowroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmsfcr/is_there_a_way_to_enable_sponsorblock_and_still/</guid>
-      <pubDate>Sun, 24 Mar 2024 19:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLite Plus 和 uYouEnhanced 播放历史记录功能损坏（不记得您在哪里暂停并希望从哪里恢复视频）？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmse0x/ytlite_plus_uyouenhanced_playback_history_feature/</link>
-      <description><![CDATA[YTLite Plus &amp; uYouEnhanced 不记得我在哪里暂停了视频并希望继续播放所述视频。 YouTube 历史记录已启用。在我的桌面上，它会完美地记住我暂停视频的位置，因此我知道问题肯定是由于某种方式修改的 YouTube IPA 造成的。  我尝试过的每个经过修改的 YouTube IPA 都不会记住我的进度，并且会从头开始播放。 ​   由   提交 /u/yellowroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmse0x/ytlite_plus_uyouenhanced_playback_history_feature/</guid>
-      <pubDate>Sun, 24 Mar 2024 18:59:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
