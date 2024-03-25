@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 21:07:25 GMT</lastBuildDate>
+    <item>
+      <title>免费 ipa 安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnoqtr/free_ipa_install/</link>
+      <description><![CDATA[有人知道有什么免费方法可以将 ipa 文件安装到我的手机上吗？最好没有电脑，但我不介意它是否包含电脑。    由   提交 /u/Mediocre_Bar1293   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnoqtr/free_ipa_install/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>伙计们，有人有迪士尼+的ipa吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bno2h2/guys_does_anyone_has_an_ipa_for_disney/</link>
+      <description><![CDATA[我试图查找它，但所有 ipa 文件都不起作用   &amp; #32；由   提交/u/MessageAggressive186   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bno2h2/guys_does_anyone_has_an_ipa_for_disney/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnnqev/scarlet_certificate/</link>
+      <description><![CDATA[等了8天还是被撤销了，是不是要等30d+ &lt;!-- SC_ON - -&gt;  由   提交/u/NRGmason48  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnnqev/scarlet_certificate/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 和动态岛虫</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnmyqv/youtube_and_dynamic_island_bug/</link>
+      <description><![CDATA[      大家好！  每个 Modded YT IPA 中都存在一个关于 Dynamic Island 的错误 - DI 始终处于活动状态，即使应用程序已打开并正在观看视频，并且如果您在不在应用程序中时按下它，它不会像其他 DI 应用程序那样跳入其中 https://preview.redd.it/u1r5eo7o9jqc1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=2c8d4b4ced4fa8c7d09fb35e51100ceb09b207e5  我看到其他人有这个问题也是如此（示例）。  我的第一个问题 - 有什么方法可以解决这个问题吗？也许删除可以让 YT 在后台工作的 mod，即使你没有 Premium（我确实这样做，但我真的没有看到它的好处） 此外，我发现该错误存在是因为签名应用程序/服务需要正确的权利，并且只有当您使用您的帐户（即 SideStore）时才能修复该错误，但没有通知。  我的第二个问题（也许u/appdb_official你可以提供更好的答案，因为这是你的日常生活域或之前尝试过此方法的任何人），因为我在任何地方都找不到答案 - 假设我购买了 99 美元的开发者帐户。 Sidestore 会自动启用通知、VPN 等的权利。 b。如果没有，我知道我必须生成 mobileprovision 文件并使用它们签署应用程序。由于我使用的是我的帐户而不是来自互联网的证书，这会修复 Youtube 通知错误吗？  提前谢谢大家！  ​   由   提交/u/GrPK  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnmyqv/youtube_and_dynamic_island_bug/</guid>
+      <pubDate>Mon, 25 Mar 2024 19:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarlet 无法在 IOS 17.4.1 上验证？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bnkqyx/scarlet_cannot_be_verified_on_ios_1741/</link>
+      <description><![CDATA[我多次尝试下载 Scarlet，但安装后却出现错误“无法安装此应用程序，因为其完整性无法保证”待核实”。进入设备管理不会显示任何开发人员进行验证，iPhone 或 iPad 也不会将该应用程序显示为完全安装的应用程序。   由   提交 /u/ThatKoza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bnkqyx/scarlet_cannot_be_verified_on_ios_1741/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:20:17 GMT</pubDate>
+    </item>
     <item>
       <title>我该如何托管 ESign 存储库</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bnjozh/what_do_i_host_a_repo_for_esign/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我可以像 1-2 周前那样下载应用程序，有修复吗？   由   提交/u/POG_TROLLUWU   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bn73qy/scarlet_saying_unable_to_download_apps/</guid>
       <pubDate>Mon, 25 Mar 2024 06:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最好的 Spotify 应用程序是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bn72k5/whats_the_best_alt_spotify_app_currently/</link>
-      <description><![CDATA[Spotify++ Spotilife 或 Spotify++ w/ sposify   由   提交/u/_SlothTheWizard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bn72k5/whats_the_best_alt_spotify_app_currently/</guid>
-      <pubDate>Mon, 25 Mar 2024 06:38:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前旁加载应用程序的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmxyf4/what_is_the_best_way_to_sideload_apps_right_now/</link>
-      <description><![CDATA[目前旁加载应用程序的最佳方式是什么？   由   提交/u/Lekowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmxyf4/what_is_the_best_way_to_sideload_apps_right_now/</guid>
-      <pubDate>Sun, 24 Mar 2024 22:48:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>巨魔商店 17.4？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmweqg/trollstore_174/</link>
-      <description><![CDATA[有谁知道 trollstore 是否会很快升级到 ios 17.4？  &amp; #32；由   提交 /u/Weirdoyoghurt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmweqg/trollstore_174/</guid>
-      <pubDate>Sun, 24 Mar 2024 21:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 Instagram 侧载以及保存视频等的调整是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmw335/what_is_the_best_instagram_sideload_with_tweak_to/</link>
-      <description><![CDATA[通过调整来保存视频等的最佳 Instagram 侧载是什么？  &amp;# 32；由   提交/u/Lekowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmw335/what_is_the_best_instagram_sideload_with_tweak_to/</guid>
-      <pubDate>Sun, 24 Mar 2024 21:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 deb 文件旁加载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bmv5w9/sideloading_an_app_from_a_deb_file/</link>
-      <description><![CDATA[大家好，我有一个用于 insta 的 nyx 版本，我不断收到 am 更新的弹出窗口，但该链接将我带到 telegram，并且只有列出 deb 文件。我如何获取 ipa 文件以便侧面加载它？    由   提交 /u/Kindly_Cucumber_8377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bmv5w9/sideloading_an_app_from_a_deb_file/</guid>
-      <pubDate>Sun, 24 Mar 2024 20:53:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
