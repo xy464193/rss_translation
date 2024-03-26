@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 26 Mar 2024 12:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:08:42 GMT</lastBuildDate>
+    <item>
+      <title>这是我可以在 iPhone 上下载更多游戏的一种方式吗？它说我必须等待 7 天，而且我不知道如何制作新的 Apple ID，而且我不想获得新的，因为我的主 ID 中包含所有内容。请帮忙</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bo9h0k/is_it_a_way_i_can_download_more_games_on_my/</link>
+      <description><![CDATA[帮我解决这个问题   由   提交/u/LeadSmart4415   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bo9h0k/is_it_a_way_i_can_download_more_games_on_my/</guid>
+      <pubDate>Tue, 26 Mar 2024 14:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要安装这些应用程序，没有3个限制应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/</link>
+      <description><![CDATA[应用程序列表  -Rocket -Apollo    tiktok god  Facebook 无广告/Messenger shark Facetune 或 Dazz Cam 或 picsart Twitter  Tinder p&gt;   由   提交 /u/Visible-Employment43    reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/</guid>
+      <pubDate>Tue, 26 Mar 2024 14:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载调整后的应用程序而不替换原始应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bo6yj0/sideloaded_tweaked_app_without_replacing_original/</link>
+      <description><![CDATA[有没有办法在同一设备上并行运行应用程序的侧载调整版本与原始未修改的应用程序？ &lt; p&gt;​   由   提交 /u/sobresal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bo6yj0/sideloaded_tweaked_app_without_replacing_original/</guid>
+      <pubDate>Tue, 26 Mar 2024 12:42:42 GMT</pubDate>
+    </item>
     <item>
       <title>影盒邀请码</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bo4p9u/moviebox_invite_code/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>为什么显示 iCloud 未找到？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bny208/why_does_it_say_icloud_not_found/</link>
-      <description><![CDATA[      我已经完成了我应该做的一切，但它仍然显示此消息。有人可以帮忙吗？   由   提交 /u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我已经完成了我应该做的一切，但它仍然显示此消息。有人可以帮忙吗？   由   提交/u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bny208/why_does_it_say_icloud_not_found/</guid>
       <pubDate>Tue, 26 Mar 2024 03:33:57 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我多次尝试下载 Scarlet，但安装后却出现错误“无法安装此应用程序，因为其完整性无法保证”待核实”。进入设备管理不会显示任何开发人员进行验证，iPhone 或 iPad 也不会将该应用程序显示为完全安装的应用程序。   由   提交 /u/ThatKoza   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bnkqyx/scarlet_cannot_be_verified_on_ios_1741/</guid>
       <pubDate>Mon, 25 Mar 2024 18:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有生成启用 HealthKit/其他功能的开发人员证书的指南吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bni7sj/does_anyone_have_a_guide_for_generating_a/</link>
-      <description><![CDATA[大家好， 我一直在通过我的个人开发帐户使用 Sidestore，并且在获取应用程序时没有遇到任何问题运行，但任何提供 HealthKit 集成的应用程序似乎都无法在我当前的 Sidestore 设置中开箱即用。我知道一些出售开发证书的服务会宣传启用的 HealthKit/VPN 权利，但由于我有自己的帐户，所以我更愿意学习如何创建自己的帐户。我遵循了一个现已不复存在的论坛上的指南，显然我不允许链接到该指南，该指南教我如何生成 .p12 和 mobileprovision 文件，并且我看到了启用其中一些功能的能力，但它们对我来说是灰色的，这意味着指南的某些步骤不允许启用它们。我不确定启用这些功能是否是 E-sign 或 SideTools 中的一个选项，因为我没有足够的时间来研究这些服务，但我的理解是这是创建证书时需要启用的东西。由于我没有找到概述如何使用功能/权利设置这些证书的全面指南，因此我想我应该在这里询问。 提前非常感谢，非常感谢您的帮助！    由   提交/u/bakaraka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bni7sj/does_anyone_have_a_guide_for_generating_a/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:39:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于 iOS 17.4，我是否可以在不付费成为 Apple 开发者的情况下最多只安装 3 个在 iOS 上加载的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/</link>
-      <description><![CDATA[我在这方面有点菜鸟，但我正在使用 iOS 17.4 侧载方式在 iPhone 11 上安装 ipa 应用程序？ &lt; /div&gt;  由   提交 /u/Visible-Employment43    reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bnhnyx/with_ios_174_can_i_only_install_a_maximum_3_apps/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的应用程序签名服务？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bngph8/best_app_signing_service/</link>
-      <description><![CDATA[最佳应用签名服务？ 您会选择哪一个？您的体验如何？您有通知吗？   由   提交/u/Lekowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bngph8/best_app_signing_service/</guid>
-      <pubDate>Mon, 25 Mar 2024 15:37:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
