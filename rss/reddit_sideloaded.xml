@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 26 Mar 2024 18:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:08:04 GMT</lastBuildDate>
+    <item>
+      <title>苹果全球开发者大会| 2024 年 6 月 10 日</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1boigmo/apple_worldwide_developer_conference_june_10_2024/</link>
+      <description><![CDATA[    /u/GregWanta   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1boigmo/apple_worldwide_developer_conference_june_10_2024/</guid>
+      <pubDate>Tue, 26 Mar 2024 20:40:45 GMT</pubDate>
+    </item>
     <item>
       <title>supercell 游戏的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bod1ut/issue_with_supercells_games/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>为什么显示 iCloud 未找到？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bny208/why_does_it_say_icloud_not_found/</link>
-      <description><![CDATA[      我已经完成了我应该做的一切，但它仍然显示此消息。有人可以帮忙吗？   由   提交/u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我已经完成了我应该做的一切，但它仍然显示此消息。有人可以帮忙吗？   由   提交 /u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bny208/why_does_it_say_icloud_not_found/</guid>
       <pubDate>Tue, 26 Mar 2024 03:33:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[等了8天还是被撤销了，是不是要等30d+ &lt;!-- SC_ON - -&gt;  由   提交/u/NRGmason48  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bnnqev/scarlet_certificate/</guid>
       <pubDate>Mon, 25 Mar 2024 20:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 和动态岛虫</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bnmyqv/youtube_and_dynamic_island_bug/</link>
-      <description><![CDATA[      大家好！  每个 Modded YT IPA 中都存在一个关于 Dynamic Island 的错误 - DI 始终处于活动状态，即使应用程序已打开并正在观看视频，并且如果您在不在应用程序中时按下它，它不会像其他 DI 应用程序那样跳入其中 https://preview.redd.it/u1r5eo7o9jqc1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=2c8d4b4ced4fa8c7d09fb35e51100ceb09b207e5  我看到其他人有也是这个问题（示例）。  我的第一个问题 - 有什么方法可以解决这个问题吗？也许删除可以让 YT 在后台工作的 mod，即使你没有 Premium（我确实这样做，但我真的没有看到它的好处） 此外，我发现该错误存在是因为签名应用程序/服务需要正确的权利，并且只有当您使用您的帐户（即 SideStore）时才能修复该错误，但没有通知。  我的第二个问题（也许u/appdb_official你可以提供更好的答案，因为这是你的日常生活域或之前尝试过此方法的任何人），因为我在任何地方都找不到答案 - 假设我购买了 99 美元的开发者帐户。 Sidestore 会自动启用通知、VPN 等的权利。 b。如果没有，我知道我必须生成 mobileprovision 文件并使用它们签署应用程序。由于我使用的是我的帐户而不是来自互联网的证书，这会修复 Youtube 通知错误吗？  提前谢谢大家！  ​   由   提交/u/GrPK  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bnmyqv/youtube_and_dynamic_island_bug/</guid>
-      <pubDate>Mon, 25 Mar 2024 19:46:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
