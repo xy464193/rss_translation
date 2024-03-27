@@ -4,11 +4,39 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 27 Mar 2024 15:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 18:10:53 GMT</lastBuildDate>
+    <item>
+      <title>在有/没有计算机的情况下在 ios 15.3-17.4.1 上进行旁加载的教程</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bp8eib/tutorial_to_sideload_on_ios_1531741_withwithout_a/</link>
+      <description><![CDATA[事先我的英语很糟糕，因为我是德国人 没有电脑(对于大多数人来说） 第一。打开 Safari 第二。打开 usescarlet.com 或 installonair.com 第三为猩红色。滚动直到看到安装按钮，正常情况下，站点应该打开，关闭它，然后再次单击安装，您将被重定向到安装界面，只需单击直接安装，站点将再次打开，只需再次关闭它，然后再次单击直接安装，只需等待 10秒，然后在弹出窗口中单击“打开 itunes”，然后单击“安装”，现在将安装 Scalet，但在打开 Scarlet 之前，请转到“设置”，然后“常规/VPN 和设备管理”，单击企业应用程序并信任，然后“Scarlet”应该打开 第三个用于安装。单击“选择文件”并选择要安装的 ipa，然后单击“提交”，只需等待上传完成，您将看到一个显示的链接，因此复制并粘贴它，打开链接，然后按“单击此处安装”，只需再次单击“安装”并执行相同的操作步数与猩红步数相同 第四。下载防撤销的配置文件（您无法更新手机）https://mobileconfig.ezfn.app/（是的，这是来自 &lt; a href=&quot;https://ezfn.dev&quot;&gt;ezfn.dev iPhone 上 OG fortnite 的提供商）（我的 dns 配置文件，您无法使用 icloud 服务器（应用商店等服务）  对于计算机用户 1.打开Chrome/Firefox/Opera（NO EDGE IS IT SHIT，只需安装其他浏览器BRO） 2.打开&lt; a href=&quot;https://altstore.io/&quot;&gt;https://altstore.io/ 或 Sideloadly.io（两者需要您的苹果 ID，不，他们不会出售您的数据！） 3th 对于 Altstore。通过单击“获取 Altstore”并安装适合您操作系统的正确版本来下载 Altstore 服务器，然后打开适用于 mac 的 dmg/pkg或 Windows 的 exe 相信它！就像没有电脑的一样 对于 WIndows：在安装 Altstore 之前，在 youtube 上安装 itunes 和 icloud，您会找到相关教程，当其他两个都安装时软件已安装，只需打开安装程序并安装...打开 Altstore，您将看到它出现在右上角，单击显示的箭头，然后左键单击 altstore 徽标，然后将您的 iphone/ipad/ipod 连接到您的 PC，然后单击安装并选择您的 idevice，它会安装，但在它之前会要求您输入 Apple ID 登录，因此只需将其放入（它只是将其发送到 Apple 服务器），它现在就会慢慢安装 对于 Mac：其与 Windows 几乎相同，但有一些其他内容，因此只需观看视频或尝试自己完成 第 3 个用于 Sideloadly。打开https://sideloadly.io/#download这个并在正确下载后单击您的操作系统（64/32位或适用于mac ），打开下载器然后安装，打开sideloadly并插入您的IPA并输入您的apple id并连接您的idevice，如果您想更改某些内容，请单击高级，单击安装并输入您的密码，然后它可能会要求输入刚刚输入的代码您在 idevice 上获得的代码 4th。再次！下载防撤销的配置文件（您无法更新手机）https://mobileconfig.ezfn.app/（是的，这是来自&lt; a href=&quot;https://ezfn.dev&quot;&gt;ezfn.dev iPhone 上的《堡垒之夜》提供商）（我的 DNS 配置文件，您无法使用 icloud 服务器（应用商店等服务） 下载配置文件！（因为您不想在重新启动后被撤销 感谢使用本教程:)  &amp; #32; 提交者    /u/lotosmc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bp8eib/tutorial_to_sideload_on_ios_1531741_withwithout_a/</guid>
+      <pubDate>Wed, 27 Mar 2024 18:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需电脑即可替代设计或侧载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bp78c2/alternative_to_esign_or_sideloading_app_without_pc/</link>
+      <description><![CDATA[最大的设计问题是，在一段时间后，它会开始崩溃，以及由它签名和安装的应用程序。我没有工作电脑或 Mac，所以我无法使用 altstore 等来侧载我拥有的 IPA，所以我需要一种替代方法来签署这些 IPA，或者能够侧载它们而不需要签名   由   提交 /u/ThatKoza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bp78c2/alternative_to_esign_or_sideloading_app_without_pc/</guid>
+      <pubDate>Wed, 27 Mar 2024 17:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Testut 分享了当一切正常运行时，在欧盟从 AltStore 安装应用程序会是什么样子。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bp6hd6/riley_testut_shares_what_installing_an_app_from/</link>
+      <description><![CDATA[ 由   提交/u/cianster4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bp6hd6/riley_testut_shares_what_installing_an_app_from/</guid>
+      <pubDate>Wed, 27 Mar 2024 16:43:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>您更喜欢哪种 Instagram 调整？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bp55cl/which_instagram_tweaks_do_you_prefer/</link>
+      <description><![CDATA[您喜欢哪种 Instagram 调整？   由   提交/u/Lekowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bp55cl/which_instagram_tweaks_do_you_prefer/</guid>
+      <pubDate>Wed, 27 Mar 2024 15:48:38 GMT</pubDate>
+    </item>
     <item>
       <title>UYou + 播放视频时崩溃。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bp2190/uyou_crashes_when_i_play_a_video/</link>
-      <description><![CDATA[我可以观看短片，但如果播放视频就会崩溃。我用的是 3.0.3。它工作正常，然后突然停止工作我已经退出应用程序重新启动我的手机，但没有人知道如何解决这个问题？   由   提交 /u/Yesacchaff   [链接] [评论]]]></description>
+      <description><![CDATA[我可以观看短片，但如果播放视频就会崩溃。我用的是 3.0.3。它工作正常，然后突然停止工作我已经退出应用程序并重新启动了我的手机，但没有人知道如何解决这个问题？   由   提交 /u/Yesacchaff   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bp2190/uyou_crashes_when_i_play_a_video/</guid>
       <pubDate>Wed, 27 Mar 2024 13:35:44 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[是否有我应该知道的 IPA，可以帮助我用非常好的细节和内容自定义我的主屏幕？也许是小部件？   由   提交 /u/Exciting-Yellow1637    reddit.com/r/sideloaded/comments/1boj7gq/customization_home_page/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1boj7gq/customization_home_page/</guid>
       <pubDate>Tue, 26 Mar 2024 21:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果全球开发者大会| 2024 年 6 月 10 日</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1boigmo/apple_worldwide_developer_conference_june_10_2024/</link>
-      <description><![CDATA[    /u/GregWanta   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1boigmo/apple_worldwide_developer_conference_june_10_2024/</guid>
-      <pubDate>Tue, 26 Mar 2024 20:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>supercell 游戏的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bod1ut/issue_with_supercells_games/</link>
-      <description><![CDATA[我无法玩任何 Supercells 游戏 我有 iOS 14.8 和 TrollStore 我无法玩其中任何游戏   由   提交 /u/Ya_Boi_TJ_Fox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bod1ut/issue_with_supercells_games/</guid>
-      <pubDate>Tue, 26 Mar 2024 17:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我可以在 iPhone 上下载更多游戏的一种方式吗？它说我必须等待 7 天，而且我不知道如何制作新的 Apple ID，而且我不想获得新的，因为我的主 ID 中包含所有内容。请帮忙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bo9h0k/is_it_a_way_i_can_download_more_games_on_my/</link>
-      <description><![CDATA[帮我解决这个问题   由   提交/u/LeadSmart4415   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bo9h0k/is_it_a_way_i_can_download_more_games_on_my/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要安装这些应用程序，没有3个限制应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/</link>
-      <description><![CDATA[应用程序列表  -Rocket -Apollo    tiktok god  Facebook 无广告/Messenger shark Facetune 或 Dazz Cam 或 picsart Twitter  Tinder p&gt;   由   提交 /u/Visible-Employment43    reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bo99yi/need_install_thees_app_without_3_restriction_app/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
