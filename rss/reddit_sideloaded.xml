@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 29 Mar 2024 15:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 18:09:36 GMT</lastBuildDate>
+    <item>
+      <title>uyouenhanced 上的“无连接”，尽管它加载缩略图和标题都很好。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqvs3e/no_connection_on_uyouenhanced_even_though_its/</link>
+      <description><![CDATA[我今天早上构建并下载了uyouenhanced，但我还无法观看任何视频。以下是我遇到的问题：  点击视频会使应用程序崩溃 - 这是通过禁用 isponsorblock 解决的 禁用 isponsorblock 后，视频将无法加载，并且屏幕底部显示“无连接” 尝试切换 Google 帐户/频道时也显示“无连接”即使我可以正常加载缩略图。  这里有一些可能很重要的信息：  我的（Iphone 14 plus）今天出现故障。截至今天，Discord 移动版的加载速度也很糟糕（不显示新消息，无法单击邀请链接）。当我打开手机时，我注意到的第一件事就是这两个应用程序坏了。当我连接到 wifi 时，它仍然显示 5g 符号。当我关闭蜂窝网络时，wifi可以工作，但仍然没有符号。 我使用signulous来签署ipa的应用程序和armconverter。 所有其他应用程序都工作正常。 reddit、firefox、imessage 完全正常。 我的其他调整后的应用程序运行得很好，所以与此无关。  ul&gt; 这是我尝试过的：  重新启动手机（两次） 退出应用程序（3次） 尝试不同的调整（ytliteplus）  还有其他可以尝试的吗？我使用的 IPA 可能是问题所在吗？   由   提交/u/Bismth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqvs3e/no_connection_on_uyouenhanced_even_though_its/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何下载设计？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqthhb/how_to_download_esign/</link>
+      <description><![CDATA[我有 ios 17.4 iphone 12 pro max 曾经有一个可以获取 esign beacons.ai/nezus 的网站，现在它已关闭 有没有办法获取 esign 而不需要使用电脑还是笔记本电脑？   由   提交/u/Narrow_Ad8007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqthhb/how_to_download_esign/</guid>
+      <pubDate>Fri, 29 Mar 2024 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqszya/help/</link>
+      <description><![CDATA[所以当我下载带有signulas的旧游戏ipa然后尝试打开它时，它只是说“这个应用程序需要由开发人员更新才能工作在这个版本的 iOS 上”顺便说一句，我在 iphone 15 plus 上使用 17.2.1 ios 版本，所以我不知道我是否需要旧手机或旧 ios 版本，但是是的  &amp; #32；由   提交/u/Limp-Belt2606  /u/Limp-Belt2606 reddit.com/r/sideloaded/comments/1bqszya/help/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqszya/help/</guid>
+      <pubDate>Fri, 29 Mar 2024 16:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 高级版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqs1wi/youtube_premium/</link>
+      <description><![CDATA[有人拥有 YouTube 高级应用吗？我曾经使用过一个，但后来它需要更新，当我下载更新时，它仍然说它已过时，我尝试了 YouTube vanced，它也是一样，我使用的是 android    由   提交/u/I_3G0M4N69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqs1wi/youtube_premium/</guid>
+      <pubDate>Fri, 29 Mar 2024 15:28:00 GMT</pubDate>
+    </item>
     <item>
       <title>侧载应用程序后，如果您不再希望它删除它，它会释放 Apple ID 吗？还是它仍然“用完”，所以即使您之前删除了它，您也必须等待 7 天才能获得新应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bqovmj/after_sideloading_an_app_and_you_dont_want_it/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[iOS 17.4 已经发布有一段时间了，我是欧洲人，老实说只是想尝试整个侧载的事情，所以有吗我可以旁载什么吗？就像字面上的任何东西一样？我正在努力寻找可用于侧面加载的任何内容    由   提交 /u/skielbiowski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bq1zd8/is_there_anything_to_sideload_yet/</guid>
       <pubDate>Thu, 28 Mar 2024 17:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮帮我 B)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bq0kh9/help_me_b/</link>
-      <description><![CDATA[如何在 Linux 上获取猩红云   由   提交 /u/Astrielaos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bq0kh9/help_me_b/</guid>
-      <pubDate>Thu, 28 Mar 2024 16:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何旁加载的 YouTube 应用程序在点击视频时都会崩溃吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bpxlld/any_sideloaded_youtube_app_crashing_when_tapping/</link>
-      <description><![CDATA[YouTube 最近是否进行了某些更改来破坏旁加载的 YouTube 应用？  我一直使用uYou+或uYouEnhanced，但最近几天点击视频时崩溃，我尝试了几个不同的版本以及YTKillerPlus和Cercube之类的东西，但它们都有同样的问题。  p&gt; 有人知道发生了什么事吗？   由   提交 /u/AvarageJailbreakUser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bpxlld/any_sideloaded_youtube_app_crashing_when_tapping/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>APP ID 和安装</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bpwk9t/app_ids_and_installation/</link>
-      <description><![CDATA[      抱歉，如果这是一个愚蠢的问题，但我是新手。我最近下载了 Sidestore 并侧载了一些应用程序，后来我删除了这些应用程序。现在我尝试安装 uYouEnhanced，但即使单击“删除应用程序扩展”，它没有安装。它说我无法注册超过 10 个应用程序 ID。我的问题是，我需要等待 7 天才能安装新应用吗？通过删除应用扩展进行安装是否有任何问题？   由   提交 /u/blanicen   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bpwk9t/app_ids_and_installation/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我尝试在 DolphiniOS 上玩游戏时，它不起作用。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bpvuu8/when_i_try_to_play_games_on_dolphinios_it_doesnt/</link>
-      <description><![CDATA[      第一张图片是尝试使用 AltStore 在 DolphiniOS 上启用 JIT 之后第二张图片是我的屏幕尝试在 DolphiniOS 上玩游戏   由   提交/u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bpvuu8/when_i_try_to_play_games_on_dolphinios_it_doesnt/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:39:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
