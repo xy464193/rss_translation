@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 29 Mar 2024 00:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 03:08:45 GMT</lastBuildDate>
+    <item>
+      <title>启动 Kali Linux 时出现 UTM 错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqeagu/utm_error_when_booting_kali_linux/</link>
+      <description><![CDATA[大家好，我最近遇到了这个错误： “BdsDxe: failed to load Boot0001 &quot;UEFI QEMU QEMU USB HARDRIVE 1-0000:00:04.0-4.1”来自 PciRoot (0x0) /Pci (0x4,0x0) /USB (0x7,0x0) /USB (0×0,0x0) ：未找到 BdsDxe：正在加载 Boot0005“kali”从 HD (1,GPT,F26654A6-AGAD-4CCF-800F-78F7E39DC2 82.0x800,0x100000)/\EFT\kali\grubaa64.efi BdsDxe: 启动 Boot0005“kali”来自 HD (1,GPT,F26654A6-A6AD-4CCF-800F-78F7E39DC 282,0x800,0x100000)/\EFI\kali\grubaa64.efi 欢迎使用 GRUB！错误：找不到文件 /boot/grub/arm64-efi/normal.mod&#39;。幼虫救援&gt;”  当尝试启动 Kali Linux 时。我通过“从UTM库下载预构建”选项安装了Kali Linux，然后按“在UTM中打开”并等待安装和解压完成。然后我启动 Kali Linux 虚拟机，它会抛出此错误 iPhone 8 Plus iOS 16.7.5 Jailbroken with palma1n    ;由   提交/u/External_Nebula_4089   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqeagu/utm_error_when_booting_kali_linux/</guid>
+      <pubDate>Fri, 29 Mar 2024 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助：uyou 增强版 YouTube 不断崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bqc0ht/help_uyou_enhanced_for_youtube_keeps_crashing/</link>
+      <description><![CDATA[我尝试在signulous上重新下载它，每次点击视频都会崩溃。它们是可以工作的旧版本或工作人员吗？   由   提交/u/SCRUBL0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bqc0ht/help_uyou_enhanced_for_youtube_keeps_crashing/</guid>
+      <pubDate>Fri, 29 Mar 2024 00:51:38 GMT</pubDate>
+    </item>
     <item>
       <title>无法安装 youtube 应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bq5rsg/cant_install_youtube_apps/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 28 Mar 2024 20:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>带设计的应用程序打不开</title>
+      <title>带有设计的应用程序打不开</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bq4kdb/apps_with_esign_dont_open/</link>
       <description><![CDATA[嘿，有谁知道为什么有些应用程序在我使用 esign 时打不开？ &lt;!-- SC_ON - -&gt;  由   提交 /u/Dangerous-Blood-9219   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bq4kdb/apps_with_esign_dont_open/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>还有什么可以旁加载的吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bq1zd8/is_there_anything_to_sideload_yet/</link>
-      <description><![CDATA[iOS 17.4 已经发布有一段时间了，我是欧洲人，老实说只是想尝试整个侧载的事情，所以有吗我可以旁载什么吗？就像字面上的任何东西一样？我正在努力寻找可用于侧面加载的任何内容    由   提交 /u/skielbiowski   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 17.4 已经发布有一段时间了，我是欧洲人，老实说只是想尝试一下整个侧载的东西，所以有吗我可以旁加载什么吗？就像字面上的任何东西一样？我正在努力寻找可用于侧面加载的任何内容    由   提交 /u/skielbiowski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bq1zd8/is_there_anything_to_sideload_yet/</guid>
       <pubDate>Thu, 28 Mar 2024 17:56:11 GMT</pubDate>
     </item>
@@ -50,19 +64,19 @@
     <item>
       <title>当我尝试在 DolphiniOS 上玩游戏时，它不起作用。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bpvuu8/when_i_try_to_play_games_on_dolphinios_it_doesnt/</link>
-      <description><![CDATA[      第一张图片是尝试使用 AltStore 在 DolphiniOS 上启用 JIT 之后第二张图片是我的屏幕尝试在 DolphiniOS 上玩游戏   由   提交/u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      第一幅图像是尝试使用 AltStore 在 DolphiniOS 上启用 JIT 之后第二幅图像是我的屏幕尝试在 DolphiniOS 上玩游戏   由   提交 /u/Fine_Attitude1132   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bpvuu8/when_i_try_to_play_games_on_dolphinios_it_doesnt/</guid>
       <pubDate>Thu, 28 Mar 2024 13:39:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Reddit 已经很长时间没有做出任何有效的调整了？</title>
+      <title>为什么 Reddit 很长时间没有做出任何有效的调整？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bpv3cm/why_hasnt_there_been_any_working_reddit_tweaks_in/</link>
       <description><![CDATA[与 YouTube 相比，修改 Reddit 是否更困难？    由   提交 /u/MorePropaganda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bpv3cm/why_hasnt_there_been_any_working_reddit_tweaks_in/</guid>
       <pubDate>Thu, 28 Mar 2024 13:02:47 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 高级版最新版本</title>
+      <title>Spotify Premium 最新版本</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bptj4i/spotify_premium_last_version/</link>
       <description><![CDATA[为什么 Spotify 唯一可用的 ipa 仍然是 8.6.42 版本？什么时候更新啊？或者我是否缺少具有高级功能的较新工作版本？   由   提交/u/Manu45_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bptj4i/spotify_premium_last_version/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>所以是的，我尝试从猩红色中获取 uyou++ 和 lowk 这发生了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bppwq5/so_yeah_i_tried_getting_uyou_from_scarlet_and/</link>
-      <description><![CDATA[所以我在睡觉时使用 uyou++ 来关心自己的生意，因为现在是斋月，我注意到每当我打开时视频应用程序会崩溃。我尝试使用猩红重新安装它，因为我懒得爬到我的电脑上并亲自加载它，考虑到我尝试此操作时大约是凌晨 3:45，我打开猩红并单击 uyou++，当我单击“导出帐户”时;，就像我通常所做的那样，我输入了我的 Apple ID 和密码，就像我对其他所有侧面加载应用程序所做的那样，它似乎工作正常。尽管如此，猩红要求他们提供给我的验证码。我知道我很低调，但为了好玩，我决定这样做，然后一台 MacBook 出现在我的设备中。我立即将其注销并删除了猩红色，再也不想与该应用程序有任何关系。以前都好好的，现在怎么样了？无论如何，js 想分享我有趣的屁股故事哈哈。   由   提交/u/LongjumpingJicama328  [链接] [评论]]]></description>
+      <description><![CDATA[所以我在睡觉时使用 uyou++ 来照顾自己的生意，因为现在是斋月，我注意到每当我打开时视频应用程序会崩溃。我尝试使用猩红重新安装它，因为我懒得爬到我的电脑上并亲自加载它，考虑到我尝试此操作时大约是凌晨 3:45，我打开猩红并单击 uyou++，当我单击“导出帐户”时;，就像我通常所做的那样，我输入了我的 Apple ID 和密码，就像我对其他所有侧面加载应用程序所做的那样，它似乎工作正常。尽管如此，猩红要求他们提供给我的验证码。我知道我很低调，但为了好玩，我决定这样做，然后一台 MacBook 出现在我的设备中。我立即将其注销并删除了猩红色，再也不想与该应用程序有任何关系。以前都好好的，现在怎么样了？不管怎样，js 想分享我有趣的屁股故事哈哈。   由   提交/u/LongjumpingJicama328  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bppwq5/so_yeah_i_tried_getting_uyou_from_scarlet_and/</guid>
       <pubDate>Thu, 28 Mar 2024 07:48:31 GMT</pubDate>
     </item>
@@ -88,20 +102,6 @@
       <description><![CDATA[（我对侧载几乎一无所知，所以如果这是一个愚蠢的问题或者我得到的任何细节不正确，请原谅我） 我有兴趣学习如何侧载，因此我正在阅读有关如何在 sidestore.io 上安装 SideStore 的说明。其中一项说明称，要在“VPN 和 VPN”下批准开发者应用程序。设备管理。”我唯一担心的是我使用的是 iOS 14.4。在我的 iOS 版本上，设置应用程序中的“常规”下不存在此选项卡；只有“VPN 和 VPN”网络”。我会使用它，还是会做一些不同的事情来设置 SideStore？   由   提交 /u/SplinkusDinkus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bpnc1l/sidestore_installation_question/</guid>
       <pubDate>Thu, 28 Mar 2024 04:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚫 信号推送通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bpkvyp/signulous_pushnotifications/</link>
-      <description><![CDATA[如何为调整后的应用程序启用 Signulous 通知？我的 Instagram Rocket 调整版没有显示推送通知。    由   提交 /u/TikTokUser2001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bpkvyp/signulous_pushnotifications/</guid>
-      <pubDate>Thu, 28 Mar 2024 02:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 的新证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bphdsh/new_certs_for_esign/</link>
-      <description><![CDATA[所有证书都已被撤销，我一直想知道是否有新的证书，但我没找到，所以请告诉我是否有有一些   由   提交 /u/achrafhpx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bphdsh/new_certs_for_esign/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:04:44 GMT</pubDate>
     </item>
     <item>
       <title>🚨突发新闻🚨</title>
