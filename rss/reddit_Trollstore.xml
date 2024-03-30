@@ -4,11 +4,11 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 18:10:23 GMT</lastBuildDate>
     <item>
       <title>科彭问题？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/</link>
-      <description><![CDATA[iPhone 6S，iOS 15.8.2 当我按 kopen 注入 trollstore 助手时，键盘重置为正常qwerty 键盘 注入助手需要多长时间？ 我尝试通过 Spotlight 搜索（如本指南中所列：安装 TrollStore (TrollMisaka) | iOS 指南 (cfw.guide))，我目前正在尝试 Safari 编辑：当我访问 Safari 时并按下 kopen，我得到了安装 TrollStore 的选项，但随后它变灰了，现在我再次只有 kopen 选项   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[iPhone 6S，iOS 15.8.2 当我按下 kopen 注入 trollstore 助手时，键盘重置为正常qwerty 键盘 注入助手需要多长时间？ 我尝试通过 Spotlight 搜索（如本指南中所列：安装 TrollStore (TrollMisaka) | iOS 指南 (cfw.guide))，我目前正在尝试 Safari 编辑：当我访问 Safari 时并按下 kopen，我得到了安装 TrollStore 的选项，但随后它变灰了，现在我再次只有 kopen 选项   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/</guid>
       <pubDate>Sat, 30 Mar 2024 11:02:24 GMT</pubDate>
     </item>
@@ -25,13 +25,6 @@
       <description><![CDATA[      简单来说，重建图标缓存是做什么的？以及什么时候使用它？    由   提交/u/james-isreal  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bqj1zm/whats_rebuilt_icon_cache_for/</guid>
       <pubDate>Fri, 29 Mar 2024 07:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么还没有无广告的 Reddit 应用程序？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1bqfuw1/why_isnt_there_a_ad_free_reddit_app_yet/</link>
-      <description><![CDATA[只是想知道   由   提交/u/No-Breakfast-5343  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1bqfuw1/why_isnt_there_a_ad_free_reddit_app_yet/</guid>
-      <pubDate>Fri, 29 Mar 2024 03:58:12 GMT</pubDate>
     </item>
     <item>
       <title>关于安装的小问题</title>
@@ -85,7 +78,7 @@
     <item>
       <title>如何使用 iPhone 提取 .dylib</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bp2jww/how_do_i_extract_dylib_using_iphone/</link>
-      <description><![CDATA[我看到一些阿拉伯人使用 Filza 管理器从 .dylib 文件中提取文件，我想知道我是否也可以做同样的事情...我有TrollStore + Bootstrap...   由   提交/u/Traditional-Night-25   [链接] [评论]]]></description>
+      <description><![CDATA[我看到一些阿拉伯人使用 Filza 管理器从 .dylib 文件中提取文件，我想知道我是否也可以做同样的事情...我有TrollStore + Bootstrap...   由   提交 /u/Traditional-Night-25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bp2jww/how_do_i_extract_dylib_using_iphone/</guid>
       <pubDate>Wed, 27 Mar 2024 13:59:17 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[我在 iPhone SE gen 2 上对 iOS 17.0 执行了“最近的应用程序”TrollStore 操作 - 但现在当我尝试搜索单词或短语时在 iMessage 中，它不会提供完整的结果。  显然这是 17.0 没有正确索引所有内容的一个已知问题。有人知道是否有办法在不更新的情况下解决这个问题？   由   提交 /u/gimmedatpretzel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bo006v/imessage_search_bug/</guid>
       <pubDate>Tue, 26 Mar 2024 05:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>kopen 无法在 iPad Air 2 (iOS 15.8) 上运行</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1blwqpp/kopen_not_working_on_ipad_air_2_ios_158/</link>
+      <description><![CDATA[所以我一直想越狱我的 iPad Air 2，并且我准确地遵循了整个指南，但是当我点击 kopen 时，什么也没发生。  我听说这非常依赖运气，你必须不断点击它直到它最终起作用，但是你可以修改一些设置以使其更快运行吗？    由   提交/u/fazar441  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1blwqpp/kopen_not_working_on_ipad_air_2_ios_158/</guid>
+      <pubDate>Sat, 23 Mar 2024 16:48:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
