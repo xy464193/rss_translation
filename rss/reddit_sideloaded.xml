@@ -4,32 +4,11 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:08:31 GMT</lastBuildDate>
-    <item>
-      <title>Tidal++ HiFi/Master ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bt5dh4/tidal_hifimaster_ipa/</link>
-      <description><![CDATA[Tidal 拥有一些绝对质量最好的音乐文件，但价格太贵，大多数人都买得起。如果他们将成本降低到每月 4.99 美元，就永远不会有 Tidal++。  他们的客户数量可能会超过 Google 和 Spotify。但目前的成本大多数人无法承受。  顺便说一句，因为 Joe Rogan，我和任何理性的人都不会为 Spotify 付费。他是一个纯粹的宣传工厂，充满了亚历克斯·琼斯和 Infowars 等疯子。  他们不提供任何基于事实和经过验证的科学主张的书面证据。任何人都可以声称自己是专家，或者可以声称自己为上帝说话。  骗子、传销、充满阴谋的垃圾，就是我们国家现在这个样子，而且一天天变得更糟的原因。 这也是为什么谷歌充满了非理性和非理性的行为。相信希特勒是他们的守护神的妄想者。这就是为什么 YouTube++ 永远比 Google 自己制作的任何应用程序都要好。 我以前说过，现在还会再说一遍。罗马的崩溃是有原因的。永远不会有足够的 MAGA 帽子，特朗普集会，我们的国家正在迅速追随罗马帝国崩溃的原因。 我仍然请任何人向我解释一本基于特朗普的圣经售价 60 美元，是上帝的善行吗？基督不也是因为同样的原因用鞭子殴打骗子吗？   由   提交 /u/Hoosier4U   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bt5dh4/tidal_hifimaster_ipa/</guid>
-      <pubDate>Mon, 01 Apr 2024 14:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>液化天然气</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bt0nxg/ngl_ipa/</link>
-      <description><![CDATA[我想确认一些事情，因此如果有人可以获得高级版本，请发送   由   提交/u/FadilTalks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bt0nxg/ngl_ipa/</guid>
-      <pubDate>Mon, 01 Apr 2024 10:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要高音ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bsypen/need_trebel_ipa/</link>
-      <description><![CDATA[有没有人提供 Trebel ipa 或任何可用的 ipa 库的链接。 Spotify premium 破解版已离线下载   由   提交/u/FadilTalks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bsypen/need_trebel_ipa/</guid>
-      <pubDate>Mon, 01 Apr 2024 09:00:37 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Apr 2024 18:10:18 GMT</lastBuildDate>
     <item>
       <title>17.2.1 我有哪些选择？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bsykak/1721_what_options_do_i_have/</link>
-      <description><![CDATA[我有一台 iPhone 15 Pro，版本为 17.2.1。这是我的第一部 iPhone，但仍然没有弄清楚有关向设备侧载内容的所有术语。我在从 Android 上切换到所有修改后的应用程序、第三方客户端、高级应用程序等方面遇到了一些困难。例如，我有办法在此版本上使用 YTMusicUltimate 吗？我需要阅读并学习利用哪些内容？还是我现在运气不好？非常感谢一些指导。   由   提交/u/Unhappy_Gas_1984   [链接] [评论]]]></description>
+      <description><![CDATA[我有一台 iPhone 15 Pro，版本为 17.2.1。这是我的第一部 iPhone，但仍然没有弄清楚有关将东西侧面加载到设备的所有术语。我在从 Android 上切换到所有修改后的应用程序、第三方客户端、高级应用程序等方面遇到了一些困难。例如，我有办法在此版本上使用 YTMusicUltimate 吗？我需要阅读并学习利用哪些内容？还是我现在运气不好？非常感谢一些指导。   由   提交/u/Unhappy_Gas_1984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bsykak/1721_what_options_do_i_have/</guid>
       <pubDate>Mon, 01 Apr 2024 08:50:25 GMT</pubDate>
     </item>
@@ -99,7 +78,7 @@
     <item>
       <title>无法将 YTMusicUltimate deb 注入 .ipa 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bsaidc/cant_inject_ytmusicultimate_deb_into_ipa_file/</link>
-      <description><![CDATA[嘿，我在使用 YTMusicUltimate 时遇到了一些问题，我按照官方 github 页面上的步骤操作，我得到了解密的 Youtube Music .ipa 并创建了按照说明在 github 上进行了 fork，并尝试构建它。但构建错误总是在注入调整到提供的 ipa 步骤中失败，并出现错误 Error: Process Completed with exit code 12。 我不知道该怎么做，有人面临同样的问题吗？  P.S.我从 Signulous 获得了已经注入的 .ipa，但要求我有一个 vip iosgods 帐户，这是他们做的还是与原始 github 调整相同？   由   提交 /u/CandaceIsBusting   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在使用 YTMusicUltimate 时遇到了一些问题，我按照官方 github 页面上的步骤操作，我得到了解密的 Youtube Music .ipa 并创建了按照说明在 github 上进行了 fork，并尝试构建它。但是构建错误总是在注入调整到提供的 ipa 步骤时失败，并出现错误 Error: Process Completed with exit code 12。 我不知道该怎么做，有人面临同样的问题吗？  P.S.我从 Signulous 获得了已经注入的 .ipa，但要求我有一个 vip iosgods 帐户，这是他们做的还是与原始 github 调整相同？   由   提交 /u/CandaceIsBusting   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bsaidc/cant_inject_ytmusicultimate_deb_into_ipa_file/</guid>
       <pubDate>Sun, 31 Mar 2024 13:32:37 GMT</pubDate>
     </item>
@@ -109,6 +88,27 @@
       <description><![CDATA[大家好，复活节快乐 ❤️ 有人可以帮助我下载好的 snapfalcon 或 snapchat bvz 我已经禁止了原始的 snapchat 任何推荐吗？ appdb 无法工作，请帮忙❤️❤️❤️❤️   由   提交/u/arniszz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bs9xck/need_recomendation/</guid>
       <pubDate>Sun, 31 Mar 2024 13:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 IOS 上下载 FN 而无需拥有它。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</link>
+      <description><![CDATA[嗨！ 它在这里，我找到了一种在 IOS 设备（旧 szn）上获取 FN 的方法，而无需拥有app pior。 它已经在运行 IOS 17.4 的 iPhone SE 2 上进行了测试，并确认可以正常工作。 它将在运行 IOS 15.3 的 iPhone 7 上进行测试 只有有人想要的时候我才会发布这个方法，如果你想要的话请给我点赞和评论 ​ 谢谢 犁 &lt;3   由   提交 /u/ploughlmao   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</guid>
+      <pubDate>Sun, 31 Mar 2024 12:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我需要一些帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bs8d5d/hello_guys_i_need_some_help/</link>
+      <description><![CDATA[大家好！我需要有人帮助这个链接 https://github.com/dayanch96/YTMusicUltimate 我想要这里的 ipa，我有不知道要这样做，你可以提取它并为我上传并发送链接吗？谢谢   由   提交/u/Sweaty-Cartographer9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bs8d5d/hello_guys_i_need_some_help/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试使用电脑通过 wifi 下载猩红，但它找不到我的手机</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bs7enj/im_trying_to_download_scarlet_using_pc_over_wifi/</link>
+      <description><![CDATA[最初使用的端口“6969”已关闭，我打开它仍然没有任何帮助？   由   提交/u/Vektor801  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bs7enj/im_trying_to_download_scarlet_using_pc_over_wifi/</guid>
+      <pubDate>Sun, 31 Mar 2024 10:39:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
