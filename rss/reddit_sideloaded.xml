@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 01 Apr 2024 18:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 21:07:51 GMT</lastBuildDate>
+    <item>
+      <title>为什么侧载应用程序没有任何声音？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1btfoka/why_do_sideloaded_apps_not_have_any_sound/</link>
+      <description><![CDATA[出于某种原因，侧面加载的应用程序在我的 iPad 上没有任何声音，当我第一次开始侧面加载内容时，我认为这是侧面加载的问题一般来说，但是当我在我的另一台 iPad 上侧载《堡垒之夜》时，我惊讶地发现《堡垒之夜》有声音，就在那时我明白了为什么我在网上找不到任何解决方案来解决我的问题，因为它只发生在我的 iPad 上。出于某种原因，如果我使用耳机，我可以让声音正常工作，但我无法从 iPad 本身获得任何声音，而且我厌倦了每次想玩《堡垒之夜》和《外星人隔离》或任何其他游戏时都必须连接耳机就此而言，侧面加载的应用程序。有人可以帮我解决我的问题吗？   由   提交/u/Yazan124-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1btfoka/why_do_sideloaded_apps_not_have_any_sound/</guid>
+      <pubDate>Mon, 01 Apr 2024 21:04:20 GMT</pubDate>
+    </item>
     <item>
       <title>17.2.1 我有哪些选择？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bsykak/1721_what_options_do_i_have/</link>
-      <description><![CDATA[我有一台 iPhone 15 Pro，版本为 17.2.1。这是我的第一部 iPhone，但仍然没有弄清楚有关将东西侧面加载到设备的所有术语。我在从 Android 上切换到所有修改后的应用程序、第三方客户端、高级应用程序等方面遇到了一些困难。例如，我有办法在此版本上使用 YTMusicUltimate 吗？我需要阅读并学习利用哪些内容？还是我现在运气不好？非常感谢一些指导。   由   提交/u/Unhappy_Gas_1984   [链接] [评论]]]></description>
+      <description><![CDATA[我有一台 iPhone 15 Pro，版本为 17.2.1。这是我的第一部 iPhone，但仍然没有弄清楚有关向设备侧载内容的所有术语。我在从 Android 上切换到所有修改后的应用程序、第三方客户端、高级应用程序等方面遇到了一些困难。例如，我有办法在此版本上使用 YTMusicUltimate 吗？我需要阅读并学习利用哪些内容？还是我现在运气不好？非常感谢一些指导。   由   提交/u/Unhappy_Gas_1984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bsykak/1721_what_options_do_i_have/</guid>
       <pubDate>Mon, 01 Apr 2024 08:50:25 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>无法将 YTMusicUltimate deb 注入 .ipa 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bsaidc/cant_inject_ytmusicultimate_deb_into_ipa_file/</link>
-      <description><![CDATA[嘿，我在使用 YTMusicUltimate 时遇到了一些问题，我按照官方 github 页面上的步骤操作，我得到了解密的 Youtube Music .ipa 并创建了按照说明在 github 上进行了 fork，并尝试构建它。但是构建错误总是在注入调整到提供的 ipa 步骤时失败，并出现错误 Error: Process Completed with exit code 12。 我不知道该怎么做，有人面临同样的问题吗？  P.S.我从 Signulous 获得了已经注入的 .ipa，但要求我有一个 vip iosgods 帐户，这是他们做的还是与原始 github 调整相同？   由   提交 /u/CandaceIsBusting   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在使用 YTMusicUltimate 时遇到了一些问题，我按照官方 github 页面上的步骤操作，我得到了解密的 Youtube Music .ipa 并创建了按照说明在 github 上进行了 fork，并尝试构建它。但构建错误总是在注入调整到提供的 ipa 步骤中失败，并出现错误 Error: Process Completed with exit code 12。 我不知道该怎么做，有人面临同样的问题吗？  P.S.我从 Signulous 获得了已经注入的 .ipa，但要求我有一个 vip iosgods 帐户，这是他们做的还是与原始 github 调整相同？   由   提交 /u/CandaceIsBusting   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bsaidc/cant_inject_ytmusicultimate_deb_into_ipa_file/</guid>
       <pubDate>Sun, 31 Mar 2024 13:32:37 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>如何在 IOS 上下载 FN 而无需拥有它。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</link>
-      <description><![CDATA[嗨！ 它在这里，我找到了一种在 IOS 设备（旧 szn）上获取 FN 的方法，而无需拥有app pior。 它已经在运行 IOS 17.4 的 iPhone SE 2 上进行了测试，并确认可以正常工作。 它将在运行 IOS 15.3 的 iPhone 7 上进行测试 只有有人想要的时候我才会发布这个方法，如果你想要的话请给我点赞和评论 ​ 谢谢 犁 &lt;3   由   提交 /u/ploughlmao   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 它在这里，我找到了一种在 IOS 设备（旧 szn）上获取 FN 的方法，而无需拥有app pior。 它已经在运行 IOS 17.4 的 iPhone SE 2 上进行了测试，并确认可以正常工作。 它将在运行 IOS 15.3 的 iPhone 7 上进行测试 只有人们想要的时候我才会发布这个方法，如果你想要的话请给我点赞和评论 ​ 谢谢 犁 &lt;3   由   提交/u/ploughlmao   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</guid>
       <pubDate>Sun, 31 Mar 2024 12:29:36 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我需要有人帮助这个链接 https://github.com/dayanch96/YTMusicUltimate 我想要这里的 ipa，我有不知道要这样做，你可以提取它并为我上传并发送链接吗？谢谢   由   提交/u/Sweaty-Cartographer9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bs8d5d/hello_guys_i_need_some_help/</guid>
       <pubDate>Sun, 31 Mar 2024 11:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试使用电脑通过 wifi 下载猩红，但它找不到我的手机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bs7enj/im_trying_to_download_scarlet_using_pc_over_wifi/</link>
-      <description><![CDATA[最初使用的端口“6969”已关闭，我打开它仍然没有任何帮助？   由   提交/u/Vektor801  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bs7enj/im_trying_to_download_scarlet_using_pc_over_wifi/</guid>
-      <pubDate>Sun, 31 Mar 2024 10:39:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
