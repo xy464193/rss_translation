@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 01 Apr 2024 21:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:36:18 GMT</lastBuildDate>
+    <item>
+      <title>iOS 中 Sideload 的快速介绍</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bth9gd/fast_intro_for_sideload_in_ios/</link>
+      <description><![CDATA[我刚买了一部 iPhone 15，我喜欢盗版应用程序，我的旧 Android 和其他破解应用程序中有 YouTube Vanced 在这个世界上我应该知道什么才能开始？ 我使用 altstore 旁加载了一些应用程序，但我看到了每 7 天再次签名的问题（我几天前在这里读到了一些替代方案）商店不需要每 7 天重新签名）它是如何运作的？我应该做什么？ 最后，哪一个是我的 iPhone 上应该安装的最佳应用程序？ 谢谢❤️   由   提交 /u/leRetray   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bth9gd/fast_intro_for_sideload_in_ios/</guid>
+      <pubDate>Mon, 01 Apr 2024 22:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[预发布]跨平台Sideloader应用程序（Linux所有架构，macOS，Windows所有架构，不含iCloud）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1btg9rz/prerelease_cross_platform_sideloader_app_linux/</link>
+      <description><![CDATA[你好，我不久前制作了一个开源 Sideloader 应用程序，但从未有时间按照我想要的方式完善它，但因为我不会&#39;暂时无法更新它，我仍然想发布一个版本，因为它仍然可以满足某些用例。 主要功能  开源：这里是代码 https://github.com/Dadoum/Sideloader 我没有记录您的 Apple ID，您可以检查一下！！&lt; /li&gt; 跨平台：使用 x86_64、x86、ARM64 和 ARMv7 上的图形界面支持 Linux，以及使用命令行工具支持这些架构上的所有其他平台。 可移植：只需要这些东西与当前设备（Windows 上的 iTunes、Linux 上的 usbmuxd）以及 OpenSSL（Windows 上不需要 iCloud！）进行通信。 非常快：它可以非常快地签署重型应用程序 &lt; li&gt;SideStore 的自动配对文件设置：有一个选项可以生成它并立即将其放在设备上的正确位置。 管理您的证书、应用程序 ID，并手动签署您的应用程序。  不会触及您来自 iTunes 或系统的凭据。  我自己从头开始制作，大部分内容都是我直接编写的，因此如果您遇到问题，这些问题可能与您在其他软件中遇到的问题不同。 如果您想帮助开发，您可以向存储库做出贡献，如果您喜欢，您可以还可以考虑在 GitHub 赞助商上给我一杯咖啡。 在这里下载预发布版！！ 剩下要做的事：为每个人提供一个 GUI（有一些代码如果有人想在 Qt 前端或 macOS swiftui 上工作，请放在这个地方）   由   提交 /u/DadoumCrafter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1btg9rz/prerelease_cross_platform_sideloader_app_linux/</guid>
+      <pubDate>Mon, 01 Apr 2024 21:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>为什么侧载应用程序没有任何声音？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1btfoka/why_do_sideloaded_apps_not_have_any_sound/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，复活节快乐 ❤️ 有人可以帮助我下载好的 snapfalcon 或 snapchat bvz 我已经禁止了原始的 snapchat 任何推荐吗？ appdb 无法工作，请帮忙❤️❤️❤️❤️   由   提交/u/arniszz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bs9xck/need_recomendation/</guid>
       <pubDate>Sun, 31 Mar 2024 13:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 IOS 上下载 FN 而无需拥有它。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</link>
-      <description><![CDATA[嗨！ 它在这里，我找到了一种在 IOS 设备（旧 szn）上获取 FN 的方法，而无需拥有app pior。 它已经在运行 IOS 17.4 的 iPhone SE 2 上进行了测试，并确认可以正常工作。 它将在运行 IOS 15.3 的 iPhone 7 上进行测试 只有人们想要的时候我才会发布这个方法，如果你想要的话请给我点赞和评论 ​ 谢谢 犁 &lt;3   由   提交/u/ploughlmao   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bs9awa/how_to_download_fn_on_ios_without_having_to_own_it/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我需要一些帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bs8d5d/hello_guys_i_need_some_help/</link>
-      <description><![CDATA[大家好！我需要有人帮助这个链接 https://github.com/dayanch96/YTMusicUltimate 我想要这里的 ipa，我有不知道要这样做，你可以提取它并为我上传并发送链接吗？谢谢   由   提交/u/Sweaty-Cartographer9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bs8d5d/hello_guys_i_need_some_help/</guid>
-      <pubDate>Sun, 31 Mar 2024 11:37:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
