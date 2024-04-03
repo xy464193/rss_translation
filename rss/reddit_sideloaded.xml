@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 02 Apr 2024 21:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:35:12 GMT</lastBuildDate>
+    <item>
+      <title>uYou for YouTube 无法使用，其他人也发生过这种情况吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1budeoa/uyou_for_youtube_doesnt_work_this_happening_with/</link>
+      <description><![CDATA[每当我尝试观看视频时，即使重新下载后，应用程序也会崩溃。其他人也发生过这种情况吗？   由   提交 /u/MrTMemify   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1budeoa/uyou_for_youtube_doesnt_work_this_happening_with/</guid>
+      <pubDate>Tue, 02 Apr 2024 23:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Altstore 和 Sidestore 之间的区别？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bucfzw/differences_between_altstore_and_sidestore/</link>
+      <description><![CDATA[我应该选择哪一个？我刚刚接触侧载，不太了解其中的区别。    由   提交 /u/VKTGC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bucfzw/differences_between_altstore_and_sidestore/</guid>
+      <pubDate>Tue, 02 Apr 2024 22:47:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧存储错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bucbvk/sidestore_error/</link>
+      <description><![CDATA[我尝试安装 sidestore，但它一直显示“无法连接到设备，请确保 WireGuard 已启用并且您已连接到 WiFi”。我已经安装了 WireGuard 并打开了 VPN。我该怎么办？ （我的手机IOS是17）   由   提交 /u/N0nE0vEr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bucbvk/sidestore_error/</guid>
+      <pubDate>Tue, 02 Apr 2024 22:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maplesigner V2 更新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bubi77/maplesigner_v2_update/</link>
+      <description><![CDATA[       您好r/Sideloaded 我们很高兴地宣布，我们将发布 MapleSigner v2&lt; /p&gt; 在此更新中，更改包括 签名设置简介  更改应用程序图标 更改应用程序名称 更改应用程序包 ID  更改应用程序版本和名称简短版本 能够删除应用程序中注入的 Dylibs 更改最低 iOS 版本 更改状态栏类型 删除观看应用 删除 UISupportedDevices  删除 URL 方案 切换 Pro Motion 切换文档浏览器 切换 iTunes文件共享 强制全屏  设置更新包括  清除应用缓存 将存储库导出到回购代码 (base64) 使用回购代码添加回购  我们也很高兴宣布我们自己的 watchOS 应用程序 它具有在您的设备和手表之间进行存储库同步，并允许在 100% swiftUI 中从手表进行无缝侧载。 目前，手表应用程序仅适用于新的和现有的 Pro 客户（需要 Mac 才能获取 UDID）  我们还在开发 macOS 和tvOS 应用程序和 Vision Pro 应用程序。 致敬 MapleSign 团队   由   提交 /u/MapleSignOfficial   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bubi77/maplesigner_v2_update/</guid>
+      <pubDate>Tue, 02 Apr 2024 22:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYou++ 不是侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bubhqr/uyou_isnt_sideloading/</link>
+      <description><![CDATA[我尝试过所有不同类型的 YouTube IPA 来下载 YT，以及许多侧面加载平台来侧面加载应用。但由于某种原因不想侧载。有任何提示   由   提交/u/Xu_TH3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bubhqr/uyou_isnt_sideloading/</guid>
+      <pubDate>Tue, 02 Apr 2024 22:08:35 GMT</pubDate>
+    </item>
     <item>
       <title>deezer 7.15 不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bu95on/deezer_715_not_working/</link>
@@ -15,14 +50,14 @@
     <item>
       <title>是否有许多 IPA 和应用程序的文档？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bu8civ/is_there_a_doc_of_many_ipas_nd_apps/</link>
-      <description><![CDATA[问题   由   提交 /u/SlipSenior655   [链接] [评论]]]></description>
+      <description><![CDATA[问题   由   提交/u/SlipSenior655  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bu8civ/is_there_a_doc_of_many_ipas_nd_apps/</guid>
       <pubDate>Tue, 02 Apr 2024 19:54:29 GMT</pubDate>
     </item>
     <item>
       <title>有关于欧盟侧载的消息吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bu71ee/any_news_on_eu_sideloading/</link>
-      <description><![CDATA[很抱歉，如果这个问题已经得到解答，但在苹果发布 17.4 后我就停止关注新闻了。最终是否有任何可用的“合法”方法？或允许替代应用程序商店？最近有什么消息吗？   由   提交/u/Oskar5707   [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，如果这个问题已经得到解答，但在苹果发布 17.4 后我就停止关注新闻了。最终是否有任何可用的“合法”方法？或允许替代应用程序商店？最近有什么消息吗？   由   提交/u/Oskar5707   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bu71ee/any_news_on_eu_sideloading/</guid>
       <pubDate>Tue, 02 Apr 2024 19:03:34 GMT</pubDate>
     </item>
@@ -34,14 +69,7 @@
       <pubDate>Tue, 02 Apr 2024 18:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify ipa 与歌词</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bu63d3/spotify_ipa_with_lyrics/</link>
-      <description><![CDATA[有谁有 Spotify 的 ipa，其中包含我找不到的歌曲的歌词 😔   由   提交 /u/Positive-Size-8004   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bu63d3/spotify_ipa_with_lyrics/</guid>
-      <pubDate>Tue, 02 Apr 2024 18:27:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>很好的游戏回购</title>
+      <title>好的游戏回购</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bu2gxb/good_repo_for_games/</link>
       <description><![CDATA[不是应用测试人员    由   提交 /u/PlaystormMC   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bu2gxb/good_repo_for_games/</guid>
@@ -57,7 +85,7 @@
     <item>
       <title>如何在没有电脑的情况下免费侧载 esign 和猩红</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bu0wiv/how_to_sideload_with_esign_and_scarlet_without/</link>
-      <description><![CDATA[1. 转到 khoindvn.bio.link 2. 安装设计证书，然后安装设计 aldo 组一 3. 信任开发人员设置&gt;常规&gt; vpn 和设备管理...向下滚动信任开发人员 4. 打开设计 5.单击导入，然后导入证书...。首先导入 p12... p12 密码相同：khoindvn 6。（可选）如果您想前往 usecarlet.com 下载 .IPA，然后单击 import on esign 导入 .IPA 文件 如何使用 E SIGN 1 .单击“导入”，然后导入证书以签署 .IPA，然后是要下载的 ipa 文件   由   提交/u/Amirali420  [链接] [评论]]]></description>
+      <description><![CDATA[1. 转到 khoindvn.bio.link 2. 安装设计证书，然后安装设计 aldo 组一 3. 信任开发人员设置&gt;常规&gt; vpn 和设备管理...向下滚动信任开发人员 4. 打开设计 5.单击导入，然后导入证书...。首先导入 p12... p12 密码相同： khoindvn 6。（可选）如果您想前往 usecarlet.com 下载 .IPA，然后单击 import on esign 导入 .IPA 文件 如何使用 E SIGN 1 .单击“导入”，然后导入证书以签署 .IPA，然后是要下载的 ipa 文件   由   提交/u/Amirali420  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bu0wiv/how_to_sideload_with_esign_and_scarlet_without/</guid>
       <pubDate>Tue, 02 Apr 2024 15:01:10 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨，普通人，不想在这里支付 YouTube 溢价。由于最近向开发者发出的 DMCA 通知，我们现在需要为 YouTube 调整构建自己的 IPA，这需要解密的 YouTube IPA。所以我想知道是否有可靠的来源？ 我看到 arichornlover 在 github 上发布了几次链接，但由于产生的高流量而被删除。在几天前的另一篇文章中，我看到有人提到 https://armconverter.com/decryptedappstore/ ，对此来源有什么想法吗？或者还有其他建议吗？    由   提交/u/sam_el-c  /u/sam_el-c  reddit.com/r/sideloaded/comments/1btukh0/trustworthy_decrypted_yt_ipa_source/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1btukh0/trustworthy_decrypted_yt_ipa_source/</guid>
       <pubDate>Tue, 02 Apr 2024 09:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou+ 和 YouTube Reborn Plus 无法使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1btsul7/uyou_and_youtube_reborn_plus_not_working/</link>
-      <description><![CDATA[过去 2 天前，我的两台设备上都遇到了问题。每次应用程序安装都很好，但刷新后，当您尝试单击视频或按播放列表上的播放键时，它会崩溃。由于某种原因，短裤工作得很好，但当您点击完整长度的视频时，它就会停止工作。 ​ 有人有解决办法吗？我的手机是运行 iOS 16.0.2 的 iPhone 12，我的 iPad 是运行 iPadOS 17.4.1 的第六代。我尝试过重新启动设备并重新安装 AltStore 和所有内容，但似乎没有任何效果。如果可以的话，请提供修复程序，我已经 4 年无法再回到正常的 YouTube 了 😭🙏🏽   由   提交 /u/thatbengaliboi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1btsul7/uyou_and_youtube_reborn_plus_not_working/</guid>
-      <pubDate>Tue, 02 Apr 2024 07:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 中的“无法旁加载：正在搜索 Wi-Fi 设备”消息</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1btqiee/cant_sideloadsearching_for_wifi_devices_message/</link>
-      <description><![CDATA[当我尝试下载 xelahot+anarky 菜单 2.27.1 时，有人知道如何解决此消息吗？在尝试导入时，此消息不断出现它变成猩红色。有解决办法吗？   由   提交 /u/Zealousideal-Knee-72   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1btqiee/cant_sideloadsearching_for_wifi_devices_message/</guid>
-      <pubDate>Tue, 02 Apr 2024 05:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫与汤</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1btmurm/cats_soup/</link>
-      <description><![CDATA[寻找猫和汤更新。它只是循环返回下载应用程序。   由   提交/u/cyndiloo_who  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1btmurm/cats_soup/</guid>
-      <pubDate>Tue, 02 Apr 2024 02:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 中 Sideload 的快速介绍</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bth9gd/fast_intro_for_sideload_in_ios/</link>
-      <description><![CDATA[我刚买了一部 iPhone 15，我喜欢盗版应用程序，我的旧 Android 和其他破解应用程序中有 YouTube Vanced 在这个世界上我应该知道什么才能开始？ 我使用 altstore 旁加载了一些应用程序，但我看到了每 7 天再次签名的问题（我几天前在这里读到了一些替代方案）商店不需要每 7 天重新签名）它是如何运作的？我应该做什么？ 最后，哪一个是我的 iPhone 上应该安装的最佳应用程序？ 谢谢❤️   由   提交 /u/leRetray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bth9gd/fast_intro_for_sideload_in_ios/</guid>
-      <pubDate>Mon, 01 Apr 2024 22:04:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
