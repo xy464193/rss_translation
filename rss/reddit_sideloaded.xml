@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:13:27 GMT</lastBuildDate>
     <item>
       <title>有类似 Tachiyomi/Aidoku 的电子书吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bwbz9d/anything_like_tachiyomiaidoku_for_ebooks/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>UYou+ 和 Uenhanced 未在主页上显示新视频</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bw8c0q/uyou_uenhanced_not_showing_new_videos_on_home_page/</link>
-      <description><![CDATA[有没有人注意到，每当他们进入uYou plus时，主页显示的视频与您关闭应用程序后的完全相同？不确定 3.03 版本是否在 usponsorblock 问题出现后播放，但有没有办法解决这个问题！  注意：我已经尝试过这两个应用程序，它们有相同的问题   由   提交/u/MackJackson768   [链接] [评论]]]></description>
+      <description><![CDATA[有没有人注意到，每当他们进入uYou plus时，主页上显示的视频与您关闭应用程序后的完全相同？不确定 3.03 版本是否在 usponsorblock 问题出现后播放，但有没有办法解决这个问题！  注意：我已经尝试过这两个应用程序，它们有相同的问题   由   提交/u/MackJackson768   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bw8c0q/uyou_uenhanced_not_showing_new_videos_on_home_page/</guid>
       <pubDate>Fri, 05 Apr 2024 03:49:58 GMT</pubDate>
     </item>
@@ -76,13 +76,6 @@
       <pubDate>Thu, 04 Apr 2024 21:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>需要电影盒子专业版代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bvz95i/need_movie_box_pro_code/</link>
-      <description><![CDATA[请pm   由   提交/u/Redranger754  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bvz95i/need_movie_box_pro_code/</guid>
-      <pubDate>Thu, 04 Apr 2024 21:20:01 GMT</pubDate>
-    </item>
-    <item>
       <title>uYou（我用的那个）和Yt Killer lite等有什么区别</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bvsx02/whats_the_difference_between_uyou_the_one_i_use/</link>
       <description><![CDATA[我真的很困惑，youtube 有很多不同的调整，是否有一个比其他更好，或者都是个人喜好？   由   提交/u/Extreme_Security694   [链接] [评论]]]></description>
@@ -104,11 +97,18 @@
       <pubDate>Thu, 04 Apr 2024 16:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>请求：Songsterr 和 GuitarTuna</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bvp6b6/request_songsterr_and_guitartuna/</link>
-      <description><![CDATA[您好，有人黑过 Somgsterr 和 GuitarTuna 吗？   由   提交/u/PerfectDude228  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bvp6b6/request_songsterr_and_guitartuna/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:53:04 GMT</pubDate>
+      <title>GGx猩红</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bvotdh/ggxcrimson/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/BudgetNegative2052   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bvotdh/ggxcrimson/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSA：uYouPlus 因赞助商封锁而崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bvkzuz/psa_uyouplus_crashing_with_sponsorblock/</link>
+      <description><![CDATA[首先，我不知道这是否是正确的子项或者是否是已知问题。对于 iOS 和侧载来说还是个新手。 我在 Google 上进行了快速搜索，但找不到任何有关该主题的内容。 我使用的是 iOS 16.0、YouTube 19.10.5、uYou 3.0.3。 仅当选择要观看的视频时，应用程序才会崩溃，并且当我重新打开它时，它不会显示任何有关崩溃的弹出窗口。观看短片时效果很好。 我已经使用这个组合大约一周了，感觉很轻松。 昨晚睡觉前，我启用了赞助商区块，今天就出现了上述场景。禁用它并在从 RAM 中清除它后重新启动应用程序即可修复该问题。 我希望解决某人的头痛问题并在未来修复？   由   提交 /u/GemataZaria   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bvkzuz/psa_uyouplus_crashing_with_sponsorblock/</guid>
+      <pubDate>Thu, 04 Apr 2024 11:42:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
