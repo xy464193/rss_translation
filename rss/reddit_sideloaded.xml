@@ -4,13 +4,34 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 05 Apr 2024 03:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 06:10:51 GMT</lastBuildDate>
     <item>
-      <title>u您已将我退出帐户，现在我无法重新登录。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bw6j0v/uyou_signed_me_out_of_my_account_and_now_i_cant/</link>
-      <description><![CDATA[如前所述，由于某种原因，您退出了我的 YouTube 帐户。现在，当我尝试再次登录时，收到一条错误消息，指出“您无法登录此应用程序，因为谷歌无法确认它是否安全。”是的，我用谷歌搜索过这个问题。我见过很多过时的帖子，其中的修复程序不再有效。我也将 IPA 更新到了最新版本 3.0.3。有什么帮助吗？   由   提交 /u/unusedwings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bw6j0v/uyou_signed_me_out_of_my_account_and_now_i_cant/</guid>
-      <pubDate>Fri, 05 Apr 2024 02:21:52 GMT</pubDate>
+      <title>使用 A/B 从主屏幕删除 Youtube Shorts</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bwamno/remove_youtube_shorts_from_homescreen_using_ab/</link>
+      <description><![CDATA[禁用标志后，重新启动 YouTube，刷新主页，并删除所有残留的短片。此后他们不应该再回来。 enableShortsTargetedCounterfactual: 0enableShortsTargeted: 0 这是来自链接的转发。 uYou 有这个功能，但对我来说不起作用。谢谢你，kibology https://github.com/PoomSmart/YTABConfig/discussions/96   由   提交/u/Own-Increase426  /u/Own-Increase426 reddit.com/r/sideloaded/comments/1bwamno/remove_youtube_shorts_from_homescreen_using_ab/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bwamno/remove_youtube_shorts_from_homescreen_using_ab/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:54:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>DBLegends 西尼洛斯</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bwafz2/dblegends_signulous/</link>
+      <description><![CDATA[Signulous 上的《龙珠传奇》通常需要多长时间发布新更新？   由   提交 /u/REDSOXBIGP   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bwafz2/dblegends_signulous/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 iPhone 上下载了猩红，但显示网络连接错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bw9zta/i_downloaded_scarlet_on_my_iphone_but_it_says/</link>
+      <description><![CDATA[我当前正在使用 WiFi    由   提交/u/Loud-Horror-3486   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bw9zta/i_downloaded_scarlet_on_my_iphone_but_it_says/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>UYou+ 和 Uenhanced 未在主页上显示新视频</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bw8c0q/uyou_uenhanced_not_showing_new_videos_on_home_page/</link>
+      <description><![CDATA[有没有人注意到，每当他们进入uYou plus时，主页上显示的视频与您关闭应用程序后的完全相同？不确定 3.03 版本是否在 usponsorblock 问题出现后播放，但有没有办法解决这个问题！  注意：我已经尝试过这两个应用程序，它们有相同的问题   由   提交/u/MackJackson768   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bw8c0q/uyou_uenhanced_not_showing_new_videos_on_home_page/</guid>
+      <pubDate>Fri, 05 Apr 2024 03:49:58 GMT</pubDate>
     </item>
     <item>
       <title>国际音标下载器</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;表&gt;       由   提交/u/BudgetNegative2052   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bvotdh/ggxcrimson/</guid>
       <pubDate>Thu, 04 Apr 2024 14:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSA：uYouPlus 因赞助商封锁而崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bvkzuz/psa_uyouplus_crashing_with_sponsorblock/</link>
-      <description><![CDATA[首先，我不知道这是否是正确的子项或者是否是已知问题。对于 iOS 和侧载来说还是个新手。 我在 Google 上进行了快速搜索，但找不到任何有关该主题的内容。 我使用的是 iOS 16.0、YouTube 19.10.5、uYou 3.0.3。 仅当选择要观看的视频时，应用程序才会崩溃，并且当我重新打开它时，它不会显示任何有关崩溃的弹出窗口。观看短片时效果很好。 我已经使用这个组合大约一周了，感觉很轻松。 昨晚睡觉前，我启用了赞助商区块，今天就出现了上述场景。禁用它并在从 RAM 中清除它后重新启动应用程序即可修复该问题。 我希望解决某人的头痛问题并在未来修复？   由   提交 /u/GemataZaria   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bvkzuz/psa_uyouplus_crashing_with_sponsorblock/</guid>
-      <pubDate>Thu, 04 Apr 2024 11:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>YT Killer Plus 突然崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bvjrdx/yt_killer_plus_crashing_all_the_sudden/</link>
-      <description><![CDATA[长时间工作正常。前几天去使用它，每当我点击视频时它就会崩溃。尝试搞乱设置，甚至将它们全部关闭，但仍然崩溃。这是最新的，还有其他人遇到过这种情况吗？   由   提交 /u/Responsible_Neat_860   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bvjrdx/yt_killer_plus_crashing_all_the_sudden/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您日常使用的 iPhone 上的设计安全性如何？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bvje3w/how_safe_is_esign_on_your_daily_iphone/</link>
-      <description><![CDATA[之前在此子上提出了类似的问题，但没有给出实际答案。 我目前在我的 iPad 上使用 esign 并使用没有像 altstore 之类的每周都要提防撤销的麻烦，就使用舒适度而言，这确实是另一回事。我想从所有设备上完全删除 altstore 并用设计替换它。问题是，我在 iPad 上没有保留任何个人/财务价值的东西，而且我也不在乎这台 iPad 的全部内存是否通过互联网发送出去。 我的日常工作并非如此。 iPhone，其中我有多个银行帐户应用程序、私人笔记、家庭照片等，这些对我来说确实具有个人和财务价值。 我所追求的是关于可能造成哪些潜在数据损害的知情指导将设计与所有 dns 证书、签名证书等一起使用。我不需要猜测、阴谋论和对某人想法的幻想。我更希望得到具有技术背景和知识的人的回答，以分享在设备上使用设计的实际数据风险是什么。例如，即使大量发送，我也不关心遥测数据。但我担心的是，设计是否可以访问我 iPhone 上的其他应用程序、数据、照片或任何其他“私人”数据？这是我在安装设计之前主要关心的问题。预先感谢您的分享。   由   提交 /u/nivepl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bvje3w/how_safe_is_esign_on_your_daily_iphone/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
