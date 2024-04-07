@@ -4,9 +4,23 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 07 Apr 2024 12:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 15:08:29 GMT</lastBuildDate>
     <item>
-      <title>有没有不用电脑也能下载盗版游戏的地方？</title>
+      <title>Scarlet 应用程序无法运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1by5f7m/scarlet_apps_not_working/</link>
+      <description><![CDATA[实际上，我尝试侧面加载和下载的每个 IPA 都只是说，无法安装或无法验证完整性    由   提交 /u/-ooo_o-_o-oo_o-oo_oo   &lt; a href=&quot;https://www.reddit.com/r/sideloaded/comments/1by5f7m/scarlet_apps_not_working/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1by5f7m/scarlet_apps_not_working/</guid>
+      <pubDate>Sun, 07 Apr 2024 14:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 改装应用程序可以运行吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1by4ftb/youtube_modded_app_which_works/</link>
+      <description><![CDATA[尝试了一些，但它们崩溃了。   由   提交 /u/_sourDiesel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1by4ftb/youtube_modded_app_which_works/</guid>
+      <pubDate>Sun, 07 Apr 2024 13:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有电脑的话哪里可以下载盗版游戏？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1by2re7/any_places_where_i_can_download_hacked_games/</link>
       <description><![CDATA[不久前，Appdb 还可以在没有电脑的情况下工作，以前你可以使用 iosgods 和 pandahelper 以及所有这些应用程序，但现在我不能了似乎无需通过我的 mac 进行侧面加载即可找到任何内容，而我没有脑细胞去做   由   提交 /u/bigfartmoment   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1by2re7/any_places_where_i_can_download_hacked_games/</guid>
@@ -36,14 +50,14 @@
     <item>
       <title>常见的 SideStore 烦恼以及如何解决它们</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxywa5/common_sidestore_annoyances_and_how_to_fix_them/</link>
-      <description><![CDATA[我使用 SideStore 一段时间了，但遇到了一些小问题，这些问题总是使其体验不太理想......直到现在。 &lt; p&gt;我写这篇文章是为了帮助有类似经历的人最终摆脱可能使侧载变得痛苦的烦恼。 我还制作了一个自动化快捷方式，它将让 SideStore 成为一劳永逸的解决方案。 我已经单独发表了一篇关于它的文章，因为这篇文章太长了。  问题 1：SideStore 在全新安装后几天内停止打开/崩溃 为什么会发生： 这是一个已知的错误。当您使用 SideServer 安装 SideStore 时，它​​显示 7 天，但实际上并不是 7 天。它会崩溃，因为它在没有任何警告的情况下过早过期，而您认为还剩很多天。 如何修复它：安装后立即从应用程序内刷新 SideStore。 来源： SideStore wiki 完成  安装 SideStore 的最后一步是在其内部刷新 SideStore…如果 SideStore 未刷新，导致提前过期的错误将要求您重新安装 SideStore。有计划自动完成此操作，但目前需要手动完成。   问题 2：SideStore 在第一次成功应用刷新后/之前崩溃刷新所有应用程序 为什么会发生：应用程序变得过于兴奋并耗尽。开玩笑，这是小部件。将小部件放在主屏幕上会导致此问题。 如何修复它： 只需删除该小部件（根据我的经验，即使将其放在堆栈/智能堆栈中也会导致崩溃） . 来源：Gi​​tHub  &lt; h3&gt;问题 3：快捷方式应用程序中 SideStore 的“刷新所有应用程序”操作被破坏 - 错误/日志显示“找不到文件” 发生这种情况的原因： SideStore 是正在寻找存储在设备本地的“配对文件”，但找不到。通过 SideServer 安装时不会创建此文件 - wiki 的说明没有在 SideServer 方法部分明确提及它！然而，它在页面底部提到。只是很容易错过。您需要自己制作此文件。 如何修复它：非常简单：   下载 jitterbugpair (在此处获取最新链接）  将您的设备插入计算机（不，Wi-Fi 无效）不起作用，不要偷懒，拿起电缆:)），然后将设备打开到主屏幕。完成后，执行程序。您的设备可能会要求您信任您的计算机。请务必接受此提示，因为这是配对过程所必需的。 完成后（稍等一下 - 它可能看起来像是冻结了，但仍在工作），您将获得一个文件以 .mobiledevicepairing 结尾。  [入门指南未提及的内容] 将文件重命名为 ALTPairingFile.mobiledevicepairing（这在常见问题解答）  将其传输到 On My iPhone 中的 SideStore 文件夹。我通过将其放在 iCloud 驱动器上，打开手机上的“文件”应用程序并将其从那里移动来完成此操作。  执行此操作后，快捷方式将开始工作。 来源： GitHub   由   提交 /u/SidewinderN7   [链接] [评论]]]></description>
+      <description><![CDATA[我已经使用 SideStore 一段时间了，但遇到了一些小问题，这些问题总是使其体验不太理想......直到现在。 &lt; p&gt;我写这篇文章是为了帮助有类似经历的人最终摆脱可能使侧载变得痛苦的烦恼。 我还制作了一个自动化快捷方式，它将让 SideStore 成为一劳永逸的解决方案。 我已经单独发表了一篇关于它的文章，因为这篇文章太长了。  问题 1：SideStore 在全新安装后几天内停止打开/崩溃 为什么会发生： 这是一个已知的错误。当您使用 SideServer 安装 SideStore 时，它​​显示 7 天，但实际上并不是 7 天。它会崩溃，因为它在没有任何警告的情况下过早过期，而您认为还剩很多天。 如何修复它：安装后立即从应用程序内刷新 SideStore。 来源： SideStore wiki 完成  安装 SideStore 的最后一步是在其内部刷新 SideStore…如果 SideStore 未刷新，导致提前过期的错误将要求您重新安装 SideStore。有计划自动完成此操作，但目前需要手动完成。   问题 2：SideStore 在第一次成功应用刷新后/之前崩溃刷新所有应用程序 为什么会发生：应用程序变得过于兴奋并耗尽。开玩笑，这是小部件。将小部件放在主屏幕上会导致此问题。 如何修复它： 只需删除该小部件（根据我的经验，即使将其放在堆栈/智能堆栈中也会导致崩溃） . 来源：Gi​​tHub  &lt; h3&gt;问题 3：快捷方式应用程序中 SideStore 的“刷新所有应用程序”操作被破坏 - 错误/日志显示“找不到文件” 发生这种情况的原因： SideStore 是正在寻找存储在设备本地的“配对文件”，但找不到。通过 SideServer 安装时不会创建此文件 - wiki 的说明没有在 SideServer 方法部分明确提及它！然而，它在页面底部提到。只是很容易错过。您需要自己制作此文件。 如何修复它：非常简单：   下载 jitterbugpair (在此处获取最新链接）  将您的设备插入计算机（不，Wi-Fi 无效）不起作用，不要偷懒，拿起电缆:)），然后将设备打开到主屏幕。完成后，执行程序。您的设备可能会要求您信任您的计算机。请务必接受此提示，因为这是配对过程所必需的。 完成后（稍等一下 - 它可能看起来像是冻结了，但仍在工作），您将获得一个文件在您的主（用户）文件夹中以 .mobiledevicepairing 结尾。 （入门指南未提及的内容：）将文件重命名为 ALTPairingFile.mobiledevicepairing&lt; /code&gt; （常见问题解答中提到了这一点）  将其传输到 On My iPhone 中的 SideStore 文件夹。我通过将其放在 iCloud 驱动器上，打开手机上的“文件”应用程序并将其从那里移动来完成此操作。  执行此操作后，快捷方式将开始工作。 来源： GitHub   由   提交 /u/SidewinderN7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxywa5/common_sidestore_annoyances_and_how_to_fix_them/</guid>
       <pubDate>Sun, 07 Apr 2024 07:52:52 GMT</pubDate>
     </item>
     <item>
       <title>如何在 ios 中下载 alt 应用商店？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxyivd/how_to_download_alt_app_store_in_ios/</link>
-      <description><![CDATA[我想在我的 iPhone 7plus 中下载 ppsspp，但为此我需要 alt 应用商店 &lt;!-- SC_ON - -&gt;  由   提交 /u/ImmediateSky4590   [链接] [评论]]]></description>
+      <description><![CDATA[我想在我的 iPhone 7plus 中下载 ppsspp，但为此我需要 alt app store &lt;!-- SC_ON - -&gt;  由   提交 /u/ImmediateSky4590   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxyivd/how_to_download_alt_app_store_in_ios/</guid>
       <pubDate>Sun, 07 Apr 2024 07:27:55 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>调整应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</link>
-      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接可打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
+      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接会打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</guid>
       <pubDate>Sat, 06 Apr 2024 21:20:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bxjwbo/spotify_issues/</link>
-      <description><![CDATA[我的手机上有 Spotilife（版本 1.8），我也在 Altatore 上运行它。画布功能和歌词有时不起作用。这很奇怪，有时它可以工作，有时它只是在我听音乐时拒绝出现。其他人也会发生这种情况吗？还是只有我这样？我什至尝试获取其他版本希望它能起作用。 IPA 文件已损坏，或者我一直看到高级功能。如果有人能帮助我，我将不胜感激:)   由   提交/u/Leather_Entrance6217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bxjwbo/spotify_issues/</guid>
-      <pubDate>Sat, 06 Apr 2024 19:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 自定义 REPO 应用程序不允许我替换新的应用程序 ID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bxi5ue/scarlet_custom_repo_apps_will_not_allow_me_to/</link>
-      <description><![CDATA[我添加的新存储库链接，一旦我尝试下载某些内容，它就无法工作。借助猩红应用程序附带的官方应用程序，他们可以让我替换以前的应用程序 ID，这样我就可以下载它们，而不必等待一周。我正在尝试下载 Dolphin Wii 模拟器，但由于这个问题，它不让我下载。  有什么帮助吗？   由   提交 /u/AppearanceNo4834   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bxi5ue/scarlet_custom_repo_apps_will_not_allow_me_to/</guid>
-      <pubDate>Sat, 06 Apr 2024 18:13:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
