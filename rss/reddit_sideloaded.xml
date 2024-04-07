@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 06 Apr 2024 21:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:39:35 GMT</lastBuildDate>
+    <item>
+      <title>使用 Scarlet 下载侧载 DolphiniOS 时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxmlgv/problem_with_downloading_sideloaded_dolphinios/</link>
+      <description><![CDATA[它说 - 无法验证 *dolphin 临时某物的根* 的代码签名  &lt;!-- SC_ON - -&gt;  由   提交 /u/AppearanceNo4834   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxmlgv/problem_with_downloading_sideloaded_dolphinios/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>调整应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接可打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxjwbo/spotify_issues/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我最近得到了 altstore，这样我就可以使用 uYouPlus 来修改 youtube，但我必须安装 youtube 的解密 ipa 文件来构建 uYouPlus。我找到了 armconverter.com 并想知道在旁加载它之前使用它是否安全。   由   提交 /u/NotYulo2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bwze02/is_iosgodscom_armconvertercom_safe/</guid>
       <pubDate>Sat, 06 Apr 2024 01:38:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以登录 Signulous 上的 YouTube 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bwv6sf/youtube_on_signulous_that_you_can_sign_in_on/</link>
-      <description><![CDATA[谢谢！   由   提交 /u/Rustble   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bwv6sf/youtube_on_signulous_that_you_can_sign_in_on/</guid>
-      <pubDate>Fri, 05 Apr 2024 22:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不确定要侧载哪些游戏，有人有建议吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bwn46r/im_not_sure_what_games_to_sideload_does_anyone/</link>
-      <description><![CDATA[我有一台电脑和一台 iPad。   由   提交 /u/TellUpstairs868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bwn46r/im_not_sure_what_games_to_sideload_does_anyone/</guid>
-      <pubDate>Fri, 05 Apr 2024 16:59:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
