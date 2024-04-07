@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Sun, 07 Apr 2024 06:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 09:08:42 GMT</lastBuildDate>
+    <item>
+      <title>给那些想要在 Trollstore 上使用 uYouEnhanced 的人的提示</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</link>
+      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了这个教程来帮助解决这个问题（它需要您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，在其存储库部分添加 uYouEnhanced 存储库：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源代码，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</guid>
+      <pubDate>Sun, 07 Apr 2024 08:57:41 GMT</pubDate>
+    </item>
     <item>
       <title>有没有针对非越狱手机的可行的 gamepigeon hack？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bwv1gg/are_there_any_working_gamepigeon_hacks_for_a_non/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>科彭问题？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/</link>
-      <description><![CDATA[iPhone 6S，iOS 15.8.2 当我按 kopen 注入 trollstore 助手时，键盘重置为正常qwerty 键盘 注入助手需要多长时间？ 我尝试通过 Spotlight 搜索（如本指南中所列：安装 TrollStore (TrollMisaka) | iOS 指南 (cfw.guide))，我目前正在尝试 Safari 编辑：当我访问 Safari 时并按下 kopen，我得到了安装 TrollStore 的选项，但随后它变灰了，现在我再次只有 kopen 选项   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[iPhone 6S，iOS 15.8.2 当我按下 kopen 注入 trollstore 助手时，键盘重置为正常qwerty 键盘 注入助手需要多长时间？ 我尝试通过 Spotlight 搜索（如本指南中所列：安装 TrollStore (TrollMisaka) | iOS 指南 (cfw.guide))，我目前正在尝试 Safari 编辑：当我访问 Safari 时按下 kopen，我得到了安装 TrollStore 的选项，但随后它变灰了，现在我再次只有 kopen 选项   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1brf7tu/kopen_issue/</guid>
       <pubDate>Sat, 30 Mar 2024 11:02:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 ios.cfw.guide 上，链接似乎已关闭...  &amp;# 32；由   提交/u/crf450hittaz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bqottk/trollstoreota_link_down/</guid>
       <pubDate>Fri, 29 Mar 2024 13:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>重建图标缓存有什么用？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1bqj1zm/whats_rebuilt_icon_cache_for/</link>
-      <description><![CDATA[      简单来说，重建图标缓存是做什么的？以及什么时候使用它？    由   提交/u/james-isreal  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1bqj1zm/whats_rebuilt_icon_cache_for/</guid>
-      <pubDate>Fri, 29 Mar 2024 07:12:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
