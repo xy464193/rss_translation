@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 07 Apr 2024 03:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 06:10:18 GMT</lastBuildDate>
+    <item>
+      <title>如何解决烦恼并使一切自动化，这样您就再也不用担心刷新了！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxx76q/how_to_fix_annoyances_and_automate_everything_so/</link>
+      <description><![CDATA[我已经使用 SideStore 一段时间了，但遇到了一些小问题，这些问题总是使其体验不太理想......直到现在。 &lt; p&gt;我写这篇文章是为了帮助有类似经历的人最终摆脱可能使侧载变得痛苦的烦恼。 我还有一个自动化快捷方式，可以让 SideStore 成为一劳永逸的解决方案！我将就此发表一篇单独的文章，并将其链接到此处，因为这篇文章太长了。 问题 1：SideStore 在全新安装后几天内停止打开/打开时崩溃 为什么会发生：这是一个已知的错误。当您使用 SideServer 安装 SideStore 时，它​​显示 7 天，但实际上并不是 7 天。它会崩溃，因为它在没有任何警告的情况下过早过期，而您认为还剩很多天。 如何修复它：安装后立即从应用程序内刷新 SideStore。 来源： SideStore wiki，“完成”  安装 SideStore 的最后一步是在其内部刷新 SideStore…如果 SideStore 是未刷新，导致提前过期的错误将要求您重新安装 SideStore。有计划自动完成此操作，但目前需要手动完成。  问题 2：SideStore 在第一次成功应用刷新后/在刷新所有应用之前崩溃&lt; /h3&gt; 为什么会发生：应用程序变得过于兴奋并耗尽。开玩笑，这是小部件。如果您的主屏幕上有该小部件，则会导致此行为。 如何修复它： 只需删除该小部件（根据我的经验，即使将其放在堆栈/智能堆栈中会导致崩溃）并且不会崩溃。 来源：Gi​​tHub 问题 3：快捷方式应用程序中 SideStore 的“刷新所有应用程序”操作被破坏 - 错误/日志显示“找不到文件” 为什么会发生这种情况： SideStore 正在寻找存储在您设备本地的“配对文件”，但找不到。通过 SideServer 安装时不会创建此文件 - wiki 的说明在该部分下没有提及它，如果您使用 SideServer 方法，听起来好像您已经完成了，但它提到了页面底部。它很容易错过！您需要自己制作并放置它。 如何修复它：非常简单：   下载 jitterbugpair (在此处获取最新链接）  将您的设备插入计算机（不，Wi- Fi 无法工作，不要偷懒，拿起电缆:)），然后将设备打开到主屏幕。完成后，执行程序。您的设备可能会要求您信任您的计算机。请务必接受此提示，因为这是配对过程所必需的。 完成后，您将获得一个以 .mobiledevicepairing 结尾的文件。  指南中未提及的内容：   将文件重命名为“ALTPairingFile.mobiledevicepairing”  将其传输到“我的 iPhone 上”中的 SideStore 文件夹。我通过将其放在 iCloud 驱动器上，打开手机上的“文件”应用程序并将其从那里移动来完成此操作。  执行此操作后，快捷方式将开始工作。 来源： [GitHub](https://github.com /SideStore/SideStore/issues/415#issuecomment-1950960322]    提交者   /u/SidewinderN7   [链接]  [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxx76q/how_to_fix_annoyances_and_automate_everything_so/</guid>
+      <pubDate>Sun, 07 Apr 2024 06:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxvppr/spotify_ipa/</link>
+      <description><![CDATA[有谁有这个版本的 Spotify，它显然是免费的，但有一个调整过的均衡器，或者只是一个与正常版本不同的均衡器，它只有 60hz - 15-KHz我以前有过这个版本，它有 30hz - 50KHz 或类似的东西，但我似乎找不到它了    由   提交 /u/Illustrious_Crow7365   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxvppr/spotify_ipa/</guid>
+      <pubDate>Sun, 07 Apr 2024 04:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>假设我可以在 iPhone 14 Pro Max 上玩 RE:4 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxv2om/hypothetically_can_i_play_re4_on_a_iphone_14_pro/</link>
+      <description><![CDATA[我显然无法使用应用商店下载游戏，但是侧载它怎么样？它会起作用还是不行？   由   提交 /u/OpiumBabii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxv2om/hypothetically_can_i_play_re4_on_a_iphone_14_pro/</guid>
+      <pubDate>Sun, 07 Apr 2024 04:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>调整后的应用程序网站推荐吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxuakx/tweaked_app_websites_recommend/</link>
+      <description><![CDATA[嗨，我是这个子项目的新手。我只侧载了 Spotify 和 uyouenhanced。 我搜索过 Wolf facebook、BHinstagram 和 BHtwitter。有太多的网站说他们得到了最新版本的ipa，但他们的版本参差不齐。 请问有哪些值得信赖且安全的网站可以下载那些经过调整的ipa？感谢您的帮助。   由   提交 /u/LYHPandaKing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxuakx/tweaked_app_websites_recommend/</guid>
+      <pubDate>Sun, 07 Apr 2024 03:20:35 GMT</pubDate>
+    </item>
     <item>
       <title>UYou+ 无法投射到电视了吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxrgfn/uyou_cant_cast_to_tv_anymore/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>调整应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</link>
-      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接可打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
+      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接会打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</guid>
       <pubDate>Sat, 06 Apr 2024 21:20:02 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[        由   提交 /u/TheBijolak   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bx6r42/i_cant_go_pass_this_task/</guid>
       <pubDate>Sat, 06 Apr 2024 08:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maplesign Discord 服务器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bx3clp/maplesign_discord_server/</link>
-      <description><![CDATA[有人知道 Maplesign 的 Discord 服务器发生了什么吗？它从我的列表中消失了。有时我收到邀请链接，但它说该链接已过期。有人遇到过这种情况吗？   由   提交 /u/Lauriluri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bx3clp/maplesign_discord_server/</guid>
-      <pubDate>Sat, 06 Apr 2024 05:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 emuThreeDS 密码吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bx0v6m/anyone_know_emuthreeds_password/</link>
-      <description><![CDATA[      ​ 我使用 apkmodgo.com 侧载 emuThreeDS，它要求我输入密码才能启动应用程序。有人知道密码吗？   由   提交 /u/Asleep-Land472   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bx0v6m/anyone_know_emuthreeds_password/</guid>
-      <pubDate>Sat, 06 Apr 2024 02:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论如何要侧面加载 Apple Watch 应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bwzgg7/anyway_to_side_load_apple_watch_apps/</link>
-      <description><![CDATA[确实想利用一些很酷的 Apple Watch 应用，例如自动睡眠等，但我不想为我查看的内容付费作为一个新奇事物。有什么办法可以在手表上安装这些应用程序吗？    由   提交 /u/wJaxon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bwzgg7/anyway_to_side_load_apple_watch_apps/</guid>
-      <pubDate>Sat, 06 Apr 2024 01:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>iosgods.com / armconverter.com 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bwze02/is_iosgodscom_armconvertercom_safe/</link>
-      <description><![CDATA[我最近得到了 altstore，这样我就可以使用 uYouPlus 来修改 youtube，但我必须安装 youtube 的解密 ipa 文件来构建 uYouPlus。我找到了 armconverter.com 并想知道在旁加载它之前使用它是否安全。   由   提交 /u/NotYulo2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bwze02/is_iosgodscom_armconvertercom_safe/</guid>
-      <pubDate>Sat, 06 Apr 2024 01:38:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
