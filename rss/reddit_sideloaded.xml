@@ -4,14 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 07 Apr 2024 18:09:29 GMT</lastBuildDate>
-    <item>
-      <title>出售此 insta dm 我并协商价格</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1by9ug6/selling_this_insta_dm_me_and_negotiate_a_price/</link>
-      <description><![CDATA[       由   提交 /u/MotionaryJay   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1by9ug6/selling_this_insta_dm_me_and_negotiate_a_price/</guid>
-      <pubDate>Sun, 07 Apr 2024 17:22:27 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Apr 2024 21:08:31 GMT</lastBuildDate>
     <item>
       <title>吃豆人 POP!与吃豆人：拉尔夫打破迷宫</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1by8u9x/pacman_pop_pacman_ralph_breaks_the_maze/</link>
@@ -34,7 +27,7 @@
       <pubDate>Sun, 07 Apr 2024 13:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>没有电脑的话哪里可以下载盗版游戏？</title>
+      <title>有没有不用电脑也能下载盗版游戏的地方？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1by2re7/any_places_where_i_can_download_hacked_games/</link>
       <description><![CDATA[不久前，Appdb 还可以在没有电脑的情况下工作，以前你可以使用 iosgods 和 pandahelper 以及所有这些应用程序，但现在我不能了似乎无需通过我的 mac 进行侧面加载即可找到任何内容，而我没有脑细胞去做   由   提交 /u/bigfartmoment   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1by2re7/any_places_where_i_can_download_hacked_games/</guid>
@@ -48,13 +41,6 @@
       <pubDate>Sun, 07 Apr 2024 11:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>Kodi Omega v21 [.IPA]</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1by0304/kodi_omega_v21_ipa/</link>
-      <description><![CDATA[Kodi Omega v21 已经到来！  这是直接的.ipa 文件供大家欣赏。  使用您喜欢的签名/安装方法安装它并立即开始享受它！   由   提交/u/tdbnz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1by0304/kodi_omega_v21_ipa/</guid>
-      <pubDate>Sun, 07 Apr 2024 09:10:58 GMT</pubDate>
-    </item>
-    <item>
       <title>[指南] 如何自动执行 SideStore 刷新：一劳永逸的解决方案，让您的应用永不过期</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxyx9j/guide_how_to_automate_sidestore_refreshes/</link>
       <description><![CDATA[嘿伙计们， 我终于使用快捷方式自动化实现了 SideStore 近乎完美的设置，我想分享 开始之前：如果您的快捷操作被破坏，您将无法使用本指南。我已在此处发布了解决方案，请先执行这些操作。 第 1 步：创建快捷方式 您可以跳过整个步骤，直接下载快捷方式 I&#39;已经在这里分享了。如果您想自己理解/制作，我已经编写了以下步骤。 完成后的快捷方式应如下所示。  打开快捷方式应用程序。 在“快捷方式”选项卡中，单击右上角的 + 按钮创建新快捷方式。点击“新快捷方式”顶部的占位符文本，并将快捷方式重命名为可识别的名称，例如“刷新 Sidestore”。 点击添加操作并搜索“获取网络详细信息”。默认情况下，您会看到一个操作，显示“获取 Wi-Fi 网络的网络名称”。 点击添加操作&lt;再次 /code&gt; 并搜索 Count。点击它，您将看到下一步，其中显示“在网络详细信息中计数项目”。 点击添加操作 并搜索 If。这将添加 3 个块：“If”、“Otherwise”和“End If”。在“如果”中块，它会显示“If Count Condition”。点按条件并选择小于。它将显示另一个字段，Number。点击该按钮并输入 1。我们这样做是因为 SideStore 需要在 Wi-Fi 网络上进行刷新。如果计数为 0，则意味着我们未连接到 Wi-Fi，因为没有 Wi-Fi 名称。 点击添加操作并搜索显示通知。替换默认的“Hello World”这里有一条消息告诉您没有连接到 Wi-Fi（我写过“SideStore 无法刷新您的应用程序，因为您与 Wi-Fi 断开连接。请重新连接到 Wi-Fi，然后重试。”将此操作拖到“If”块下方。 点击添加操作并搜索VPN。点击设置 VPN 。它将添加一个“连接”操作。点击VPN并选择您在安装 SideStore 时设置的 SideStore WireGuard 配置文件。 点击添加操作 并搜索刷新所有应用。这是 SideStore 提供的内置操作。点击其侧面的箭头并关闭“运行时显示”。 点击添加操作并添加等待操作。将其设置为 30 秒。这大约是我预计 SideStore 完成刷新所有应用所需的时间。 点按添加操作并添加另一个设置 VPN 操作，但这次选择与 SideStore VPN 的断开连接。 点击添加操作并添加显示通知以确认是否成功（我写了“所有应用程序均已成功刷新”。  &lt; p&gt;这将自动连接您的 VPN、刷新您的应用程序并在完成后断开 VPN。您可以点击完成，然后通过在快捷方式菜单上点击该快捷方式来测试该快捷方式。  第 2 步：创建自动化 快到了！现在我们只需要求它每天晚上运行即可。  点击底部的自动化选项卡。 &lt; li&gt;点击右上角的 + 按钮创建一个。选择“一天中的时间”。我选择凌晨 2:00，每天重复，然后“立即运行” （因此它不会提示您进行确认）。您可以将其设置为您喜欢的任何时间。 在“执行”下，选择“刷新 SideStore”。我们刚刚创建的快捷方式。   就是这样！ 现在快捷方式将每晚运行。您醒来时会收到一条通知，表明您的应用程序已刷新。或者，一旦您确认此自动化工作正常，您可以删除带有成功通知的快捷方式中的最后一步，以便它将在幕后完全静默地工作。   由   提交 /u/SidewinderN7   [链接] [评论]]]></description>
@@ -64,14 +50,14 @@
     <item>
       <title>常见的 SideStore 烦恼以及如何解决它们</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxywa5/common_sidestore_annoyances_and_how_to_fix_them/</link>
-      <description><![CDATA[我已经使用 SideStore 一段时间了，但遇到了一些小问题，这些问题总是使其体验不太理想......直到现在。 &lt; p&gt;我写这篇文章是为了帮助有类似经历的人最终摆脱可能使侧载变得痛苦的烦恼。 我还制作了一个自动化快捷方式，它将让 SideStore 成为一劳永逸的解决方案。 我已经单独发表了一篇关于它的文章，因为这篇文章太长了。  问题 1：SideStore 在全新安装后几天内停止打开/崩溃 为什么会发生： 这是一个已知的错误。当您使用 SideServer 安装 SideStore 时，它​​显示 7 天，但实际上并不是 7 天。它会崩溃，因为它在没有任何警告的情况下过早过期，而您认为还剩很多天。 如何修复它：安装后立即从应用程序内刷新 SideStore。 来源： SideStore wiki 完成  安装 SideStore 的最后一步是在其内部刷新 SideStore…如果 SideStore 未刷新，导致提前过期的错误将要求您重新安装 SideStore。有计划自动完成此操作，但目前需要手动完成。   问题 2：SideStore 在第一次成功应用刷新后/之前崩溃刷新所有应用程序 为什么会发生：应用程序变得过于兴奋并耗尽。开玩笑，这是小部件。将小部件放在主屏幕上会导致此问题。 如何修复它： 只需删除该小部件（根据我的经验，即使将其放在堆栈/智能堆栈中也会导致崩溃） . 来源：Gi​​tHub  &lt; h3&gt;问题 3：快捷方式应用程序中 SideStore 的“刷新所有应用程序”操作被破坏 - 错误/日志显示“找不到文件” 发生这种情况的原因： SideStore 是正在寻找存储在设备本地的“配对文件”，但找不到。通过 SideServer 安装时不会创建此文件 - wiki 的说明没有在 SideServer 方法部分明确提及它！然而，它在页面底部提到。只是很容易错过。您需要自己制作此文件。 如何修复它：非常简单：   下载 jitterbugpair (在此处获取最新链接）  将您的设备插入计算机（不，Wi-Fi 无效）不起作用，不要偷懒，拿起电缆:)），然后将设备打开到主屏幕。完成后，执行程序。您的设备可能会要求您信任您的计算机。请务必接受此提示，因为这是配对过程所必需的。 完成后（稍等一下 - 它可能看起来像是冻结了，但仍在工作），您将获得一个文件在您的主（用户）文件夹中以 .mobiledevicepairing 结尾。 （入门指南未提及的内容：）将文件重命名为 ALTPairingFile.mobiledevicepairing&lt; /code&gt; （常见问题解答中提到了这一点）  将其传输到 On My iPhone 中的 SideStore 文件夹。我通过将其放在 iCloud 驱动器上，打开手机上的“文件”应用程序并将其从那里移动来完成此操作。  执行此操作后，快捷方式将开始工作。 来源： GitHub   由   提交 /u/SidewinderN7   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 SideStore 一段时间了，但遇到了一些小问题，这些问题总是使其体验不太理想......直到现在。 &lt; p&gt;我写这篇文章是为了帮助有类似经历的人最终摆脱可能使侧载变得痛苦的烦恼。 我还制作了一个自动化快捷方式，它将让 SideStore 成为一劳永逸的解决方案。 我已经单独发表了一篇关于它的文章，因为这篇文章太长了。  问题 1：SideStore 在全新安装后几天内停止打开/崩溃 为什么会发生： 这是一个已知的错误。当您使用 SideServer 安装 SideStore 时，它​​显示 7 天，但实际上并不是 7 天。它会崩溃，因为它在没有任何警告的情况下过早过期，而您认为还剩很多天。 如何修复它：安装后立即从应用程序内刷新 SideStore。 来源： SideStore wiki 完成  安装 SideStore 的最后一步是在其内部刷新 SideStore…如果 SideStore 未刷新，导致提前过期的错误将要求您重新安装 SideStore。有计划自动完成此操作，但目前需要手动完成。   问题 2：SideStore 在第一次成功应用刷新后/之前崩溃刷新所有应用程序 为什么会发生：应用程序变得过于兴奋并耗尽。开玩笑，这是小部件。将小部件放在主屏幕上会导致此问题。 如何修复它： 只需删除该小部件（根据我的经验，即使将其放在堆栈/智能堆栈中也会导致崩溃） . 来源：Gi​​tHub  &lt; h3&gt;问题 3：快捷方式应用程序中 SideStore 的“刷新所有应用程序”操作被破坏 - 错误/日志显示“找不到文件” 发生这种情况的原因： SideStore 是正在寻找存储在设备本地的“配对文件”，但找不到。通过 SideServer 安装时不会创建此文件 - wiki 的说明没有在 SideServer 方法部分明确提及它！然而，它在页面底部提到。只是很容易错过。您需要自己制作此文件。 如何修复它：非常简单：   下载 jitterbugpair (在此处获取最新链接）  将您的设备插入计算机（不，Wi-Fi 无效）不起作用，不要偷懒，拿起电缆:)），然后将设备打开到主屏幕。完成后，执行程序。您的设备可能会要求您信任您的计算机。请务必接受此提示，因为这是配对过程所必需的。 完成后（稍等一下 - 它可能看起来像是冻结了，但仍在工作），您将获得一个文件在您的主（用户）文件夹中以 .mobiledevicepairing 结尾。 （入门指南未提及的内容：）将文件重命名为 ALTPairingFile.mobiledevicepairing&lt; /code&gt; （常见问题解答中提到了这一点）  将其传输到 On My iPhone 中的 SideStore 文件夹。我通过将其放在 iCloud 驱动器上，打开手机上的“文件”应用程序并将其从那里移动来完成此操作。  执行此操作后，快捷方式将开始工作。 来源： GitHub   由   提交 /u/SidewinderN7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxywa5/common_sidestore_annoyances_and_how_to_fix_them/</guid>
       <pubDate>Sun, 07 Apr 2024 07:52:52 GMT</pubDate>
     </item>
     <item>
       <title>如何在 ios 中下载 alt 应用商店？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bxyivd/how_to_download_alt_app_store_in_ios/</link>
-      <description><![CDATA[我想在我的 iPhone 7plus 中下载 ppsspp，但为此我需要 alt app store &lt;!-- SC_ON - -&gt;  由   提交 /u/ImmediateSky4590   [链接] [评论]]]></description>
+      <description><![CDATA[我想在我的 iPhone 7plus 中下载 ppsspp，但为此我需要 alt 应用商店 &lt;!-- SC_ON - -&gt;  由   提交 /u/ImmediateSky4590   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxyivd/how_to_download_alt_app_store_in_ios/</guid>
       <pubDate>Sun, 07 Apr 2024 07:27:55 GMT</pubDate>
     </item>
@@ -81,13 +67,6 @@
       <description><![CDATA[正在寻找下载垄断GO的破解程序，如果有人可以给我发送链接 &lt;!-- SC_ON - -&gt;  由   提交 /u/Far-Story1650    reddit.com/r/sideloaded/comments/1bxyfvx/need_help/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxyfvx/need_help/</guid>
       <pubDate>Sun, 07 Apr 2024 07:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1bxvppr/spotify_ipa/</link>
-      <description><![CDATA[有谁有这个版本的 Spotify，它显然是免费的，但有一个调整过的均衡器，或者只是一个与正常版本不同的均衡器，它只有 60hz - 15-KHz我以前有过这个版本，它有 30hz - 50KHz 或类似的东西，但我似乎找不到它了    由   提交 /u/Illustrious_Crow7365   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1bxvppr/spotify_ipa/</guid>
-      <pubDate>Sun, 07 Apr 2024 04:36:57 GMT</pubDate>
     </item>
     <item>
       <title>假设我可以在 iPhone 14 Pro Max 上玩 RE:4 吗？</title>
@@ -109,6 +88,27 @@
       <description><![CDATA[即使授予本地网络权限后，它仍然不断请求权限。使用最新版本并尝试重新安装   由   提交/u/Budget_Ad_4210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bxrgfn/uyou_cant_cast_to_tv_anymore/</guid>
       <pubDate>Sun, 07 Apr 2024 00:58:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Scarlet 下载侧载 DolphiniOS 时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxmlgv/problem_with_downloading_sideloaded_dolphinios/</link>
+      <description><![CDATA[它说 - 无法验证 *dolphin 临时某物的根* 的代码签名  &lt;!-- SC_ON - -&gt;  由   提交 /u/AppearanceNo4834   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxmlgv/problem_with_downloading_sideloaded_dolphinios/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>调整应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但我需要帮助。为什么有些应用程序是旁加载的，因此它看起来不像是“本机”应用程序。这意味着如果我在 Safari 中搜索歌曲，我调整后的 Spotify 将无法打开。如果您在 AppStore 中搜索该应用程序，它会认为您没有下载该应用程序。我无法将调整后的 MyFitnessPal 应用程序与本机健康应用程序集成，等等。但调整后的 YouTube 应用程序的工作方式与本机应用程序类似，链接可打开 YouTube 应用程序。有没有办法让调整后的应用程序像“本机”应用程序一样工作，以便可以正确集成？先感谢您。    由   提交 /u/burniksapwet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxmkwj/tweaked_apps/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1bxjwbo/spotify_issues/</link>
+      <description><![CDATA[我的手机上有 Spotilife（版本 1.8），我也在 Altatore 上运行它。画布功能和歌词有时不起作用。这很奇怪，有时它可以工作，有时它只是在我听音乐时拒绝出现。其他人也会发生这种情况吗？还是只有我这样？我什至尝试获取其他版本希望它能起作用。 IPA 文件已损坏，或者我一直看到高级功能。如果有人能帮助我，我将不胜感激:)   由   提交/u/Leather_Entrance6217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1bxjwbo/spotify_issues/</guid>
+      <pubDate>Sat, 06 Apr 2024 19:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
