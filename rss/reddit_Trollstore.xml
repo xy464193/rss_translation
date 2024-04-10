@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:10:56 GMT</lastBuildDate>
+    <item>
+      <title>在 IOS17 上更新 trollstore 的最安全方法</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1c0qxj5/safest_way_to_update_trollstore_on_ios17/</link>
+      <description><![CDATA[嘿，就像标题一样，我在 14Pro 上使用 IOS17，trollstore 版本为 2.0.8，我想更新它...这样做有什么风险吗好像有什么事情搞砸了，我在 IOS17 上完蛋了。另外，更新是否真的值得，还是只要它有效就保留它？谢谢    由   提交/u/MAbuain17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1c0qxj5/safest_way_to_update_trollstore_on_ios17/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>如何绕过</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bzs92k/how_to_bypass/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>给那些想要在 Trollstore 上使用 uYouEnhanced 的人的提示</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</link>
-      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了本教程来帮助解决这个问题（它需要您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，将 uYouEnhanced 存储库添加到其存储库部分：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
+      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了本教程来帮助解决这个问题（它要求您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，将 uYouEnhanced 存储库添加到其存储库部分：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源代码，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</guid>
       <pubDate>Sun, 07 Apr 2024 08:57:41 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不是一个技术含量很高的人，谁能帮我理解为什么我们使用 trollstore。谢谢    由   提交 /u/Careful-Ad6235    reddit.com/r/Trollstore/comments/1bw88cz/what_exactly_is_the_ Purpose_of_trollstore_why_do/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bw88cz/what_exactly_is_the_purpose_of_trollstore_why_do/</guid>
       <pubDate>Fri, 05 Apr 2024 03:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>IOS 17.4.1</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1bvl0sc/ios_1741/</link>
-      <description><![CDATA[嗨，我是 iOS 17.4.1 用户。因为我住在俄罗斯，很多东西在这里被屏蔽，所以我有一个 IPA 侧面下载的证书。有人可以给我发一个 TrollStore 的 IPA 文件吗，因为我厌倦了猩红？   由   提交/u/Lazy_ Russian_guy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1bvl0sc/ios_1741/</guid>
-      <pubDate>Thu, 04 Apr 2024 11:44:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
