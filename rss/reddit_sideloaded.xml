@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 10 Apr 2024 03:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 06:11:48 GMT</lastBuildDate>
+    <item>
+      <title>无法验证开发者帐户错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c0ctjk/unable_to_verify_error_with_developer_account/</link>
+      <description><![CDATA[大家好。我遇到了一个奇怪的错误。我已经能够在 Mac 上使用 1) sideloady 并使用我的 Apple ID 登录，成功地将应用程序侧面加载到我的设备上。 2) 我还使用 ipa.ipasign.cc 使用我的 p12 和 mobileprovision 配置文件在线签署应用程序，然后通过 safari 下载该应用程序并直接安装在我的设备上。 今天，我重置了我的设备由于一些不相关的问题。恢复完成后，我尝试通过 sideloady 旁加载我的应用程序。开发者模式已启用。当我点击应用程序图标时，我收到错误消息，无法验证应用程序是否需要互联网连接...... 我在我的开发者帐户上重新生成了我的 mobileprovision，并使用网站方法直接在设备上进行旁加载在线但我得到同样的错误。有什么想法吗？   由   提交/u/delta1094  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c0ctjk/unable_to_verify_error_with_developer_account/</guid>
+      <pubDate>Wed, 10 Apr 2024 04:22:37 GMT</pubDate>
+    </item>
     <item>
       <title>无需 PC 即可旁加载应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c09bsw/sideload_apps_without_pc/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>CSR-2 未加载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1bzrrci/csr2_not_loading/</link>
-      <description><![CDATA[我下载了未越狱的 CSR-2，当我花费精英代币时，它说“同步个人资料”，然后我关闭了应用程序，现在它赢了无法加载，只给了它 4 秒，然后崩溃了，我重新下载了，甚至覆盖了保存，但没有任何效果。   由   提交 /u/Happy_Sherbert_1582   [链接] [评论]]]></description>
+      <description><![CDATA[我下载了未越狱的 CSR-2，当我花费精英代币时，它说“同步个人资料”，然后我关闭了应用程序，现在它赢了无法加载，只给了 4 秒时间，然后就崩溃了，我重新下载了，甚至覆盖了保存，但没有任何效果。   由   提交 /u/Happy_Sherbert_1582   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1bzrrci/csr2_not_loading/</guid>
       <pubDate>Tue, 09 Apr 2024 13:08:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[认为这将是完美的，因为它自己与 AJ styles 的比赛没有引起注意，而且与布雷怀亚特的最后一场比赛是对阵 LA Knight，之后《骑士》开始受到很多关注，这将是一个很棒的故事，大家对此有何看法？    由   提交 /u/WingPuzzleheaded8007   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1byvh65/bo_dallas_should_of_attacked_la_knight/</guid>
       <pubDate>Mon, 08 Apr 2024 11:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以与 Trollstore 配合使用的深色模式 safari ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1byr1l3/any_dark_mode_safari_ipa_that_works_with/</link>
-      <description><![CDATA[尝试了深色阅读器和其他阅读器，但它们没有出现在 safari 的扩展设置中。如有任何建议，我们将不胜感激。   由   提交 /u/dolcelavita   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1byr1l3/any_dark_mode_safari_ipa_that_works_with/</guid>
-      <pubDate>Mon, 08 Apr 2024 06:34:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
