@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 12 Apr 2024 15:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:08:38 GMT</lastBuildDate>
+    <item>
+      <title>Spotify++ 直接安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2eddg/spotify_direct_install/</link>
+      <description><![CDATA[有人直接安装过Spotify++吗？我所有的证书都被撤销了，这会有很大帮助。谢谢！   由   提交 /u/Difficult-Aside-7717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2eddg/spotify_direct_install/</guid>
+      <pubDate>Fri, 12 Apr 2024 17:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在第三代 iPad 上侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2ebn5/sideloading_on_a_3rd_gen_ipad/</link>
+      <description><![CDATA[您好， 我想修改我的旧 iPad，这样我就可以像 Miyoo Mini Plus 上的那样将游戏加载到上面或其他类似的复古游戏设备。我的一部分也在考虑为 iPad 提供 Linux 界面。最好的方法是什么？至于显示和游戏玩法，我不确定是否应该坚持触摸界面，添加键盘和鼠标，或者看看是否可以找到兼容的蓝牙控制器。多年前，我从一家儿童医院免费得到了这台 iPad，并且我也愿意接受其他建议来重新利用它。  谢谢！   由   提交/u/FreedomDue2022   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2ebn5/sideloading_on_a_3rd_gen_ipad/</guid>
+      <pubDate>Fri, 12 Apr 2024 17:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试制作 YTLitePlus IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2bjyb/trying_to_make_a_ytliteplus_ipa/</link>
+      <description><![CDATA[我按照有关如何构建 IPA 的说明进行操作，但在过去 7 个多小时内，它一直显示“请求的标签：macos-latest Job 已定义”位于：nerddiggy/YTLitePlus/.github/workflows/buildapp.yml@refs/heads/main 正在等待跑步者接手这份工作...”。我做错什么了吗？我怎样才能让它发挥作用？这是我第一次这样做，所以我不太确定问题可能是什么或如何解决。谢谢   由   提交/u/nerd_diggy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2bjyb/trying_to_make_a_ytliteplus_ipa/</guid>
+      <pubDate>Fri, 12 Apr 2024 15:09:20 GMT</pubDate>
+    </item>
     <item>
       <title>一个可用的 Reddit 应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c2bfkx/a_working_reddit_app/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[我该怎么办   由   提交/u/avocadoice_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c2anll/im_using_signulous_but_its_telling_me_i_cant/</guid>
       <pubDate>Fri, 12 Apr 2024 14:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现了适用于 iphone 的免费高级 Spotify 东西（涉及 Windows 电脑）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c2a6hx/free_premium_spotify_thing_for_iphones_i_found/</link>
-      <description><![CDATA[所以你需要下载一个免费的 windows 版 Spotify Premium 桌面版本，这非常简单。创建一个新账户。将官方 Spotify 下载到您的手机上。登录您在PC上创建的帐户（使用用户名，我认为这样效果更好）。您可以获得“高级”PC 版本的所有功能。如果应用程序返回到免费版本（有时会发生这种情况），请在手机上注销 Spotify 并重新登录。这可能会得到修补，但它比 altstore 或我在网上找到的任何其他方式要容易得多。    由   提交 /u/Cake_exe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c2a6hx/free_premium_spotify_thing_for_iphones_i_found/</guid>
-      <pubDate>Fri, 12 Apr 2024 14:12:06 GMT</pubDate>
     </item>
     <item>
       <title>解密日不起作用，因为它认为我正在使用广告拦截器</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[从昨天开始，spotilife 无论如何都无法工作。我向我展示了我没有溢价，尽管它运行良好一年   由   提交 /u/Zestyclose-Ability29   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1s15f/spotilife_not_working_anymore/</guid>
       <pubDate>Thu, 11 Apr 2024 22:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于旁加载应用程序的可启动映像？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</link>
-      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的 Palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>将高级破解应用程序从 JB 转移到 Jailed Phone</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1ph84/moving_premium_cracked_apps_from_jb_to_jailed/</link>
-      <description><![CDATA[我有两部手机。一台 XR 在 16.3.1 上用 Dopamine 越狱，还有一台 15PM，我经常在上面侧载应用程序。我见过很多 IPA 已经突破了溢价，并且想知道这个过程是什么样的。我有 Satella 并已确认它可以与我想要的应用程序配合使用，现在我只需要知道如何将该应用程序转移到我的主手机上并保持高级。如果有人有任何见解，他们将不胜感激。谢谢！   由   提交/u/Sharp_Listen3436  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1ph84/moving_premium_cracked_apps_from_jb_to_jailed/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:33:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 12 Apr 2024 15:08:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:08:29 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 和银行应用程序</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1c2fyiv/trollstore_and_bank_app/</link>
+      <description><![CDATA[如果我安装 Trollstore 和 Legizmo Lighthouse（用于在不受支持的 iOS 版本上运行 Apple Watch 的实用程序），我的银行应用程序会不会考虑 Trollstore 和 Legizmo越狱？    由   提交 /u/necoarcpilk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1c2fyiv/trollstore_and_bank_app/</guid>
+      <pubDate>Fri, 12 Apr 2024 18:06:56 GMT</pubDate>
+    </item>
     <item>
       <title>使固定？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1c21fjn/fix/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>给那些想要在 Trollstore 上使用 uYouEnhanced 的人的提示</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</link>
-      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了本教程来帮助解决这个问题（它要求您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，在其存储库部分添加 uYouEnhanced 存储库：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
+      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了本教程来帮助解决这个问题（它要求您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，将 uYouEnhanced 存储库添加到其存储库部分：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</guid>
       <pubDate>Sun, 07 Apr 2024 08:57:41 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>是否有可以从 trollstore 下载的主题或应用程序商店，或者只是在网上找到 IPA？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1bw8v8h/is_there_a_theme_or_appstore_that_you_download_to/</link>
-      <description><![CDATA[如果有人可以推荐一个好的商店来侧载或者他们如何设置他们的 trollstore 应用程序，我将不胜感激！ &lt; !-- SC_ON --&gt;  由   提交 /u/VURORA   [链接] [评论]]]></description>
+      <description><![CDATA[如果有人可以向我推荐一个好的侧载商店或者他们如何设置他们的 trollstore 应用程序，我将不胜感激！ &lt; !-- SC_ON --&gt;  由   提交 /u/VURORA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bw8v8h/is_there_a_theme_or_appstore_that_you_download_to/</guid>
       <pubDate>Fri, 05 Apr 2024 04:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>巨魔商店的目的到底是什么？为什么我们需要从 trollstore 旁加载相同的应用程序？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1bw88cz/what_exactly_is_the_purpose_of_trollstore_why_do/</link>
-      <description><![CDATA[我不是一个技术含量很高的人，谁能帮我理解为什么我们使用 trollstore。谢谢    由   提交 /u/Careful-Ad6235    reddit.com/r/Trollstore/comments/1bw88cz/what_exactly_is_the_ Purpose_of_trollstore_why_do/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1bw88cz/what_exactly_is_the_purpose_of_trollstore_why_do/</guid>
-      <pubDate>Fri, 05 Apr 2024 03:44:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
