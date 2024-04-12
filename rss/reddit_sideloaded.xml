@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:08:09 GMT</lastBuildDate>
+    <item>
+      <title>一个可用的 Reddit 应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2bfkx/a_working_reddit_app/</link>
+      <description><![CDATA[嘿！我正在寻找 Reddit 应用程序的侧载版本，该版本不会在我的提要中显示升级帖子或随机帖子。我尝试过 Winston 和 Apollo，但似乎都不像原来的 Reddit 应用程序那样显示我的提要。我不太清楚为什么，但就是这样的感觉。另外，我已经尝试使用 level3tjg 的 Reddit 过滤器，但登录时遇到问题。它一直告诉我“出了点问题，请稍后重试”。无论我是否使用带有或不带有双因素身份验证的帐户，都会发生这种情况，所以这不是问题。关于可能导致此问题或如何解决此问题的任何想法？   由   提交/u/Dkrutz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2bfkx/a_working_reddit_app/</guid>
+      <pubDate>Fri, 12 Apr 2024 15:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在使用 Signulous，但它告诉我无法验证并且我需要互联网连接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2anll/im_using_signulous_but_its_telling_me_i_cant/</link>
+      <description><![CDATA[我该怎么办   由   提交/u/avocadoice_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2anll/im_using_signulous_but_its_telling_me_i_cant/</guid>
+      <pubDate>Fri, 12 Apr 2024 14:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发现了适用于 iphone 的免费高级 Spotify 东西（涉及 Windows 电脑）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c2a6hx/free_premium_spotify_thing_for_iphones_i_found/</link>
+      <description><![CDATA[所以你需要下载一个免费的 windows 版 Spotify Premium 桌面版本，这非常简单。创建一个新账户。将官方 Spotify 下载到您的手机上。登录您在PC上创建的帐户（使用用户名，我认为这样效果更好）。您可以获得“高级”PC 版本的所有功能。如果应用程序返回到免费版本（有时会发生这种情况），请在手机上注销 Spotify 并重新登录。这可能会得到修补，但它比 altstore 或我在网上找到的任何其他方式要容易得多。    由   提交 /u/Cake_exe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c2a6hx/free_premium_spotify_thing_for_iphones_i_found/</guid>
+      <pubDate>Fri, 12 Apr 2024 14:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>解密日不起作用，因为它认为我正在使用广告拦截器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c29rtb/decrypt_day_not_working_because_it_thinks_im/</link>
+      <description><![CDATA[每次我尝试使用免费下载时，它都会告诉我我已激活广告拦截器并且必须升级我的帐户。我的广告拦截器未启用，我什至卸载了它，看看它是否能解决问题，但它一直告诉我我正在使用一个广告拦截器（我肯定也会收到广告，它们遍布整个页面）。我还切换到了一个我从未下载过广告拦截器的 Chrome 配置文件，但它也说了同样的事情。有谁知道如何解决这个问题？   由   提交/u/BubbleTea6969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c29rtb/decrypt_day_not_working_because_it_thinks_im/</guid>
+      <pubDate>Fri, 12 Apr 2024 13:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道支付 Apple 开发帐户是否允许在应用程序中进行 JIT？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c28pq6/does_anyone_know_if_paying_for_a_apple_dev/</link>
+      <description><![CDATA[如果是这样，它是如何工作的？   由   提交 /u/Bizzyguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c28pq6/does_anyone_know_if_paying_for_a_apple_dev/</guid>
+      <pubDate>Fri, 12 Apr 2024 13:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是侧载新手，有几个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c27mcq/im_new_to_sideloading_and_have_a_few_questions/</link>
+      <description><![CDATA[对于某些情况，我最近从 Android 切换到运行 ios 16.7.6 的 Iphone X，有一些应用程序我想要旁加载，但我有一些问题  ​ - 我是否需要 IOS 的开发者帐户或某种应用程序的高级会员资格（如果需要，是否有任何免费的替代方案 - 我使用哪些应用程序将 IPA 旁加载到我的手机上 - 我看到一个人谈论使用一个名为 freebox 的网站，这是真的吗？     提交者    /u/kaatchh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c27mcq/im_new_to_sideloading_and_have_a_few_questions/</guid>
+      <pubDate>Fri, 12 Apr 2024 12:14:20 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 开发者帐户是否允许我为所有调整/破解的应用程序进行应用程序内沙盒购买？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c27cii/will_an_apple_developer_account_allow_me_to_make/</link>
@@ -57,7 +99,7 @@
     <item>
       <title>用于旁加载应用程序的可启动映像？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</link>
-      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的 Palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</guid>
       <pubDate>Thu, 11 Apr 2024 20:43:47 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我有两部手机。一台 XR 在 16.3.1 上用 Dopamine 越狱，还有一台 15PM，我经常在上面侧载应用程序。我见过很多 IPA 已经突破了溢价，并且想知道这个过程是什么样的。我有 Satella 并已确认它可以与我想要的应用程序配合使用，现在我只需要知道如何将该应用程序转移到我的主手机上并保持高级。如果有人有任何见解，他们将不胜感激。谢谢！   由   提交/u/Sharp_Listen3436  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1ph84/moving_premium_cracked_apps_from_jb_to_jailed/</guid>
       <pubDate>Thu, 11 Apr 2024 20:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1oe3i/updating_safe/</link>
-      <description><![CDATA[我终于成功在我的 iPad 上安装了 trollstore。现在如果我将其更新到 17.5 beta，它仍然可以工作吗？   由   提交/u/DonutvibesYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1oe3i/updating_safe/</guid>
-      <pubDate>Thu, 11 Apr 2024 19:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您旁加载哪些应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1mdhg/which_apps_do_you_sideload/</link>
-      <description><![CDATA[我将它用于 Reddit plus 和 BHX。这些应用程序中的广告太多。我尝试了胡萝卜天气，但小部件不起作用。    由   提交 /u/EloneMusk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1mdhg/which_apps_do_you_sideload/</guid>
-      <pubDate>Thu, 11 Apr 2024 18:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的 IPA 或任何经过调整的 Snapchat</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1krh7/good_ipa_or_any_tweaked_snapchat/</link>
-      <description><![CDATA[是否有任何经过调整的 Snapchat 在未越狱的 iPhone 上未检测到。从几个月前开始，SCFalcon 就不再和我一起工作了。如果有人知道任何其他好的 IPA lmk   由   提交/u/Secret_Ad_4131   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1krh7/good_ipa_or_any_tweaked_snapchat/</guid>
-      <pubDate>Thu, 11 Apr 2024 17:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube ipa 不会每天让您注销并重新登录，从而导致您丢失设置？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1j826/youtube_ipa_that_doesnt_sign_you_out_and_back_in/</link>
-      <description><![CDATA[每天当应用程序加载时，它都会让我重新登录，但这会导致我丢失设置，例如隐藏的选项卡。   由   提交 /u/yellowroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1j826/youtube_ipa_that_doesnt_sign_you_out_and_back_in/</guid>
-      <pubDate>Thu, 11 Apr 2024 16:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助我在没有电脑的情况下安装这个 .ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1gyuy/help_me_install_this_ipa_without_pc_pls/</link>
-      <description><![CDATA[我想安装 Nulls Brawl，我从他们的网站上获得了 ipa，但我不知道如何在没有电脑的情况下免费安装它。有人可以帮忙吗？   由   提交/u/Olivr_Ont   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1gyuy/help_me_install_this_ipa_without_pc_pls/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有 2020 年更新的 Spotify ipa 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1fzrl/are_there_any_ipa_file_for_spotify_that_is_newer/</link>
-      <description><![CDATA[任何人都可以发送文件或链接吗？    由   提交/u/MessageAggressive186   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1fzrl/are_there_any_ipa_file_for_spotify_that_is_newer/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
