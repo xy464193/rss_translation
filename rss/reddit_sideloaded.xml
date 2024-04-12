@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 12 Apr 2024 06:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 09:09:46 GMT</lastBuildDate>
+    <item>
+      <title>猩红反撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c22bu7/anti_revoke_on_scarlet/</link>
+      <description><![CDATA[所以我想知道如何阻止scarlet被撤销，但我唯一能找到的是带有dns cloak的方法，但它被删除了从应用程序商店。请问还有什么办法吗？   由   提交/u/G0OD_NAME  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c22bu7/anti_revoke_on_scarlet/</guid>
+      <pubDate>Fri, 12 Apr 2024 06:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>旁加载的 IPA（如果有的话）如何更新？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1s9qx/how_do_sideloaded_ipas_update_if_they_do_at_all/</link>
@@ -20,16 +27,9 @@
       <pubDate>Thu, 11 Apr 2024 22:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>最近有什么（安全的）Deezer IPA 可以分享吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1put6/any_safe_recent_deezer_ipas_to_share/</link>
-      <description><![CDATA[嗨，我正在寻找要在 IOS 17.4 上安装的 Deezer IPA。我一直在互联网上寻找一个，但它们都不起作用（当我使用 AltStore 旁加载时它不会安装）。  哦，请不要使用谷歌驱动器链接或类似的东西！！ （我只是不知道该怎么办）。 非常感谢！  ​   由   提交 /u/boredgirlllll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1put6/any_safe_recent_deezer_ipas_to_share/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:48:14 GMT</pubDate>
-    </item>
-    <item>
       <title>用于旁加载应用程序的可启动映像？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</link>
-      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的 Palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，因此无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的 Palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</guid>
       <pubDate>Thu, 11 Apr 2024 20:43:47 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>YouTube ipa 不会每天让您注销并重新登录，从而导致您丢失设置？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1j826/youtube_ipa_that_doesnt_sign_you_out_and_back_in/</link>
-      <description><![CDATA[每天当应用程序加载时，它都会让我重新登录，但这会导致我丢失设置，例如隐藏哪些选项卡。   由   提交 /u/yellowroll   [链接] [评论]]]></description>
+      <description><![CDATA[每天当应用程序加载时，它都会让我重新登录，但这会导致我丢失设置，例如隐藏的选项卡。   由   提交 /u/yellowroll   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1j826/youtube_ipa_that_doesnt_sign_you_out_and_back_in/</guid>
       <pubDate>Thu, 11 Apr 2024 16:20:22 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>黑洞的最佳替代品？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/</link>
-      <description><![CDATA[自从 Blackhole GitHub 下线以来，是否有人有一个好的替代方案来播放 YouTube 音乐？我找不到任何其他应用程序。    由   提交 /u/Whoami-X   [链接] [评论]]]></description>
+      <description><![CDATA[自从 Blackhole GitHub 下线以来，是否有人有一个好的替代方案来播放 YouTube 音乐？我找不到任何其他应用程序。    由   提交 /u/Whoami-X    reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/</guid>
       <pubDate>Thu, 11 Apr 2024 13:49:48 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>需要 Spotilife 最新版本</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1d879/need_spotilife_latest_version/</link>
-      <description><![CDATA[嘿谁能给我提供最新的仅ipa形式的spotilife版本？我有一个，但它是 .zip 形式，无法打开。   由   提交/u/quyeeroh  [链接] [评论]]]></description>
+      <description><![CDATA[嘿，谁能给我提供最新的仅ipa形式的spotilife版本？我有一个，但它是 .zip 形式，无法打开。   由   提交/u/quyeeroh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1d879/need_spotilife_latest_version/</guid>
       <pubDate>Thu, 11 Apr 2024 11:58:27 GMT</pubDate>
     </item>
