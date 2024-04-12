@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:14:00 GMT</lastBuildDate>
+    <item>
+      <title>Apple 开发者帐户是否允许我为所有调整/破解的应用程序进行应用程序内沙盒购买？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c27cii/will_an_apple_developer_account_allow_me_to_make/</link>
+      <description><![CDATA[正如标题所说。 我写的时候提供了太多细节 TL;DR:  如果我购买开发者证书，我可以创建一个 Apple ID，允许我“购买”我所有调整过的应用程序中提供的任何和所有优质内容，但大多数时候都会失败，因为我没有沙箱授权 ID 进行此类购买？  或者我只是做错了什么？ 剩余部分已删除；真是一团糟。   由   提交 /u/loudquietloid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c27cii/will_an_apple_developer_account_allow_me_to_make/</guid>
+      <pubDate>Fri, 12 Apr 2024 12:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有电影盒码吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c26wzz/anybody_got_a_movie_box_code/</link>
+      <description><![CDATA[标题^   由   提交 /u/boodyexpert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c26wzz/anybody_got_a_movie_box_code/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign无法安装应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c25qwn/esign_fails_to_install_apps/</link>
+      <description><![CDATA[我已经安装了带有正确证书的设计。我下载了应用程序并尝试签名。安装应用程序后无法打开，显示错误无法验证。知道如何修复吗？   由   提交 /u/EloneMusk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c25qwn/esign_fails_to_install_apps/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>破解知名度</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c24z84/cracked_notability/</link>
+      <description><![CDATA[有什么方法可以破解 Notability，并且不受免费版本编辑注释的限制吗？    由   提交/u/tommyMoro7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c24z84/cracked_notability/</guid>
+      <pubDate>Fri, 12 Apr 2024 09:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>猩红反撤销？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c22bu7/anti_revoke_on_scarlet/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>用于旁加载应用程序的可启动映像？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</link>
-      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的 Palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我使用 Ventoy 和 checkn1x、3 个不同版本的palera1n 以及文件夹中的一些 IPA 文件（未使用）现在...）通过在我的学校电脑上使用 Ventoy 启动到我的 USB 来越狱任何人的手机，并已成功越狱 2 部手机。然而，我注意到，如今，一切都变成了无根 IPA 文件，而且我的学校电脑（Windows 11）上没有管理员，所以无法使用 sideloadly，并且想知道是否有或是否可以创建可启动的文件我可以用它来侧面加载应用程序、SD 卡、本地硬盘等中的 IPA 文件。 这可能是个好主意，也可能是垃圾。无论如何，感谢您阅读本文，并评论任何答案或进一步的问题！   由   提交/u/dk865409  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1pqs9/bootable_image_for_sideloading_apps/</guid>
       <pubDate>Thu, 11 Apr 2024 20:43:47 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Thu, 11 Apr 2024 14:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>是否有 2020 年以上更新的 Spotify ipa 文件？</title>
+      <title>是否有 2020 年更新的 Spotify ipa 文件？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c1fzrl/are_there_any_ipa_file_for_spotify_that_is_newer/</link>
       <description><![CDATA[任何人都可以发送文件或链接吗？    由   提交/u/MessageAggressive186   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c1fzrl/are_there_any_ipa_file_for_spotify_that_is_newer/</guid>
       <pubDate>Thu, 11 Apr 2024 14:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑洞的最佳替代品？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/</link>
-      <description><![CDATA[自从 Blackhole GitHub 下线以来，是否有人有一个好的替代方案来播放 YouTube 音乐？我找不到任何其他应用程序。    由   提交 /u/Whoami-X    reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1fk09/best_alternative_for_blackhole/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>签名更新应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1etp8/signulous_update_app/</link>
-      <description><![CDATA[我目前正在使用 Nyx for Instagram v1.2.2。现在有 1.2.6 的更新。我想更新，但不知道如何更新。  当我尝试上传文件时，它要求提供 ipa 文件。于是我询问了开发者，但他们说只能提供 deb 文件，signulous 不接受。  如何更新我的应用程序？   由   提交 /u/ReasonableAmoeba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1etp8/signulous_update_app/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 Spotilife 最新版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1d879/need_spotilife_latest_version/</link>
-      <description><![CDATA[嘿，谁能给我提供最新的仅ipa形式的spotilife版本？我有一个，但它是 .zip 形式，无法打开。   由   提交/u/quyeeroh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1d879/need_spotilife_latest_version/</guid>
-      <pubDate>Thu, 11 Apr 2024 11:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功安装猩红后出现错误无法验证互联网连接是必需的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c1ayq7/after_successfully_installing_scarlet_getting/</link>
-      <description><![CDATA[所以我在使用 dns anti revoke 并信任该应用程序后成功安装了猩红。但是当我打开它时，它显示错误无法验证是否需要互联网连接。如何解决这个问题？   由   提交 /u/EloneMusk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c1ayq7/after_successfully_installing_scarlet_getting/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:40:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
