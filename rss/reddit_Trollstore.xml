@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Mon, 15 Apr 2024 21:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 00:35:29 GMT</lastBuildDate>
+    <item>
+      <title>应用程序隐藏应用程序？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1c506t9/app_to_hide_apps/</link>
+      <description><![CDATA[是否有允许隐藏应用程序的应用程序？   由   提交/u/bashar_20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1c506t9/app_to_hide_apps/</guid>
+      <pubDate>Mon, 15 Apr 2024 22:51:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的手机一次又一次重启</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1c4xsdk/my_phone_restarting_again_and_again/</link>
+      <description><![CDATA[过去 4 个月我一直在使用 Trollstore，大约一个月前我开始重新启动！ 你认为这是因为巨魔商店？其他人也遇到这样的问题吗？   由   提交 /u/Next_Tie_5502   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1c4xsdk/my_phone_restarting_again_and_again/</guid>
+      <pubDate>Mon, 15 Apr 2024 21:14:12 GMT</pubDate>
+    </item>
     <item>
       <title>什么是刷新应用程序注册</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1c4bhod/what_is_refresh_app_registrations/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[试图找到一种方法来做到这一点。谢谢你！    由   提交 /u/RedMfBackpack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1by1ncj/anyway_to_rename_apps_on_ios_166_with_trollstore/</guid>
       <pubDate>Sun, 07 Apr 2024 10:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>克隆的Messenger ipa安装了trollstore，让我退出！这是预期的吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1by0gye/cloned_messenger_ipa_installed_with_trollstore/</link>
-      <description><![CDATA[如标题所示   由   提交/u/aghozzo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1by0gye/cloned_messenger_ipa_installed_with_trollstore/</guid>
-      <pubDate>Sun, 07 Apr 2024 09:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>给那些想要在 Trollstore 上使用 uYouEnhanced 的人的提示</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</link>
-      <description><![CDATA[由于 GitHub 不允许编译 UYouEnhanced 的 IPA，剩下的就是自己编译了；然而，因为我很懒，所以我不想做这项工作，并找到了 AltStore 提供的另一个替代方案。我制作了这个教程来帮助解决这个问题（它需要您安装 TrollStore）：  从此存储库下载并安装 TrollApps：https://github.com/swaggyP36000/TrollStore-IPAs 安装后，在其存储库部分添加 uYouEnhanced 存储库：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json  准备好后，您可以使用预编译的 IPA 导航到源代码，并且可以在同一应用程序中下载/安装  利润 我希望这会有所帮助   由   提交/u/cjantonio59  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1bxzvcs/tip_for_those_who_want_uyouenhanced_on_trollstore/</guid>
-      <pubDate>Sun, 07 Apr 2024 08:57:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
