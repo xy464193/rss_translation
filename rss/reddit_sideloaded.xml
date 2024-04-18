@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:10:28 GMT</lastBuildDate>
+    <item>
+      <title>为什么侧载中显示的是我的 Mac 文件而不是手机文件？我已连接 USB 并在 i 设备部分选择了我的设备。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c795ho/why_are_my_mac_files_showing_up_instead_of_my/</link>
+      <description><![CDATA[请帮忙   由   提交 /u/adrianlikeskfc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c795ho/why_are_my_mac_files_showing_up_instead_of_my/</guid>
+      <pubDate>Thu, 18 Apr 2024 17:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uyou播放视频时崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c77j2n/uyou_crashing_when_going_to_play_video/</link>
+      <description><![CDATA[有什么解决办法吗？   由   提交 /u/Known-Amphibian2004   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c77j2n/uyou_crashing_when_going_to_play_video/</guid>
+      <pubDate>Thu, 18 Apr 2024 16:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Esign 会出现侧载问题，但使用 Signulous 则不会</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c723zk/issue_sideloading_with_esign_but_not_with/</link>
@@ -15,21 +29,21 @@
     <item>
       <title>发布商 ID 和应用程序设计要求</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c70gga/publisher_ids_and_app_design_requirements/</link>
-      <description><![CDATA[大家好！ 今天我们开始准备在 appdb 上发布正式应用，并启动发布商 ID 服务，可通过 https:/ 访问/publisherid.appdb.to/ 并发布应用设计要求。 我们与位于立陶宛的 RegTech 公司 iDenfy 合作，负责处理我们的 KYC、开发者验证程序。 &lt; p&gt;我们高度重视用户和开发者的隐私、安全和安全，我们要求开发者通过实时身份验证检查，从而在最终用户和应用开发者之间建立信任链。 遵守适用法律、GDPR，与 iDenfy 合作使我们能够建立安全的信息交换流程。 我们邀请感兴趣的开发者完成身份验证程序并了解一些应用程序设计要求，因此在五月份，我们将推出承诺的免费的应用发布功能包，您的应用提交将得到更快的处理（甚至自动）。 目前我们正忙于文档准备和应用发布服务的密集内部测试，因此屏住呼吸，做好准备！ 谨致问候，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 今天我们开始准备在 appdb 上发布正式应用，并启动发布商 ID 服务，可通过 https:/ 访问/publisherid.appdb.to/ 并发布应用设计要求。 我们与 iDenfy 合作，这是一家位于立陶宛的 RegTech 公司，负责处理我们的 KYC、开发者验证程序。 &lt; p&gt;我们高度重视用户和开发者的隐私、安全和安全，我们要求开发者通过实时身份验证检查，从而在最终用户和应用开发者之间建立信任链。 遵守适用法律、GDPR，与 iDenfy 合作使我们能够建立安全的信息交换流程。 我们邀请感兴趣的开发者完成身份验证程序并了解一些应用程序设计要求，因此在五月份，我们将推出承诺的免费的应用发布功能包，您的应用提交将得到更快的处理（甚至自动）。 目前我们正忙于文档准备和应用发布服务的密集内部测试，因此屏住呼吸，做好准备！ 谨致问候，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c70gga/publisher_ids_and_app_design_requirements/</guid>
       <pubDate>Thu, 18 Apr 2024 10:59:44 GMT</pubDate>
     </item>
     <item>
       <title>应用程序数据库错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c6yji0/error_in_app_db/</link>
-      <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交 /u/GiovanniPollastro   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交/u/GiovanniPollastro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c6yji0/error_in_app_db/</guid>
       <pubDate>Thu, 18 Apr 2024 08:50:39 GMT</pubDate>
     </item>
     <item>
       <title>应用程序数据库错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c6y6s8/error_in_app_db/</link>
-      <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交 /u/GiovanniPollastro   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交/u/GiovanniPollastro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c6y6s8/error_in_app_db/</guid>
       <pubDate>Thu, 18 Apr 2024 08:24:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[标题*   由   提交 /u/boodyexpert   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c6bz3f/anybody_got_ipa_links_for_dino_cap_1_or_2/</guid>
       <pubDate>Wed, 17 Apr 2024 14:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>单一问题（帮助我）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c6bd9g/issue_with_singulous_help_me/</link>
-      <description><![CDATA[救救我！我今天买了singulous，我的每一步都是真实的，而且做得正确。它可以将应用程序签名到我的手机上，我信任设置中的企业应用程序。但是当我单击该应用程序时，它不起作用，它显示“无法验证”谁能帮我吗？   由   提交/u/MountainLibrarian245   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c6bd9g/issue_with_singulous_help_me/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:30:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouplus 的任何替代品</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c6b411/any_alternatives_for_uyouplus/</link>
-      <description><![CDATA[我需要付费 YouTube，如果您有，请尽快发送任何链接   由   提交 /u/Minechatter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c6b411/any_alternatives_for_uyouplus/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:20:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
