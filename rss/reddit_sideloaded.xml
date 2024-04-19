@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 19 Apr 2024 09:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:14:01 GMT</lastBuildDate>
+    <item>
+      <title>AltStore PAL 的 YouTube 音乐</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c7u9ri/youtube_music_for_altstore_pal/</link>
+      <description><![CDATA[我想使用 AltStore PAL 下载一些 YouTube 音乐和 YouTube 黑客应用程序，我该怎么做？   由   提交 /u/Josamen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c7u9ri/youtube_music_for_altstore_pal/</guid>
+      <pubDate>Fri, 19 Apr 2024 11:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>IPA/调整强制应用程序在 iPad 上进入横向模式？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c7rurr/ipatweaks_that_forces_apps_into_landscape_mode_on/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交/u/GiovanniPollastro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c6yji0/error_in_app_db/</guid>
       <pubDate>Thu, 18 Apr 2024 08:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序数据库错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c6y6s8/error_in_app_db/</link>
-      <description><![CDATA[嗨，appdb 开发人员，直到昨天我已经安装了所有应用程序并且一切正常，然后第二天它们没有打开，我尝试删除安装的证书，我重新安装了证书，但应用程序不想重新安装，我该如何解决这个问题？我有一个 plus 帐户，昨天付款了   由   提交/u/GiovanniPollastro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c6y6s8/error_in_app_db/</guid>
-      <pubDate>Thu, 18 Apr 2024 08:24:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
