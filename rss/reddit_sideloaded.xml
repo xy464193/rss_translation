@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 19 Apr 2024 15:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 18:09:55 GMT</lastBuildDate>
+    <item>
+      <title>您使用哪种 TikTok 调整？ （IPA 和回购协议）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c83igu/which_tiktok_tweak_do_you_use_ipa_and_repo/</link>
+      <description><![CDATA[之前只使用过 swaggy 仓库中的 BHtiktok，想知道是否有更好的。   由   提交 /u/yellowroll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c83igu/which_tiktok_tweak_do_you_use_ipa_and_repo/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用不是最新的带有旁加载的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c829kr/use_not_up_to_date_apps_with_sideload/</link>
+      <description><![CDATA[嗨，我现在可以使用不是最新的应用程序和一些侧载魔法来享受我最喜欢的死手机游戏吗？    由   提交 /u/FunnyQuarter341   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c829kr/use_not_up_to_date_apps_with_sideload/</guid>
+      <pubDate>Fri, 19 Apr 2024 17:12:07 GMT</pubDate>
+    </item>
     <item>
       <title>AltStore PAL 会登陆美国吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c7wnr1/is_altstore_pal_ever_coming_to_the_united_states/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有什么解决办法吗？   由   提交 /u/Known-Amphibian2004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c77j2n/uyou_crashing_when_going_to_play_video/</guid>
       <pubDate>Thu, 18 Apr 2024 16:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Esign 会出现侧载问题，但使用 Signulous 则不会</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c723zk/issue_sideloading_with_esign_but_not_with/</link>
-      <description><![CDATA[它适用于大多数应用程序，但当我安装某些特定应用程序时，应用程序无法正常工作。例如它崩溃了。 Instagram 随机退出。但是当我使用signulous安装时，我没有收到这些错误。它工作完美。有人遇到这个问题吗？   由   提交 /u/behzatomeland  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c723zk/issue_sideloading_with_esign_but_not_with/</guid>
-      <pubDate>Thu, 18 Apr 2024 12:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布商 ID 和应用程序设计要求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c70gga/publisher_ids_and_app_design_requirements/</link>
-      <description><![CDATA[大家好！ 今天我们开始准备在 appdb 上发布正式应用，并启动发布商 ID 服务，可通过 https:/ 访问/publisherid.appdb.to/ 并发布应用设计要求。 我们与位于立陶宛的 RegTech 公司 iDenfy 合作，负责处理我们的 KYC、开发者验证程序。 &lt; p&gt;我们高度重视用户和开发者的隐私、安全和安全，我们要求开发者通过实时身份验证检查，从而在最终用户和应用开发者之间建立信任链。 遵守适用法律、GDPR，与 iDenfy 合作使我们能够建立安全的信息交换流程。 我们邀请感兴趣的开发者完成身份验证程序并了解一些应用程序设计要求，因此在五月份，我们将推出承诺的免费的应用发布功能包，您的应用提交将得到更快的处理（甚至自动）。 目前我们正忙于文档准备和应用发布服务的密集内部测试，因此屏住呼吸，做好准备！ 谨致问候，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c70gga/publisher_ids_and_app_design_requirements/</guid>
-      <pubDate>Thu, 18 Apr 2024 10:59:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
