@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 20 Apr 2024 15:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 18:11:01 GMT</lastBuildDate>
+    <item>
+      <title>[教程]在Apple地图中打开Goog​​le地图链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8vtnt/tutorial_open_google_maps_links_in_apple_maps/</link>
+      <description><![CDATA[[教程]在 Apple 地图中打开 Google 地图链接 在地图中打开 要打开的用户脚本iOS 上的地图应用程序中的 Google 地图链接。所有代码都是免费且开源的。 下载 用于运行用户脚本的 Safari 扩展（免费）：https://apps.apple.com/us/app/userscripts/id1463298887 用户脚本代码：在地图中打开 如何安装 方法1 安装免费开源应用用户脚本启动应用并选择脚本的路径 在“设置”&gt;“iPhone 上启用用户脚本”野生动物园&gt;扩展在iPhone/iPad上点击即可查看打开代码在地图中打开 在 safari 中点击 Aa，然后点击用户脚本 安装检测到的用户脚本。   由   提交/u/Unified-Field  /u/Unified-Field  reddit.com/r/sideloaded/comments/1c8vtnt/tutorial_open_google_maps_links_in_apple_maps/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8vtnt/tutorial_open_google_maps_links_in_apple_maps/</guid>
+      <pubDate>Sat, 20 Apr 2024 17:44:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从 swaggyp36000 存储库请求应用程序。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8v3kj/how_to_request_an_app_from_swaggyp36000_repo/</link>
+      <description><![CDATA[我注意到，在此存储库上提供的应用程序下，有一条注释说“用户请求了它，所以它就在这里”。我想知道我们如何以及在哪里发送这些请求。   由   提交/u/Various-Fold-856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8v3kj/how_to_request_an_app_from_swaggyp36000_repo/</guid>
+      <pubDate>Sat, 20 Apr 2024 17:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一些基本问题，希望得到一些指导。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8tozd/i_have_some_basic_questions_and_would_appreciate/</link>
+      <description><![CDATA[嗨。我对此完全陌生，所以我希望可以问这些基本问题。我试图自己寻找答案，但我感觉有点不知所措；我有认知问题，这使得寻找和理解事物变得比应有的困难得多！如果有任何帮助，我将不胜感激。 是否有任何地方可以阅读关于什么是证书以及在侧载方面使用的 ELI5 解释？ 该程序 Sideloadly 安全吗？使用吗？ ipaomtk.com 网站下载安全吗？我想使用的游戏应用程序都在这里，并且该网站推荐 sideloadly。 使用修改后的游戏应用程序会对我的 Apple 帐户产生任何不良影响吗？我卧床不起，无聊透顶，所以我真的希望这些可以用。  如果这些问题很愚蠢，我很抱歉！任何帮助将不胜感激。谢谢。   由   提交 /u/veiledbones   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8tozd/i_have_some_basic_questions_and_would_appreciate/</guid>
+      <pubDate>Sat, 20 Apr 2024 16:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 10.3.3 Ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8teon/spotify_1033_ipa/</link>
+      <description><![CDATA[这里有人知道/知道在哪里可以获取适用于 10.3.3 iOS 设备的 Spotify ipa 吗？更喜欢使用高级版的破解版 IPA，但普通版也可以。谢谢   由   提交/u/Chisporrita13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8teon/spotify_1033_ipa/</guid>
+      <pubDate>Sat, 20 Apr 2024 16:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8s6di/spotify/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>LiveContainer：解决 3 个应用程序限制的突破性方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</link>
-      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。在撰写本文时，此方法适用于最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式目前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。此方法适用于撰写本文时最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式当前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</guid>
       <pubDate>Sat, 20 Apr 2024 10:47:43 GMT</pubDate>
     </item>
@@ -43,14 +71,14 @@
     <item>
       <title>无需其他 Apple 设备即可将应用程序无线安装到您的 Apple TV</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8jaed/install_apps_to_your_apple_tv_wirelessly_without/</link>
-      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的 私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8jaed/install_apps_to_your_apple_tv_wirelessly_without/</guid>
       <pubDate>Sat, 20 Apr 2024 06:36:56 GMT</pubDate>
     </item>
     <item>
       <title>无需其他 Apple 设备即可使用 Apple TV</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8j9ae/ability_to_use_apple_tv_without_other_apple/</link>
-      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的 私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8j9ae/ability_to_use_apple_tv_without_other_apple/</guid>
       <pubDate>Sat, 20 Apr 2024 06:35:03 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我有点醉了，一般般，我在手机上下载了 altstore 并尝试获取 uyouenhanced youtube 应用程序。当我尝试下载它时，它说我缺少在我的 wifi 上运行的 altserver，这是真的，我还没有在我的电脑上安装它，它实际上是需要的还是我做错了什么？好像不需要，但也许我理解错了？   由   提交 /u/Showmetittiess   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8ap3t/guide/</guid>
       <pubDate>Fri, 19 Apr 2024 23:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载 YouTube 和 Spotify</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c89hb5/sideload_youtube_and_spotify/</link>
-      <description><![CDATA[有人可以告诉我如何使用 altstore 侧载 YouTube++ 和 Spotify。该应用程序只允许我使用内置源。任何替代方案也将不胜感激   由   提交 /u/casketyo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c89hb5/sideload_youtube_and_spotify/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的 Reddit 调整/ipas 有效吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c890i1/do_any_good_reddit_tweaksipas_work/</link>
-      <description><![CDATA[我想知道他们对第 3 方应用程序收取如此高的费用    ;由   提交/u/WhyLifeIs4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c890i1/do_any_good_reddit_tweaksipas_work/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altstore 剪辑应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c87trp/altstore_clip_app/</link>
-      <description><![CDATA[嘿！有什么方法可以通过设计来侧面加载 altstore 上可用的应用程序剪辑吗？谢谢！   由   提交 /u/Dangerous-Blood-9219   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c87trp/altstore_clip_app/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 10.3.3 TrollStore？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c87e9v/ios_1033_trollstore/</link>
-      <description><![CDATA[哟，我使用的是 iPhone 5c rn，最高仅支持 iOS 10.3.3。有谁知道我是否可以使用 TrollStore 甚至更好的越狱这个东西？感谢您的建议！   由   提交 /u/DONuT4ever2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c87e9v/ios_1033_trollstore/</guid>
-      <pubDate>Fri, 19 Apr 2024 20:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
