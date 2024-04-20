@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 20 Apr 2024 09:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 12:13:48 GMT</lastBuildDate>
+    <item>
+      <title>调整 IPA 错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8noe2/tweak_ipa_error/</link>
+      <description><![CDATA[所以我下载了一个经过调整的 ipa，它允许免费在应用程序内购买。当我点击“购买高级版”时，它会要求我提供 Apple ID 并通过，但是在我输入这些详细信息后，它只是给我一个错误，提示“请求失败”有人知道是否有办法解决此问题吗？ （有问题的 IPA 是一个名为 CollaNote 的应用程序）   由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8noe2/tweak_ipa_error/</guid>
+      <pubDate>Sat, 20 Apr 2024 11:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiveContainer：解决 3 个应用程序限制的突破性方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</link>
+      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。在撰写本文时，此方法适用于最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式当前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</guid>
+      <pubDate>Sat, 20 Apr 2024 10:47:43 GMT</pubDate>
+    </item>
     <item>
       <title>有更新的 Reddit 应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8k4v6/any_newer_modded_reddit_app/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[有什么解决办法吗？   由   提交/u/bashar_20   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8fatb/my_sposilife_8642_stopped_showing_me_the_lyrics/</guid>
       <pubDate>Sat, 20 Apr 2024 02:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore 无法连接到设备</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c8c3w0/sidestore_cant_connect_to_device/</link>
-      <description><![CDATA[全新安装，删除所有内容并重试，但仍然无法连接？在这个问题上坚持了两个小时，慢慢失去了理智   由   提交 /u/Agitated-Middle5876    reddit.com/r/sideloaded/comments/1c8c3w0/sidestore_cant_connect_to_device/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c8c3w0/sidestore_cant_connect_to_device/</guid>
-      <pubDate>Sat, 20 Apr 2024 00:07:13 GMT</pubDate>
     </item>
     <item>
       <title>憨豆先生围绕 ipa 这个词</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[9,99 是一次性付款还是必须每月付款？   由   提交/u/abri-sonne  /u/abri-sonne  reddit.com/r/sideloaded/comments/1c87du5/rocket_pro_costs/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c87du5/rocket_pro_costs/</guid>
       <pubDate>Fri, 19 Apr 2024 20:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以给我一个电影盒子专业版邀请码吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c83okb/can_some_one_please_provide_me_with_movie_box_pro/</link>
-      <description><![CDATA[请   由   提交/u/Relative_Pie_15   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c83okb/can_some_one_please_provide_me_with_movie_box_pro/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:09:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
