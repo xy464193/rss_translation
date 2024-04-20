@@ -4,14 +4,7 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:07:54 GMT</lastBuildDate>
-    <item>
-      <title>星档案的回购？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1c7zes4/repo_for_starfiles/</link>
-      <description><![CDATA[找不到存储库。对于 trollapps   由   提交/u/staquadev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1c7zes4/repo_for_starfiles/</guid>
-      <pubDate>Fri, 19 Apr 2024 15:16:28 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Apr 2024 00:36:17 GMT</lastBuildDate>
     <item>
       <title>CarPlay 背景（帮助我不懂技术）</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1c7xvfw/carplay_background_help_im_not_tech_savvy/</link>
@@ -29,7 +22,7 @@
     <item>
       <title>无法安装应用商店应用程序（特定的）</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1c5lnsq/cant_install_appstore_apps_specific_ones/</link>
-      <description><![CDATA[我已经在这里进行了搜索，这似乎是一个反复出现的问题，并且我已经尝试了您在寻找元数据标识符和删除文件夹，但它仍然不起作用 基本上，我无法安装Spotify，或者很奇怪，从应用程序商店传输，它像平常一样下载，但然后变黑，然后坐在我的主屏幕上就像它完成一样，当我点击它时，它会再次安装 这只发生在越狱状态下，（多巴胺，最高版本，15.3.1） 我能够未越狱时正常安装应用程序 我以前通过trollstore安装过Spotify，也许我通过主屏幕卸载了它，但那是很久以前的事了，最近我一直在使用应用程序商店应用程序。  我从未通过 TS 安装过 Transit。 我也进入了安全模式并关闭了所有调整，但它仍然执行相同的操作 有人可以给我一步一步的元数据标识符的事情，也许我做错了 有什么建议吗？谢谢！   由   提交/u/wizardward21  [链接] [评论]]]></description>
+      <description><![CDATA[我已经在这里进行了搜索，这似乎是一个反复出现的问题，并且我已经尝试了您在寻找元数据标识符和删除文件夹，但它仍然不起作用 基本上，我无法安装Spotify，或者很奇怪，从应用程序商店传输，它像平常一样下载，但然后变黑，然后坐在我的主屏幕上就像它完成一样，当我点击它时，它会再次安装 这只发生在越狱状态下，（多巴胺，最高版本，15.3.1） 我能够未越狱时正常安装应用程序 我以前通过trollstore安装过Spotify，也许我通过主屏幕卸载了它，但那是很久以前的事了，最近我一直在使用应用程序商店应用程序。  我从未通过 TS 安装过 Transit。 我也进入了安全模式并关闭了所有调整，但它仍然做同样的事情 有人可以给我一步一步的元数据标识符的事情，也许我做错了 有什么建议吗？谢谢！   由   提交/u/wizardward21  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1c5lnsq/cant_install_appstore_apps_specific_ones/</guid>
       <pubDate>Tue, 16 Apr 2024 17:17:31 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[所以我的 M1 iPad iOS 17.0 空间不足，结果系统数据单独占用了 46GB 存储空间，这是 git 的唯一方法摆脱它的方法是通过备份重置，这将删除 TrollStore。 有没有人想出一种方法来删除这些文件而不重置/重置而不丢失 TS？ 也许是 Filza？   由   提交 /u/Echo_Enigma401   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1bzfo6v/delete_system_data_without_losing_ts/</guid>
       <pubDate>Tue, 09 Apr 2024 01:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kopen 无法使用巨魔御坂 (iPad Air 2: 15.8.2)</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1bzd111/kopen_not_working_using_troll_misaka_ipad_air_2/</link>
+      <description><![CDATA[我正在使用 troll missaka 2 尝试下载 troll store，但是当我尝试 kopen 时，它不起作用。我已经尝试了几个小时，我得到的最多的是巨魔助手正在下载，但它从未完成，并且 kopen 从未成功。我正在使用最新版本，并且尝试了不同的方法。有什么建议吗？    由   提交/u/yess-1r  /u/yess-1r  reddit.com/r/Trollstore/comments/1bzd111/kopen_not_working_using_troll_misaka_ipad_air_2/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1bzd111/kopen_not_working_using_troll_misaka_ipad_air_2/</guid>
+      <pubDate>Mon, 08 Apr 2024 23:28:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
