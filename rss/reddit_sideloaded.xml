@@ -4,20 +4,34 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 21 Apr 2024 09:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:13:46 GMT</lastBuildDate>
+    <item>
+      <title>iosgods怎么样？？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c9g4v3/hows_iosgods/</link>
+      <description><![CDATA[我想知道 iosgods 应用程序是否运行良好，以及是否存在缺点。有人可以帮助我吗？    由   提交  /u/PODDAAA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c9g4v3/hows_iosgods/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了我的理智，我需要愤怒的小鸟，现在就走</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c9feb2/for_mh_sanitys_sake_i_need_angry_bird_go_now/</link>
+      <description><![CDATA[最好是最小设置，对于 ios，我知道你无能为力，但必须有某种方法。我需要这个游戏   由   提交/u/oxydedcutcopper  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c9feb2/for_mh_sanitys_sake_i_need_angry_bird_go_now/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>“设计不再可用”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c9eehg/esign_no_longer_available/</link>
+      <description><![CDATA[有什么办法可以解决这个问题吗？我仍然能够打开已安装的应用程序，但似乎无法打开 Esign 应用程序 它可以修复吗？   由   提交 /u/TheChosenNword   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c9eehg/esign_no_longer_available/</guid>
+      <pubDate>Sun, 21 Apr 2024 10:10:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何将 maplesign 与 AltStore 结合使用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c9ccq5/how_does_it_work_to_use_maplesign_with_altstore/</link>
       <description><![CDATA[大家好。我是一名快乐的 AltStore 用户。我将它用于 RetroArch 和修改后的 YouTube 应用程序。到目前为止，一切都很好。我必须出差三个月，而且我不打算随身携带 Mac，因此我无法刷新这些应用程序。您对如何将 maplesign 与 AltStore 一起使用以便我可以避免这 3 个月的刷新有什么建议吗？   由   提交/u/invasionofsmallcubes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c9ccq5/how_does_it_work_to_use_maplesign_with_altstore/</guid>
       <pubDate>Sun, 21 Apr 2024 07:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧存储安装问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c9bm3h/sidestore_install_issue/</link>
-      <description><![CDATA[我按照所有说明操作并创建了 jitterbug 配置文件和 vpn 配置文件。导入 jitterbug 配置文件后，应用程序不会打开。显示错误代码 512 和 22 文件 Apps 无法保存在 Appsupport 文件夹中。我错过了什么吗？   由   提交 /u/EloneMusk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c9bm3h/sidestore_install_issue/</guid>
-      <pubDate>Sun, 21 Apr 2024 06:58:17 GMT</pubDate>
     </item>
     <item>
       <title>优优ipa老是崩溃</title>
@@ -92,23 +106,9 @@
     <item>
       <title>LiveContainer：解决 3 个应用程序限制的突破性方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</link>
-      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。此方法适用于撰写本文时最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式当前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。在撰写本文时，此方法适用于最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式目前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</guid>
       <pubDate>Sat, 20 Apr 2024 10:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有更新的 Reddit 应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c8k4v6/any_newer_modded_reddit_app/</link>
-      <description><![CDATA[嗨，我使用 RedditFilter 尝试了 AppDB 的多个版本。但要么我仍然在我的提要中获得晋升的帖子，要么键盘有橙色背景（或两者兼而有之，这是最糟糕的）。早期版本感觉迟缓，而新版本（2023 年以后）则流畅。 你们有一个可以运行的修改后的 Reddit 应用程序吗？ 不，我不想使用 Apollo 或任何其他客户，我根本不喜欢他们。   由   提交 /u/Jannomag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c8k4v6/any_newer_modded_reddit_app/</guid>
-      <pubDate>Sat, 20 Apr 2024 07:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>弹性商店安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c8jokb/is_flekstore_safe/</link>
-      <description><![CDATA[我想知道 flekstore 是否可以安全安装在 ios 上  &amp;# 32；由   提交 /u/ZeirousVII   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c8jokb/is_flekstore_safe/</guid>
-      <pubDate>Sat, 20 Apr 2024 07:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
