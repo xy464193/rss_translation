@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 20 Apr 2024 21:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:39:11 GMT</lastBuildDate>
+    <item>
+      <title>Truecaller ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1c934rq/truecaller_ipa/</link>
+      <description><![CDATA[有人有 Truecaller 的 Ipa 吗？    由   提交 /u/casketyo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1c934rq/truecaller_ipa/</guid>
+      <pubDate>Sat, 20 Apr 2024 23:03:20 GMT</pubDate>
+    </item>
     <item>
       <title>我在 e Sign 上安装的所有应用程序都无法运行</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8zix6/all_the_apps_i_have_on_e_sign_dont_work/</link>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 20 Apr 2024 17:44:52 GMT</pubDate>
     </item>
     <item>
-      <title>如何从 swaggyp36000 repo 请求应用程序。</title>
+      <title>如何从 swaggyp36000 存储库请求应用程序。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8v3kj/how_to_request_an_app_from_swaggyp36000_repo/</link>
       <description><![CDATA[我注意到，在此存储库上提供的应用程序下，有一条注释说“用户请求了它，所以它就在这里”。我想知道我们如何以及在哪里发送这些请求。   由   提交/u/Various-Fold-856   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8v3kj/how_to_request_an_app_from_swaggyp36000_repo/</guid>
@@ -55,13 +62,6 @@
       <pubDate>Sat, 20 Apr 2024 16:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 10.3.3 Ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c8teon/spotify_1033_ipa/</link>
-      <description><![CDATA[这里有人知道/知道在哪里可以获取适用于 10.3.3 iOS 设备的 Spotify ipa 吗？更喜欢使用高级版的破解版 IPA，但普通版也可以。谢谢   由   提交/u/Chisporrita13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c8teon/spotify_1033_ipa/</guid>
-      <pubDate>Sat, 20 Apr 2024 16:00:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8s6di/spotify/</link>
       <description><![CDATA[我只在侧载 Spotify。是否可以支付年费而不用担心必须更新证书？  可用的修改后的 Spotify 是否允许您继续使用同一帐户来播放所有播放列表等？ Flekstore 是我最好的选择吗？或者刷新证书？   由   提交/u/Juanvaldez6Jr   [链接] [评论]]]></description>
@@ -71,14 +71,14 @@
     <item>
       <title>调整 IPA 错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8noe2/tweak_ipa_error/</link>
-      <description><![CDATA[所以我下载了一个经过调整的 ipa，它允许免费在应用程序内购买。当我点击“购买高级版”时，它会要求我提供 Apple ID 并通过，但是在我输入这些详细信息后，它只是给我一个错误，提示“请求失败”，有人知道是否有办法解决此问题吗？ （有问题的 IPA 是一个名为 CollaNote 的应用程序）   由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
+      <description><![CDATA[所以我下载了一个经过调整的 ipa，它允许免费在应用程序内购买。当我点击“购买高级版”时，它会要求我提供 Apple ID 并通过，但是在我输入这些详细信息后，它只是给我一个错误，提示“请求失败”有人知道是否有办法解决此问题吗？ （有问题的 IPA 是一个名为 CollaNote 的应用程序）   由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8noe2/tweak_ipa_error/</guid>
       <pubDate>Sat, 20 Apr 2024 11:26:34 GMT</pubDate>
     </item>
     <item>
       <title>LiveContainer：解决 3 个应用程序限制的突破性方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</link>
-      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。此方法适用于撰写本文时最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式当前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，今天我宣布推出 LiveContainer，这是一款可让您为内部应用程序运行创建虚拟环境的应用程序。它与 Android 上的平行空间非常相似。在 TrollStore 2 发布之前不久，LiveContainer 就已经开始开发。摆脱当时免费开发者帐户的 3 个应用程序限制曾经是我的爱好项目。 LiveContainer 有何特别之处？ 虚拟安装应用程序 将应用程序安装到 LiveContainer 中不会占用免费开发者帐户所规定的 3 个应用程序限制，因此您可以对 LiveContainer 内运行的任何模拟器使用 JIT。安装的应用程序由 LiveContainer 存储和管理，它为您提供了下面列出的有趣功能。 运行完全未签名的应用程序和调整（需要 JIT） LiveContainer 最初是为此特殊用途而开发的。这让您无需签名即可运行应用程序，因为 JIT 完全绕过了代码签名。 （这可能就是苹果从不允许在生产应用程序中使用 JIT 的原因）。 这种乐趣并没有持续多久。随着 iOS 17 更改为 RemoteXPC，在设备上启用 JIT 似乎不再可能。幸运的是，已经发现了一种使用相同证书对它们进行签名的新方法，因此 JIT 不再是硬性要求。 能够加载未签名的可执行文件还可以让您动态管理调整，而无需重新安装应用程序。我们正在努力允许签名调整完全放弃 JIT 要求。 安装应用程序的多个版本 由于应用程序是虚拟安装的，因此您可以安装应用程序的多个版本应用程序具有相同的包 ID。您还可以选择为它们共享或单独的数据容器。 拥有多个数据容器 这与 Crane 调整非常相似。您可以在访客应用程序的数据容器之间切换，拥有任意数量的数据容器。您还可以删除它们（又名“清除应用程序数据”），这是 Apple 从未将其内置到其软件中的功能。 无 JIT 的工作原理 LiveContainer 的无 JIT 版本如何利用调试功能（需要 get-task-allow 权利），允许您从文档目录加载签名的 Mach-O 库。在撰写本文时，此方法适用于最新的 iOS (17.4.1)。 限制 LiveContainer 仍然是一个实验性软件，因此您可能会遇到一些问题和限制。&lt; /p&gt;  来宾应用程序的权利不适用于主机应用程序。这不是什么大问题，因为侧载应用程序只需要基本权利。 应用程序权限是全局应用的。 来宾应用程序容器不是沙盒的。这意味着一个访客应用可以访问其他访客应用的数据。 一次只能运行一个访客应用。这更像是 3 个应用程序限制，您必须禁用一个应用程序才能运行另一个应用程序（LiveContainer 中的应用程序之间的切换是即时的）。 远程推送通知可能不起作用。如果您有付费开发者帐户，那么您甚至不必使用 LiveContainer 查询自定义 URL 方案可能不起作用（？） 文件选择器可能会因未知原因而损坏。   更多信息 LiveContainer JIT-less 模式当前需要 SideStore。 请参阅 README.md 了解更多信息。 下载：Github 操作； nightly.link 错误报告：此处   由   提交 /u/DuyTranKhanh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8n1i2/livecontainer_a_groundbreaking_way_to_workaround/</guid>
       <pubDate>Sat, 20 Apr 2024 10:47:43 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>无需其他 Apple 设备即可将应用程序无线安装到您的 Apple TV</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8jaed/install_apps_to_your_apple_tv_wirelessly_without/</link>
-      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的 私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8jaed/install_apps_to_your_apple_tv_wirelessly_without/</guid>
       <pubDate>Sat, 20 Apr 2024 06:36:56 GMT</pubDate>
     </item>
     <item>
       <title>无需其他 Apple 设备即可使用 Apple TV</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c8j9ae/ability_to_use_apple_tv_without_other_apple/</link>
-      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的 私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 从历史上看，如果您使用带有 appdb 的 Apple TV，我们需要您拥有另一台 Apple 设备来控制所以你必须先连接你的 iPhone、iPad 或 Mac，然后再连接你的 Apple TV 才能无线安装应用程序。 这个时代已经结束了。  现在，如果您没有其他 Apple 设备，您可以链接您的 Apple TV 以无线方式安装应用程序，只需访问 设备链接页面，然后点按如果您没有其他 Apple 设备，则链接 Apple TV。 过程很简单，您可以使用任何浏览器或任何设备（甚至 Android）将应用程序安装到您的 Apple TV。 我们的 appdb 功能，就像您自己的私有应用程序库。要探索适用于 Apple TV 的应用程序，只需在我们的索引中设置适当的过滤器，或者如果您切换到您的应用程序，系统会自动设置该过滤器。来自所有设备页面的 Apple TV。 谨致问候，appdb 团队。    由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c8j9ae/ability_to_use_apple_tv_without_other_apple/</guid>
       <pubDate>Sat, 20 Apr 2024 06:35:03 GMT</pubDate>
     </item>
