@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 22 Apr 2024 03:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 06:11:24 GMT</lastBuildDate>
+    <item>
+      <title>访问苹果文件系统</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ca2rd6/access_the_apple_file_system/</link>
+      <description><![CDATA[我正在寻找一个当前正在运行的应用程序，我可以侧面加载它，让我可以访问 iPad 上的 /var 文件夹（无需越狱）。我那里有一堆缓存的媒体，我失去了访问权限并希望恢复。谢谢   由   提交/u/Narrow_Replacement84  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ca2rd6/access_the_apple_file_system/</guid>
+      <pubDate>Mon, 22 Apr 2024 05:24:56 GMT</pubDate>
+    </item>
     <item>
       <title>有什么好的方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1c9xj84/any_good_methods/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人可以帮我吗，当我播放视频时，我的 uyou 总是崩溃，但播放短片时效果很好。我尝试禁用赞助商块和模块化玩家控制，但问题仍然存在。   由   提交/u/technicalengineer23  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1c9ayoc/uyou_ipa_keeps_crashing/</guid>
       <pubDate>Sun, 21 Apr 2024 06:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 高级版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1c99do5/spotify_premium/</link>
-      <description><![CDATA[我来自三星，下载和 apk 需要几秒钟。我想要获得带有安装程序的 Spotify premium ipa/apk。我发现的所有内容要么需要订阅，否则有被列入黑名单的风险，或者需要每隔几天重新安装一次。有没有办法免费获得高级帐户而不必担心被列入黑名单或重新安装？   由   提交 /u/Content-Lack3611    reddit.com/r/sideloaded/comments/1c99do5/spotify_premium/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1c99do5/spotify_premium/</guid>
-      <pubDate>Sun, 21 Apr 2024 04:37:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
