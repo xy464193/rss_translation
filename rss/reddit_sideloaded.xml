@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:15:16 GMT</lastBuildDate>
+    <item>
+      <title>简单平面 1.12.203 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cb17va/simpleplanes_112203_ipa/</link>
+      <description><![CDATA[有人有吗？   由   提交/u/LOLOL_2229   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cb17va/simpleplanes_112203_ipa/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:31:37 GMT</pubDate>
+    </item>
     <item>
       <title>我有一个开发者帐户，但我不知道如何使用它进行侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cazrdx/i_got_a_developer_account_and_i_dont_know_how_to/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我昨天重新安装了 sidestore，但是每当我尝试刷新或添加 ipa 时，它总是显示“无法连接到设备，请确保您连接到wireguard和wifi”我尝试了多种方法，例如通过altserver和sideserver重新安装、强制关闭wireguard、切换服务器什么都没有。有人可以帮助我吗？   由   提交/u/SnooOranges438  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cadw2m/sidestore_does_not_let_me_refresh_or_add_ipas/</guid>
       <pubDate>Mon, 22 Apr 2024 15:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我的 iPhone 15 重新启动并揭开盖子，它会失效吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cad552/will_my_iphone_15_void_if_it_restarts_w_uncover/</link>
-      <description><![CDATA[只是想知道   由   提交/u/Sjcool1304  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cad552/will_my_iphone_15_void_if_it_restarts_w_uncover/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:05:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
