@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 03:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 06:10:59 GMT</lastBuildDate>
+    <item>
+      <title>伊芙Spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cawwf5/eevespotify/</link>
+      <description><![CDATA[刚刚获得了 EeveSpotify。它适用于最新的 Spotify 版本，并且还具有工作歌词。我热爱它的每一秒。为开发人员的辛勤工作和奉献精神喝彩。继续努力吧伙计们！   由   提交 /u/NawazJK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cawwf5/eevespotify/</guid>
+      <pubDate>Tue, 23 Apr 2024 05:37:23 GMT</pubDate>
+    </item>
     <item>
       <title>哪些旁加载方法支持网络服务（例如 VPN 应用程序）？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cath2j/what_sideload_methods_support_network_service/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>使用SamHub安装scarlet安全吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1casfwk/is_using_samhub_to_install_scarlet_safe/</link>
-      <description><![CDATA[所以我被列入了猩红黑名单，所以我尝试从具有不同证书的 SumHub 安装猩红。但从 SamHub 安装安全吗？或者我应该等到正常的猩红被撤销并以不同的证书返回？ 这里是 SamHub 的不和谐链接 https:/ /discord.gg/FyJkxbpd   由   提交/u/tataridayoo   [链接] [评论]]]></description>
+      <description><![CDATA[所以我被列入了猩红黑名单，所以我尝试从具有不同证书的 SumHub 安装猩红。但是从 SamHub 安装安全吗？或者我应该等到正常的猩红被撤销并以不同的证书返回？ 这里是 SamHub 的不和谐链接 https:/ /discord.gg/FyJkxbpd   由   提交/u/tataridayoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1casfwk/is_using_samhub_to_install_scarlet_safe/</guid>
       <pubDate>Tue, 23 Apr 2024 01:42:34 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Sidestore 不允许我刷新或添加 ipas？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cadw2m/sidestore_does_not_let_me_refresh_or_add_ipas/</link>
-      <description><![CDATA[大家好，我昨天重新安装了 sidestore，但是每当我尝试刷新或添加 ipa 时，它总是显示“无法连接到设备，请确保您连接到wireguard和wifi”我尝试了多种方法，例如通过altserver和sideserver重新安装、强制关闭wireguard、切换服务器什么都没有。有人可以帮助我吗？   由   提交/u/SnooOranges438  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我昨天重新安装了 sidestore，但每当我尝试刷新或添加 ipa 时，它总是说“无法连接到设备，请确保您已连接到 wireguard 和 wifi”我尝试了多种方法，例如通过 altserver 和 sideserver 重新安装、强制关闭 wireguard、切换服务器，但没有任何效果。有人能帮帮我吗？    提交人    /u/SnooOranges438   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cadw2m/sidestore_does_not_let_me_refresh_or_add_ipas/</guid>
       <pubDate>Mon, 22 Apr 2024 15:35:34 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 22 Apr 2024 14:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法将本地文件导入 Spotilife？</title>
+      <title>有没有办法将本地文件导入到 Spotilife？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cabzi2/is_there_a_way_to_import_local_files_to_spotilife/</link>
       <description><![CDATA[我尝试导入，它说没有要导入的文件（有），我在实际的 Spotify 应用程序上进行了操作，效果很好但本地文件播放列表不会在spotilife 上弹出。有人找到解决方法吗？或者可以导入的mod？谢谢！   由   提交 /u/Turtlesallthewdown   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cabzi2/is_there_a_way_to_import_local_files_to_spotilife/</guid>
       <pubDate>Mon, 22 Apr 2024 14:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>访问苹果文件系统</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ca2rd6/access_the_apple_file_system/</link>
-      <description><![CDATA[我正在寻找一个当前正在运行的应用程序，我可以侧面加载它，让我可以访问 iPad 上的 /var 文件夹（无需越狱）。我那里有一堆缓存的媒体，我失去了访问权限并希望恢复。谢谢   由   提交/u/Narrow_Replacement84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ca2rd6/access_the_apple_file_system/</guid>
-      <pubDate>Mon, 22 Apr 2024 05:24:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
