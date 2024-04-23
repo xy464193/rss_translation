@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:08:48 GMT</lastBuildDate>
+    <item>
+      <title>我有一个开发者帐户，但我不知道如何使用它进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cazrdx/i_got_a_developer_account_and_i_dont_know_how_to/</link>
+      <description><![CDATA[我曾经在一个小网站上订阅过，该网站为您提供了一个开发者帐户，并且有自己的应用程序可以侧面加载它，但不幸的是几天前网络端与应用程序一起关闭，我的侧载应用程序仍然与开发者帐户一起正常工作。现在的问题是我的侧面加载替代方案是什么？   由   提交 /u/Fit-Dinner-2204   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cazrdx/i_got_a_developer_account_and_i_dont_know_how_to/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要安装应用程序方面的帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cazh3f/need_help_in_installing_apps/</link>
+      <description><![CDATA[我尝试使用猩红色在我的 iphone (ios 17) 上下载一些应用程序，但它要么说应用程序无法安装，要么卡在等待中。有人可以指导我该怎么做或者我可以使用猩红色的任何其他替代品吗？谢谢   由   提交/u/hungry_raptor99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cazh3f/need_help_in_installing_apps/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:33:01 GMT</pubDate>
+    </item>
     <item>
       <title>伊芙Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cawwf5/eevespotify/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>Sidestore 不允许我刷新或添加 ipas？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cadw2m/sidestore_does_not_let_me_refresh_or_add_ipas/</link>
-      <description><![CDATA[大家好，我昨天重新安装了 sidestore，但每当我尝试刷新或添加 ipa 时，它总是说“无法连接到设备，请确保您已连接到 wireguard 和 wifi”我尝试了多种方法，例如通过 altserver 和 sideserver 重新安装、强制关闭 wireguard、切换服务器，但没有任何效果。有人能帮帮我吗？    提交人    /u/SnooOranges438   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我昨天重新安装了 sidestore，但是每当我尝试刷新或添加 ipa 时，它总是显示“无法连接到设备，请确保您连接到wireguard和wifi”我尝试了多种方法，例如通过altserver和sideserver重新安装、强制关闭wireguard、切换服务器什么都没有。有人可以帮助我吗？   由   提交/u/SnooOranges438  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cadw2m/sidestore_does_not_let_me_refresh_or_add_ipas/</guid>
       <pubDate>Mon, 22 Apr 2024 15:35:34 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[只是想知道   由   提交/u/Sjcool1304  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cad552/will_my_iphone_15_void_if_it_restarts_w_uncover/</guid>
       <pubDate>Mon, 22 Apr 2024 15:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐下载器ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cacc0k/music_downloader_ipa/</link>
-      <description><![CDATA[有任何可以使用 Spotify ++ 或 deezer 等下载音乐的 ipa 吗？   由   提交 /u/filreal7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cacc0k/music_downloader_ipa/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法将本地文件导入到 Spotilife？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cabzi2/is_there_a_way_to_import_local_files_to_spotilife/</link>
-      <description><![CDATA[我尝试导入，它说没有要导入的文件（有），我在实际的 Spotify 应用程序上进行了操作，效果很好但本地文件播放列表不会在spotilife 上弹出。有人找到解决方法吗？或者可以导入的mod？谢谢！   由   提交 /u/Turtlesallthewdown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cabzi2/is_there_a_way_to_import_local_files_to_spotilife/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:18:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
