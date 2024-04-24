@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 24 Apr 2024 18:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 21:07:31 GMT</lastBuildDate>
+    <item>
+      <title>uYouPlus网站安全吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cc7zcb/is_uyouplus_website_safe/</link>
+      <description><![CDATA[在尝试找到一款修改后的 YouTube 应用程序，该应用程序可以从主页中删除奇怪的短裤框后，我遇到了 uYou++ 和 uYouPlus，我决定侧载该应用程序拥有一个网站（uYouPlus）和一个来自人们在 Reddit 上谈论的信誉良好来源的网站。 两者的工作原理相似，两者之间唯一的区别是来自 uYouPlus 网站的网站更新得更快，但我担心 uyou 网站上的这个 ipa 可能是恶意软件，我的手机根本没有任何反应，只是有时视频很少会暂停，该网站似乎是合法的，甚至有关于如何自己构建 ipa 的教程但你永远不能仅凭外观就这么确定。 那么，以前有人使用过该网站吗？安全吗？如果没有，我该怎么办？   由   提交 /u/DowntownAd9582   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cc7zcb/is_uyouplus_website_safe/</guid>
+      <pubDate>Wed, 24 Apr 2024 20:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>坡？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cc7ffv/poe/</link>
+      <description><![CDATA[有人有 Quora 的 Poe IPA 吗？Decrypt.day 的已经过时了。    由    /u/PlaystormMC  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cc7ffv/poe/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以找到最新的 ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cc6a56/where_do_i_find_uptodate_ipa/</link>
+      <description><![CDATA[尝试查找 Issac v1.4 的绑定，我能找到的所有文件都是 1.3 或更低版本。一个网站有，但它位于高级链接网站下。  哪里可以找到合适的免费更新的 ipas？   由   提交/u/Amat3r6s  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cc6a56/where_do_i_find_uptodate_ipa/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决“您的开发团队已达到注册设备数上限”？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cc5wz0/how_to_fix_your_development_team_has_reached_the/</link>
+      <description><![CDATA[我正在使用 sideloadly，但收到错误“您的开发团队已达到注册设备的最大数量”在尝试旁加载应用程序时。我一直在寻找解决这个问题的方法，但没有运气。任何帮助，将不胜感激。谢谢！   由   提交 /u/Background_Spirit699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cc5wz0/how_to_fix_your_development_team_has_reached_the/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:36:47 GMT</pubDate>
+    </item>
     <item>
       <title>uYou打开视频时崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cbzc15/uyou_crashes_when_opening_video/</link>
@@ -78,37 +106,9 @@
     <item>
       <title>如何修复无效权利错误 (SideStore)</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cbjpbf/how_can_i_fix_invalid_entitlements_error_sidestore/</link>
-      <description><![CDATA[我正在使用预安装源中的 SpotC++。我尝试停用它并得到“操作无法完成”。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.WPcBHg/extracted/Payload/App.app 的代码签名：0xe8008016（可执行文件的签名为无效权利。）   由   提交/u/Tgroovy25  [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用来自预安装源的 SpotC++。我尝试停用它并得到无法完成操作。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.WPcBHg/extracted/Payload/App.app 的代码签名：0xe8008016（可执行文件使用无效授权签名。）    提交人    /u/Tgroovy25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cbjpbf/how_can_i_fix_invalid_entitlements_error_sidestore/</guid>
       <pubDate>Tue, 23 Apr 2024 23:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cbheuz/download_issue/</link>
-      <description><![CDATA[       https://preview.redd.it/49csemiyuawc1 .jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=ef747ab2e57b774229340826a26e116fd6e18c0a 我尝试检查 VPN，但它是空的   由   提交/u/serohanta666   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cbheuz/download_issue/</guid>
-      <pubDate>Tue, 23 Apr 2024 22:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watusi .ipa 的下载链接？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cbfefj/watusi_links_for_download_ipa/</link>
-      <description><![CDATA[我正在寻找 WhatsApp 的调整，但 Watusi 的所有链接都已损坏，我在哪里可以找到可用的链接？   由   提交 /u/leRetray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cbfefj/watusi_links_for_download_ipa/</guid>
-      <pubDate>Tue, 23 Apr 2024 20:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram Rocket 3.8.21 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cb91f4/instagram_rocket_3821_issue/</link>
-      <description><![CDATA[我在较新版本的 Instagram Rocket 中找不到 Rocket 设置页面。我的是 3.8.21。谁知道怎么修它？我们将非常感激。 TIA   由   提交 /u/BookCompetitive1783   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cb91f4/instagram_rocket_3821_issue/</guid>
-      <pubDate>Tue, 23 Apr 2024 16:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧面装载机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cb7ceh/side_loaders/</link>
-      <description><![CDATA[除了scarlet之外还有什么最好的sideloader   由   提交 /u/PriorAdventurous7872   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cb7ceh/side_loaders/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:22:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
