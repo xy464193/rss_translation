@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:36:21 GMT</lastBuildDate>
+    <item>
+      <title>有办法去除这个吗？出现在我侧载的每个应用程序上</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cbkhqc/is_there_a_way_to_remove_this_appears_on_every/</link>
+      <description><![CDATA[    /u/Agitated-Middle5876   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cbkhqc/is_there_a_way_to_remove_this_appears_on_every/</guid>
+      <pubDate>Wed, 24 Apr 2024 00:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何修复无效权利错误 (SideStore)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cbjpbf/how_can_i_fix_invalid_entitlements_error_sidestore/</link>
+      <description><![CDATA[我正在使用预安装源中的 SpotC++。我尝试停用它并得到“操作无法完成”。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.WPcBHg/extracted/Payload/App.app 的代码签名：0xe8008016（可执行文件的签名为无效权利。）   由   提交/u/Tgroovy25  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cbjpbf/how_can_i_fix_invalid_entitlements_error_sidestore/</guid>
+      <pubDate>Tue, 23 Apr 2024 23:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cbheuz/download_issue/</link>
+      <description><![CDATA[       https://preview.redd.it/49csemiyuawc1 .jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=ef747ab2e57b774229340826a26e116fd6e18c0a 我尝试检查 VPN，但它是空的   由   提交/u/serohanta666   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cbheuz/download_issue/</guid>
+      <pubDate>Tue, 23 Apr 2024 22:03:56 GMT</pubDate>
+    </item>
     <item>
       <title>Watusi .ipa 的下载链接？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cbfefj/watusi_links_for_download_ipa/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>有没有像 Og 一样打开应用程序链接的 YouTube 应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cb5uzu/is_there_a_youtube_app_that_opens_links_to_the/</link>
-      <description><![CDATA[我讨厌解决方法。我支付 YouTube 溢价，因此我只侧载 isponsor 区块   由   提交/u/Lacedup18  [链接] [评论]]]></description>
+      <description><![CDATA[我讨厌这些解决方法。我支付 YouTube 溢价，因此我只侧载 isponsor 区块   由   提交/u/Lacedup18  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cb5uzu/is_there_a_youtube_app_that_opens_links_to_the/</guid>
       <pubDate>Tue, 23 Apr 2024 14:20:08 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>伊芙Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cb553d/eevespotify/</link>
-      <description><![CDATA[昨天我安装了该应用程序，一切运行顺利。我去睡觉了，今天它不再启用了。 GitHub 页面表示这种情况可能会发生，解决方案是重新声明该应用程序。其他人也遇到过这种情况吗？   由   提交 /u/gunsnricar   [链接] [评论]]]></description>
+      <description><![CDATA[昨天我安装了该应用程序，一切正常。我去睡觉了，今天它不再启用了。 GitHub 页面表示这种情况可能会发生，解决方案是重新声明该应用程序。其他人也遇到过这种情况吗？   由   提交 /u/gunsnricar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cb553d/eevespotify/</guid>
       <pubDate>Tue, 23 Apr 2024 13:49:55 GMT</pubDate>
     </item>
@@ -76,9 +97,9 @@
       <pubDate>Tue, 23 Apr 2024 10:31:37 GMT</pubDate>
     </item>
     <item>
-      <title>我有一个开发者帐户，但我不知道如何使用它进行侧载</title>
+      <title>我有一个开发者账户，但我不知道如何使用它进行侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cazrdx/i_got_a_developer_account_and_i_dont_know_how_to/</link>
-      <description><![CDATA[我曾经在一个小网站上订阅过，该网站为您提供了一个开发者帐户，并且有自己的应用程序可以侧面加载它，但不幸的是几天前网络端与应用程序一起关闭，我的侧载应用程序仍然与开发者帐户一起正常工作。现在的问题是我的侧面加载替代方案是什么？   由   提交 /u/Fit-Dinner-2204   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经在一个小网站上订阅过，该网站会给你一个开发者账户，并且有自己的应用程序可以用它来侧载，但不幸的是，几天前网站端与应用程序一起关闭了，我的侧载应用程序仍然可以与开发者账户一起正常工作。现在的问题是，我有什么侧载的替代方案？    提交人    /u/Fit-Dinner-2204   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cazrdx/i_got_a_developer_account_and_i_dont_know_how_to/</guid>
       <pubDate>Tue, 23 Apr 2024 08:53:34 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我尝试使用猩红色在我的 iphone (ios 17) 上下载一些应用程序，但它要么说应用程序无法安装，要么卡在等待中。有人可以指导我该怎么做或者我可以使用猩红色的任何其他替代品吗？谢谢   由   提交/u/hungry_raptor99  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cazh3f/need_help_in_installing_apps/</guid>
       <pubDate>Tue, 23 Apr 2024 08:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊芙Spotify</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cawwf5/eevespotify/</link>
-      <description><![CDATA[刚刚获得了 EeveSpotify。它适用于最新的 Spotify 版本，并且还具有工作歌词。我热爱它的每一秒。为开发人员的辛勤工作和奉献精神喝彩。继续努力吧伙计们！   由   提交 /u/NawazJK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cawwf5/eevespotify/</guid>
-      <pubDate>Tue, 23 Apr 2024 05:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些旁加载方法支持网络服务（例如 VPN 应用程序）？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cath2j/what_sideload_methods_support_network_service/</link>
-      <description><![CDATA[我尝试过猩红色和 Sidestore，但都不起作用。 Trollstore 可以工作，但不支持 iOS 17。   由   提交/u/Fit_Stuff_8458   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cath2j/what_sideload_methods_support_network_service/</guid>
-      <pubDate>Tue, 23 Apr 2024 02:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用SamHub安装scarlet安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1casfwk/is_using_samhub_to_install_scarlet_safe/</link>
-      <description><![CDATA[所以我被列入了猩红黑名单，所以我尝试从具有不同证书的 SumHub 安装猩红。但从 SamHub 安装安全吗？或者我应该等到正常的猩红被撤销并以不同的证书返回？ 这里是 SamHub 的不和谐链接 https:/ /discord.gg/FyJkxbpd   由   提交/u/tataridayoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1casfwk/is_using_samhub_to_install_scarlet_safe/</guid>
-      <pubDate>Tue, 23 Apr 2024 01:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
