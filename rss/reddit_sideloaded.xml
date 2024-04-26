@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:36:08 GMT</lastBuildDate>
+    <item>
+      <title>uYou+不允许我在评论中使用翻译</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cd7etk/uyou_doesnt_let_me_use_translations_in_comments/</link>
+      <description><![CDATA[大多数情况下，如果 YT 视频有外语评论，您只需点击一个按钮，YT 就会为您翻译，但那个按钮对我来说已经消失了。是否有设置可以恢复此状态？   由   提交/u/Naphor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cd7etk/uyou_doesnt_let_me_use_translations_in_comments/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能给我发个 Moviebox Pro 邀请码？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cd737w/can_anyone_send_me_a_moviebox_pro_invite_code/</link>
+      <description><![CDATA[正如标题所说，我想看看是否有人愿意向我发送 MovieBox 邀请码！我儿子的房间里有一个 Roku 设备，不幸的是，它仅限于某些应用程序！提前谢谢您！🙏     提交人    /u/Dry-Welder-7932   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cd737w/can_anyone_send_me_a_moviebox_pro_invite_code/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用开发者帐户推送通知</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cd6wak/push_notifications_with_developer_account/</link>
+      <description><![CDATA[大家好。我有一个自己的付费苹果开发者帐户。因此，我成功创建了 iOS 开发（App Store Connect 和 Ad Hoc）p12 文件，然后创建了一个 ad Hoc 配置文件。我可以将它们与 ESign 或 Scarlet 结合使用，在我的设备上旁加载应用程序。  但我没有从我的应用程序收到通知。我在这个过程中搞砸了什么？我是否必须选择不同的证书类型或配置文件类型？ 请不要建议 appDB。我朋友的苹果账户在他在他们的网站上注册后被黑客入侵然后被锁定。巧合？或许。    由   提交/u/delta1094  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cd6wak/push_notifications_with_developer_account/</guid>
+      <pubDate>Thu, 25 Apr 2024 23:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有可用的 BHTikTokPlus 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cd5hcn/any_working_bhtiktokplus/</link>
+      <description><![CDATA[有人有适用于 BHTikTokPlus 的 .ipa 吗？我尝试了在 ESign 应用程序的 swaggy/AppTesters 存储库上找到的许多版本，但没有一个有效。每当我尝试在 TikTok 中打开 BH 设置时，应用程序就会崩溃。    由   提交 /u/kvlq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cd5hcn/any_working_bhtiktokplus/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:59:23 GMT</pubDate>
+    </item>
     <item>
       <title>允许在 iPhone 上使用替代商店的新欧盟法律是否会导致所有替代商店/侧载应用程序仍然过期？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cd2juj/does_the_new_eu_law_which_permits_alternative/</link>
@@ -64,51 +92,23 @@
     <item>
       <title>如何使应用程序保持最新状态？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cclfhd/how_can_i_keep_an_app_up_to_date/</link>
-      <description><![CDATA[你好！ 我在 iPad 上使用 maplesigner 证书，并且安装了 Maplesigner、scarlet、sign 等应用程序... 我对此很陌生，但我想知道我是否可以从商店安装应用程序，并且它是否会自动更新（而无需查找最新更新的 .ipa 和“crac...”xD。 我尝试过 AltStore，因为正如我所读到的，我可以保持它更新，但它无法正确安装。 如何使应用程序保持最新版本？ 谢谢，谨致问候！    提交人    /u/spaniolo   [链接] [评论]]]></description>
+      <description><![CDATA[您好！ 我在 iPad 上使用 Maplesigner 证书，并且安装了 Maplesigner、scarlet、sign 等应用程序...  我对此很陌生，但我想知道我是否可以从商店安装应用程序并且它会自动更新（无需寻找最新更新的 .ipa 和“crac..” &quot; xD。 我尝试过 AltStore，因为当我读到这篇文章时，我可以保持它更新，但它安装不正确。 如何让应用程序保持最新状态是最新版本吗？ 谢谢您，最诚挚的问候！    提交//www.reddit.com/user/spaniolo&quot;&gt; /u/spaniolo   [链接]  [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cclfhd/how_can_i_keep_an_app_up_to_date/</guid>
       <pubDate>Thu, 25 Apr 2024 06:56:32 GMT</pubDate>
     </item>
     <item>
       <title>需要帮忙</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ccj78m/need_help/</link>
-      <description><![CDATA[有人可以向我发送电影盒子专业版的邀请码吗   由   提交 /u/SpecialistFan3739   [链接] [评论]]]></description>
+      <description><![CDATA[有人可以给我发送电影盒专业版的邀请码吗    提交人    /u/SpecialistFan3739   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ccj78m/need_help/</guid>
       <pubDate>Thu, 25 Apr 2024 04:38:00 GMT</pubDate>
     </item>
     <item>
       <title>Astropad 工作 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cch388/astropad_working_ipa/</link>
-      <description><![CDATA[我正在寻找一个已修补的 astropad ipa 的工作订阅，该订阅在启动时不会崩溃。谢谢您的问候！   由   提交/u/kamikat91  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个有效的订阅补丁 astropad ipa，它不会在启动时崩溃。谢谢您的问候！    提交人    /u/kamikat91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cch388/astropad_working_ipa/</guid>
       <pubDate>Thu, 25 Apr 2024 02:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 SPOTILIFE/Spotify Premium “eevee Spotify” 所有功劳均归功于 github 上的 whoeevee！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ccaws2/new_spotilifespotify_premium_eevee_spotify_all/</link>
-      <description><![CDATA[   检查github，eevee Spotify修复了Juliovernes Spotify补丁。现在它可以在新的 Spotify 版本上运行。  感谢 eevee！！   由   提交 /u/Shuffle2414   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ccaws2/new_spotilifespotify_premium_eevee_spotify_all/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理“无法验证应用程序”？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cca29n/how_to_deal_with_cant_verify_app/</link>
-      <description><![CDATA[嗨，我在 iPhone 14 上侧载了一段时间，从未遇到过任何大问题，但现在出现了一些随机问题。  我以前使用过的一个 .ipa 文件没有任何问题，但无法正确安装。起初，我在 Linux 操作系统上尝试了 Sideloader 应用程序，它甚至无法通过为应用程序阶段创建应用程序 ID。然后我尝试在 Windows 上使用 Sideloadly，它安装得很好，但出现“无法验证应用程序”错误。  我了解到 Apple 可能阻止了我的证书或其他内容。那可能吗？我是否可以检查或尝试任何其他解决方案？ 提前致谢！   由   提交 /u/righN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cca29n/how_to_deal_with_cant_verify_app/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouPlus网站安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cc7zcb/is_uyouplus_website_safe/</link>
-      <description><![CDATA[在尝试找到一款修改后的 YouTube 应用程序，该应用程序可以从主页中删除奇怪的短裤框后，我遇到了 uYou++ 和 uYouPlus，我决定侧载该应用程序拥有一个网站（uYouPlus）和一个来自人们在 Reddit 上谈论的信誉良好来源的网站。 两者的工作原理相似，两者之间唯一的区别是来自 uYouPlus 网站的网站更新得更快，但我担心 uyou 网站上的这个 ipa 可能是恶意软件，我的手机根本没有任何反应，只是有时视频很少会暂停，该网站似乎是合法的，甚至有关于如何自己构建 ipa 的教程但你永远不能仅凭外观就这么确定。 那么，以前有人使用过该网站吗？安全吗？如果没有，我该怎么办？   由   提交 /u/DowntownAd9582   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cc7zcb/is_uyouplus_website_safe/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>坡？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cc7ffv/poe/</link>
-      <description><![CDATA[有人有 Quora 的 Poe IPA 吗？Decrypt.day 的已经过时了。    由    /u/PlaystormMC  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cc7ffv/poe/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
