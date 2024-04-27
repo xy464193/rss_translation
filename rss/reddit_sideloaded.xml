@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:09:43 GMT</lastBuildDate>
+    <item>
+      <title>在 Apple Silicon 上使用 sideloadly 安装 ipa 文件：安装失败：无法 chmod：</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cejzwb/installing_a_ipa_file_using_sideloadly_on_apple/</link>
+      <description><![CDATA[我需要帮助，我收到此错误  将应用程序安装到 /Applications Apple Silicon 应用程序安装失败：无法 chmod：chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser：没有这样的文件或目录 Apple Silicon 安装失败：无法chmod: chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser: 没有这样的文件或目录 如果需要整个安装的日志 https://pastebin.com/raw/xJy1SHgH    由   提交 /u/SoufgameYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cejzwb/installing_a_ipa_file_using_sideloadly_on_apple/</guid>
+      <pubDate>Sat, 27 Apr 2024 17:32:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍安装历史记录</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cejjxw/introducing_installation_history/</link>
+      <description><![CDATA[嗨！ 我们推出了新的 appdb 部分，安装历史记录。此页面收集您所有设备的所有安装历史记录，您可以随时将所需的应用程序重新安装到任何设备上。存储在 IPA 缓存中的所有应用程序都已转移到安装历史记录中，因此您不会错过任何东西。 此致，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cejjxw/introducing_installation_history/</guid>
+      <pubDate>Sat, 27 Apr 2024 17:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何判断是否安全</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ceji74/how_to_tell_if_its_safe/</link>
+      <description><![CDATA[我刚刚开始侧载，我想知道如何判断哪些 ipas 是安全的。我目前已从 https://ios.drifty.win/view/app/?source=https://driftywinds.github.io/AltStore/apps.json&amp;id=com.google.ios.youtube。谁能告诉我这是否安全以及如何判断我下载的未来 ipas 是否安全 ​   由   提交/u/Any_Information_2264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ceji74/how_to_tell_if_its_safe/</guid>
+      <pubDate>Sat, 27 Apr 2024 17:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore 将 Mac 添加到我的设备列表中。这是正常的吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cejflu/sidestore_added_a_mac_to_my_device_list_is_this/</link>
+      <description><![CDATA[这是一台我一无所知的 MacBook。    ;由   提交/u/rickfcknross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cejflu/sidestore_added_a_mac_to_my_device_list_is_this/</guid>
+      <pubDate>Sat, 27 Apr 2024 17:07:47 GMT</pubDate>
+    </item>
     <item>
       <title>IPA 解密存储和越狱（即将推出）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cefb82/ipa_decrypt_store_jailbreak_coming_soon/</link>
@@ -20,16 +48,16 @@
       <pubDate>Sat, 27 Apr 2024 13:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人想加入 movieboxpro 家庭账户，请联系我！</title>
+      <title>如果有人想加入 movieboxpro 家庭帐户，请联系我！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cec2es/if_anyone_wants_to_join_movieboxpro_family/</link>
       <description><![CDATA[仅请合法人员。如果你想邀请我也可以邀请你。   由   提交/u/yorksdev  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cec2es/if_anyone_wants_to_join_movieboxpro_family/</guid>
       <pubDate>Sat, 27 Apr 2024 11:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>spotify 7天新账户？</title>
+      <title>Spotify 7 天新帐户？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/</link>
-      <description><![CDATA[我下载了 Spotify 作为旁加载。 如果您使用 Spotify Premium 1 周，溢价将会消失。 &gt; 我必须每周创建一个新的 Spotify 帐户吗？   由   提交/u/No-Fee2847  /u/No-Fee2847 reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我以侧载方式下载了 Spotify。 如果您使用 Spotify Premium 1 周，高级版将会消失。 我每周都必须创建一个新的 Spotify 帐户吗？    提交人    /u/No-Fee2847   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/</guid>
       <pubDate>Sat, 27 Apr 2024 08:17:43 GMT</pubDate>
     </item>
@@ -48,7 +76,7 @@
       <pubDate>Sat, 27 Apr 2024 07:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>是否有任何 IPA 可以阻止我的手机计算屏幕时间？ （iOS 17.4）</title>
+      <title>有哪些 IPA 可以阻止我的手机计算屏幕时间？（iOS 17.4）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ce89wm/are_there_any_ipas_that_stop_my_phone_from/</link>
       <description><![CDATA[我在 google 上搜索时找不到任何内容   由   提交/u/Loud-Horror-3486   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ce89wm/are_there_any_ipas_that_stop_my_phone_from/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[        由   提交/u/Weatheredfeather_  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cdzukp/scarlet_cant_install_ipa_not_revoked/</guid>
       <pubDate>Fri, 26 Apr 2024 23:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cdvpfx/sideloading/</link>
-      <description><![CDATA[侧载会使我的手机/设备的保修失效吗？ ​ 使用像 installonair 这样的网站安装 IPA 会导致保修无效吗？   由   提交 /u/skyxgamiing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cdvpfx/sideloading/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sideloaded TikTok 不断要求我“验证才能继续”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cdvcvo/sideloaded_tiktok_keeps_asking_me_to_verify_to/</link>
-      <description><![CDATA[每次我打开 BHTikTokPlus 并开始滚动几次时，我都会收到“验证以继续”的消息。因此我必须将一块拼图滑到空块上。尝试了不同的版本，但还是同样的问题。使用 Esign 签名。不确定这是否正常，是否每个人在使用时都会遇到这种情况，这是不可避免的。  因此，它会不断扰乱应用程序内的亮度，因为如果我已经/尚未完成验证，有时屏幕会变得非常暗或亮。  我可以使用另一个 ipa 来避免不断出现这种情况吗？   由   提交 /u/yellowroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cdvcvo/sideloaded_tiktok_keeps_asking_me_to_verify_to/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore 续订 365 天</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cdu6jk/sidestore_renew_365_days/</link>
-      <description><![CDATA[大家好，也许有人可以帮助我。我使用 Google 的官方应用程序和 GitHub 存储库创建了自己的 YouTube 应用程序，该应用程序可以包含赞助商阻止、广告阻止以及将视频下载到我的 iPhone 14 Pro。 我在 MacBook 上安装了 SideStore，并安装了ipa 到我的 iPhone，通常我需要每 7 天更新一次应用程序。但使用我的 Apple ID（无需苹果开发者订阅），我可以获得 365 天的使用期限，无需续订。 我也在我女朋友的设备上使用单独的 Apple ID 进行了相同的尝试，但对她来说，它只能持续 7 天天。 有谁知道这是如何有意义和可能的。我确实订阅了 Apple 开发者计划（我记得是 2017 年），但它早已取消。 感谢您的友好回复！马塞尔   由   提交/u/eternal_blue98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cdu6jk/sidestore_renew_365_days/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>推送通知问题 - APPDB</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cdsatz/push_notifications_issue_appdb/</link>
-      <description><![CDATA[嗨，我最近在我的 iPhone 13 上侧载了一些应用程序，我曾经通过 UDID appdb 捆绑包付费服务，但现在我看到了免费的证书确实工作正常，但这也是我没有收到通知的原因吗？我是否必须付费才能获得通知？   由   提交/u/Ioannisgn_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cdsatz/push_notifications_issue_appdb/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:10:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
