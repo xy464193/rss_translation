@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 27 Apr 2024 09:07:50 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Sat, 27 Apr 2024 12:12:43 GMT</lastBuildDate>
     <item>
-      <title>Spotify 7 天新帐户？</title>
+      <title>如果有人想加入 movieboxpro 家庭帐户，请联系我！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cec2es/if_anyone_wants_to_join_movieboxpro_family/</link>
+      <description><![CDATA[仅请合法人员。如果你想邀请我也可以邀请你。   由   提交/u/yorksdev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cec2es/if_anyone_wants_to_join_movieboxpro_family/</guid>
+      <pubDate>Sat, 27 Apr 2024 11:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>既然开发者模式已不在设置中，我该如何在 iPhone 上启用它呢？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ceabk2/how_would_i_enable_developer_mode_on_my_iphone/</link>
+      <description><![CDATA[尝试安装应用程序，我需要启用开发人员模式，但不再有这样做的选项。任何帮助都会很棒   由   提交 /u/dinosaur72   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ceabk2/how_would_i_enable_developer_mode_on_my_iphone/</guid>
+      <pubDate>Sat, 27 Apr 2024 09:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>spotify 7天新账户？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/</link>
-      <description><![CDATA[我下载了 Spotify 作为旁加载。 如果您使用 Spotify Premium 1 周，溢价将会消失。 &gt; 我必须每周创建一个新的 Spotify 帐户吗？   由   提交/u/No-Fee2847   /u/No-Fee2847 reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我以侧载方式下载了 Spotify。 如果您使用 Spotify Premium 1 周，高级版将会消失。 我每周都必须创建一个新的 Spotify 帐户吗？    提交人    /u/No-Fee2847   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ce9fxn/spotify_7days_new_account/</guid>
       <pubDate>Sat, 27 Apr 2024 08:17:43 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在叙利亚的朋友，他的叔叔给他支付了UDID白金注册，但他没有使用VPN。当他在手机中下载证书并尝试安装应用程序时，它显示：“无法验证该应用程序。”他应该怎么做，特别是如果他没有 PayPal 交易 ID？”   由   提交/u/Alaa3743  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cdrc4n/udid_registration/</guid>
       <pubDate>Fri, 26 Apr 2024 17:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何让 Crunchyroll++ 工作吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cdb987/anyone_know_how_to_get_crunchyroll_working/</link>
-      <description><![CDATA[有人知道如何让 crunchyroll++ 工作吗？每次我加载它时，它都会出现“错误”   由   提交 /u/Clash_with_kg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cdb987/anyone_know_how_to_get_crunchyroll_working/</guid>
-      <pubDate>Fri, 26 Apr 2024 03:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用Filza在游戏陷阱冒险2中获得更多生命</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cd86ld/how_to_use_filza_to_get_more_lives_in_the_game/</link>
-      <description><![CDATA[玩这个非常困难的游戏，有两种模式。普通模式可以给你多重生命，但它被锁定在付费墙后面。还有最后机会模式可以给你 1 条生命。我看到另一篇 Reddit 帖子说要转到 Filza 游戏文件中的 data.ini 并更改生命值的级别。这不起作用。有人知道如何使用 filza 解锁正常模式吗？   由   提交/u/RatonMyComputer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cd86ld/how_to_use_filza_to_get_more_lives_in_the_game/</guid>
-      <pubDate>Fri, 26 Apr 2024 00:57:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
