@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:08:02 GMT</lastBuildDate>
+    <item>
+      <title>无法安装车库乐队</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cf1sdq/cant_install_garage_band/</link>
+      <description><![CDATA[我想安装 GarageBand 来更改我的铃声，但我无法安装，当我进入 AppStore 时，它​​说它需要 ios 版本 17，而我的 ios 版本是 16.77，没有软件更新，有人可以帮忙吗？    提交人    /u/Starboy1767   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cf1sdq/cant_install_garage_band/</guid>
+      <pubDate>Sun, 28 Apr 2024 08:47:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>API v.1.7</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cf03ul/api_v17/</link>
+      <description><![CDATA[大家好！ 今天我们发布了API v.1.7。这是长期支持版本，至少可以运行 2 年。 API v.1.6，现已弃用，并将在 2024 年 6 月 1 日之前有效。迁移指南位于 位于此 URL。 API v.1.7 支持官方应用发布、统一应用索引和许多其他功能，包括应用安装历史记录、单独的应用增强库等等。它的速度也显着加快。 我们的服务还提供其他 API：推送服务 API、应用认证服务API。 我们也开通了官方GitHub账号，您可以在其中找到支持库和我们公开提供的代码：https://github.com/orgs/appdb-official/repositories   很快我们将发布面向开发者的发布者专区、appdb 服务 iOS/iPadOS/watchOS 库以及 Beta 版构建和代码签名软件，敬请关注！ &lt; em&gt;最诚挚的问候，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cf03ul/api_v17/</guid>
+      <pubDate>Sun, 28 Apr 2024 06:54:28 GMT</pubDate>
+    </item>
     <item>
       <title>是否可以对 iPhone 上的 ROM 打补丁？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cewpnx/is_it_possible_to_apply_a_patch_to_a_rom_on_iphone/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>有谁知道我如何侧载 Instacart 或 DoorDash</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cevsc8/does_anyone_know_how_i_can_side_load_instacart_or/</link>
-      <description><![CDATA[有人知道我如何侧载 Instacart 或 DoorDash 吗    提交人    /u/RomeonoJulietTv   [链接] [评论]]]></description>
+      <description><![CDATA[有谁知道如何侧面加载 Instacart 或 DoorDash   由   提交 /u/RomeonoJulietTv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cevsc8/does_anyone_know_how_i_can_side_load_instacart_or/</guid>
       <pubDate>Sun, 28 Apr 2024 02:33:39 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>有什么应用程序可以用来与 Chromecast 和 Firestick 共享我的屏幕？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ceodrq/any_app_i_could_use_to_share_my_screen_with_both/</link>
-      <description><![CDATA[嗨，我可以使用任何 ipa 来实现此目的吗？谢谢   由   提交/u/invasionofsmallcubes  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，有没有什么 ipa 可以用？谢谢    提交人    /u/invasionofsmallcubes   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ceodrq/any_app_i_could_use_to_share_my_screen_with_both/</guid>
       <pubDate>Sat, 27 Apr 2024 20:40:04 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>在 Apple Silicon 上使用 sideloadly 安装 ipa 文件：安装失败：无法 chmod：</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cejzwb/installing_a_ipa_file_using_sideloadly_on_apple/</link>
-      <description><![CDATA[我需要帮助，我收到此错误  将应用程序安装到 /Applications Apple Silicon 应用程序安装失败：无法 chmod：chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser：没有这样的文件或目录 Apple Silicon 安装失败：无法chmod: chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser: 没有这样的文件或目录 如果需要整个安装的日志 https://pastebin.com/raw/xJy1SHgH    由   提交 /u/SoufgameYT   [链接] [评论]]]></description>
+      <description><![CDATA[我需要帮助，我收到此错误 将应用程序安装到/Applications Apple Silicon 应用程序安装失败：无法 chmod：chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser：没有此文件或目录 Apple Silicon 安装失败：无法 chmod：chmod /var/folders/83/_yhlk12559b29jw78n2l32yw0000gn/T/sideloadly-m1-3172564709/Wrapper/laser.app/laser：没有此文件或目录 如果需要整个安装的日志 https://pastebin.com/raw/xJy1SHgH     由    /u/SoufgameYT 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cejzwb/installing_a_ipa_file_using_sideloadly_on_apple/</guid>
       <pubDate>Sat, 27 Apr 2024 17:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍安装历史记录</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cejjxw/introducing_installation_history/</link>
-      <description><![CDATA[嗨！ 我们推出了新的 appdb 部分，安装历史记录。此页面收集您所有设备的所有安装历史记录，您可以随时将所需的应用程序重新安装到任何设备上。存储在 IPA 缓存中的所有应用程序都已转移到安装历史记录中，因此您不会错过任何东西。 此致，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cejjxw/introducing_installation_history/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何判断是否安全</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ceji74/how_to_tell_if_its_safe/</link>
-      <description><![CDATA[我刚刚开始侧载，我想知道如何判断哪些 ipas 是安全的。我目前已从 https://ios.drifty.win/view/app/?source=https://driftywinds.github.io/AltStore/apps.json&amp;id=com.google.ios.youtube。谁能告诉我这是否安全以及如何判断我下载的未来 ipas 是否安全 ​   由   提交/u/Any_Information_2264   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ceji74/how_to_tell_if_its_safe/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
