@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 28 Apr 2024 12:14:26 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Sun, 28 Apr 2024 15:08:29 GMT</lastBuildDate>
+    <item>
+      <title>Emutrids 还在工作吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cf6qw6/is_emuthreeds_still_working/</link>
+      <description><![CDATA[我正在尝试安装它，但它一直说应用程序由于完整性而无法验证，但是当我检查配置文件/VPN 管理时，它没有显示出来我可以验证它，我是否做错了什么或者它不起作用，如果它不起作用我还能使用什么？   由   提交 /u/Foreign_Promise7273   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cf6qw6/is_emuthreeds_still_working/</guid>
+      <pubDate>Sun, 28 Apr 2024 13:44:59 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚购买了证书，如何在不重新安装的情况下转移我的 Sideloadly 应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cf4rq3/just_bought_a_certificate_how_do_i_move_over_my/</link>
-      <description><![CDATA[我不想丢失 Sideloadly 应用数据和帐户。有什么办法可以在不丢失数据的情况下使用证书进行签名吗？    提交人    /u/NoHoesInMyDMs   [链接] [评论]]]></description>
+      <description><![CDATA[我不想丢失我的 Sideloadly 应用程序数据和帐户。无论如何，我可以用证书对其进行签名而不会丢失数据吗？   由   提交/u/NoHoesInMyDMs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cf4rq3/just_bought_a_certificate_how_do_i_move_over_my/</guid>
       <pubDate>Sun, 28 Apr 2024 12:01:43 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>是否可以对 iPhone 上的 ROM 打补丁？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cewpnx/is_it_possible_to_apply_a_patch_to_a_rom_on_iphone/</link>
-      <description><![CDATA[我尝试过使用 xPatcher，但找不到让它工作的方法。我正在尝试在 psp 的日文 rom 上安装英文补丁。   由   提交/u/No_Entrepreneur9769   [链接] [评论]]]></description>
+      <description><![CDATA[我试过使用 xPatcher，但找不到让它工作的方法。我正试图将英文补丁放到 psp 的日文 rom 上。    提交人    /u/No_Entrepreneur9769   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cewpnx/is_it_possible_to_apply_a_patch_to_a_rom_on_iphone/</guid>
       <pubDate>Sun, 28 Apr 2024 03:24:31 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>SS06 SNAPCHAT 有修复了吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cerkbf/ss06_snapchat_any_fix_yet/</link>
-      <description><![CDATA[我之前使用的是 snapchat-ip ipa 版本，它可以绕过禁令并保持我登录，但它在 2 周前停止工作了 现在任何可以绕过这个问题的应用程序，不是那些有我想要的功能的邪恶应用程序，只需绕过并登录即可     提交人    /u/Mropenmoon   [link] [评论]]]></description>
+      <description><![CDATA[我使用的是 snapchat-ip ipa 版本，可以绕过禁令并让我保持日志记录，但它在 2 周前停止工作 任何绕过此的应用程序现在，没有那些具有我想要的功能的邪恶者，只需绕过并登录    由   提交 /u/Mropenmoon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cerkbf/ss06_snapchat_any_fix_yet/</guid>
       <pubDate>Sat, 27 Apr 2024 23:01:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我试图打开猩红色侧载，但它不允许我打开，并且显示“无法验证应用程序。需要互联网连接来验证开发商“iPhone发行：阳光保险集团股份有限公司”的信任。在经过验证之前，该应用程序将无法使用。”我刚刚下载了不同的配置文件，所以可能是这样，但我不知道，有人可以帮助我吗？   由   提交 /u/Icy_Diver_5300   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cep83v/why_does_scarlet_sideload_say_this/</guid>
       <pubDate>Sat, 27 Apr 2024 21:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影盒专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ceojdg/movie_box_pro/</link>
-      <description><![CDATA[有关获取 Movie Box Pro 邀请码的任何建议。我希望在 Apple TV 4K 上进行此设置。我有 iOS 版 Signulous 和 iPadOS 版 Maplesign。感谢您的帮助。   由   提交/u/Hydro1313  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ceojdg/movie_box_pro/</guid>
-      <pubDate>Sat, 27 Apr 2024 20:46:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
