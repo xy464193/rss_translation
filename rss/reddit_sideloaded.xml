@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 28 Apr 2024 15:08:29 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Sun, 28 Apr 2024 18:09:15 GMT</lastBuildDate>
+    <item>
+      <title>瓦图西有成功吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cfakf4/any_success_with_watusi/</link>
+      <description><![CDATA[我尝试使用 Sideloadly 从 GitHub 上的最新版本侧载 Watusi，但它并没有覆盖现有的 WhatsApp，而是安装了一个新的 WhatsApp，并在其中，恢复文本的唯一方法是通过 iCloud，而 iCloud 不适用于此版本。这似乎是一个已知问题，但我想知道是否有人有幸解决这个问题。 我看到还有一个 trollstore 版本，它在 GitHub 上说它应该让 iCloud 功能正常工作，但我不这样做。没有 trollstore，我不确定我是否应该冒险安装它。 有人有幸使用它吗？ 另外，附带问题，但 sideloadly 会自动登录吗wifi，或者我每次都必须通过wifi重新安装它。我必须在 Mac 上以某种方式配置它吗？我找不到有关此主题的信息。 非常感谢！   由   提交/u/HeadTea  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cfakf4/any_success_with_watusi/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一些关于侧载的一般性问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cf9duw/i_have_some_general_questions_about_sideloading/</link>
+      <description><![CDATA[我对这个世界完全陌生，对一般安全、如何处理事情以及我的最佳选择是什么有一些疑问。如果有人有这方面的经验和知识，如果我能向您发送我的问题，我将不胜感激！请告诉我，谢谢。   由   提交/u/iamscaredofevrthing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cf9duw/i_have_some_general_questions_about_sideloading/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>Emutrids 还在工作吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cf6qw6/is_emuthreeds_still_working/</link>
@@ -29,14 +43,14 @@
     <item>
       <title>帮助在 iPhone 14 Pro (iOS 17.3.1) 上安装 uYou（无需撤销）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cf4ggj/help_installing_uyou_on_iphone_14_pro_ios_1731/</link>
-      <description><![CDATA[嘿r/sideloaded， 我希望你们中在侧载和证书方面有经验的人可以帮助我。 我有两部 iPhone：  iPhone 12 Pro Max：运行 iOS 16.2 和 TrollStore iPhone 14 Pro：运行 iOS 17.3.1（不幸的是，没有 TrollStore） 我想在两台设备上安装 uYou，但我讨厌在 iPhone 14 Pro 上处理不断的撤销。我知道 TrollStore 会永久侧面加载应用程序，从而防止撤销。  我的问题： 如果我从 Maplesign 等服务购买开发人员证书或 eSign，它是否允许我在 iPhone 14 Pro 上侧载 uYou 并防止其被撤销（类似于 TrollStore 的工作原理）？ 我是开发者证书的新手，所以我想要一些见解：  可靠性：这些证书实际上如何防止吊销？ 服务&lt; /em&gt;：Maplesign / eSign 或其他信誉良好的服务之间是否存在偏好？ 需要注意的事项：我应该注意的任何陷阱或重要注意事项？提前致谢！我真的很想享受 uYou 而没有那些令人恼火的撤销！    由   提交 /u/jackre9al   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 r/sideloaded， 我希望你们中一些有侧载和证书经验的人能帮助我。 我有两部 iPhone：  iPhone 12 Pro Max：运行 iOS 16.2 和 TrollStore iPhone 14 Pro：运行 iOS 17.3.1（不幸的是，没有 TrollStore） 我想在两部设备上都安装 uYou，但我讨厌处理 iPhone 14 Pro 上不断的撤销。我知道 TrollStore 会永久侧载应用程序，防止撤销。  我的问题： 如果我从 Maplesign 或 eSign 等服务购买开发者证书，它是否允许我在 iPhone 14 Pro 上侧载 uYou 并防止其被撤销（类似于 TrollStore 的工作方式）？ 我对开发者证书还不熟悉，因此我希望获得一些见解：  可靠性：这些证书实际上在多大程度上防止撤销？ 服务：在 Maplesign / eSign 或其他信誉良好的服务之间是否有偏好？ 有什么需要注意的：我应该注意什么陷阱或重要注意事项？提前致谢！我真的想在没有那些烦人的撤销的情况下享受 uYou！     提交人    /u/jackre9al   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cf4ggj/help_installing_uyou_on_iphone_14_pro_ios_1731/</guid>
       <pubDate>Sun, 28 Apr 2024 11:43:45 GMT</pubDate>
     </item>
     <item>
       <title>有人有 filebrowsergo 或 pro 的 ipa 文件不会崩溃吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cf47n9/anyone_have_ipa_file_for_filebrowsergo_or_pro/</link>
-      <description><![CDATA[互联网上的所有 ipa 崩溃或不允许我添加文件夹位置，确实需要它 &lt;!-- SC_ON - -&gt;  由   提交/u/K90174  [链接] [评论]]]></description>
+      <description><![CDATA[互联网上的所有 ipa 都崩溃了或者不让我添加文件夹位置，真的需要它    提交人    /u/K90174   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cf47n9/anyone_have_ipa_file_for_filebrowsergo_or_pro/</guid>
       <pubDate>Sun, 28 Apr 2024 11:28:53 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>是否可以对 iPhone 上的 ROM 打补丁？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cewpnx/is_it_possible_to_apply_a_patch_to_a_rom_on_iphone/</link>
-      <description><![CDATA[我试过使用 xPatcher，但找不到让它工作的方法。我正试图将英文补丁放到 psp 的日文 rom 上。    提交人    /u/No_Entrepreneur9769   [link] [评论]]]></description>
+      <description><![CDATA[我尝试过使用 xPatcher，但找不到让它工作的方法。我正在尝试在 psp 的日文 rom 上安装英文补丁。   由   提交/u/No_Entrepreneur9769   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cewpnx/is_it_possible_to_apply_a_patch_to_a_rom_on_iphone/</guid>
       <pubDate>Sun, 28 Apr 2024 03:24:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我使用的是 snapchat-ip ipa 版本，可以绕过禁令并让我保持日志记录，但它在 2 周前停止工作 任何绕过此的应用程序现在，没有那些具有我想要的功能的邪恶者，只需绕过并登录    由   提交 /u/Mropenmoon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cerkbf/ss06_snapchat_any_fix_yet/</guid>
       <pubDate>Sat, 27 Apr 2024 23:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有PDF专家吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cerhzx/anyone_have_pdf_expert/</link>
-      <description><![CDATA[找不到   由   提交/u/Fair_Credit_6019   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cerhzx/anyone_have_pdf_expert/</guid>
-      <pubDate>Sat, 27 Apr 2024 22:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么猩红侧载会这么说</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cep83v/why_does_scarlet_sideload_say_this/</link>
-      <description><![CDATA[我试图打开猩红色侧载，但它不允许我打开，并且显示“无法验证应用程序。需要互联网连接来验证开发商“iPhone发行：阳光保险集团股份有限公司”的信任。在经过验证之前，该应用程序将无法使用。”我刚刚下载了不同的配置文件，所以可能是这样，但我不知道，有人可以帮助我吗？   由   提交 /u/Icy_Diver_5300   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cep83v/why_does_scarlet_sideload_say_this/</guid>
-      <pubDate>Sat, 27 Apr 2024 21:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
