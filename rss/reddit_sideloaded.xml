@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 29 Apr 2024 15:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:09:58 GMT</lastBuildDate>
     <item>
       <title>有没有办法让应用程序旁加载更长时间？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cfxmzx/is_there_a_way_to_sideload_apps_for_longer/</link>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 29 Apr 2024 12:16:33 GMT</pubDate>
     </item>
     <item>
-      <title>Signulous-撤销？</title>
+      <title>Signulous - 撤销？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cfwo0d/signulous_revoking/</link>
       <description><![CDATA[我刚刚带来了 Signulous，现在正在等待 72 小时期限。我正在查看有关 Signulous 的内容，并不断看到有关撤销的内容，我有几个问题？  我的 Apple ID 会受到影响吗？ 应用程序会发生什么情况？ 我可以重新购买证书吗？ UDID 是否会被列入黑名单，无法获得任何证书？ 撤销和撤销的原因是什么？最好的预防方法是什么？    由   提交 /u/Winter_Platypus_501   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cfwo0d/signulous_revoking/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Mon, 29 Apr 2024 09:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>我是个菜鸟 ngl</title>
+      <title>我是个菜鸟</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cfuzhy/im_a_noob_ngl/</link>
       <description><![CDATA[作为一个新的侧载用户，我现在使用猩红，有什么应该安装的东西，并且有一些存储库，但我不知道是否有必须有的   由   提交 /u/itachithagod   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cfuzhy/im_a_noob_ngl/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>如何获取侧存储配置文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cfppck/how_to_get_sidestore_config_file/</link>
-      <description><![CDATA[我有 wireguard 但如何获取配置文件？    提交人    /u/No-Difference-7401   [链接] [评论]]]></description>
+      <description><![CDATA[我有wireguard，但是如何获取配置文件？   由   提交 /u/No-Difference-7401   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cfppck/how_to_get_sidestore_config_file/</guid>
       <pubDate>Mon, 29 Apr 2024 03:56:37 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>瓦图西有成功吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cfakf4/any_success_with_watusi/</link>
-      <description><![CDATA[我尝试使用 Sideloadly 从 GitHub 上的最新版本侧载 Watusi，但它没有覆盖现有的 WhatsApp，而是安装了一个新的，而且在其中，恢复文本的唯一方法是通过 iCloud，而 iCloud 不适用于此版本。这似乎是一个已知问题，但我想知道是否有人成功解决了这个问题。 我看到 GitHub 上还有一个 trollstore 版本，上面说它应该可以运行 iCloud，但我没有 trollstore，而且我不确定是否应该冒险安装它。 有人成功解决了这个问题吗？ 另外，附带一个问题，但是 sideloadly 会自动通过 wifi 签名吗，还是每次我都必须通过 wifi 重新安装它。我必须在 Mac 上以某种方式对其进行配置吗？我找不到有关此主题的信息。 非常感谢！    提交人    /u/HeadTea   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试使用 Sideloadly 从 GitHub 上的最新版本侧载 Watusi，但它并没有覆盖现有的 WhatsApp，而是安装了一个新的 WhatsApp，并在其中，恢复文本的唯一方法是通过 iCloud，而 iCloud 不适用于此版本。这似乎是一个已知问题，但我想知道是否有人有幸解决这个问题。 我看到还有一个 trollstore 版本，它在 GitHub 上说它应该让 iCloud 功能正常工作，但我不这样做。没有 trollstore，我不确定我是否应该冒险安装它。 有人有幸使用它吗？ 另外，附带问题，但 sideloadly 会自动登录吗wifi，或者我每次都必须通过wifi重新安装它。我必须在 Mac 上以某种方式配置它吗？我找不到有关此主题的信息。 非常感谢！   由   提交/u/HeadTea  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cfakf4/any_success_with_watusi/</guid>
       <pubDate>Sun, 28 Apr 2024 16:34:17 GMT</pubDate>
     </item>
