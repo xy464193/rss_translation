@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 01 May 2024 21:08:16 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Thu, 02 May 2024 00:36:28 GMT</lastBuildDate>
+    <item>
+      <title>防撤销问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ci23i4/problem_with_antirevoke/</link>
+      <description><![CDATA[我正在使用 Scarlet 和 Anti Revoke 配置文件，但 Wifi 问题仍然出现。你能帮助我吗？    提交人    /u/Ross10201alt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ci23i4/problem_with_antirevoke/</guid>
+      <pubDate>Thu, 02 May 2024 00:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadowrocket 代理服务器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ci01wq/shadowrocket_proxy_server/</link>
+      <description><![CDATA[我侧载了 Shadowrocket，并在过去一小时内一直在尝试设置代理服务器（使用 geonode 提供的免费代理列表）。即使它们都应该处于活动状态，但每一个都会立即超时……我怎样才能让服务器/应用程序正常工作？可能是什么问题。 （我在发布图片时很小心，因为这样我的帖子通常会被删除）   由   提交 /u/JElainM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ci01wq/shadowrocket_proxy_server/</guid>
+      <pubDate>Wed, 01 May 2024 22:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的世界：Apple TV 版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1chzzhg/minecraft_apple_tv_edition/</link>
+      <description><![CDATA[只是问一下是否有人有长期被遗忘的 Minecraft: Apple TV Edition 的 ipa（或者至少在他们的 Apple TV 盒子上还有它？ )   由   提交/u/HighDefStudios  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1chzzhg/minecraft_apple_tv_edition/</guid>
+      <pubDate>Wed, 01 May 2024 22:56:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 iOS ipa 文件转换为应有的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1chysrv/how_to_convert_ios_ipa_files_into_the_app_they/</link>
+      <description><![CDATA[帮助。？   由   提交 /u/Vivid_Experience9038   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1chysrv/how_to_convert_ios_ipa_files_into_the_app_they/</guid>
+      <pubDate>Wed, 01 May 2024 22:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1chyqlr/scarlet/</link>
+      <description><![CDATA[谁能帮我获得猩红色或设计，因为我想要 iOS 上的修改应用程序    由   提交 /u/Vivid_Experience9038   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1chyqlr/scarlet/</guid>
+      <pubDate>Wed, 01 May 2024 22:05:18 GMT</pubDate>
+    </item>
     <item>
       <title>一些带有猩红色的应用程序立即崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1chv3ju/some_apps_with_scarlet_instantly_crash/</link>
@@ -55,7 +90,7 @@
       <pubDate>Wed, 01 May 2024 17:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 表现得很奇怪</title>
+      <title>YouTube 的行为很奇怪</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1chqa2o/youtube_is_acting_weird/</link>
       <description><![CDATA[所以我正在使用 YouTube reborn，一切都很好，但今天它开始不加载提要，只是空白屏幕，滚动后开始加载。我开始测试其他 YouTube 替代品（我真的很讨厌 utube 和其他），所有这些都遇到了同样的问题。也许有人知道发生了什么事或者我该如何解决这个问题。另外请告诉我，您是否知道某些 YouTube ipa 可以让您从提要中隐藏短裤，不仅是选项卡，还可以从任何地方隐藏短裤。thx   由   提交 /u/Express-Bill-8034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1chqa2o/youtube_is_acting_weird/</guid>
@@ -71,44 +106,9 @@
     <item>
       <title>关于侧载调整应用程序的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1choo6b/question_about_sideloading_tweaked_apps/</link>
-      <description><![CDATA[您好，我最近购买了白金 UDID 注册，我想安装一些经过调整的应用程序。我不确定是否必须签署调整后的应用程序，或者安装是否安全，或者最安全的方法是什么？感谢任何帮助！（我打算使用 Kamohacks ipa）谢谢   由   提交 /u/ZealousidealWave5232   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我最近购买了白金版 UDID 注册，我想安装几个经过调整的应用程序。我不确定我是否必须签署经过调整的应用程序，或者安装是否安全，或者什么是最安全的方法？任何帮助都非常感谢！（我打算使用 Kamohacks ipa）谢谢    提交人    /u/ZealousidealWave5232   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1choo6b/question_about_sideloading_tweaked_apps/</guid>
       <pubDate>Wed, 01 May 2024 15:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者帐号？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chngw9/developer_account/</link>
-      <description><![CDATA[如何创建开发者帐户以避免证书吊销   由   提交/u/Redranger754  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chngw9/developer_account/</guid>
-      <pubDate>Wed, 01 May 2024 14:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 上有 3DS 模拟器吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chmcdn/3ds_emulator_on_iphone/</link>
-      <description><![CDATA[iphone上真的有免费的3DS模拟器吗？我知道 folium 即将上市，但它会花费一些钱，我想知道 iphone 上是否有免费的 3ds 模拟器   由   提交/u/Marwann_Ayb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chmcdn/3ds_emulator_on_iphone/</guid>
-      <pubDate>Wed, 01 May 2024 13:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picsart++ ipa 请求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chlije/picsart_ipa_request/</link>
-      <description><![CDATA[有人获得了已解锁高级功能的 picsart 的 ipa 链接吗？    ;由   提交 /u/peachfreude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chlije/picsart_ipa_request/</guid>
-      <pubDate>Wed, 01 May 2024 12:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载 .ipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chjzob/downloading_ipa_files/</link>
-      <description><![CDATA[大家好，我刚刚加入这个小组，因为我看到了它的内容。由于我对此一无所知，我只有一个问题，我希望没有人嘲笑我，也没有人引诱我。我如何将 .ipa 文件直接下载到我的手机上，以使该应用程序与其他应用程序一样？请大家帮忙。    由   提交  /u/Outrageous_State9170   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chjzob/downloading_ipa_files/</guid>
-      <pubDate>Wed, 01 May 2024 11:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube OLED</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chj3vc/youtube_oled/</link>
-      <description><![CDATA[有人有 Youtube Oled 最新版本的 ipa 吗？到处都找不到。   由   提交/u/amir997  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chj3vc/youtube_oled/</guid>
-      <pubDate>Wed, 01 May 2024 10:48:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
