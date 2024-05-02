@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 02 May 2024 18:10:34 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Thu, 02 May 2024 21:07:50 GMT</lastBuildDate>
+    <item>
+      <title>Checkra1n 帖子（我之前发布过）和 ipa 解密的更新。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</link>
+      <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件并不是很多新东西（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</guid>
+      <pubDate>Thu, 02 May 2024 20:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarlet 是开源的吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</link>
+      <description><![CDATA[无法找到任何信息来确认我是否可以在我的设备上安全安装。   由   提交/u/mindful999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</guid>
+      <pubDate>Thu, 02 May 2024 19:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>调整了知名应用程序的应用程序，但没有干扰（例如：YouTube 没有 Shorts、Reddit 没有可以无限滚动的短视频、Snapchat 没有 Discover 或 Spotlight 部分）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cino0p/tweaked_apps_of_wellknown_apps_but_distractions/</link>
+      <description><![CDATA[大家好， 几乎所有内容都在标题中。 我正在寻找应用程序我们都知道，但没有无用的、分散注意力的和令人上瘾的内容，例如 YouTube 中的短片，其他应用程序中的等效内容：Reddit 短视频，您可以无休止地滚动，对我来说最重要的是，Snapchat 发现部分，我在那里浪费了很多时间。&lt; /p&gt; 我找到了一种禁用 YouTube Shorts 的方法，只需卸载应用程序并使用名为 UnTrap 的扩展程序（您可以在 AppStore 中下载），但只要没有网络版本，它就无法解决我的 Snapchat 问题在移动设备上... 感谢您的帮助。   由   提交/u/lhegemonique  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cino0p/tweaked_apps_of_wellknown_apps_but_distractions/</guid>
+      <pubDate>Thu, 02 May 2024 18:57:55 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iPad 的非 WebKit 浏览器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</link>
@@ -13,7 +34,7 @@
       <pubDate>Thu, 02 May 2024 15:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>有人有可以与 SideStore 配合使用的 Kodi ipa 吗？</title>
+      <title>有人有可与 SideStore 兼容的 Kodi ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</link>
       <description><![CDATA[.   由   提交 /u/mariocmg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</guid>
@@ -36,7 +57,7 @@
     <item>
       <title>粘贴 - 无尽的剪贴板 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cift8q/paste_endless_clipboard_ipa/</link>
-      <description><![CDATA[所以我在寻找一个好的剪贴板，然后找到并找到了这个很酷的应用程序 Paste - Endless Clipboard。但是没有付费版本就无法使用它。所以我开始寻找破解版本，但它们都被删除了。所以也许有人有或知道我可以在哪里下载这个应用程序的 ipa。我真的很感激一些帮助    提交人    /u/Express-Bill-8034   [link] [评论]]]></description>
+      <description><![CDATA[所以我一直在寻找一个好的剪贴板，并找到并找到了这个很酷的应用程序 Paste - Endless Clipboard 。但是你不能使用它没有溢价。于是我就开始寻找破解版，结果全部被删除了。所以也许有人知道或者知道我可以在哪里下载这个应用程序的 ipa。我真的很感激一些帮助   由   提交 /u/Express-Bill-8034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cift8q/paste_endless_clipboard_ipa/</guid>
       <pubDate>Thu, 02 May 2024 13:34:15 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>我的世界：Apple TV 版</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1chzzhg/minecraft_apple_tv_edition/</link>
-      <description><![CDATA[只是问一下是否有人拥有早已被遗忘的 Minecraft：Apple TV Edition 的 ipa（或者至少他们的 Apple TV 盒子上仍有它？）    提交人    /u/HighDefStudios   [link] [comments]]]></description>
+      <description><![CDATA[只是问一下是否有人有长期被遗忘的 Minecraft: Apple TV Edition 的 ipa（或者至少在他们的 Apple TV 盒子上还有它？ )   由   提交/u/HighDefStudios  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1chzzhg/minecraft_apple_tv_edition/</guid>
       <pubDate>Wed, 01 May 2024 22:56:45 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在通过scarlet下载minecraft Earth、minecraft china和minecraft Story模式。故事模式启动得很好并且可以玩，但是地球和中国立即关闭自己，有什么提示吗？   由   提交/u/phoenix0219  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1chv3ju/some_apps_with_scarlet_instantly_crash/</guid>
       <pubDate>Wed, 01 May 2024 19:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>NordVPN 和 IPO</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chuj4m/nordvpn_and_ipogo/</link>
-      <description><![CDATA[如果我使用 NordVPN 和 Ipogo，我会被禁止吗？ 或者 如何在iPhone 没有被禁止？？   由   提交/u/Ubier666  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chuj4m/nordvpn_and_ipogo/</guid>
-      <pubDate>Wed, 01 May 2024 19:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载卡扣还能再次工作吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chu1wy/does_side_loading_snap_work_again/</link>
-      <description><![CDATA[问这个是因为不久前我因为被禁止而使用了侧面加载的 Snap，但几个月前 Snap 已经做到了，所以你不能甚至可以在侧载版本上登录您的帐户。  如果有人仍在使用或已经开始使用它，请 lmk 我收到了 Snapchat 提款，我厌倦了不得不使用他妈的 iPad 😭😭😭   由   提交/u/DrTux9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chu1wy/does_side_loading_snap_work_again/</guid>
-      <pubDate>Wed, 01 May 2024 18:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>下车动作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chtmxn/alight_motion/</link>
-      <description><![CDATA[有没有人有 iOS 版 alight Motion 破解高级版。我的猩红色不起作用，因为它说它不再可用   由   提交 /u/Vivid_Experience9038   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chtmxn/alight_motion/</guid>
-      <pubDate>Wed, 01 May 2024 18:38:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
