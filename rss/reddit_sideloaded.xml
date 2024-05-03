@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 03 May 2024 12:13:57 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Fri, 03 May 2024 15:09:21 GMT</lastBuildDate>
+    <item>
+      <title>伊波戈</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cjawfh/ipogo/</link>
+      <description><![CDATA[有谁知道为什么当您尝试登录时 ipogo 说需要更新才能继续？什么时候修复？   由   提交 /u/Terrible_Push6880   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cjawfh/ipogo/</guid>
+      <pubDate>Fri, 03 May 2024 15:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有有效的 spire IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cja15k/any_slay_the_spire_ipas_that_work/</link>
+      <description><![CDATA[appdb 上可用的 IPA 不起作用   由   提交 /u/A_MasteR_at_WorK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cja15k/any_slay_the_spire_ipas_that_work/</guid>
+      <pubDate>Fri, 03 May 2024 14:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊布 Spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj9lut/eevee_spotify/</link>
+      <description><![CDATA[有人知道 eevee Spotify 上的高级错误是否已修复？   由   提交/u/cartonmojado33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj9lut/eevee_spotify/</guid>
+      <pubDate>Fri, 03 May 2024 14:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效的免费 Snapchat IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj96cz/free_snapchat_ipa_that_works/</link>
+      <description><![CDATA[如果你们想下载 Snapchat，但在 Snapchat 开始检测侧向加载后买不起旁路，这里有一个下载链接免费版本有效！无需 AltStore 或 PC。当您在网站上链接设备并在设备设置中手动允许其配置文件后，它会直接下载到您的设备。 https://appdb.to/details/d39865d5d244222bca0c6d0b6e2d3a6beea80f13 警告，下载风险自负！此 Snapchat 可以随时撤销，您将面临被 Snapchat 禁止的风险   由   提交/u/Educational_Shame591   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj96cz/free_snapchat_ipa_that_works/</guid>
+      <pubDate>Fri, 03 May 2024 13:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊波戈？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj8ob5/ipogo/</link>
+      <description><![CDATA[有人看到或听说过最新的 ipogo 更新何时会被删除吗？我觉得我们为这次更新等待的时间比平常要长得多   由   提交/u/Boggzy47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj8ob5/ipogo/</guid>
+      <pubDate>Fri, 03 May 2024 13:27:42 GMT</pubDate>
+    </item>
     <item>
       <title>有什么办法可以免费获得 SoundCloud Go？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cj6ppv/any_way_to_get_soundcloud_go_without_paying/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>潮汐旁载不起作用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</link>
-      <description><![CDATA[Tidal 在我的国家不可用，因此我从其他国家/地区购买了订阅。该应用程序在 AppStore 中不可用，因此我从解密的应用程序商店侧载了它。问题是当我使用 Esign 签名应用程序并输入我的登录详细信息时什么也没发生。它提示加载屏幕并要求我再次登录。我尝试过的解决方法是： - 使用 VPN - 使用分发证书 - 删除 mobileprovisions  任何帮助都将不胜感激 PS：捆绑包 ID 与 appstore 匹配    提交人    /u/guneykabel   [链接] [评论]]]></description>
+      <description><![CDATA[Tidal 在我的国家/地区不可用，因此我从其他国家/地区购买了订阅。该应用程序在 AppStore 中不可用，因此我从解密的应用程序商店旁加载了它。问题是当我使用 Esign 签署应用程序并输入我的登录详细信息时，什么也没发生。它提示加载屏幕并要求我再次登录。我尝试过的解决方法是： - 使用 VPN - 使用分发证书 - 删除 mobileprovisions  任何帮助将不胜感激 PS：捆绑 ID 与应用商店匹配 &lt; !-- SC_ON --&gt;  由   提交 /u/guneykabel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</guid>
       <pubDate>Fri, 03 May 2024 07:41:25 GMT</pubDate>
     </item>
@@ -48,7 +83,7 @@
       <pubDate>Fri, 03 May 2024 04:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>为什么设计比猩红更好？</title>
+      <title>为什么 esign 比 scarlet 更好？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cizw4j/why_is_esign_better_then_scarlet/</link>
       <description><![CDATA[当我问 esign 或猩红时，大多数时候，人们会说 esign...但为什么呢？是不是更冗长了？但为什么我需要那个，猩红色看起来更无活力   由   提交 /u/littleblack11111   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cizw4j/why_is_esign_better_then_scarlet/</guid>
@@ -57,7 +92,7 @@
     <item>
       <title>如何在无需构建或使用 Altstore 的情况下下载 Youtube 调整</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ciyyov/how_to_dowload_youtube_tweak_s_without_having_to/</link>
-      <description><![CDATA[获取 YT ipa，无需在 Github 操作中构建一个或让 Altstore 使用存储库。第 1 步：转到 github 页面并获取存储库链接 Ex 链接：https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/ arichornlover/arichornlover.github.io/main/apps.json 第 2 步：删除“?source=”及其后面的所有内容 编辑后的链接：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps。 json 第 3 步：将其粘贴到任何浏览器上，您应该看到一个空白页面，上面只有文本。 第 4 步：找到“downloadURL”：部分，下面是下载链接，将其粘贴到您的浏览器上，它应该下载一个具有奇怪名称的 ipa。 不用担心名称，那是 YT 调整的 ipa。现在您可以安装它   由   提交 /u/VipKute   [链接] [评论]]]></description>
+      <description><![CDATA[更新：有一种更简单的方法可以做到这一点。只需单击存储库链接，然后查看应用程序，然后单击免费下面的小下载 IPA 按钮。它应该下载一个名称奇怪的 ipa，它是经过调整的 Yt ipa。为此向 u/DoubleParadox 致敬 无需在 Github 操作中构建一个即可获取 YT ipa，或者让 Altstore 使用该存储库。第 1 步：转到 github 页面并获取存储库链接 Ex 链接：https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/ arichornlover/arichornlover.github.io/main/apps.json 第 2 步：删除“?source=”及其后面的所有内容 编辑后的链接：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps。 json 第 3 步：将其粘贴到任何浏览器上，您应该看到一个空白页面，上面只有文本。 第 4 步：找到“downloadURL”：部分，下面是下载链接，将其粘贴到您的浏览器上，它应该下载一个具有奇怪名称的 ipa。 不用担心名称，那是 YT 调整的 ipa。现在您可以安装它   由   提交 /u/VipKute   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciyyov/how_to_dowload_youtube_tweak_s_without_having_to/</guid>
       <pubDate>Fri, 03 May 2024 03:33:46 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[推荐需要通过侧载安装的非官方游戏例如：Fallout CE    由   提交/u/tf2_coconut  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciw58q/best_games/</guid>
       <pubDate>Fri, 03 May 2024 01:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 Instagram 通知 (ipa)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ciu74h/fixing_instagram_notifications_ipa/</link>
-      <description><![CDATA[嗨，我目前正在使用带有 Rocket 的 Instagram 的非常好的版本，但通知不起作用，我想知道是否有办法修复它们或将它们添加回 ipa，以便当我安装它时它们会再次工作。 （PS：如果这有帮助的话，我正在使用开发人员证书等来签署我的应用程序）   由   提交 /u/ZealousidealWave5232   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ciu74h/fixing_instagram_notifications_ipa/</guid>
-      <pubDate>Thu, 02 May 2024 23:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Checkra1n 帖子（我之前发布过）和 ipa 解密的更新。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</link>
-      <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件并不是很多新东西（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</guid>
-      <pubDate>Thu, 02 May 2024 20:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 是开源的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</link>
-      <description><![CDATA[无法找到任何信息来确认我是否可以在我的设备上安全安装。 编辑：正如我所想，与所有其他第三方签名者一样危险，没有联系表格，没有可验证的来源，封闭源代码...... 而且对于一个充满侵入性广告软件的网站，我终究会通过。&lt; /p&gt;   由   提交/u/mindful999  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</guid>
-      <pubDate>Thu, 02 May 2024 19:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>调整了知名应用程序的应用程序，但没有干扰（例如：YouTube 没有 Shorts、Reddit 没有可以无限滚动的短视频、Snapchat 没有 Discover 或 Spotlight 部分）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cino0p/tweaked_apps_of_wellknown_apps_but_distractions/</link>
-      <description><![CDATA[大家好， 几乎所有内容都在标题中。 我正在寻找应用程序我们都知道，但没有无用的、分散注意力的和令人上瘾的内容，例如 YouTube 中的短片，其他应用程序中的等效内容：Reddit 短视频，您可以无休止地滚动，对我来说最重要的是，Snapchat 发现部分，我在那里浪费了很多时间。&lt; /p&gt; 我找到了一种禁用 YouTube Shorts 的方法，只需卸载应用程序并使用名为 UnTrap 的扩展程序（您可以在 AppStore 中下载），但只要没有网络版本，它就无法解决我的 Snapchat 问题在移动设备上... 感谢您的帮助。   由   提交/u/lhegemonique  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cino0p/tweaked_apps_of_wellknown_apps_but_distractions/</guid>
-      <pubDate>Thu, 02 May 2024 18:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iPad 的非 WebKit 浏览器？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</link>
-      <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟。编辑或编辑：显然，截至两三天前，这已不再正确。苹果将​​被迫在 6 个月内开放第三方应用商店在 iPadOS 中安装的能力。   由   提交 /u/cavcavin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</guid>
-      <pubDate>Thu, 02 May 2024 15:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
