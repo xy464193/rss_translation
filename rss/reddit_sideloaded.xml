@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 03 May 2024 09:09:39 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Fri, 03 May 2024 12:13:57 GMT</lastBuildDate>
+    <item>
+      <title>有什么办法可以免费获得 SoundCloud Go？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj6ppv/any_way_to_get_soundcloud_go_without_paying/</link>
+      <description><![CDATA[最近看到一篇免费 Spotify Premium 的帖子，想知道是否有类似的 soundcloud &lt;3    由   提交 /u/Bluesishh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj6ppv/any_way_to_get_soundcloud_go_without_paying/</guid>
+      <pubDate>Fri, 03 May 2024 11:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法在 Ios 17.4 上模拟应用内购买而无需越狱</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj6hjk/is_there_a_way_to_emulate_in_app_purchases/</link>
+      <description><![CDATA[您好，我最近在 Android 上购买了 iphone，我使用 lucky patcher 免费获得游戏购买，ios 是否有类似的东西。   由   提交/u/Popular_Sorbet_3670   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj6hjk/is_there_a_way_to_emulate_in_app_purchases/</guid>
+      <pubDate>Fri, 03 May 2024 11:37:51 GMT</pubDate>
+    </item>
     <item>
       <title>潮汐旁载不起作用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</link>
-      <description><![CDATA[Tidal 在我的国家/地区不可用，因此我从其他国家/地区购买了订阅。该应用程序在 AppStore 中不可用，因此我从解密的应用程序商店旁加载了它。问题是当我使用 Esign 签署应用程序并输入我的登录详细信息时，什么也没发生。它提示加载屏幕并要求我再次登录。我尝试过的解决方法是： - 使用 VPN - 使用分发证书 - 删除 mobileprovisions  任何帮助将不胜感激 PS：捆绑 ID 与应用商店匹配 &lt; !-- SC_ON --&gt;  由   提交 /u/guneykabel   [链接] [评论]]]></description>
+      <description><![CDATA[Tidal 在我的国家不可用，因此我从其他国家/地区购买了订阅。该应用程序在 AppStore 中不可用，因此我从解密的应用程序商店侧载了它。问题是当我使用 Esign 签名应用程序并输入我的登录详细信息时什么也没发生。它提示加载屏幕并要求我再次登录。我尝试过的解决方法是： - 使用 VPN - 使用分发证书 - 删除 mobileprovisions  任何帮助都将不胜感激 PS：捆绑包 ID 与 appstore 匹配    提交人    /u/guneykabel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</guid>
       <pubDate>Fri, 03 May 2024 07:41:25 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Thu, 02 May 2024 23:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>更新 Checkra1n 帖子（我之前发布过）和 ipa 解密。</title>
+      <title>Checkra1n 帖子（我之前发布过）和 ipa 解密的更新。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</link>
       <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件并不是很多新东西（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟。编辑或编辑：显然，截至两三天前，这已不再正确。苹果将​​被迫在 6 个月内开放第三方应用商店在 iPadOS 中安装的能力。   由   提交 /u/cavcavin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</guid>
       <pubDate>Thu, 02 May 2024 15:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有可以与 SideStore 配合使用的 Kodi ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</link>
-      <description><![CDATA[.   由   提交 /u/mariocmg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</guid>
-      <pubDate>Thu, 02 May 2024 15:11:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>登录侧面加载的应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cihwes/sign_into_sideloaded_apps/</link>
-      <description><![CDATA[有没有办法在不创建新帐户的情况下登录 eeveespotify instagram++ 等侧载应用程序？    提交人    /u/BigBeatifulNose   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cihwes/sign_into_sideloaded_apps/</guid>
-      <pubDate>Thu, 02 May 2024 15:02:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
