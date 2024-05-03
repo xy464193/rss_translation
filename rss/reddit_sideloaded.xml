@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 03 May 2024 06:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:09:39 GMT</lastBuildDate>
+    <item>
+      <title>潮汐旁载不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</link>
+      <description><![CDATA[Tidal 在我的国家/地区不可用，因此我从其他国家/地区购买了订阅。该应用程序在 AppStore 中不可用，因此我从解密的应用程序商店旁加载了它。问题是当我使用 Esign 签署应用程序并输入我的登录详细信息时，什么也没发生。它提示加载屏幕并要求我再次登录。我尝试过的解决方法是： - 使用 VPN - 使用分发证书 - 删除 mobileprovisions  任何帮助将不胜感激 PS：捆绑 ID 与应用商店匹配 &lt; !-- SC_ON --&gt;  由   提交 /u/guneykabel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj2xk3/tidal_sideloading_not_working/</guid>
+      <pubDate>Fri, 03 May 2024 07:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新ipas</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cj2e3x/updating_ipas/</link>
+      <description><![CDATA[如何更新 ipas 以将新的更新和内容包含到应用程序中  &amp; #32；由   提交/u/OkIntern474  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cj2e3x/updating_ipas/</guid>
+      <pubDate>Fri, 03 May 2024 07:03:03 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 无法加载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cj1c2e/spotify_wont_load/</link>
-      <description><![CDATA[      嘿，我安装了 scarlet 并尝试下载 spotify，但是当我这样做时发生了这种情况。我已经删除（而不是卸载）og 应用程序，但它仍然不起作用。有什么办法可以解决这个问题，还是我完成了？    提交人    /u/walewtyna   [链接] [评论] ]]></description>
+      <description><![CDATA[      嘿，所以我安装了猩红并尝试下载 Spotify，但是当我这样做时，就会发生这种情况。我已经删除（未卸载）og 应用程序，但它仍然无法工作。有什么方法可以解决这个问题还是我已经完成了？   由   提交/u/walewtyna  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cj1c2e/spotify_wont_load/</guid>
       <pubDate>Fri, 03 May 2024 05:52:54 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>如何在无需构建或使用 Altstore 的情况下下载 Youtube 调整</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ciyyov/how_to_dowload_youtube_tweak_s_without_having_to/</link>
-      <description><![CDATA[获取 YT ipa，无需在 Github 操作中构建一个或让 Altstore 使用 repo。步骤 1：转到 github 页面并获取 repo 链接 示例链接：https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json 步骤 2：删除“?source=“ 及其后面的所有内容 示例编辑链接：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json 步骤 3：将其粘贴到任何浏览器，你应该看到一个只有文本的空白页。 步骤 4：找到&quot;down​​loadURL&quot;：部分，下面是下载链接，将其粘贴到你的浏览器中，它应该会下载一个名字很奇怪的 ipa。 不要担心名字，那是 YT 调整过的 ipa。现在你可以安装它了    提交人    /u/VipKute   [link] [评论]]]></description>
+      <description><![CDATA[获取 YT ipa，无需在 Github 操作中构建一个或让 Altstore 使用存储库。第 1 步：转到 github 页面并获取存储库链接 Ex 链接：https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/ arichornlover/arichornlover.github.io/main/apps.json 第 2 步：删除“?source=”及其后面的所有内容 编辑后的链接：https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps。 json 第 3 步：将其粘贴到任何浏览器上，您应该看到一个空白页面，上面只有文本。 第 4 步：找到“downloadURL”：部分，下面是下载链接，将其粘贴到您的浏览器上，它应该下载一个具有奇怪名称的 ipa。 不用担心名称，那是 YT 调整的 ipa。现在您可以安装它   由   提交 /u/VipKute   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciyyov/how_to_dowload_youtube_tweak_s_without_having_to/</guid>
       <pubDate>Fri, 03 May 2024 03:33:46 GMT</pubDate>
     </item>
@@ -55,16 +69,16 @@
       <pubDate>Thu, 02 May 2024 23:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>Checkra1n 帖子（我之前发布过）和 ipa 解密的更新。</title>
+      <title>更新 Checkra1n 帖子（我之前发布过）和 ipa 解密。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</link>
-      <description><![CDATA[Checkra1n ISO 更新：事实证明 palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名），还没有尝试编辑 3utools iso。Checkra1n IPA 更新：已完成为 checkra1n 加载程序和 cydia 创建 ipa（获取 ipa）- 尚未打包 deb（没有时间安装 linux）。解密器更新：无。更新说明： 请注意，此越狱只是 palera1n（又名适用于 ios 15 的 checkra1n）的自定义版本 使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 usb 的 Checkra1n .iso ❌（无法读取 .file 扩展名） - Cydia .deb 工作✅‼️（有待重新测试）⁉️ 总体而言：软件中没有太多新内容（虽然真的很忙） 敬请期待，也许有一天会完成。 ⚜️ 不知道为什么有人需要 checkra1n 自定义版本，但是是的 只有当您有兴趣并愿意提供帮助时，才可以使用 Github 并成为测试人员应用程序！:)    提交人    /u/chrissyyx   [链接] [评论]]]></description>
+      <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件并不是很多新东西（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</guid>
       <pubDate>Thu, 02 May 2024 20:38:49 GMT</pubDate>
     </item>
     <item>
       <title>Scarlet 是开源的吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</link>
-      <description><![CDATA[无法找到任何信息来确认我是否可以安全地在我的设备上安装。 编辑：正如我所想，与所有其他第三方签名者一样危险，没有联系表格，没有可验证的来源，封闭源代码...... 而且对于一个充满侵入性广告软件的网站，我终究会通过。&lt; /p&gt;   由   提交/u/mindful999  [链接] [评论]]]></description>
+      <description><![CDATA[无法找到任何信息来确认我是否可以在我的设备上安全安装。 编辑：正如我所想，与所有其他第三方签名者一样危险，没有联系表格，没有可验证的来源，封闭源代码...... 而且对于一个充满侵入性广告软件的网站，我终究会通过。&lt; /p&gt;   由   提交/u/mindful999  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</guid>
       <pubDate>Thu, 02 May 2024 19:13:58 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>适用于 iPad 的非 WebKit 浏览器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</link>
-      <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟。编辑或编辑：显然，从两三天前开始，这已不再正确。苹果将​​被迫在 6 个月内开放第三方应用商店在 iPadOS 中安装的能力。   由   提交 /u/cavcavin   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟。编辑或编辑：显然，截至两三天前，这已不再正确。苹果将​​被迫在 6 个月内开放第三方应用商店在 iPadOS 中安装的能力。   由   提交 /u/cavcavin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</guid>
       <pubDate>Thu, 02 May 2024 15:12:43 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>登录侧面加载的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cihwes/sign_into_sideloaded_apps/</link>
-      <description><![CDATA[有没有办法在不创建新帐户的情况下登录侧载应用程序，例如 eeveespotify instagram++ 或其他应用程序？   由   提交 /u/BigBeatifulNose   [链接] [评论]]]></description>
+      <description><![CDATA[有没有办法在不创建新帐户的情况下登录 eeveespotify instagram++ 等侧载应用程序？    提交人    /u/BigBeatifulNose   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cihwes/sign_into_sideloaded_apps/</guid>
       <pubDate>Thu, 02 May 2024 15:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么免费证书可以在任何设备上使用，而付费证书可以在一台设备上使用（或数量有限）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cihsfz/why_are_free_certs_useable_on_any_device_but_paid/</link>
-      <description><![CDATA[只是想知道   由   提交/u/kapoc622  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cihsfz/why_are_free_certs_useable_on_any_device_but_paid/</guid>
-      <pubDate>Thu, 02 May 2024 14:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘贴 - 无尽的剪贴板 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cift8q/paste_endless_clipboard_ipa/</link>
-      <description><![CDATA[所以我一直在寻找一个好的剪贴板，并找到并找到了这个很酷的应用程序 Paste - Endless Clipboard 。但是你不能使用它没有溢价。于是我就开始寻找破解版，结果全部被删除了。所以也许有人知道或者知道我可以在哪里下载这个应用程序的 ipa。我真的很感激一些帮助   由   提交 /u/Express-Bill-8034   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cift8q/paste_endless_clipboard_ipa/</guid>
-      <pubDate>Thu, 02 May 2024 13:34:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
