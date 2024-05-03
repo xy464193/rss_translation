@@ -3,19 +3,26 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 02 May 2024 21:07:50 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Fri, 03 May 2024 00:38:55 GMT</lastBuildDate>
+    <item>
+      <title>修复 Instagram 通知 (ipa)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ciu74h/fixing_instagram_notifications_ipa/</link>
+      <description><![CDATA[嗨，我目前正在使用带有 Rocket 的 Instagram 的非常好的版本，但通知不起作用，我想知道是否有办法修复它们或将它们添加回 ipa，以便当我安装它时它们会再次工作。 （PS：如果这有帮助的话，我正在使用开发人员证书等来签署我的应用程序）   由   提交 /u/ZealousidealWave5232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ciu74h/fixing_instagram_notifications_ipa/</guid>
+      <pubDate>Thu, 02 May 2024 23:32:23 GMT</pubDate>
+    </item>
     <item>
       <title>Checkra1n 帖子（我之前发布过）和 ipa 解密的更新。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</link>
-      <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件并不是很多新东西（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
+      <description><![CDATA[Checkra1n ISO 更新：事实证明，palen1x 和其他可启动 Windows 越狱程序的 IMG 文件不可编辑（因为我找不到正确的文件扩展名） ），还没有尝试过编辑 3utools iso。 Checkra1n IPA 更新：已完成为 checkra1n 加载程序创建 ipa（获取 ipa）； cydia - 还没有打包 deb（没有时间安装 Linux）。解密器更新：无。更新说明：  请注意，此越狱只是palera1n（也称为 iOS 15 的 checkra1n）的自定义版本 它使用 checkra1n 加载程序。 ### - Checkra1n ipas ✅ - 创建 .deb ❔ - 用于可启动 USB 的 Checkra1n .iso ❌（无法读取 .文件扩展名） - Cydia .deb 工作 ✅️（待重新测试）⁉️ 总体而言：该软件没有太多新功能（真的很忙） 请继续关注，也许有一天会完成。 ⚜️ idk 为什么有人需要 checkra1n 自定义版本，但是是的 Github 并成为仅当您有兴趣并愿意提供帮助时才可以使用测试程序应用程序！ :)   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ciq716/update_on_the_checkra1n_post_i_posted_before_and/</guid>
       <pubDate>Thu, 02 May 2024 20:38:49 GMT</pubDate>
     </item>
     <item>
       <title>Scarlet 是开源的吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</link>
-      <description><![CDATA[无法找到任何信息来确认我是否可以在我的设备上安全安装。   由   提交/u/mindful999  [链接] [评论]]]></description>
+      <description><![CDATA[无法找到任何信息来确认我是否可以安全地在我的设备上安装。 编辑：正如我所想，与所有其他第三方签名者一样危险，没有联系表格，没有可验证的来源，封闭源代码...... 而且对于一个充满侵入性广告软件的网站，我终究会通过。&lt; /p&gt;   由   提交/u/mindful999  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cio2c1/is_scarlet_open_source/</guid>
       <pubDate>Thu, 02 May 2024 19:13:58 GMT</pubDate>
     </item>
@@ -29,12 +36,12 @@
     <item>
       <title>适用于 iPad 的非 WebKit 浏览器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</link>
-      <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟   由   提交 /u/cavcavin   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 由于像 AltStore 这样的东西可以进行侧面加载，有没有任何浏览器可以完全使用 chrome 或 Firefox 扩展可用的？ chromium 不是开源的吗？如果没有人这样做，那么英俊/美丽且善良的开发人员难道不会喜欢为那些使用侧载的人提供帮助吗？我想要延期🥹😭 签名， 😜😘无论你需要我做什么来说服你实现它😋🫣🤭 编辑：请注意这是关于不支持通过开发者帐户进行侧面加载的问题。不幸的是，欧盟侧加载不适用于 iPad，尽管我确实在欧盟。编辑或编辑：显然，从两三天前开始，这已不再正确。苹果将​​被迫在 6 个月内开放第三方应用商店在 iPadOS 中安装的能力。   由   提交 /u/cavcavin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cii565/nonwebkit_browsers_for_ipad/</guid>
       <pubDate>Thu, 02 May 2024 15:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>有人有可与 SideStore 兼容的 Kodi ipa 吗？</title>
+      <title>有人有可以与 SideStore 配合使用的 Kodi ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</link>
       <description><![CDATA[.   由   提交 /u/mariocmg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cii3ut/anyone_have_a_kodi_ipa_that_works_with_sidestore/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>猩红</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1chyqlr/scarlet/</link>
-      <description><![CDATA[谁能帮我获得猩红色或设计，因为我想要 iOS 上的修改应用程序    由   提交 /u/Vivid_Experience9038   [链接] [评论]]]></description>
+      <description><![CDATA[有人能帮我获取 scarlet 或 esign 吗，因为我想在 iOS 上使用经过修改的应用程序     提交人    /u/Vivid_Experience9038   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1chyqlr/scarlet/</guid>
       <pubDate>Wed, 01 May 2024 22:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些带有猩红色的应用程序立即崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1chv3ju/some_apps_with_scarlet_instantly_crash/</link>
-      <description><![CDATA[我正在通过scarlet下载minecraft Earth、minecraft china和minecraft Story模式。故事模式启动得很好并且可以玩，但是地球和中国立即关闭自己，有什么提示吗？   由   提交/u/phoenix0219  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1chv3ju/some_apps_with_scarlet_instantly_crash/</guid>
-      <pubDate>Wed, 01 May 2024 19:36:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
