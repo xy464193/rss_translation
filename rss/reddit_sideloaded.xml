@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 07 May 2024 00:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 03:10:32 GMT</lastBuildDate>
+    <item>
+      <title>uYou+ YouTube 短裤黑色？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cm1fws/uyou_youtube_shorts_black/</link>
+      <description><![CDATA[那么最近，还有谁遇到过 YouTube 短片在向下滚动视频时变黑的情况？    提交人    /u/Icy-Summer-3573   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cm1fws/uyou_youtube_shorts_black/</guid>
+      <pubDate>Tue, 07 May 2024 02:44:06 GMT</pubDate>
+    </item>
     <item>
       <title>猩红色不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clxvte/scarlet_not_working/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 06 May 2024 23:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>我可以发布侧载表情包吗？</title>
+      <title>我可以发布侧载模因吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clx102/can_i_post_sideloading_memes/</link>
       <description><![CDATA[我知道这是一个愚蠢的问题   由   提交/u/Bm42015   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clx102/can_i_post_sideloading_memes/</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>有没有可行的 AltLinux 分支/替代方案？如何从linux侧载到iOS？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</link>
-      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个 fork，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
+      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个分支，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</guid>
       <pubDate>Mon, 06 May 2024 17:02:47 GMT</pubDate>
     </item>
     <item>
-      <title>p12 证书的密码？</title>
+      <title>p12证书的密码？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clnv35/password_for_p12_cert/</link>
       <description><![CDATA[刚刚从 Signulous/UDID 注册处获得了我的证书。尝试导入 Scarlet 时，它需要密码。我的 Apple ID 密码不起作用，我所知道的其他内容也不起作用。有人知道在哪里可以找到这个吗？ 另外，当我有自己的证书时，除了 Appdb 和 Scarlet 之外还有什么其他库很好？ 编辑：已解决。默认密码为 123456。    由   提交/u/sheagles  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clnv35/password_for_p12_cert/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>应用程序“不再可用”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</link>
-      <description><![CDATA[为什么我使用开发者帐户使用电子签名签名和安装的所有应用程序每天都会超时，并显示“不再可用”消息？一旦我安装了一个应用程序，所有应用程序都会突然再次可用并打开。   由   提交 /u/kadeschs   [链接] [评论]]]></description>
+      <description><![CDATA[为什么我使用电子签名通过开发者帐户签名并安装的所有应用每天都会超时并显示“不再可用”消息？我安装应用后，所有应用突然又可用并打开了。    提交人    /u/kadeschs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</guid>
       <pubDate>Mon, 06 May 2024 02:18:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[iPhone 有类似的东西吗？有 IPA 吗？   由   提交/u/WhyLifeIs4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cl2kdm/7zip_style_app_for_ios/</guid>
       <pubDate>Sun, 05 May 2024 21:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>eevee Spotify 真的不能下载歌曲吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ckzgwj/does_eevee_spotify_really_not_download_songs/</link>
-      <description><![CDATA[是否有其他方法或其他方式可以从 Spotify 下载歌曲以便离线收听？   由   提交/u/liamshaw2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ckzgwj/does_eevee_spotify_really_not_download_songs/</guid>
-      <pubDate>Sun, 05 May 2024 19:39:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
