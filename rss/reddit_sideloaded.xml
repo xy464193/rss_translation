@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 07 May 2024 12:14:22 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Tue, 07 May 2024 15:08:23 GMT</lastBuildDate>
+    <item>
+      <title>Instagram Rocket 设置不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cmdqps/instagram_rocket_settings_not_working/</link>
+      <description><![CDATA[您好，我使用 flekstore 下载了 instagram Rocket 版本 320.0，它作为免费版本运行良好。由于我想使用专业版，我在 Reddit 上发现了一个帖子，其中解释说，如果您兑换了特定代码，则无需付费即可使用它。我这样做了并且成功了。事实上，我现在拥有 Instagram Rocket 的专业版。现在唯一的问题是我无法访问它的设置。在它们刚刚出现在屏幕底部的恼人弹出窗口之前，要删除它，您必须获得专业版本，但我找不到它。有人有解决办法吗？因为 Instagram Rocket Pro 的所有功能都可以使用，所以它必须隐藏在某个地方...... 顺便说一句，我的手机没有越狱......  &amp;# 32；由   提交 /u/vittosturi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cmdqps/instagram_rocket_settings_not_working/</guid>
+      <pubDate>Tue, 07 May 2024 14:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cmcemy/error/</link>
+      <description><![CDATA[所以我刚刚打开我的 iPad，发现我的侧载应用程序都无法正常工作，它们都给我错误“无法验证应用程序” &#39;：需要互联网连接来验证&#39;证书名称&#39;”我不知道该怎么办我尝试重新安装所有内容，但无济于事，我的证书在 eSign 中显示良好，几天后进行测试，我需要修复此问题  &amp; #32；由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cmcemy/error/</guid>
+      <pubDate>Tue, 07 May 2024 13:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序数据库证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cmbya4/app_db_certificate/</link>
+      <description><![CDATA[您好， 我想知道 appdb 证书是否被吊销？我无法验证应用程序错误，以前从未遇到过。  谢谢   由   提交/u/mailo3222  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cmbya4/app_db_certificate/</guid>
+      <pubDate>Tue, 07 May 2024 13:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色的最佳替代品？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cmbn4d/best_alternative_to_scarlet/</link>
+      <description><![CDATA[我是新人，不太知道自己在做什么   由   提交 /u/Huge-Anything1592    reddit.com/r/sideloaded/comments/1cmbn4d/best_alternative_to_scarlet/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cmbn4d/best_alternative_to_scarlet/</guid>
+      <pubDate>Tue, 07 May 2024 13:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>每当我擦洗搜索栏时，如何在 uYouPlus 中启用此功能</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cm80ae/how_do_i_enable_this_feature_in_uyouplus_whenever/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>有没有可行的 AltLinux 分支/替代方案？如何从linux侧载到iOS？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</link>
-      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个分支，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
+      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个 fork，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</guid>
       <pubDate>Mon, 06 May 2024 17:02:47 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 06 May 2024 16:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>ScriptWare iOS（来自 Scarlet）要求我授予访问本地网络上的设备的权限。这是怎么回事？</title>
+      <title>ScriptWare iOS（来自 Scarlet）要求我允许访问本地网络上的设备..这是怎么回事？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clmbdy/scriptware_ios_from_scarlet_asks_me_for/</link>
-      <description><![CDATA[我知道这不是发布此内容的最佳 Reddit 子版块，但我是 Reddit 新手，没有足够的业力来发布到其他 Reddit 子版块。所以，你知道，我最近在 iPhone 上侧载下载了 null 的 brawl，当我在 Scarlet 应用程序上发现了一个 roblox 漏洞利用脚本软件时，我感到很震惊，我按下下载键才看到 roblox漏洞利用要求我获得本地网络上设备的许可，我拒绝了，因为当我尝试使用它时，应用程序完全崩溃了..所以无论如何，这都是安全的，病毒的迹象，以更随意的方式请问有人可以解释为什么它需要访问权限以及它是否安全吗？   由   提交/u/luca_your_Boii  [链接] [评论]]]></description>
+      <description><![CDATA[我知道这不是发布此内容的最佳 subreddit，但我是 reddit 新手，没有足够的 karma 来发布到其他 subreddit。所以，你知道，我最近开始在 iPhone 上侧载，例如下载 null&#39;s brawl，当我发现 Scarlet 应用程序上有一个 roblox 漏洞时，我感到很震惊，scriptware 非常热心，我按下下载，却发现 roblox 漏洞要求我授予本地网络上设备的权限，我拒绝了，但当我尝试使用它时，应用程序完全崩溃了。所以这是否安全，是否有病毒的迹象，以更随意的方式，有人可以解释一下为什么需要访问权限以及它是否安全吗？    提交人    /u/luca_your_Boii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clmbdy/scriptware_ios_from_scarlet_asks_me_for/</guid>
       <pubDate>Mon, 06 May 2024 15:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新版本的 uYouPlus 在播放任何视频时都会崩溃大约两周。 （是的，我尝试禁用所有附加组件，但没有解决问题）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cllijb/newest_version_of_uyouplus_crashes_on_play_of_any/</link>
-      <description><![CDATA[我已经尝试了 GitHub 上建议的所有内容，安装了多个版本的 IPA，都是我自己构建的（曾经有效）以及其他人提供的几个版本在 GitHub 线程上。它们都不起作用。我使用的是 iOS 16.1 的 iPhone XS。您知道其他可能的原因/解决方案吗？   由   提交 /u/Za5kr0ni3c   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cllijb/newest_version_of_uyouplus_crashes_on_play_of_any/</guid>
-      <pubDate>Mon, 06 May 2024 15:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 汽车播放</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cli7tv/spotify_car_play/</link>
-      <description><![CDATA[有没有可以使用 carplay 的 Spotify 版本？谢谢。   由   提交 /u/Impossible-Boat7270    reddit.com/r/sideloaded/comments/1cli7tv/spotify_car_play/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cli7tv/spotify_car_play/</guid>
-      <pubDate>Mon, 06 May 2024 12:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以告诉我我是否应该得到maplesigner</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cl8mmj/can_someone_tell_me_if_i_should_get_maplesigner/</link>
-      <description><![CDATA[我正在决定是否应该购买   由   提交 /u/DueWolf9584   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cl8mmj/can_someone_tell_me_if_i_should_get_maplesigner/</guid>
-      <pubDate>Mon, 06 May 2024 02:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序“不再可用”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</link>
-      <description><![CDATA[为什么我使用开发者帐户使用电子签名签名和安装的所有应用程序每天都会超时，并显示“不再可用”消息？一旦我安装了一个应用程序，所有应用程序都会突然再次可用并打开。   由   提交 /u/kadeschs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</guid>
-      <pubDate>Mon, 06 May 2024 02:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
