@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 07 May 2024 09:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 12:14:22 GMT</lastBuildDate>
+    <item>
+      <title>每当我擦洗搜索栏时，如何在 uYouPlus 中启用此功能</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cm80ae/how_do_i_enable_this_feature_in_uyouplus_whenever/</link>
+      <description><![CDATA[该功能的照片 &lt; /div&gt;  由   提交 /u/PopOutKev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cm80ae/how_do_i_enable_this_feature_in_uyouplus_whenever/</guid>
+      <pubDate>Tue, 07 May 2024 09:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>uYou+ YouTube 短裤黑色？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cm1fws/uyou_youtube_shorts_black/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>有没有可行的 AltLinux 分支/替代方案？如何从linux侧载到iOS？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</link>
-      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个 fork，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
+      <description><![CDATA[标题。 AltLinux 不起作用，我尝试了 4 个分支，但总是收到有关 strings / json 的错误   由   提交/u/L3App  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1clo6bb/is_there_any_altlinux_fork_alternative_that_works/</guid>
       <pubDate>Mon, 06 May 2024 17:02:47 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 06 May 2024 02:46:36 GMT</pubDate>
     </item>
     <item>
-      <title>“不再可用”的应用程序</title>
+      <title>应用程序“不再可用”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</link>
       <description><![CDATA[为什么我使用开发者帐户使用电子签名签名和安装的所有应用程序每天都会超时，并显示“不再可用”消息？一旦我安装了一个应用程序，所有应用程序都会突然再次可用并打开。   由   提交 /u/kadeschs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cl82nw/apps_no_longer_available/</guid>
       <pubDate>Mon, 06 May 2024 02:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 的 7-zip 风格应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cl2kdm/7zip_style_app_for_ios/</link>
-      <description><![CDATA[iPhone 有类似的东西吗？有 IPA 吗？   由   提交/u/WhyLifeIs4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cl2kdm/7zip_style_app_for_ios/</guid>
-      <pubDate>Sun, 05 May 2024 21:53:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
