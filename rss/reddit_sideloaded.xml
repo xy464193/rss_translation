@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 08 May 2024 06:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:09:03 GMT</lastBuildDate>
+    <item>
+      <title>appdb - 独立的替代应用程序商店 - 推出官方应用程序发布</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</link>
+      <description><![CDATA[今天我们开始发布者区域的测试版，欢迎您成为第一个在 Appdb 上发布您的应用的人！ 我们准备了许多改进和功能供您检查：  发布者 ID 服务。它提供开发人员的验证，并在您的客户、您和 appdb 之间增加额外的信任级别。每个官方认可的开发人员都需要通过身份检查，这是强制性的。 发布者区域服务。它允许您在 appdb 上正式测试和发布应用。通过此服务，您可以创建应用程序标识符、管理应用程序版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以查看目前可用的appdb服务或如何识别您的客户，或者阅读我们简单的应用设计指南。 Appdb 服务 SDK，它允许您仅用几行代码在应用中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内部 appdb 服务的实现情况，并利用此经验构建您自己的服务。 应用程序构建工具，它允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此在未来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备部署最受信任的软件签名方法。 服务器端推送通知发送库和应用程序证明验证库，您可以在服务器基础架构中使用它来向客户发送推送或验证应用程序完整性或应用程序发送到服务器的数据。  欢迎您加入此测试版并在Appdb上发布应用程序！ 关注此开发者旅程来发布您的应用。 PS：Appdb Store 目前正在推出免费应用，但我们对您在应用内使用的付款方式没有任何限制（也不收取佣金）！ 此致敬意，appdb 团队    提交人    /u/appdb_official   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</guid>
+      <pubDate>Wed, 08 May 2024 07:03:41 GMT</pubDate>
+    </item>
     <item>
       <title>如何验证应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmuyud/how_to_verify_app/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>有人有 myftinesspal 溢价吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmtusp/anyone_have_myftinesspal_premium/</link>
-      <description><![CDATA[我是侧载新手，我想侧载一个高级 myftinesspal 应用程序。请帮我找一个！谢谢！    提交人    /u/Obvious_Diamond5356   [链接] [评论]]]></description>
+      <description><![CDATA[我是侧载新手，我想侧载一个高级 myftinesspal 应用程序。请帮我找一个！谢谢！   由   提交/u/Obvious_Diamond5356   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmtusp/anyone_have_myftinesspal_premium/</guid>
       <pubDate>Wed, 08 May 2024 02:35:54 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>由于无法验证完整性，无法安装应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmo6mv/app_could_not_be_installed_because_integrity/</link>
-      <description><![CDATA[大家好，我知道这个问题可能已经被问了很多次，但您似乎找不到答案。基本上我几周前购买了开发者证书，它在我的 iPhone 上完美运行。我能够从 flekstore 和 esign 安装 ipas，没有出现任何问题。不幸的是，当我尝试在其他设备（例如我的 ipad）上执行相同的操作时，它总是给我同样的错误，这就是标题中所述的错误：无法安装应用程序，因为无法验证完整性。我不明白的是我如何尝试在我的 iPhone 上使用完全相同的 ipas 和侧面加载方法并且它工作完美，而在 ipad 上它显示此错误。我还在 ipad 上启用了开发人员模式，该模式以前没有显示，但还没有找到任何其他修复。有人知道如何解决这个问题吗？   由   提交 /u/vittosturi   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我知道这个问题可能已经被问了很多次，但您似乎找不到答案。基本上我几周前购买了开发者证书，它在我的 iPhone 上完美运行。我能够从 flekstore 和 esign 安装 ipas，没有出现任何问题。不幸的是，当我尝试在其他设备（例如我的 ipad）上执行相同的操作时，它总是给我同样的错误，这就是标题中所述的错误：无法安装应用程序，因为无法验证完整性。我不明白的是我如何尝试在我的 iPhone 上使用完全相同的 ipas 和侧面加载方法并且它工作完美，而在 ipad 上它显示此错误。我还在 ipad 上启用了开发人员模式，该模式以前没有显示，但尚未找到任何其他修复。有人知道如何解决这个问题吗？   由   提交 /u/vittosturi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmo6mv/app_could_not_be_installed_because_integrity/</guid>
       <pubDate>Tue, 07 May 2024 22:06:55 GMT</pubDate>
     </item>
     <item>
       <title>Trollrecorder IPA 版本</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmmu8z/ipa_version_of_trollrecorder/</link>
-      <description><![CDATA[是否有 IPA 版本或与 Trollrecorder 类似的版本？     提交者    /u/Imaginary_Gas7   [link] [comments]]]></description>
+      <description><![CDATA[是否有 IPA 版本或类似于 Trollrecorder 的版本？    由   提交/u/Imaginary_Gas7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmmu8z/ipa_version_of_trollrecorder/</guid>
       <pubDate>Tue, 07 May 2024 21:11:36 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 07 May 2024 20:07:15 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 应用现在有问题吗？</title>
+      <title>YouTube 应用现在很糟糕吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmkrn8/youtube_apps_are_screwy_now/</link>
       <description><![CDATA[目前最好的侧载 YouTube ipa 是什么，我现在拥有的那些 我遇到了一些奇怪的事情，比如除非我向下滚动，否则主页会显示为空白有点。 其他事情，例如我无法再退出视频，我实际上必须强制退出才能选择新视频。 他们以前工作得很好，但是不再是了，怎么回事？   由   提交/u/Lanceuppercut47  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmkrn8/youtube_apps_are_screwy_now/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>嘿，我怎样才能越狱 CharacterAi 使其能够说话 NSFW？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmioxl/hey_how_can_i_jailbreak_characterai_into_talking/</link>
-      <description><![CDATA[我不知道这是否是正确的子版块    提交人    /u/thrwly   [链接] [评论]]]></description>
+      <description><![CDATA[不知道这是不是右子   由   提交/u/thrwly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmioxl/hey_how_can_i_jailbreak_characterai_into_talking/</guid>
       <pubDate>Tue, 07 May 2024 18:20:25 GMT</pubDate>
     </item>
     <item>
       <title>是否可以保存下载调整后的应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmhm0v/is_it_save_to_download_tweaked_apps/</link>
-      <description><![CDATA[是否可以从 https://github.com/swaggyP36000/TrollStore-IPAs ?  我不关心恶意软件，而是关心合法的东西。我的一个朋友目前正面临问题，因为他的 IP 在海盗湾下载东西时被抓到。这些 github 页面是否具有相同的风险，还是我只是偏执？   由   提交/u/Charlie_2504  [链接] [评论]]]></description>
+      <description><![CDATA[从 github 页面（如 https://github.com/swaggyP36000/TrollStore-IPAs）下载经过调整的应用程序（启用了高级功能等）是否安全？  我并不担心恶意软件，而是担心法律问题。我的一个朋友目前遇到了麻烦，因为他的 IP 在海盗湾下载东西时被抓到。那些 github 页面是否具有相同的风险，还是我只是偏执？    提交人    /u/Charlie_2504   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmhm0v/is_it_save_to_download_tweaked_apps/</guid>
       <pubDate>Tue, 07 May 2024 17:34:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我几乎从不使用 WiFi，因为我很多时候都无法使用 WiFi，但从一切来看，小店似乎需要 WiFi，如果所以为什么要谢谢！   由   提交/u/41nn_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmg8pv/is_there_any_way_to_use_sidestore_on_data/</guid>
       <pubDate>Tue, 07 May 2024 16:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道不使用电脑上传IPA文件的方法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmfp78/anyone_know_a_way_to_upload_ipa_files_without/</link>
-      <description><![CDATA[我已经使用猩红有一段时间了，但就在昨天它被撤销了。我尝试过其他替代方案，但它们不起作用，即 appdb。我只是想知道是否有其他方法可以上传 ipas 以将它们添加到您的手机   由   提交/u/Traditional_Impress8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmfp78/anyone_know_a_way_to_upload_ipa_files_without/</guid>
-      <pubDate>Tue, 07 May 2024 16:13:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
