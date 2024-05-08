@@ -3,10 +3,38 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 08 May 2024 15:08:20 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Wed, 08 May 2024 18:11:39 GMT</lastBuildDate>
     <item>
-      <title>国际音标请求</title>
+      <title>真的很简单，就是不知道要做什么。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</link>
+      <description><![CDATA[我想要的只是基本的 Snapchat，已被禁止使用该应用程序，并且 Snapchat 支持毫无用处。由于我一无所知，有人可以给我发送教程或其他帮助吗？   由   提交 /u/Z3n21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</guid>
+      <pubDate>Wed, 08 May 2024 18:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪泽 IPA ？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cna4yo/deezer_ipa/</link>
+      <description><![CDATA[有人有最近的 ipa deezer 吗？    由   提交 /u/ReplacementJolly7939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cna4yo/deezer_ipa/</guid>
+      <pubDate>Wed, 08 May 2024 17:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何停止 Android 应用程序的侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cn8gpz/how_do_stop_sideloading_of_android_apps/</link>
+      <description><![CDATA[       由   提交 /u/gadgetssain   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cn8gpz/how_do_stop_sideloading_of_android_apps/</guid>
+      <pubDate>Wed, 08 May 2024 16:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notability 修改的 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cn8evk/notability_modded_ipa/</link>
+      <description><![CDATA[有人拥有或知道任何可用于知名度的 IPA 吗？    ;由   提交/u/UR-Hiro  /u/UR-Hiro  reddit.com/r/sideloaded/comments/1cn8evk/notability_modded_ipa/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cn8evk/notability_modded_ipa/</guid>
+      <pubDate>Wed, 08 May 2024 16:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPA 请求</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</link>
       <description><![CDATA[嗨，我一直在寻找《逆转裁判双重命运》和《逆转裁判正义之魂》IPA，请记住，他们只给你第一个案件，所以我希望它为我提供这两款游戏的全部 6 个案例   由   提交/u/Mahmoud29510   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>appdb——一家独立的另类应用商店——推出官方应用发布</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</link>
-      <description><![CDATA[今天我们开始发布者区域的测试版，欢迎您成为第一个在 Appdb 上发布您的应用的人！ 我们准备了许多改进和功能供您检查：  发布者 ID 服务。它提供开发人员的验证，并在您的客户、您和 appdb 之间增加额外的信任级别。每个官方认可的开发人员都需要通过身份检查，这是强制性的。 发布者区域服务。它允许您在 appdb 上正式测试和发布应用。通过此服务，您可以创建应用程序标识符、管理应用程序版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以查看目前可用的appdb服务或如何识别您的客户，或者阅读我们简单的应用设计指南。 Appdb 服务 SDK，它允许您仅用几行代码在应用中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内部 appdb 服务的实现情况，并利用此经验构建您自己的服务。 应用程序构建工具，它允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此在未来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备部署最受信任的软件签名方法。 服务器端推送通知发送库和应用程序证明验证库，您可以在服务器基础架构中使用它来向客户发送推送或验证应用程序完整性或应用程序发送到服务器的数据。  欢迎您加入此测试版并在Appdb上发布应用程序！ 关注此开发者旅程来发布您的应用。 PS：Appdb Store 目前正在推出免费应用，但我们对您在应用内使用的付款方式没有任何限制（也不收取佣金）！ 此致敬意，appdb 团队    提交人    /u/appdb_official   [link] [评论]]]></description>
+      <description><![CDATA[今天我们开始发布发布者专区的测试版，欢迎您成为第一个在 Appdb 上发布应用的人！ 我们准备了很多改进和功能供您检查：  发布商 ID 服务。它提供了对开发人员的验证，并增加了您的客户、您和 appdb 之间的额外信任级别。每个官方认可的开发者都需要通过身份检查，这是强制性的。 发布商专区服务。它允许您正式在 appdb 上测试和发布应用程序。通过此服务，您可以创建应用标识符、管理应用版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以检查目前可用的appdb服务或如何识别您的客户，或阅读我们简单的应用设计指南。 &lt; strong&gt;Appdb 服务 SDK 使您只需几行代码即可在应用程序中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内 appdb 服务的实现，并利用此经验来构建您自己的服务。 应用程序构建工具，允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此将来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备好部署最值得信赖的应用程序软件签名的方法。 服务器端推送通知发送库和应用证明验证库 您可以在服务器基础设施中使用它，以便向您的客户发送推送或验证您的应用程序发送到服务器的应用程序完整性或数据。  我们欢迎加入此测试版并在 Appdb 上发布应用程序！ 按照此开发者之旅进行发布您的应用程序。 PS：Appdb Store 目前正在推出免费应用程序，但我们对您在自己的应用程序中使用的付款方式没有任何限制（并且不收取佣金）应用！ 谨致问候，appdb 团队   由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</guid>
       <pubDate>Wed, 08 May 2024 07:03:41 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[有人成功获得了 ios 版《死亡搁浅》ipa ？？？有人在 iphone 14 pro 上试过吗？？？   由   提交/u/CapSoggy9648   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cms09z/death_stranding_ipa/</guid>
       <pubDate>Wed, 08 May 2024 01:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于无法验证完整性，无法安装应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmo6mv/app_could_not_be_installed_because_integrity/</link>
-      <description><![CDATA[大家好，我知道这个问题可能已经被问了很多次，但您似乎找不到答案。基本上我几周前购买了开发者证书，它在我的 iPhone 上完美运行。我能够从 flekstore 和 esign 安装 ipas，没有出现任何问题。不幸的是，当我尝试在其他设备（例如我的 ipad）上执行相同的操作时，它总是给我同样的错误，这就是标题中所述的错误：无法安装应用程序，因为无法验证完整性。我不明白的是我如何尝试在我的 iPhone 上使用完全相同的 ipas 和侧面加载方法并且它工作完美，而在 ipad 上它显示此错误。我还在 ipad 上启用了开发人员模式，该模式以前没有显示，但还没有找到任何其他修复。有人知道如何解决这个问题吗？   由   提交 /u/vittosturi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmo6mv/app_could_not_be_installed_because_integrity/</guid>
-      <pubDate>Tue, 07 May 2024 22:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trollrecorder IPA 版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmmu8z/ipa_version_of_trollrecorder/</link>
-      <description><![CDATA[是否有 IPA 版本或与 Trollrecorder 类似的版本？     提交者    /u/Imaginary_Gas7   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmmu8z/ipa_version_of_trollrecorder/</guid>
-      <pubDate>Tue, 07 May 2024 21:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装不会取消暂停</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cml9ks/installs_wont_unpause/</link>
-      <description><![CDATA[正在下载最新版本的minecraft，最终暂停它以优先考虑其他事情，现在它不允许我取消暂停minecraft dl。我尝试重新安装 mc 和 appdb 但没有任何效果，有什么解决方案吗？   由   提交/u/HD180  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cml9ks/installs_wont_unpause/</guid>
-      <pubDate>Tue, 07 May 2024 20:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 应用现在很糟糕吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmkrn8/youtube_apps_are_screwy_now/</link>
-      <description><![CDATA[目前最好的侧载 YouTube ipa 是什么，我现在拥有的那些 我遇到了一些奇怪的事情，比如除非我向下滚动，否则主页会显示为空白有点。 其他事情，例如我无法再退出视频，我实际上必须强制退出才能选择新视频。 他们以前工作得很好，但是不再是了，怎么回事？   由   提交/u/Lanceuppercut47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmkrn8/youtube_apps_are_screwy_now/</guid>
-      <pubDate>Tue, 07 May 2024 19:47:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
