@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 09 May 2024 06:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:09:40 GMT</lastBuildDate>
+    <item>
+      <title>证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cns769/certs/</link>
+      <description><![CDATA[所以我最近发表了一篇关于我遇到的错误的帖子，并发现我的证书已被列入黑名单。有什么办法可以逆转这个问题（我在 17.4.1 上）？我对我的ipad进行了工厂重置，并重新安装了所有内容，并正常工作了半天，之后它开始给我同样的错误。如果没有可能的方法来逆转它，除了 Sunshine 发行版之外，还有人拥有工作证书吗？   由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cns769/certs/</guid>
+      <pubDate>Thu, 09 May 2024 08:26:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有DNScloak如何获得防撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</link>
+      <description><![CDATA[我尝试从应用程序商店获取它，但它在我的国家/地区不可用，如果没有此应用程序，有什么方法可以做到这一点？   由   提交/u/Complex-Air7362   /u/complex-air7362 reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</guid>
+      <pubDate>Thu, 09 May 2024 07:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>python 到路径</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</link>
@@ -41,7 +55,7 @@
       <pubDate>Wed, 08 May 2024 20:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>真的很简单，只是不知道该做什么。</title>
+      <title>真的很简单，就是不知道要做什么。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</link>
       <description><![CDATA[我想要的只是基本的 Snapchat，已被禁止使用该应用程序，并且 Snapchat 支持毫无用处。由于我一无所知，有人可以给我发送教程或其他帮助吗？   由   提交 /u/Z3n21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</guid>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 12:19:35 GMT</pubDate>
     </item>
     <item>
-      <title>torrent下载器推荐</title>
+      <title>torrent 下载器推荐</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn12wt/torrent_downloader_recommendation/</link>
       <description><![CDATA[除了 iTorrent 之外，还有哪些 Torrent 客户端值得信赖？请推荐我，我是侧载新手，呵呵，谢谢！   由   提交/u/Obvious_Diamond5356   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn12wt/torrent_downloader_recommendation/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>如何让我的设备进入开发者模式</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn08zp/how_do_i_get_my_device_in_developer_mode/</link>
-      <description><![CDATA[如果这对 iPhone 13 Pro iOS 版本 17.4.1 有帮助   由   提交 /u/ZORAMODDER   [链接] [评论]]]></description>
+      <description><![CDATA[如果这有助于 IPhone 13 Pro iOS 版本 17.4.1    由   提交  /u/ZORAMODDER   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn08zp/how_do_i_get_my_device_in_developer_mode/</guid>
       <pubDate>Wed, 08 May 2024 09:19:14 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[今天我们开始发布发布者专区的测试版，欢迎您成为第一个在 Appdb 上发布应用的人！ 我们准备了很多改进和功能供您检查：  发布商 ID 服务。它提供了对开发人员的验证，并增加了您的客户、您和 appdb 之间的额外信任级别。每个官方认可的开发者都需要通过身份检查，这是强制性的。 发布商专区服务。它允许您正式在 appdb 上测试和发布应用程序。通过此服务，您可以创建应用标识符、管理应用版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以检查目前可用的appdb服务或如何识别您的客户，或阅读我们简单的应用设计指南。 &lt; strong&gt;Appdb 服务 SDK 使您只需几行代码即可在应用程序中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内 appdb 服务的实现，并利用此经验来构建您自己的服务。 应用程序构建工具，允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此将来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备好部署最值得信赖的应用程序软件签名的方法。 服务器端推送通知发送库和应用证明验证库 您可以在服务器基础设施中使用它，以便向您的客户发送推送或验证您的应用程序发送到服务器的应用程序完整性或数据。  我们欢迎加入此测试版并在 Appdb 上发布应用程序！ 按照此开发者之旅进行发布您的应用程序。 PS：Appdb Store 目前正在推出免费应用程序，但我们对您在自己的应用程序中使用的付款方式没有任何限制（并且不收取佣金）应用！ 谨致问候，appdb 团队   由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</guid>
       <pubDate>Wed, 08 May 2024 07:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何验证应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmuyud/how_to_verify_app/</link>
-      <description><![CDATA[我处于开发者模式，我信任开发者，但每当我在 VPN &amp; 中单击“验证应用程序”时，设备管理它缓冲并且没有任何反应。有人可以帮我吗？   由   提交/u/Aware-Ad7171  /u/Aware-Ad7171 reddit.com/r/sideloaded/comments/1cmuyud/how_to_verify_app/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmuyud/how_to_verify_app/</guid>
-      <pubDate>Wed, 08 May 2024 03:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat绕过ipa禁令？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cmsb01/snapchat_bypass_ban_ipa/</link>
-      <description><![CDATA[Snapchat 绕过禁止 ipa   由   提交/u/Relevant_Toe_1829   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cmsb01/snapchat_bypass_ban_ipa/</guid>
-      <pubDate>Wed, 08 May 2024 01:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
