@@ -4,9 +4,23 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 09 May 2024 00:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 03:09:12 GMT</lastBuildDate>
     <item>
-      <title>如何更改 IPA 徽标和名称？</title>
+      <title>python 到路径</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</link>
+      <description><![CDATA[尝试在 dolphin ios 上使用 Windows 启用 jit，但我不知道如何将 python 放入路径   由   提交/u/efr4in_mvnoz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</guid>
+      <pubDate>Thu, 09 May 2024 01:33:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>每次我尝试从 Scarlet 下载应用程序时，它都会崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</link>
+      <description><![CDATA[idk 我对侧载的东西有点陌生，我大约 1 分钟前刚刚下载了猩红，每当我尝试下载任何东西时它就会崩溃，你们知道为什么吗？ ?   由   提交 /u/phontsc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</guid>
+      <pubDate>Thu, 09 May 2024 01:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何更改 IPA 标志和名称？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnhubg/how_do_i_change_ipa_logo_and_name/</link>
       <description><![CDATA[您好，我购买了证书并使用 IPASign（在线签名器）旁加载我的 IPA。不幸的是，当我尝试安装某些 IPA（例如 Instagram Rocket）时，Instagram 的名称和徽标与原始版本不同，很明显它已被破解。有什么办法可以更改IPA的标志和名称吗？如果需要的话，我确实有一台计算机......   由   提交 /u/vittosturi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnhubg/how_do_i_change_ipa_logo_and_name/</guid>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 08 May 2024 20:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>真的很简单，只是不知道该做什么。</title>
+      <title>真的很简单，就是不知道要做什么。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</link>
       <description><![CDATA[我想要的只是基本的 Snapchat，已被禁止使用该应用程序，并且 Snapchat 支持毫无用处。由于我一无所知，有人可以给我发送教程或其他帮助吗？   由   提交 /u/Z3n21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>torrent下载器推荐</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn12wt/torrent_downloader_recommendation/</link>
-      <description><![CDATA[除了 iTorrent 之外，还有哪些 torrent 客户端值得信赖？请推荐我，我是侧载新手，呵呵，谢谢！   由   提交/u/Obvious_Diamond5356   [链接] [评论]]]></description>
+      <description><![CDATA[除了 iTorrent 之外，还有哪些 Torrent 客户端值得信赖？请推荐我，我是侧载新手，呵呵，谢谢！   由   提交/u/Obvious_Diamond5356   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn12wt/torrent_downloader_recommendation/</guid>
       <pubDate>Wed, 08 May 2024 10:17:50 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>appdb - 独立的替代应用程序商店 - 推出官方应用程序发布</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</link>
-      <description><![CDATA[今天我们开始发布发布者专区的测试版，欢迎您成为第一个在 Appdb 上发布应用的人！ 我们准备了很多改进和功能供您检查：  发布商 ID 服务。它提供了对开发人员的验证，并增加了您的客户、您和 appdb 之间的额外信任级别。每个官方认可的开发者都需要通过身份检查，这是强制性的。 发布商专区服务。它允许您正式在 appdb 上测试和发布应用程序。通过此服务，您可以创建应用标识符、管理应用版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以检查目前可用的appdb服务或如何识别您的客户，或阅读我们简单的应用设计指南。 &lt; strong&gt;Appdb 服务 SDK 使您只需几行代码即可在应用程序中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内 appdb 服务的实现，并利用此经验来构建您自己的服务。 应用程序构建工具，允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此将来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备好部署最值得信赖的应用程序软件签名的方法。 服务器端推送通知发送库和应用证明验证库 您可以在服务器基础设施中使用它，以便向您的客户发送推送或验证您的应用程序发送到服务器的应用程序完整性或数据。  我们欢迎加入此测试版并在 Appdb 上发布应用程序！ 按照此开发者之旅进行发布您的应用。 PS：Appdb Store 目前正在推出免费应用，但我们对您在自己的应用程序中使用的付款方式没有任何限制（也不收取佣金）。应用！ 谨致问候，appdb 团队   由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <description><![CDATA[今天我们开始发布发布者专区的测试版，欢迎您成为第一个在 Appdb 上发布应用的人！ 我们准备了很多改进和功能供您检查：  发布商 ID 服务。它提供了对开发人员的验证，并增加了您的客户、您和 appdb 之间的额外信任级别。每个官方认可的开发者都需要通过身份检查，这是强制性的。 发布商专区服务。它允许您正式在 appdb 上测试和发布应用程序。通过此服务，您可以创建应用标识符、管理应用版本、IPA 包、创建和访问使用我们的 API 所需的密钥和令牌。 文档网站。它收集了 appdb 服务和您的应用程序的各种文档和指南。例如，您可以检查目前可用的appdb服务或如何识别您的客户，或阅读我们简单的应用设计指南。 &lt; strong&gt;Appdb 服务 SDK 使您只需几行代码即可在应用程序中添加 appdb 服务和功能。 示例应用源代码和应用程序本身。它将允许您检查应用程序内 appdb 服务的实现，并利用此经验来构建您自己的服务。 应用程序构建工具，允许您直接从命令行构建与 appdb 兼容的 IPA 包。这些工具还包括对硬件安全模块和硬件密钥的初步支持，因此将来，当Apple Inc允许免费安装具有真实开发者签名的应用程序时，您将准备好部署最值得信赖的应用程序软件签名的方法。 服务器端推送通知发送库和应用证明验证库 您可以在服务器基础设施中使用它，以便向您的客户发送推送或验证您的应用程序发送到服务器的应用程序完整性或数据。  我们欢迎加入此测试版并在 Appdb 上发布应用程序！ 按照此开发者之旅进行发布您的应用程序。 PS：Appdb Store 目前正在推出免费应用程序，但我们对您在自己的应用程序中使用的付款方式没有任何限制（并且不收取佣金）应用！ 谨致问候，appdb 团队   由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmydks/appdb_an_independent_alternative_app_store/</guid>
       <pubDate>Wed, 08 May 2024 07:03:41 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Snapchat 绕过禁止 ipa   由   提交/u/Relevant_Toe_1829   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cmsb01/snapchat_bypass_ban_ipa/</guid>
       <pubDate>Wed, 08 May 2024 01:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBA2k24 IPA 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cms0bb/nba2k24_ipa_file/</link>
-      <description><![CDATA[标题   由   提交 /u/_Sp3ct4cul4r_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cms0bb/nba2k24_ipa_file/</guid>
-      <pubDate>Wed, 08 May 2024 01:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>死亡搁浅ipa！？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cms09z/death_stranding_ipa/</link>
-      <description><![CDATA[有人成功获得了 ios 版《死亡搁浅》ipa ？？？有人在 iphone 14 pro 上试过吗？？？   由   提交/u/CapSoggy9648   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cms09z/death_stranding_ipa/</guid>
-      <pubDate>Wed, 08 May 2024 01:03:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
