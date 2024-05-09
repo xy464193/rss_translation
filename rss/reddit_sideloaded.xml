@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 09 May 2024 15:09:42 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Thu, 09 May 2024 18:09:45 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么方法可以在不使用 esign/scarlet 而是使用我的电脑的情况下导入证书。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</link>
+      <description><![CDATA[您好，自从我的 EeveSpotify 停止工作以来，我已经四处寻找，我想购买证书。但是，当我搜索教程以了解如何安装它时，我只使用电子签名，但我真的不想使用它。我只是想找到一种使用我的电脑或任何其他方式导入我签名的 IPA 的方法。   由   提交 /u/NotM1guel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</guid>
+      <pubDate>Thu, 09 May 2024 18:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideJITServer 根本不起作用。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1co0y23/sidejitserver_does_not_work_at_all/</link>
+      <description><![CDATA[我有一台较旧的 Mac（2015 年初的专业版），我已按照 YouTube 和在线上的所有说明进行操作，但我的快捷方式永远无法完成，而且我还遇到了教程中未出现的错误。有谁知道任何可靠的方法来重新启动或找到解决方案。谢谢。   由   提交/u/ceo-0f_racism  /u/ceo-0f_racism reddit.com/r/sideloaded/comments/1co0y23/sidejitserver_does_not_work_at_all/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1co0y23/sidejitserver_does_not_work_at_all/</guid>
+      <pubDate>Thu, 09 May 2024 16:08:42 GMT</pubDate>
+    </item>
     <item>
       <title>需要有关电子签名的帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</link>
-      <description><![CDATA[嘿伙计们，我有 udid 黄金会员资格，我尝试安装 instgram、facebook 和 youtube，当我尝试在 youtube 上打开视频时，所有这些调整应用程序当我尝试登录 instgram 时应用程序崩溃，同样的崩溃和 facebook 也一样，我尝试在我的另一部 iphone 上安装相同的 ipa，它工作正常，那么问题出在哪里？电子签名还是？我现在能做什么   由   提交 /u/Adventurous-Mess5100    reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我有 udid 黄金会员资格，我尝试安装 instgram、facebook 和 youtube，当我尝试在 youtube 上打开视频时，所有这些调整应用程序当我尝试登录 instgram 时应用程序崩溃，同样的崩溃和 facebook 我也尝试在我的另一部 iphone 上安装相同的 ipa，它工作正常，那么问题出在哪里？电子签名还是？我现在能做什么   由   提交 /u/Adventurous-Mess5100    reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</guid>
       <pubDate>Thu, 09 May 2024 14:36:01 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>我的新证书无法使用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cntsmh/my_new_certificate_cant_be_used/</link>
-      <description><![CDATA[      我尝试使用新证书进行&quot;Iphone distribution: Sunshine Insurance Group Co., LTD&quot;，由于旧证书已被撤销，该证书的状态仍然良好（顶部证书），我尝试通过 Esign 使用它进行签名 即使我使用新证书对我的应用进行签名，它仍然不起作用并一直告诉我无法验证应用程序并且需要互联网来验证它，我该如何解决这个问题？    提交人    /u/MikaTTG   [链接] [评论] ]]></description>
+      <description><![CDATA[      我尝试使用“Iphone分销：阳光保险集团有限公司”的新证书，该证书的状态仍然良好（最上面的）因为旧证书已被撤销，所以我尝试通过 Esign 进行签名 即使我使用新证书签署我的应用程序，它仍然无法正常工作，并一直告诉我无法验证应用程序并需要互联网来验证它，我该如何做解决这个问题吗？   由   提交 /u/MikaTTG   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cntsmh/my_new_certificate_cant_be_used/</guid>
       <pubDate>Thu, 09 May 2024 10:18:32 GMT</pubDate>
     </item>
@@ -50,14 +64,14 @@
     <item>
       <title>没有DNScloak如何获得防撤销？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</link>
-      <description><![CDATA[我尝试从应用程序商店获取它，但它在我的国家/地区不可用，如果没有此应用程序，有什么方法可以做到这一点？   由   提交/u/Complex-Air7362  /u/complex-air7362 reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我尝试从应用商店获取它，但它在我的国家/地区不可用，有没有不使用此应用的方法？    提交人    /u/Complex-Air7362   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</guid>
       <pubDate>Thu, 09 May 2024 07:52:00 GMT</pubDate>
     </item>
     <item>
       <title>python 到路径</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</link>
-      <description><![CDATA[尝试使用 Windows 为 dolphin ios 启用 jit，但我不知道如何将 python 放入路径中    提交人    /u/efr4in_mvnoz   [链接] [评论]]]></description>
+      <description><![CDATA[尝试在 dolphin ios 上使用 Windows 启用 jit，但我不知道如何将 python 放入路径   由   提交/u/efr4in_mvnoz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</guid>
       <pubDate>Thu, 09 May 2024 01:33:05 GMT</pubDate>
     </item>
@@ -78,14 +92,14 @@
     <item>
       <title>有什么方法可以获取 Sidestore 的配对文件，而无需将我的 iPhone 连接到电脑？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnge3f/any_way_to_get_pairing_file_for_sidestore_without/</link>
-      <description><![CDATA[我只有 USB-C 电缆，但我的电脑没有。 &lt;!-- SC_ON - -&gt;  由   提交 /u/Stillane   [链接] [评论]]]></description>
+      <description><![CDATA[我只有 USB-C 电缆，但我的电脑没有。    由    /u/Stillane  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnge3f/any_way_to_get_pairing_file_for_sidestore_without/</guid>
       <pubDate>Wed, 08 May 2024 21:47:18 GMT</pubDate>
     </item>
     <item>
       <title>值得信赖的 IPA 存储库</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnepqu/trusted_ipa_repos/</link>
-      <description><![CDATA[在哪里可以找到可信的 IPA 存储库？我有 appdb，但我想要更多   由   提交/u/celeryballs  [链接] [评论]]]></description>
+      <description><![CDATA[我在哪里可以找到受信任的 IPA 存储库？我有 appdb，但我想要更多    提交人    /u/celeryballs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnepqu/trusted_ipa_repos/</guid>
       <pubDate>Wed, 08 May 2024 20:36:43 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想要的只是基本的 Snapchat，已被禁止使用该应用程序，并且 Snapchat 支持毫无用处。由于我一无所知，有人可以给我发送教程或其他帮助吗？   由   提交 /u/Z3n21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</guid>
       <pubDate>Wed, 08 May 2024 18:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPA 请求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</link>
-      <description><![CDATA[嗨，我一直在寻找《逆转裁判双重命运》和《逆转裁判正义之魂》IPA，请记住，他们只给你第一个案件，所以我希望它为我提供这两款游戏的全部 6 个案例   由   提交/u/Mahmoud29510   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</guid>
-      <pubDate>Wed, 08 May 2024 14:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>暗影格斗2 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cn5seb/shadow_fight_2_ipa/</link>
-      <description><![CDATA[有人知道一个可以工作的修改版吗？无法访问我的旧机器人，因此无法在我的 iPhone 上使用它..   由   提交 /u/Party-Difference-714   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cn5seb/shadow_fight_2_ipa/</guid>
-      <pubDate>Wed, 08 May 2024 14:23:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
