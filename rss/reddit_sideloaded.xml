@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 09 May 2024 12:14:44 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Thu, 09 May 2024 15:09:42 GMT</lastBuildDate>
+    <item>
+      <title>需要有关电子签名的帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</link>
+      <description><![CDATA[嘿伙计们，我有 udid 黄金会员资格，我尝试安装 instgram、facebook 和 youtube，当我尝试在 youtube 上打开视频时，所有这些调整应用程序当我尝试登录 instgram 时应用程序崩溃，同样的崩溃和 facebook 也一样，我尝试在我的另一部 iphone 上安装相同的 ipa，它工作正常，那么问题出在哪里？电子签名还是？我现在能做什么   由   提交 /u/Adventurous-Mess5100    reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</guid>
+      <pubDate>Thu, 09 May 2024 14:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarlet 再次出现在我的 iPhone 中，但在网站上却显示已签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</link>
+      <description><![CDATA[昨天我的 Scarlet 被撤销，所以当我检查网站时它说（已签名），所以我需要担心这个吗？   由   提交 /u/DesignerSolid822   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</guid>
+      <pubDate>Thu, 09 May 2024 14:21:22 GMT</pubDate>
+    </item>
     <item>
       <title>不让我打开应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnv910/wont_let_me_open_apps/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>我的新证书无法使用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cntsmh/my_new_certificate_cant_be_used/</link>
-      <description><![CDATA[      我尝试使用“Iphone分销：阳光保险集团有限公司”的新证书，该证书的状态仍然良好（最上面的）因为旧证书已被撤销，所以我尝试通过 Esign 进行签名 即使我使用新证书签署我的应用程序，它仍然无法正常工作，并一直告诉我无法验证应用程序并需要互联网来验证它，我该如何做解决这个问题吗？   由   提交 /u/MikaTTG   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我尝试使用新证书进行&quot;Iphone distribution: Sunshine Insurance Group Co., LTD&quot;，由于旧证书已被撤销，该证书的状态仍然良好（顶部证书），我尝试通过 Esign 使用它进行签名 即使我使用新证书对我的应用进行签名，它仍然不起作用并一直告诉我无法验证应用程序并且需要互联网来验证它，我该如何解决这个问题？    提交人    /u/MikaTTG   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cntsmh/my_new_certificate_cant_be_used/</guid>
       <pubDate>Thu, 09 May 2024 10:18:32 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 08:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>如何在没有 DNScloak 的情况下实现反撤销？</title>
+      <title>没有DNScloak如何获得防撤销？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</link>
       <description><![CDATA[我尝试从应用程序商店获取它，但它在我的国家/地区不可用，如果没有此应用程序，有什么方法可以做到这一点？   由   提交/u/Complex-Air7362  /u/complex-air7362 reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</guid>
@@ -43,14 +57,14 @@
     <item>
       <title>python 到路径</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</link>
-      <description><![CDATA[尝试在 dolphin ios 上使用 Windows 启用 jit，但我不知道如何将 python 放入路径   由   提交/u/efr4in_mvnoz   [链接] [评论]]]></description>
+      <description><![CDATA[尝试使用 Windows 为 dolphin ios 启用 jit，但我不知道如何将 python 放入路径中    提交人    /u/efr4in_mvnoz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</guid>
       <pubDate>Thu, 09 May 2024 01:33:05 GMT</pubDate>
     </item>
     <item>
       <title>每当我尝试从中下载应用程序时，Scarlet 总是崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</link>
-      <description><![CDATA[idk，我对这种侧载东西有点陌生，我大约 1 分钟前刚刚下载了猩红，每当我尝试下载任何东西时，它就会崩溃，你们知道为什么吗？ ?   由   提交 /u/phontsc   [链接] [评论]]]></description>
+      <description><![CDATA[idk 我对侧载的东西有点陌生，我大约 1 分钟前刚刚下载了猩红，每当我尝试下载任何东西时它就会崩溃，你们知道为什么吗？ ?   由   提交 /u/phontsc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</guid>
       <pubDate>Thu, 09 May 2024 01:05:19 GMT</pubDate>
     </item>
@@ -78,37 +92,23 @@
     <item>
       <title>真的很简单，就是不知道要做什么。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</link>
-      <description><![CDATA[我想要的只是基本的 Snapchat，但应用程序已被禁止，Snapchat 支持毫无用处。有人可以给我发一个教程或其他东西来帮助我吗，因为我完全不懂。    提交人    /u/Z3n21   [link] [评论]]]></description>
+      <description><![CDATA[我想要的只是基本的 Snapchat，已被禁止使用该应用程序，并且 Snapchat 支持毫无用处。由于我一无所知，有人可以给我发送教程或其他帮助吗？   由   提交 /u/Z3n21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnb5k1/really_simple_just_got_no_idea_wtaf_to_do/</guid>
       <pubDate>Wed, 08 May 2024 18:06:12 GMT</pubDate>
     </item>
     <item>
-      <title>国际音标请求</title>
+      <title>IPA 请求</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</link>
       <description><![CDATA[嗨，我一直在寻找《逆转裁判双重命运》和《逆转裁判正义之魂》IPA，请记住，他们只给你第一个案件，所以我希望它为我提供这两款游戏的全部 6 个案例   由   提交/u/Mahmoud29510   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn6hsy/ipa_request/</guid>
       <pubDate>Wed, 08 May 2024 14:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>暗影格斗 2 ipa？</title>
+      <title>暗影格斗2 ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cn5seb/shadow_fight_2_ipa/</link>
-      <description><![CDATA[有人知道可以运行的修改版吗？我无法使用我的旧 droid，所以无法在我的 iphone 上使用它。    提交人    /u/Party-Difference-714   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道一个可以工作的修改版吗？无法访问我的旧机器人，因此无法在我的 iPhone 上使用它..   由   提交 /u/Party-Difference-714   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cn5seb/shadow_fight_2_ipa/</guid>
       <pubDate>Wed, 08 May 2024 14:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>好笔记 6 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cn3unh/goodnotes_6_ipa/</link>
-      <description><![CDATA[谁能给我好的笔记 ipa？   由   提交/u/Character_Bag_2142   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cn3unh/goodnotes_6_ipa/</guid>
-      <pubDate>Wed, 08 May 2024 12:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款名为 true Skate 的游戏的 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cn361d/a_ipa_for_the_game_called_true_skate/</link>
-      <description><![CDATA[我一直在寻找每个滑板公园的 ipa 和无限金币，有人可以给我发送链接、电报或不和谐吗   由   提交/u/P1kaYioO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cn361d/a_ipa_for_the_game_called_true_skate/</guid>
-      <pubDate>Wed, 08 May 2024 12:19:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
