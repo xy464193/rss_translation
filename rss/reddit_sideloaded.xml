@@ -4,16 +4,23 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 10 May 2024 03:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:11:33 GMT</lastBuildDate>
     <item>
-      <title>旁载Linux</title>
+      <title>有人遇到了侧载错误吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cohh2e/anyone_getting_sideloadly_error/</link>
+      <description><![CDATA[尝试像往常一样更新我的侧载应用程序，但出现 anisette 错误，尝试打开 iTunes，但 Windows 11 上没有任何反应，是服务器关闭了还是只有我一个人？    提交人    /u/CandleAccomplished59   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cohh2e/anyone_getting_sideloadly_error/</guid>
+      <pubDate>Fri, 10 May 2024 04:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载 Linux</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1coeb0i/sideload_linux/</link>
-      <description><![CDATA[我想知道是否有一个选项可以从没有像 altstore 那样拥有自己的应用程序的 Linux 进行旁加载，例如用于 Linux 的 sideloadly 我还想知道是否有人知道如何将其设置为通过 tailscale 进行侧载   由   提交/u/ezra63837  [链接] [评论]]]></description>
+      <description><![CDATA[我想知道是否有从 Linux 侧载的选项，它没有像 altstore 那样自己的应用程序，所以像 Linux 的 sideloadly 一样 我还想知道是否有人知道如何将其设置为通过 tailscale 进行侧载    提交人    /u/ezra63837   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1coeb0i/sideload_linux/</guid>
       <pubDate>Fri, 10 May 2024 01:58:44 GMT</pubDate>
     </item>
     <item>
-      <title>斯嘉丽有奇怪的问题</title>
+      <title>猩红色有奇怪的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1codlzp/scarlet_having_weird_issues/</link>
       <description><![CDATA[使用最新的猩红版本时，我遇到了一个问题：在应用程序上单击刷新失败，在猩红上单击刷新会导致应用程序关闭，当我重新打开它时它说现在有 2 个猩红，现在都无法刷新。 我可以通过选择下载 ipa 并选择相同的 ipa 来修复第一个问题以刷新正常应用程序，但它不适用于猩红，我总是需要返回到我的计算机。 我使用猩红，这样我就可以在不需要计算机的情况下通过 VPN 进行刷新，但我想要一个解决方案，或者一个可以执行相同操作或允许我在 tailscale 上安装应用程序，因为我总是使用它，所以它会变得更容易   由   提交/u/ezra63837  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1codlzp/scarlet_having_weird_issues/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>有没有什么方法可以在不使用 esign/scarlet 而是使用我的电脑的情况下导入证书。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</link>
-      <description><![CDATA[您好，自从我的 EeveSpotify 停止工作以来，我一直在四处搜索，我想购买证书。但是当我搜索教程以了解如何安装它时，我只能使用 E-Sign，而我并不想使用它。我只是想找到一种使用我的 PC 或任何其他方式导入签名 IPA 的方法。    提交人    /u/NotM1guel   [link] [评论]]]></description>
+      <description><![CDATA[您好，自从我的 EeveSpotify 停止工作以来，我已经四处寻找，我想购买证书。但是，当我搜索教程以了解如何安装它时，我只使用电子签名，但我真的不想使用它。我只是想找到一种使用我的电脑或任何其他方式导入我签名的 IPA 的方法。   由   提交 /u/NotM1guel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</guid>
       <pubDate>Thu, 09 May 2024 18:02:32 GMT</pubDate>
     </item>
@@ -64,21 +71,21 @@
     <item>
       <title>需要有关电子签名的帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</link>
-      <description><![CDATA[嘿伙计们，我有 udid 黄金会员资格，我尝试安装 instgram、facebook 和 youtube，当我尝试在 youtube 上打开视频时，所有这些调整应用程序当我尝试登录 instgram 时应用程序崩溃，同样的崩溃和 facebook 我也尝试在我的另一部 iphone 上安装相同的 ipa，它工作正常，那么问题出在哪里？电子签名还是？我现在能做什么   由   提交 /u/Adventurous-Mess5100    reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有 udid 黄金会员资格，我尝试安装 instgram、facebook 和 youtube，它们都在调整应用程序，当我尝试打开 youtube 上的视频时，应用程序崩溃了，当我尝试登录 instgram 时，facebook 也崩溃了，我尝试在另一部 iphone 上安装相同的 ipa，它工作正常，那么问题出在哪里？ESign 还是？我现在该怎么办     提交人    /u/Adventurous-Mess5100   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnyspn/need_help_about_esign/</guid>
       <pubDate>Thu, 09 May 2024 14:36:01 GMT</pubDate>
     </item>
     <item>
       <title>Scarlet 再次出现在我的 iPhone 中，但在网站上却显示已签名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</link>
-      <description><![CDATA[昨天我的 Scarlet 被吊销了，所以当我检查网站时，它显示（已签名），所以我需要担心这个吗？    提交人    /u/DesignerSolid822   [链接] [评论]]]></description>
+      <description><![CDATA[昨天我的 Scarlet 被撤销，所以当我检查网站时它说（已签名），所以我需要担心这个吗？   由   提交 /u/DesignerSolid822   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</guid>
       <pubDate>Thu, 09 May 2024 14:21:22 GMT</pubDate>
     </item>
     <item>
       <title>不让我打开应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnv910/wont_let_me_open_apps/</link>
-      <description><![CDATA[所以基本上每次我在 iPhone 上加载任何内容（我有 ios17.4）时，它都会说应用程序无法验证，请连接互联网以验证我从未遇到过问题即使我已经验证了它，它仍然有效，直到现在    由   提交/u/floppa1945   [链接] [评论]]]></description>
+      <description><![CDATA[所以基本上每次我在 iPhone 上侧载任何东西时（我有 ios17.4），它都会说无法验证应用程序，请连接互联网进行验证，我从来没有遇到过问题，直到现在它一直有效，即使我已经验证过它     提交人    /u/floppa1945   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnv910/wont_let_me_open_apps/</guid>
       <pubDate>Thu, 09 May 2024 11:45:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我最近发表了一篇关于我遇到的错误的帖子，并发现我的证书已被列入黑名单。有什么办法可以逆转这个问题（我在 17.4.1 上）？我对我的ipad进行了工厂重置，并重新安装了所有内容，并正常工作了半天，之后它开始给我同样的错误。如果没有可能的方法来逆转它，除了 Sunshine 发行版之外，还有人拥有工作证书吗？   由   提交/u/BridgeSuspicious7207  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cns769/certs/</guid>
       <pubDate>Thu, 09 May 2024 08:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有DNScloak如何获得防撤销？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</link>
-      <description><![CDATA[我尝试从应用程序商店获取它，但它在我的国家/地区不可用，如果没有此应用程序，有什么方法可以做到这一点？   由   提交/u/Complex-Air7362   /u/complex-air7362 reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</guid>
-      <pubDate>Thu, 09 May 2024 07:52:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
