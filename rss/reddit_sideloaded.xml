@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 10 May 2024 18:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 21:07:29 GMT</lastBuildDate>
+    <item>
+      <title>好的，我需要一些帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cozpjf/alright_i_need_some_help/</link>
+      <description><![CDATA[      我想尝试玩一些psp游戏，因为我听说这很容易做，我下载了scarlet，然后下载了PPSSPP，一切都很正常，没有任何问题，但是大约3天后或者2、它刚刚向我弹出了这条消息，我根本无法输入scarlet和PPSSPP，我重新下载了一遍，看看它是否会恢复正常，但它做了同样的事情，我现在该怎么办？ （顺便说一句，是的，我确实有互联网连接，所以我不知道为什么会出现此错误）。   由   提交/u/Familyguymoments   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cozpjf/alright_i_need_some_help/</guid>
+      <pubDate>Fri, 10 May 2024 20:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在没有 Apple Dev 的情况下制作旁加载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1coy2o3/how_to_make_a_sideload_app_without_apple_dev/</link>
+      <description><![CDATA[我正在尝试制作一个供个人使用的应用程序。想知道这些开发者如何将他们的应用程序放到 TestFlight 上。我没有 MacOS，也没有付费开发者帐户。我有一个完成的源代码，但为一个个人应用程序支付 99 美元似乎有点多。有什么方法吗？    提交人    /u/Ok-Replacement8876   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1coy2o3/how_to_make_a_sideload_app_without_apple_dev/</guid>
+      <pubDate>Fri, 10 May 2024 19:35:57 GMT</pubDate>
+    </item>
     <item>
       <title>是否可以在不删除应用程序的情况下重新信任猩红色</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1covo1w/is_it_possible_to_re_trust_scarlet_without/</link>
-      <description><![CDATA[:)    由   提交  /u/theman2605   [链接] [评论]]]></description>
+      <description><![CDATA[:)   由   提交/u/theman2605  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1covo1w/is_it_possible_to_re_trust_scarlet_without/</guid>
       <pubDate>Fri, 10 May 2024 17:53:22 GMT</pubDate>
     </item>
@@ -22,26 +36,19 @@
     <item>
       <title>谁能帮我下载 ESign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cou14w/can_anyone_help_me_download_esign/</link>
-      <description><![CDATA[我通过大约一个月前在 Reddit 子版块上找到的链接获得了 ESign，它有效，但现在我的朋友正试图按照同样的评论并使用我所做的链接，但它说无法验证或类似的东西。他尝试了所有链接，包括我用来获取我的链接，但仍然不起作用。我有办法得到它吗？或者修复它？    由   提交/u/besttickplayer  [链接] [评论]]]></description>
+      <description><![CDATA[我通过大约一个月前在 Reddit 子版块上找到的链接获得了 ESign，它有效，但现在我的朋友正试图按照同样的评论并使用我所做的链接，但它说无法验证或类似的东西。他尝试了所有的链接，包括我用来获取我的链接，但仍然不起作用。我有办法得到它吗？或者修复它？    由   提交/u/besttickplayer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cou14w/can_anyone_help_me_download_esign/</guid>
       <pubDate>Fri, 10 May 2024 16:43:07 GMT</pubDate>
     </item>
     <item>
-      <title>巨线程（再次）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cosvq9/megathread_again/</link>
-      <description><![CDATA[模组可以添加一个超级线程吗？这个子部分仅包含相同的问题，其中大多数是关于 ipa 源或如何旁加载。如果我们可以用 ipa 源代码或常见问题解答创建一个超级线程，那就太棒了（顺便说一句，我已经在这里创建了一个小线程：https://rentry.org /ipa-sources)   由   提交/u/BenliM28  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cosvq9/megathread_again/</guid>
-      <pubDate>Fri, 10 May 2024 15:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红错误帮助：c</title>
+      <title>猩红色错误帮助 :c</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1corwlp/scarlet_error_help_c/</link>
       <description><![CDATA[       伙计们，我已经正常使用 Scarlet 一段时间了，但是一天又一天，它给了我一个错误：无法验证应用程序，需要互联网连接来验证开发人员的相信，这个应用程序在经过验证之前将不可用，我始终连接到 wifi，但错误仍然存​​在，并且我已经完成了所有操作。有人可以告诉我解决这个问题的方法吗？我来自西班牙，抱歉，这是西班牙语。 https://preview.redd.it/1u816dsw7mzc1.jpg?width=881&amp;format=pjpg&amp;auto=webp&amp;s=71015181e5f7794ae71eb3c62ba2bb052def2c67   由   提交 /u/Least_Recipe5549   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1corwlp/scarlet_error_help_c/</guid>
       <pubDate>Fri, 10 May 2024 15:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>我的 iPhone 被列入黑名单，该如何解决？</title>
+      <title>我被 iPhone 列入黑名单了，该如何解决？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1corhse/i_got_blacklisted_on_iphone_how_do_i_solve_this/</link>
       <description><![CDATA[几天前，我的 iPhone 被列入黑名单，当时我正在使用 Scarlet 进行侧载，有一天当我尝试打开该应用程序时，弹出一条消息说需要验证开发商。我是新人，所以我不知道如何修复它，请帮忙   由   提交/u/Nako_bruhh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1corhse/i_got_blacklisted_on_iphone_how_do_i_solve_this/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Movieboxpro 按键</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cooykl/movieboxpro_key/</link>
-      <description><![CDATA[我真的很想加入 movieboxpro，但我需要邀请码。  有人愿意发私信给我吗？  提前致谢   由   提交 /u/MushroomBoring3591   [链接] [评论]]]></description>
+      <description><![CDATA[我真的很想加入 movieboxpro，但我需要一个邀请密钥。  有人愿意给我发私信吗？  提前谢谢     提交人    /u/MushroomBoring3591   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cooykl/movieboxpro_key/</guid>
       <pubDate>Fri, 10 May 2024 12:58:47 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 10 May 2024 07:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>有人遇到了侧载错误吗？</title>
+      <title>有人遇到 sideloadly 错误吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cohh2e/anyone_getting_sideloadly_error/</link>
       <description><![CDATA[尝试一如既往地更新我的侧载应用程序，但尝试打开 iTunes 时出现茴香酒错误，但我的 Windows 11 上没有任何内容是服务器停机还是只有我停机？    由   提交 /u/CandleAccomplished59   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cohh2e/anyone_getting_sideloadly_error/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 10 May 2024 01:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>旧版应用中的 WhiteBox - iPhone 5s iOS 10.3</title>
+      <title>旧应用程序中的 WhiteBox - iPhone 5s iOS 10.3</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</link>
       <description><![CDATA[      我在降级的 iPhone 5s 上侧载了 Rockband 应用程序，我在屏幕一角看到了一个白框，我在支持的设备上使用了 sideloaldy 并删除了限制. https://preview。 redd.it/g85ljvqxghzc1.png?width=640&amp;format=png&amp;auto=webp&amp;s=03857eadbf82431826d5fab6cc09de82828c4e04   由   提交/u/Mcqwerty197  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</guid>
       <pubDate>Thu, 09 May 2024 23:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>高尔夫之战vip ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1co9uhz/golf_battle_vip_ipa/</link>
-      <description><![CDATA[有人可以给我发送这个的 ipa https://app.iosgods.com/store/appdetails/3370-golf-battle-hack   由   提交 /u/DeerWeekly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1co9uhz/golf_battle_vip_ipa/</guid>
-      <pubDate>Thu, 09 May 2024 22:24:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
