@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 10 May 2024 00:36:56 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Fri, 10 May 2024 03:09:17 GMT</lastBuildDate>
+    <item>
+      <title>旁载Linux</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1coeb0i/sideload_linux/</link>
+      <description><![CDATA[我想知道是否有一个选项可以从没有像 altstore 那样拥有自己的应用程序的 Linux 进行旁加载，例如用于 Linux 的 sideloadly 我还想知道是否有人知道如何将其设置为通过 tailscale 进行侧载   由   提交/u/ezra63837  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1coeb0i/sideload_linux/</guid>
+      <pubDate>Fri, 10 May 2024 01:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯嘉丽有奇怪的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1codlzp/scarlet_having_weird_issues/</link>
+      <description><![CDATA[使用最新的猩红版本时，我遇到了一个问题：在应用程序上单击刷新失败，在猩红上单击刷新会导致应用程序关闭，当我重新打开它时它说现在有 2 个猩红，现在都无法刷新。 我可以通过选择下载 ipa 并选择相同的 ipa 来修复第一个问题以刷新正常应用程序，但它不适用于猩红，我总是需要返回到我的计算机。 我使用猩红，这样我就可以在不需要计算机的情况下通过 VPN 进行刷新，但我想要一个解决方案，或者一个可以执行相同操作或允许我在 tailscale 上安装应用程序，因为我总是使用它，所以它会变得更容易   由   提交/u/ezra63837  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1codlzp/scarlet_having_weird_issues/</guid>
+      <pubDate>Fri, 10 May 2024 01:22:36 GMT</pubDate>
+    </item>
     <item>
       <title>旧应用程序中的 WhiteBox - iPhone 5s iOS 10.3</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</link>
-      <description><![CDATA[      我在降级的 iPhone 5s 上侧载了 Rockband 应用程序，我在屏幕一角看到了一个白框，我在支持的设备上使用了 sideloaldy 并删除了限制. https://preview。 redd.it/g85ljvqxghzc1.png?width=640&amp;format=png&amp;auto=webp&amp;s=03857eadbf82431826d5fab6cc09de82828c4e04   由   提交/u/Mcqwerty197  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我在降级的 iPhone 5s 上侧载了 Rockband 应用，屏幕角落出现了一个白框，我已使用侧载功能解除了对受支持设备的限制。 https://preview.redd.it/g85ljvqxghzc1.png?width=640&amp;format=png&amp;auto=webp&amp;s=03857eadbf82431826d5fab6cc09de82828c4e04    提交人    /u/Mcqwerty197   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</guid>
       <pubDate>Thu, 09 May 2024 23:13:54 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>有没有什么方法可以在不使用 esign/scarlet 而是使用我的电脑的情况下导入证书。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</link>
-      <description><![CDATA[您好，自从我的 EeveSpotify 停止工作以来，我已经四处寻找，我想购买证书。但是，当我搜索教程以了解如何安装它时，我只使用电子签名，但我真的不想使用它。我只是想找到一种使用我的电脑或任何其他方式导入我签名的 IPA 的方法。   由   提交 /u/NotM1guel   [链接] [评论]]]></description>
+      <description><![CDATA[您好，自从我的 EeveSpotify 停止工作以来，我一直在四处搜索，我想购买证书。但是当我搜索教程以了解如何安装它时，我只能使用 E-Sign，而我并不想使用它。我只是想找到一种使用我的 PC 或任何其他方式导入签名 IPA 的方法。    提交人    /u/NotM1guel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1co3lky/is_there_any_way_to_import_a_certificate_without/</guid>
       <pubDate>Thu, 09 May 2024 18:02:32 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>Scarlet 再次出现在我的 iPhone 中，但在网站上却显示已签名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</link>
-      <description><![CDATA[昨天我的 Scarlet 被撤销，所以当我检查网站时它说（已签名），所以我需要担心这个吗？   由   提交 /u/DesignerSolid822   [链接] [评论]]]></description>
+      <description><![CDATA[昨天我的 Scarlet 被吊销了，所以当我检查网站时，它显示（已签名），所以我需要担心这个吗？    提交人    /u/DesignerSolid822   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnygwt/scarlet_is_recomes_in_my_iphone_but_in_the/</guid>
       <pubDate>Thu, 09 May 2024 14:21:22 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我尝试从应用程序商店获取它，但它在我的国家/地区不可用，如果没有此应用程序，有什么方法可以做到这一点？   由   提交/u/Complex-Air7362   /u/complex-air7362 reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cnrpwk/how_to_get_antirevoke_without_dnscloak/</guid>
       <pubDate>Thu, 09 May 2024 07:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>python 到路径</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</link>
-      <description><![CDATA[尝试在 dolphin ios 上使用 Windows 启用 jit，但我不知道如何将 python 放入路径   由   提交/u/efr4in_mvnoz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cnlcyf/python_to_path/</guid>
-      <pubDate>Thu, 09 May 2024 01:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>每当我尝试从中下载应用程序时，Scarlet 总是崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</link>
-      <description><![CDATA[我不知道我对这种侧载东西还不太熟悉，我 1 分钟前才下载了 scarlet，每当我尝试下载任何东西时它都会崩溃，你们知道为什么吗？    提交人    /u/phontsc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cnkstb/scarlet_keeps_crashing_whenever_i_try_to_download/</guid>
-      <pubDate>Thu, 09 May 2024 01:05:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
