@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 10 May 2024 21:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:36:18 GMT</lastBuildDate>
+    <item>
+      <title>有人有未经修改的 Crunchyroll iPa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cp33ym/does_anyone_have_an_unmodified_crunchyroll_ipa/</link>
+      <description><![CDATA[有人可以传递一下 Crunchyroll IPA 吗？我想要原版应用程序，无需修改，但适用于 iOS 15.8，我的 iPad Air2 不再更新到 16.0.0，因此 App store 版本不适合我。   由   提交/u/Appressive-Oven-76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cp33ym/does_anyone_have_an_unmodified_crunchyroll_ipa/</guid>
+      <pubDate>Fri, 10 May 2024 23:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPA 管理器 v2 |自动从 GitHub 下载您的（私有）ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cp1ory/ipamanager_v2_download_your_private_ipa_from/</link>
+      <description><![CDATA[大家好，我在开发快捷方式并发布了新版本：https://routinehub.co/shortcut/13064/ 功能： - 获取要下载 ipa 的选项菜单。 - 轻松添加更多您喜欢的存储库 - 与 Reddit_filtered 等存储库一起使用，它也有 Deb 文件。此快捷方式将自动忽略这些内容。 - 如果正在安装/打开新的 ipa，则提示删除旧的 ipa。 - 如果您想安装更多 ipas，则会自行重新运行。 - 解释如果您自己的 IPA 是起草/隐藏的，如何下载 IPA。 - 解释如何调整脚本以从一个版本中具有多个 ipas 的存储库下载。 - 通过删除菜单选项，您可以每天无人值守地运行此程序，而无需每次都下载 iOS。 - 无需使用文件应用程序，您可以清理快捷方式中的文件夹。 - 使用一种或多种资产的公共回购和私人回购进行测试。以及 SideStore。请注意，SideStore 会说它无法打开 ipa，但点击 + 图标并从那里打开它！ 请享受这个快捷方式，如果您有建议、反馈或想要改进它，lmk！&lt; /p&gt;   由   提交/u/Macley6969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cp1ory/ipamanager_v2_download_your_private_ipa_from/</guid>
+      <pubDate>Fri, 10 May 2024 22:10:04 GMT</pubDate>
+    </item>
     <item>
       <title>好的，我需要一些帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cozpjf/alright_i_need_some_help/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如何在没有 Apple Dev 的情况下制作旁加载应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1coy2o3/how_to_make_a_sideload_app_without_apple_dev/</link>
-      <description><![CDATA[我正在尝试制作一个供个人使用的应用程序。想知道这些开发者如何将他们的应用程序放到 TestFlight 上。我没有 MacOS，也没有付费开发者帐户。我有一个完成的源代码，但为一个个人应用程序支付 99 美元似乎有点多。有什么方法吗？    提交人    /u/Ok-Replacement8876   [link] [评论]]]></description>
+      <description><![CDATA[我正在尝试制作一个供个人使用的应用程序。想知道这些开发人员如何在 TestFlight 上获取他们的应用程序。我没有 MacOS，也没有付费开发者帐户。我有一个完成的源代码，但仅仅为一个个人应用程序支付 99 美元似乎有点贵。有什么方法吗？   由   提交 /u/Ok-Replacement8876    reddit.com/r/sideloaded/comments/1coy2o3/how_to_make_a_sideload_app_without_apple_dev/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1coy2o3/how_to_make_a_sideload_app_without_apple_dev/</guid>
       <pubDate>Fri, 10 May 2024 19:35:57 GMT</pubDate>
     </item>
@@ -41,14 +55,14 @@
       <pubDate>Fri, 10 May 2024 16:43:07 GMT</pubDate>
     </item>
     <item>
-      <title>猩红色错误帮助 :c</title>
+      <title>猩红错误帮助：c</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1corwlp/scarlet_error_help_c/</link>
       <description><![CDATA[       伙计们，我已经正常使用 Scarlet 一段时间了，但是一天又一天，它给了我一个错误：无法验证应用程序，需要互联网连接来验证开发人员的相信，这个应用程序在经过验证之前将不可用，我始终连接到 wifi，但错误仍然存​​在，并且我已经完成了所有操作。有人可以告诉我解决这个问题的方法吗？我来自西班牙，抱歉，这是西班牙语。 https://preview.redd.it/1u816dsw7mzc1.jpg?width=881&amp;format=pjpg&amp;auto=webp&amp;s=71015181e5f7794ae71eb3c62ba2bb052def2c67   由   提交 /u/Least_Recipe5549   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1corwlp/scarlet_error_help_c/</guid>
       <pubDate>Fri, 10 May 2024 15:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>我被 iPhone 列入黑名单了，该如何解决？</title>
+      <title>我的 iPhone 被列入黑名单，该如何解决？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1corhse/i_got_blacklisted_on_iphone_how_do_i_solve_this/</link>
       <description><![CDATA[几天前，我的 iPhone 被列入黑名单，当时我正在使用 Scarlet 进行侧载，有一天当我尝试打开该应用程序时，弹出一条消息说需要验证开发商。我是新人，所以我不知道如何修复它，请帮忙   由   提交/u/Nako_bruhh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1corhse/i_got_blacklisted_on_iphone_how_do_i_solve_this/</guid>
@@ -57,23 +71,16 @@
     <item>
       <title>Movieboxpro 按键</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cooykl/movieboxpro_key/</link>
-      <description><![CDATA[我真的很想加入 movieboxpro，但我需要一个邀请密钥。  有人愿意给我发私信吗？  提前谢谢     提交人    /u/MushroomBoring3591   [link] [comments]]]></description>
+      <description><![CDATA[我真的很想加入 movieboxpro，但我需要邀请码。  有人愿意发私信给我吗？  提前致谢   由   提交 /u/MushroomBoring3591   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cooykl/movieboxpro_key/</guid>
       <pubDate>Fri, 10 May 2024 12:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道包含经过调整的应用程序等的 IPA 文件的网站吗？</title>
+      <title>有谁知道有一个 IPA 文件网站，里面有类似的调整过的应用程序和东西吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1conynx/does_anyone_know_a_site_for_ipa_files_with_like/</link>
       <description><![CDATA[我需要一个拦截器   由   提交 /u/DueWolf9584   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1conynx/does_anyone_know_a_site_for_ipa_files_with_like/</guid>
       <pubDate>Fri, 10 May 2024 12:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以向我发送 Spotify eeve IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1com5hf/can_someone_please_send_me_the_spotify_eeve_ipa/</link>
-      <description><![CDATA[我需要它恳求   由   提交 /u/RegularOk4447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1com5hf/can_someone_please_send_me_the_spotify_eeve_ipa/</guid>
-      <pubDate>Fri, 10 May 2024 10:18:46 GMT</pubDate>
     </item>
     <item>
       <title>Eevee Spotify 不允许我打开应用程序</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用最新的猩红版本时，我遇到了一个问题：在应用程序上单击刷新失败，在猩红上单击刷新会导致应用程序关闭，当我重新打开它时它说现在有 2 个猩红，现在都无法刷新。 我可以通过选择下载 ipa 并选择相同的 ipa 来修复第一个问题以刷新正常应用程序，但它不适用于猩红，我总是需要返回到我的计算机。 我使用猩红，这样我就可以在不需要计算机的情况下通过 VPN 进行刷新，但我想要一个解决方案，或者一个可以执行相同操作或允许我在 tailscale 上安装应用程序，因为我总是使用它，所以它会变得更容易   由   提交/u/ezra63837  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1codlzp/scarlet_having_weird_issues/</guid>
       <pubDate>Fri, 10 May 2024 01:22:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧应用程序中的 WhiteBox - iPhone 5s iOS 10.3</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</link>
-      <description><![CDATA[      我在降级的 iPhone 5s 上侧载了 Rockband 应用程序，我在屏幕一角看到了一个白框，我在支持的设备上使用了 sideloaldy 并删除了限制. https://preview。 redd.it/g85ljvqxghzc1.png?width=640&amp;format=png&amp;auto=webp&amp;s=03857eadbf82431826d5fab6cc09de82828c4e04   由   提交/u/Mcqwerty197  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1coay4u/whitebox_in_old_app_iphone_5s_ios_103/</guid>
-      <pubDate>Thu, 09 May 2024 23:13:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
