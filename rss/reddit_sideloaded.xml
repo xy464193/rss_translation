@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 12 May 2024 18:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 21:08:31 GMT</lastBuildDate>
+    <item>
+      <title>帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cqhco8/help/</link>
+      <description><![CDATA[&lt;表&gt;      I尝试登录 Snapchat 但不起作用。我尝试在signoulous 上使用多个应用程序登录，但没有用。有人可以帮忙吗？   由   提交 /u/Zestyclose_You1213   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cqhco8/help/</guid>
+      <pubDate>Sun, 12 May 2024 20:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>进度丢失。 （适用于 iOS 15 的 Checkra1n 和解密）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cqh9yo/progress_lost_checkra1n_for_ios_15_decrypt/</link>
+      <description><![CDATA[你们可能都知道，我正在构建一个 iOS 15 Checkra1n 和一个新的解密器。好吧，由于我的 iPhone 被锁定（已经联系苹果），我必须重置它才能使一切恢复正常。我无法恢复任何数据，在我的另一部 iPhone 上也没有保存。 Checkra1n 的新进展：设置 .deb 解密器：无。希望我能恢复它们，但我不这么认为。   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cqh9yo/progress_lost_checkra1n_for_ios_15_decrypt/</guid>
+      <pubDate>Sun, 12 May 2024 20:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>cartube ios 17.4 iPhone 14 Pro Max a16</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cqh6kz/cartube_ios_174_iphone_14_pro_max_a16/</link>
+      <description><![CDATA[有人可以解释一下为什么它不能侧载吗？我的 iphone 11 pro 上有 trollstore 并使用热点，但希望它能在我的主设备上运行。   由   提交/u/h_ppo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cqh6kz/cartube_ios_174_iphone_14_pro_max_a16/</guid>
+      <pubDate>Sun, 12 May 2024 20:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有免费的应用程序签名软件/源吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cqg1ym/anyone_have_free_app_signing_softwaresources/</link>
+      <description><![CDATA[我目前正在使用appdb，大约每个月提供的免费证书就会被撤销，并且还需要一两个月才能获得新证书。如果等待我会很累，所以我试图将事情掌握在自己手中   由   提交 /u/hawkjuin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cqg1ym/anyone_have_free_app_signing_softwaresources/</guid>
+      <pubDate>Sun, 12 May 2024 19:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>我正在尝试从 appdb 下载 snapchat ipa，但它不断下载指向自身的链接。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cqd37q/im_trying_to_download_a_snapchat_ipa_from_appdb/</link>
@@ -34,7 +62,7 @@
       <pubDate>Sun, 12 May 2024 06:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>如何在没有计算机的情况下使用开发帐户来旁加载应用程序？</title>
+      <title>如何使用开发帐户而不使用计算机来旁加载应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cq0b9m/how_do_you_sideload_apps_with_a_dev_account_and/</link>
       <description><![CDATA[我的妻子支付了开发帐户费用并想要旁加载应用程序，我支付了签名服务费用并知道如何通过我的证书使用 ESign。我收到了，但不知道她如何创建自己的，或者是否有一个流程可以让她登录自己的帐户并安装？我查找的每个线程都提到加载开发证书，但没有提到如何创建证书。任何帮助将不胜感激   由   提交 /u/dandgage   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cq0b9m/how_do_you_sideload_apps_with_a_dev_account_and/</guid>
@@ -78,37 +106,9 @@
     <item>
       <title>iPhone 版本的 Whatsapp 可以在 iPad 上运行吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cpjid2/will_the_iphone_version_of_whatsapp_run_on_an_ipad/</link>
-      <description><![CDATA[我不关心界面的外观。链接到 iPhone 也没有问题。如果我将未经修改、解密的 ipa 并将其旁加载到我的 iPad 上。该应用程序会启动吗？可以用iPhone登录吗？   由   提交/u/dra404  [链接] [评论]]]></description>
+      <description><![CDATA[我不关心界面的外观。链接到 iPhone 也没有问题。如果我使用未经修改、解密的 ipa 并将其旁加载到我的 iPad 上。该应用程序会启动吗？可以用iPhone登录吗？   由   提交/u/dra404  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cpjid2/will_the_iphone_version_of_whatsapp_run_on_an_ipad/</guid>
       <pubDate>Sat, 11 May 2024 15:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cpjd44/snapchat_ipa/</link>
-      <description><![CDATA[如果我旁加载旧版本的 ipa，我会被禁止使用 Snapchat 吗？没有调整，只是旧版本。   由   提交/u/yungbullx2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cpjd44/snapchat_ipa/</guid>
-      <pubDate>Sat, 11 May 2024 14:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous 应用程序（本身）辞职</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cpic0r/signulous_app_itself_resign/</link>
-      <description><![CDATA[使用 Signulous 且运行良好，所有旁加载应用程序都不会“死亡”。 但应用程序本身显示“Signulous 应用程序”不再可用”每隔一段时间就需要重新上传。 有什么建议吗？   由   提交/u/vee_the_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cpic0r/signulous_app_itself_resign/</guid>
-      <pubDate>Sat, 11 May 2024 14:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有 IWebTV pro IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cpf98h/is_there_a_iwebtv_pro_ipa/</link>
-      <description><![CDATA[有吗？我一直在寻找，但似乎找不到，如果有办法从我的主手机获取 IPA 并将其放在我的辅助手机上，有人可以告诉我怎么做吗？   由   提交 /u/ZORAMODDER   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cpf98h/is_there_a_iwebtv_pro_ipa/</guid>
-      <pubDate>Sat, 11 May 2024 11:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 歌词问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cpeick/spotify_lyrics_issue/</link>
-      <description><![CDATA[大家好，我在使用 eevee Spotilife ipa 时遇到问题，它不再显示任何歌词..你们有和我一样的问题吗？有人知道如何解决吗？谢谢大家！ （已解决）   由   提交 /u/SassoScorbutico   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cpeick/spotify_lyrics_issue/</guid>
-      <pubDate>Sat, 11 May 2024 10:33:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
