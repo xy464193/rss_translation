@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 12 May 2024 03:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 06:11:33 GMT</lastBuildDate>
+    <item>
+      <title>如何使用开发帐户而不使用计算机来旁加载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cq0b9m/how_do_you_sideload_apps_with_a_dev_account_and/</link>
+      <description><![CDATA[我的妻子支付了开发帐户费用并想要旁加载应用程序，我支付了签名服务费用并知道如何通过我的证书使用 ESign。我收到了，但不知道她如何创建自己的，或者是否有一个流程可以让她登录自己的帐户并安装？我查找的每个线程都提到加载开发证书，但没有提到如何创建证书。任何帮助将不胜感激   由   提交 /u/dandgage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cq0b9m/how_do_you_sideload_apps_with_a_dev_account_and/</guid>
+      <pubDate>Sun, 12 May 2024 05:11:05 GMT</pubDate>
+    </item>
     <item>
       <title>谢谢你们！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cpvlv1/thank_you_all/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在尝试设置 nextDNS，因为显然它可以阻止撤销，但我什至无法弄清楚并连接到互联网。请有人帮忙🙏   由   提交 /u/hawkjuin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cp8dg9/help/</guid>
       <pubDate>Sat, 11 May 2024 03:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17 上的侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cp62gg/side_loading_on_ios_17/</link>
-      <description><![CDATA[我刚买了一部新 iPhone，虽然我很喜欢这次升级，但我丢失了一些我最喜欢的应用程序。 iOS 有好的发展方向吗？    由   提交/u/zig_chem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cp62gg/side_loading_on_ios_17/</guid>
-      <pubDate>Sat, 11 May 2024 01:40:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
