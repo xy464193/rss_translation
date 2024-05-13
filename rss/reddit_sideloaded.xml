@@ -4,14 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 13 May 2024 00:39:34 GMT</lastBuildDate>
-    <item>
-      <title>尽管 IFTTT 4.68.1 被列为与 ios 14 兼容，但它还是崩溃了。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cqmg8r/despite_ifttt_4681_being_listed_as_compatible_w/</link>
-      <description><![CDATA[我从 chatgpt 获得了有关崩溃错误的一些信息 使用 INVocabulary 类需要授权 com.apple .开发者.siri。确保您已在 Xcode 项目中启用 Siri 功能。 https://chat.openai.com/share/490d6dec-fcef-4d03-9905-90304cb99f37 这个可以修复吗？我在窗户上。 4.63.0 运行，但如果可行的话我更喜欢更新的版本 w   由   提交/u/Mason1171  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cqmg8r/despite_ifttt_4681_being_listed_as_compatible_w/</guid>
-      <pubDate>Mon, 13 May 2024 00:35:40 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 May 2024 03:09:30 GMT</lastBuildDate>
     <item>
       <title>如果我从枫叶签名者那里购买证书，我不会在任何应用程序上被撤销吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cqjvkw/if_i_buy_a_certificate_from_maple_signer_will_i/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[有人有吗？请回复对我有帮助的链接   由   提交 /u/Savegesamurai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cpkjd5/canva_ipa/</guid>
       <pubDate>Sat, 11 May 2024 15:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 版本的 Whatsapp 可以在 iPad 上运行吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cpjid2/will_the_iphone_version_of_whatsapp_run_on_an_ipad/</link>
+      <description><![CDATA[我不关心界面的外观。链接到 iPhone 也没有问题。如果我使用未经修改、解密的 ipa 并将其旁加载到我的 iPad 上。该应用程序会启动吗？可以用iPhone登录吗？   由   提交/u/dra404  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cpjid2/will_the_iphone_version_of_whatsapp_run_on_an_ipad/</guid>
+      <pubDate>Sat, 11 May 2024 15:05:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
