@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 14 May 2024 09:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 12:15:13 GMT</lastBuildDate>
+    <item>
+      <title>由于tools.lancely.tech 已关闭，我如何找到 Minecraft v0.5.0 的版本号？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1crq8w6/how_do_i_find_build_number_of_minecraft_v050/</link>
+      <description><![CDATA[我无法使用 AppStore++，因为我没有 iOS 11+ 越狱设备，并且 tools.lancely.tech 已关闭。 iOS 9 及更早版本的 AppAdmin 不再显示内部版本号。帮助！！！   由   提交/u/UltraFemboy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1crq8w6/how_do_i_find_build_number_of_minecraft_v050/</guid>
+      <pubDate>Tue, 14 May 2024 11:52:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>部分通配符配置支持等</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cro2q2/partial_wildcard_provisioning_support_and_more/</link>
+      <description><![CDATA[大家好！ 我们已启用具有不完整软件签名身份的官方应用程序安装。应用程序将安装，但某些 appdb 服务（例如推送通知或应用程序证明）将无法工作，但是所有标识、深层链接和其他功能将按预期工作。 当 Apple 应用程序标识符以某个字符串开头时，例如，我们还启用了部分通配符配置文件支持。 com.appdb.* 而不仅仅是 *，这意味着更多的证书提供程序可以轻松地与 appdb 集成，请检查 更新文档。现有用户可以在设备功能配置页面上附加他们的签名身份。 我们欢迎大家自由发布他们的签名身份appdb 上的应用程序并实现扩展的应用程序安装选项 - 这是真正的独立和自由。 此致，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cro2q2/partial_wildcard_provisioning_support_and_more/</guid>
+      <pubDate>Tue, 14 May 2024 09:36:49 GMT</pubDate>
+    </item>
     <item>
       <title>电子签名教程？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1crncbv/esign_tutorial/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好， 是否可以在 iOS 17.4.1 上设置 uYouplus。 我使用了 Trollstore以前可以，但现在已经不行了。 你能帮我安装这个非常有用的应用程序吗？ 提前致谢。 此致&lt; /p&gt;   由   提交 /u/Kiraxellix   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cre11l/can_i_setup_uyouplus_on_ios_1741/</guid>
       <pubDate>Mon, 13 May 2024 23:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有可以旁加载的应用程序吗？ （针对 iOS 16 和 17 的建议）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cr9xmc/any_apps_to_sideload_suggestions_for_ios_16_and_17/</link>
-      <description><![CDATA[我有点无聊，所以我想开始讨论一下你们使用什么、对（应用程序）印象深刻，以及应用程序的作用satella 也支持 🥲   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cr9xmc/any_apps_to_sideload_suggestions_for_ios_16_and_17/</guid>
-      <pubDate>Mon, 13 May 2024 20:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 Sonic Dream Team 1.3.1 版本的 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cr8vk7/does_someone_have_an_ipa_for_sonic_dream_team/</link>
-      <description><![CDATA[我在网上搜索了几个小时，但仍然没有找到，它们都达到 1.1.2-1.1.3 有人可以私信我链接吗如果他们找到了该网站？非常感谢    由   提交/u/Amirn-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cr8vk7/does_someone_have_an_ipa_for_sonic_dream_team/</guid>
-      <pubDate>Mon, 13 May 2024 20:01:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
