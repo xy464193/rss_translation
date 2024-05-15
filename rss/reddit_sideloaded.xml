@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 15 May 2024 09:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 12:16:25 GMT</lastBuildDate>
+    <item>
+      <title>我无法使用 altstore 安装任何 YouTube（uYoutube 或其他），即使我尝试了多个不同的 Ipa 文件，但它就是无法安装，我该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1csi7zb/i_am_not_able_to_install_any_youtube_uyoutube_or/</link>
+      <description><![CDATA[我使用的是 Iphone 11 pro max 我使用的是 ios 17.0.2  &amp; #32；由   提交 /u/ImSoFrickinPissed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1csi7zb/i_am_not_able_to_install_any_youtube_uyoutube_or/</guid>
+      <pubDate>Wed, 15 May 2024 11:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>钓鱼冲突</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1csgzlq/fishing_clash/</link>
+      <description><![CDATA[有没有人有钓鱼冲突的更新版本   由   提交 /u/Maleficent-Coffee-99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1csgzlq/fishing_clash/</guid>
+      <pubDate>Wed, 15 May 2024 09:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>活体容器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1csgpqh/live_container/</link>
+      <description><![CDATA[是否可以获得肝脏容器内存储的应用程序的深层链接？我的意思是我们拥有所有文件，所以应该可以吧？    由   提交 /u/JoelMsk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1csgpqh/live_container/</guid>
+      <pubDate>Wed, 15 May 2024 09:34:49 GMT</pubDate>
+    </item>
     <item>
       <title>IOS 17.5</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1csgbl2/ios_175/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好！ 我们已启用具有不完整软件签名身份的官方应用程序安装。应用程序将安装，但某些 appdb 服务（例如推送通知或应用程序证明）将无法工作，但是所有标识、深层链接和其他功能将按预期工作。 当 Apple 应用程序标识符以某个字符串开头时，例如，我们还启用了部分通配符配置文件支持。 com.appdb.* 而不仅仅是 *，这意味着更多的证书提供程序可以轻松地与 appdb 集成，请检查 更新文档。现有用户可以在设备功能配置页面上附加他们的签名身份。 我们欢迎大家自由发布他们的签名身份appdb 上的应用程序并实现扩展的应用程序安装选项 - 这是真正的独立和自由。 此致，appdb 团队。   由   提交/u/appdb_official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cro2q2/partial_wildcard_provisioning_support_and_more/</guid>
       <pubDate>Tue, 14 May 2024 09:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名教程？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1crncbv/esign_tutorial/</link>
-      <description><![CDATA[您好，我刚刚下载了 design，但对于它的工作原理我有点菜鸟。我曾经在网上使用 IPASign，效果非常好，但我被告知设计更好。我试了一下并安装了它，尽管 youtube 上有一个视频解释了如何下载 ipas，但我可以看到应用程序中有很多设置和配置，我不知道如何使用。有谁知道可以向我解释所有这些的视频吗？或者至少对初学者来说类似？   由   提交 /u/vittosturi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1crncbv/esign_tutorial/</guid>
-      <pubDate>Tue, 14 May 2024 08:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何更改 iPhone 上的 IPA 徽标？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1crnb4v/how_do_i_change_ipa_logo_on_iphone/</link>
-      <description><![CDATA[您好，我通常使用 ipaSign，但我刚刚安装了 Esign 并想尝试一下，无论哪种方式，我有什么方法可以更改应用程序安装时的图标。我想这样做，因为例如当我安装 instagram Rocket 时，徽标不是原来的徽标，但图标上有额外的文字，很明显它已被破解。假设我下载了 Instagram 的 png，有什么办法可以更改它吗？   由   提交 /u/vittosturi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1crnb4v/how_do_i_change_ipa_logo_on_iphone/</guid>
-      <pubDate>Tue, 14 May 2024 08:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>已提交互操作性请求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1crmg3q/an_interoperability_request_has_been_submitted/</link>
-      <description><![CDATA[大家好！ 我们已向 Apple 提交了互操作性请求，并且，由于此请求无法在不付款的情况下提交Apple 以及欧盟 DMA 委员会。我们希望让这个对话向所有人开放，因此，我们将这个请求提供给所有人检查和评论。如果您是开发人员，并且您认为我们遗漏了某些内容，请随时发表评论，以便我们可以在其仍在进行中时对其进行调整。 对于我们所做的其他事情 - 付费应用程序分发， -应用程序购买 API、二进制文件识别 - 它们正在进行中。下一个功能集将于夏季发布，敬请期待！   由   提交/u/appdb_official  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1crmg3q/an_interoperability_request_has_been_submitted/</guid>
-      <pubDate>Tue, 14 May 2024 07:37:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
