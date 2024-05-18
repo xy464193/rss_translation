@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 18 May 2024 12:14:18 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Sat, 18 May 2024 15:09:42 GMT</lastBuildDate>
+    <item>
+      <title>被除名的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cuz84s/delisted_apps_signulous/</link>
+      <description><![CDATA[有谁知道如何从signulous添加已除名的应用程序ipa？我一直在尝试添加旧版 Minecraft Lite，但它不允许我添加，当我尝试添加“愤怒的小鸟”空间时，它在下载后消失了。   由   提交 /u/Distinct-Bee-7188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cuz84s/delisted_apps_signulous/</guid>
+      <pubDate>Sat, 18 May 2024 15:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色还有效吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cuyyd4/does_scarlet_still_work/</link>
+      <description><![CDATA[所以几个月前我不得不停止使用猩红，因为像 uyou 和 sposify 这样的应用程序无法工作，但我需要一个新的 ay 来下载 uyou 和 im只是想知道猩红是否已修复（顺便说一句，我在 Windows 中谈论猩红，而不是 ios）   由   提交 /u/AddressValuable5549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cuyyd4/does_scarlet_still_work/</guid>
+      <pubDate>Sat, 18 May 2024 14:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以下载离线收听的 Spotify IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cuwvqj/is_there_any_spotify_ipa_that_allows_downloads/</link>
+      <description><![CDATA[正如标题所说，我正在使用 AltStore 旁加载 Spotify，并且想知道是否有任何 IPA 允许您下载歌曲以供离线收听？    由   提交 /u/Numerous-Finance-951   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cuwvqj/is_there_any_spotify_ipa_that_allows_downloads/</guid>
+      <pubDate>Sat, 18 May 2024 13:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify++ 总是无缘无故地关闭</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cuw40p/spotify_keeps_turning_off_for_no_reason/</link>
+      <description><![CDATA[我刚刚在 altstore 上下载了一个破解的 Spotify Premium，它运行得很好，直到几分钟前它突然完全关闭了 起初我以为这可能是因为我锁定了屏幕，但不，即使手机打开且歌曲在后台播放时也会发生 有人有解决方案吗？ &gt;   由   提交/u/throtaway26090210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cuw40p/spotify_keeps_turning_off_for_no_reason/</guid>
+      <pubDate>Sat, 18 May 2024 12:21:30 GMT</pubDate>
+    </item>
     <item>
       <title>我的副仓库 10 秒后就结冰了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cuu0p2/my_sidestore_keeps_freezing_after_10s/</link>
@@ -20,7 +48,7 @@
       <pubDate>Sat, 18 May 2024 05:52:56 GMT</pubDate>
     </item>
     <item>
-      <title>有修改后的主干应用程序吗？</title>
+      <title>是否有修改过的骨干应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cun9ix/is_there_a_modified_backbone_app/</link>
       <description><![CDATA[我讨厌控制器的某些硬件功能被锁定在订阅后面。是否有经过修改的 IPA，可以让我无需付费即可使用这些功能（例如将控制器插入 PC）？ 谢谢    ;由   提交/u/S0LO_Bot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cun9ix/is_there_a_modified_backbone_app/</guid>
@@ -43,7 +71,7 @@
     <item>
       <title>关于 Signulous 和 YouTube 的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cukp2m/questions_about_signulous_and_youtube/</link>
-      <description><![CDATA[有人使用经过 Signulous 修改的 YouTube 吗？我有一些问题： 通知是否正常工作？我认为在签署应用程序时可以选择启用它们，但我不确定。 深层链接有效吗？就像点击不和谐中的 YouTube 链接一样，它会打开修改后的 YouTube 应用。   由   提交/u/certifiedloverboi420   [链接] [评论]]]></description>
+      <description><![CDATA[有人在 Signulous 中使用修改后的 YouTube 吗？我有一些问题： 通知功能正常吗？我认为在签署应用时有一个启用它们的选项，但我不确定。 深层链接有效吗？比如在 discord 中单击 YouTube 链接，它会打开修改后的 YouTube 应用。    提交人    /u/certifiedloverboi420   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cukp2m/questions_about_signulous_and_youtube/</guid>
       <pubDate>Sat, 18 May 2024 00:28:58 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好，有人可以创建黑客 IPA 文件来侧载 Radar Omega 和 Radar Scope 的高级功能吗？我不愿意每年为他们的订阅服务花费超过 100 美元。自从购买了这些应用程序以来，我已经拥有了 IPA 文件，但问题是我需要劫持它们才能免费访问这些功能。与 GitHub 上 apptesters.org 存储库中的 Carrot Weather IPA 高级功能破解类似。不幸的是，目前还没有人为 Radar Scope 或 Radar Omega 开发一款应用程序，这两款应用程序都是 App Store 上排名第一的天气应用程序。如果有人可以帮助我，如果您需要 IPA 文件或我可以分享的其他任何内容，请私信我。谢谢！   由   提交/u/Informal_Industry_89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cuabir/hacked_ipa_files_for_radar_omega_and_radar_scope/</guid>
       <pubDate>Fri, 17 May 2024 16:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着欧盟新的侧载变化，种子下载的现状如何？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cu6vlo/what_is_the_current_state_of_torrenting_with_the/</link>
-      <description><![CDATA[显然，我并不是在提倡盗版，只是想通过神奇的 torrent 协议在家人之间传输我自己的文件。。。    提交人    /u/Smart_County3342   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cu6vlo/what_is_the_current_state_of_torrenting_with_the/</guid>
-      <pubDate>Fri, 17 May 2024 14:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou增强旧视频质量</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cu5m3f/uyouenhanced_old_video_quality/</link>
-      <description><![CDATA[根据我对 ytLitePlus 研究一段时间后了解到的信息，您需要启用高级设置才能获得旧质量的视频 UI，有吗有什么方法可以用 uYouEnhanced 做到这一点吗？它在 GitHub 中说该功能已经存在，但我似乎找不到启用它的方法，甚至找不到它的设置。   由   提交 /u/DowntownAd9582   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cu5m3f/uyouenhanced_old_video_quality/</guid>
-      <pubDate>Fri, 17 May 2024 13:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>付费应用程序在侧载时是免费的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ctz8wy/are_paid_apps_are_free_on_sideloading/</link>
-      <description><![CDATA[嗨，我是新来的，我想知道侧载付费应用程序是否可以免费使用？例如，我想在 iPad 上使用 Duet pro 应用程序，但使用成本很高，我可以通过旁载免费使用它吗？    由   提交/u/ForwardAd6119   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ctz8wy/are_paid_apps_are_free_on_sideloading/</guid>
-      <pubDate>Fri, 17 May 2024 07:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>绕过 3 个应用程序限制的方法</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ctx9b4/methods_to_bypass_3_app_limit/</link>
-      <description><![CDATA[除了支付 100 美元购买开发者资料之外，还有其他方法可以绕过/绕过 Sideloading 的 3 个应用程序限制吗？（我破产了，我买不到 15 美元的证书礼物给我，哈哈）显然，你可以越狱，但它是在特定版本上的，lOS 17 还没有越狱；所以我想问，现在我使用的是IoS 17.4.1，是否可以降级，还有其他我没有提到的方法吗？    ;由   提交 /u/SeaInstruction872   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ctx9b4/methods_to_bypass_3_app_limit/</guid>
-      <pubDate>Fri, 17 May 2024 05:03:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
