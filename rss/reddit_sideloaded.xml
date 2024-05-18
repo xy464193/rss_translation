@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 17 May 2024 21:09:20 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Sat, 18 May 2024 00:37:13 GMT</lastBuildDate>
+    <item>
+      <title>关于 Signulous 和 YouTube 的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cukp2m/questions_about_signulous_and_youtube/</link>
+      <description><![CDATA[有人使用经过 Signulous 修改的 YouTube 吗？我有一些问题： 通知是否正常工作？我认为在签署应用程序时可以选择启用它们，但我不确定。 深层链接有效吗？就像点击不和谐中的 YouTube 链接一样，它会打开修改后的 YouTube 应用。   由   提交/u/certifiedloverboi420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cukp2m/questions_about_signulous_and_youtube/</guid>
+      <pubDate>Sat, 18 May 2024 00:28:58 GMT</pubDate>
+    </item>
     <item>
       <title>任何人都知道在 iOs 10.3.3 上运行的类似 Scarlet 的应用程序商店</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cudt6l/anyone_knows_a_scarletlike_app_store_working_on/</link>
-      <description><![CDATA[我有一部运行 iOS 10.3.3 的 iPhone 5c。我越狱了，所以它也可以是 jb 调整。    提交人    /u/DonutvibesYT   [link] [评论]]]></description>
+      <description><![CDATA[我有一台运行 iOs 10.3.3 的 iPhone 5c。我越狱了它，所以它也可以是一个 jb 调整。   由   提交/u/DonutvibesYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cudt6l/anyone_knows_a_scarletlike_app_store_working_on/</guid>
       <pubDate>Fri, 17 May 2024 19:21:17 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 17 May 2024 19:18:25 GMT</pubDate>
     </item>
     <item>
-      <title>在 iPad 上使用 igamegod 时尝试输入精确值，结果 iPad 自动死机</title>
+      <title>在 ipad 上使用 igamegod 尝试输入精确值，但 ipad 自行终止</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cuclar/was_using_igamegod_on_an_ipad_tried_to_enter_a/</link>
       <description><![CDATA[我的意思是我输入了精确的值，ipad 屏幕出现故障，然后开始闪烁白线，并且该区域的一部分是黑色的并且尽可能地描述，并在需要时提供图像视频。 （如果我无法修复它，我真的需要帮助）。 vers 17.4 使用 Palera1n 进行 Ipad 越狱   由   提交/u/ContributionQuick708   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cuclar/was_using_igamegod_on_an_ipad_tried_to_enter_a/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>随着欧盟新的侧载变化，种子下载的现状如何？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cu6vlo/what_is_the_current_state_of_torrenting_with_the/</link>
-      <description><![CDATA[显然，我并不是在提倡盗版，只是想通过神奇的 torrent 协议在家人之间传输我自己的文件。。。    提交人    /u/Smart_County3342   [link] [评论]]]></description>
+      <description><![CDATA[显然我并不是提倡盗版，只是用令人惊叹的 torrent 协议在家庭成员之间传输我拥有的文件。 。 .   由   提交/u/Smart_County3342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cu6vlo/what_is_the_current_state_of_torrenting_with_the/</guid>
       <pubDate>Fri, 17 May 2024 14:39:18 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>绕过 3 个应用程序限制的方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ctx9b4/methods_to_bypass_3_app_limit/</link>
-      <description><![CDATA[除了支付 100 美元购买开发者资料之外，还有其他方法可以绕过/绕过 Sideloading 的 3 个应用程序限制吗？（我破产了，我买不到 15 美元的证书礼物给我，哈哈）显然，你可以越狱，但它是在特定版本上的，lOS 17 还没有越狱；所以我想问，现在我使用的是IoS 17.4.1，是否可以降级，还有其他我没有提到的方法吗？    ;由   提交 /u/SeaInstruction872   [链接] [评论]]]></description>
+      <description><![CDATA[除了支付 100 美元购买开发者资料外，还有什么方法可以绕过/绕过 Sideloading 的 3 个应用程序限制？（我破产了，我买不起 15 美元的证书礼物，哈哈）显然，你可以越狱，但它是特定版本，而 iOS 17 还没有越狱；因此我问，现在我在 iOS 17.4.1 上，可以降级吗，还有什么我没有提到的方法吗？    提交人    /u/SeaInstruction872   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ctx9b4/methods_to_bypass_3_app_limit/</guid>
       <pubDate>Fri, 17 May 2024 05:03:11 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>谁能帮我找到适用于 IOS 15 的旧版本 Frigidaire ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cttruv/can_anyone_help_me_find_older_versions_of_the/</link>
-      <description><![CDATA[我的主要手机是 iOS 14，无法安装该应用程序，但 AppStore ++ 有 iOS 15 版本。但是，运行 iOS 15 的备用手机只是告诉我需要升级到 iOS 16。我没有更新任何一个。我可以使用 AppStore++ 从一部手机下载但不安装 iOS 15 ipa 文件，然后在另一部手机上安装它吗     提交人    /u/evanjd14   [link] [评论]]]></description>
+      <description><![CDATA[我的主手机是 iOS 14，无法安装该应用程序，但 AppStore ++ 有 iOS 15 版本。然而，我运行 iOS 15 的备用手机只是告诉我需要升级到 iOS 16。我没有更新任何一个。我可以使用 AppStore++ 从一部手机下载并不安装 iOS 15 ipa 文件并将其安装在另一部手机上   由   提交/u/evanjd14  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cttruv/can_anyone_help_me_find_older_versions_of_the/</guid>
       <pubDate>Fri, 17 May 2024 01:46:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[多年来一直在寻找一个   由   提交/u/ComfortableMilk4454  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ctnqc9/any_subway_surfers_infinite_coins_keys_ipa/</guid>
       <pubDate>Thu, 16 May 2024 20:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iPhone 11 Pro 上以音乐方式开场，17.4.1；</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ctmvcz/got_musically_opening_on_an_iphone_11_pro_1741/</link>
-      <description><![CDATA[关于如何修复服务器有什么想法吗？任何帮助将不胜感激。   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ctmvcz/got_musically_opening_on_an_iphone_11_pro_1741/</guid>
-      <pubDate>Thu, 16 May 2024 20:24:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
