@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 18 May 2024 09:09:26 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Sat, 18 May 2024 12:14:18 GMT</lastBuildDate>
+    <item>
+      <title>我的副仓库 10 秒后就结冰了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cuu0p2/my_sidestore_keeps_freezing_after_10s/</link>
+      <description><![CDATA[当我打开 Wireguard VPN 时，我的 Sidestore 总是在 10 秒后冻结，有什么解决方案吗？   由   提交 /u/MikaTTG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cuu0p2/my_sidestore_keeps_freezing_after_10s/</guid>
+      <pubDate>Sat, 18 May 2024 10:07:32 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以给我修改后的莫伊塞斯 IPA 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cuqfqg/can_someone_give_me_a_modified_ipa_for_moises/</link>
-      <description><![CDATA[我想要它！！！    由   提交  /u/Weak_Comparison_3402   [链接] [评论]]]></description>
+      <description><![CDATA[我想要！！！   由   提交/u/Weak_Comparison_3402   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cuqfqg/can_someone_give_me_a_modified_ipa_for_moises/</guid>
       <pubDate>Sat, 18 May 2024 05:52:56 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 18 May 2024 00:28:58 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道在 iOS 10.3.3 上运行的类似 Scarlet 的应用商店</title>
+      <title>任何人都知道在 iOs 10.3.3 上运行的类似 Scarlet 的应用程序商店</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cudt6l/anyone_knows_a_scarletlike_app_store_working_on/</link>
       <description><![CDATA[我有一台运行 iOs 10.3.3 的 iPhone 5c。我越狱了它，所以它也可以是一个 jb 调整。   由   提交/u/DonutvibesYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cudt6l/anyone_knows_a_scarletlike_app_store_working_on/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>侧载iOS 17.5/下载破解版应用程序的最佳解决方案</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cubgmm/side_loading_ios_175_best_solution_to_download/</link>
-      <description><![CDATA[几年前，我曾经从 Mac 下载破解版的 Spotify 到 iPhone，现在我准备重新开始。 不幸的是，我被所有的信息和选项弄得不知所措。有些会将你列入黑名单，有些则需要你每 7 天刷新一次。 显然，我现在可以直接从 iPhone 下载，但我不认为这适用于我，因为我的 iPhone 是加拿大的，而我住在欧盟。 我不知道如何、多长时间、何时或何地下载，我只想下载一个应用程序，以避免每年支付 130 美元，最好是一种不必每半周重新安装一次的方法，但如果这是我的最后选择，我还是会选择它。我只是想知道目前正常的操作方法是什么。    提交人    /u/ok_d   [链接] [评论]]]></description>
+      <description><![CDATA[多年前，我曾在 Mac 上的 iPhone 上下载过 Spotify 的破解版，现在我准备重新投入使用。 不幸的是，我对所有的信息和选项感到不知所措。有些会让你被列入黑名单，有些你必须每 7 天刷新一次。 显然我现在可以直接从我的 iPhone 下载，但我认为这不适用于我，因为我的 iPhone 来自加拿大，而且我现在居住在欧盟。  我知道如何、多长时间、何时或何地，我只想下载一个应用程序以避免每年支付 130 美元，最好是一种我不必每 1/2 周重新安装一次的方法，但我如果这是我最后的选择，我仍然会选择它。我只是想知道当前执行此操作的正常工作方式是什么。   由   提交 /u/ok_d   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cubgmm/side_loading_ios_175_best_solution_to_download/</guid>
       <pubDate>Fri, 17 May 2024 17:42:48 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 17 May 2024 13:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>付费应用程序可以免费侧面加载吗？</title>
+      <title>付费应用程序在侧载时是免费的吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ctz8wy/are_paid_apps_are_free_on_sideloading/</link>
       <description><![CDATA[嗨，我是新来的，我想知道侧载付费应用程序是否可以免费使用？例如，我想在 iPad 上使用 Duet pro 应用程序，但使用成本很高，我可以通过旁载免费使用它吗？    由   提交/u/ForwardAd6119   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ctz8wy/are_paid_apps_are_free_on_sideloading/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[除了支付 100 美元购买开发者资料之外，还有其他方法可以绕过/绕过 Sideloading 的 3 个应用程序限制吗？（我破产了，我买不到 15 美元的证书礼物给我，哈哈）显然，你可以越狱，但它是在特定版本上的，lOS 17 还没有越狱；所以我想问，现在我使用的是IoS 17.4.1，是否可以降级，还有其他我没有提到的方法吗？    ;由   提交 /u/SeaInstruction872   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ctx9b4/methods_to_bypass_3_app_limit/</guid>
       <pubDate>Fri, 17 May 2024 05:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录抖音</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ctwpaj/cant_login_tiktok/</link>
-      <description><![CDATA[我尝试使用侧载的 TikTok 登录，但不起作用。我不断收到最大尝试次数错误。有修复吗？   由   提交/u/StoNeD510   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ctwpaj/cant_login_tiktok/</guid>
-      <pubDate>Fri, 17 May 2024 04:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
