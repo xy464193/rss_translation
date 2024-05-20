@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 20 May 2024 18:11:25 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Mon, 20 May 2024 21:07:40 GMT</lastBuildDate>
+    <item>
+      <title>使用 sideloady 下载时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cwodsf/issue_downloading_with_sideloady/</link>
+      <description><![CDATA[过去几天我一直在尝试侧载到我的 iPhone XR 上，但 sideloady 上不断弹出错误消息：出现错误：0：InstallProhibited （没有任何）。 IPA 文件存在，正在重试 失败：0：InstallProhibited（无） 我认为我们应该重试！ 正在重试，尝试 211... 它不断重试并失败 我该怎么办？   由   提交 /u/Ok-Mind-6814   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cwodsf/issue_downloading_with_sideloady/</guid>
+      <pubDate>Mon, 20 May 2024 19:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法将修改后的 .app 文件转换为 .ipa 文件？ （我用的是mac）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cwoboz/is_there_a_way_to_convert_my_modified_app_file_to/</link>
+      <description><![CDATA[我唯一尝试过的是创建一个名为 Payload 的文件夹，将我的 .app 文件放入该文件夹中，将该文件夹压缩为 zip 文件，并将 .zip 文件更改为 .ipa。问题是它会立即损坏文件。    由   提交 /u/TheNeed4Speed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cwoboz/is_there_a_way_to_convert_my_modified_app_file_to/</guid>
+      <pubDate>Mon, 20 May 2024 19:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前最好的侧载应用程序是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cwo0ry/what_are_the_best_sideloading_apps_right_now/</link>
+      <description><![CDATA[侧存储？旧商店？侧载？猩红？您使用哪一个，为什么？   由   提交/u/abandonliberty  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cwo0ry/what_are_the_best_sideloading_apps_right_now/</guid>
+      <pubDate>Mon, 20 May 2024 19:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>appdb 如何工作？它安全吗？我们正在解释如何</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cwnrsl/how_appdb_works_is_it_safe_we_are_explaining_how/</link>
+      <description><![CDATA[大家好！  很多人问我们 - appdb 是如何工作的？ （甚至在全球范围内，而不仅仅是在欧盟）安全吗？为什么在苹果应用商店上找不到。在本视频中，我们将简要介绍具体操作方法。 https://www.youtube.com/watch? v=YQSnOob9iPg  如果您是用户 - 访问 appdb 安装应用程序：https://appdb.to/ 如果您是开发人员 - 官方应用程序发布已在测试版中开放：https://appdb.to/news/529   由   提交/u/appdb_official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cwnrsl/how_appdb_works_is_it_safe_we_are_explaining_how/</guid>
+      <pubDate>Mon, 20 May 2024 19:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>我需要有人来更新这个被黑的 Instagram</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwk0m0/i_need_someone_to_update_this_hacked_instagram/</link>
@@ -20,14 +48,14 @@
       <pubDate>Mon, 20 May 2024 16:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>我被 Kamo hacks 静音了</title>
+      <title>我被 kamo hacks 静音了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwjqld/i_js_got_muted_by_kamo_hacks/</link>
       <description><![CDATA[他们偷了 ppsspp 的黄金通行证，除了支持开发人员之外，它什么也不做，我因为说它搞砸了而被静音，然​​后管理员静音了后来我屏蔽了我，我在服务器和管理员中都有 IPA 的 SS，所以如果 Kamo 的任何人看到这个 JS 就知道管理员和你站在他一边操你。   由   提交 /u/itachithagod   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cwjqld/i_js_got_muted_by_kamo_hacks/</guid>
       <pubDate>Mon, 20 May 2024 16:28:45 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 femboy.party - 最快的 IPA 解密服务！</title>
+      <title>介绍 femboy.party - 最快的 IPA 解密服务！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwcfxg/introducing_femboyparty_the_fastest_ipa/</link>
       <description><![CDATA[大家好， 我很高兴宣布推出 femboy.party，您的新首选 IPA 解密服务！ 🚀 这就是您应该查看我们的原因： 极速解密：体验最快的解密时间。 版本历史记录：访问完整的版本历史记录应用程序并轻松解密（iOS 10+，可能稍低） Discord Bot &amp; API：我们提供 Discord 机器人和 API，让您的流程更加无缝。 加入我们的 Discord 社区以获得支持、更新并与其他用户联系：Discord 速度示例： 总时间：333.4 秒：总大小 GB 3.13 下载时间：57.25 秒解密时间：215.9 秒（包括解压、清理个人信息，并重新压缩（真正的时间杀手））上传时间：60.19 秒 期待在那里见到您并听到您的反馈！   由   提交/u/femboy_party  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cwcfxg/introducing_femboyparty_the_fastest_ipa/</guid>
@@ -62,7 +90,7 @@
       <pubDate>Sun, 19 May 2024 17:44:58 GMT</pubDate>
     </item>
     <item>
-      <title>所以我的地铁跑酷游戏无法运行</title>
+      <title>所以我的地铁冲浪者不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cvt71s/so_my_subway_surfers_aint_working/</link>
       <description><![CDATA[所以我最近在手机上安装了地铁冲浪者（黑客），但这不起作用。它一直说需要互联网连接来验证blah blah blah任何修复的信任   由   提交 /u/YeeterManHeHe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cvt71s/so_my_subway_surfers_aint_working/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[我有一段时间没有使用这些旁载应用程序中的任何一个，我可以使用哪一个来获得游戏中的作弊引擎？我使用的最后一个应用程序是 tutuapp，那是不久前   由   提交/u/New-Development-21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cvq7pj/iphone_13_pro_max_ios_160/</guid>
       <pubDate>Sun, 19 May 2024 15:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>签名上传ipa问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cvpwia/signulous_upload_ipa_issue/</link>
-      <description><![CDATA[根据我新注册的新手机，上传签名和下载的过程都很顺利，但是从上周开始，上传ipa就慢了。上传 150mb 大小需要 2 - 3 小时。我已经尝试删除 Singulous 应用程序并重新安装，将应用程序更改为 Web Signulous。还是太慢了。需要帮助   由   提交 /u/TrainerPeter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cvpwia/signulous_upload_ipa_issue/</guid>
-      <pubDate>Sun, 19 May 2024 14:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有 ipad air 2024，不想花钱侧装，有什么东西可以在不使用电脑的情况下与新 ipad 兼容吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cvpcqz/i_have_the_ipad_air_2024_and_dont_intend_to_spend/</link>
-      <description><![CDATA[我听说 troll store 是免费的，不知道是不是真的，但我知道它在最新的操作系统上不起作用。请帮助穷人    由   提交  /u/Club-Quick   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cvpcqz/i_have_the_ipad_air_2024_and_dont_intend_to_spend/</guid>
-      <pubDate>Sun, 19 May 2024 14:20:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 有歌词 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cvopnm/spotify_with_lyric_ipa/</link>
-      <description><![CDATA[有人有链接吗？   由   提交/u/I-Love-NSFW-420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cvopnm/spotify_with_lyric_ipa/</guid>
-      <pubDate>Sun, 19 May 2024 13:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有来自任何来源的 remini 破解 ipa 都要求购买</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cvk8qd/all_remini_cracked_ipa_from_any_source_are_asking/</link>
-      <description><![CDATA[有人可以分享破解的remini ipa吗？我发现的每一个新的 ipa 都在要钱。    由   提交/u/abdullah0340   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cvk8qd/all_remini_cracked_ipa_from_any_source_are_asking/</guid>
-      <pubDate>Sun, 19 May 2024 09:17:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
