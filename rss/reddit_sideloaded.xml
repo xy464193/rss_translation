@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Tue, 21 May 2024 06:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 09:09:06 GMT</lastBuildDate>
+    <item>
+      <title>如何在 ios 17.4.1 上不受国家/地区限制地使用 tiktok</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cx1f6x/how_can_i_use_tiktok_on_my_ios_1741_without/</link>
+      <description><![CDATA[[crosspost] 最近从 android 切换到 ios，我无法再通过在线可用的 mod apk 下载 tiktok（tt 已被禁止）我生活的地方）。我完全不知道什么是越狱、侧载、IPA 和调整，我真的非常需要访问我的 tiktok 帐户 😭😭 所以如果有人可以引导我完成它或者链接一个关于如何在我的手机上获取 tiktok 的详细教程，非常感谢！   由   提交 /u/satiisavitri   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cx1f6x/how_can_i_use_tiktok_on_my_ios_1741_without/</guid>
+      <pubDate>Tue, 21 May 2024 06:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>在应用程序中打开修复？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwzp98/open_in_app_fix/</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 20 May 2024 19:41:05 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法将修改后的 .app 文件转换为 .ipa 文件？ （我用的是mac）</title>
+      <title>有没有办法将我修改后的 .app 文件转换为 .ipa 文件？（我用的是 Mac）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwoboz/is_there_a_way_to_convert_my_modified_app_file_to/</link>
       <description><![CDATA[我唯一尝试过的是创建一个名为 Payload 的文件夹，将我的 .app 文件放入该文件夹中，将该文件夹压缩为 zip 文件，并将 .zip 文件更改为 .ipa。问题是它会立即损坏文件。    由   提交 /u/TheNeed4Speed   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cwoboz/is_there_a_way_to_convert_my_modified_app_file_to/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>目前最好的侧载应用程序是什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwo0ry/what_are_the_best_sideloading_apps_right_now/</link>
-      <description><![CDATA[Sidestore？Altstore？Sideloadly？Scarlet？您使用哪一个，为什么？    由    /u/abandonliberty 提交   [link] [comments]]]></description>
+      <description><![CDATA[侧存储？旧商店？侧载？猩红？您使用哪一个，为什么？   由   提交/u/abandonliberty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cwo0ry/what_are_the_best_sideloading_apps_right_now/</guid>
       <pubDate>Mon, 20 May 2024 19:25:44 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Mon, 20 May 2024 16:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>我被 Kamo hacks 静音了</title>
+      <title>我被卡莫黑客静音了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cwjqld/i_js_got_muted_by_kamo_hacks/</link>
-      <description><![CDATA[他们偷了 ppsspp 的黄金通行证，除了支持开发人员之外，它什么也不做，我因为说它搞砸了而被静音，然​​后管理员静音了后来我屏蔽了我，我在服务器和管理员中都有 IPA 的 SS，所以如果 Kamo 的任何人看到这个 JS 就知道管理员和你站在他一边操你。   由   提交 /u/itachithagod   [链接] [评论]]]></description>
+      <description><![CDATA[他们偷了 ppsspp 的黄金通行证，除了支持开发者之外什么都没做，我因为说它搞砸了而被静音，然​​后静音我的管理员随后屏蔽了我，我拥有服务器中的 ipa 和管理员的 ss，所以如果 kamo 的任何人看到这个 js，知道他妈的那个管理员，如果你站在他那边，操你。    提交人    /u/itachithagod   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cwjqld/i_js_got_muted_by_kamo_hacks/</guid>
       <pubDate>Mon, 20 May 2024 16:28:45 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>您使用付费证书还是免费方法？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cw0ni2/do_you_use_paid_certificates_or_free_methods/</link>
-      <description><![CDATA[你们中有多少人真正使用付费证书？实际上我只使用了 3 个修改后的应用程序，所以还没有购买任何证书。我的设备已列入黑名单，我不想再次格式化所有内容以安装设计，而设计可能随时被撤销。所以我正在侧面使用。它不是那么方便，但它确实有效。    由   提交 /u/EloneMusk   [链接] [评论]]]></description>
+      <description><![CDATA[你们中有多少人真正使用付费证书？实际上我只使用了 3 个修改过的应用程序，所以还没有购买任何证书。我的设备已列入黑名单，我不想再次格式化所有内容以安装设计，而设计可能随时被撤销。所以我正在侧面使用。它不是那么方便，但它确实有效。    由   提交 /u/EloneMusk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cw0ni2/do_you_use_paid_certificates_or_free_methods/</guid>
       <pubDate>Sun, 19 May 2024 22:48:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[或者它们都被检测到了吗？   由   提交/u/Purple_Belt8555   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cvxwnk/any_current_snapchat_ipas/</guid>
       <pubDate>Sun, 19 May 2024 20:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>龙谷</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cvtvco/dragonvale/</link>
-      <description><![CDATA[请问有人可以将名为 Dragonvale 的游戏更新到最新的游戏更新吗，自 2018 年以来就没有更新过，我真的很怀念这款游戏   由   提交/u/74Azu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cvtvco/dragonvale/</guid>
-      <pubDate>Sun, 19 May 2024 17:44:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
