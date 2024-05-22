@@ -3,19 +3,33 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Wed, 22 May 2024 06:12:00 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Wed, 22 May 2024 09:09:25 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何免费的侧载服务可以允许删除最新 ios 上的embedded.mobileprovision 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cxv6ss/is_there_any_free_sideloading_service_that_allows/</link>
+      <description><![CDATA[我的朋友在 snapchat 上被禁止硬件，请我帮助绕过禁令，我暂时退出 appdb 来绕过禁令。，我也是硬件在 snapchat 上被禁止，但使用 trollstore 上的应用程序管理器可以绕过禁令，但它们使用的是最新版本的 ios，因此 trollstore 不是一个选择。由于appdb始终被撤销，是否有一个免费服务支持最新版本并且不会一直被撤销，例如altstore，它允许您删除此文件，以便我可以安装snapchat的修改版本   由   提交/u/Pv3d_123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cxv6ss/is_there_any_free_sideloading_service_that_allows/</guid>
+      <pubDate>Wed, 22 May 2024 08:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>主播兑换码</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cxuxeb/streamer_redeem_code/</link>
+      <description><![CDATA[有人有流媒体应用程序的备用兑换码吗？谢谢   由   提交 /u/fololologrt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cxuxeb/streamer_redeem_code/</guid>
+      <pubDate>Wed, 22 May 2024 08:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>降级iOS版本</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxta1q/downgrading_ios_version/</link>
-      <description><![CDATA[嗨！我想知道是否可以将我的操作系统降级到可以越狱的版本。我有一台 iPhone 13，运行版本为 17.3.1。如果不可能，有没有办法摆脱“请更新您的手机”的提示？通知？我目前使用 maplesign 进行侧载（如果我可以这样做的话），当涉及到所有这些东西时，我是一个菜鸟。抱歉，如果这是一个愚蠢的问题，如果有帮助，我可以提供更多信息。    由   提交/u/Maxie570  [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我想知道是否可以将我的操作系统降级为可以越狱的版本。我的 iPhone 13 版本为 17.3.1。如果不可能，有没有办法摆脱“请更新您的手机”通知？我目前使用 maplesign 进行侧载，如果我能用这种方式做任何事情，我对所有这些东西都是菜鸟。抱歉，如果这是一个愚蠢的问题，我可以提供更多信息，如果它有帮助。     提交人    /u/Maxie570   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxta1q/downgrading_ios_version/</guid>
       <pubDate>Wed, 22 May 2024 06:03:31 GMT</pubDate>
     </item>
     <item>
       <title>为什么人们不使用巨魔商店！？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxs2t7/why_dont_people_use_trollstore/</link>
-      <description><![CDATA[这有什么问题吗？听起来像是侧载的最佳选择，但没人提到过它    提交人    /u/Grey1p   [link] [comments]]]></description>
+      <description><![CDATA[有什么问题吗？听起来像是侧面加载的最佳选择，但没有人提到它   由   提交 /u/Grey1p   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxs2t7/why_dont_people_use_trollstore/</guid>
       <pubDate>Wed, 22 May 2024 04:47:12 GMT</pubDate>
     </item>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 22 May 2024 00:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>UYouEnhanced 黑屏</title>
+      <title>UYou增强黑屏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxm44s/uyouenhanced_black_screen/</link>
       <description><![CDATA[安装了 uYouEnhanced 并出现黑屏 刚刚使用 Git 上可用的最新版本构建了我自己的 uYouEnhanced 的过程。构建/安装进展顺利，应用程序似乎在大多数情况下都运行良好。当我第一次打开它或刷新所有视频时，我看到的屏幕大部分是黑屏。如果我向下滚动，则视频缩略图将加载，或者如果我从“全部”切换到“新的”，它们将加载。关于为什么我必须这样做才能填充视频有什么想法吗？如果我打开从 App Store 下载的 YouTube，则不需要。 谢谢   由   提交/u/rogue26a  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxm44s/uyouenhanced_black_screen/</guid>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 23:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>使用 iTunes 下载 IPA 好吗？</title>
+      <title>使用itunes下载IPA好用吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxk6s0/is_downloading_ipas_using_itunes_good/</link>
       <description><![CDATA[上下文，它会擦除​​您的手机吗..？我真的不想擦除我的手机..   由   提交/u/braydenwashere_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxk6s0/is_downloading_ipas_using_itunes_good/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>需要 Spotify/Deezer 方面的帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxdzqd/need_help_with_spotifydeezer/</link>
-      <description><![CDATA[嗨！我是 iPhone 新手，我想知道如何在我的手机上下载 deezer 或 Spotify Premium（只要下载音乐选项可用）。 我有一台可以用于侧载的 PC，但我需要帮忙吧，因为我读过的很多东西已经很旧了。如果可能的话，免费且没有 7 天限制，除非我可以通过手机延长。    由   提交 /u/defnotmila   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我是 iPhone 新手，我想知道如何在手机上下载 Deezer 或 Spotify Premium（只要有下载音乐选项）。 我有一台可以用于侧载的 PC，但我需要帮助，因为我读过的很多东西已经很旧了。如果可能的话，免费，没有 7 天限制，除非我可以通过手机延长。    提交人    /u/defnotmila   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxdzqd/need_help_with_spotifydeezer/</guid>
       <pubDate>Tue, 21 May 2024 17:49:30 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>旁加载 Apple ID 错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxb7co/sideloadly_apple_id_error/</link>
-      <description><![CDATA[第一次使用 sideloadly 用户，我尝试将 IPA 文件从我的 macbook pro 侧面加载到我的手机上，但我不断收到此错误，提示我的apple id 或密码不正确：安装失败：Guru Meditation 登录失败 (-22406)：您的 Apple ID 或密码不正确。 我查看了一些旧帖子，但我发现的所有修复均适用于任一 Windows或者他们使用的 Itunes 现在在 Mac 上不可用，有人知道修复方法吗？   由   提交 /u/RandomStupidReddit   [链接] [评论]]]></description>
+      <description><![CDATA[我是第一次使用 sideloadly，我试图从我的 macbook pro 将 IPA 文件侧载到我的手机上，但我一直收到此错误，提示我的 apple id 或密码不正确：安装失败：Guru Meditation 登录失败 (-22406)：您的 Apple ID 或密码不正确。 我看了一些旧帖子，但我发现的所有修复方法要么针对 Windows，要么使用 iTunes，而 iTunes 现在在 mac 上不可用，有人知道该如何修复吗？    提交人    /u/RandomStupidReddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxb7co/sideloadly_apple_id_error/</guid>
       <pubDate>Tue, 21 May 2024 15:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 开发人员</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cx79ts/apple_developer/</link>
-      <description><![CDATA[我昨天刚买了 Apple Developer，想知道激活需要多长时间？我在网站上看到 48 小时，但如果没有激活，请在 24 小时内联系？这是我第一次这样做……    由   提交  /u/Inevitable-Bit-9571   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cx79ts/apple_developer/</guid>
-      <pubDate>Tue, 21 May 2024 12:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚接触侧载，有人可以帮忙吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cx63uh/new_to_sideloading_can_someone_please_help_out/</link>
-      <description><![CDATA[正如标题所说，我是侧载新手，而且我一直在努力做任何事情。 我尝试过下载所有的Altstore、Cydia和Sideloadly，但由于我严格的父母，我的APPLE ID已将Ben设置为未成年（这禁止我下载这些东西） 除此之外，我还尝试过Scarlet（得到了已撤销）、Esign（应用程序无法打开）和 Flekstore（需要付费）。我真的很难通过免费的方式取得进步。 有人可以帮助我吗？也许其他旁加载应用程序可以工作？   由   提交/u/JJJuly07  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cx63uh/new_to_sideloading_can_someone_please_help_out/</guid>
-      <pubDate>Tue, 21 May 2024 11:58:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
