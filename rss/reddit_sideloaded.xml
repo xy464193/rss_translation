@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 22 May 2024 09:09:25 GMT</lastBuildDate>
+    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
+    <lastBuildDate>Wed, 22 May 2024 12:15:26 GMT</lastBuildDate>
+    <item>
+      <title>迪泽IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cxvyet/deezer_ipa/</link>
+      <description><![CDATA[谁想要一个相当新的 IPA DEEZER 链接（例如 eevee for Spotify）  &amp; #32；由   提交 /u/ReplacementJolly7939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cxvyet/deezer_ipa/</guid>
+      <pubDate>Wed, 22 May 2024 09:17:26 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何免费的侧载服务可以允许删除最新 ios 上的embedded.mobileprovision 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxv6ss/is_there_any_free_sideloading_service_that_allows/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>降级iOS版本</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxta1q/downgrading_ios_version/</link>
-      <description><![CDATA[嗨！我想知道是否可以将我的操作系统降级为可以越狱的版本。我的 iPhone 13 版本为 17.3.1。如果不可能，有没有办法摆脱“请更新您的手机”通知？我目前使用 maplesign 进行侧载，如果我能用这种方式做任何事情，我对所有这些东西都是菜鸟。抱歉，如果这是一个愚蠢的问题，我可以提供更多信息，如果它有帮助。     提交人    /u/Maxie570   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我想知道是否可以将我的操作系统降级到可以越狱的版本。我有一台 iPhone 13，运行版本为 17.3.1。如果不可能，是否有办法摆脱“请更新您的手机”的提示？通知？我目前使用 maplesign 进行侧载（如果我可以这样做的话），当涉及到所有这些东西时，我是一个菜鸟。抱歉，如果这是一个愚蠢的问题，如果有帮助，我可以提供更多信息。    由   提交/u/Maxie570  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxta1q/downgrading_ios_version/</guid>
       <pubDate>Wed, 22 May 2024 06:03:31 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>需要 Spotify/Deezer 方面的帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cxdzqd/need_help_with_spotifydeezer/</link>
-      <description><![CDATA[嗨！我是 iPhone 新手，我想知道如何在手机上下载 Deezer 或 Spotify Premium（只要有下载音乐选项）。 我有一台可以用于侧载的 PC，但我需要帮助，因为我读过的很多东西已经很旧了。如果可能的话，免费，没有 7 天限制，除非我可以通过手机延长。    提交人    /u/defnotmila   [link] [评论]]]></description>
+      <description><![CDATA[嗨！我是 iPhone 新手，我想知道如何在我的手机上下载 deezer 或 Spotify Premium（只要下载音乐选项可用）。 我有一台可以用于侧载的 PC，但我需要帮忙吧，因为我读过的很多东西已经很旧了。如果可能的话，免费且没有 7 天限制，除非我可以通过手机延长。    由   提交 /u/defnotmila   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxdzqd/need_help_with_spotifydeezer/</guid>
       <pubDate>Tue, 21 May 2024 17:49:30 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我越狱了我的 iphone 6 (ios 12.5.7) 并使用 filza 安装了 appsync 来安装我在互联网档案中找到的 Minecraft 1.12.1 IPA 和它安装得很好，但是当我打开它时，它几乎立即在加载屏幕上崩溃，所以然后我尝试使用 altstore 和同样的问题，安装完美，但几乎立即崩溃，有人可以帮助我吗？我不需要更新或旧的版本，我需要确切地获得 1.12.1   由   提交/u/Big-Move7337  /u/Big-Move7337 reddit.com/r/sideloaded/comments/1cxc4qp/minecraft_1121_crashing_at_the_loading_screen/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cxc4qp/minecraft_1121_crashing_at_the_loading_screen/</guid>
       <pubDate>Tue, 21 May 2024 16:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>旁加载 Apple ID 错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cxb7co/sideloadly_apple_id_error/</link>
-      <description><![CDATA[我是第一次使用 sideloadly，我试图从我的 macbook pro 将 IPA 文件侧载到我的手机上，但我一直收到此错误，提示我的 apple id 或密码不正确：安装失败：Guru Meditation 登录失败 (-22406)：您的 Apple ID 或密码不正确。 我看了一些旧帖子，但我发现的所有修复方法要么针对 Windows，要么使用 iTunes，而 iTunes 现在在 mac 上不可用，有人知道该如何修复吗？    提交人    /u/RandomStupidReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cxb7co/sideloadly_apple_id_error/</guid>
-      <pubDate>Tue, 21 May 2024 15:52:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
