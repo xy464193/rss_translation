@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Thu, 23 May 2024 15:08:53 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Thu, 23 May 2024 18:11:10 GMT</lastBuildDate>
+    <item>
+      <title>这个设置还有效吗？我打开它，但这么多年了它还能工作吗？我仍然听到有关在 Spotify 低音炮上只播放相同歌曲串的帖子，这听起来很糟糕</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cyy4l0/does_this_setting_even_still_work_i_turn_it_on/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Jaded_Function_6642   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cyy4l0/does_this_setting_even_still_work_i_turn_it_on/</guid>
+      <pubDate>Thu, 23 May 2024 17:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Twitter 扩展中打开不再工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cyxlbu/open_in_twitter_extension_no_longer_working/</link>
+      <description><![CDATA[在 Twitter 扩展中打开可以正常工作，但几天前停止了。肯定是因为 Twitter 将所有内容都转移到了 x.com。有办法编辑扩展吗？   由   提交 /u/indimaha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cyxlbu/open_in_twitter_extension_no_longer_working/</guid>
+      <pubDate>Thu, 23 May 2024 16:52:19 GMT</pubDate>
+    </item>
     <item>
       <title>帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cysqhn/help/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如何在没有 Mac、没有 dev acc 的情况下签署应用程序。在 Ios 16 上。（Flexstore）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cyospi/how_to_sign_apps_with_no_mac_no_dev_acc_on_ios_16/</link>
-      <description><![CDATA[我想使用 Flexstore，但我需要一个证书才能旁加载，但我没有。我也没有 Mac 电脑或付费开发者帐户。请帮助我   由   提交/u/Aircool08  [链接] [评论]]]></description>
+      <description><![CDATA[我想使用 Flexstore，但我需要证书才能侧载，但我没有。我也没有 Mac 或付费开发者账户。请帮帮我    提交人    /u/Aircool08   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cyospi/how_to_sign_apps_with_no_mac_no_dev_acc_on_ios_16/</guid>
       <pubDate>Thu, 23 May 2024 09:35:40 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>寻找旧版本的drive advance ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cyo5my/looking_for_an_older_version_of_drive_ahead_ipa/</link>
-      <description><![CDATA[根据标题，寻找最好低于 2 的旧版本，只找到一个允许我安装但无法运行的版本，因为它说应用程序需要将针对 iOS 17、TIA 进行更新   由   提交/u/Beginning_Word6742   [链接] [评论]]]></description>
+      <description><![CDATA[根据标题，寻找最好低于 2 的旧版本，只找到一个允许我安装但无法运行的版本，因为它说应用程序需要针对 iOS 17、TIA 进行更新   由   提交/u/Beginning_Word6742   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cyo5my/looking_for_an_older_version_of_drive_ahead_ipa/</guid>
       <pubDate>Thu, 23 May 2024 08:49:17 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 07:00:52 GMT</pubDate>
     </item>
     <item>
-      <title>寻求一些指导</title>
+      <title>寻找一些指导</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cykfm5/looking_for_some_guidance/</link>
       <description><![CDATA[所以我最近开始使用 sideloadly，它确实是侧面加载的完美应用程序。我想侧载一些游戏，但我不知道该怎么做？如何将游戏文件转换为 .ipa 文件格式以进行 sideloadly？    由   提交 /u/Zealousideal_Arm751   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cykfm5/looking_for_some_guidance/</guid>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 22 May 2024 21:51:17 GMT</pubDate>
     </item>
     <item>
-      <title>apdb安全吗？</title>
+      <title>apdb 安全吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cy8bmx/is_apdb_safe/</link>
       <description><![CDATA[嗨！总的来说，我对侧载和 iOS 很陌生。我有一台 M1 iPad Air，想在上面安装一些游戏。我看到游戏是由不同的开发商发布的，那么从任何来源下载都安全吗？    由   提交 /u/Random_User_133   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cy8bmx/is_apdb_safe/</guid>
@@ -85,30 +99,16 @@
     <item>
       <title>AltStore 无效问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cy4fss/altstore_invalid_question/</link>
-      <description><![CDATA[我尝试侧载游戏 ipa，但 AltServer 说它无效  它可以通过 sideloadly 成功侧载，但如何从 altstore 刷新它    提交人    /u/alexanorak   [link] [comments]]]></description>
+      <description><![CDATA[我尝试侧载一个游戏ipa，但AltServer说无效 可以通过sideloadly成功侧载，但是如何我要从 altstore 刷新它吗   由   提交/u/alexanorak  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cy4fss/altstore_invalid_question/</guid>
       <pubDate>Wed, 22 May 2024 16:25:40 GMT</pubDate>
     </item>
     <item>
       <title>恢复以前的whatsapp版本iOS</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1cy440g/restoring_previous_whatsapp_version_ios/</link>
-      <description><![CDATA[您好， 您可能知道，whatsapp 最近发布了一个更新，使 UI 变得绿色且与众不同。我真的不喜欢它，想下载以前版本的 whatsapp。我读到，一旦我有 IPA 文件，我就可以使用&quot;AppTrans&quot; 来下载它。但我的问题是，我如何获取 IPA 文件？ 我是新手，以前从未这样做过，ChatGPT 告诉我这里有一个值得信赖的来源，因此非常感谢您的帮助。非常感谢！！！    提交人    /u/Ok-Metal-2063   [链接] [评论]]]></description>
+      <description><![CDATA[你好， 正如你所知，whatsapp 最近发布了一个更新，使 UI 变得绿色且与众不同。我真的不喜欢它并想下载以前版本的 Whatsapp。我读到，一旦我有了 IPA 文件，我就可以使用“AppTrans”下载它。但我的问题是，我如何获取 IPA 文件？ 我是新手，以前从未做过，ChatGPT 告诉我，这是一个值得信赖的来源，因此非常感谢您的帮助。非常感谢!!!   由   提交 /u/Ok-Metal-2063   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cy440g/restoring_previous_whatsapp_version_ios/</guid>
       <pubDate>Wed, 22 May 2024 16:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouPlus，无法搜索短裤</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cy1a2s/uyouplus_cannot_search_for_shorts/</link>
-      <description><![CDATA[在 uYouPlus 中，短裤通常工作正常，但我无法搜索短裤。我得到一个空屏幕。我必须更改某种设置吗？ uYouPlus版本3.0.3   由   提交/u/-ItWasntMe-  /u/-ItWasntMe- reddit.com/r/sideloaded/comments/1cy1a2s/uyouplus_cannot_search_for_shorts/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cy1a2s/uyouplus_cannot_search_for_shorts/</guid>
-      <pubDate>Wed, 22 May 2024 14:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有可以运行 infuse pro 的 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cy16la/anyone_got_ipa_for_a_working_infuse_pro/</link>
-      <description><![CDATA[我下载了一些 ipas，但它们似乎无法识别我下载的电影，也不给我保存或播放的选项   由   提交/u/Club-Quick  /u/Club-Quick  reddit.com/r/sideloaded/comments/1cy16la/anyone_got_ipa_for_a_working_infuse_pro/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cy16la/anyone_got_ipa_for_a_working_infuse_pro/</guid>
-      <pubDate>Wed, 22 May 2024 14:10:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
