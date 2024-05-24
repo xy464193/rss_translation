@@ -3,10 +3,52 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Fri, 24 May 2024 06:12:17 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Fri, 24 May 2024 09:10:12 GMT</lastBuildDate>
     <item>
-      <title>还会有人再做出如此华丽且令人惊叹的调整吗？ ablaze 和meltedcrayons 现在会崩溃，并且在没有越狱的情况下无法工作 - 由于内部ios 切换，无法侧面加载或trollstore。当然，它只是外观，没有功能，但这看起来很棒……</title>
+      <title>设计问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1czggdy/esign_issues/</link>
+      <description><![CDATA[嗨，我已经使用了好几天了，它工作得很好，但今天突然停止工作了。我尝试安装所有版本，只有一个版本有效（SunShine），但我一打开它就崩溃了。你有过这样的经历吗？   由   提交 /u/yamsei   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1czggdy/esign_issues/</guid>
+      <pubDate>Fri, 24 May 2024 09:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[求助] 我被列入黑名单了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1czgcbw/help_i_got_blacklisted/</link>
+      <description><![CDATA[      (ios 17.4.1) 所以昨天我用scarlet下载了一个叫osu的游戏，一切都很顺利，但一天后它停止工作，每当我想打开 OSU 或猩红色时就会弹出。我听人说这是被列入黑名单的情况？但我不明白。为什么我在欧盟时会被列入黑名单，而且我听说侧载现在在欧盟是合法的。有什么办法解决这个问题吗？有些人说“只需使用设计”，但我什至无法打开它，因为它说“完整性无法验证”。我该怎么做才能让 osu 再次工作？   由   提交 /u/Fiksiakosaurus   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1czgcbw/help_i_got_blacklisted/</guid>
+      <pubDate>Fri, 24 May 2024 08:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果会在不重置的情况下取消免费证书的黑名单吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1czfmj5/does_apple_unblacklist_free_certifs_without/</link>
+      <description><![CDATA[我已被列入黑名单，无法安装电子签名应用程序（带或不带遥测块）并且一般无法安装 Scarlet。大约一周后，苹果是否会在不重置的情况下取消黑名单免费证书？   由   提交 /u/10GSkpla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1czfmj5/does_apple_unblacklist_free_certifs_without/</guid>
+      <pubDate>Fri, 24 May 2024 08:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们能帮我吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1czfm6l/can_you_guys_help_me/</link>
+      <description><![CDATA[我一直在尝试在我的 iPhone 上从 github 下载 side store，但每次我解压文件时它只给我源代码。我不知道该怎么办。   由   提交/u/Gaelsoto1234987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1czfm6l/can_you_guys_help_me/</guid>
+      <pubDate>Fri, 24 May 2024 08:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助来解密较旧的 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1czer5k/need_help_to_decrypt_an_older_ipa/</link>
+      <description><![CDATA[我设法获取了我使用的应用程序 Splitwise 的旧版本，因为最新版本有错误。 问题因为我是通过 App Store 下载的，所以它是加密的，我无法侧面加载它。 谁能给我指出一个可以解密这个 ipa 的地方吗？我已经尝试过 iosgods/armconverter，但我需要一个 VIP 帐户才能从那里下载确切的版本（5.2.4）。 如果有人可以帮助我，我将非常感激。我有 ipa 和版本号。   由   提交/u/rohidroid  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1czer5k/need_help_to_decrypt_an_older_ipa/</guid>
+      <pubDate>Fri, 24 May 2024 07:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果音乐 (IPA)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1cze7va/apple_music_ipa/</link>
+      <description><![CDATA[请问谁有 IPA apple Music 链接吗？   由   提交 /u/ReplacementJolly7939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1cze7va/apple_music_ipa/</guid>
+      <pubDate>Fri, 24 May 2024 06:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>还会有人再做出如此华丽且令人惊叹的调整吗？ ablaze 和meltedcrayons 现在崩溃了，并且在没有越狱的情况下永远无法工作 - 由于内部ios 切换，无法侧面加载或trollstore。当然，它只是外观，没有功能，但这看起来很棒……</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1czda1k/will_anyone_ever_again_make_a_tweak_as_gorgeous/</link>
       <description><![CDATA[   /u/Jaded_Function_6642   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1czda1k/will_anyone_ever_again_make_a_tweak_as_gorgeous/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[我想使用 Flexstore，但我需要一个证书才能旁加载，但我没有。我也没有 Mac 电脑或付费开发者帐户。请帮助我   由   提交/u/Aircool08  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1cyospi/how_to_sign_apps_with_no_mac_no_dev_acc_on_ios_16/</guid>
       <pubDate>Thu, 23 May 2024 09:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管添加了 API 密钥，Apollo 仍无法加载到 Sidestore 中</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cyok5n/apollo_doesnt_load_in_sidestore_despite_adding/</link>
-      <description><![CDATA[ 由   提交 /u/Vicari0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cyok5n/apollo_doesnt_load_in_sidestore_despite_adding/</guid>
-      <pubDate>Thu, 23 May 2024 09:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找旧版本的drive advance ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cyo5my/looking_for_an_older_version_of_drive_ahead_ipa/</link>
-      <description><![CDATA[根据标题，寻找一个最好低于 2 的旧版本，只找到一个让我安装但无法运行的版本，因为它说应用程序需要针对 iOS 17、TIA 进行更新    提交人    /u/Beginning_Word6742   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cyo5my/looking_for_an_older_version_of_drive_ahead_ipa/</guid>
-      <pubDate>Thu, 23 May 2024 08:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一些指导</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cykfm5/looking_for_some_guidance/</link>
-      <description><![CDATA[所以我最近开始使用 sideloadly，它确实是侧面加载的完美应用程序。我想侧载一些游戏，但我不知道该怎么做？如何将游戏文件转换为 .ipa 文件格式以进行 sideloadly？    由   提交 /u/Zealousideal_Arm751   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cykfm5/looking_for_some_guidance/</guid>
-      <pubDate>Thu, 23 May 2024 04:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>并不重要</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cykcag/not_rly_important/</link>
-      <description><![CDATA[当新的证书发布时，有人可以告诉我吗，因为我试图获取设计，但它把我从当前的证书中列入了黑名单。谢谢   由   提交 /u/itachithagod   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cykcag/not_rly_important/</guid>
-      <pubDate>Thu, 23 May 2024 04:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在运行 iOS 8 的 iPhone 4s 上设计有替代方案吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cykaj4/is_there_an_alternative_for_esign_on_iphone_4s/</link>
-      <description><![CDATA[我正在尝试在旧 iPhone 上下载越狱程序     ;由   提交/u/Loud-Horror-3486   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cykaj4/is_there_an_alternative_for_esign_on_iphone_4s/</guid>
-      <pubDate>Thu, 23 May 2024 04:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载崩溃和过多的内存使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1cycecw/sideloadly_crash_ans_excesive_ram_usage/</link>
-      <description><![CDATA[嗨，我对所有这些东西都很陌生，我有一台苹果电视第 4 代和一台 Windows 计算机，我下载了 itunes 和 icloud，也是侧载的我注意到的第一件事是该应用程序使用 27GB 的内存，老兄 wtf，而且在我按下启动后，它只是冻结并在几秒钟后崩溃，我该如何解决这个问题？    由   提交 /u/DominicJackson4k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1cycecw/sideloadly_crash_ans_excesive_ram_usage/</guid>
-      <pubDate>Wed, 22 May 2024 21:51:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
