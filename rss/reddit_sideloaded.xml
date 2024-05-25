@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sat, 25 May 2024 15:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 18:10:28 GMT</lastBuildDate>
+    <item>
+      <title>请帮帮我</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d0fpud/helpmeplease/</link>
+      <description><![CDATA[操作无法完成。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.R0gub0/extracted/Payload/App.app 的代码签名：0xe8008016（可执行文件的签名为无效权利。）   由   提交/u/StoreMysterious4306   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d0fpud/helpmeplease/</guid>
+      <pubDate>Sat, 25 May 2024 16:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于我无法使用我的越狱设备，任何人都可以为我解密 ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d0fclo/can_anybody_decrypt_an_ipa_for_me_since_i_cant/</link>
+      <description><![CDATA[我正在寻找可以解密 ShortMax 的人，因为我无法使用我的越狱设备。我仍在努力修复它。不过，请帮助我。应用：https://apps.apple.com/bg/app/shortmax-watch- Dramas-show/id6464002625   由   提交 /u/chrissyyx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d0fclo/can_anybody_decrypt_an_ipa_for_me_since_i_cant/</guid>
+      <pubDate>Sat, 25 May 2024 16:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>有什么方法可以绕过musical.ly 登录吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0d2tf/any_way_to_get_around_musically_login/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>重新启动后设计应用程序。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0d055/esign_apps_after_reboot/</link>
-      <description><![CDATA[大家好， 所以，我刚刚拿到了一台运行 iOS 17.1.1 的新 iPad Air 5。由于它没有越狱功能，我尝试了此处的电子签名指南来旁加载一些应用程序。效果很好。  如果有人熟悉这种方法，我想问一些问题：  我注意到，系统重新启动后，签名的应用程序（以及 ESign 应用程序本身） ）不会启动。这有解决方法吗？或者每次重新启动后，您都必须再次执行所有步骤并从头开始安装每个应用程序？ ⁠我是否必须将未签名的应用程序保留在“应用程序”选项卡下？ （因为它们也在签名选项卡中）或者删除它们并节省一些空间是否安全？ 该指南包含一个包含多个 ESign 存储库的列表，非常好。还有更多带有最新破解的 ipas 的存储库吗？ （我正在专门寻找破解的“Panels”应用程序）  为阅读和任何回复干杯。  &amp;# 32；由   提交 /u/Lcfer   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我刚买了一台新的 iPad Air 5，系统是 iOS 17.1.1。由于无法越狱，我尝试了此处的 ESign 指南来侧载一些应用程序。效果很好。 如果有人熟悉这种方法，我想问几个问题：  我注意到，系统重启后，已签名的应用程序（和 ESign 应用程序本身）无法启动。有解决方法吗？还是每次重启后都必须重新执行所有步骤并从头开始安装每个应用程序？ ⁠我必须将未签名的应用程序保留在“应用程序”选项卡下吗？ （因为它们也在签名选项卡中）或者删除它们并节省一些空间是否安全？ 该指南包含多个 ESign 存储库列表，非常好。还有其他包含最新破解 ipas 的存储库吗？（我专门在寻找破解的“Panels”应用程序）  感谢您的阅读和回复。    提交人    /u/Lcfer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0d055/esign_apps_after_reboot/</guid>
       <pubDate>Sat, 25 May 2024 14:16:45 GMT</pubDate>
     </item>
     <item>
       <title>在移动配置文件仍然存在的情况下使用 Snapchat wicked 有什么风险</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0ctkd/what_is_the_risks_of_using_snapchat_wicked_with/</link>
-      <description><![CDATA[标题   由   提交/u/Pv3d_123  [链接] [评论]]]></description>
+      <description><![CDATA[标题    由   提交  /u/Pv3d_123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0ctkd/what_is_the_risks_of_using_snapchat_wicked_with/</guid>
       <pubDate>Sat, 25 May 2024 14:07:35 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>哎嗨</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0ajnq/hey_hi/</link>
-      <description><![CDATA[有人有 moviebox pro 代码吗！？这是如何工作的..对于在应用程序商店之外安装应用程序来说相当陌生..请原谅我的笨蛋   由   提交 /u/Business-Morning5762    reddit.com/r/sideloaded/comments/1d0ajnq/hey_hi/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[有人有 moviebox 专业版代码吗！？这是如何工作的..对于在应用程序商店之外安装应用程序来说相当陌生..请原谅我的笨蛋   由   提交 /u/Business-Morning5762    reddit.com/r/sideloaded/comments/1d0ajnq/hey_hi/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0ajnq/hey_hi/</guid>
       <pubDate>Sat, 25 May 2024 12:04:55 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Sat, 25 May 2024 09:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>谁能帮助我</title>
+      <title>谁能帮助我？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d07urk/who_can_help_me_plss/</link>
       <description><![CDATA[      请帮助我   由   提交 /u/SeveralPanda1514   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d07urk/who_can_help_me_plss/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>Sideloadly、SideStore、AltStore？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d078qi/sideloadly_vs_sidestore_vs_altstore/</link>
-      <description><![CDATA[我应该使用哪一个？   由   提交/u/puneet95  [链接] [评论]]]></description>
+      <description><![CDATA[我应该使用哪一个？    提交人    /u/puneet95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d078qi/sideloadly_vs_sidestore_vs_altstore/</guid>
       <pubDate>Sat, 25 May 2024 08:14:35 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[抱歉问了一些愚蠢的问题：iPhone 的 ipas 与 iPad 兼容吗？是否有特定的存储库可供我下载 Goodnotes 和此类应用程序？   由   提交/u/Mattia-Sinclair   /u/Mattia-Sinclair reddit.com/r/sideloaded/comments/1d038j2/are_there_any_specific_ipad_repos_to_sideload_from/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d038j2/are_there_any_specific_ipad_repos_to_sideload_from/</guid>
       <pubDate>Sat, 25 May 2024 03:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>H</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d02w4a/h/</link>
-      <description><![CDATA[为什么我不能使用 IOSgods 应用程序玩 LDoE hacked，它说它还没有在 iphone 15 pro 上，我想知道什么时候可以在 iPhone 15 Pro 上。   由   提交 /u/Whoopie_man217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d02w4a/h/</guid>
-      <pubDate>Sat, 25 May 2024 03:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我读过大量有关 Snapchat 应用程序的评论，而且我已经了解了。但有人知道，距离下一次修复还有多长时间？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1czz2mc/ive_read_a_ton_of_comments_regarding_snapchat/</link>
-      <description><![CDATA[耐心等待👾   由   提交 /u/Then_Ideal9167   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1czz2mc/ive_read_a_ton_of_comments_regarding_snapchat/</guid>
-      <pubDate>Fri, 24 May 2024 23:58:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
