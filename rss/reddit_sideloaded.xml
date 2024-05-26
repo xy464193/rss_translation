@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Sun, 26 May 2024 09:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 12:13:59 GMT</lastBuildDate>
+    <item>
+      <title>删除动态库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d0xj9z/delete_dylib/</link>
+      <description><![CDATA[有人可以从 Cypwn 上的 Spotify++v8.6.94 中删除 Volify 和 Greeinfy 吗？ https://ipa.cypwn.xyz/    ;由   提交 /u/Upbeat-Bird1389   /u/Upbeat-Bird1389 reddit.com/r/sideloaded/comments/1d0xj9z/delete_dylib/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d0xj9z/delete_dylib/</guid>
+      <pubDate>Sun, 26 May 2024 09:16:47 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify ipa 带歌词</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0wxjw/spotify_ipa_with_lyrics/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>我在使用 uYou 3.0.3 时遇到问题，打开应用程序时无法加载视频。帮助？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0vmsp/im_running_into_an_issue_with_uyou_303_where_no/</link>
-      <description><![CDATA[我会发布屏幕截图，但显然自动版主不赞成这样做。基本上，当我打开应用程序时，没有任何加载。这与我的连接（数据或 WiFi）无关，因为我已经做了很多测试。  我会坐在那里滚动灰色背景，直到最终弹出一个随机视频。尽管我认为它在技术上仍然有效，但这使得该应用程序更难使用。有什么帮助吗？   由   提交 /u/unusedwings   [链接] [评论]]]></description>
+      <description><![CDATA[我会发布一张截图，但显然自动审核器不赞成这样做。基本上，当我打开应用程序时，什么都没有加载。这与我的连接（数据或 WiFi）无关，因为我已经做了大量测试。  我会坐在那里滚动灰色背景，直到最终弹出一个随机视频。这让应用程序更难使用，尽管我猜它在技术上仍然有效。有什么帮助吗？    提交人    /u/unusedwings   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0vmsp/im_running_into_an_issue_with_uyou_303_where_no/</guid>
       <pubDate>Sun, 26 May 2024 06:54:07 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>Maplesign 应用程序与 Esign/Gbox</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0r3eq/maplesign_app_vs_esigngbox/</link>
-      <description><![CDATA[我已经在没有开发证书的情况下使用带有自动化快捷方式的 SideStore 进行侧载一段时间了。我正在考虑从 apptesters 购买一份终身证书，或者从 maplesign 购买 15.25 美元的证书。如果我从 Maplesign 购买一款，我将使用他们的应用程序。如果我从应用程序测试人员那里购买一个，我要么使用 Gbox，要么使用 nextdns 进行设计来阻止奇怪的连接。后者并不可取，因为我每天都使用 VPN，并且必须将我的 dns 流量路由到其他地方，这只是一个具有动态 ip 的皮塔饼。  对于使用过 maplesign 应用程序、esign 和 gbox 的人……我应该选择什么？谢谢！   由   提交/u/Sharp_Listen3436  [链接] [评论]]]></description>
+      <description><![CDATA[我已经使用 SideStore 和自动化快捷方式进行侧载一段时间了，没有开发证书。我正在考虑从 apptesters 购买终身证书或从 maplesign 购买 15.25 美元的证书。如果我从 maplesign 购买，我将使用他们的应用程序。如果我从 apptesters 购买，我将使用 Gbox 或 esign 和 nextdns 来阻止奇怪的连接。后者不是首选，因为我每天都使用 vpn，必须将我的 dns 流量路由到其他地方，这只会是动态 ip 的 pita。  对于使用过 maplesign 应用程序、esign 和 gbox 的人……我应该选择什么？谢谢！    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0r3eq/maplesign_app_vs_esigngbox/</guid>
       <pubDate>Sun, 26 May 2024 01:59:56 GMT</pubDate>
     </item>
     <item>
       <title>iTunes 12.6.3.6 不显示应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d0nn4w/itunes_12636_not_showing_apps/</link>
-      <description><![CDATA[      我尝试进入 iTunes 中的应用商店，但它不显示应用程序 :/ 它只是 iTunes 应用商店，但使用我的语言    提交人    /u/_thatlittleguy_   [link] [评论] ]]></description>
+      <description><![CDATA[       我尝试进入 itunes 中的应用程序商店，但它不显示应用程序 :/ 它只是 iTunes 应用商店，但使用的是我的语言   由   提交/u/_thatlittleguy_   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0nn4w/itunes_12636_not_showing_apps/</guid>
       <pubDate>Sat, 25 May 2024 22:48:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人知道为什么 SideStore 在 iPhone 备份 iCloud 上占用了 5GB 吗？我该如何释放这些空间？    提交人    /u/Dandusm   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d0jzcc/delete_sidestore_icloud_backup/</guid>
       <pubDate>Sat, 25 May 2024 19:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮帮我</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d0fpud/helpmeplease/</link>
-      <description><![CDATA[操作无法完成。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.R0gub0/extracted/Payload/App.app 的代码签名：0xe8008016（可执行文件的签名为无效权利。）   由   提交/u/StoreMysterious4306   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d0fpud/helpmeplease/</guid>
-      <pubDate>Sat, 25 May 2024 16:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
