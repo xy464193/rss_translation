@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
-    <description>一个致力于讨论可用于在 iOS 设备上旁加载而无需越狱的各种工具和应用程序的社区！</description>
-    <lastBuildDate>Mon, 27 May 2024 15:10:05 GMT</lastBuildDate>
+    <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
+    <lastBuildDate>Mon, 27 May 2024 18:11:15 GMT</lastBuildDate>
+    <item>
+      <title>EeveeSpotify 自动跳过歌曲问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1xvf5/eeveespotify_autoskips_songs_issue/</link>
+      <description><![CDATA[我使用的是最新版本 3.1，每次我尝试播放歌曲时，它都会自动跳过或停止。我尝试直接注入 .deb 也不起作用，是我的问题吗？你能帮忙的话，我会很高兴。我的版本是 17.5.0，我的版本是 11   由   提交 /u/HellRaphael   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1xvf5/eeveespotify_autoskips_songs_issue/</guid>
+      <pubDate>Mon, 27 May 2024 18:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>请有人给我发一个 Moviebox Pro 邀请码</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1x1z3/pls_someone_send_me_a_moviebox_pro_invite_code/</link>
+      <description><![CDATA[请有人向我发送 Moviebox Pro 邀请码。提前致谢！我会将人情转发&lt;3   由   提交 /u/MrA9X   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1x1z3/pls_someone_send_me_a_moviebox_pro_invite_code/</guid>
+      <pubDate>Mon, 27 May 2024 17:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapchat 绕过影子禁令</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1vm78/snapchat_bypass_shadow_ban/</link>
+      <description><![CDATA[我在 Snapchat Spotlight 上发帖，被错误地暗中封禁。我正在寻找一种使用 troll store 绕过暗中封禁的方法。有人提到你可以这样做，但他们没有回答如何做。如果有人知道，请告诉我！谢谢     提交人    /u/robbielevitz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1vm78/snapchat_bypass_shadow_ban/</guid>
+      <pubDate>Mon, 27 May 2024 16:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jitterbug 不生成配对文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1uzv0/jitterbug_not_generating_pair_file/</link>
+      <description><![CDATA[(MAC) 运行/打开 jitterbugpair 后，它在终端上运行脚本，然后说进程完成，但无论我运行多少次，它都赢了不生成单独的文件供我发送到我的手机。   由   提交/u/Evozh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1uzv0/jitterbug_not_generating_pair_file/</guid>
+      <pubDate>Mon, 27 May 2024 16:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>自从开始侧载以来，您必须拥有哪些 IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1ulut/what_are_you_must_have_ipas_ever_since_you/</link>
+      <description><![CDATA[只是想知道其他人在使用什么。我自己可能会发现一些有趣的东西。   由   提交/u/red_star_rising  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1ulut/what_are_you_must_have_ipas_ever_since_you/</guid>
+      <pubDate>Mon, 27 May 2024 15:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，我真的需要帮助如何在没有电脑的情况下下载 ipa 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d1u9vl/hi_i_really_need_help_how_to_download_ipa_files/</link>
+      <description><![CDATA[我需要帮助如何免费获取 dazzcam premium   由   提交/u/cadb_ury777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d1u9vl/hi_i_really_need_help_how_to_download_ipa_files/</guid>
+      <pubDate>Mon, 27 May 2024 15:33:58 GMT</pubDate>
+    </item>
     <item>
       <title>替代品商店问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d1rxe5/altstore_question/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>用于在 Windows 上将调整注入 ipas 的命令行工具</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d1r8ev/command_line_tool_for_injecting_tweaks_into_ipas/</link>
-      <description><![CDATA[具体来说，我需要一个可以通过编程方式交互的工具（所以不是 Sideloadly），可以处理将 .deb 文件注入 .IPA 文件，并且可在 Windows 上运行。有人知道这样的工具吗？我能找到的大多数东西要么需要在 Mac 上运行，要么只有 GUI。    提交人    /u/Trick-Minimum8593   [link] [评论]]]></description>
+      <description><![CDATA[具体来说，我需要一个可以通过编程方式交互的工具（所以不是 Sideloadly），它可以处理将 .deb 文件注入到 .IPA 文件中，并且适用于 Windows。有谁知道这样的工具吗？我能找到的大多数东西要么需要 Mac 才能运行，要么只有 GUI。   由   提交 /u/Trick-Minimum8593    reddit.com/r/sideloaded/comments/1d1r8ev/command_line_tool_for_injecting_tweaks_into_ipas/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d1r8ev/command_line_tool_for_injecting_tweaks_into_ipas/</guid>
       <pubDate>Mon, 27 May 2024 13:13:42 GMT</pubDate>
     </item>
@@ -50,7 +92,7 @@
     <item>
       <title>这游戏有人玩吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d1d045/dose_anyone_have_this_game/</link>
-      <description><![CDATA[https://apps.apple.com/us/app/le-parcours-parkour/id975483075    由   提交  /u/coolkid120566   [链接] [评论]]]></description>
+      <description><![CDATA[https:/ /apps.apple.com/us/app/le-parcours-parkour/id975483075   由   提交 /u/coolkid120566   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d1d045/dose_anyone_have_this_game/</guid>
       <pubDate>Sun, 26 May 2024 22:31:44 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>设备禁令</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d1b4gv/device_ban/</link>
-      <description><![CDATA[您好，我第二次在使用原始应用程序的 Snapchat 上遇到设备禁令。有什么办法可以让版本运行而不被禁止吗？或者至少让我再次正常使用 Snapchat 哈哈？  帮帮我吧😅🤞🏻   由   提交 /u/Justparty999   [链接] [评论]]]></description>
+      <description><![CDATA[您好，这是我第二次在使用原始应用时被设备禁用 Snapchat。有没有办法让某个版本不受禁用影响？或者至少让我可以再次正常使用 Snapchat 哈哈？ 帮帮我 😅🤞🏻    提交人    /u/Justparty999   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d1b4gv/device_ban/</guid>
       <pubDate>Sun, 26 May 2024 21:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 HDO 播放器中启用 PIP？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d1a5v6/is_there_a_way_to_enable_pip_in_hdo_player/</link>
-      <description><![CDATA[如果没有，是否有类似的具有 PIP 的应用程序？  &amp;# 32；由   提交 /u/Porncritic12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d1a5v6/is_there_a_way_to_enable_pip_in_hdo_player/</guid>
-      <pubDate>Sun, 26 May 2024 20:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 国际音标</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d1a5lp/instagram_ipa/</link>
-      <description><![CDATA[所以我想下载一个 instagram ipa，我正在寻找 dl instagram ipa，但我在任何地方都找不到它，我尝试下载其他版本，如 Rocket，但问题是它不允许我编辑消息，而且该应用程序看起来像旧版本，而且很糟糕，所以如果有人有 dl 或更新版本的 ipa 将非常感激  &amp;# 32；由   提交/u/ipn2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d1a5lp/instagram_ipa/</guid>
-      <pubDate>Sun, 26 May 2024 20:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是在 iOS 17.5 上下载最新版本《堡垒之夜》的可能方法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d1970c/is_this_a_possible_way_of_downloading_the_latest/</link>
-      <description><![CDATA[理论上，是否可以使用 altstore 将 apk 旁加载到 ipa 转换器，然后下载 Fortnite 的 apk 版本并将其放入转换器应用程序中？然后使用 altstore 安装 ipa。可能吗？   由   提交 /u/Techontopfr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d1970c/is_this_a_possible_way_of_downloading_the_latest/</guid>
-      <pubDate>Sun, 26 May 2024 19:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道如何从 musixmatch 获取用户令牌并使用 MITM 提取令牌</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d18wku/does_anyone_know_how_to_get_the_user_token_from/</link>
-      <description><![CDATA[我不知道 MITM 是什么？这是一个计算机应用程序还是您可以在移动设备上使用。   由   提交 /u/Then_Medium2424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d18wku/does_anyone_know_how_to_get_the_user_token_from/</guid>
-      <pubDate>Sun, 26 May 2024 19:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>列入黑名单？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d18fmb/blacklisted/</link>
-      <description><![CDATA[我在两周前得到了我的第一个侧载应用程序/游戏，结果非常棒！直到我打开一个名为 iOSGameGod.com 的应用程序，所有旁加载的应用程序都被列入黑名单。谁能告诉我为什么？我应该使用某种侧面加载应用程序吗？ 详细信息：我用于侧面加载的应用程序：appDB 应用程序我侧面加载：Terraria    ;由   提交 /u/SushiBirdyGoldy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d18fmb/blacklisted/</guid>
-      <pubDate>Sun, 26 May 2024 18:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让 Spotilife 使用已签名的安装程序快捷方式？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d15tja/how_do_i_get_spotilife_to_work_on_the_signed/</link>
-      <description><![CDATA[每当我尝试安装时，它都会说无法安装并“请稍后再试”。     由   提交  /u/autistic_prodigy28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d15tja/how_do_i_get_spotilife_to_work_on_the_signed/</guid>
-      <pubDate>Sun, 26 May 2024 17:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
