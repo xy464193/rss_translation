@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 29 May 2024 06:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 09:09:52 GMT</lastBuildDate>
+    <item>
+      <title>我还需要使用 vpn 来进行带电子签名的 torrent 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d37jds/do_i_still_need_a_vpn_to_torrent_with_esign/</link>
+      <description><![CDATA[如果我这样做，会不会影响电子签名 DNS 配置文件？    提交人    /u/prestonfrank480   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d37jds/do_i_still_need_a_vpn_to_torrent_with_esign/</guid>
+      <pubDate>Wed, 29 May 2024 08:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有问题并且下一步怎么做？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d36kyo/questions_and_next_steps/</link>
+      <description><![CDATA[大家好，希望你们一切顺利。多年来，我一直在使用 Appdb 和白金 UDID 注册配置文件进行侧载，但最近我觉得 Appdb 上的应用程序没有更新太多，即使他们试图澄清这一点，用户界面也变得相当混乱。我有几个问题，现在该怎么做才能在应用程序通知和签署的附加权利方面获得相同类型的体验，以及我该去哪里获取更新的 ipas 1) 除了 Appdb 之外，我还可以在哪些其他客户端上使用 Repos？ 2) 在哪里可以找到定期更新的 ipas/它们在哪些 repos 上？ 3) 我将如何在其他客户端/应用程序上设置我的 Udid 注册配置文件并获取通知？ 我提前感谢您的时间和信息。谢谢。     由    /u/PrivateUserDoe 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d36kyo/questions_and_next_steps/</guid>
+      <pubDate>Wed, 29 May 2024 07:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ios 12.5.7 版 Procreate 崩溃问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d368rm/procreate_crash_problem_for_ios_1257/</link>
+      <description><![CDATA[大家好 我有一台旧的 ipad，它有 1 GB 的 RAM，操作系统是 12.5.7 我安装了 Procreate ipa，它是 procreate 4.3.9 版本 我可以安装它，但是当我打开 procreate 应用程序时 它会崩溃并关闭应用程序， 有谁知道它的问题是什么或者知道如何解决这个问题吗？ 非常感谢！ 祝一切顺利！    提交人    /u/Alarmed-Ad9299   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d368rm/procreate_crash_problem_for_ios_1257/</guid>
+      <pubDate>Wed, 29 May 2024 07:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 scarlet 直接安装时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d35nz2/problem_using_scarlet_direct_install/</link>
+      <description><![CDATA[嘿，抱歉我的英语不好，这不是我的母语。最近我使用 usescarlet 网站下载了 Scarlet，我选择了第一个直接安装。今天，我的应用程序停止工作了。起初我以为这是正常的，我需要每 7 天重新安装一次，我试过了，但没有用（一个新的 scarlet 应用程序没有安装图标，我无法启动它，因为“无法验证完整性”）。之后，我认为问题来自 Scarlet 服务器，我对此无能为力，只能等待。但现在我不确定，因为它似乎对我的朋友来说运行良好。请帮助我，谢谢阅读    提交人    /u/Typical-Passenger161   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d35nz2/problem_using_scarlet_direct_install/</guid>
+      <pubDate>Wed, 29 May 2024 06:36:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用自己的证书侧载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d35jvh/how_do_i_sideload_apps_with_my_own_certificate/</link>
+      <description><![CDATA[我正在尝试侧载 Scarlet 和 Esign，但它们已被撤销(?)，而且我也无法通过 Sideloadly 安装它们。如何在没有它们的情况下使用自己的证书安装应用程序？    提交人    /u/TelevisionSuper4495   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d35jvh/how_do_i_sideload_apps_with_my_own_certificate/</guid>
+      <pubDate>Wed, 29 May 2024 06:28:47 GMT</pubDate>
+    </item>
     <item>
       <title>有人能帮助我吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d34lmz/someone_can_help_me/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>EeveeSpotify v3.2 发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d2p3aj/eeveespotify_v32_release/</link>
-      <description><![CDATA[PS：v4.0 已发布，不是 v3.2。 ・动态高级修补！该调整现在可以拦截 Spotify 请求以加载用户数据、对其进行反序列化并实时修改参数。您可以在 EeveeSpotify 设置中选择动态 Premium 修补方法。 ・不修补 Premium 选项（适用于拥有有效 Premium 订阅的用户） ・重置数据选项 ・修复了本机弹出窗口白色背景错误 ・修复了应用程序关闭时在应用程序中打开 Spotify 链接的问题 下载 Inject.deb Inject.deb,Sposify    由   提交  /u/Upbeat-Bird1389   [链接] [评论]]]></description>
+      <description><![CDATA[PS：v4.0 已发布，不是 v3.2。 ・动态高级修补！该调整现在可以拦截 Spotify 请求以加载用户数据、对其进行反序列化并实时修改参数。您可以在 EeveeSpotify 设置中选择动态 Premium 修补方法。 ・不修补 Premium 选项（适用于拥有有效 Premium 订阅的用户） ・重置数据选项 ・修复了本机弹出窗口白色背景错误 ・修复了应用程序关闭时在应用程序中打开 Spotify 链接的问题 下载 Inject.deb(SpotveeC) Inject.deb,Sposify,OpenSpotifySafariExtension(SpotC++)    由    /u/Upbeat-Bird1389  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d2p3aj/eeveespotify_v32_release/</guid>
       <pubDate>Tue, 28 May 2024 17:28:42 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[嗨， 我按照此子版块中的一个很好的教程操作，只需使用带有 E-Sign 的亚洲证书即可侧载应用程序。 我自己测试成功后，我的朋友也会使用它。但他担心所有这些亚洲证书。 有人可以从技术上解释我是否可以使用这些证书启用对我手机的访问吗？ 谢谢！    提交人    /u/danielblogo55   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d2oz3m/are_the_free_certificates_in_esign_safe_to_use/</guid>
       <pubDate>Tue, 28 May 2024 17:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>大师冥想 b4822c@1701:a26021 [Errno 2]</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d2n4sw/guru_meditation_b4822c1701a26021_errno_2/</link>
-      <description><![CDATA[  由    /u/20h30  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d2n4sw/guru_meditation_b4822c1701a26021_errno_2/</guid>
-      <pubDate>Tue, 28 May 2024 16:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用哪种侧载软件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d2m50a/what_sideloading_software_should_i_use/</link>
-      <description><![CDATA[正如 titke 所说，我使用的是 ios 17.4，目前只使用 scarlet，但 scarlet 太烂了。我有一台电脑，所以如果需要，我可以使用电脑方法    提交人    /u/itachithagod   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d2m50a/what_sideloading_software_should_i_use/</guid>
-      <pubDate>Tue, 28 May 2024 15:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助进行 toca life 侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d2lmyh/need_help_with_toca_life_side_loading/</link>
-      <description><![CDATA[所以我使用 sideloadly 下载了 toca life yk 的 modded(?) 版本，其中所有东西都是买来的，但我想知道是否有人知道更新版本的 ipa?? 我使用的 ipa 拥有除房屋配件之外的所有东西，它是 v1.79 而不是最新的 1.88 ，是否有包含所有家具的版本？从技术上讲，这更像是一个特定的应用程序问题，但这似乎是最合适的提问地点，如果有人回复，谢谢！    提交人    /u/Ambitious_Gene_3813   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d2lmyh/need_help_with_toca_life_side_loading/</guid>
-      <pubDate>Tue, 28 May 2024 15:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>第二个 WhatsApp 欧洲 - 替代商店 / 侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d2kfra/second_whatsapp_europe_alternative_store_sideload/</link>
-      <description><![CDATA[大家好， 我想在我的 iPhone 上为我的另一个个人号码安装第二个 WhatsApp，想知道最好的方法是什么？ 我相信现在可以在欧盟安装和侧载第三方应用程序，但如何安装以及从哪里安装？ WhatsApp Business 对我来说不是一个选择，因为我有专用于该帐户的工作号码。 非常感谢    提交人    /u/the_rari_atari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d2kfra/second_whatsapp_europe_alternative_store_sideload/</guid>
-      <pubDate>Tue, 28 May 2024 14:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iPhone 6s iOS 15.8 上安装 trollstore 时出现问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d2k7nl/problem_with_installing_trollstore_on_iphone_6s/</link>
-      <description><![CDATA[我正尝试在 iOS 15.8 上越狱我的 iPhone 6s 根据 ios.cfw.guide，我需要先安装 trollstore，但我一直遇到问题。无论是使用 sideloadly 还是 altstore，我都只能在 trollinstalerX 出现在我的主屏幕上时才能到达。我可以在设置中信任开发人员，但应用程序“未经验证”，我无法通过单击“验证”来验证它，所以我无法启动它。  我的互联网连接很好，我在 sideloadly/altstore 中使用自己的 AppleID，我使用的 trollinstalerX ipa 是直接从官方 GitHub 链接下载的。我真的不知道问题是什么。 我是否遗漏了任何步骤？我该怎么办？    由    /u/HipHistorian 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d2k7nl/problem_with_installing_trollstore_on_iphone_6s/</guid>
-      <pubDate>Tue, 28 May 2024 14:02:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
