@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 30 May 2024 00:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 03:09:39 GMT</lastBuildDate>
+    <item>
+      <title>有人有摔跤节吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d3tjgc/does_anyone_have_wrestlefest/</link>
+      <description><![CDATA[2012 年 iOS 版本？    提交者    /u/KingHippo81   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d3tjgc/does_anyone_have_wrestlefest/</guid>
+      <pubDate>Thu, 30 May 2024 02:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以将数据从侧载应用程序传输到使用不同签名的同一应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d3rtfn/can_i_transfer_data_from_a_sideloaded_app_to_the/</link>
+      <description><![CDATA[我使用 Scarlet 侧载了 Infinity Blade 2，因为它有 1GB 以上，而 SideStore 不会侧载大于 1GB 的应用程序。 但是应用程序被撤销了，所以我使用 AltStore 侧载了 Infinity Blade 2 作为临时修复，直到 Scarlet 获得新的证书。 由于我使用不同的签名侧载了 Infinity Blade 2，因此该应用程序作为新应用程序侧载。 我想知道我是否能够将数据从 Scarlet 签名的应用程序传输到 Altstore 签名的应用程序。 谢谢。    提交人    /u/AwesomeBros132   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d3rtfn/can_i_transfer_data_from_a_sideloaded_app_to_the/</guid>
+      <pubDate>Thu, 30 May 2024 01:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载指南</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d3rp0y/sideloading_guide/</link>
+      <description><![CDATA[大家好！ 我最近买了一部 iPhone 13，我想将应用程序侧载到其中，即无广告的 spotify 和 youtube，但我在 subreddit 上找不到这样做的分步指南......有人可以帮忙吗？提前谢谢了！！    提交人    /u/throwthisaway129   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d3rp0y/sideloading_guide/</guid>
+      <pubDate>Thu, 30 May 2024 00:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在我该怎么做？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d3roso/what_do_i_do_now/</link>
+      <description><![CDATA[多年来，我一直在使用 Appdb 和白金 UDID 注册配置文件进行侧载，但最近我觉得 Appdb 上的应用程序没有得到太多更新，即使他们试图澄清这一点，用户界面也变得相当混乱。我有几个问题，现在该怎么做才能在应用程序通知和签名的附加权利方面获得相同类型的体验，以及我应该去哪些存储库获取更新的 ipas 1) 除了 Appdb 之外，我还可以在哪些其他客户端上使用 Repos？ 2) 在哪里可以找到定期更新的 ipas/它们在哪些存储库上？ 3) 我应该如何在其他客户端/应用程序上设置我的 Udid 注册配置文件并获取通知？ 我提前感谢您的时间和信息。谢谢。   由    /u/PrivateUserDoe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d3roso/what_do_i_do_now/</guid>
+      <pubDate>Thu, 30 May 2024 00:57:36 GMT</pubDate>
+    </item>
     <item>
       <title>有谁有NBA 2K20吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d3qgc6/does_anyone_have_nba_2k20/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[如果我这样做，会不会影响电子签名 DNS 配置文件？    提交人    /u/prestonfrank480   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d37jds/do_i_still_need_a_vpn_to_torrent_with_esign/</guid>
       <pubDate>Wed, 29 May 2024 08:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有问题并且下一步怎么做？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d36kyo/questions_and_next_steps/</link>
-      <description><![CDATA[大家好，希望你们一切顺利。多年来，我一直在使用 Appdb 和白金 UDID 注册配置文件进行侧载，但最近我觉得 Appdb 上的应用程序没有更新太多，即使他们试图澄清这一点，用户界面也变得相当混乱。我有几个问题，现在该怎么做才能在应用程序通知和签署的附加权利方面获得相同类型的体验，以及我该去哪里获取更新的 ipas 1) 除了 Appdb 之外，我还可以在哪些其他客户端上使用 Repos？ 2) 在哪里可以找到定期更新的 ipas/它们在哪些 repos 上？ 3) 我将如何在其他客户端/应用程序上设置我的 Udid 注册配置文件并获取通知？ 我提前感谢您的时间和信息。谢谢。     由    /u/PrivateUserDoe 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d36kyo/questions_and_next_steps/</guid>
-      <pubDate>Wed, 29 May 2024 07:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>ios 12.5.7 版 Procreate 崩溃问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d368rm/procreate_crash_problem_for_ios_1257/</link>
-      <description><![CDATA[大家好 我有一台旧的 ipad，它有 1 GB 的 RAM，操作系统是 12.5.7 我安装了 Procreate ipa，它是 procreate 4.3.9 版本 我可以安装它，但是当我打开 procreate 应用程序时 它会崩溃并关闭应用程序， 有谁知道它的问题是什么或者知道如何解决这个问题吗？ 非常感谢！ 祝一切顺利！    提交人    /u/Alarmed-Ad9299   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d368rm/procreate_crash_problem_for_ios_1257/</guid>
-      <pubDate>Wed, 29 May 2024 07:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 scarlet 直接安装时出现问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d35nz2/problem_using_scarlet_direct_install/</link>
-      <description><![CDATA[嘿，抱歉我的英语不好，这不是我的母语。最近我使用 usescarlet 网站下载了 Scarlet，我选择了第一个直接安装。今天，我的应用程序停止工作了。起初我以为这是正常的，我需要每 7 天重新安装一次，我试过了，但没有用（一个新的 scarlet 应用程序没有安装图标，我无法启动它，因为“无法验证完整性”）。之后，我认为问题来自 Scarlet 服务器，我对此无能为力，只能等待。但现在我不确定，因为它似乎对我的朋友来说运行良好。请帮助我，谢谢阅读    提交人    /u/Typical-Passenger161   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d35nz2/problem_using_scarlet_direct_install/</guid>
-      <pubDate>Wed, 29 May 2024 06:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用自己的证书侧载应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d35jvh/how_do_i_sideload_apps_with_my_own_certificate/</link>
-      <description><![CDATA[我正在尝试侧载 Scarlet 和 Esign，但它们已被撤销(?)，而且我也无法通过 Sideloadly 安装它们。如何在没有它们的情况下使用自己的证书安装应用程序？    提交人    /u/TelevisionSuper4495   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d35jvh/how_do_i_sideload_apps_with_my_own_certificate/</guid>
-      <pubDate>Wed, 29 May 2024 06:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
