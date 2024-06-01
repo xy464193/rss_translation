@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 01 Jun 2024 00:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 03:10:54 GMT</lastBuildDate>
+    <item>
+      <title>更改 IPA 权限</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d5bxoi/changing_ipa_permissions/</link>
+      <description><![CDATA[我将 TrollStore 用于我的侧载应用。有没有办法更改 IPA 可以访问的权限（例如访问相机、照片等）？    提交人    /u/Avery-Bradley   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d5bxoi/changing_ipa_permissions/</guid>
+      <pubDate>Sat, 01 Jun 2024 01:43:52 GMT</pubDate>
+    </item>
     <item>
       <title>我应该买什么游戏？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d58q1g/what_games_should_i_get/</link>
-      <description><![CDATA[我获得 sidestore 主要是为了获得 Sonic Mania，但还有其他我可以侧载的游戏吗？    提交人    /u/Famous_Tadpole7157   [link] [comments]]]></description>
+      <description><![CDATA[我获得 sidestore 主要是为了获得 Sonic Mania，但还有其他我可以侧载的游戏吗？    提交人    /u/Famous_Tadpole7157   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d58q1g/what_games_should_i_get/</guid>
       <pubDate>Fri, 31 May 2024 23:00:48 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>AltStore 有 PS App 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d4t7w6/does_altstore_has_ps_app/</link>
-      <description><![CDATA[您好，PS App 在我的国家/地区不可用。如果我安装 AltStore，是否可以从那里下载？    提交人    /u/Lukasamba   [link] [comments]]]></description>
+      <description><![CDATA[您好，PS App 在我的国家/地区不可用。如果我安装 AltStore，可以通过那里下载吗？    提交人    /u/Lukasamba   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d4t7w6/does_altstore_has_ps_app/</guid>
       <pubDate>Fri, 31 May 2024 11:20:50 GMT</pubDate>
     </item>
     <item>
       <title>无法验证应用程序：需要网络连接。如何解决？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d4sv1w/unable_to_verify_app_internet_connection_required/</link>
-      <description><![CDATA[我的 iOS 版本是 17.5.1 每当我尝试使用 scarlet 时，它都会给我这个： 无法验证应用程序需要互联网连接来验证开发者“阳光保险集团股份有限公司”的信任。 验证之前，此应用程序将不可用。 即使 Scarlet 显然已经过验证并且开发者值得信赖，我该怎么办？    提交人    /u/IayZBoy   [link] [评论]]]></description>
+      <description><![CDATA[我的 iOS 版本是 17.5.1 每当我尝试使用 scarlet 时，它都会给我这个： 无法验证应用程序需要互联网连接来验证开发者“阳光保险集团股份有限公司”的信任。 验证之前，此应用程序将不可用。 即使 Scarlet 显然已经验证并且开发者值得信赖，我该怎么办？    提交人    /u/IayZBoy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d4sv1w/unable_to_verify_app_internet_connection_required/</guid>
       <pubDate>Fri, 31 May 2024 10:59:16 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[正如标题所述，每当我尝试自行刷新我的应用程序 spotify 时，我都会收到错误，但是当我手动刷新时，它可以工作，我希望它每隔几天或在任何时间自行刷新一次。    提交人    /u/dhyaan27   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d4obyc/sidloadly_error_failed_call_to_idevice_new_with/</guid>
       <pubDate>Fri, 31 May 2024 05:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 JIT 的一个愚蠢问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d4mm3n/stupid_question_regarding_jit/</link>
-      <description><![CDATA[我有一台装有 Termux 的 Android 电脑，如果我在上面运行 Ubuntu 或 Debian，安装了 SideJITServer 后 JIT 还能正常工作吗？另外，它是否需要 USB-C 转 Lightning 线缆？线缆能正常工作吗？    提交人    /u/10GSkpla   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d4mm3n/stupid_question_regarding_jit/</guid>
-      <pubDate>Fri, 31 May 2024 03:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
