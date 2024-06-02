@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 02 Jun 2024 06:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 09:09:47 GMT</lastBuildDate>
+    <item>
+      <title>UYouPlus 广告</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</link>
+      <description><![CDATA[我喜欢使用 iSponserBlock 的调整版本，但我讨厌其他每个视频中的广告。有什么办法可以摆脱它吗？ https://ibb.co/z8H50FJ    提交人    /u/azmattaz06   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</guid>
+      <pubDate>Sun, 02 Jun 2024 07:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决 Sidestore 中的此错误？我正在使用自己的 Anisette 服务器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d67dlu/how_can_i_resolve_this_error_in_sidestore_i_am/</link>
+      <description><![CDATA[minimuxer::heartbeat: 无法创建心跳客户端：未知错误    提交人    /u/Upbeat-Bird1389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d67dlu/how_can_i_resolve_this_error_in_sidestore_i_am/</guid>
+      <pubDate>Sun, 02 Jun 2024 06:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>.p12 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d678oh/p12_files/</link>
+      <description><![CDATA[为了简化，我使用 ipa 标志来使用 Play！模拟器，但无法找到有关获取 p12 文件的信息，有什么帮助吗？    由   提交  /u/Rigothepigo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d678oh/p12_files/</guid>
+      <pubDate>Sun, 02 Jun 2024 06:44:18 GMT</pubDate>
+    </item>
     <item>
       <title>救命！无法侧载到我的 iPad？？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d64o0y/help_cant_sideload_to_my_ipad/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在尝试下载 uYouEnhanced，但是我无法下载，因为我需要 3 个 ID，而我只有 1 个，有什么办法可以从我不再需要的无用应用中找回一些 ID 吗？    提交人    /u/Famous_Tadpole7157   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d5hin2/how_to_free_up_ids/</guid>
       <pubDate>Sat, 01 Jun 2024 07:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>“应用程序”需要更新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d5g1oc/app_needs_to_be_updated/</link>
-      <description><![CDATA[我正尝试下载《愤怒的小鸟星球大战 1》和《愤怒的小鸟星球大战 2》，因为我有点怀旧，最后我终于让它运行了（有点），我下载了，它在我的手机上，但它不允许我完全下载应用程序，当我点击它时，它说，“《愤怒的小鸟星球大战》需要更新”才能在此版本的 IOS 上运行。显然这两个应用程序不再在 AppStore 上，所以我无法更新它们，开发人员也不能。有没有解决方法让我可以玩它们？    提交人    /u/Successful-Camel-131   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d5g1oc/app_needs_to_be_updated/</guid>
-      <pubDate>Sat, 01 Jun 2024 05:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道如何使用 iTunes 下载 EveeSpotify 吗？请回复！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d5eek7/any_idea_how_to_download_eveespotify_using_itunes/</link>
-      <description><![CDATA[请帮忙！我真的讨厌在 spotify 上看到广告，也讨厌它被撤销。    提交人    /u/ScientistGood3253   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d5eek7/any_idea_how_to_download_eveespotify_using_itunes/</guid>
-      <pubDate>Sat, 01 Jun 2024 04:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>想知道如何取消 maplesigner</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d5e81g/want_to_know_how_to_cancel_maplesigner/</link>
-      <description><![CDATA[我想知道如果我不想再使用 maplesigner 订阅，该如何取消，请告诉我，我找不到教程…    提交人    /u/averageratiolol   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d5e81g/want_to_know_how_to_cancel_maplesigner/</guid>
-      <pubDate>Sat, 01 Jun 2024 03:54:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
