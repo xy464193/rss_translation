@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 02 Jun 2024 09:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 12:14:11 GMT</lastBuildDate>
+    <item>
+      <title>一个可以记录所有通知的调整？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d6a7ny/a_tweak_that_logs_all_your_notifications/</link>
+      <description><![CDATA[有谁知道有什么插件可以保留所有传入通知的历史记录？无需越狱即可侧载     提交人    /u/tardisair   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d6a7ny/a_tweak_that_logs_all_your_notifications/</guid>
+      <pubDate>Sun, 02 Jun 2024 10:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我的应用程序分发给欧洲的朋友和家人，无需支付 Apple 开发者计划费用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d69s3i/distribute_my_app_to_friends_family_in_europe/</link>
+      <description><![CDATA[你好！ 我是一名软件工程师，正在开发一款跨平台应用作为业余项目，我想将它分发给我的朋友和家人，他们既没有技能，也不愿意将应用越狱或侧载到他们的 iPhone 上。 我最近遇到了 AltStore PAL，理论上它可以帮助我在没有 Apple Developer Program 帐户的情况下分发我的应用，尽管这需要我的应用已经公开。还有 Appdb，它比 Apple 更清楚，以及如何使用另一个 Root CA 分发应用。 我过去曾短暂使用过 TestFlight，它对我的​​亲戚很有效，所以我正在寻求类似的体验。但我并没有抱太大希望，我只是出于自己的理念而绕过 Apple——人们应该能够安装他们想要的任何软件，而无需任何实体的批准。 任何知识都将不胜感激。我正密切关注欧洲的任何发展，试图迫使苹果更加开放。    提交人    /u/achauv1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d69s3i/distribute_my_app_to_friends_family_in_europe/</guid>
+      <pubDate>Sun, 02 Jun 2024 09:49:18 GMT</pubDate>
+    </item>
     <item>
       <title>UYouPlus 广告</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿伙计们，今天我从山洞里出来了，我从旧的 15.0.1 升级到了 17.4.1，一切都发生了很大变化，所以我想知道是否有办法唱歌应用程序（不是 altserver、sidestore），..    提交人    /u/PatienceOk8325bsnsnd   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d5iyg8/hey_guys_so_i_came_out_of_a_cave_today_i_upgraded/</guid>
       <pubDate>Sat, 01 Jun 2024 09:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的 YouTube 崩溃了吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d5ispd/is_your_youtube_crashing/</link>
-      <description><![CDATA[Sideloaded youtube 在启动时不断崩溃，没有应用程序未找到或刷新应用程序的错误 谷歌终于监管了这个应用程序吗？ 编辑：重新安装修复了 jssue    提交人    /u/karna1712   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d5ispd/is_your_youtube_crashing/</guid>
-      <pubDate>Sat, 01 Jun 2024 08:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何释放 ID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d5hin2/how_to_free_up_ids/</link>
-      <description><![CDATA[我正在尝试下载 uYouEnhanced，但是我无法下载，因为我需要 3 个 ID，而我只有 1 个，有什么办法可以从我不再需要的无用应用中找回一些 ID 吗？    提交人    /u/Famous_Tadpole7157   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d5hin2/how_to_free_up_ids/</guid>
-      <pubDate>Sat, 01 Jun 2024 07:23:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
