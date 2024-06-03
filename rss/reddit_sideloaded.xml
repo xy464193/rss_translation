@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 03 Jun 2024 12:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 15:09:31 GMT</lastBuildDate>
+    <item>
+      <title>帮助设置自己的开发者证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d76edn/help_setting_up_own_developer_certificate/</link>
+      <description><![CDATA[嗨。我已经从 Apple 购买了自己的开发者证书，我需要帮助来设置它，这样我就可以签名和安装应用程序了。我已经设法安装了 GBox 并签名了应用程序，但我无法使用 VPN，而且不确定其他一切是否正常工作。最好帮助从头开始逐步进行设置。我可以提供所需的任何信息，只需告诉我 :) 谢谢    提交人    /u/Den_Switch   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d76edn/help_setting_up_own_developer_certificate/</guid>
+      <pubDate>Mon, 03 Jun 2024 14:54:38 GMT</pubDate>
+    </item>
     <item>
       <title>有任何启用了无损音频的 Spotify ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d72r8e/any_spotify_ipa_with_lossless_audio_enabled/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[越狱后，我可以使用哪些应用程序进行侧载？这是 iOS 16.7.7 上的 ipad pro 12.9 英寸第一代，我将使用 paler1an 越狱    提交人    /u/eskibidisigmapomni-   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d6l8dj/jail_breaking_an_ipad_i_have/</guid>
       <pubDate>Sun, 02 Jun 2024 19:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能帮我解密这个 TestFlight 游戏应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d6l7p7/can_you_decrypt_this_testflight_game_app_for_me/</link>
-      <description><![CDATA[https://testflight.apple.com/join/htIpxyDx Manga Clash - Warrior Arena    提交人    /u/Meng_leang   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d6l7p7/can_you_decrypt_this_testflight_game_app_for_me/</guid>
-      <pubDate>Sun, 02 Jun 2024 19:28:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
