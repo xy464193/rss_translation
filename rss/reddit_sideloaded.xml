@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 03 Jun 2024 03:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:12:33 GMT</lastBuildDate>
+    <item>
+      <title>YTLite 和 YTLitePlus 现已推出下载功能</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d6vfym/ytlite_and_ytliteplus_now_have_a_download_feature/</link>
+      <description><![CDATA[它今天或昨天更新了，并且它具有比 uYou 更快的下载功能，这是我唯一缺少的东西，现在它是最好的调整。    提交人    /u/InjuryJaded7229   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d6vfym/ytlite_and_ytliteplus_now_have_a_download_feature/</guid>
+      <pubDate>Mon, 03 Jun 2024 03:51:36 GMT</pubDate>
+    </item>
     <item>
       <title>我用于安装 AltStore 的 Apple ID 是否需要与我的 iPhone 上的相同？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d6ttzc/does_the_apple_id_i_use_to_install_altstore_need/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>SoundCloud 伊帕</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d6t2cr/soundcloud_ipa/</link>
-      <description><![CDATA[我在网上搜索过 Soundcloud ++ ipa（或者任何可以真正去除广告的东西），但运气不佳。有人有可用的吗？     由    /u/Funkabrain  提交  [link] [comments]]]></description>
+      <description><![CDATA[我在网上搜索过 Soundcloud ++ ipa（或者任何可以真正去除广告的东西），但运气不佳。有人有可用的吗？     由    /u/Funkabrain 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d6t2cr/soundcloud_ipa/</guid>
       <pubDate>Mon, 03 Jun 2024 01:39:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好！ 我是一名软件工程师，正在开发一款跨平台应用作为业余项目，我想将它分发给我的朋友和家人，他们既没有技能，也不愿意将应用越狱或侧载到他们的 iPhone 上。 我最近遇到了 AltStore PAL，理论上它可以帮助我在没有 Apple Developer Program 帐户的情况下分发我的应用，尽管这需要我的应用已经公开。还有 Appdb，它比 Apple 更清楚，以及如何使用另一个 Root CA 分发应用。 我过去曾短暂使用过 TestFlight，它对我的​​亲戚很有效，所以我正在寻求类似的体验。但我并没有抱太大希望，我只是出于自己的理念而绕过 Apple——人们应该能够安装他们想要的任何软件，而无需任何实体的批准。 任何知识都将不胜感激。我正密切关注欧洲的任何发展，试图迫使苹果更加开放。    提交人    /u/achauv1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d69s3i/distribute_my_app_to_friends_family_in_europe/</guid>
       <pubDate>Sun, 02 Jun 2024 09:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>UYouPlus 广告</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</link>
-      <description><![CDATA[我喜欢使用 iSponserBlock 的调整版本，但我讨厌其他每个视频中的广告。有什么办法可以摆脱它吗？ https://ibb.co/z8H50FJ    提交人    /u/azmattaz06   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</guid>
-      <pubDate>Sun, 02 Jun 2024 07:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
