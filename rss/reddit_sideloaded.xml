@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 03 Jun 2024 00:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:10:46 GMT</lastBuildDate>
+    <item>
+      <title>我用于安装 AltStore 的 Apple ID 是否需要与我的 iPhone 上的相同？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d6ttzc/does_the_apple_id_i_use_to_install_altstore_need/</link>
+      <description><![CDATA[我一直在阅读有关获取 AltStore 的过程，一些消息来源说我在安装 AltServer 和 AltStore 时可以使用不同的 Apple ID。  我很困惑，这是否意味着我需要在我的 iPhone 上以主帐户身份登录这个新的 Apple ID，或者我是否可以在手机上拥有我的真实帐户，并为 AltStore 创建一个单独的帐户。    提交人    /u/GhoulFree5   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d6ttzc/does_the_apple_id_i_use_to_install_altstore_need/</guid>
+      <pubDate>Mon, 03 Jun 2024 02:20:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>SoundCloud 伊帕</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d6t2cr/soundcloud_ipa/</link>
+      <description><![CDATA[我在网上搜索过 Soundcloud ++ ipa（或者任何可以真正去除广告的东西），但运气不佳。有人有可用的吗？     由    /u/Funkabrain  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d6t2cr/soundcloud_ipa/</guid>
+      <pubDate>Mon, 03 Jun 2024 01:39:47 GMT</pubDate>
+    </item>
     <item>
       <title>德尔塔符文第二章 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d6r81t/deltarune_chapter_2_ipa/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我喜欢使用 iSponserBlock 的调整版本，但我讨厌其他每个视频中的广告。有什么办法可以摆脱它吗？ https://ibb.co/z8H50FJ    提交人    /u/azmattaz06   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d67til/uyouplus_ads/</guid>
       <pubDate>Sun, 02 Jun 2024 07:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决 Sidestore 中的此错误？我正在使用自己的 Anisette 服务器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d67dlu/how_can_i_resolve_this_error_in_sidestore_i_am/</link>
-      <description><![CDATA[minimuxer::heartbeat: 无法创建心跳客户端：未知错误    提交人    /u/Upbeat-Bird1389   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d67dlu/how_can_i_resolve_this_error_in_sidestore_i_am/</guid>
-      <pubDate>Sun, 02 Jun 2024 06:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>.p12 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d678oh/p12_files/</link>
-      <description><![CDATA[为了简化，我使用 ipa 标志来使用 Play！模拟器，但无法找到有关获取 p12 文件的信息，有什么帮助吗？    由   提交  /u/Rigothepigo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d678oh/p12_files/</guid>
-      <pubDate>Sun, 02 Jun 2024 06:44:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
