@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 03 Jun 2024 06:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 09:09:44 GMT</lastBuildDate>
+    <item>
+      <title>Snapchat 被禁</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d6yuoo/snapchat_banned/</link>
+      <description><![CDATA[我从今年年初开始使用 Signulous（购买了证书）。今天被踢出了 Snapchat，由于“设备禁令”，所有应用程序都不允许我重新登录。尝试了 Signulous 上提供的所有应用程序、appdb，并尝试使用 esign 和 AltStore 绕过。我该怎么做才能重新登录？    提交人    /u/Last-Lobster5756   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d6yuoo/snapchat_banned/</guid>
+      <pubDate>Mon, 03 Jun 2024 07:35:32 GMT</pubDate>
+    </item>
     <item>
       <title>YTLite 和 YTLitePlus 现已推出下载功能</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d6vfym/ytlite_and_ytliteplus_now_have_a_download_feature/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[快速安装！ 要下载，请查看 AppleP12 电报组    由    /u/EloneMusk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d6djnt/new_esign_certificates_available/</guid>
       <pubDate>Sun, 02 Jun 2024 13:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的应用程序分发给欧洲的朋友和家人，无需支付 Apple 开发者计划费用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d69s3i/distribute_my_app_to_friends_family_in_europe/</link>
-      <description><![CDATA[你好！ 我是一名软件工程师，正在开发一款跨平台应用作为业余项目，我想将它分发给我的朋友和家人，他们既没有技能，也不愿意将应用越狱或侧载到他们的 iPhone 上。 我最近遇到了 AltStore PAL，理论上它可以帮助我在没有 Apple Developer Program 帐户的情况下分发我的应用，尽管这需要我的应用已经公开。还有 Appdb，它比 Apple 更清楚，以及如何使用另一个 Root CA 分发应用。 我过去曾短暂使用过 TestFlight，它对我的​​亲戚很有效，所以我正在寻求类似的体验。但我并没有抱太大希望，我只是出于自己的理念而绕过 Apple——人们应该能够安装他们想要的任何软件，而无需任何实体的批准。 任何知识都将不胜感激。我正密切关注欧洲的任何发展，试图迫使苹果更加开放。    提交人    /u/achauv1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d69s3i/distribute_my_app_to_friends_family_in_europe/</guid>
-      <pubDate>Sun, 02 Jun 2024 09:49:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
