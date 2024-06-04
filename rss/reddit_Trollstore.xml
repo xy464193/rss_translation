@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Tue, 04 Jun 2024 09:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 12:15:11 GMT</lastBuildDate>
+    <item>
+      <title>[A13，iOS 15.6.1] 使用 instagram rocket 和 regram 下载帖子时崩溃</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1d7ua3k/a13_ios_1561_crash_when_downloading_post_w/</link>
+      <description><![CDATA[设备是 iPad 9th gen，trollstore 使用在线安装程序。正如标题所说，似乎崩溃总是在尝试下载时发生，但当它尝试打开应用程序设置时也会发生。我正在使用多个版本的 instagram rocket（27something ~ 333）和最新的 regram，崩溃总是发生在相同的操作上。问题是我在 16.1 上的 iPhone Xs 上使用完全相同的 IPA（使用 trollstoreMDC 侧载方法）并且问题不存在，所以我认为这是 trollstore 或 iPad 的问题，我不知道哪个是哪个。我能做什么吗？    提交人    /u/neofooturism   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1d7ua3k/a13_ios_1561_crash_when_downloading_post_w/</guid>
+      <pubDate>Tue, 04 Jun 2024 10:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有类似于 SneakyCam 的应用程序？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1d7tdau/any_app_similar_to_sneakycam/</link>
+      <description><![CDATA[嗨， 是否有任何应用程序可以完成 SneakyCam 所做的调整 - 在屏幕关闭时进行间谍录制？ 我发现 Anonycord https://www.reddit.com/r/jailbreak/comments/10onxcs/free_release_anonycord_a_spy_video_recorder_for/ 但它只能用后置摄像头录制，而我正在寻找一个可以用前置摄像头录制的。 谢谢    提交人    /u/chonkypengwen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1d7tdau/any_app_similar_to_sneakycam/</guid>
+      <pubDate>Tue, 04 Jun 2024 09:55:17 GMT</pubDate>
+    </item>
     <item>
       <title>Ath Movil 问题，我的手机没有越狱！请帮我修复这个问题。谢谢！！！！</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1d7fhhp/ath_movil_problems_my_phone_is_not_jailbroken/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有没有人有真正使用专业功能而不是假功能的，假的要么没有专业功能，要么打开时崩溃    提交人    /u/james-isreal   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1cxnz9u/looking_for_capcut_pro_that_works_not_fake_ipas/</guid>
       <pubDate>Wed, 22 May 2024 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>App Store 的“全部更新”会覆盖使用 trollstore 安装的应用程序吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1cxifs7/will_app_store_update_all_overwrite_apps/</link>
-      <description><![CDATA[title    由   提交  /u/ReturnToThe36   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1cxifs7/will_app_store_update_all_overwrite_apps/</guid>
-      <pubDate>Tue, 21 May 2024 20:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.0 原装键盘提取</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1cxgtrj/ios_170_stock_keyboard_extract/</link>
-      <description><![CDATA[您好， 我知道有些人在 IOS 17.0 上安装了 Trollstore。有人愿意与我分享 /System/Library/Keyboard dictionaries/ 中的文件吗？可以使用 filza 轻松提取。 我相信此文件夹中有一个普通键盘应用程序。我想玩一下，看看我的 IOS 16.1.2 上是否可以拥有新的 IOS 17.0 键盘功能。 提前致谢！    提交人    /u/b3ton1991   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1cxgtrj/ios_170_stock_keyboard_extract/</guid>
-      <pubDate>Tue, 21 May 2024 19:44:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
