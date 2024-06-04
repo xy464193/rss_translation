@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 04 Jun 2024 06:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 09:10:44 GMT</lastBuildDate>
+    <item>
+      <title>apptesters org 合法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1d7rw0w/is_apptesters_org_legitimate/</link>
+      <description><![CDATA[他们提供终身有效证书，只需 25 美元即可无限次安装 iPA，这似乎好得令人难以置信    提交人    /u/TimAppleCockProMax69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1d7rw0w/is_apptesters_org_legitimate/</guid>
+      <pubDate>Tue, 04 Jun 2024 08:04:57 GMT</pubDate>
+    </item>
     <item>
       <title>Decrypt.day 一直显示这个但我没有使用任何广告拦截器 [Decrypt.day 不允许使用广告拦截器]</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d7o9tl/decryptday_keep_showing_this_but_am_not_using_any/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>帮助建立自己的开发者证书</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d76edn/help_setting_up_own_developer_certificate/</link>
-      <description><![CDATA[嗨。我已经从 Apple 购买了自己的开发者证书，我需要帮助来设置它，这样我就可以签名和安装应用程序了。我已经设法安装了 GBox 并签名了应用程序，但我无法使用 VPN，而且不确定其他一切是否正常工作。最好能帮助从头开始逐步进行设置。我可以提供所需的任何信息，只需告诉我 :) 谢谢    提交人    /u/Den_Switch   [link] [评论]]]></description>
+      <description><![CDATA[嗨。我已经从 Apple 购买了自己的开发者证书，我需要帮助来设置它，这样我就可以签名和安装应用程序了。我已经设法安装了 GBox 并签名了应用程序，但我无法使用 VPN，而且不确定其他一切是否正常工作。最好帮助从头开始逐步进行设置。我可以提供所需的任何信息，只需告诉我 :) 谢谢    提交人    /u/Den_Switch   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d76edn/help_setting_up_own_developer_certificate/</guid>
       <pubDate>Mon, 03 Jun 2024 14:54:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Trick-Minimum8593  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d71yxd/using_azule_with_wsl/</guid>
       <pubDate>Mon, 03 Jun 2024 11:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法验证应用程序，因为我没有互联网连接，尽管我已连接到互联网</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1d70a8d/i_cant_verify_app_because_i_dont_have_an_internet/</link>
-      <description><![CDATA[      我最近想下载 scarlet，但总是弹出同样的错误，告诉我无法验证应用程序，我需要互联网连接。我尝试关闭 VPN，重置网络设置，自动设置日期和时间，但仍然不起作用 :( 当我点击验证应用程序（App überprüfen）时，它只会加载几秒钟，然后什么都没有发生     提交人    /u/Open-Bake-2246   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1d70a8d/i_cant_verify_app_because_i_dont_have_an_internet/</guid>
-      <pubDate>Mon, 03 Jun 2024 09:23:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
