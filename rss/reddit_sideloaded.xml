@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 06 Jun 2024 12:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 15:09:54 GMT</lastBuildDate>
     <item>
       <title>加热/电池耗尽</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d9fml7/heating_battery_draining/</link>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 06 Jun 2024 07:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道是否有迪士尼神奇骰子 ipa 吗？</title>
+      <title>有人知道是否有迪士尼魔法骰子 ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d9bycc/does_anyone_know_if_theres_a_disney_magical_dice/</link>
       <description><![CDATA[我真的很想念这个游戏，我想再次玩它，但是我搜索了很久却找不到它的 ipa。所以有人知道我在哪里可以找到一个吗？    提交人    /u/Mammoth-Mix7287   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d9bycc/does_anyone_know_if_theres_a_disney_magical_dice/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>有没有办法赋予应用程序根访问权限或更改添加的 USB 的目录？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1d8x28p/is_there_a_way_to_give_a_app_root_access_or/</link>
-      <description><![CDATA[所以希望有人能帮我解决这个问题。我试图通过 USB 设备在 Retroarch 上运行 Roms。我发现 iOS 上 USB 设备的文件路径是 private&gt;var&gt;mobile&gt;library&gt;LiveFiles&gt;com.apple.filesystems.userfsd&gt;etc  我不知道如何让 Retroarch 进入其库的文件路径。我认为 RA 要么由于没有 root 访问权限而无法到达那里，要么文件路径太深。     提交人    /u/VURORA   [链接] [评论]]]></description>
+      <description><![CDATA[希望有人能帮我解决这个问题。我试图通过 USB 设备在 Retroarch 上运行 Roms。我发现 iOS 上 USB 设备的文件路径是 private&gt;var&gt;mobile&gt;library&gt;LiveFiles&gt;com.apple.filesystems.userfsd&gt;etc  我不知道如何让 Retroarch 进入其库的文件路径。我认为 RA 要么由于没有 root 访问权限而无法到达那里，要么文件路径太深。     提交人    /u/VURORA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1d8x28p/is_there_a_way_to_give_a_app_root_access_or/</guid>
       <pubDate>Wed, 05 Jun 2024 18:27:52 GMT</pubDate>
     </item>
