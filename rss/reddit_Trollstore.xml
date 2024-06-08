@@ -4,11 +4,11 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Sat, 08 Jun 2024 12:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 18:10:13 GMT</lastBuildDate>
     <item>
       <title>使用 Troll Store 免费使用 Spotify Premium</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1daw6mq/spotify_premium_for_free_using_troll_store/</link>
-      <description><![CDATA[使用 TROLL STORE 免费获得 SPOTIFY PREMIUM：https://youtu.be/mWYePhkeKd8?si=EfhDNDfxRyrFVEda     由   提交  /u/SpecialistSpecific32   [link] [评论]]]></description>
+      <description><![CDATA[使用 TROLL STORE 免费获得 SPOTIFY PREMIUM：https://youtu.be/mWYePhkeKd8?si=EfhDNDfxRyrFVEda eevee spotify：https://github.com/whoeevee/EeveeSpotify EeveeSpotify 此插件让 Spotify 认为您拥有 Premium 订阅，从而允许像 Spotilife 一样免费收听，并提供一些附加功能（如自定义歌词）。 历史 几个月前，唯一获得 Spotify Premium 的插件 Spotilife 停止在新版 Spotify 上运行。我反编译了 Spotilife，对 Spotify 进行了逆向工程，拦截了请求等，并创建了这个调整。 限制 请不要打开有关以下功能的问题，因为它们是服务器端的，并且永远无法工作：  非常高的音频质量 原生播放列表下载（您可以下载播客剧集） Jam（举办 Spotify Jam 并远程加入需要 Premium；只有亲自加入才有效）  可以在本地实现下载，但它永远不会包含在 EeveeSpotify 中（除非有人打开拉取请求）。 歌词支持 EeveeSpotify 将 Spotify 每月限量歌词替换为以下三个歌词提供商之一：  Genius：提供最优质的歌词，提供最歌曲，并以最快的速度更新歌词。不会且永远不会进行时间同步。 LRCLIB：最开放的服务，提供时间同步的歌词。但是，它缺少许多歌曲的歌词。 Musixmatch：Spotify 使用的服务。为许多歌曲提供时间同步的歌词，但您需要用户令牌才能使用此来源。要获取令牌，请从 App Store 下载 Musixmatch，注册，然后转到设置 &gt; 获取帮助 &gt; 复制调试信息，并将其粘贴到 EeveeSpotify 警报中。您也可以使用 MITM 提取令牌。  如果插件无法找到歌曲或处理歌词，您将看到“无法加载此歌曲的歌词”消息。由于插件搜索歌曲的方式，使用 Genius 时某些歌曲（例如另一首歌曲、歌曲文章）的歌词可能会有误。虽然我已在大多数情况下使其工作，但请不要打开有关它的问题。 工作原理 从 4.0 版开始，EeveeSpotify 会拦截 Spotify 加载用户数据的请求，对其进行反序列化，并实时修改参数。这种方法是迄今为止最好的，并且工作得非常稳定。您可以在 EeveeSpotify 设置中选择动态 Premium 修补方法。 登录后，Spotify 会获取用户数据并将其缓存在 /Library/Application Support/PersistentCache 目录中的 offline.bnk 文件中。它使用其专有的二进制格式来存储数据，在每个值之前合并一个长度字节，以及其他约定。某些键（例如 player-license、financial-product、streaming-rules 等）决定了用户的能力。 此调整在初始化时修补此文件；Spotify 会加载它并假定您拥有 Premium。老实说，由于动态长度和不同字节的挑战，它并没有真正修补。此调整从当前的 offline.bnk 文件中提取用户名并将其插入 premiumblank.bnk（包含所有预设的高级值的文件），替换 offline.bnk。Spotify 可能会重新加载用户数据，您将切换到免费计划。发生这种情况时，您将看到一个弹出窗口，其中包含快速重启应用程序和重置数据操作。 Tweak 还将 SPTFreeTierArtistHubRemoteURLResolver 中的 trackRowsEnabled 设置为 true，因此 Spotify 不仅会在艺术家页面上加载曲目名称。它可以像 Spotilife 一样停止工作，但到目前为止，它可以在最新的 Spotify 8.9 上运行。##（Spotilife 还修补了 offline.bnk，但是，它会更改在新版本上不起作用的模糊字节）。 要在侧载应用中打开 Spotify 链接，请使用 OpenSpotifySafariExtension。请记住在设置 &gt; Safari &gt; 扩展中激活它并允许访问。    提交人    /u/SpecialistSpecific32   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1daw6mq/spotify_premium_for_free_using_troll_store/</guid>
       <pubDate>Sat, 08 Jun 2024 06:09:22 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>为什么 Trollapps 只显示 8 个应用程序，从未删除任何来源？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1d92h9o/why_does_trollapps_only_show_8_apps_never_deleted/</link>
-      <description><![CDATA[我不确定这是否正常，但几个月前我确实安装了 trollstore，目前我有 Bonnies repo、Resonance team 和 Haxi0。一段时间以来，我没有删除任何东西或触摸应用程序，出于某种原因，以前可供我下载的应用程序只有少数几个。     提交人    /u/VURORA   [link] [评论]]]></description>
+      <description><![CDATA[我不确定这是否正常，但几个月前我确实安装了 trollstore，目前我有 Bonnies repo、Resonance team 和 Haxi0。一段时间内我没有删除任何东西或触摸应用程序，出于某种原因，以前可供我下载的应用程序只有少数几个。     提交人    /u/VURORA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1d92h9o/why_does_trollapps_only_show_8_apps_never_deleted/</guid>
       <pubDate>Wed, 05 Jun 2024 22:14:03 GMT</pubDate>
     </item>
