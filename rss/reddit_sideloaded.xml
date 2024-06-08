@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 08 Jun 2024 03:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 06:10:51 GMT</lastBuildDate>
+    <item>
+      <title>YouTube IPA 未安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1daulfp/youtube_ipas_not_installing/</link>
+      <description><![CDATA[今天拿到了我的第一个证书，如果我做错了什么，请见谅，哈哈。我有一个 uYou+ IPA，但它是一个稍微旧一点的版本，投射功能不起作用，所以我卸载了它并尝试使用更新的 IPA 重新安装，但它拒绝安装并弹出“无法安装 YouTube”的窗口。我尝试了 uYou+ 和 uYouEnhanced 的多个版本，但什么都没安装，甚至我今天早些时候安装的那个也没有安装，我仍然可以安装任何其他 IPA，只是不能安装单个 YouTube。签名时，它们都多次显示“代码签名空间不足”。    提交人    /u/CaseOh_gaming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1daulfp/youtube_ipas_not_installing/</guid>
+      <pubDate>Sat, 08 Jun 2024 04:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>两个 Snapchat？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dao8ni/two_snapchats/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>EeveeSpotify v4.1 发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dam198/eeveespotify_v41_release/</link>
-      <description><![CDATA[・Spotify 上歌词的原始颜色 ・修复 LRCLIB 歌词在某些歌曲上崩溃以及 iPad 上设置视图过宽的问题（拉取请求） ・覆盖配置选项。如果您遇到出现广告等问题，请尝试使用它；它可能会有所帮助，但不能保证 ・Musixmatch 无效令牌弹出窗口和更好的令牌输入 ・默认动态 Premium 修补方法 下载 注入 Swiftprotobuf，Sposify 注入 Swiftprotobuf，Volify   由    /u/Upbeat-Bird1389  提交  [链接] [评论]]]></description>
+      <description><![CDATA[・Spotify 上歌词的原始颜色 ・修复 LRCLIB 歌词在某些歌曲上崩溃以及 iPad 上设置视图过宽的问题（拉取请求） ・覆盖配置选项。如果您遇到出现广告等问题，请尝试使用它；它可能会有所帮助，但不能保证 ・Musixmatch 无效令牌弹出和更好的令牌输入 ・默认动态 Premium 修补方法 下载 注入 Swiftprotobuf，Sposify 注入 Swiftprotobuf，Volify    提交人    /u/Upbeat-Bird1389   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dam198/eeveespotify_v41_release/</guid>
       <pubDate>Fri, 07 Jun 2024 21:15:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的 Apple 开发者证书即将到期，我正在尝试在 MapleSign 和 AppTesters 之间做出选择。MapleSign 是否使用 ESign 提供通知？    提交人    /u/Imaginary_Gas7   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dagkiv/does_maplesign_allow_notifications_on_esign/</guid>
       <pubDate>Fri, 07 Jun 2024 17:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何侧载（所有方法）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dadxt8/how_to_sideload_all_methods/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dadxt8/how_to_sideload_all_methods/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:43:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
