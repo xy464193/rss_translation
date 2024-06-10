@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 10 Jun 2024 06:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 09:11:03 GMT</lastBuildDate>
+    <item>
+      <title>GitHub Repo 上最好的 Adob​​e iPA 文件有哪些？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dcgaxy/what_are_the_best_adobe_ipa_files_with_github_repo/</link>
+      <description><![CDATA[这里的每个人都只谈论 YouTube 和 Spotify iPA，例如 YTLitePlus 或 EeveeSpotify，甚至引用原始 GitHub 存储库、主题、链接或问题。 我找不到任何其他经过适当测试和确认的 iPA 文件，其中没有进一步的评估、讨论、反馈或投诉，甚至像一个新手做了 Adobe Acrobat PDF，它绝对没有实现任何目标，并且是 TrollStore iPA Library 上唯一经过证明的版本，不像 备注，或当 YouTube 出现问题时用户发送的反馈。  &quot;注意：我只会托管稳定且在我这边运行良好的 iPA。请随时检查其存储库以获取更新。要修复小部件，请从 App Store 在 Eevee 之上安装 Spotify，然后强制安装 Eevee 而不是 Spotify。&quot;  这适用于其他应用程序，无论是来自 Adob​​e Suite 还是其他应用程序，如 FaceTune、Halide、VideoLeap 等，除非它们是幼稚的游戏。 我想确认这是不是只有我一个人这样（我以为 TrollStore 库就足够了，但我可以从您参与评论的地方为 wiki 或原始源 repo 添加书签）还是社区总体上很愚蠢，他们很快就请求应用程序，而不是在庞大的侧载社区中保持沉默，没有任何闲聊？    提交人    /u/Avieshek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dcgaxy/what_are_the_best_adobe_ipa_files_with_github_repo/</guid>
+      <pubDate>Mon, 10 Jun 2024 08:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Esign 签名的应用程序在启动时崩溃？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dcfsdn/apps_signed_with_esign_crash_on_start/</link>
+      <description><![CDATA[出于某种原因，我使用 ESign 签名的一半应用程序在启动时崩溃，例如它们加载到主菜单界面并与其交互时就崩溃了。 关于如何解决这个问题有什么想法吗？设备：iPhone SE 2020 ios 版本：17.5.1 ipa 文件来自：appdb Esign：V5.0.2    提交人    /u/Railici_Plus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dcfsdn/apps_signed_with_esign_crash_on_start/</guid>
+      <pubDate>Mon, 10 Jun 2024 07:26:18 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以教我设置 gameseagull (gamepigeon cheats) 吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dce3ds/can_someone_teach_me_to_setup_gameseagull/</link>
-      <description><![CDATA[我下载了 ipa，但如何让它工作呢    提交人    /u/oxtailspace3498   [链接] [评论]]]></description>
+      <description><![CDATA[我下载了 ipa，但如何让它工作呢    由    /u/oxtailspace3498  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dce3ds/can_someone_teach_me_to_setup_gameseagull/</guid>
       <pubDate>Mon, 10 Jun 2024 05:30:26 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>如何在 iOS 上清除 Rocket Instagram Catch？（详情请阅读下文）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dbvuhc/how_do_i_clear_rocket_instagram_catch_on_ios_read/</link>
-      <description><![CDATA[众所周知，iOS App Store 上的 Instagram 被“文档和数据”部分严重堵塞。在 iOS 上有效清除它的唯一方法是删除应用程序并重新安装。但说实话——这非常烦人。 我知道在 iOS App Store 版本的 Instagram 上没有办法做到这一点。但是，我的 iPhone 上侧载了 Rocket Instagram 版本。有人知道调整中是否有一个隐藏的部分可以清除应用程序的缓存吗？如果有人知道就太好了。 此外，请告诉我是否有更好的破解 Instagram 可以做到这一点，例如如何删除我可以侧载的另一个破解 IPA Instagram 的缓存，这样我就不必每隔几天就删除应用程序，因为 Instagram 缓存了太多数据。 提前谢谢大家！如有任何建议，我们将不胜感激！    由   提交  /u/Informal_Industry_89   [链接] [评论]]]></description>
+      <description><![CDATA[众所周知，iOS App Store 上的 Instagram 被“文档和数据”部分严重堵塞。在 iOS 上有效清除它的唯一方法是删除应用程序并重新安装。但说实话，这非常烦人。 我知道在 iOS App Store 版本的 Instagram 上没有办法做到这一点。但是，我的 iPhone 上侧载了 Rocket Instagram 版本。有人知道调整中是否有一个隐藏的部分可以清除应用程序的缓存吗？如果有人知道就太好了。 此外，请告诉我是否有更好的破解 Instagram 可以做到这一点，例如如何删除我可以侧载的另一个破解 IPA Instagram 的缓存，这样我就不必每隔几天就删除应用程序，因为 Instagram 缓存了太多数据。 提前谢谢大家！如有任何建议，我们将不胜感激！    由   提交  /u/Informal_Industry_89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dbvuhc/how_do_i_clear_rocket_instagram_catch_on_ios_read/</guid>
       <pubDate>Sun, 09 Jun 2024 15:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助下载 apk 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dbvfsm/help_with_downloading_apk_app/</link>
-      <description><![CDATA[我对侧载功能还不熟悉，我想为我的 iPhone 获取一个 apk 应用程序，但我不知道该怎么做。我试图为我的赛格威获取一个踏板车黑客软件来修改它的速度，但我不确定如何让 apk 应用程序在 iOS 上运行    提交人    /u/Puzzleheaded_Cash_47   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dbvfsm/help_with_downloading_apk_app/</guid>
-      <pubDate>Sun, 09 Jun 2024 14:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iPad 的电影/电视节目应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dbtx14/movietv_show_apps_for_the_ipad/</link>
-      <description><![CDATA[嗨，我正在寻找可以在 iPad Pro 上侧载观看电影和电视节目的应用程序。我安装了 hdo play、ZiniTevi 和 MegaFlix，但不确定是否有更好的应用程序。我很怀念有爆米花时间和电影盒的日子。现在，找到一个好的应用程序越来越难了    提交人    /u/GlitteringFig2625   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dbtx14/movietv_show_apps_for_the_ipad/</guid>
-      <pubDate>Sun, 09 Jun 2024 13:37:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
