@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 10 Jun 2024 21:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:38:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法使用 uyou 中的 a/b 设置禁用短裤</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dczh8e/is_there_anyway_to_disable_shorts_using_the_ab/</link>
+      <description><![CDATA[我讨厌短裤，它们分散了我可怜的金鱼的注意力。有人知道如何脱掉它们或把它们弄坏吗？    提交人    /u/Shadowralmjimbo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dczh8e/is_there_anyway_to_disable_shorts_using_the_ab/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chai 调整 Ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dczd4i/chai_tweaked_ipa/</link>
+      <description><![CDATA[我曾经使用过 ipaomtk 网站上 Chai 应用程序的调整版本，但是现在 chai 已经更新了他们的机器人，它真的过时了。你们认为有可能调整最新版本以获得超级订阅吗？    提交人    /u/Aggravating-Ice2608   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dczd4i/chai_tweaked_ipa/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[问题] 在哪里可以找到 iEscaper 游戏的 IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dcz0sh/question_where_can_i_find_ipas_for_the_iescaper/</link>
+      <description><![CDATA[嗨， 我几年前玩过两款 iOS 密室逃脱/点击游戏，现在找不到了。它们是 iEscaper! - Escape the Ninja&#39;s Lair 和 iEscaper!2 - Escape from the Castle of Doom。 我已经搜索这两款游戏的 IPA 几个月了，但我找到的都是带有无效链接的旧俄罗斯论坛和一个空的 Yandex Disk 文件夹。还有一个 archive.org 上传似乎包含其中一个，但它已被删除，我不知道它是否曾保存在任何地方（archive.org 从 Wayback Machine 中排除了他们自己的 URL）。 有人知道在哪里可以找到这两个 IPA 吗？ 非常感谢！    提交人    /u/Useful_Case_2018   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dcz0sh/question_where_can_i_find_ipas_for_the_iescaper/</guid>
+      <pubDate>Mon, 10 Jun 2024 22:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign DNS 方法适用于 iOS 18！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dcy9pv/esign_dns_method_works_for_ios_18/</link>
+      <description><![CDATA[对于那些不断询问的人…… 指南在我的个人资料中找到 确保您已经在 iOS 17 上安装了 ESign，您将需要禁用 DNS，这将撤销所有已签名的侧载应用程序。删除所有侧载应用程序（包括 ESign）。更新到 iOS 18。备份并恢复/重置您的设备。之后，您应该能够重新安装 DNS 和 ESign。 如果您从未使用过此方法或 scarlet，您应该可以顺利安装而无需重置。 目前还没有关于新 DNS 的更新。    提交人    /u/PuReEnVyUs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dcy9pv/esign_dns_method_works_for_ios_18/</guid>
+      <pubDate>Mon, 10 Jun 2024 22:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该更新吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dcx6ry/should_i_update/</link>
+      <description><![CDATA[我使用的是 iOS 17.1.1，我不知道是否应该更新到 18，或者只是等待看看是否有 jb 出来。你怎么看？    提交人    /u/Neon___Cat   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dcx6ry/should_i_update/</guid>
+      <pubDate>Mon, 10 Jun 2024 21:29:36 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dcv253/ios_18_sideloading/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[这里的每个人都只谈论 YouTube 和 Spotify iPA，例如 YTLitePlus 或 EeveeSpotify，甚至引用原始 GitHub 存储库、主题、链接或问题。 我找不到任何其他经过适当测试和确认的 iPA 文件，其中没有进一步的评估、讨论、反馈或投诉，甚至像一个新手做了 Adobe Acrobat PDF，它绝对没有实现任何目标，并且是 TrollStore iPA Library 上唯一经过证明的版本，不像 备注，或当 YouTube 出现问题时用户发送的反馈。  &quot;注意：我只会托管稳定且在我这边运行良好的 iPA。请随时检查其存储库以获取更新。要修复小部件，请从 App Store 在 Eevee 之上安装 Spotify，然后强制安装 Eevee 而不是 Spotify。&quot;  这适用于其他应用程序，无论是来自 Adob​​e Suite 还是其他应用程序，如 FaceTune、Halide、VideoLeap 等，除非它们是幼稚的游戏。 我想确认这是不是只有我一个人这样（我以为 TrollStore 库就足够了，但我可以从您参与评论的地方为 wiki 或原始源 repo 添加书签）还是社区总体上很愚蠢，他们很快就请求应用程序，而不是在庞大的侧载社区中保持沉默，没有任何闲聊？    提交人    /u/Avieshek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dcgaxy/what_are_the_best_adobe_ipa_files_with_github_repo/</guid>
       <pubDate>Mon, 10 Jun 2024 08:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Esign 签名的应用程序在启动时崩溃？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dcfsdn/apps_signed_with_esign_crash_on_start/</link>
-      <description><![CDATA[出于某种原因，我使用 ESign 签名的一半应用程序在启动时崩溃，例如它们加载到主菜单界面并与其交互时就崩溃了。 关于如何解决这个问题有什么想法吗？设备：iPhone SE 2020 ios 版本：17.5.1 ipa 文件来自：appdb Esign：V5.0.2    提交人    /u/Railici_Plus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dcfsdn/apps_signed_with_esign_crash_on_start/</guid>
-      <pubDate>Mon, 10 Jun 2024 07:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以教我设置 gameseagull (gamepigeon cheats) 吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dce3ds/can_someone_teach_me_to_setup_gameseagull/</link>
-      <description><![CDATA[我下载了 ipa，但如何让它工作呢    提交人    /u/oxtailspace3498   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dce3ds/can_someone_teach_me_to_setup_gameseagull/</guid>
-      <pubDate>Mon, 10 Jun 2024 05:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dcdqa3/scarlet_tweakin/</link>
-      <description><![CDATA[Scarlet 现在确实在调整。我使用的是 iOS 17.5.1 并且居住在欧盟，这应该允许我侧载任何应用程序，而且 scarlet 已签名。但每次我尝试下载 scarlet 时都无法下载。有人知道对此问题的任何修复方法或免费替代方案吗？ 编辑：没关系，如果其他人遇到此问题，则表明您已被列入黑名单。尝试安装此程序：https://raw.githubusercontent.com/toasty-dev/Khomod/main/khomod.mobileconfig    提交人    /u/dark_schali4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dcdqa3/scarlet_tweakin/</guid>
-      <pubDate>Mon, 10 Jun 2024 05:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>静默截图应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dc7sf2/silent_screenshot_app/</link>
-      <description><![CDATA[这似乎是一个显而易见的应用程序，有人会制作，但我找不到类似的东西，有人帮忙    由   提交  /u/steelballrun69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dc7sf2/silent_screenshot_app/</guid>
-      <pubDate>Sun, 09 Jun 2024 23:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有应用程序可以访问我的 iPhone 12 的根目录？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dc69n4/is_there_an_app_to_access_the_root_of_my_iphone_12/</link>
-      <description><![CDATA[我只是想知道是否有一个    由   提交  /u/BlitzitePro_II   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dc69n4/is_there_an_app_to_access_the_root_of_my_iphone_12/</guid>
-      <pubDate>Sun, 09 Jun 2024 22:33:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
