@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 15:08:55 GMT</lastBuildDate>
+    <item>
+      <title>指南：如何在 iOS 上进行无到期侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ddfmq0/guide_how_to_sideload_on_ios_without_expiry/</link>
+      <description><![CDATA[介绍： 大家好，我制作了臭名昭著的 iOS Shortcut，它可以自动完成整个侧载体验，但默认情况下，它附带一个偶尔会过期的免费证书。解决方案是简单地替换使用您自己的证书的默认 API（在 Shortcut 中），而我使用过期的证书（Sunshine Insurance Group），但使用特定的 DNS 配置文件，无需在一个地方进行任何其他操作。但是，访问自己的 API 是大多数新手都会忽略的一件事，我的收件箱（以及这里的时间线）总是一次又一次地填满同样的问题∞ 链接 » 完整教程 ↳ 本教程是使用 Esign 的替代方法。 描述： 无论您使用快捷方式还是 Esign 方法，本质都基本相同，但此处的 Esign 教程只是将所有内容压缩为最简单的形式，除了给出的解释之外，就好像我在这里为普通人再次构建快捷方式一样，将所有内容限制为单击（即时链接），直到我完成我的还想开发一个快捷方式，逐步自动完成 Esign 安装过程。 使本教程变得简单的大部分资源都归功于 Khoindvn，所以我这里没有添加任何新内容，但我没有引用多个资源，而是直接集成了可以尽快立即部署的内容，例如原始 Esign 安装链接，该链接由于证书状态而处于关闭状态，但从 Khoindvn 的使用单一证书（更多内容请参见本教程）或 Coco Cloud 证书开始，这需要您有一个帐户，即使它是一个免费的帐户，可以从 Scarlet、FlekStore 到 Signed Installer 广泛获得。 作者注： 我希望没有剩余问题，但不是在教程网站上创建帐户，而是可以直接在评论部分中展示它们。但是，我仍然希望在您遇到困难时花一些时间，而不是立即诉诸一对一的互动。 这是仅适用于此 subreddit 活跃社区的辅助 repo： https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json    提交人    /u/Avieshek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ddfmq0/guide_how_to_sideload_on_ios_without_expiry/</guid>
+      <pubDate>Tue, 11 Jun 2024 14:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>当我打开我喜欢的视频时，它会显示一大片白色空白，有什么办法可以解决这个问题？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddbd29/it_shows_a_big_white_blank_when_i_open_my_liked/</link>
@@ -13,16 +20,9 @@
       <pubDate>Tue, 11 Jun 2024 11:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何以最简单的方式免费且无任何有效期限地签署/安装（侧载）iPA（iPhone 应用程序）文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ddasy3/how_to_signinstall_sideload_ipa_iphone_app_files/</link>
-      <description><![CDATA[        由    /u/Avieshek 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ddasy3/how_to_signinstall_sideload_ipa_iphone_app_files/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您好，ModApps 是为无需越狱的 iPhone 设计的，而不是安卓手机。</title>
+      <title>您好，ModApps 是为无需越狱的 iPhone 设计的，不适用于安卓手机。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dd8zd8/hi_modapps_that_are_designed_for_iphone_with_no/</link>
-      <description><![CDATA[嗨，我看到很多针对 Android 用户的 ModApps，他们可以下载应用程序来使用您已有的应用程序，并免费获得额外的功能。iPhone 可以在不越狱的情况下做到这一点吗？它们是否免受病毒等侵害？我不确定，并希望了解更多信息。如果是这样的话，我可能在错误的 subreddit 中，如果有人知道正确的 subreddit，我很乐意听听。谢谢阅读。    提交人    /u/MelbGuy888   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我看到很多针对 Android 用户的 ModApps，他们可以下载应用程序来使用您已有的应用程序，并免费获得额外的功能。iPhone 可以在不越狱的情况下做到这一点吗？它们是否不受病毒等影响？我不确定，很想了解更多信息。如果是这样的话，我可能在错误的 subreddit 中，如果有人知道正确的 subreddit，我很想听听。谢谢阅读。    提交人    /u/MelbGuy888   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dd8zd8/hi_modapps_that_are_designed_for_iphone_with_no/</guid>
       <pubDate>Tue, 11 Jun 2024 08:16:16 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>侧载 esign 应用程序注销</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dd3iuq/sideloaded_esign_apps_logging_out/</link>
-      <description><![CDATA[嘿。所以我使用 AppTesters 证书和 Esign 来签名和安装应用程序。 我安装了 Instagram、Reddit、Facebook 和 youtube。几个小时/一两天后，我在所有这些应用程序中的帐户都会注销，我必须重新登录。 听说过一些“钥匙串”之类的东西。你们对此有什么解决方案吗？谢谢！    提交人    /u/ShalevALL   [link] [评论]]]></description>
+      <description><![CDATA[嘿。所以我使用 AppTesters 证书和 Esign 来签名和安装应用程序。 我安装了 Instagram、Reddit、Facebook 和 youtube。几个小时/一两天后，我在所有这些应用程序中的帐户都会注销，我必须重新登录。 听说过一些“钥匙串”之类的东西。你们有解决方案吗？谢谢！    提交人    /u/ShalevALL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dd3iuq/sideloaded_esign_apps_logging_out/</guid>
       <pubDate>Tue, 11 Jun 2024 02:31:56 GMT</pubDate>
     </item>

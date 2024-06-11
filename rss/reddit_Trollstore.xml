@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 15:08:48 GMT</lastBuildDate>
+    <item>
+      <title>通过 trollstore tvOS 为 tvOS 15.0 安装 kodi 20.x 或更高版本</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ddefnm/installing_kodi_20x_or_higher_for_tvos_150_via/</link>
+      <description><![CDATA[我需要帮助通过 trollstore tvOS 安装适用于 tvOS 15.0 的 kodi 20.x 或更高版本 我正在使用运行 tvOS 15.0 的 apple tv 4k 第二代。我已成功通过 misaka 安装了 trollstore。 我想在 apple tv 上安装 kodi 20.x 或更高版本，但每次安装 Ipa 时都会出现错误 175。我尝试构建一个新的 ipa 文件并在 Frameworks 中删除了“config-3.11-darwin”，现在我可以通过 trollstore 安装 kodi，不再出现错误 175。但安装后 kodi 无法开机 我只能通过 trollstore 成功安装 kodi 17.6。但 20.x 及以上版本不能。我可以通过 sildeloadly 成功侧载 kodi 20.x ipa 文件，但它仅在 7 天后过期。我想通过 trollstore 安装，这样证书就不会被撤销。你能帮助我吗？    提交人    /u/Sensitive_Bus_3160   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ddefnm/installing_kodi_20x_or_higher_for_tvos_150_via/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:42:21 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 15.4.1</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ddbkgc/ios_1541/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>为什么 Trollapps 只显示 8 个应用程序，从未删除任何来源？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1d92h9o/why_does_trollapps_only_show_8_apps_never_deleted/</link>
-      <description><![CDATA[我不确定这是否正常，但几个月前我确实安装了 trollstore，目前我有 Bonnies repo、Resonance team 和 Haxi0。一段时间内我没有删除任何东西或触摸应用程序，出于某种原因，以前可供我下载的应用程序只有少数几个。     提交人    /u/VURORA   [link] [评论]]]></description>
+      <description><![CDATA[我不确定这是否正常，但几个月前我确实安装了 trollstore，目前我有 Bonnies repo、Resonance team 和 Haxi0。一段时间以来，我没有删除任何东西或触摸应用程序，出于某种原因，以前可供我下载的应用程序只有少数几个。     提交人    /u/VURORA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1d92h9o/why_does_trollapps_only_show_8_apps_never_deleted/</guid>
       <pubDate>Wed, 05 Jun 2024 22:14:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交者    /u/Substantial-Goat-227   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1d7fhhp/ath_movil_problems_my_phone_is_not_jailbroken/</guid>
       <pubDate>Mon, 03 Jun 2024 21:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>卸载 trollstore 会重置你的手机吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1d6ek2s/will_uninstall_trollstore_reset_your_phone/</link>
-      <description><![CDATA[所以我需要更新到 iOS 15.8.2，并且我想在更新时卸载 trollstore，更新完成后我会重新安装 trollstore，我不知道它是否会重置我手机上的所有内容    提交人    /u/Friendly-Chipmunk247   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1d6ek2s/will_uninstall_trollstore_reset_your_phone/</guid>
-      <pubDate>Sun, 02 Jun 2024 14:29:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
