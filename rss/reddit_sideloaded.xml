@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 11 Jun 2024 00:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 03:10:14 GMT</lastBuildDate>
+    <item>
+      <title>侧载 esign 应用程序注销</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dd3iuq/sideloaded_esign_apps_logging_out/</link>
+      <description><![CDATA[嘿。所以我使用 AppTesters 证书和 Esign 来签名和安装应用程序。 我安装了 Instagram、Reddit、Facebook 和 youtube。几个小时/一两天后，我在所有这些应用程序中的帐户都会注销，我必须重新登录。 听说过一些“钥匙串”之类的东西。你们对此有什么解决方案吗？谢谢！    提交人    /u/ShalevALL   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dd3iuq/sideloaded_esign_apps_logging_out/</guid>
+      <pubDate>Tue, 11 Jun 2024 02:31:56 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法使用 uyou 中的 a/b 设置禁用短裤</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dczh8e/is_there_anyway_to_disable_shorts_using_the_ab/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨， 哪个 altstore 最容易分发我制作的应用程序？（最好支持比特币支付） 提前感谢解释性答案！    提交人    /u/LuvBotX_Online   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dchu9w/what_altstore_is_easiest_to_distribute_apps_i/</guid>
       <pubDate>Mon, 10 Jun 2024 09:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Repo 上最好的 Adob​​e iPA 文件有哪些？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dcgaxy/what_are_the_best_adobe_ipa_files_with_github_repo/</link>
-      <description><![CDATA[这里的每个人都只谈论 YouTube 和 Spotify iPA，例如 YTLitePlus 或 EeveeSpotify，甚至引用原始 GitHub 存储库、主题、链接或问题。 我找不到任何其他经过适当测试和确认的 iPA 文件，其中没有进一步的评估、讨论、反馈或投诉，甚至像一个新手做了 Adobe Acrobat PDF，它绝对没有实现任何目标，并且是 TrollStore iPA Library 上唯一经过证明的版本，不像 备注，或当 YouTube 出现问题时用户发送的反馈。  &quot;注意：我只会托管稳定且在我这边运行良好的 iPA。请随时检查其存储库以获取更新。要修复小部件，请从 App Store 在 Eevee 之上安装 Spotify，然后强制安装 Eevee 而不是 Spotify。&quot;  这适用于其他应用程序，无论是来自 Adob​​e Suite 还是其他应用程序，如 FaceTune、Halide、VideoLeap 等，除非它们是幼稚的游戏。 我想确认这是不是只有我一个人这样（我以为 TrollStore 库就足够了，但我可以从您参与评论的地方为 wiki 或原始源 repo 添加书签）还是社区总体上很愚蠢，他们很快就请求应用程序，而不是在庞大的侧载社区中保持沉默，没有任何闲聊？    提交人    /u/Avieshek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dcgaxy/what_are_the_best_adobe_ipa_files_with_github_repo/</guid>
-      <pubDate>Mon, 10 Jun 2024 08:03:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
