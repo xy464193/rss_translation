@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 12 Jun 2024 00:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 03:10:17 GMT</lastBuildDate>
+    <item>
+      <title>.deb 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ddwats/deb_files/</link>
+      <description><![CDATA[我已经接触过一段时间的侧载了，但只使用过 ipa 文件。那么 .deb 文件有什么用呢？它们比 ipas 好吗？    提交人    /u/Mammoth-Mix7287   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ddwats/deb_files/</guid>
+      <pubDate>Wed, 12 Jun 2024 02:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要新手帮助。以下是关于 iPhone 上使用的应用程序的快速问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ddv7go/need_help_new_to_this_quick_question_bellow_on/</link>
+      <description><![CDATA[我下载了 app box reply，但运气不佳。大多数人使用的替代方案是什么？Drop box 大家都用这个吗？或者有没有更好的，大家在用吗？我想将应用程序和 IPA 下载到我的手机上。 如果有人能帮忙就太好了。我是初学者。谢谢     提交人    /u/MelbGuy888   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ddv7go/need_help_new_to_this_quick_question_bellow_on/</guid>
+      <pubDate>Wed, 12 Jun 2024 01:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何安装 esign 我使用了 khoindvn 所有链接都不起作用 甚至 nhutt.gg.io.vn 也不起作用😢</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dduvee/how_do_i_install_esign_i_used_khoindvn_all_links/</link>
+      <description><![CDATA[我使用了 khoindvn，所有链接都不起作用，甚至 nhutt.gg.io.vn 也不起作用😢    提交人    /u/CommercialVolume6266   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dduvee/how_do_i_install_esign_i_used_khoindvn_all_links/</guid>
+      <pubDate>Wed, 12 Jun 2024 01:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>意义重大的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddta0t/signulous_question/</link>
@@ -15,14 +36,14 @@
     <item>
       <title>使用 E-Sign 侧载时无法点击播放的媒体/应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddsk35/couldnt_tap_mediaapp_played_when_sideloaded_with/</link>
-      <description><![CDATA[我目前遇到此问题，我无法通过通知面板/锁定屏幕与应用程序交互，并且它不会跳转到应用程序，当使用 altstore 侧载时，它运行完美， 我需要做什么才能使其在电子签名上正常工作？    提交人    /u/danielaniq28   [link] [评论]]]></description>
+      <description><![CDATA[我目前遇到此问题，我无法通过通知面板/锁定屏幕与应用程序交互，并且它不会跳转到应用程序，当使用 altstore 侧载时，它运行良好， 我需要做什么才能使其在电子签名上正常工作？    提交人    /u/danielaniq28   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ddsk35/couldnt_tap_mediaapp_played_when_sideloaded_with/</guid>
       <pubDate>Tue, 11 Jun 2024 23:36:03 GMT</pubDate>
     </item>
     <item>
       <title>ESign 上的 SigningCert？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddr372/signingcert_on_esign/</link>
-      <description><![CDATA[使用 ESign 或仅使用 AppDB 时 SigningCert 是否会发出通知？如果可以，我还没能让它工作。     提交人    /u/Imaginary_Gas7   [link] [comments]]]></description>
+      <description><![CDATA[使用 ESign 或仅使用 AppDB 时，SigningCert 是否会发出通知？如果可以，我还没能让它工作。     提交人    /u/Imaginary_Gas7   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ddr372/signingcert_on_esign/</guid>
       <pubDate>Tue, 11 Jun 2024 22:28:54 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>Signulous 已设置 ESign，但我已退出应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddjhhj/signulous_with_esign_setup_but_i_got_signed_out/</link>
-      <description><![CDATA[嗨，我通过 ESign 使用 Signulous 办理证书，但昨天我退出了所有需要登录的侧载应用。 到目前为止，我检查过的大多数应用都没有问题，但我只是好奇为什么会发生这种情况，或者这是一个已知问题吗？ 我的证书要到 10 月才会续订。 如果我遗漏了什么，欢迎提供任何帮助或想法。 谢谢。    提交人    /u/Electronic-Shaman   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我通过 ESign 使用 Signulous 办理证书，但昨天我退出了所有需要登录的侧载应用。  到目前为止，我检查过的大多数应用都没有问题，但我只是好奇为什么会发生这种情况，或者这是一个已知问题吗？ 我的证书要到 10 月才会续订。  如果我遗漏了什么，欢迎提供任何帮助或想法。  谢谢。    提交人    /u/Electronic-Shaman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ddjhhj/signulous_with_esign_setup_but_i_got_signed_out/</guid>
       <pubDate>Tue, 11 Jun 2024 17:14:30 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我知道他们以前是这样做的。它还适用于 iOS 17+ 吗？如果可以，它可以通过 WiFi 工作吗？    由    /u/S0LO_Bot  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ddhi2a/does_sidestore_still_support_jit_what_about_over/</guid>
       <pubDate>Tue, 11 Jun 2024 15:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装内置的 YouTube ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ddh0dk/installing_a_built_youtube_ipa/</link>
-      <description><![CDATA[如何使用我在 github 中制作的内置 YouTube IPA？我的工作流程未在“代码”选项卡中显示。运行成功。    由   提交  /u/Carrotman300   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ddh0dk/installing_a_built_youtube_ipa/</guid>
-      <pubDate>Tue, 11 Jun 2024 15:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>指南：如何在 iOS 上进行无到期侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ddfmq0/guide_how_to_sideload_on_ios_without_expiry/</link>
-      <description><![CDATA[介绍： 大家好，我制作了臭名昭著的 iOS Shortcut，它可以自动完成整个侧载体验，但默认情况下，它附带一个偶尔会过期的免费证书。解决方案是简单地替换使用您自己的证书的默认 API（在 Shortcut 中），而我使用过期的证书（Sunshine Insurance Group），但使用特定的 DNS 配置文件，无需在一个地方进行任何其他操作。但是，访问自己的 API 是大多数新手忽略的一件事，我的收件箱（以及这里的时间线）总是一次又一次地填满同样的问题∞ 链接 » 完整教程 ↳ 本教程是使用 Esign 的替代方法。 描述： 无论您使用快捷方式还是 Esign 方法，本质都基本相同，但此处的 Esign 教程只是将所有内容压缩成最简单的形式，除了给出的解释之外，就好像我在这里为普通人再次构建快捷方式一样，将所有内容限制为单击（即时链接），直到我下定决心还可以开发一个快捷方式，逐步自动完成 Esign 安装过程。 为了简化本教程，大部分资源都来自于 Khoindvn，所以我这里没有添加任何新内容，但我没有引用多个资源，而是直接集成了可以尽快立即部署的内容，例如原始 Esign 安装链接，该链接由于证书状态而处于关闭状态，但从 Khoindvn 的使用单一证书（更多内容请参见本教程）或 Coco Cloud 证书开始，这需要您有一个帐户，即使它是一个免费的帐户，可以从 Scarlet、FlekStore 到 Signed Installer 广泛使用。 作者注： 我希望没有剩余问题，但您不必在教程网站上创建帐户，而只需在此处的评论部分中提出它们即可。但是，我仍然希望在您遇到困难时花一些时间，而不是立即诉诸一对一的互动。 这是仅供此 subreddit 活跃社区使用的附加 repo： https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json    提交人    /u/Avieshek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ddfmq0/guide_how_to_sideload_on_ios_without_expiry/</guid>
-      <pubDate>Tue, 11 Jun 2024 14:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我打开我喜欢的视频时，它会显示一大片白色空白，有什么办法可以解决这个问题？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ddbd29/it_shows_a_big_white_blank_when_i_open_my_liked/</link>
-      <description><![CDATA[      我找不到解决方法，我删除并重新下载了应用程序，但仍然出现同样的问题。   由    /u/Alakavra  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ddbd29/it_shows_a_big_white_blank_when_i_open_my_liked/</guid>
-      <pubDate>Tue, 11 Jun 2024 11:01:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
