@@ -4,13 +4,20 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 12 Jun 2024 12:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 15:08:29 GMT</lastBuildDate>
     <item>
-      <title>Evee spotify 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1de45ui/evee_spotify_problem/</link>
-      <description><![CDATA[我无法点击任何歌曲。它只是灰色的。有人知道该怎么办吗？  https://imgur.com/a/GulVNbv    提交人    /u/Sufficient_Fox_9070   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1de45ui/evee_spotify_problem/</guid>
-      <pubDate>Wed, 12 Jun 2024 11:16:59 GMT</pubDate>
+      <title>我撰写了一个教程，介绍如何使用 Esign 简化 iOS 上的 Sideloading</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1de7ypn/i_authored_a_tutorial_to_simplify_sideloading_on/</link>
+      <description><![CDATA[  由    /u/Avieshek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1de7ypn/i_authored_a_tutorial_to_simplify_sideloading_on/</guid>
+      <pubDate>Wed, 12 Jun 2024 14:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您有开发者账户，如何获取 .p12 和 .mobileProvision</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1de7txt/how_to_get_p12_and_mobileprovision_if_you_have/</link>
+      <description><![CDATA[大家好！如果我有苹果开发者账户，有没有获取 gBox /ESign 的 .p12 和 .mobile 配置文件的手册？或者这可能很危险，我会被禁止？    提交人    /u/S1AnGeR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1de7txt/how_to_get_p12_and_mobileprovision_if_you_have/</guid>
+      <pubDate>Wed, 12 Jun 2024 14:20:03 GMT</pubDate>
     </item>
     <item>
       <title>有人能帮我安装 esign 吗？我使用的是 iPad Gen 6 和 iOS 17.5.1</title>
@@ -99,16 +106,9 @@
     <item>
       <title>意义重大的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ddta0t/signulous_question/</link>
-      <description><![CDATA[两天前刚买了 signulous，它说我的设备已经注册了，但是当我去签署应用程序时，它说要等待 72 小时。我很好奇这个 72 小时是强制等待还是有其他问题，因为它说它“已注册并链接”    由    /u/NotFnatic  提交  [link] [comments]]]></description>
+      <description><![CDATA[两天前刚买了 signulous，它说我的设备已经注册了，但是当我去签署应用程序时，它说要等待 72 小时。我很好奇这个 72 小时是强制等待还是有其他问题，因为它说它“已注册并链接”    提交人    /u/NotFnatic   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ddta0t/signulous_question/</guid>
       <pubDate>Wed, 12 Jun 2024 00:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 E-Sign 侧载时无法点击播放的媒体/应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ddsk35/couldnt_tap_mediaapp_played_when_sideloaded_with/</link>
-      <description><![CDATA[我目前遇到此问题，我无法通过通知面板/锁定屏幕与应用程序交互，并且它不会跳转到应用程序，当使用 altstore 侧载时，它运行完美， 我需要做什么才能使其在电子签名上正常工作？    提交人    /u/danielaniq28   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ddsk35/couldnt_tap_mediaapp_played_when_sideloaded_with/</guid>
-      <pubDate>Tue, 11 Jun 2024 23:36:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
