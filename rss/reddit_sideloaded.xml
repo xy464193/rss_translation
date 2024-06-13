@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 13 Jun 2024 03:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 06:12:28 GMT</lastBuildDate>
+    <item>
+      <title>最优质的服务？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dera65/best_service/</link>
+      <description><![CDATA[我需要为 2 部不同的手机提供最佳服务    提交人    /u/MROMFGBOSS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dera65/best_service/</guid>
+      <pubDate>Thu, 13 Jun 2024 05:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以通过应用切换器打开已过期的应用来绕过它</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1depv41/you_can_bypass_an_expired_app_by_opening_it_from/</link>
+      <description><![CDATA[不确定其他人是否也遇到这种情况，但是当我在应用程序上点击该应用程序时弹出应用程序过期的弹出窗口时，我可以直接进入应用程序切换器并以此方式打开它，使用它没有任何问题。 我不确定是不是因为我使用的是第一个 iOS 18 开发者测试版。    提交人    /u/TestFlightBeta   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1depv41/you_can_bypass_an_expired_app_by_opening_it_from/</guid>
+      <pubDate>Thu, 13 Jun 2024 03:52:47 GMT</pubDate>
+    </item>
     <item>
       <title>我被列入黑名单了 :(</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1demlnt/im_blacklisted/</link>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 12 Jun 2024 18:50:16 GMT</pubDate>
     </item>
     <item>
-      <title>IPA 交付</title>
+      <title>IPA交付</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1deeapv/ipa_libray/</link>
       <description><![CDATA[谁知道 alt 商店的合法 ipa 库每次我尝试下载 ipa 时它都会关闭 alt 商店     提交人    /u/Potential_Signal_398   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1deeapv/ipa_libray/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[介绍： 大家好，我制作了臭名昭著的 iOS Shortcut，它可以自动完成整个侧载体验，但默认情况下，它附带一个偶尔会过期的免费证书。解决方案是简单地替换使用您自己的证书的默认 API（在 Shortcut 中），而我使用过期的证书（Sunshine Insurance Group），但使用特定的 DNS 配置文件，无需在一个地方进行任何其他操作。但是，访问自己的 API 是大多数新手忽略的一件事，我的收件箱（以及这里的时间线）总是一次又一次地填满同样的问题∞ 链接 » 完整教程 ↳ 本教程是使用 Esign 的替代方法。 描述： 无论您使用快捷方式还是 Esign 方法，本质都基本相同，但此处的 Esign 教程只是将所有内容压缩成最简单的形式，除了给出的解释之外，就好像我在这里为普通人再次构建快捷方式一样，将所有内容限制为单击（即时链接），直到我下定决心还可以开发一个快捷方式，逐步自动完成 Esign 安装过程。 为了简化本教程，大部分资源都来自于 Khoindvn，所以我这里没有添加任何新内容，但我没有引用多个资源，而是直接集成了可以尽快立即部署的内容，例如原始 Esign 安装链接，该链接由于证书状态而处于关闭状态，但从 Khoindvn 的使用单一证书（更多内容请参见本教程）或 Coco Cloud 证书开始，这需要您有一个帐户，即使它是一个免费的帐户，可以从 Scarlet、FlekStore 到 Signed Installer 广泛使用。 作者注： 我希望没有剩余问题，但您不必在教程网站上创建帐户，而只需在此处的评论部分中提出它们即可。但是，我仍然希望在您遇到困难时花一些时间，而不是立即诉诸一对一的互动。    提交人    /u/Avieshek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/</guid>
       <pubDate>Wed, 12 Jun 2024 16:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>新款 iPhone = 新证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1de9re3/new_iphone_new_cert/</link>
-      <description><![CDATA[我原本想购买一个证书来进行侧载，因为 3 个应用程序的限制和使用 sidealoadly 的 7 天更新对我来说有点无聊。不过，我想今年升级我的 iPhone，所以问题是：现在购买证书是否值得？如果我换手机，可以在新手机上进行侧载吗？    提交人    /u/luca-2210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1de9re3/new_iphone_new_cert/</guid>
-      <pubDate>Wed, 12 Jun 2024 15:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您有开发者账户，如何获取 .p12 和 .mobileProvision</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1de7txt/how_to_get_p12_and_mobileprovision_if_you_have/</link>
-      <description><![CDATA[大家好！如果我有苹果开发者账户，有没有获取 gBox /ESign 的 .p12 和 .mobile 配置文件的手册？或者这可能很危险，我会被禁止？    提交人    /u/S1AnGeR   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1de7txt/how_to_get_p12_and_mobileprovision_if_you_have/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
