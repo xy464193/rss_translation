@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:38:52 GMT</lastBuildDate>
+    <item>
+      <title>你不能在 iOS 18 上进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1delh66/you_cant_sideload_on_ios_18/</link>
+      <description><![CDATA[您好，我最近获得了 iOS 18 更新，并下载了 Esign。现在他们出现了一个奇怪的新问题，您必须重启手机才能允许配置文件。但重启后，Esign 就会崩溃     提交人    /u/Mugzeeee   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1delh66/you_cant_sideload_on_ios_18/</guid>
+      <pubDate>Thu, 13 Jun 2024 00:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于使用 Signulous 更新 EeveeSpotify 的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dejly6/question_regarding_updating_eeveespotify_using/</link>
+      <description><![CDATA[EeveeSpotify 在您的文件中创建一个文件夹，您可以在其中添加音频文件，并将在 spotify 上填充为本地文件。 通常当我更新应用程序时，我只需删除旧应用程序并安装新更新的应用程序。 我不认为我可以对 EeveeSpotify 执行此操作，因为如果我删除它，它将删除包含我的本地音频文件的文件夹。 我的问题是，使用 signulous，如果我只是安装新版本的 EeveeSpotify，它会覆盖当前版本从而使其成为最新版本吗？    提交人    /u/PopOutKev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dejly6/question_regarding_updating_eeveespotify_using/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:34:58 GMT</pubDate>
+    </item>
     <item>
       <title>AltStore 上的主题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dehcod/theming_on_altstore/</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 12 Jun 2024 18:50:16 GMT</pubDate>
     </item>
     <item>
-      <title>IPA 交付</title>
+      <title>IPA交付</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1deeapv/ipa_libray/</link>
       <description><![CDATA[谁知道 alt 商店的合法 ipa 库每次我尝试下载 ipa 时它都会关闭 alt 商店     提交人    /u/Potential_Signal_398   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1deeapv/ipa_libray/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在使用 ipad gen 6 ios 17.5.1，我尝试了所有可能的方法，我认为我被列入了黑名单 :(    提交人    /u/CommercialVolume6266   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1de3dz4/can_someone_help_me_install_esign_im_using_ipad/</guid>
       <pubDate>Wed, 12 Jun 2024 10:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 测试版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1de18py/ios_18_beta/</link>
-      <description><![CDATA[嗨，我正在考虑尝试 iOS 18 测试版，我只是想知道我的侧载应用程序是否还能正常工作    提交人    /u/PrizeLoose5017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1de18py/ios_18_beta/</guid>
-      <pubDate>Wed, 12 Jun 2024 07:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红色不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1de14pd/scarlet_wont_work/</link>
-      <description><![CDATA[        提交人    /u/skittlewastaken_   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1de14pd/scarlet_wont_work/</guid>
-      <pubDate>Wed, 12 Jun 2024 07:49:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
