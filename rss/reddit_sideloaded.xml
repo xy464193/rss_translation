@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 15 Jun 2024 12:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 15:09:23 GMT</lastBuildDate>
+    <item>
+      <title>防撤销功能无效</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</link>
+      <description><![CDATA[您好，我只是想把它放在那里，因为我不确定我是不是唯一一个。基本上，我从 u/Pureenvy 的教程（我对 reddit 还很陌生，所以不确定如何标记人）下载了 eSign，并使用 Migu Digital Media 证书下载了应用程序以及 IPA。  这种情况可能已经持续了一个星期，没有任何问题，然而今天我尝试登录 eSign 查看是否有任何新内容上传，但他的教程提供的防撤销 DNS 不起作用，因为我无法打开任何应用程序。  我想知道这是否发生在其他人身上，我是否做错了什么，或者这只是某种错误。谢谢！ 编辑：我不小心标记了错误的人，抱歉    提交人    /u/iamintocatgirls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</guid>
+      <pubDate>Sat, 15 Jun 2024 13:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>哪里有好地方可以下载修改版游戏的 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgf7en/wheres_a_good_place_to_get_ipas_of_modded_games/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/Saige_Haythem_Kenway   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dftd0p/attention_apple_may_have_patched_antirevoke/</guid>
       <pubDate>Fri, 14 Jun 2024 15:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么在 Windows 上我的 iPhone XS Max 没有显示信任提示？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dfmx9m/why_on_windows_my_iphone_xs_max_doesnt_show_the/</link>
-      <description><![CDATA[标题，我也双启动了 Windows 和 Linux，试过 Linux，确实出现了信任提示。 我只是不使用 Linux 来侧载，因为该发行版上的侧载工具的下载速度实在是太慢了    提交人    /u/WinsAviation   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dfmx9m/why_on_windows_my_iphone_xs_max_doesnt_show_the/</guid>
-      <pubDate>Fri, 14 Jun 2024 09:37:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
