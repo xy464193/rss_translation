@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 15 Jun 2024 00:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 03:09:35 GMT</lastBuildDate>
+    <item>
+      <title>我无论如何都无法在 iOS 18 上使用 SideStore 安装应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dg7pr4/cant_for_the_life_of_me_install_an_app_with/</link>
+      <description><![CDATA[在过去一个小时左右的时间里，我一直在尽力使用 Sidestore 安装 Apollo，但似乎就是无法成功。我最近更新到了 iOS 18，并使用 MacBook 将 Sidestore 安装到了 iPhone 上。然后，我打开了 SideStore 应用程序，选择了配对文件，并启用了 WireGuard VPN。 但是，当我单击 SideStore 中的“加号”按钮以选择 Apollo IPA 时，SideStore 中出现错误，提示我 WireGuard VPN 未启用或我未连接到 Wi-Fi。以下是我尝试过的几件事：  打开和关闭 WireGuard VPN 重启手机 打开和关闭 Wi-Fi 完全关闭蜂窝数据 强制退出并多次打开 Sidestore。  这些似乎都无济于事。我已经束手无策了。Sidestore 与 iOS 18 不兼容吗？    提交人    /u/TestFlightBeta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dg7pr4/cant_for_the_life_of_me_install_an_app_with/</guid>
+      <pubDate>Sat, 15 Jun 2024 02:25:14 GMT</pubDate>
+    </item>
     <item>
       <title>我有一个 Apple 开发者账户 - 如何生成自己的证书和配置文件以供 esign 使用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dg5g0i/i_have_an_apple_developer_account_how_do_i/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>帮助和建议</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dfxavz/help_and_suggestions/</link>
-      <description><![CDATA[所以我正在寻找一些好的 ESign 仓库，请帮忙，你能把链接放上来吗，谢谢     提交人    /u/CheesecakePositive   [link] [comments]]]></description>
+      <description><![CDATA[所以我在寻找一些好的 ESign 仓库，请帮忙，你能把链接贴出来吗，谢谢     提交人    /u/CheesecakePositive   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dfxavz/help_and_suggestions/</guid>
       <pubDate>Fri, 14 Jun 2024 18:10:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[YouTube 似乎已经删除了在 iPad 全屏状态下显示实时聊天的功能。是否有任何我可以侧载的版本可以恢复此功能？    提交人    /u/billchase2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dffdhq/youtube_ipad_app_with_full_screen_chat/</guid>
       <pubDate>Fri, 14 Jun 2024 01:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 Reflet Muse IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dfeavn/does_anyone_have_a_reflet_muse_ipa/</link>
-      <description><![CDATA[我最近通过 Bemani subreddit 听说了 Reflet Muse（社区制作的 Reflec Beat + 版本），并且想知道我是否可以通过侧载将其加载到我的 IPad 上，因为下载它通常需要 Windows 电脑，而我没有，这导致我开始寻找游戏的 IPA，我转向这里看看是否有人有。提前谢谢您！     提交人    /u/Y0RU-V3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dfeavn/does_anyone_have_a_reflet_muse_ipa/</guid>
-      <pubDate>Fri, 14 Jun 2024 00:40:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
