@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 15 Jun 2024 18:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 21:07:41 GMT</lastBuildDate>
+    <item>
+      <title>Deezer++ IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dgrhz2/deezer_ipa/</link>
+      <description><![CDATA[似乎在 Deezer 停止免费计划后，所有 Deezer++ IPA 都会在一段时间后出现踢出问题和/或在切换三张专辑后停止工作。 有什么解决方法吗？    提交人    /u/MI081970   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dgrhz2/deezer_ipa/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>付费开发者帐户的权益</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dgr9vd/entitlements_with_paid_dev_acc/</link>
+      <description><![CDATA[我有一个付费开发者帐户，我想用 esign 对我的应用进行签名，以便文件选择器和通知可以正常工作。我尝试使用 iOS 开发证书和 Apple 分发证书，以及与应用 ID 匹配的移动条款，并且我已注册了一个单独的捆绑包 ID 作为尝试。我只让文件选择器工作，而通知却不起作用。 我正在尝试使用 enmity discord 来执行此操作，如果有人可以提供任何指导，我将不胜感激。    提交人    /u/_aw-ay   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dgr9vd/entitlements_with_paid_dev_acc/</guid>
+      <pubDate>Sat, 15 Jun 2024 20:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以在装有 tvOS 17.4 的 Apple TV 4K 上进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</link>
+      <description><![CDATA[背面没有 usb-c 端口    由    /u/Aardvark-Fearless  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</guid>
+      <pubDate>Sat, 15 Jun 2024 19:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>如何清除 InstaRocket 数据？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgnvdm/how_to_clear_instarocket_data/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>驚訝</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</link>
-      <description><![CDATA[我使用 signulous 和 app signer 已经 2 年了，但现在不能再使用了，我使用的是 17.4 ip14，它有什么问题？有什么建议吗？ 我可以选择 ipa，但它无法加载 :/     提交人    /u/cantekim1   [link] [评论]]]></description>
+      <description><![CDATA[我使用 signulous 和 app signer 已经 2 年了，但现在不能再使用了，我使用的是 17.4 ip14，有什么问题吗？有什么建议吗？ 我可以选择 ipa，但它无法加载 :/     提交人    /u/cantekim1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</guid>
       <pubDate>Sat, 15 Jun 2024 17:54:33 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>防撤销功能无效</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</link>
-      <description><![CDATA[您好，我只是想把它放在那里，因为我不确定我是不是唯一一个。基本上，我从 u/Pureenvy 的教程（我对 reddit 还很陌生，所以不确定如何标记人）下载了 eSign，并使用 Migu Digital Media 证书下载了应用程序以及 IPA。  这种情况已经持续了大约一个星期，没有任何问题，但是今天我尝试登录 eSign 查看是否有任何新内容上传，但是他的教程提供的防撤销 DNS 不起作用，因为我无法打开任何应用程序。  我想知道这是否发生在其他人身上，我是否做错了什么，或者这只是某种错误。谢谢！ 编辑：我不小心标记了错误的人，抱歉    提交人    /u/iamintocatgirls   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我只是想把它放在那里，因为我不确定我是不是唯一一个。基本上，我从 u/Pureenvy 的教程（我对 reddit 还很陌生，所以不确定如何标记人）下载了 eSign，并使用 Migu Digital Media 证书下载了应用程序以及 IPA。  这种情况可能已经持续了一个星期，没有任何问题，然而今天我尝试登录 eSign 查看是否有任何新内容上传，但他的教程提供的防撤销 DNS 不起作用，因为我无法打开任何应用程序。  我想知道这是否发生在其他人身上，我是否做错了什么，或者这只是某种错误。谢谢！ 编辑：我不小心标记了错误的人，抱歉    提交人    /u/iamintocatgirls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</guid>
       <pubDate>Sat, 15 Jun 2024 13:01:01 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我刚刚获得 SpotifyEevee 并下载了一张专辑。我希望能够将下载的内容分类到不同的文件夹中，例如专辑等。但是当我打开 Spotify 时，所有歌曲都只显示在一处。那么有没有办法组织本地文件以帮助区分我下载的不同专辑？    提交人    /u/Beef_Testostrome   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dg168q/can_i_sort_downloaded_songs_into_playlists/</guid>
       <pubDate>Fri, 14 Jun 2024 21:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何下载刚刚创建的 YouTube IPA 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dg06ja/how_do_i_download_the_youtube_ipa_file_i_just/</link>
-      <description><![CDATA[我创建了它，但不知道如何从 GitHub 下载它？    提交人    /u/Then_Medium2424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dg06ja/how_do_i_download_the_youtube_ipa_file_i_just/</guid>
-      <pubDate>Fri, 14 Jun 2024 20:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sideloadly 还是 Sidestore？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dfyxf0/sideloadly_or_sidestore/</link>
-      <description><![CDATA[哪一个更好？你们中有人有经验吗？    提交人    /u/Aminxakl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dfyxf0/sideloadly_or_sidestore/</guid>
-      <pubDate>Fri, 14 Jun 2024 19:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>签署 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dfycjo/esign_ipa/</link>
-      <description><![CDATA[我知道这听起来像是一个愚蠢的问题，但我在哪里可以找到 esign ipa？https://khoindvn.bio.link/ 有很多链接，但它们似乎都不是我可以下载的实际 ipa。我可以看到 DNS、证书和已签名/已撤销的应用程序，但没有实际的 ipa 可供下载。    提交人    /u/Trick-Minimum8593   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dfycjo/esign_ipa/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:55:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
