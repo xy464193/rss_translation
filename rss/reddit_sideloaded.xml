@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 14 Jun 2024 21:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 00:38:31 GMT</lastBuildDate>
+    <item>
+      <title>我有一个 Apple 开发者账户 - 如何生成自己的证书和配置文件以供 esign 使用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dg5g0i/i_have_an_apple_developer_account_how_do_i/</link>
+      <description><![CDATA[我知道这个问题之前有人问过，但我希望有人能提供一份权威指南。我看过的所有帖子都是零零碎碎的，但我真的希望能了解从生成 CSR、请求证书、下载配置文件，然后将其导入 esign 以从源存储库侧载 IPA 的端到端流程。  我不想使用 appdb。我想使用 esign 在本地签署应用程序。我有一个开发者帐户，目前使用 AltStore，但我希望能够在不链接到我的 Mac 的情况下即时签署应用程序。     提交人    /u/OGRepStar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dg5g0i/i_have_an_apple_developer_account_how_do_i/</guid>
+      <pubDate>Sat, 15 Jun 2024 00:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>我可以将下载的歌曲分类放入播放列表吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dg168q/can_i_sort_downloaded_songs_into_playlists/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>帮助和建议</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dfxavz/help_and_suggestions/</link>
-      <description><![CDATA[所以我在寻找一些好的 ESign 仓库，请帮忙，你能把链接贴出来吗，谢谢     提交人    /u/CheesecakePositive   [link] [comments]]]></description>
+      <description><![CDATA[所以我正在寻找一些好的 ESign 仓库，请帮忙，你能把链接放上来吗，谢谢     提交人    /u/CheesecakePositive   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dfxavz/help_and_suggestions/</guid>
       <pubDate>Fri, 14 Jun 2024 18:10:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我最近通过 Bemani subreddit 听说了 Reflet Muse（社区制作的 Reflec Beat + 版本），并且想知道我是否可以通过侧载将其加载到我的 IPad 上，因为下载它通常需要 Windows 电脑，而我没有，这导致我开始寻找游戏的 IPA，我转向这里看看是否有人有。提前谢谢您！     提交人    /u/Y0RU-V3   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dfeavn/does_anyone_have_a_reflet_muse_ipa/</guid>
       <pubDate>Fri, 14 Jun 2024 00:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 无法安装吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dfd6cq/scarlet_cant_install/</link>
-      <description><![CDATA[发生的事情是 scarlet 突然停止工作，所以我所做的就是删除它并尝试再次安装它，但它停止了，当我单击它时，它说“无法安装此应用程序，因为无法验证其完整性”，这种情况已经发生了一个多星期……顺便说一下，在网站上，它说已经签名，所以我真的不知道发生了什么。    提交人    /u/Aj_AnimatesYT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dfd6cq/scarlet_cant_install/</guid>
-      <pubDate>Thu, 13 Jun 2024 23:44:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
