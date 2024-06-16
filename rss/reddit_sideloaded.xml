@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 16 Jun 2024 06:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 09:15:16 GMT</lastBuildDate>
+    <item>
+      <title>侧载错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</link>
+      <description><![CDATA[我看到类似“操作已取消”和“3 个应用限制”的错误（侧载应用时出现此错误）。我该怎么办？    提交人    /u/StoreMysterious4306   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</guid>
+      <pubDate>Sun, 16 Jun 2024 07:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh2c8o/sideloadly/</link>
+      <description><![CDATA[我刚刚获得一个开发者帐户，现在当我尝试重新注册我的旧 ipa（例如您的 ipa）时，我收到此错误。 安装过程中出现问题：0：MismatchedApplication/dentifierEntitlement  我该怎么办？    提交人    /u/potreek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh2c8o/sideloadly/</guid>
+      <pubDate>Sun, 16 Jun 2024 07:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 服务器宕机了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh1r83/sidestore_server_down/</link>
+      <description><![CDATA[从昨天开始，每当我尝试刷新时都会失败，并且会出现此消息↓ 无法刷新 3 个应用程序。从 V3 服务器获取 anisette 数据时发生错误：无法获取客户端信息。服务器可能已关闭（HTTP 重定向太多）。请重试。如果问题仍然存在，请在 GitHub Issues 上报告！ 我该如何解决这个问题？ 提前致谢。    提交人    /u/Ruvalolowa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh1r83/sidestore_server_down/</guid>
+      <pubDate>Sun, 16 Jun 2024 06:48:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Signulous 解决 Game Center 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh1hyb/solution_to_game_center_using_signulous/</link>
+      <description><![CDATA[自从我更新到 iOS 17 以来，每次我使用 signulous 侧载 IPA 文件时，我都无法使用游戏中心登录，只能使用 Facebook 登录。有解决办法吗？    提交人    /u/Zayn1738   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh1hyb/solution_to_game_center_using_signulous/</guid>
+      <pubDate>Sun, 16 Jun 2024 06:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>是否可以写入ntfs硬盘？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgxo8d/is_it_possible_to_write_in_ntfs_hard_drives/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>是否可以在装有 tvOS 17.4 的 Apple TV 4K 上进行侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</link>
-      <description><![CDATA[背面没有 usb-c 端口    提交人    /u/Aardvark-Fearless   [link] [comments]]]></description>
+      <description><![CDATA[背面没有 usb-c 端口    由    /u/Aardvark-Fearless  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</guid>
       <pubDate>Sat, 15 Jun 2024 19:01:03 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>驚訝</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</link>
-      <description><![CDATA[我使用 signulous 和 app signer 已经 2 年了，但现在不能再使用了，我使用的是 17.4 ip14，它有什么问题？有什么建议吗？ 我可以选择 ipa，但它无法加载 :/     提交人    /u/cantekim1   [link] [评论]]]></description>
+      <description><![CDATA[我使用 signulous 和 app signer 已经 2 年了，但现在不能再使用了，我使用的是 17.4 ip14，有什么问题吗？有什么建议吗？ 我可以选择 ipa，但它无法加载 :/     提交人    /u/cantekim1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</guid>
       <pubDate>Sat, 15 Jun 2024 17:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助使用 igamegod 破解 Hcr2</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgndz3/i_need_help_hacking_hcr2_using_igamegod/</link>
-      <description><![CDATA[可能有人对旧版本做过同样的操作，但很难做到    提交人    /u/Square_Difficulty211   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgndz3/i_need_help_hacking_hcr2_using_igamegod/</guid>
-      <pubDate>Sat, 15 Jun 2024 17:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>防撤销功能无效</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</link>
-      <description><![CDATA[您好，我只是想把它放在那里，因为我不确定我是不是唯一一个。基本上，我从 u/Pureenvy 的教程（我对 reddit 还很陌生，所以不确定如何标记人）下载了 eSign，并使用 Migu Digital Media 证书下载了应用程序以及 IPA。  这种情况已经持续了大约一个星期，没有任何问题，但是今天我尝试登录 eSign 查看是否有任何新内容上传，但是他的教程提供的防撤销 DNS 不起作用，因为我无法打开任何应用程序。  我想知道这是否发生在其他人身上，我是否做错了什么，或者这只是某种错误。谢谢！ 编辑：我不小心标记了错误的人，抱歉    提交人    /u/iamintocatgirls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dghgu1/antirevoke_didnt_work/</guid>
-      <pubDate>Sat, 15 Jun 2024 13:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里有好地方可以下载修改版游戏的 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgf7en/wheres_a_good_place_to_get_ipas_of_modded_games/</link>
-      <description><![CDATA[使用 iOS gods 应用程序已有一段时间了，我只是想知道是否还有其他好的网站可以破解或修改游戏    提交人    /u/lilSauZy5D   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgf7en/wheres_a_good_place_to_get_ipas_of_modded_games/</guid>
-      <pubDate>Sat, 15 Jun 2024 10:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 更新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgek3s/ios_18_update/</link>
-      <description><![CDATA[随着即将到来的 IOS 18 更新，我想知道侧载是否会出现任何问题    提交人    /u/Financial_Safety_382   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgek3s/ios_18_update/</guid>
-      <pubDate>Sat, 15 Jun 2024 09:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
