@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 16 Jun 2024 09:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:14:44 GMT</lastBuildDate>
+    <item>
+      <title>电子签名帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh498i/esign_help/</link>
+      <description><![CDATA[大家好，我使用 envyus 教程使用 esign 有一段时间了，一切都运行良好，然后我将我的 iOS 更新到 18 测试版，现在我无法安装 esign，我重置了手机并重置了设置，但仍然不起作用，任何帮助都将不胜感激！    由    /u/simbayasss  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh498i/esign_help/</guid>
+      <pubDate>Sun, 16 Jun 2024 09:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>死亡扳机 2 修改版 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh45yg/dead_trigger_2_modded_ipa/</link>
+      <description><![CDATA[有人知道下载数据需要多长时间吗？已经开了 30 分钟了，它仍然在下载数据。我通过 iOS gods 下载了修改过的 ipa，这个 ipa 坏了吗？还是我应该让它运行一夜。     提交人    /u/lilSauZy5D   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh45yg/dead_trigger_2_modded_ipa/</guid>
+      <pubDate>Sun, 16 Jun 2024 09:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么有些应用程序使用免费签名方法后会立即关闭？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dh45nx/why_some_apps_immediately_close_with_free_signing/</link>
+      <description><![CDATA[尝试使用 Sideloadly 和 AltStore 安装 Inshot Pro，但每次应用程序都会在 5-10 秒后关闭。没有额外的权限。其他应用程序可以很好地与 Sideloadly 配合使用。 IPA 来自 appdb 和谷歌的一些其他来源。它们也发生了同样的情况。 当我尝试使用 appdb 免费帐户安装相同的 IPA 时，它工作正常，直到该证书被撤销。 知道发生了什么神奇的事情吗？    提交人    /u/borderline-awesome-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dh45nx/why_some_apps_immediately_close_with_free_signing/</guid>
+      <pubDate>Sun, 16 Jun 2024 09:48:17 GMT</pubDate>
+    </item>
     <item>
       <title>侧载错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>付费开发者帐户的权益</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dgr9vd/entitlements_with_paid_dev_acc/</link>
-      <description><![CDATA[我有一个付费开发者帐户，我想用 esign 对我的应用进行签名，以便文件选择器和通知可以正常工作。我尝试使用 iOS 开发证书和 Apple 分发证书，以及与应用 ID 匹配的移动条款，并且我已注册了一个单独的捆绑包 ID 作为尝试。我只让文件选择器工作，而通知却不起作用。 我正在尝试使用 enmity discord 来执行此操作，如果有人可以提供任何指导，我将不胜感激。    提交人    /u/_aw-ay   [link] [评论]]]></description>
+      <description><![CDATA[我有一个付费开发者帐户，我想用 esign 对我的应用进行签名，以便文件选择器和通知正常工作。我尝试使用 iOS 开发证书和 Apple 分发证书，以及与应用 ID 匹配的移动条款，并且我已注册单独的捆绑包 ID 作为尝试。我只让文件选择器工作，而通知却不起作用。 我正在尝试使用 enmity discord 来执行此操作，如果有人可以提供任何指导，我将不胜感激。    提交人    /u/_aw-ay   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dgr9vd/entitlements_with_paid_dev_acc/</guid>
       <pubDate>Sat, 15 Jun 2024 20:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以在装有 tvOS 17.4 的 Apple TV 4K 上进行侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</link>
-      <description><![CDATA[背面没有 usb-c 端口    由    /u/Aardvark-Fearless  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgoztb/is_it_possible_to_sideload_on_an_apple_tv_4k_with/</guid>
-      <pubDate>Sat, 15 Jun 2024 19:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何清除 InstaRocket 数据？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgnvdm/how_to_clear_instarocket_data/</link>
-      <description><![CDATA[      每次我下载 InstagramRocket 时，当我第一次打开应用程序时，我都会看到我之前登录过的用户的个人资料。我尝试删除、重新安装、重启手机等，但无论如何，个人资料始终在那里。我尝试下载应用商店版本的 instagram，当我打开它时，它从不显示个人资料。仅当我下载 instagram rocket 时，是否有任何方法可以在尝试安装 instagram rocket 时清除配置文件？也许它是我配置文件的本地存储文件夹或其他东西，因为只有 instagram rocket 会记住配置文件，而不是常规的 instagram 应用程序。我有一部 iPhone 14，我使用 eSign。希望你能帮助我！！第一张照片是我每次通过应用商店下载 instagram 时看到的，其他照片是我每次第一次打开 instagram rocket 时看到的，无论是删除、重新安装等。出于某种原因，配置文件仅针对 Instagram rocket 保存，不知道如何清除/删除它！    提交人    /u/Responsible-Spite275   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgnvdm/how_to_clear_instarocket_data/</guid>
-      <pubDate>Sat, 15 Jun 2024 18:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>驚訝</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</link>
-      <description><![CDATA[我使用 signulous 和 app signer 已经 2 年了，但现在不能再使用了，我使用的是 17.4 ip14，有什么问题吗？有什么建议吗？ 我可以选择 ipa，但它无法加载 :/     提交人    /u/cantekim1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgnkfu/sıgnulous/</guid>
-      <pubDate>Sat, 15 Jun 2024 17:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
