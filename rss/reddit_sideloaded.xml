@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 17 Jun 2024 15:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:11:43 GMT</lastBuildDate>
+    <item>
+      <title>我需要帮助从 Instagram 调整中删除 .deb 文件。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di4gp5/i_need_help_with_removing_a_deb_file_from_an/</link>
+      <description><![CDATA[大家好，我需要帮助，了解如何从破解版 Instagram 中完全删除所有注入的调整。具体来说，我想这样做是因为每次我尝试获取 Instagram 的解密 IPA 文件时，无论我注入什么 .deb 文件以使 Instagram 正常工作，它都会崩溃。 因此，我的下一个选择是获取一个可以正常工作的 Instagram 版本，其中包含我已经尝试过的调整。问题是，我不想要这个特定 Instagram 版本所具有的调整。但是，当我尝试使用 Sideloadly 侧载它时，Instagram 应用程序可以正常工作。 我现在的计划是使用 Instagram 版本的 IPA，该版本在使用 Sideloadly 侧载后不会崩溃，但我需要弄清楚如何从该版本中删除所有调整，以便我可以添加我真正想要的调整。 在有人问“你确定你的 Instagram .deb 文件不会因为它是一个坏的 .deb 文件而导致 Instagram 崩溃吗？”之前答案是 NO！它确实有效。问题是，我无法获得良好的解密版本的 Instagram，因为我没有越狱的 iPhone 来正确解密 IPA 文件。是的，我已经尝试了互联网上的所有网站来获取解密版本的 Instagram。 这就是为什么我想要获得一个解密版本，其中注入了 .deb 文件并包含所有调整。 我需要完全删除所有 .deb 文件！问题是，我不知道如何在 macOS 上使用 Sideloadly 来做到这一点。我需要知道如何做到这一点！而且我不是那么精通技术，你们！所以请建议一个简单的方法来做到这一点！ 一旦我有一个完美的解密 Instagram IPA，我想将我自己的 .deb 文件注入其中以使其工作。有道理，对吧？    提交人    /u/Informal_Industry_89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di4gp5/i_need_help_with_removing_a_deb_file_from_an/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何修复这个错误？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di4eh6/how_i_can_fix_this_error/</link>
+      <description><![CDATA[      我什么都试过了但都没用... :/    提交人    /u/CanHead9544   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di4eh6/how_i_can_fix_this_error/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助将 .deb 文件注入此 instagram 客户端</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di45qq/need_help_with_injecting_deb_file_into_this/</link>
+      <description><![CDATA[大家好， 我有一个关于通过将 .deb 文件注入 Instagram IPA 进行侧载的重要问题。 使用此特定的 Instagram 黑客攻击（此处链接到特定的调整：https://github.com/SoCuul/SCInsta），我能够获得完全解密的 Instagram IPA。我使用的是开发人员上次测试的版本。但是，出于某种原因，当我使用 .deb 文件 (com.socuul.scinsta_0.4.1_iphoneos-arm64.deb) 从此 GitHub 存储库注入调整时，Instagram 甚至无法加载，因为我的 iPhone 是 11 Pro 并且需要 arm64 版本。奇怪的是，无论我做什么，解密的 Instagram IPA 文件都会崩溃，无论我是否注入 .deb 文件。我怀疑 IPA 文件在没有 .deb 文件的情况下崩溃的原因是它需要与适用于 macOS 的 Sideloadly 应用程序一起使用。作为参考，我正在使用 Sideloadly 将 .deb 文件注入 Instagram IPA 文件中。 我的问题是：我应该使用什么方法将调整（.deb 文件）注入 Instagram IPA？我已经尝试了列表中的方法 1，而没有尝试其他选项。我可能遗漏了什么？在将 .deb 文件注入解密的 Instagram IPA 时，我应该启用第 2、第 3 还是第 4 个选项？ 作为进一步的参考，我从这里获得了解密的 Instagram IPA 文件：https://armconverter.com/decryptedappstore/us 1.在 Sideloadly 中注入 .deb 文件而不使用任何其他选项（没有 Cydia Substrate、Substitute 或 Sideload Spoofer）。 （我已经尝试过这个选项，这再次导致 INSTAGRAM 根本无法加载。每次我打开应用程序时它都会崩溃。） 我应该尝试以下哪个选项来防止 Instagram 崩溃？尝试注入 SCInstagram 调整时我是否遗漏了什么？我需要你的帮助！ 以下是我不确定的选项：  在 Sideloadly 中启用 Cydia Substrate。 在 Sideloadly 中使用 Substitute 选项。 在 Sideloadly 中启用 Sideload Spoofer。    由    /u/Informal_Industry_89  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di45qq/need_help_with_injecting_deb_file_into_this/</guid>
+      <pubDate>Mon, 17 Jun 2024 17:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能完成一个实验吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di2bju/can_someone_complete_an_experiment/</link>
+      <description><![CDATA[所以，大约一个星期以来，我一直在日夜尝试侧载这款名为“Forager”的游戏，但无论如何都没有成功。应用程序可以安装，但它在启动时崩溃，无论我如何安装它或从哪里获取 ipa 文件。 是否有人愿意尝试安装游戏来测试它是否仅发生在我的设备上，或者游戏本身是否出现问题？    提交人    /u/Railici_Plus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di2bju/can_someone_complete_an_experiment/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您需要 Apple 开发人员签署 3 个以上的应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di293i/do_you_need_apple_developer_to_sign_more_than_3/</link>
+      <description><![CDATA[我正在尝试获取 3 个以上的侧载应用并使用 IPA 存储库，例如 scarlet 和 Altstore。如果你们告诉我是否需要购买 Apple 开发者或购买其中一个签名产品，那将会非常有帮助。    提交人    /u/Braindeadd-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di293i/do_you_need_apple_developer_to_sign_more_than_3/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>标志性的图书馆？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di25ra/signulous_library/</link>
+      <description><![CDATA[在花费 20 美元订阅之前，有没有办法查看其中包含的内容？    提交人    /u/Loku1337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di25ra/signulous_library/</guid>
+      <pubDate>Mon, 17 Jun 2024 16:22:04 GMT</pubDate>
+    </item>
     <item>
       <title>难道没有文件或链接，让我能在此子版块中找到“IPA 集合”吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1di00mn/wasnt_there_a_file_or_link_where_i_could_find_a/</link>
@@ -50,7 +92,7 @@
     <item>
       <title>如果我使用 sideloadly 安装 scarlet，我可以使用自定义证书吗？还有一些关于 scarlet 的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dhl2xe/can_i_use_custom_certs_if_i_install_scarlet_with/</link>
-      <description><![CDATA[如果我使用免费的 Apple ID 通过 sideloadly 安装 scarlet，我可以在 scarlet 中安装自定义证书吗？ 在这种情况下，由于我使用的是企业证书，我是否会受到 3 个应用程序的限制？ 最后，如果我一次只能安装 2 个除 scarlet 之外的应用程序，那么每当我尝试激活另一个应用程序时，我是否需要连接到我的电脑？    提交人    /u/randomname97531   [链接] [评论]]]></description>
+      <description><![CDATA[如果我使用免费的 Apple ID 通过 sideloadly 安装 scarlet，我可以在 scarlet 中安装自定义证书吗？ 在这种情况下，由于我使用的是企业证书，因此我是否会受到 3 个应用程序的限制？ 最后，如果除了 scarlet 之外我一次只能安装 2 个应用程序，那么每当我尝试激活另一个应用程序时，我是否需要连接到我的电脑？    提交人    /u/randomname97531   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dhl2xe/can_i_use_custom_certs_if_i_install_scarlet_with/</guid>
       <pubDate>Mon, 17 Jun 2024 00:07:41 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我有一部运行 iOS 17.4.1 的 iPhone 12，我和我的朋友无法使用电子签名，我测试了电子签名网站上的每个免费证书，但仍然无法使用，有人遇到同样的问题吗？有解决办法吗？ （抱歉，我的英语不好）    提交人    /u/Swayz__fr   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dhi5d6/why_ensign_stop_working/</guid>
       <pubDate>Sun, 16 Jun 2024 21:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪个版本的 Tube 有可用的演员阵容吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dhcnro/any_version_of_tube_that_has_working_cast/</link>
-      <description><![CDATA[因此，目前我无法使用 uYou 或任何其他经过调整的 YouTube 投射到 YouTube。我按下投射按钮，但它认为我没有使用 WiFi。这个问题在后续版本中修复了吗？    提交人    /u/PM_ME_YOUR_DANKNESS   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dhcnro/any_version_of_tube_that_has_working_cast/</guid>
-      <pubDate>Sun, 16 Jun 2024 17:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人找到获取 Apollo 通知的方法吗？还是这是死路一条？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh7cg8/has_anyone_found_a_way_to_get_notifications_for/</link>
-      <description><![CDATA[标题说明了一切    提交人    /u/emzy21234   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh7cg8/has_anyone_found_a_way_to_get_notifications_for/</guid>
-      <pubDate>Sun, 16 Jun 2024 13:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在不越狱的情况下欺骗我的手机吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh6phh/can_i_spoof_my_phone_without_jailbreak/</link>
-      <description><![CDATA[我从来没有真正越狱过我的手机，我只是坚持使用 trollstore 进行侧载，但我想欺骗我的手机，但调整似乎不起作用，有什么解决方案或应用程序可以解决这个问题吗？    提交人    /u/Ok-Echo-143   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh6phh/can_i_spoof_my_phone_without_jailbreak/</guid>
-      <pubDate>Sun, 16 Jun 2024 12:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh498i/esign_help/</link>
-      <description><![CDATA[大家好，我使用 envyus 教程使用 esign 有一段时间了，一切都运行良好，然后我将我的 iOS 更新到 18 测试版，现在我无法安装 esign，我重置了手机并重置了设置，但仍然不起作用，任何帮助都将不胜感激！    由    /u/simbayasss  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh498i/esign_help/</guid>
-      <pubDate>Sun, 16 Jun 2024 09:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么有些应用程序使用免费签名方法后会立即关闭？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh45nx/why_some_apps_immediately_close_with_free_signing/</link>
-      <description><![CDATA[尝试使用 Sideloadly 和 AltStore 安装 Inshot Pro，但每次应用程序都会在 5-10 秒后关闭。没有额外的权限。其他应用程序可以很好地与 Sideloadly 配合使用。 IPA 来自 appdb 和谷歌的一些其他来源。它们也发生了同样的情况。 当我尝试使用 appdb 免费帐户安装相同的 IPA 时，它工作正常，直到该证书被撤销。 知道发生了什么神奇的事情吗？    提交人    /u/borderline-awesome-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh45nx/why_some_apps_immediately_close_with_free_signing/</guid>
-      <pubDate>Sun, 16 Jun 2024 09:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</link>
-      <description><![CDATA[我看到类似“操作已取消”和“3 个应用限制”的错误（侧载应用时出现此错误）。我该怎么办？    提交人    /u/StoreMysterious4306   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</guid>
-      <pubDate>Sun, 16 Jun 2024 07:51:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
