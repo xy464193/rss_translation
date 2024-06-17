@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 17 Jun 2024 12:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 15:10:19 GMT</lastBuildDate>
+    <item>
+      <title>难道没有文件或链接，让我能在此子版块中找到“IPA 集合”吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1di00mn/wasnt_there_a_file_or_link_where_i_could_find_a/</link>
+      <description><![CDATA[如果我没记错的话，有一个置顶的帖子，或者描述中的一条注释。是我迷路了，还是它消失了，如果是的话，它去哪儿了？😅    提交人    /u/m00zis1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1di00mn/wasnt_there_a_file_or_link_where_i_could_find_a/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:53:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何更改 IPA 应用程序图标？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dhz53i/how_do_i_change_an_ipa_app_icon/</link>
+      <description><![CDATA[您好，我已经问过一次这个问题了，但我似乎找不到答案，所以我要再试一次。基本上，我使用在线 IPA 签名器（例如“IPASign”）在我的 iphone whiteout 越狱上侧载 IPA。我喜欢使用它，因为一方面它非常简单直观，允许我更改包标识符和名称，但也因为 esign 停止工作，给我一个错误消息，指出“我无法下载，因为我没有权限”。尽管这有点令人沮丧，因为我的证书仍然有效，但我完全可以使用 IPASign。我唯一的问题是我不知道如何在安装之前更改应用程序徽标。这是因为我发现一些 IPA 有某种水印或文本，而这些水印或文本本身并不存在于原始 Instagram 徽标中。正如我上面提到的，有些人告诉我解压 IPA 以获取有效负载（我已尝试过），但我永远无法完成该步骤，因为我只看到有问题的应用程序而没有更改图标的选项。 有人有修复方法或说明吗？ 我可以按照说明使用我的 iPhone（没有电脑）更改徽标，还是我会被迫支付高级服务，例如 flekstore，它具有所有这些自定义选项，但价格为每月 3 美元？     提交人    /u/vittosturi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dhz53i/how_do_i_change_an_ipa_app_icon/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何取消撤销猩红</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dhyxl1/how_do_i_unrevoke_scarlet/</link>
+      <description><![CDATA[请帮忙     由   提交  /u/amareeznuts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dhyxl1/how_do_i_unrevoke_scarlet/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:06:19 GMT</pubDate>
+    </item>
     <item>
       <title>igamegod 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dhw3p3/igamegod_help/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我看到类似“操作已取消”和“3 个应用限制”的错误（侧载应用时出现此错误）。我该怎么办？    提交人    /u/StoreMysterious4306   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dh2mcc/sideload_error/</guid>
       <pubDate>Sun, 16 Jun 2024 07:51:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 服务器宕机了？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh1r83/sidestore_server_down/</link>
-      <description><![CDATA[从昨天开始，每当我尝试刷新时都会失败，并且会出现此消息↓ 无法刷新 3 个应用程序。从 V3 服务器获取 anisette 数据时发生错误：无法获取客户端信息。服务器可能已关闭（HTTP 重定向太多）。请重试。如果问题仍然存在，请在 GitHub Issues 上报告！ 我该如何解决这个问题？ 提前致谢。    提交人    /u/Ruvalolowa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh1r83/sidestore_server_down/</guid>
-      <pubDate>Sun, 16 Jun 2024 06:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Signulous 解决 Game Center 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dh1hyb/solution_to_game_center_using_signulous/</link>
-      <description><![CDATA[自从我更新到 iOS 17 以来，每次我使用 signulous 侧载 IPA 文件时，我都无法使用游戏中心登录，只能使用 Facebook 登录。有解决办法吗？    提交人    /u/Zayn1738   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dh1hyb/solution_to_game_center_using_signulous/</guid>
-      <pubDate>Sun, 16 Jun 2024 06:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以写入ntfs硬盘？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dgxo8d/is_it_possible_to_write_in_ntfs_hard_drives/</link>
-      <description><![CDATA[我对侧载的概念还不熟悉。有没有办法使用侧载应用程序在 ntfs 硬盘上写入数据？    提交人    /u/AbalonePale6326   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dgxo8d/is_it_possible_to_write_in_ntfs_hard_drives/</guid>
-      <pubDate>Sun, 16 Jun 2024 02:26:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
