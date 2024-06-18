@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 18 Jun 2024 18:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:08:07 GMT</lastBuildDate>
+    <item>
+      <title>如何更改 IPA 应用程序的图标</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dizwdl/how_to_change_the_icon_of_an_ipa_app/</link>
+      <description><![CDATA[大家好， 我想知道是否可以仅使用 IPA 更改项目的应用程序图标，然后将该 IPA 下载到手机上。 我已经下载了 IPA 文件并将其重命名为 .zip，然后从那里提取文件。我已经弄清楚了如何通过 info.plist 文件更改应用程序的名称，并尝试通过 asset.car 文件更改图标，但无法替换其中的图像。 如果需要的话，我确实有一个开发者帐户。 谢谢    提交人    /u/Equivalent_Sun_1147   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dizwdl/how_to_change_the_icon_of_an_ipa_app/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>动漫应用程序的 IPA/将 zip 转换为 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dizgsx/ipa_for_anime_appsconvert_zip_to_ipa/</link>
+      <description><![CDATA[使用 signulous 及其可用的应用程序有点中等，我找不到定期上传 ipa 文件的网站，也不知道是否可以将 zip 转换为 ipa     提交人    /u/Seniorapeist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dizgsx/ipa_for_anime_appsconvert_zip_to_ipa/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:39:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>ios 18 重启后 esign 损坏</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1diy0rh/broken_esign_ios_18_after_restart/</link>
+      <description><![CDATA[我的 BHTiktok 坏了，所以我决定重启手机，之后打开时一切都崩溃了，所有应用程序都显示为未经验证，当我单击验证按钮时它也没有验证它们 另外我的屏幕录像没有保存，所以我无法显示，这很奇怪    提交人    /u/Aardvark-Fearless   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1diy0rh/broken_esign_ios_18_after_restart/</guid>
+      <pubDate>Tue, 18 Jun 2024 18:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>你做了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dixldf/udid/</link>
+      <description><![CDATA[嘿，有没有证书卖家允许您为一个证书注册多个 UDID？     提交人    /u/TheHuman-Spider   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dixldf/udid/</guid>
+      <pubDate>Tue, 18 Jun 2024 18:21:24 GMT</pubDate>
+    </item>
     <item>
       <title>[请求] 有人可以对推特进行调整，让带有蓝色复选标记的人发表的评论/帖子看起来不那么明显吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1div6wf/request_can_anyone_make_a_tweak_for_twitter_that/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我使用的是 iOS 18（非 JB），有几个我想要的应用程序尚未调整，但 SatellaJailed 无法让我进行应用内购买，我还尝试了在 Telegram 上找到的一些其他 dylib，它们会导致应用程序崩溃，我还没有找到任何简单的方法在手机上进行应用内购买。有什么想法吗？    提交人    /u/Aardvark-Fearless   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dig6s1/iap_dylib_other_than_satella/</guid>
       <pubDate>Tue, 18 Jun 2024 02:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助清除此应用程序中的捕获文件（又名文档和数据，无需删除并重新安装它！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1difjwd/need_help_clearing_catched_files_aka_documents/</link>
-      <description><![CDATA[嘿，我开始想知道如何在仍处于测试阶段的 Instagram Regram hack 中清除 Instagram 缓存。在 GitHub 上的 BHInstagram hack 上，您可以打开 BHInsta 设置中的 Flex Explorer 选项并清除那里的一些缓存文件。问题是 Instagram Regram hack 没有任何选项可以删除相同的缓存文件，因为它没有 Flex Explorer 选项。我该怎么办？ 提前谢谢！    提交人    /u/Informal_Industry_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1difjwd/need_help_clearing_catched_files_aka_documents/</guid>
-      <pubDate>Tue, 18 Jun 2024 02:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载新手有疑问</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1difg70/new_in_sideloading_have_a_question/</link>
-      <description><![CDATA[大家好，我是侧载社区的新手，我进行了很多搜索，然后安装了名为 Senumy 的配置文件 &#39; 我发现了许多同类库，但都需要 10 美元的捐款。它值得信赖吗，有人试过吗？？请等待答案，提前致谢。     提交人    /u/gedo938   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1difg70/new_in_sideloading_have_a_question/</guid>
-      <pubDate>Tue, 18 Jun 2024 02:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 IPA 文件中删除所有注入的调整？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dieoaa/how_to_i_remove_all_injected_tweaks_off_an_ipa/</link>
-      <description><![CDATA[如何使用 M3 MacBook 彻底删除注入 IPA 文件的所有调整？是否有适用于 macOS 的应用程序可以执行此类操作？ 附注：我知道只有在越狱 iPhone 的情况下才可以在 iOS 上执行此操作。但我的 iPhone 未越狱，我也没有 ESign 来删除 IPA 中注入的所有调整。所以我的最后一个选择是询问是否有适用于 macOS 的应用程序可以执行此类操作。 我想知道这是否可行。提前谢谢大家！    提交人    /u/Informal_Industry_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dieoaa/how_to_i_remove_all_injected_tweaks_off_an_ipa/</guid>
-      <pubDate>Tue, 18 Jun 2024 01:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳电影/电视节目 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dic4nm/best_movietv_show_ipa/</link>
-      <description><![CDATA[您好，我正在寻找最好的电影/电视节目（基本上是所有可以在最著名的流媒体平台上观看的节目）IPA。到目前为止，我已经侧载并尝试了 HDO Box 和 Movie Box Pro，这就是为什么它们几乎是我想要的，但又不完全是。HDO Box 相当不错，唯一的问题是它不允许我下载以供离线观看，这对我来说是必须的。另一方面，Movie Box Pro 几乎是完美的，因为它确实有离线观看选项，而且它的用户界面和整体应用程序非常吸引人且直观。唯一的问题是你必须每年支付大约 25 美元的订阅费。别误会我的意思，这并不坏，但我只是想知道是否有类似或更好的东西，我不需要付费。因此，我写这篇文章的目的是为了查明是否存在这样的 IPA，并牢记以下标准：  几乎涵盖所有平台（PRIME、NETFLIX、DISNEY 等）上的所有电影和电视节目 可以离线观看（离线观看并不是指我可以将电影下载到我的照片中，而是指应用程序有一个专门的部分，我可以在其中下载电影和连续剧（例如 Movie Box Pro 所拥有的）） 免费（我当然不是指 IPA，而是指应用程序内无需支付订阅费用）  4. 通常来说，如果可能的话，最好是一个具有良好用户界面的好应用程序。 我知道这似乎有很多问题要问😅，但基本上我想说的是，是否有 Movie Box Pro 的免费替代品（显然不是他们的‘免费’版本，因为谁有兴趣看360p 啊哈哈）    由    /u/vittosturi 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dic4nm/best_movietv_show_ipa/</guid>
-      <pubDate>Mon, 17 Jun 2024 23:22:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
