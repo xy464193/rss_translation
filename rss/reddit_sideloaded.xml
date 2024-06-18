@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 18 Jun 2024 03:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:12:27 GMT</lastBuildDate>
+    <item>
+      <title>“另一个同名的应用程序”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1diio4x/another_app_with_same_name/</link>
+      <description><![CDATA[当我尝试下载 Youtube ipas 等时，它说，我尝试用 esign 更改名称，但它仍然说，有什么解决办法吗？    提交人    /u/Kwilxi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1diio4x/another_app_with_same_name/</guid>
+      <pubDate>Tue, 18 Jun 2024 05:02:55 GMT</pubDate>
+    </item>
     <item>
       <title>Satella 以外的 IAP dylib</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dig6s1/iap_dylib_other_than_satella/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我什么都试过了但都没用... :/    提交人    /u/CanHead9544   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1di4eh6/how_i_can_fix_this_error/</guid>
       <pubDate>Mon, 17 Jun 2024 17:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将 .deb 文件注入此 instagram 客户端</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1di45qq/need_help_with_injecting_deb_file_into_this/</link>
-      <description><![CDATA[大家好， 我有一个关于通过将 .deb 文件注入 Instagram IPA 进行侧载的重要问题。 使用此特定的 Instagram 黑客攻击（此处链接到特定的调整：https://github.com/SoCuul/SCInsta），我能够获得完全解密的 Instagram IPA。我使用的是开发人员上次测试的版本。但是，出于某种原因，当我使用 .deb 文件 (com.socuul.scinsta_0.4.1_iphoneos-arm64.deb) 从此 GitHub 存储库注入调整时，Instagram 甚至无法加载，因为我的 iPhone 是 11 Pro 并且需要 arm64 版本。奇怪的是，无论我做什么，解密的 Instagram IPA 文件都会崩溃，无论我是否注入 .deb 文件。我怀疑 IPA 文件在没有 .deb 文件的情况下崩溃的原因是它需要与适用于 macOS 的 Sideloadly 应用程序一起使用。作为参考，我正在使用 Sideloadly 将 .deb 文件注入 Instagram IPA 文件中。 我的问题是：我应该使用什么方法将调整（.deb 文件）注入 Instagram IPA？我已经尝试了列表中的方法 1，而没有尝试其他选项。我可能遗漏了什么？在将 .deb 文件注入解密的 Instagram IPA 时，我应该启用第 2、第 3 还是第 4 个选项？ 作为进一步的参考，我从这里获得了解密的 Instagram IPA 文件：https://armconverter.com/decryptedappstore/us 1.在 Sideloadly 中注入 .deb 文件而不使用任何其他选项（没有 Cydia Substrate、Substitute 或 Sideload Spoofer）。 （我已经尝试过这个选项，这再次导致 INSTAGRAM 根本无法加载。每次我打开应用程序时它都会崩溃。） 我应该尝试以下哪个选项来防止 Instagram 崩溃？尝试注入 SCInstagram 调整时我是否遗漏了什么？我需要你的帮助！ 以下是我不确定的选项：  在 Sideloadly 中启用 Cydia Substrate。 在 Sideloadly 中使用 Substitute 选项。 在 Sideloadly 中启用 Sideload Spoofer。    由    /u/Informal_Industry_89  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1di45qq/need_help_with_injecting_deb_file_into_this/</guid>
-      <pubDate>Mon, 17 Jun 2024 17:45:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
