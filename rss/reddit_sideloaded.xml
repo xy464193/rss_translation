@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 19 Jun 2024 09:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 12:15:48 GMT</lastBuildDate>
+    <item>
+      <title>有“word++” ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1djfy7l/any_word_ipa/</link>
+      <description><![CDATA[我想知道是否有任何“word++” ipa 不需要 Microsoft 365 订阅即可使用    提交人    /u/ELIO400   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1djfy7l/any_word_ipa/</guid>
+      <pubDate>Wed, 19 Jun 2024 10:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>侧载！！！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1djd72j/sideloading/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一直在寻找一些安全的    提交人    /u/ElectronicPunkIvona   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1diplrk/any_good_apps_for_sideloading/</guid>
       <pubDate>Tue, 18 Jun 2024 12:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在电子签名中使用 UDID 注册中的哪些证书和配置文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dinr82/what_certificate_provisioning_files_from_udid/</link>
-      <description><![CDATA[我已成功在 UDID 注册中注册了我的手机，现在我已从他们那里获得了证书。我想将我的证书用于 esign 应用程序。但是，我不确定要使用这 3 个选项中的哪一个。它们具有以下内容  证书和配置文件 显式和临时配置（高级）：  A- 开发证书和显式开发配置 B- 分发证书和显式临时配置 在使用 eSign 签名时，我应该使用哪一个来启用通知    提交人    /u/Snes91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dinr82/what_certificate_provisioning_files_from_udid/</guid>
-      <pubDate>Tue, 18 Jun 2024 10:52:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
