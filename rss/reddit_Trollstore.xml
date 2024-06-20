@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Thu, 20 Jun 2024 03:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 06:12:13 GMT</lastBuildDate>
+    <item>
+      <title>从备份恢复 - trollstore 应用程序</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dk3spb/restoring_from_backup_trollstore_apps/</link>
+      <description><![CDATA[如果我们需要通过 iTunes 从备份恢复到手机，备份恢复完成后，trollstore 和通过 trollstore 侧载的应用程序会发生什么？所有这些都会消失，我们需要重新开始，还是它们会保留在手机上？ 假设它们在恢复过程中丢失，是否有任何方法可以分别备份侧载的应用程序及其数据，然后恢复它们？    提交人    /u/sobresal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dk3spb/restoring_from_backup_trollstore_apps/</guid>
+      <pubDate>Thu, 20 Jun 2024 05:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 或 YouTube 音乐具有 CarPlay 权限吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dk1f9p/spotify_or_youtube_music_with_carplay_entitlements/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我需要帮助通过 trollstore tvOS 安装适用于 tvOS 15.0 的 kodi 20.x 或更高版本 我正在使用运行 tvOS 15.0 的 apple tv 4k 第二代。我已成功通过 misaka 安装了 trollstore。 我想在 apple tv 上安装 kodi 20.x 或更高版本，但每次安装 Ipa 时都会出现错误 175。我尝试构建一个新的 ipa 文件并删除了 Frameworks 中的“config-3.11-darwin”，现在我可以通过 trollstore 安装 kodi，不再出现错误 175。但安装后 kodi 无法开机 我只能通过 trollstore 成功安装 kodi 17.6。但 20.x 及以上版本不能。我可以通过 sildeloadly 成功侧载 kodi 20.x ipa 文件，但它仅在 7 天后过期。我想通过 trollstore 安装，这样证书就不会被撤销。你能帮助我吗？    提交人    /u/Sensitive_Bus_3160   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ddefnm/installing_kodi_20x_or_higher_for_tvos_150_via/</guid>
       <pubDate>Tue, 11 Jun 2024 13:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 15.4.1</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ddbkgc/ios_1541/</link>
-      <description><![CDATA[我目前使用的是 ios 15.4.1、A11、iphone8plus。并且安装了 trollstore，无需越狱。我想更新我的 ios 版本，我手机上最新签名的版本是 16.7.8。有什么方法可以让我更新并保留 troll store 而无需越狱。     提交人    /u/Combination_Scary   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ddbkgc/ios_1541/</guid>
-      <pubDate>Tue, 11 Jun 2024 11:13:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
