@@ -4,18 +4,46 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 20 Jun 2024 18:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 21:08:53 GMT</lastBuildDate>
+    <item>
+      <title>龍珠傳奇</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkmbqy/dragon_ball_legends/</link>
+      <description><![CDATA[我最近得到了 SideStore，我想知道是否有人有龙珠传奇的破解版 ipa？就像一个拥有无限货币的 ipa，我不太在意上帝模式或其他什么。     提交人    /u/Famous_Tadpole7157   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkmbqy/dragon_ball_legends/</guid>
+      <pubDate>Thu, 20 Jun 2024 20:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制应用程序是否安全</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkju9i/is_it_safe_to_duplicate_an_app/</link>
+      <description><![CDATA[所以我想复制一些应用程序，但 signulous 说“警告：使用以下任何设置都可能破坏某些应用程序或增加检测到调整过的应用程序的机会”，所以我还是应该这么做     提交人    /u/qipter1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkju9i/is_it_safe_to_duplicate_an_app/</guid>
+      <pubDate>Thu, 20 Jun 2024 19:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>指南：如何构建 uYouEnhanced</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkjcvs/guide_how_to_build_uyouenhanced/</link>
+      <description><![CDATA[https://docs.google.com/document/d/1-Gc6JF0wJ1-MlDJTCLexxKc9PdOnfvnmse7Q8tKFdPg/mobilebasic 感谢 Google，图片总共只有 3 个像素，但它们仍然可以表达要点。  如果您不想构建 IPA，则可以从其他来源检索它，例如 AppTesters repo    提交人    /u/Sharp_Listen3436   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkjcvs/guide_how_to_build_uyouenhanced/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 注销 7.15.0</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkjboc/deezer_logging_out_7150/</link>
+      <description><![CDATA[我跳过五首歌曲后，每个 Deezer ipa 都会崩溃。离线模式下可以正常工作，但当我不处于离线模式时，每播放 5-6 首歌曲，它就会将我注销，我该如何修复     提交人    /u/SeveralHat5638   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkjboc/deezer_logging_out_7150/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:51:16 GMT</pubDate>
+    </item>
     <item>
       <title>防撤销 DNS 更新！ESign</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dkh9j0/antirevoke_dns_update_esign/</link>
-      <description><![CDATA[大家好，我的 r/sideloaded 朋友们！ 如果您一直在使用我之前制作的指南，我暗示了即将更新最初由 Khomod 创建的 DNS 配置文件。 https://github.com/toasty-dev/Khomod DNS 是开源的，如果您想查看，所有人都可以查看使用的阻止和非跟踪。 他最近使用指南中的相同链接添加了一个新的 DNS 以包含 Adblock（截至 4 天前），但这甚至不是最好的部分！ 由于像 u/Ornery_Ingenuity3178 在获得 u/b3ton1991 的帮助后，我们现在有了没有 DNS 泄漏的 NextDNS 解决方案，这要感谢 Khomod 更新的 DNS。  这应该允许您使用另一个 DNS 和 Anti-revoke 来允许广告拦截。我还没有测试这是否可以与 VPN 一起使用，但我出差回家后会更新。 NextDNS 设置 这是自定义配置，只需将其粘贴到应用程序（下一个 dns 应用程序）中即可工作 87629c 您还可以创建下一个 dns 帐户并添加列出的网站，这样您还可以阻止更多广告，甚至不需要从网站安装 DNS，只需使用 NextDNS。 ocsp.apple.com ocsp2.apple.com mesu.apple.com valid.apple.com crl.apple.com certs.apple.com appattest.apple.com vpp.itunes.apple.com guzzoni-apple-com.v.aaplimg.com gdmf.apple.com axm-app.apple.com comm-cohort.ess.apple.com comm-main.ess.apple.com 更多更新即将推出！    由    /u/PuReEnVyUs   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我的 r/sideloaded 朋友们！ 如果您一直在使用我之前制作的指南，我暗示了即将更新最初由 Khomod 创建的 DNS 配置文件。 https://github.com/toasty-dev/Khomod DNS 是开源的，如果您想查看，所有人都可以查看使用的阻止和非跟踪。 他最近使用指南中的相同链接添加了一个新的 DNS 以包含 Adblock（截至 4 天前），但这甚至不是最好的部分！ 由于像 u/Ornery_Ingenuity3178 在获得 u/b3ton1991 的帮助后，我们现在有了没有 DNS 泄漏的 NextDNS 解决方案，这要感谢 Khomod 更新的 DNS。  这应该允许您使用另一个 DNS 以及 Anti-revoke 来允许广告拦截。我还没有测试这是否可以与 VPN 一起使用，但我出差回家后会更新。 NextDNS 设置 这是自定义配置，只需将其粘贴到应用程序（下一个 dns 应用程序）中即可工作 87629c 您还可以创建下一个 dns 帐户并添加列出的网站，这样您还可以阻止更多广告，甚至不需要从网站安装 DNS，只需使用 NextDNS。 ocsp.apple.com ocsp2.apple.com mesu.apple.com valid.apple.com crl.apple.com certs.apple.com appattest.apple.com vpp.itunes.apple.com guzzoni-apple-com.v.aaplimg.com gdmf.apple.com axm-app.apple.com comm-cohort.ess.apple.com comm-main.ess.apple.com 更多更新即将推出！    由    /u/PuReEnVyUs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dkh9j0/antirevoke_dns_update_esign/</guid>
       <pubDate>Thu, 20 Jun 2024 17:25:29 GMT</pubDate>
     </item>
     <item>
       <title>maplesign 应用程序不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dkf18g/maplesign_app_not_working/</link>
-      <description><![CDATA[我有一个 maplesign 证书，我尝试使用 maplesign 应用程序，但每当我点击安装应用程序按钮时，它都不会弹出安装或取消窗口。有人知道解决办法吗？    提交人    /u/Mammoth-Mix7287   [link] [comments]]]></description>
+      <description><![CDATA[我有一个 maplesign 证书，并且尝试使用 maplesign 应用程序，但每当我单击安装应用程序按钮时，它都不会弹出安装或取消窗口。有人知道解决办法吗？    提交人    /u/Mammoth-Mix7287   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dkf18g/maplesign_app_not_working/</guid>
       <pubDate>Thu, 20 Jun 2024 15:52:56 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>您如何保持侧载应用程序保持最新状态？或者您如何保持侧载应用程序保持最新状态？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dkam1v/how_do_you_keep_your_sideloaded_apps_up_to_date/</link>
-      <description><![CDATA[总是有新版本的应用程序经过调整，你会跟上它们，还是使用当前版本直到它崩溃？    由    /u/antctt  提交  [链接] [评论]]]></description>
+      <description><![CDATA[总是有新版本的应用程序经过调整，你会跟上它们，还是使用当前版本直到它崩溃？    提交人    /u/antctt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dkam1v/how_do_you_keep_your_sideloaded_apps_up_to_date/</guid>
       <pubDate>Thu, 20 Jun 2024 12:38:56 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>如何构建 arichornlover 的 uYouEnhanced</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dk1ioi/how_to_build_arichornlovers_uyouenhanced/</link>
-      <description><![CDATA[我看到这里有人无法构建 Arichornlover 的 .ipa，所以我想创建一个帐户并制作一个快速教程。 https://rentry.co/u8fhg8tw    提交人    /u/4K-Blu   [link] [评论]]]></description>
+      <description><![CDATA[我看到这里有人构建 Arichornlover 的 .ipa 时遇到了问题，所以我想创建一个帐户并制作一个快速教程。 https://rentry.co/u8fhg8tw    提交人    /u/4K-Blu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dk1ioi/how_to_build_arichornlovers_uyouenhanced/</guid>
       <pubDate>Thu, 20 Jun 2024 03:01:07 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[它比 insta rocket cracked 好吗？有什么区别？    提交人    /u/james-isreal   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1djx5yl/anyone_tried_insta_regram_cracked_yet/</guid>
       <pubDate>Wed, 19 Jun 2024 23:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>不知所措，需要一些帮助来安装 2 个以上的应用程序！！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1djwx0p/at_a_loss_need_some_help_with_installing_more/</link>
-      <description><![CDATA[首先，我对侧载还不太熟悉。我曾使用过 AltStore，但我发现 SideStore 允许刷新应用程序，而无需每 7 天连接到 Mac 上运行的 AltServer，只需使用 wifi 连接并运行 WireGuard VPN 即可完成此操作。我遇到的问题是，我想将 uYouEnhanced 与 Eevee Spotify 一起安装，但 SideStore 占用 2 个应用程序 ID，uYouEnhanced 占用 3 个应用程序 ID，因此当我安装 Spotify 时，它说需要 6 个应用程序 ID，而我只剩下 5 个。 有什么办法可以解决这个问题，或者修复这种情况吗？我看到 Sidestore 的一个应用程序 ID 是一个小部件，我可以以某种方式在没有该小部件的情况下安装它吗？或者我是否可以仅使用选定数量的扩展来安装 Spotify？ 任何帮助都值得赞赏，只是想了解这一切是如何工作的。    提交人    /u/AngryStamen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1djwx0p/at_a_loss_need_some_help_with_installing_more/</guid>
-      <pubDate>Wed, 19 Jun 2024 23:10:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有 IPA 到 angrybirds epic</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1djtt7h/anyone_have_the_ipa_to_angrybirds_epic/</link>
-      <description><![CDATA[也可以用无限物品破解吗？    提交人    /u/Giggabigganigha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1djtt7h/anyone_have_the_ipa_to_angrybirds_epic/</guid>
-      <pubDate>Wed, 19 Jun 2024 20:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以使用 MDM 管理在设备上进行侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1djtgu2/is_it_possible_to_sideload_on_a_device_with_mdm/</link>
-      <description><![CDATA[我的第 8 代 iPad 处于 MDM 之下。可以使用它进行侧载吗？ 所讨论的 MDM 似乎没有任何限制，我可以在 iPad 上使用 App Store 等。我使用的是 iPadOS 16.2。 谢谢！    提交人    /u/skyfallda1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1djtgu2/is_it_possible_to_sideload_on_a_device_with_mdm/</guid>
-      <pubDate>Wed, 19 Jun 2024 20:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouEnhanced 广告拦截帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1djs0kf/help_with_uyouenhanced_ad_block/</link>
-      <description><![CDATA[您好，我一直在使用 uYouEnhanced，我已在设置中打开了广告拦截功能，但仍然收到广告，该如何解决？谢谢    提交人    /u/YoshivsJoshi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1djs0kf/help_with_uyouenhanced_ad_block/</guid>
-      <pubDate>Wed, 19 Jun 2024 19:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
