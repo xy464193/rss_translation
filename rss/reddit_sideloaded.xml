@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 19 Jun 2024 21:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:38:12 GMT</lastBuildDate>
+    <item>
+      <title>是否需要更新 TrollStore？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1djx7me/is_it_necessary_to_update_trollstore/</link>
+      <description><![CDATA[我是否必须始终跟踪和更新最新的 TrollStore 版本才能顺利使用它来侧载应用程序？或者我可以保留手机上仍能正常运行的旧版本来侧载应用程序？旧版本是否会导致侧载应用程序出现问题？如果是这样，我该如何更新 trollstore 应用程序本身？    提交人    /u/james-isreal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1djx7me/is_it_necessary_to_update_trollstore/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人尝试过破解 insta regram 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1djx5yl/anyone_tried_insta_regram_cracked_yet/</link>
+      <description><![CDATA[它比 insta rocket cracked 好吗？有什么区别？    提交人    /u/james-isreal   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1djx5yl/anyone_tried_insta_regram_cracked_yet/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知所措，需要一些帮助来安装 2 个以上的应用程序！！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1djwx0p/at_a_loss_need_some_help_with_installing_more/</link>
+      <description><![CDATA[首先，我对侧载还不太熟悉。我曾使用过 AltStore，但我发现 SideStore 允许刷新应用程序，而无需每 7 天连接到 Mac 上运行的 AltServer，只需使用 wifi 连接并运行 WireGuard VPN 即可完成此操作。我遇到的问题是，我想将 uYouEnhanced 与 Eevee Spotify 一起安装，但 SideStore 占用 2 个应用程序 ID，uYouEnhanced 占用 3 个应用程序 ID，因此当我安装 Spotify 时，它说需要 6 个应用程序 ID，而我只剩下 5 个。 有什么办法可以解决这个问题，或者修复这种情况吗？我看到 Sidestore 的一个应用程序 ID 是一个小部件，我可以以某种方式在没有该小部件的情况下安装它吗？或者我是否可以仅使用选定数量的扩展来安装 Spotify？ 任何帮助都值得赞赏，只是想了解这一切是如何工作的。    提交人    /u/AngryStamen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1djwx0p/at_a_loss_need_some_help_with_installing_more/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:10:38 GMT</pubDate>
+    </item>
     <item>
       <title>有谁有 IPA 到 angrybirds epic</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1djtt7h/anyone_have_the_ipa_to_angrybirds_epic/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[它什么都没显示，只有黑色。有人能帮我解决这个问题吗？谢谢    提交人    /u/kukumarten03   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dj8gap/eevee_spotify_widget_not_working/</guid>
       <pubDate>Wed, 19 Jun 2024 02:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线音乐替代品？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dj86cc/offline_music_alternative/</link>
-      <description><![CDATA[现在 Deezer 已经死了。还有哪些应用程序有离线下载？     提交人    /u/ExcitementAntique271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dj86cc/offline_music_alternative/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Flekstore 侧载 YouTube 和 Spotify 应用，但 CarPlay 出现了小问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dj85es/sideloaded_youtube_and_spotify_apps_via_flekstore/</link>
-      <description><![CDATA[大家好， 最近我决定在我的 iPhone 上试用 Flekstore，因为我厌倦了每周刷新侧载应用程序 (AltStore)。 我从 AppTesters IPA Repo 签署并安装了两个应用程序，YouTube (使用 YTPlus 4.0.1) 和 Spotify (注入了 Eevee 4.2)。 我现在遇到的问题是，在这两个应用程序中播放媒体时，媒体不会显示在我的 CarPlay 上 (在“正在播放”屏幕上)。这意味着我无法通过 CarPlay 暂停/播放/后退/前进 (媒体声音播放正常)。我在使用这两个侧载应用程序时还注意到，当我在手机上播放媒体时，我无法从锁定屏幕访问该应用程序（Spotify 或 YouTube）（通过单击媒体本身的标题）。 有人有什么建议吗？ 谢谢，    提交人    /u/BitSerious9484   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dj85es/sideloaded_youtube_and_spotify_apps_via_flekstore/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个免费的侧载程序，可以安装在 iPhone 上，而且是免费的，不是猩红色的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dj6eqy/need_a_free_sideloader_i_can_install_on_iphone/</link>
-      <description><![CDATA[不久前被 scarlet 列入黑名单，现在我又开始编写 Roblox 脚本了，如果有人能给我一些符合我描述的东西，那将会有很大帮助    提交人    /u/Giant___Chicken   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dj6eqy/need_a_free_sideloader_i_can_install_on_iphone/</guid>
-      <pubDate>Wed, 19 Jun 2024 00:47:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
