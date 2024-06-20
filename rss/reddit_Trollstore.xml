@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Thu, 20 Jun 2024 15:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 18:12:16 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 的日子屈指可数</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dkgywb/trollstore_days_are_numbered/</link>
+      <description><![CDATA[      今天我更新了我的银行应用程序，然后在显示类似越狱的检测消息后，它会自动关闭。如果我的银行可以检测到它，那么其他人也可以/会检测到。我将尝试擦除它并使用 AppStore++ 降级，但最终银行将切断对旧版本的访问。  应用程序屏幕截图的英语翻译： Home&#39;Bank 无法在此设备配置下工作 出于安全原因，该应用程序不允许从以牺牲 Apple 的安全保障为代价提供更大用户控制的设备进行访问。 削弱 Apple 提供的原始保护的此类原因示例： - 越狱 从 App Store 外部安装应用程序和主题的过程    提交人    /u/ffiresnake   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dkgywb/trollstore_days_are_numbered/</guid>
+      <pubDate>Thu, 20 Jun 2024 17:13:18 GMT</pubDate>
+    </item>
     <item>
       <title>从备份恢复 - trollstore 应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dk3spb/restoring_from_backup_trollstore_apps/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Spotify 或 YouTube 音乐具有 CarPlay 权限吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dk1f9p/spotify_or_youtube_music_with_carplay_entitlements/</link>
-      <description><![CDATA[有人创建了一个经过修改的 Spotify++ 应用程序，该应用程序曾经与 carplay 配合使用。但是该应用程序现在连接到免费帐户。有人可以指导我找到与 CarPlay 配合使用的 ipa 吗，无论是 YouTube 音乐还是 Spotify，或者分享它。我尝试了几个 ipas，但到目前为止都没有成功。谢谢    提交人    /u/CoolMiracle   [link] [评论]]]></description>
+      <description><![CDATA[有人创建了一个经过修改的 Spotify++ 应用程序，该应用程序曾经与 carplay 配合使用。但是该应用程序现在连接到免费帐户。有人可以指导我找到与 CarPlay 配合使用的 ipa 吗，无论是 YouTube 音乐还是 Spotify，或者分享它。我尝试了几个 ipa，但到目前为止都没有成功。谢谢    提交人    /u/CoolMiracle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dk1f9p/spotify_or_youtube_music_with_carplay_entitlements/</guid>
       <pubDate>Thu, 20 Jun 2024 02:56:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[每当我尝试安装 trollstoreX 时，它就会崩溃并且我的手机会重新启动。我的 iPhone Xs 使用的是 iOS 16.0，有人知道为什么以及我该怎么办吗？    提交人    /u/Minimum-Friend6238   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ddjy8g/iphone_crashes/</guid>
       <pubDate>Tue, 11 Jun 2024 17:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 trollstore tvOS 为 tvOS 15.0 安装 kodi 20.x 或更高版本</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ddefnm/installing_kodi_20x_or_higher_for_tvos_150_via/</link>
-      <description><![CDATA[我需要帮助通过 trollstore tvOS 安装适用于 tvOS 15.0 的 kodi 20.x 或更高版本 我正在使用运行 tvOS 15.0 的 apple tv 4k 第二代。我已成功通过 misaka 安装了 trollstore。 我想在 apple tv 上安装 kodi 20.x 或更高版本，但每次安装 Ipa 时都会出现错误 175。我尝试构建一个新的 ipa 文件并在 Frameworks 中删除了“config-3.11-darwin”，现在我可以通过 trollstore 安装 kodi，不再出现错误 175。但安装后 kodi 无法开机 我只能通过 trollstore 成功安装 kodi 17.6。但 20.x 及以上版本不能。我可以通过 sildeloadly 成功侧载 kodi 20.x ipa 文件，但它仅在 7 天后过期。我想通过 trollstore 安装，这样证书就不会被撤销。你能帮助我吗？    提交人    /u/Sensitive_Bus_3160   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ddefnm/installing_kodi_20x_or_higher_for_tvos_150_via/</guid>
-      <pubDate>Tue, 11 Jun 2024 13:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
