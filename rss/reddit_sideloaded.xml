@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 09:09:14 GMT</lastBuildDate>
+    <item>
+      <title>格盒IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkzapq/gbox_ipa/</link>
+      <description><![CDATA[有人有下载 gbox 应用程序的链接吗？原始网站上的链接已失效。    提交人    /u/iTzAleKKalash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkzapq/gbox_ipa/</guid>
+      <pubDate>Fri, 21 Jun 2024 08:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram Rocket/Regram 仅适用于 IOS 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkydh3/is_instagram_rocketregram_only_for_ios/</link>
+      <description><![CDATA[大家好，我知道侧载适用于 IOS，但最近我向一位朋友展示了我的部分侧载应用，他非常想尝试 insta regram。问题是他使用的是 Android l，所以我想知道 apk fl 版本是否适合他。因为我在开发人员网页上查看过，但只提到为 IOS 下载。有人有什么想法吗？    提交人    /u/vittosturi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkydh3/is_instagram_rocketregram_only_for_ios/</guid>
+      <pubDate>Fri, 21 Jun 2024 07:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>spotify ios 带有个人资料查看器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dkxxrv/spotify_ios_with_profile_viewer/</link>
+      <description><![CDATA[有人有带个人资料查看器 mod 的 spotify 应用程序吗，这样我就可以全屏查看用户的个人资料图片     提交人    /u/kiingqz_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dkxxrv/spotify_ios_with_profile_viewer/</guid>
+      <pubDate>Fri, 21 Jun 2024 07:07:23 GMT</pubDate>
+    </item>
     <item>
       <title>如果你侧载 Snapchat 会发生什么</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dkx24t/what_would_happen_if_you_sideload_snapchat/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[https://docs.google.com/document/d/1-Gc6JF0wJ1-MlDJTCLexxKc9PdOnfvnmse7Q8tKFdPg/mobilebasic 感谢 Google，图片总共只有 3 个像素，但它们仍然可以表达要点。  如果您不想构建 IPA，则可以从其他来源检索它，例如 AppTesters repo    提交人    /u/Sharp_Listen3436   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dkjcvs/guide_how_to_build_uyouenhanced/</guid>
       <pubDate>Thu, 20 Jun 2024 18:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer 注销 7.15.0</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkjboc/deezer_logging_out_7150/</link>
-      <description><![CDATA[我跳过五首歌曲后，每个 Deezer ipa 都会崩溃。离线模式下可以正常工作，但当我不处于离线模式时，每播放 5-6 首歌曲，它就会将我注销，我该如何修复     提交人    /u/SeveralHat5638   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkjboc/deezer_logging_out_7150/</guid>
-      <pubDate>Thu, 20 Jun 2024 18:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>防撤销 DNS 更新！ESign</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkh9j0/antirevoke_dns_update_esign/</link>
-      <description><![CDATA[大家好，我的 r/sideloaded 朋友们！ 如果您一直在使用我之前制作的指南，我暗示了即将更新最初由 Khomod 创建的 DNS 配置文件。 https://github.com/toasty-dev/Khomod DNS 是开源的，如果您想查看，所有人都可以查看使用的阻止和非跟踪。 他最近使用指南中的相同链接添加了一个新的 DNS 以包含 Adblock（截至 4 天前），但这甚至不是最好的部分！ 由于像 u/Ornery_Ingenuity3178 在获得 u/b3ton1991 的帮助后，我们现在有了没有 DNS 泄漏的 NextDNS 解决方案，这要感谢 Khomod 更新的 DNS。  这应该允许您使用另一个 DNS 以及 Anti-revoke 来允许广告拦截。我还没有测试这是否可以与 VPN 一起使用，但我出差回家后会更新。 NextDNS 设置 这是自定义配置，只需将其粘贴到应用程序（下一个 dns 应用程序）中即可工作 87629c 您还可以创建下一个 dns 帐户并添加列出的网站，这样您还可以阻止更多广告，甚至不需要从网站安装 DNS，只需使用 NextDNS。 ocsp.apple.com ocsp2.apple.com mesu.apple.com valid.apple.com crl.apple.com certs.apple.com appattest.apple.com vpp.itunes.apple.com guzzoni-apple-com.v.aaplimg.com gdmf.apple.com axm-app.apple.com comm-cohort.ess.apple.com comm-main.ess.apple.com 更多更新即将推出！    由    /u/PuReEnVyUs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkh9j0/antirevoke_dns_update_esign/</guid>
-      <pubDate>Thu, 20 Jun 2024 17:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>maplesign 应用程序不工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkf18g/maplesign_app_not_working/</link>
-      <description><![CDATA[我有一个 maplesign 证书，并且尝试使用 maplesign 应用程序，但每当我单击安装应用程序按钮时，它都不会弹出安装或取消窗口。有人知道解决办法吗？    提交人    /u/Mammoth-Mix7287   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkf18g/maplesign_app_not_working/</guid>
-      <pubDate>Thu, 20 Jun 2024 15:52:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
