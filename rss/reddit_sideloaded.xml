@@ -4,18 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 22 Jun 2024 00:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 03:10:29 GMT</lastBuildDate>
     <item>
       <title>三次意外地提到了 Signulous，他们所说的有关 Apple 的政策准确吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</link>
-      <description><![CDATA[Subreddit 不让我上传图片，希望 Imgur 能用。  https://imgur.com/a/Abm8sXe 不小心购买了 3 次 Signulous（我多次重新加载付款页面，我忘了为什么，但没有出现确认信息）。我并不反对使用他们的程序，但我想知道他们将无法退款归咎于苹果是否完全是胡说八道。他们不能保留我的手机签名，但只删除几年吗？有人知道吗？    提交人    /u/TheBestMeme23   [链接] [评论]]]></description>
+      <description><![CDATA[Subreddit 不让我上传图片，希望 Imgur 能用。  https://imgur.com/a/Abm8sXe 意外购买了 3 次 Signulous（我多次重新加载了付款页面，我忘了为什么，但没有出现确认信息）。我并不反对使用他们的程序，但我想知道他们将无法退款归咎于苹果是否完全是胡说八道。他们不能保留我的手机签名，但删除几年吗？有人知道吗？ 编辑：电子邮件中说“看起来您总共支付了三次费用来注册您的 iPhone XS 三年。遗憾的是，Apple 的政策不允许我们在设备注册提交后将其移除，因此我们无法提供退款。”    提交人    /u/TheBestMeme23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</guid>
       <pubDate>Sat, 22 Jun 2024 00:37:45 GMT</pubDate>
     </item>
     <item>
       <title>ESign v5.0.2 无日志</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</link>
-      <description><![CDATA[我最近在 ESign v5.0.2 中检查并更改了以下内容： https://qmuiteam.com\ https://h.trace.qq.com\ https://ios.bugly.qq.com\ https://ios.bugly.qcloud.com\ https://ucc.umeng.com\ https://aspect-upush.umeng.com\ https://ulogs.umeng.com\ https://ulogs.umengcloud.com\ https://alogus.umeng.com\ http://baidu.com\ https://utoken.umeng.com\ http://aladdinsys.com 我知道不太可能所有这些都是遥测的（百度只是一个中文搜索引擎），但我还是决定更改它们。为了防止应用程序出错，所有域名都从“.com”更改为“.con”，因为字符数的变化可能会破坏应用程序。此版本中不存在“.xyz”域名。 作为额外的安全预防措施，我在使用此版本签署应用程序时在分段网络上运行了数据包嗅探器。没有建立不必要的连接。 如果您收到任何错误，请转到 ESign 设置 &gt; 签名默认配置 &gt; 将“安装地址”更改为本地。  享受！ ESign v5.0.2 无日志 md5：bfc22f88c438afa6349322e1f6b03380    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
+      <description><![CDATA[我最近在 ESign v5.0.2 中检查并更改了以下内容： https://qmuiteam.com\ https://h.trace.qq.com\ https://ios.bugly.qq.com\ https://ios.bugly.qcloud.com\ https://ucc.umeng.com\ https://aspect-upush.umeng.com\ https://ulogs.umeng.com\ https://ulogs.umengcloud.com\ https://alogus.umeng.com\ http://baidu.com\ https://utoken.umeng.com\ http://aladdinsys.com 我知道不太可能所有这些都是遥测的（百度只是一个中文搜索引擎），但我还是决定更改它们。为了防止应用程序出错，所有域名都从“.com”更改为“.con”，因为字符数的变化可能会破坏应用程序。此版本中不存在“.xyz”域名。 作为额外的安全预防措施，我在使用此版本签署应用程序时在分段网络上运行了数据包嗅探器。没有建立不必要的连接。 如果您收到任何错误，请导航至 ESign 设置 &gt; 签名默认配置 &gt; 将“安装地址”更改为本地。  享受！ ESign v5.0.2 无日志 md5：bfc22f88c438afa6349322e1f6b03380    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</guid>
       <pubDate>Sat, 22 Jun 2024 00:03:34 GMT</pubDate>
     </item>
