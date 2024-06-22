@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 22 Jun 2024 09:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:14:00 GMT</lastBuildDate>
+    <item>
+      <title>驾驶时使用 UYou 3.0.1 时出现的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlsrab/problems_with_uyou_301_while_driving/</link>
+      <description><![CDATA[首先，UYou 开始在主页部分出现故障（无法显示视频）。现在这不再那么重要了，但我遇到了声音问题。如果我在车上使用 uyou，音量不会达到应有的水平，但如果我尝试使用其他应用程序，音量会达到应有的最大值。另一个问题是关于歌曲的，我按下播放按钮，音乐就会停止，并且在播放列表中时不会自动更改。 有什么解决办法吗？我现在会尝试找到解决方案    提交人    /u/Possible-Two-8277   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlsrab/problems_with_uyou_301_while_driving/</guid>
+      <pubDate>Sat, 22 Jun 2024 10:34:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法使用 YTLitePlus 进行投放</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlrs1s/cannot_cast_with_ytliteplus/</link>
+      <description><![CDATA[      我已使用 Sidestore 侧载了最新版本的 YTLitePlus，它似乎运行正常。 但是，投射到设备（电视等...）的选项不起作用。它显示了旋转器，但找不到任何设备。 它指出我可以进入设置以允许网络访问，但是在修改后的 YouTube 应用的 iOS 设置中没有这样的选项…… 这是已知的还是我错过了什么？    提交人    /u/mitsos1os   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlrs1s/cannot_cast_with_ytliteplus/</guid>
+      <pubDate>Sat, 22 Jun 2024 09:24:55 GMT</pubDate>
+    </item>
     <item>
       <title>相机+ ipa ？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dlr2vv/camera_ipa/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我从此链接获取了 iPA：https://www.np.reddit.com/r/sideloaded/s/uF8zxpetLG 我成功安装了该应用程序，但无法在应用程序中执行任何操作。我的设备使用的是最新的 iPadOS（可能是兼容性问题）有没有人使用该应用程序可以帮助我解决这个问题？谢谢，希望这篇文章对其他尝试安装它的人有所帮助    提交人    /u/thesovietmarch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dl7k1y/question_how_do_i_get_controls_on_the_undertale/</guid>
       <pubDate>Fri, 21 Jun 2024 16:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何像 chrome 扩展程序 unhook 一样删除 YouTube 中的推荐/主页选项卡和短片？iOS 16.5.1</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dl5pd5/how_can_i_remove_the_recommendationhome_tab_and/</link>
-      <description><![CDATA[我以前有普通的 uyou，但似乎再也找不到它了，它有一个小故障，会导致主页空白，而 uyou 已经有一个删除短裤标签的选项    提交人    /u/HusleekVIP   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dl5pd5/how_can_i_remove_the_recommendationhome_tab_and/</guid>
-      <pubDate>Fri, 21 Jun 2024 14:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找价格合理的开发人员来向 IPA 文件添加自动点击器。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dl49cz/looking_for_affordable_developer_to_add_an/</link>
-      <description><![CDATA[寻找价格合理的开发人员为 IPA 文件添加自动点击器。我从事平面设计和视频编辑，因此如果可能的话，我想进行易货交易。    提交人    /u/Crazy-Aerie-8890   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dl49cz/looking_for_affordable_developer_to_add_an/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:39:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
