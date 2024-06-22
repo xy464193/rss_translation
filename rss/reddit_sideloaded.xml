@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 21 Jun 2024 21:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 00:38:08 GMT</lastBuildDate>
+    <item>
+      <title>三次意外地提到了 Signulous，他们所说的有关 Apple 的政策准确吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</link>
+      <description><![CDATA[Subreddit 不让我上传图片，希望 Imgur 能用。  https://imgur.com/a/Abm8sXe 不小心购买了 3 次 Signulous（我多次重新加载付款页面，我忘了为什么，但没有出现确认信息）。我并不反对使用他们的程序，但我想知道他们将无法退款归咎于苹果是否完全是胡说八道。他们不能保留我的手机签名，但只删除几年吗？有人知道吗？    提交人    /u/TheBestMeme23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</guid>
+      <pubDate>Sat, 22 Jun 2024 00:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign v5.0.2 无日志</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</link>
+      <description><![CDATA[我最近在 ESign v5.0.2 中检查并更改了以下内容： https://qmuiteam.com\ https://h.trace.qq.com\ https://ios.bugly.qq.com\ https://ios.bugly.qcloud.com\ https://ucc.umeng.com\ https://aspect-upush.umeng.com\ https://ulogs.umeng.com\ https://ulogs.umengcloud.com\ https://alogus.umeng.com\ http://baidu.com\ https://utoken.umeng.com\ http://aladdinsys.com 我知道不太可能所有这些都是遥测的（百度只是一个中文搜索引擎），但我还是决定更改它们。为了防止应用程序出错，所有域名都从“.com”更改为“.con”，因为字符数的变化可能会破坏应用程序。此版本中不存在“.xyz”域名。 作为额外的安全预防措施，我在使用此版本签署应用程序时在分段网络上运行了数据包嗅探器。没有建立不必要的连接。 如果您收到任何错误，请转到 ESign 设置 &gt; 签名默认配置 &gt; 将“安装地址”更改为本地。  享受！ ESign v5.0.2 无日志 md5：bfc22f88c438afa6349322e1f6b03380    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</guid>
+      <pubDate>Sat, 22 Jun 2024 00:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Appbox 安全吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlgrps/is_appbox_safe/</link>
+      <description><![CDATA[我想知道应用框是否真的安全    提交人    /u/Billcipher8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlgrps/is_appbox_safe/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iPhone 上观看 stremio 上的内容？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlglko/how_do_i_get_to_watch_stuff_on_stremio_on_iphone/</link>
+      <description><![CDATA[我按照说明操作了，但是它一直说要添加源，但我不知道该怎么做？    提交人    /u/Then_Medium2424   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlglko/how_do_i_get_to_watch_stuff_on_stremio_on_iphone/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>约会应用的调整</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlgbrp/tweaks_for_dating_apps/</link>
+      <description><![CDATA[有适用于 tinder、bumble 或 hinge 的 ipas 吗？那些可以让你取消模糊那些喜欢你的人的图像的     提交人    /u/BestLife27   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlgbrp/tweaks_for_dating_apps/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让 stremio 开始在 iPhone 上播放资源？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlg8pt/how_do_i_get_stremio_to_start_playing_sources_on/</link>
+      <description><![CDATA[我听取了所有说明，但我就是不知道如何让来源工作。    提交人    /u/Then_Medium2424   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlg8pt/how_do_i_get_stremio_to_start_playing_sources_on/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有适用于 ios 17 的 procreate ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlg0vm/does_anyone_have_a_procreate_ipa_for_ios_17/</link>
+      <description><![CDATA[嘿！我正在尝试为 ios 17 寻找 procreate ipa。有人有吗？    由   提交  /u/Felainas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlg0vm/does_anyone_have_a_procreate_ipa_for_ios_17/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:05:57 GMT</pubDate>
+    </item>
     <item>
       <title>直接从 iPhone 将歌曲添加到 Apple 音乐</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dle0op/add_songs_to_apple_music_directly_from_iphone/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我已在搭载 iOS 17.4 RC 的 iPhone 13 中安装了 LiveContainer 和 SideStore。它显示 LC 已验证，但 SideStore 未验证    提交者    /u/__Jonathan0827__   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dl0n12/cant_use_sidestore/</guid>
       <pubDate>Fri, 21 Jun 2024 10:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以从不同国家/地区的商店侧载应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dl07hp/sideload_an_app_from_a_different_store_country_is/</link>
-      <description><![CDATA[嗨，我有一个有点奇怪的问题。我不确定我是否可以在这里问。我不认为这违反了规则，但也许是的。 以防万一，请版主删除它。 我的情况是，我需要一个来自商店的应用程序，但我无法安装，因为我不得不切换国家商店，所以现在它不再可用，因为它只在我的祖国可用。 有没有办法侧载它？或者更具体地说，我如何恢复 ipa？ 我需要原版的。不需要破解它或任何东西。    提交人    /u/invasionofsmallcubes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dl07hp/sideload_an_app_from_a_different_store_country_is/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>格盒IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkzapq/gbox_ipa/</link>
-      <description><![CDATA[有人有下载 gbox 应用程序的链接吗？原始网站上的链接已失效。    提交人    /u/iTzAleKKalash   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkzapq/gbox_ipa/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram Rocket/Regram 仅适用于 IOS 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkydh3/is_instagram_rocketregram_only_for_ios/</link>
-      <description><![CDATA[大家好，我知道侧载适用于 IOS，但最近我向一位朋友展示了我的部分侧载应用，他非常想尝试 insta regram。问题是他使用的是 Android l，所以我想知道 apk fl 版本是否适合他。因为我在开发人员网页上查看过，但只提到为 IOS 下载。有人有什么想法吗？    提交人    /u/vittosturi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkydh3/is_instagram_rocketregram_only_for_ios/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>spotify ios 带有个人资料查看器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkxxrv/spotify_ios_with_profile_viewer/</link>
-      <description><![CDATA[有人有带个人资料查看器 mod 的 spotify 应用程序吗，这样我就可以全屏查看用户的个人资料图片     提交人    /u/kiingqz_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkxxrv/spotify_ios_with_profile_viewer/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你侧载 Snapchat 会发生什么</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkx24t/what_would_happen_if_you_sideload_snapchat/</link>
-      <description><![CDATA[我对侧载场景有点陌生，所以请耐心等待.. 我看到很多人劝阻其他人侧载 Snapchat，因为这显然会导致禁令。这适用于所有版本的 Snapchat 吗？即使你侧载普通版本（即未修改、破解或任何其他版本），你仍会被禁止吗？ 任何信息都将不胜感激！    提交人    /u/Equivalent_Sun_1147   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkx24t/what_would_happen_if_you_sideload_snapchat/</guid>
-      <pubDate>Fri, 21 Jun 2024 06:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>棒球 9 3.6.3 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkwu7y/baseball_9_363_ipa/</link>
-      <description><![CDATA[有人有带 mods 的新棒球 9 3.6.3 IPA 吗？    提交人    /u/LilHorseC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkwu7y/baseball_9_363_ipa/</guid>
-      <pubDate>Fri, 21 Jun 2024 05:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer 8.38 调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dkv4u7/deezer_838_tweak/</link>
-      <description><![CDATA[既然 deezer 会阻止登录用户，大家还有其他选择吗？有任何 spotify 调整吗？    由    /u/Gayanachoo  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dkv4u7/deezer_838_tweak/</guid>
-      <pubDate>Fri, 21 Jun 2024 04:11:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
