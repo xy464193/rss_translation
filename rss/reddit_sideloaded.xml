@@ -4,18 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 22 Jun 2024 03:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 06:12:32 GMT</lastBuildDate>
+    <item>
+      <title>有谁有适用于 iPhone 的 tofu hunter 或 anger of stick 2 IPA 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dlmc25/does_anyone_have_tofu_hunter_or_anger_of_stick_2/</link>
+      <description><![CDATA[正在寻找他们两个，谢谢。    由   提交  /u/Hefty-Friendship4946   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dlmc25/does_anyone_have_tofu_hunter_or_anger_of_stick_2/</guid>
+      <pubDate>Sat, 22 Jun 2024 03:26:33 GMT</pubDate>
+    </item>
     <item>
       <title>三次意外地提到了 Signulous，他们所说的有关 Apple 的政策准确吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</link>
-      <description><![CDATA[Subreddit 不让我上传图片，希望 Imgur 能用。  https://imgur.com/a/Abm8sXe 意外购买了 3 次 Signulous（我多次重新加载了付款页面，我忘了为什么，但没有出现确认信息）。我并不反对使用他们的程序，但我想知道他们将无法退款归咎于苹果是否完全是胡说八道。他们不能保留我的手机签名，但删除几年吗？有人知道吗？ 编辑：电子邮件中说“看起来您总共支付了三次费用来注册您的 iPhone XS 三年。遗憾的是，Apple 的政策不允许我们在设备注册提交后将其移除，因此我们无法提供退款。”    提交人    /u/TheBestMeme23   [链接] [评论]]]></description>
+      <description><![CDATA[Subreddit 不让我上传图片，希望 Imgur 能用。  https://imgur.com/a/Abm8sXe 意外购买了 3 次 Signulous（我多次重新加载了付款页面，我忘了为什么，但没有出现确认信息）。我并不反对使用他们的程序，但我想知道他们将无法退款的原因归咎于苹果是否完全是胡说八道。他们不能保留我的手机签名，但只删除几年吗？有人知道吗？ 编辑：电子邮件中写道“看起来您总共支付了三笔费用来注册您的 iPhone XS 三年。不幸的是，苹果的政策禁止我们在提交设备注册后将其删除，因此我们无法提供退款。” 编辑 2：感谢所有回复。我可能最终会选择退款，而不是处理来回发送电子邮件的麻烦。     提交人    /u/TheBestMeme23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dlj7el/accidentally_about_signulous_three_times_is_what/</guid>
       <pubDate>Sat, 22 Jun 2024 00:37:45 GMT</pubDate>
     </item>
     <item>
       <title>ESign v5.0.2 无日志</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</link>
-      <description><![CDATA[我最近在 ESign v5.0.2 中检查并更改了以下内容： https://qmuiteam.com\ https://h.trace.qq.com\ https://ios.bugly.qq.com\ https://ios.bugly.qcloud.com\ https://ucc.umeng.com\ https://aspect-upush.umeng.com\ https://ulogs.umeng.com\ https://ulogs.umengcloud.com\ https://alogus.umeng.com\ http://baidu.com\ https://utoken.umeng.com\ http://aladdinsys.com 我知道不太可能所有这些都是遥测的（百度只是一个中文搜索引擎），但我还是决定更改它们。为了防止应用程序出错，所有域名都从“.com”更改为“.con”，因为字符数的变化可能会破坏应用程序。此版本中不存在“.xyz”域名。 作为额外的安全预防措施，我在使用此版本签署应用程序时在分段网络上运行了数据包嗅探器。没有建立不必要的连接。 如果您收到任何错误，请导航至 ESign 设置 &gt; 签名默认配置 &gt; 将“安装地址”更改为本地。  享受！ ESign v5.0.2 无日志 md5：bfc22f88c438afa6349322e1f6b03380    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
+      <description><![CDATA[我最近在 ESign v5.0.2 中检查并更改了以下内容： https://qmuiteam.com\ https://h.trace.qq.com\ https://ios.bugly.qq.com\ https://ios.bugly.qcloud.com\ https://ucc.umeng.com\ https://aspect-upush.umeng.com\ https://ulogs.umeng.com\ https://ulogs.umengcloud.com\ https://alogus.umeng.com\ http://baidu.com\ https://utoken.umeng.com\ http://aladdinsys.com 我知道不太可能所有这些都是遥测的（百度只是一个中文搜索引擎），但我还是决定更改它们。为了防止应用程序出错，所有域名都从“.com”更改为“.con”，因为字符数的变化可能会破坏应用程序。此版本中不存在“.xyz”域名。 作为额外的安全预防措施，我在使用此版本签署应用程序时在分段网络上运行了数据包嗅探器。没有建立不必要的连接。 如果您收到任何错误，请导航至 ESign 设置 &gt; 签名默认配置 &gt; 将“安装地址”更改为本地。  享受！ ESign v5.0.2 无日志 &lt;—（这是链接） md5：bfc22f88c438afa6349322e1f6b03380    提交人    /u/Sharp_Listen3436   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/</guid>
       <pubDate>Sat, 22 Jun 2024 00:03:34 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[那么，我的 maplesign 证书一年后过期后，我的应用程序会怎样？我购买另一个证书后，它们还能用吗？还是我必须重新对它们进行签名？    提交人    /u/Koroboroz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dl17k4/maplesign_certificate/</guid>
       <pubDate>Fri, 21 Jun 2024 10:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 SideStore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dl0n12/cant_use_sidestore/</link>
-      <description><![CDATA[我已在搭载 iOS 17.4 RC 的 iPhone 13 中安装了 LiveContainer 和 SideStore。它显示 LC 已验证，但 SideStore 未验证    提交者    /u/__Jonathan0827__   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dl0n12/cant_use_sidestore/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:20:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
