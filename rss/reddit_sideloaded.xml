@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:14:57 GMT</lastBuildDate>
+    <item>
+      <title>SideStore 在 iOS 17.5.1 上完美运行。✅</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dmjrcm/sidestore_working_perfectly_on_ios_1751/</link>
+      <description><![CDATA[        提交人    /u/KrazyClicks   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dmjrcm/sidestore_working_perfectly_on_ios_1751/</guid>
+      <pubDate>Sun, 23 Jun 2024 11:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 deezer 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dmilw5/need_deezer_file/</link>
+      <description><![CDATA[有人可以发送一个 deezer 8.38.0 文件吗？我有一个，但它似乎只能在侧载上工作，当我在侧存储上执行此操作时，会出现有关 watchkit 或 smtgh 的错误，请有人发送一个文件，您可以在其中下载 8.38.0 的侧存储。 ：无法完成操作。无法安装应用程序：WatchKit 2.0 应用程序的 Info.plist 中 WKCompanionAppBundleIdentifier 键的值无效：com.deezer.Deezer（预期为 com.deezer.Deezer.28X7W5F5BQ）    提交人    /u/SeveralHat5638   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dmilw5/need_deezer_file/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找可以在 iOS 17.5.1 上侧载一些应用程序的方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dmfc8q/am_looking_for_something_to_sideload_some_apps_on/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>有没有什么方法可以让猩红发挥作用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dm9usi/is_there_any_way_to_get_scarlet_to_work/</link>
-      <description><![CDATA[大家好，正如标题所说...我在尝试下载/运行 scarlet 时遇到了极大的困难...因为我会进入 scarlet 网站并点击直接下载并等待。然后我会进入主屏幕并看到一个白色图标，从那里我点击它，它说“无法安装该应用程序，因为无法验证其完整性”  我看过很多 YouTube 视频，一遍又一遍地重复做同样的事情。搜索过其他 Reddit 帖子、谷歌等。我已经尝试了所有可能的方法，仍然没有机会让它工作。还是它不再适用于 iPhone 了？     提交人    /u/Personal_Purpose9493   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，正如标题所说......我在尝试下载/运行 scarlet 时遇到了极大的困难......因为我会进入 scarlet 网站并点击直接下载并等待。然后我会进入主屏幕并看到一个白色图标，从那里我点击它，它说“无法安装该应用程序，因为无法验证其完整性”  我看过很多 YouTube 视频，一遍又一遍地重复做同样的事情。搜索过其他 Reddit 帖子、谷歌等。我已经尝试了所有可能的方法，仍然没有机会让它工作。还是它不再适用于 iPhone 了？     提交人    /u/Personal_Purpose9493   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dm9usi/is_there_any_way_to_get_scarlet_to_work/</guid>
       <pubDate>Sun, 23 Jun 2024 00:33:56 GMT</pubDate>
     </item>
     <item>
       <title>最新IOS，全新手机</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dm8yry/latest_ios_brand_new_phone/</link>
-      <description><![CDATA[嗨，我真的很想在手机上尝试 +apps，但我总是觉得有些会感染我的病毒。有人能帮我解释一下 Sideloaded 吗？    提交人    /u/Fhaid_Alajmi   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我真的很想在手机上尝试 +apps，但我总是觉得有些会感染病毒。有人能帮我解释一下 Sideloaded 吗？    提交人    /u/Fhaid_Alajmi   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dm8yry/latest_ios_brand_new_phone/</guid>
       <pubDate>Sat, 22 Jun 2024 23:47:55 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>FPS解锁DYLIB</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dm5rz1/fps_unlocker_dylib/</link>
-      <description><![CDATA[我不知道很多关于 dylib 的知识，但我知道如何注入它们和侧载。有没有人有或可以制作 FPS Unlocker Dylib    提交人    /u/Snoo-9908   [link] [comments]]]></description>
+      <description><![CDATA[我不知道很多关于 dylibs 的知识，但我知道如何注入它们和侧载。有没有人有或可以制作 FPS Unlocker Dylib    提交人    /u/Snoo-9908   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dm5rz1/fps_unlocker_dylib/</guid>
       <pubDate>Sat, 22 Jun 2024 21:15:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[首先，UYou 开始在主页部分出现故障（无法显示视频）。现在这不再那么重要了，但我遇到了声音问题。如果我在车上使用 uyou，音量不会达到应有的水平，但如果我尝试使用其他应用程序，音量会达到应有的最大值。另一个问题是关于歌曲的，我按下播放按钮，音乐就会停止，并且在播放列表中时不会自动更改。 有什么解决办法吗？我现在会尝试找到解决方案    提交人    /u/Possible-Two-8277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dlsrab/problems_with_uyou_301_while_driving/</guid>
       <pubDate>Sat, 22 Jun 2024 10:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 YTLitePlus 进行投放</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dlrs1s/cannot_cast_with_ytliteplus/</link>
-      <description><![CDATA[      我已使用 Sidestore 侧载了最新版本的 YTLitePlus，它似乎运行正常。 但是，投射到设备（电视等...）的选项不起作用。它显示了旋转器，但找不到任何设备。 它指出我可以进入设置以允许网络访问，但是在修改后的 YouTube 应用的 iOS 设置中没有这样的选项…… 这是已知的还是我错过了什么？    提交人    /u/mitsos1os   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dlrs1s/cannot_cast_with_ytliteplus/</guid>
-      <pubDate>Sat, 22 Jun 2024 09:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>相机+ ipa ？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dlr2vv/camera_ipa/</link>
-      <description><![CDATA[大家好，希望一切顺利。有人知道相机+应用程序是否有修改版本吗？ 谢谢    由   提交  /u/Mysterious-Ad2068   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dlr2vv/camera_ipa/</guid>
-      <pubDate>Sat, 22 Jun 2024 08:34:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
