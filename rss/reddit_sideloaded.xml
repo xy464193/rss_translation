@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 23 Jun 2024 03:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:12:18 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找可以在 iOS 17.5.1 上侧载一些应用程序的方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dmfc8q/am_looking_for_something_to_sideload_some_apps_on/</link>
+      <description><![CDATA[我一直在使用 tutuapp，但现在它一直很麻烦。有没有关于其他应用程序的建议和关于如何正确下载的潜在教程，因为我对此很陌生，不知道自己在做什么。谢谢    提交人    /u/Beautiful-Hope7417   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dmfc8q/am_looking_for_something_to_sideload_some_apps_on/</guid>
+      <pubDate>Sun, 23 Jun 2024 05:52:43 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么方法可以让猩红发挥作用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dm9usi/is_there_any_way_to_get_scarlet_to_work/</link>
-      <description><![CDATA[大家好，正如标题所说...我在尝试下载/运行 scarlet 时遇到了极大的困难...因为我会进入 scarlet 网站并点击直接下载并等待。然后我会进入主屏幕并看到一个白色图标，从那里我点击它，它说“无法安装该应用程序，因为无法验证其完整性”  我看过很多 YouTube 视频，一遍又一遍地重复做同样的事情。搜索过其他 Reddit 帖子、谷歌等。我已经尝试了所有可能的方法，仍然没有机会让它工作。还是它不再适用于 iPhone 了？     提交人    /u/Personal_Purpose9493   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，正如标题所说......我在尝试下载/运行 scarlet 时遇到了极大的困难......因为我会进入 scarlet 网站并点击直接下载并等待。然后我会进入主屏幕并看到一个白色图标，从那里我点击它，它说“无法安装该应用程序，因为无法验证其完整性”  我看过很多 YouTube 视频，一遍又一遍地重复做同样的事情。搜索过其他 Reddit 帖子、谷歌等。我已经尝试了所有可能的方法，仍然没有机会让它工作。还是它不再适用于 iPhone 了？     提交人    /u/Personal_Purpose9493   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dm9usi/is_there_any_way_to_get_scarlet_to_work/</guid>
       <pubDate>Sun, 23 Jun 2024 00:33:56 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，希望一切顺利。有人知道相机+应用程序是否有修改版本吗？ 谢谢    由   提交  /u/Mysterious-Ad2068   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dlr2vv/camera_ipa/</guid>
       <pubDate>Sat, 22 Jun 2024 08:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否真的有必要在防撤销 DNS 中阻止 gdmf？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dlq9i9/is_it_really_necessary_to_block_gdmf_in_the/</link>
-      <description><![CDATA[据我所知，该地址的主要目的是检查 OTA 更新，因此阻止其他域名也是可行的，但这在理论上是可行的，这样我们既可以直接从设备更新操作系统，又可以保持侧载内容仍然正常运行？还有其他好奇的人用他们的 DNS 尝试过吗？（目前没有任何设备可以测试）    提交人    /u/skeletholic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dlq9i9/is_it_really_necessary_to_block_gdmf_in_the/</guid>
-      <pubDate>Sat, 22 Jun 2024 07:35:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
