@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 25 Jun 2024 15:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 18:12:15 GMT</lastBuildDate>
+    <item>
+      <title>无法为 Dolphinios 加载 GameCube rom</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</link>
+      <description><![CDATA[我使用 altserver 安装 sidestore 来安装 dolphinios。我在 GameCube 文件夹中有 GameCube rom，但当我尝试在应用程序中加载 rom 时，它不起作用，因为 zip 和 iso 文件都显示为灰色并且不响应点击。 wii roms 工作正常，但我不知道为什么    提交人    /u/Siryonkee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</guid>
+      <pubDate>Tue, 25 Jun 2024 15:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSL 固定</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</link>
+      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做类似的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</guid>
+      <pubDate>Tue, 25 Jun 2024 15:36:52 GMT</pubDate>
+    </item>
     <item>
       <title>Esign 侧载问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do7xy8/esign_sideloading_issue/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[标题，基本上。    由   提交  /u/NovaFold   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dnqip1/id_like_to_run_nova_3_i_have_the_64bit_premium/</guid>
       <pubDate>Mon, 24 Jun 2024 22:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>减少动作功能导致所有 YouTube 应用崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnpxv7/reduce_motion_function_is_crashing_every_single/</link>
-      <description><![CDATA[我真的需要这个功能，否则我无法使用我的 iPhone。一旦我关闭它，我就可以正常观看视频。此外，主屏幕也乱七八糟，显示为黑色 这是一个已知问题吗？或者有人知道无需关闭减少运动即可修复的问题吗？ iPhone 15 Pro 在这里    由   提交  /u/Yugen2935   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnpxv7/reduce_motion_function_is_crashing_every_single/</guid>
-      <pubDate>Mon, 24 Jun 2024 22:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有好的 8 球台球 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnoogy/is_there_a_good_8_ball_pool_ipa/</link>
-      <description><![CDATA[我发现的所有问题似乎都已修复     提交人    /u/jakz__   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnoogy/is_there_a_good_8_ball_pool_ipa/</guid>
-      <pubDate>Mon, 24 Jun 2024 21:17:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
