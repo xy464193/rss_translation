@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 25 Jun 2024 18:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 21:08:43 GMT</lastBuildDate>
+    <item>
+      <title>什么是 docker？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1doffbt/what_is_docker/</link>
+      <description><![CDATA[因此，我尝试通过 Linux 安装侧存储，但它说我需要安装 docker，所以如果有人可以提供下载链接，那将会很有帮助，谢谢     提交人    /u/Due_Day_1109   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1doffbt/what_is_docker/</guid>
+      <pubDate>Tue, 25 Jun 2024 20:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以使用带有加密 IPA 的 sideloadly 注入 .deb 文件吗？请阅读下文了解更多信息。很难解释我的意思！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1doeyx1/can_you_inject_deb_files_using_sideloadly_with_an/</link>
+      <description><![CDATA[我有一个关于使用 Sideloadly 将 .DEB 文件注入 macOS 上的加密 IPA 文件（使用 iMazing）的问题。我可以将 .DEB 文件注入加密 IPA 吗？ 我曾尝试使用 iOS App Gods 网站上的解密 IPA 文件，该网站是解密应用程序的可信服务。但是，每当我使用 Sideloadly 将 .DEB 文件注入这些解密的 IPA 时，应用程序就会崩溃。 我知道有办法构建操作系统以使此解决方法起作用，但我不知道该怎么做。那么，是否可以将 .DEB 文件注入加密 IPA 文件？ 我理解这种方法不允许我将应用程序直接侧载到我的手机上，因为它们仍然是加密的。我只想将 .DEB 文件注入 IPA，然后将其加载到我的手机上，就像它是我 Mac 上带有侧载应用程序的 iTunes IPA 文件一样。  所以我的问题是。这是否可以使用 sideloadly 在加密的 IPA 上实现？？    提交者    /u/Informal_Industry_89   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1doeyx1/can_you_inject_deb_files_using_sideloadly_with_an/</guid>
+      <pubDate>Tue, 25 Jun 2024 19:48:57 GMT</pubDate>
+    </item>
     <item>
       <title>无法为 Dolphinios 加载 GameCube rom</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>SSL 固定</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</link>
-      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做类似的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做这样的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</guid>
       <pubDate>Tue, 25 Jun 2024 15:36:52 GMT</pubDate>
     </item>
     <item>
       <title>Esign 侧载问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do7xy8/esign_sideloading_issue/</link>
-      <description><![CDATA[我无法显示图像，因为我必须重新下载并再次打包应用程序，而且我们的 wifi 很慢，但是当我登录我的应用程序时，它告诉我文件已加密并建议我解密并再次登录，有什么解决方法吗？如果没有，可能只需向我发送一个由 kamibox 制作的游戏 see/saw 的 ipa 文件？    提交人    /u/Tinzellikesmemes   [link] [评论]]]></description>
+      <description><![CDATA[我无法显示图像，因为我必须重新下载并再次打包应用程序，而且我们的 wifi 很慢，但是当我登录我的应用程序时，它告诉我文件已加密并建议我解密并再次登录，有什么修复方法吗？如果没有，可能只会给我发送一个由 kamibox 制作的游戏 see/saw 的 ipa 文件？    提交人    /u/Tinzellikesmemes   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1do7xy8/esign_sideloading_issue/</guid>
       <pubDate>Tue, 25 Jun 2024 14:53:33 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[最近看到有人在使用这款应用，他一直在滑动故事，但故事中并没有出现赞助广告，我想知道这是否有一个门槛？例如，在查看太多故事后广告会消失吗？否则他是怎么做到的？对我来说，我知道每 2-3 个故事就会出现一个赞助广告，我需要将其滑动掉    提交人    /u/james-isreal   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dnu1or/is_there_a_threshold_for_sponsored_ads_on_insta/</guid>
       <pubDate>Tue, 25 Jun 2024 01:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪泽尔</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnqklr/deezer/</link>
-      <description><![CDATA[Deezer IPA 又要重启了吗？求求你们兄弟们    提交者    /u/ReplacementJolly7939   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnqklr/deezer/</guid>
-      <pubDate>Mon, 24 Jun 2024 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想运行 N.O.V.A 3（我的设备上的 .ipa 文件中有 64 位“Premium”版本）您会推荐什么工具？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnqip1/id_like_to_run_nova_3_i_have_the_64bit_premium/</link>
-      <description><![CDATA[标题，基本上。    由   提交  /u/NovaFold   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnqip1/id_like_to_run_nova_3_i_have_the_64bit_premium/</guid>
-      <pubDate>Mon, 24 Jun 2024 22:35:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
