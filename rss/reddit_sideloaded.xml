@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 24 Jun 2024 21:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 00:38:41 GMT</lastBuildDate>
+    <item>
+      <title>迪泽尔</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dnqklr/deezer/</link>
+      <description><![CDATA[Deezer IPA 又要重启了吗？求求你们兄弟们    提交者    /u/ReplacementJolly7939   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dnqklr/deezer/</guid>
+      <pubDate>Mon, 24 Jun 2024 22:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想运行 N.O.V.A 3（我的设备上的 .ipa 文件中有 64 位“Premium”版本）您会推荐什么工具？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dnqip1/id_like_to_run_nova_3_i_have_the_64bit_premium/</link>
+      <description><![CDATA[标题，基本上。    由   提交  /u/NovaFold   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dnqip1/id_like_to_run_nova_3_i_have_the_64bit_premium/</guid>
+      <pubDate>Mon, 24 Jun 2024 22:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少动作功能导致所有 YouTube 应用崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dnpxv7/reduce_motion_function_is_crashing_every_single/</link>
+      <description><![CDATA[我真的需要这个功能，否则我无法使用我的 iPhone。一旦我关闭它，我就可以正常观看视频。此外，主屏幕也乱七八糟，显示为黑色 这是一个已知问题吗？或者有人知道无需关闭减少运动即可修复的问题吗？ iPhone 15 Pro 在这里    由   提交  /u/Yugen2935   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dnpxv7/reduce_motion_function_is_crashing_every_single/</guid>
+      <pubDate>Mon, 24 Jun 2024 22:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有好的 8 球台球 IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dnoogy/is_there_a_good_8_ball_pool_ipa/</link>
+      <description><![CDATA[我发现的所有问题似乎都已修复     提交人    /u/jakz__   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dnoogy/is_there_a_good_8_ball_pool_ipa/</guid>
+      <pubDate>Mon, 24 Jun 2024 21:17:32 GMT</pubDate>
+    </item>
     <item>
       <title>UTM帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dnl9c9/utm_help/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>Redditfilters 应用程序无法登录</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dnctol/redditfilters_app_cant_login/</link>
-      <description><![CDATA[我在 github 上侧载了最新的预制版本 (v2023.50.1-1.1.1 by qnblackcat)，每当我尝试使用 apple、电话号码或用户名登录时，它都会显示“出现错误。请稍后再试。”错误（出于某种原因，google 可以正常工作）。我该如何修复该问题才能使用该应用程序？ . . 如果是因为我没有自己构建应用程序，我将非常感谢第 3 步的帮助，因为“make package”不是 git bash 中可识别的命令。 ^我的步骤是使用 git bash 将 repo 克隆到我的电脑，然后在记事本中打开 makefile，我将其中复制到解密的 reddit ipa 的路径中。然后我保存并关闭它，并尝试在 git bash 中运行“make package”，但没有成功。我做错了什么？    提交人    /u/Atopaz05   [链接] [评论]]]></description>
+      <description><![CDATA[我在 github 上侧载了最新的预制版本 (v2023.50.1-1.1.1 by qnblackcat)，每当我尝试使用 apple、电话号码或用户名登录时，它都会显示“出现问题。请稍后再试。”错误（出于某种原因，google 可以正常工作）。我该如何修复该问题以便可以使用该应用程序？ . . 如果是因为我没有自己构建应用程序，我将非常感谢第 3 步的帮助，因为“make package”不是 git bash 中可识别的命令。 ^我的步骤是使用 git bash 将 repo 克隆到我的电脑，然后在记事本中打开 makefile，我将其中复制到解密的 reddit ipa 的路径中。然后我保存并关闭它，并尝试在 git bash 中运行“make package”，但没有成功。我做错了什么？    提交人    /u/Atopaz05   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dnctol/redditfilters_app_cant_login/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:43 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我注意到 discord 频道和所有对它的引用都消失了。项目完成了吗，还是只有 discord 完成了？有人有关于它的任何信息吗？ 如果我需要为未来制定替代计划，我宁愿现在就知道，但我不想看到它消失。我喜欢自己托管。    提交人    /u/darkrom   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dmzqyr/is_signtools_discontinued/</guid>
       <pubDate>Sun, 23 Jun 2024 23:47:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>愤怒的小鸟里约 IPA 请求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dmx470/angry_birds_rio_ipa_request/</link>
-      <description><![CDATA[我正在尝试玩我童年时的游戏，有人知道在哪里可以找到 ipa 吗？    由   提交  /u/FlPulsar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dmx470/angry_birds_rio_ipa_request/</guid>
-      <pubDate>Sun, 23 Jun 2024 21:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以侧载应用程序的旧版本而不进行更新？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dmwfcr/is_it_possible_to_sideload_an_older_version_of_an/</link>
-      <description><![CDATA[大家好，我对侧载相关的一切都很陌生，所以我对此了解不多。  我想在我的手机上安装一个旧版本的应用程序，该应用程序因更新而损坏，但我不想禁用所有其他应用程序的更新。使用侧载应用程序且无需越狱是否可以做到这一点？     提交人    /u/Efficient_Insect4687   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dmwfcr/is_it_possible_to_sideload_an_older_version_of_an/</guid>
-      <pubDate>Sun, 23 Jun 2024 21:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需使用电脑即可使用 ipa 加载器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dmvupq/ipa_loader_without_using_a_computer/</link>
-      <description><![CDATA[有人有免费的 ipa 加载器吗？我不需要电脑就可以使用吗？谢谢。    提交人    /u/Vxserpent   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dmvupq/ipa_loader_without_using_a_computer/</guid>
-      <pubDate>Sun, 23 Jun 2024 20:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有电脑的情况下如何获得海豚</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dmvj87/how_do_i_get_dolphin_without_a_computer/</link>
-      <description><![CDATA[我知道 YouTube 上确实有这些东西，但其中一半甚至不是真的。    由   提交  /u/Active-Pen-5242   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dmvj87/how_do_i_get_dolphin_without_a_computer/</guid>
-      <pubDate>Sun, 23 Jun 2024 20:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
