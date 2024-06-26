@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>trollstore 的子版块</description>
-    <lastBuildDate>Wed, 26 Jun 2024 12:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 15:09:49 GMT</lastBuildDate>
+    <item>
+      <title>LongSim 可以在 TrollBox 中保持多长时间？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</link>
+      <description><![CDATA[Trollbox 的 Locsim 我有一部 iPhone 11，我想伪造我的位置，但 3utools 不起作用。由于 Dopamine 越狱是无根的，从我尝试过的方法来看，没有任何调整可用。我为 Zebra 获得了 locSim，但似乎没有终端调整可以安装。（这个越狱有什么意义）🧐 无论如何，我终于在 GitHub 上找到了内置位置模拟器的 TrollBox，它似乎可以工作，但如果有人知道的话，我需要知道它能持续多长时间？我不想让它关闭并让我的位置跳回     提交人    /u/Professional-Arm-132   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</guid>
+      <pubDate>Wed, 26 Jun 2024 14:59:56 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个 repo 来美化应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1do5mqp/need_a_repo_to_landscape_an_app/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>Spotify 或 YouTube 音乐具有 CarPlay 权限吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dk1f9p/spotify_or_youtube_music_with_carplay_entitlements/</link>
-      <description><![CDATA[有人创建了一个经过修改的 Spotify++ 应用程序，该应用程序曾经与 carplay 配合使用。但是该应用程序现在连接到免费帐户。有人可以指导我找到与 CarPlay 配合使用的 ipa 吗，无论是 YouTube 音乐还是 Spotify，或者分享它。我尝试了几个 ipa，但到目前为止都没有成功。谢谢    提交人    /u/CoolMiracle   [link] [评论]]]></description>
+      <description><![CDATA[有人创建了一个经过修改的 Spotify++ 应用程序，该应用程序曾经与 carplay 配合使用。但是该应用程序现在连接到免费帐户。有人可以指导我找到与 CarPlay 配合使用的 ipa 吗，无论是 YouTube 音乐还是 Spotify，或者分享它。我尝试了几个 ipas，但到目前为止都没有成功。谢谢    提交人    /u/CoolMiracle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dk1f9p/spotify_or_youtube_music_with_carplay_entitlements/</guid>
       <pubDate>Thu, 20 Jun 2024 02:56:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[终于成功在 ios 15.8.2 上安装了 trollstore。但现在 spotify 出现了问题。安装了 spotilife 8.9.32 后，它自动连接到了我之前在原始 spotify 上使用的免费 spotify 帐户。我做错了什么？    提交人    /u/thedaywalk3r   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dhs1s3/help_with_spotify_ipa/</guid>
       <pubDate>Mon, 17 Jun 2024 07:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ipad Air 2 失败</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dhek3q/ipad_air_2_unsuccessfull/</link>
-      <description><![CDATA[我有一台运行 iOS 15.8.1 的 ipad air 2，我尝试过 Trollmisaka，但每次安装都失败。Kopen 成功，当我从应用切换器打开 Trollmisaka 时，它不允许我安装 Trollstore。它总是显示 Trollmisaka 的常规屏幕。我做错了什么？谢谢    提交人    /u/Anthelion346   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dhek3q/ipad_air_2_unsuccessfull/</guid>
-      <pubDate>Sun, 16 Jun 2024 18:58:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
