@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 26 Jun 2024 18:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 21:09:18 GMT</lastBuildDate>
+    <item>
+      <title>uyouenhanced 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dp8ui9/uyouenhanced_question/</link>
+      <description><![CDATA[      嗨，有人知道如何在 YouTube 上观看视频时删除动态岛屿吗？我正在使用 uyouenhanced    提交人    /u/Dangerous-Cow-9641   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dp8ui9/uyouenhanced_question/</guid>
+      <pubDate>Wed, 26 Jun 2024 20:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人注意到 uYouEnhanced github 和 altstore 源已关闭吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dp8fqf/has_anyone_noticed_that_the_uyouenhanced_github/</link>
+      <description><![CDATA[另外，arichornlover 作为一个整体不再在 github 上。    提交人    /u/ExcellentCoconut6073   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dp8fqf/has_anyone_noticed_that_the_uyouenhanced_github/</guid>
+      <pubDate>Wed, 26 Jun 2024 20:18:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>CapCut Premium ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dp7pzr/capcut_premium_ipa/</link>
+      <description><![CDATA[嗨，我正在寻找 CapCut Premium ipa 链接。有人知道我可以在哪里找到合法来源吗？ 谢谢！    由   提交  /u/SalzigerStern   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dp7pzr/capcut_premium_ipa/</guid>
+      <pubDate>Wed, 26 Jun 2024 19:48:42 GMT</pubDate>
+    </item>
     <item>
       <title>愤怒的小鸟太空版登陆 iOS 18.0 Beta 版！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dp55y6/angry_birds_space_on_ios_180_beta/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[因此，我尝试通过 Linux 安装侧存储，但它说我需要安装 docker，所以如果有人可以提供下载链接，那将会很有帮助，谢谢     提交人    /u/Due_Day_1109   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1doffbt/what_is_docker/</guid>
       <pubDate>Tue, 25 Jun 2024 20:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以使用带有加密 IPA 的 sideloadly 注入 .deb 文件吗？请阅读下文了解更多信息。很难解释我的意思！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1doeyx1/can_you_inject_deb_files_using_sideloadly_with_an/</link>
-      <description><![CDATA[我有一个关于使用 Sideloadly 将 .DEB 文件注入 macOS 上的加密 IPA 文件（使用 iMazing）的问题。我可以将 .DEB 文件注入加密 IPA 吗？ 我曾尝试使用 iOS App Gods 网站上的解密 IPA 文件，该网站是解密应用程序的可信服务。但是，每当我使用 Sideloadly 将 .DEB 文件注入这些解密的 IPA 时，应用程序就会崩溃。 我知道有办法构建操作系统以使此解决方法起作用，但我不知道该怎么做。那么，是否可以将 .DEB 文件注入加密 IPA 文件？ 我理解这种方法不允许我将应用程序直接侧载到我的手机上，因为它们仍然是加密的。我只想将 .DEB 文件注入 IPA，然后将其加载到我的手机上，就像它是我 Mac 上带有侧载应用程序的 iTunes IPA 文件一样。  所以我的问题是。这是否可以使用 sideloadly 在加密的 IPA 上实现？？    提交者    /u/Informal_Industry_89   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1doeyx1/can_you_inject_deb_files_using_sideloadly_with_an/</guid>
-      <pubDate>Tue, 25 Jun 2024 19:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法为 Dolphinios 加载 GameCube rom</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</link>
-      <description><![CDATA[我使用 altserver 安装 sidestore 来安装 dolphinios。我在 GameCube 文件夹中有 GameCube rom，但当我尝试在应用程序中加载 rom 时，它不起作用，因为 zip 和 iso 文件都显示为灰色并且不响应点击。 wii roms 工作正常，但我不知道为什么    提交人    /u/Siryonkee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</guid>
-      <pubDate>Tue, 25 Jun 2024 15:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSL 固定</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</link>
-      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做类似的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</guid>
-      <pubDate>Tue, 25 Jun 2024 15:36:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
