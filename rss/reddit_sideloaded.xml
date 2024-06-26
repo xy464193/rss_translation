@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 26 Jun 2024 00:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 03:10:47 GMT</lastBuildDate>
+    <item>
+      <title>请求更新非官方 appdb 客户端</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1don4xz/request_for_the_unofficial_appdb_client_to_be/</link>
+      <description><![CDATA[嗨，我希望有人可以更新用 Swift 5 编写的 appdb.to 非官方全功能 iOS 客户端。 当前版本 1.1.5 使用的是 appdb API 1.6，该 API 在一个月前已弃用，因为他们已迁移到 API 1.7  它在 GitHub 上可用。    提交人    /u/Old-Solid-2929   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1don4xz/request_for_the_unofficial_appdb_client_to_be/</guid>
+      <pubDate>Wed, 26 Jun 2024 01:57:53 GMT</pubDate>
+    </item>
     <item>
       <title>EeveeSpotify 无法使用？有其他选择吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dok3k7/eeveespotify_not_working_alternatives/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>如何删除/卸载应用扩展？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</link>
-      <description><![CDATA[全新侧载，我今天设置了 SideStore 并安装了一个 IPA uYouenhanced，希望我知道不要随它安装扩展程序。现在我无法下载另一个 ipa（想试试 Spotify） 我该怎么做才能解决这个问题？（只剩下 3 个苹果 ID）&amp; 我如何防止以后安装应用程序扩展程序？    提交人    /u/Angur777   [link] [评论]]]></description>
+      <description><![CDATA[全新侧载，我今天设置了 SideStore 并安装了一个 IPA uYouenhanced，真希望我知道不要随它安装扩展程序。现在我无法下载另一个 ipa（想试试 Spotify） 我该怎么做才能解决这个问题？（只剩下 3 个苹果 ID）&amp; 我如何防止以后安装应用扩展程序？    提交人    /u/Angur777   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</guid>
       <pubDate>Tue, 25 Jun 2024 23:16:09 GMT</pubDate>
     </item>
@@ -64,14 +71,14 @@
     <item>
       <title>无法为 Dolphinios 加载 GameCube rom</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</link>
-      <description><![CDATA[我使用 altserver 安装 sidestore 来安装 dolphinios。我在 GameCube 文件夹中有 GameCube rom，但当我尝试在应用程序中加载 rom 时，它不起作用，因为 zip 和 iso 文件都显示为灰色并且不响应点击。 wii roms 工作正常，但我不知道为什么    提交人    /u/Siryonkee   [link] [评论]]]></description>
+      <description><![CDATA[我使用 altserver 安装 sidestore 来安装 dolphinios。我在 GameCube 文件夹中有 GameCube rom，但当我尝试在应用程序中加载 rom 时，它不起作用，因为 zip 和 iso 文件都显示为灰色并且不响应点击。 wii roms 工作正常，但我不知道为什么    由   提交  /u/Siryonkee   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1do93jy/cannot_load_gamecube_roms_for_dolphinios/</guid>
       <pubDate>Tue, 25 Jun 2024 15:42:48 GMT</pubDate>
     </item>
     <item>
       <title>SSL 固定</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</link>
-      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做这样的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，有谁知道可以注入应用程序的调整或可以侧载以绕过 SSL 固定的东西吗？或者有人可以做类似的事情吗？    提交人    /u/redbaron2k7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1do8yp1/ssl_pinning/</guid>
       <pubDate>Tue, 25 Jun 2024 15:36:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道我应该自己构建我的 ipa，但我发现那个网站 https://uyouplus.com 有最新的 uyou 增强版，没有错误，但也许它不安全？是吗？如果它不安全，有人有我可以找到已经构建好的 ipa 的地方吗？我最近没时间做这个     提交人    /u/Neeeear   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dnyr4o/is_uyoupluscom_safe/</guid>
       <pubDate>Tue, 25 Jun 2024 05:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPA 请求：Audible ++</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnyi22/ipa_request_audible/</link>
-      <description><![CDATA[嘿！我可以获取 Audible++ ipa 吗？ 或者任何其他可以让我免费收听有声读物的 ipa。 提前致谢。    提交人    /u/rushivrox   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnyi22/ipa_request_audible/</guid>
-      <pubDate>Tue, 25 Jun 2024 05:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
