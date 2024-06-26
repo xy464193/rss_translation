@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 25 Jun 2024 21:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:38:44 GMT</lastBuildDate>
+    <item>
+      <title>EeveeSpotify 无法使用？有其他选择吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dok3k7/eeveespotify_not_working_alternatives/</link>
+      <description><![CDATA[嗨，我安装了最新版本的 EeveeSpotify，但它似乎不起作用，我尝试了这个版本（几个小时前）和最后一个版本（上周），包括注入 .deb 文件。动态模式没有任何作用，静态模式开始无限跳过歌曲，有人知道我可以使用修复程序或替代方案吗？iOS 16.7.8 iPhone X    提交人    /u/Short_Commission_553   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dok3k7/eeveespotify_not_working_alternatives/</guid>
+      <pubDate>Tue, 25 Jun 2024 23:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何删除/卸载应用扩展？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</link>
+      <description><![CDATA[全新侧载，我今天设置了 SideStore 并安装了一个 IPA uYouenhanced，希望我知道不要随它安装扩展程序。现在我无法下载另一个 ipa（想试试 Spotify） 我该怎么做才能解决这个问题？（只剩下 3 个苹果 ID）&amp; 我如何防止以后安装应用程序扩展程序？    提交人    /u/Angur777   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</guid>
+      <pubDate>Tue, 25 Jun 2024 23:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore“无法连接到设备”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dojd1u/sidestore_unable_to_connect_to_device/</link>
+      <description><![CDATA[      我刚刚一步一步安装了 sidestore，但出现了这个错误。有什么帮助吗？    提交人    /u/Aardvark-Fearless   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dojd1u/sidestore_unable_to_connect_to_device/</guid>
+      <pubDate>Tue, 25 Jun 2024 22:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Egern 支持的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1doht54/egern_supported_apps/</link>
+      <description><![CDATA[大家好 因此，当通过 AppStore 使用 egern 支持的下载时，我需要在 egern 中启用特定设置。尝试在更温和的牛排上使用它，它被列为受支持，但它不起作用    由   提交  /u/Vicari0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1doht54/egern_supported_apps/</guid>
+      <pubDate>Tue, 25 Jun 2024 21:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人在安装 Picsart++ 时遇到问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dohodb/anyone_else_having_problems_installing_picsart/</link>
+      <description><![CDATA[安装后，它只是卡在“等待”状态    提交人    /u/Pale_Promotion_7797   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dohodb/anyone_else_having_problems_installing_picsart/</guid>
+      <pubDate>Tue, 25 Jun 2024 21:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以用多余的 iPhone 做任何事情</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dogzhd/anything_i_can_do_with_extra_iphone/</link>
+      <description><![CDATA[我发现了一部 iPhone se 3，我将其重置为运行 iOS 17.5.1，它有什么用处吗，我知道我不能越狱，而且目前没有泄露的非撤销证书，所以我想不出它有什么用处，但也许你们可以..    提交人    /u/Aardvark-Fearless   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dogzhd/anything_i_can_do_with_extra_iphone/</guid>
+      <pubDate>Tue, 25 Jun 2024 21:12:33 GMT</pubDate>
+    </item>
     <item>
       <title>什么是 docker？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1doffbt/what_is_docker/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[嘿！我可以获取 Audible++ ipa 吗？ 或者任何其他可以让我免费收听有声读物的 ipa。 提前致谢。    提交人    /u/rushivrox   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dnyi22/ipa_request_audible/</guid>
       <pubDate>Tue, 25 Jun 2024 05:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一套证书。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dny0mv/i_have_an_collection_of_certificates/</link>
-      <description><![CDATA[有一个名为 AppBox 的 ipas 和证书集合。它非常有用。 这是它的链接：https://app.appbox.click    提交人    /u/King_Zoro12371   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dny0mv/i_have_an_collection_of_certificates/</guid>
-      <pubDate>Tue, 25 Jun 2024 05:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影盒 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnxxjn/movie_box_ipa/</link>
-      <description><![CDATA[我找不到电影盒的更新版本    提交人    /u/Junior-Campaign-5163   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnxxjn/movie_box_ipa/</guid>
-      <pubDate>Tue, 25 Jun 2024 04:56:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>不越狱或者订阅第三方应用商店可以安装 Revanced 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnwgal/is_it_possible_to_install_revanced_without/</link>
-      <description><![CDATA[大家好，我是新手。我只是想在尝试并在这个项目上浪费大量时间之前知道一下。如果 Revanced 不可行，我也喜欢 Newpipe。 我在 iOS 15.8 上并使用 Windows PC    提交人    /u/dokha   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnwgal/is_it_possible_to_install_revanced_without/</guid>
-      <pubDate>Tue, 25 Jun 2024 03:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>声音图调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnvchv/soundmap_tweak/</link>
-      <description><![CDATA[一个允许你像 Pokémon go 那样进行恶搞的声音地图调整在我看来会很棒    提交人    /u/Senior-Cause-7824   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnvchv/soundmap_tweak/</guid>
-      <pubDate>Tue, 25 Jun 2024 02:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者帐户 - 多部手机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnuhys/dev_account_multiple_phones/</link>
-      <description><![CDATA[目前是否可以使用 AltStore 在同一个开发帐户下在多部手机上安装？  大约 8 个月前，我能够在两台设备上使用它，但说实话，我不记得我是怎么做到的。从那以后我再也没有弄过它......但自从她更新到 18b2 后，她的手机不知为何今天就不再允许她打开侧面加载的应用程序。我的手机还可以用。     提交人    /u/dbiessie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnuhys/dev_account_multiple_phones/</guid>
-      <pubDate>Tue, 25 Jun 2024 01:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>insta story 上的赞助广告有门槛吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dnu1or/is_there_a_threshold_for_sponsored_ads_on_insta/</link>
-      <description><![CDATA[最近看到有人在使用这款应用，他一直在滑动故事，但故事中并没有出现赞助广告，我想知道这是否有一个门槛？例如，在查看太多故事后广告会消失吗？否则他是怎么做到的？对我来说，我知道每 2-3 个故事就会出现一个赞助广告，我需要将其滑动掉    提交人    /u/james-isreal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dnu1or/is_there_a_threshold_for_sponsored_ads_on_insta/</guid>
-      <pubDate>Tue, 25 Jun 2024 01:24:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
