@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 27 Jun 2024 00:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 03:10:34 GMT</lastBuildDate>
+    <item>
+      <title>兰德尔的周一 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dph0bj/randals_monday_ipa/</link>
+      <description><![CDATA[有人有 ipa 吗？我换了手机，我想它已经从应用商店下架了，因为我再也找不到它了。我的 XR 上还有它，但它不是可越狱版本，所以我无法从设备上转储 ipa。    提交人    /u/Snoo_64212   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dph0bj/randals_monday_ipa/</guid>
+      <pubDate>Thu, 27 Jun 2024 02:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>insta story 上的赞助广告有门槛吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dpg2rm/is_there_a_threshold_for_sponsored_ads_on_insta/</link>
+      <description><![CDATA[最近看到有人在使用应用程序，他一直在滑动故事，但故事中没有出现赞助广告，我想知道这是否有一个门槛？例如，在查看太多故事后广告会消失吗？否则他是怎么做到的？对我来说，我知道每 2-3 个故事就会出现一个赞助广告，我需要将其滑动掉    提交人    /u/james-isreal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dpg2rm/is_there_a_threshold_for_sponsored_ads_on_insta/</guid>
+      <pubDate>Thu, 27 Jun 2024 02:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>arichornlover 的 YouTubeRebornPlus repo 怎么样了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dpfhi9/whats_happen_with_arichornlovers/</link>
+      <description><![CDATA[https://github.com/arichornlover/YouTubeRebornPlus 我想它在几个小时前就被删除了    提交人    /u/oldman20   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dpfhi9/whats_happen_with_arichornlovers/</guid>
+      <pubDate>Thu, 27 Jun 2024 01:39:10 GMT</pubDate>
+    </item>
     <item>
       <title>设备禁令</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dpc3m2/device_ban/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨，我希望有人可以更新用 Swift 5 编写的 appdb.to 非官方全功能 iOS 客户端。 当前版本 1.1.5 使用的是 appdb API 1.6，该 API 在一个月前已弃用，因为他们已迁移到 API 1.7  它在 GitHub 上可用。    提交人    /u/Old-Solid-2929   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1don4xz/request_for_the_unofficial_appdb_client_to_be/</guid>
       <pubDate>Wed, 26 Jun 2024 01:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>EeveeSpotify 无法使用？有其他选择吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dok3k7/eeveespotify_not_working_alternatives/</link>
-      <description><![CDATA[嗨，我安装了最新版本的 EeveeSpotify，但它似乎不起作用，我尝试了这个版本（几个小时前）和最后一个版本（上周），包括注入 .deb 文件。动态模式没有任何作用，静态模式开始无限跳过歌曲，有人知道我可以使用修复程序或替代方案吗？iOS 16.7.8 iPhone X    提交人    /u/Short_Commission_553   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dok3k7/eeveespotify_not_working_alternatives/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何删除/卸载应用扩展？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</link>
-      <description><![CDATA[全新侧载，我今天设置了 SideStore 并安装了一个 IPA uYouenhanced，希望我知道不要随它安装扩展程序。现在我无法下载另一个 ipa（想试试 Spotify） 我该怎么做才能解决这个问题？（只剩下 3 个苹果 ID）&amp; 我如何防止以后安装应用程序扩展程序？    提交人    /u/Angur777   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1doju6x/how_to_remove_uninstall_app_extensions/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore“无法连接到设备”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dojd1u/sidestore_unable_to_connect_to_device/</link>
-      <description><![CDATA[      我刚刚一步一步安装了 sidestore，但出现了这个错误。有什么帮助吗？    提交人    /u/Aardvark-Fearless   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dojd1u/sidestore_unable_to_connect_to_device/</guid>
-      <pubDate>Tue, 25 Jun 2024 22:54:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
