@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
-    <description>trollstore 的子版块</description>
-    <lastBuildDate>Mon, 01 Jul 2024 12:16:57 GMT</lastBuildDate>
+    <description>TrollStore 是永久签名的 iPA 安装程序</description>
+    <lastBuildDate>Mon, 01 Jul 2024 15:09:19 GMT</lastBuildDate>
     <item>
       <title>为什么这个 subreddit 中的几乎每个帖子都与 TrollStore 无关？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dsoktp/why_is_almost_every_post_in_this_subreddit/</link>
@@ -69,13 +69,6 @@
       <pubDate>Thu, 27 Jun 2024 06:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>arichornlover 的 YouTubeRebornPlus repo 怎么样了？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dpfjrf/whats_happen_with_arichornlovers/</link>
-      <description><![CDATA[https://github.com/arichornlover/YouTubeRebornPlus 它昨天被删除了，现在我无法访问以重建 ipa    提交人    /u/oldman20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dpfjrf/whats_happen_with_arichornlovers/</guid>
-      <pubDate>Thu, 27 Jun 2024 01:42:25 GMT</pubDate>
-    </item>
-    <item>
       <title>LongSim 可以在 TrollBox 中保持多长时间？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</link>
       <description><![CDATA[Trollbox 的 Locsim 我有一部 iPhone 11，我想伪造我的位置，但 3utools 不起作用。由于 Dopamine 越狱是无根的，从我尝试过的方法来看，没有任何调整可用。我为 Zebra 获得了 locSim，但似乎没有终端调整可以安装。（这个越狱有什么意义）🧐 无论如何，我终于在 GitHub 上找到了内置位置模拟器的 TrollBox，它似乎可以工作，但如果有人知道的话，我需要知道它能持续多长时间？我不想让它关闭并让我的位置跳回     提交人    /u/Professional-Arm-132   [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[      我的 iPhone 使用的是 ios 17.0，上面有 trollstore。我的新手表无法配对，当我点击“了解更多”时，它说我需要使用 17.0 或更高版本。我该怎么办？谢谢！    提交人    /u/khris_rex   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dm2br6/apple_watch_thinks_im_not_on_17/</guid>
       <pubDate>Sat, 22 Jun 2024 18:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需 Safari 或 PC 即可安装 TS</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dl506w/installing_ts_without_safari_or_pc/</link>
+      <description><![CDATA[所以我想在我朋友的手机上安装 TrollStore，因为他想安装破解的游戏和应用程序，但他的父母屏蔽了 safari。 我有一个签名的 itms 服务链接，但没有 safari 我就打不开它。App Store 中的所有其他浏览器都是 17+。 有没有其他不使用 PC 的方法/另一种打开 safari 预览的方法（对我来说，它只适用于 http/https 链接）？（也许是二维码或快捷方式？）    提交人    /u/Noah2570   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dl506w/installing_ts_without_safari_or_pc/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:13:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
