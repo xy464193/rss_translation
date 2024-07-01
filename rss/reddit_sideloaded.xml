@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 01 Jul 2024 09:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 12:17:05 GMT</lastBuildDate>
+    <item>
+      <title>应用程序 ID 过多</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dsq546/too_many_app_ids/</link>
+      <description><![CDATA[就像标题所说的那样，我换成了 eevee Spotify，发现它占用了 7 个应用程序 ID。有了 AltStore 本身的两个应用程序 ID，我就没有 YouTube 的应用程序 ID 了。有什么提示或想法可以解决这里的问题吗？    提交人    /u/Alexlovesapples   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dsq546/too_many_app_ids/</guid>
+      <pubDate>Mon, 01 Jul 2024 10:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>强制安装原始应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</link>
+      <description><![CDATA[应用程序：esign IOS：17.0 我想我见过 trollstore 有这个功能，但我不确定。有没有什么办法可以强制安装应用程序而不是原版？    提交人    /u/Ieatidepods   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</guid>
+      <pubDate>Mon, 01 Jul 2024 10:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>SideStore IPA 安装不起作用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dsnu1w/sidestore_ipas_installation_not_working/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[没有图片，因为我发帖前刚关掉电脑    提交人    /u/Ecstatic-Crew-4170   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ds1rok/why_does_sidejit_keep_saying_time_out/</guid>
       <pubDate>Sun, 30 Jun 2024 13:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否存在内置 Messaging 功能的 Facebook 插件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ds1bb2/does_facebook_tweak_with_built_in_messenger_exist/</link>
-      <description><![CDATA[正文    由    /u/ilikejuicyasss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ds1bb2/does_facebook_tweak_with_built_in_messenger_exist/</guid>
-      <pubDate>Sun, 30 Jun 2024 13:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于找到了正确克隆 IPA 的方法！😭</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ds140z/i_finally_find_a_way_to_correctly_clone_ipa/</link>
-      <description><![CDATA[伙计们，我太高兴了，我终于找到了一种正确克隆 ipa 的方法！它实际上克隆了所有内容 [还克隆了 ipa 的容器]。 有一些要求，你需要 Linux！ 这是项目，很容易理解，只要正确阅读 GitHub，你就可以从 chatGPT 获得更多帮助  GITHUB : https://github.com/asdfzxcvbn/appdupe 所有者：asdfzxcvbn0 [Telegram]     提交人    /u/0x8OO85   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ds140z/i_finally_find_a_way_to_correctly_clone_ipa/</guid>
-      <pubDate>Sun, 30 Jun 2024 13:08:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
