@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 02 Jul 2024 06:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 09:09:23 GMT</lastBuildDate>
+    <item>
+      <title>有可以使用的 goodnotes ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dtgxk7/any_working_goodnotes_ipa/</link>
+      <description><![CDATA[嗨。正在寻找经过调整的 goodnotes 5（最好）有人有链接吗？    由   提交  /u/peachgardener   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dtgxk7/any_working_goodnotes_ipa/</guid>
+      <pubDate>Tue, 02 Jul 2024 08:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速提问</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dtfbz2/quick_question/</link>
+      <description><![CDATA[有人知道 soundcloud 的任何调整或最新的高级版本 ipas 吗？    提交人    /u/DraftKing2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dtfbz2/quick_question/</guid>
+      <pubDate>Tue, 02 Jul 2024 06:43:39 GMT</pubDate>
+    </item>
     <item>
       <title>汽车公司大亨</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dtd84v/car_company_tycoon/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>如何永久免费签署无限数量的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dt26u6/how_to_sign_unlimited_apps_permanently_for_free/</link>
-      <description><![CDATA[免责声明：如果您有 dns，则无法更新 ios，必须先将其删除。 步骤 1：首先，您需要转到 nhutgg.io.vm，我会发布完整链接，但我不知道是否允许，但请搜索并单击第一个链接。 步骤 2：然后单击 dns anticert/esign 下方显示“立即安装”的按钮，然后在执行任何其他操作之前单击“安装 dns”，然后单击“继续”，然后单击“允许”，然后单击“确定”，然后转到“设置”，然后转到 vpn 和设备管理，然后单击 dns，然后单击“安装”，如果出现提示，请输入代码，然后单击“完成”。 步骤 3：然后返回到您的 Web 浏览器并开始安装每个 esign，直到其中一个起作用，您必须记住哪个起作用，因为它的名称下方将是“安装 p12”，然后滚动到您的 esign 名称，单击它，然后安装 zip 文件，然后解压缩它。 步骤 4：打开 esign 接受 TOS 然后在第一页单击三个点 单击导入 转到刚刚提取的文件并导入其中的所有内容 然后单击自述文件或密码 它将被称为类似的东西 然后一旦你知道它是什么 单击.p12 文件 单击导入证书管理 然后输入你刚刚看到的代码 然后选择.mobileprovision 文件并单击导入 你不需要这个代码你就完成了 你可以安装所有 ipas 除了 cydia 之类的东西 除非你的 ios 足够低 希望这会有所帮助 :)。 步骤 5：要安装 ipas 只需单击三个点 然后导入 然后单击 ipa 然后选择确定 直到弹出蓝色圆圈 转到下一个选项卡 单击它 然后单击签名 然后当它完成签名时它会要求安装 单击安装     提交人    /u/TypicalLab7370   [链接] [评论]]]></description>
+      <description><![CDATA[免责声明：如果您有 dns，则无法更新 ios，必须先删除它。此外，这需要使用 DNS 服务器，因此如果您不信任它，您可以尝试自定义一个，我必须研究如何执行此操作 步骤 1：首先，您需要转到 nhutgg.io.vm，我会发布完整链接，但我不知道是否允许，但请搜索并单击第一个链接。 步骤 2：然后单击 dns anticert/esign 下方显示立即安装的按钮，然后在执行任何其他操作之前单击安装 dns，然后单击继续，然后单击允许，然后单击确定，然后转到设置，然后转到 vpn 和设备管理，然后单击 dns，然后单击安装，如果出现提示，请输入代码，然后单击完成。 步骤 3：然后返回到您的 Web 浏览器并开始安装每个 esign，直到其中一个起作用，您必须记住哪一个起作用，因为它的名称下方将是安装 p12，然后滚动到您的 esign 名称，单击它，然后安装 zip 文件，然后解压缩它。 步骤 4：打开 esign 接受 TOS 然后在第一页单击三个点 单击导入 转到刚刚提取的文件并导入其中的所有内容 然后单击自述文件或密码 它将被称为类似的东西 然后一旦你知道它是什么 单击.p12 文件 单击导入证书管理 然后输入你刚刚看到的代码 然后选择.mobileprovision 文件并单击导入 你不需要这个代码你就完成了 你可以安装所有 ipas 除了 cydia 之类的东西 除非你的 ios 足够低 希望这会有所帮助 :)。 步骤 5：要安装 ipas 只需单击三个点 然后导入 然后单击 ipa 然后选择确定 直到弹出蓝色圆圈 转到下一个选项卡 单击它 然后单击签名 然后当它完成签名时它会要求安装 单击安装     提交人    /u/TypicalLab7370   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dt26u6/how_to_sign_unlimited_apps_permanently_for_free/</guid>
       <pubDate>Mon, 01 Jul 2024 19:48:42 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>YTKillerPlus 值得吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dsrzjr/is_ytkillerplus_worth_it/</link>
-      <description><![CDATA[我很好奇，因为 uYouEnhanced repo 已从 github 上移除，而 YTLitePlus 在最新版本中也遇到了同样的错误，例如 iSponsorBlock/Return YTDislikes 会导致视频播放崩溃，在退出正在播放视频的应用程序时不会默认使用 PiP，黑色启动屏幕/短裤和其他一些小错误，所以我想知道 YTKillerPlus 是否值得？对于尝试过它的人来说    提交人    /u/anxxgr   [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇，因为 uYouEnhanced repo 已从 github 上移除，而 YTLitePlus 在最新版本中也遇到了同样的错误，例如 iSponsorBlock/Return YTDislikes 会导致视频播放崩溃，在退出正在播放视频的应用程序时不会默认使用 PiP，黑色启动屏幕/短裤和一些其他小错误，所以我想知道 YTKillerPlus 是否值得？对于尝试过它的人来说    提交人    /u/anxxgr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dsrzjr/is_ytkillerplus_worth_it/</guid>
       <pubDate>Mon, 01 Jul 2024 12:40:41 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>强制安装原始应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</link>
-      <description><![CDATA[应用程序：esign IOS：17.0 我想我见过 trollstore 有这个功能，但我不确定。有什么办法可以强制安装应用程序而不是原版应用程序？     提交人    /u/Ieatidepods   [link] [comments]]]></description>
+      <description><![CDATA[应用程序：esign IOS：17.0 我想我见过 trollstore 有这个功能，但我不确定。有没有什么办法可以强制安装应用程序而不是原版？    提交人    /u/Ieatidepods   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</guid>
       <pubDate>Mon, 01 Jul 2024 10:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore IPA 安装不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dsnu1w/sidestore_ipas_installation_not_working/</link>
-      <description><![CDATA[我一直尝试使用 sidestore 安装这款游戏 Bloons 6，但是无法正常工作，系统显示错误“无法验证 /var/installd/library/caches/com.apple.mobike.installd.staging/temp.h9DVSQ/extracted/payload/app.app/frameworks/unityframework.framework 的代码签名….. 有人知道解决办法吗？    提交人    /u/CactusJames21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dsnu1w/sidestore_ipas_installation_not_working/</guid>
-      <pubDate>Mon, 01 Jul 2024 08:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很无聊所以我问了 reddit</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dsnfp3/im_bored_so_i_ask_reddit/</link>
-      <description><![CDATA[我应该安装哪些应用程序签名未签名的 idc 还有人知道人们如何在 ios 上破解像真人快打这样的游戏以赚取无限金钱如果是这样的话，一个教程将不胜感激    提交人    /u/TypicalLab7370   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dsnfp3/im_bored_so_i_ask_reddit/</guid>
-      <pubDate>Mon, 01 Jul 2024 07:53:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
