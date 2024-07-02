@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 02 Jul 2024 12:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 15:08:59 GMT</lastBuildDate>
+    <item>
+      <title>如何从 IPA 中删除 App ID 扩展？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dtnd0d/how_do_you_remove_app_id_extensions_from_an_ipa/</link>
+      <description><![CDATA[嗨， 我正在尝试从我的 Apollo IPA 中删除 3 个扩展程序以释放一些应用程序 ID。从我所见，该过程似乎很简单，将 IPA 文件更改为 ZIP 文件，使用 7Zip 解压缩，转到 Payload &gt; Apollo.app &gt; Plugins 并删除您不需要的插件，然后重新压缩文件夹，并将 ZIP 文件更改回 IPA 并安装。 但是，这样做会让 Altstore 说“不存在有效载荷文件夹”。直接在 7Zip 中打开 IPA 显示 IPA 中的直接（也是唯一的）文件夹是“Payload”，并且我知道这个 IPA 可以与现有的扩展程序一起使用。 有人可以帮忙吗？我知道 Altstore 可以删除所有扩展，但这并不理想，因为 5 个扩展中只有 2 个实际上很有用，我想保留它们。 谢谢！    提交人    /u/hardcoregiraffestyle   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dtnd0d/how_do_you_remove_app_id_extensions_from_an_ipa/</guid>
+      <pubDate>Tue, 02 Jul 2024 14:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>巨魔故障？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dtmk93/troll_misaka_glitching/</link>
+      <description><![CDATA[我想安装 trollmisaka，但我听说你的设备会出现故障，trollmisaka 安全吗？我只想安装 trollstore，因为它内置了可以自动启用的 jit，我有一台运行 ios 15.8.1 的 ipad air 2，并且有一个 a8 芯片组，trollmisaka 是唯一适用于我的设备的产品。    提交人    /u/Fair-Brilliant107   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dtmk93/troll_misaka_glitching/</guid>
+      <pubDate>Tue, 02 Jul 2024 14:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 DNS Anticert 方法中使用时要阻止的 Apple 服务器列表</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dtksco/list_of_apple_servers_to_block_for_using_in_dns/</link>
+      <description><![CDATA[如果您更喜欢使用自己的 DNS 提供商（如 Control D、NextDNS 或 PiHole 等自托管解决方案），以下是您需要在 DNS Anticert 方法中阻止的域列表： ocsp.apple.com ocsp2.apple.com mesu.apple.com valid.apple.com crl.apple.com certs.apple.com appattest.apple.com vpp.itunes.apple.com guzzoni-apple-com.v.aaplimg.com gdmf.apple.com axm-app.apple.com comm-cohort.ess.apple.com comm-main.ess.apple.com  我使用 Controld 对其进行了测试，并按照此说明进行操作（如何以最简单的方式免费签署/安装（侧载）iPA（iPhone 应用程序）文件，且无任何有效期？– Avieshek 的博客 (wordpress.com)) -- 跳过帖子的第一部分并使用您自己的 DNS。它工作得很好。    提交人    /u/luciferian11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dtksco/list_of_apple_servers_to_block_for_using_in_dns/</guid>
+      <pubDate>Tue, 02 Jul 2024 12:37:05 GMT</pubDate>
+    </item>
     <item>
       <title>PandaHelper 应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dtj9vu/pandahelper_apps/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[有人知道除了 Canary 之外最好的邮件客户端是什么吗？    提交人    /u/ShyKhal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dt2851/sideload/</guid>
       <pubDate>Mon, 01 Jul 2024 19:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何永久免费签署无限数量的应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dt26u6/how_to_sign_unlimited_apps_permanently_for_free/</link>
-      <description><![CDATA[免责声明：如果您有 dns，则无法更新 ios，必须先删除它。此外，这需要使用 DNS 服务器，因此如果您不信任它，您可以尝试自定义一个，我必须研究如何执行此操作 步骤 1：首先，您需要转到 nhutgg.io.vm，我会发布完整链接，但我不知道是否允许，但请搜索并单击第一个链接。 步骤 2：然后单击 dns anticert/esign 下方显示立即安装的按钮，然后在执行任何其他操作之前单击安装 dns，然后单击继续，然后单击允许，然后单击确定，然后转到设置，然后转到 vpn 和设备管理，然后单击 dns，然后单击安装，如果出现提示，请输入代码，然后单击完成。 步骤 3：然后返回到您的 Web 浏览器并开始安装每个 esign，直到其中一个起作用，您必须记住哪一个起作用，因为它的名称下方将是安装 p12，然后滚动到您的 esign 名称，单击它，然后安装 zip 文件，然后解压缩它。 步骤 4：打开 esign 接受 TOS 然后在第一页单击三个点 单击导入 转到刚刚提取的文件并导入其中的所有内容 然后单击自述文件或密码 它将被称为类似的东西 然后一旦你知道它是什么 单击.p12 文件 单击导入证书管理 然后输入你刚刚看到的代码 然后选择.mobileprovision 文件并单击导入 你不需要这个代码你就完成了 你可以安装所有 ipas 除了 cydia 之类的东西 除非你的 ios 足够低 希望这会有所帮助 :)。 步骤 5：要安装 ipas 只需单击三个点 然后导入 然后单击 ipa 然后选择确定 直到弹出蓝色圆圈 转到下一个选项卡 单击它 然后单击签名 然后当它完成签名时它会要求安装 单击安装     提交人    /u/TypicalLab7370   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dt26u6/how_to_sign_unlimited_apps_permanently_for_free/</guid>
-      <pubDate>Mon, 01 Jul 2024 19:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助安装重复的 WhatsApp</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dsu9y6/help_installing_the_duplicate_whatsapp/</link>
-      <description><![CDATA[有人可以提供可用的 WhatsApp 重复 ipa 吗？当我尝试激活时，它显示非官方版本。我尝试更改 ipa 的捆绑包 id，但它在我启动它时立即崩溃。不想将 WhatsApp 业务用于其他号码。设备：14 pm ios 17.0 带有 trollstore。    提交人    /u/CoolMiracle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dsu9y6/help_installing_the_duplicate_whatsapp/</guid>
-      <pubDate>Mon, 01 Jul 2024 14:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Reborn：下载的音频/视频位置？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dstxl1/youtube_reborn_downloaded_audiovideo_location/</link>
-      <description><![CDATA[我获得了 YouTube reborn 的 IPA 并将其侧面加载到我的手机中，因此我无需越狱。看到视频左上角有一个蓝色的 OP 按钮，所以我点击了它并尝试下载视频的音频文件。等待它完成。 我哪儿也看不到它。 检查了我的 Apple Music，检查了我的照片，用文件应用程序检查了我的文件，无处可寻。任何帮助都将不胜感激。    提交人    /u/SavingSkill7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dstxl1/youtube_reborn_downloaded_audiovideo_location/</guid>
-      <pubDate>Mon, 01 Jul 2024 14:11:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
