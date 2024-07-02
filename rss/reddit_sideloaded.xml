@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 01 Jul 2024 21:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:39:28 GMT</lastBuildDate>
+    <item>
+      <title>有没有 appdb 的替代品？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dt7h42/is_there_an_alternative_to_appdb/</link>
+      <description><![CDATA[免费一个     提交人    /u/Deathmonkey89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dt7h42/is_there_an_alternative_to_appdb/</guid>
+      <pubDate>Mon, 01 Jul 2024 23:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dt783p/sidestore_question/</link>
+      <description><![CDATA[如果您使用 Sidestore，您的 iCloud 帐户是否仍会被锁定？我看到的所有帖子都是一年前的帖子     由   提交  /u/666_ihateyouall_666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dt783p/sidestore_question/</guid>
+      <pubDate>Mon, 01 Jul 2024 23:22:13 GMT</pubDate>
+    </item>
     <item>
       <title>付费 Apple 开发者帐户是否仍受免费帐户每周 10 个 App ID 的限制？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dt3bcv/are_paid_apple_developer_accounts_still_subject/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>YTKillerPlus 值得吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dsrzjr/is_ytkillerplus_worth_it/</link>
-      <description><![CDATA[我很好奇，因为 uYouEnhanced repo 已从 github 上移除，而 YTLitePlus 在最新版本中也遇到了同样的错误，例如 iSponsorBlock/Return YTDislikes 会导致视频播放崩溃，在退出正在播放视频的应用程序时不会默认使用 PiP，黑色启动屏幕/短裤和其他一些小错误，所以我想知道 YTKillerPlus 是否值得？对于尝试过它的人来说    提交人    /u/anxxgr   [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇，因为 uYouEnhanced repo 已从 github 上移除，而 YTLitePlus 在最新版本中也遇到了同样的错误，例如 iSponsorBlock/Return YTDislikes 会导致视频播放崩溃，在退出正在播放视频的应用程序时不会默认使用 PiP，黑色启动屏幕/短裤和一些其他小错误，所以我想知道 YTKillerPlus 是否值得？对于尝试过它的人来说    提交人    /u/anxxgr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dsrzjr/is_ytkillerplus_worth_it/</guid>
       <pubDate>Mon, 01 Jul 2024 12:40:41 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>强制安装原始应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</link>
-      <description><![CDATA[应用程序：esign IOS：17.0 我想我见过 trollstore 有这个功能，但我不确定。有什么办法可以强制安装应用程序而不是原版应用程序？     提交人    /u/Ieatidepods   [link] [comments]]]></description>
+      <description><![CDATA[应用程序：esign IOS：17.0 我想我见过 trollstore 有这个功能，但我不确定。有没有什么办法可以强制安装应用程序而不是原版？    提交人    /u/Ieatidepods   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dsphso/force_install_over_original_app/</guid>
       <pubDate>Mon, 01 Jul 2024 10:16:13 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我已正确安装，其他一切正常，但下载视频按钮在单击时只会在屏幕底部显示一个小的黑色矩形，并且不会下载任何内容。我可以在 VLC 中从外部观看视频，但由于某种原因无法使用直接下载功能。运行版本 19.19.5（适用于我的操作系统的调整的最后一个版本）。请帮忙！    提交人    /u/asdasdaaah   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dslv5r/ytliteplus_download_button_not_working/</guid>
       <pubDate>Mon, 01 Jul 2024 06:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat 未调整的 IPA 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dshefs/snapchat_nontweaked_ipa_issues/</link>
-      <description><![CDATA[嗨，我一直在被设备禁用的手机上使用解密的简单未调整的 API，并且一直运行顺利，直到上周。我的应用程序一直崩溃，然后我尝试将 IPA 更新到最新版本，现在我被可疑登录暂时禁用。我大约在 2023 年 9 月 10 日被设备禁用。我不得不带两部手机出去使用 Snapchat。我可以在旧设备上登录我的帐户。我读到 Snapchat 已经更新了他们的侧载检测，但我上周还在使用它吗？    提交人    /u/Imliltrav   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dshefs/snapchat_nontweaked_ipa_issues/</guid>
-      <pubDate>Mon, 01 Jul 2024 01:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有 NBA 2K 15 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dsbnqb/does_anyone_have_nba_2k_15/</link>
-      <description><![CDATA[iOS 版本，32 位，谢谢！我真的很需要它！    提交者    /u/RameBoi15   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dsbnqb/does_anyone_have_nba_2k_15/</guid>
-      <pubDate>Sun, 30 Jun 2024 21:09:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
