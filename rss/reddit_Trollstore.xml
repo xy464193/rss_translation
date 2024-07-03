@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Wed, 03 Jul 2024 06:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 09:09:21 GMT</lastBuildDate>
+    <item>
+      <title>丢失游戏保存数据</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1du8vow/lost_game_save_data/</link>
+      <description><![CDATA[我把手机备份到了 mac，在恢复并重新安装 trollstore 后，我的游戏数据被保存了下来。但是在我的 iCloud 服务自动将手机备份到 iCloud 后，我所有的 trollstore 游戏数据都丢失了。这种情况是怎么回事？我的游戏数据存储在 iCloud 上吗？    提交人    /u/ind_hunters   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1du8vow/lost_game_save_data/</guid>
+      <pubDate>Wed, 03 Jul 2024 07:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>trollstore 仓库？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1du8ryb/trollstore_repo/</link>
+      <description><![CDATA[是否可以在 trollstore 中添加 repo？    提交人    /u/Fair-Brilliant107   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1du8ryb/trollstore_repo/</guid>
+      <pubDate>Wed, 03 Jul 2024 07:47:29 GMT</pubDate>
+    </item>
     <item>
       <title>MasterMike88 解答了关于 TrollStore 的一些困惑</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1du2xw5/mastermike88_addresses_some_confusions_about/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>iOS 测试版</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dtn2ul/ios_beta_version/</link>
-      <description><![CDATA[      iPhone Xs iOS 16.6beta 有没有 TrollStore 可以删除这个警报的东西我没有越狱    由    /u/Ahmed-Ellithy  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      iPhone Xs iOS 16.6beta TrollStore 有没有可以删除这个警报的东西我没有越狱   由    /u/Ahmed-Ellithy  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dtn2ul/ios_beta_version/</guid>
       <pubDate>Tue, 02 Jul 2024 14:23:06 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Fri, 28 Jun 2024 02:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>我下载了 trollinstaller x，现在它只是显示“无法安装，请稍后重试”</title>
+      <title>我下载了 trollinstaller x，现在它只显示“无法安装，请稍后重试”</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</link>
       <description><![CDATA[请帮助我 :(    提交人    /u/Fit_Camel7761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好， 我正在使用带有 TrollStore 的 iOS 17.0，但我真的很想念我的旧图标。有没有办法在 iOS 17 上获取自定义主题或图标？有什么提示或工具可以帮助吗？ 提前谢谢您！ -A    提交人    /u/arthurrovere   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dq364s/any_way_to_get_themes_with_trollstore/</guid>
       <pubDate>Thu, 27 Jun 2024 21:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>欺骗需要更新 iOS 的应用程序的 iOS 版本</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dpkjqr/spoofing_ios_version_for_apps_that_require/</link>
-      <description><![CDATA[目前使用的是 15.0.2 13 Pro Max，无法使用一些银行应用程序，较新的应用程序很可能有我知道的新框架，但不幸的是，我没有其他设备来安装新版本，然后在当前设备上下载它们以获取最新的工作应用程序。我看到 iOS Gods / iGameGod 有一个欺骗器，我只是找不到任何解决方案，也不想因为更新 iOS 而丢失 Trollstore。有人能提供解决方案吗？    提交人    /u/GDLRM4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dpkjqr/spoofing_ios_version_for_apps_that_require/</guid>
-      <pubDate>Thu, 27 Jun 2024 06:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>LongSim 可以在 TrollBox 中保持多长时间？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</link>
-      <description><![CDATA[Trollbox 的 Locsim 我有一部 iPhone 11，我想伪造我的位置，但 3utools 不起作用。由于 Dopamine 越狱是无根的，从我尝试过的方法来看，没有任何调整可用。我为 Zebra 获得了 locSim，但似乎没有终端调整可以安装。（这个越狱有什么意义）🧐 无论如何，我终于在 GitHub 上找到了内置位置模拟器的 TrollBox，它似乎可以工作，但如果有人知道的话，我需要知道它能持续多长时间？我不想让它关闭并让我的位置跳回     提交人    /u/Professional-Arm-132   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</guid>
-      <pubDate>Wed, 26 Jun 2024 14:59:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
