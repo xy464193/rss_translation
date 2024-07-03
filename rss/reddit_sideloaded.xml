@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 03 Jul 2024 12:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:09:29 GMT</lastBuildDate>
+    <item>
+      <title>有人有 yazio premium ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1duezl3/anybody_got_a_yazio_premium_ipa/</link>
+      <description><![CDATA[仍在搜索 :)    由   提交  /u/ChrxsDxrExhte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1duezl3/anybody_got_a_yazio_premium_ipa/</guid>
+      <pubDate>Wed, 03 Jul 2024 13:56:47 GMT</pubDate>
+    </item>
     <item>
       <title>Uyou按钮消失了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dubqjg/uyou_button_disappeared/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>有可用的 TikTok Ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dubb0p/any_tiktok_ipa_that_works/</link>
-      <description><![CDATA[在将多个 BHTiktok ipas 下载到我的应用程序之前，我已经对其进行了测试，发现一个供应商已将这些 ipas 标记为恶意，错误显示“Riskware.Script.Obfuscated.kcdfgx”。我不希望我的 iphone 上有木马恶意软件或其他东西，所以我想知道你们有没有一个没有恶意软件的，一切都很好。 另外，不要说我应该删除 Tiktok，你既不古怪，也不有趣，也不聪明。    提交人    /u/PepperGhost323   [链接] [评论]]]></description>
+      <description><![CDATA[在将多个 BHTiktok ipas 下载到我的应用程序之前，我已经对其进行了测试，发现一个供应商已将这些 ipas 标记为恶意 ipas，错误显示“Riskware.Script.Obfuscated.kcdfgx”。我不希望我的 iphone 上有木马恶意软件或其他东西，所以我想知道你们有没有一个没有恶意软件的，一切都很好。 另外，不要说我应该删除 Tiktok，你既不古怪，也不有趣，也不聪明。    提交人    /u/PepperGhost323   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dubb0p/any_tiktok_ipa_that_works/</guid>
       <pubDate>Wed, 03 Jul 2024 10:44:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨， 我正在尝试从我的 Apollo IPA 中删除 3 个扩展程序以释放一些应用程序 ID。从我所见，该过程似乎很简单，将 IPA 文件更改为 ZIP 文件，使用 7Zip 解压缩，转到 Payload &gt; Apollo.app &gt; Plugins 并删除您不需要的插件，然后重新压缩文件夹，并将 ZIP 文件更改回 IPA 并安装。 但是，这样做会让 Altstore 说“不存在有效载荷文件夹”。直接在 7Zip 中打开 IPA 显示 IPA 中的直接（也是唯一的）文件夹是“Payload”，并且我知道这个 IPA 可以与现有的扩展程序一起使用。 有人可以帮忙吗？我知道 Altstore 可以删除所有扩展，但这并不理想，因为 5 个扩展中只有 2 个实际上很有用，我想保留它们。 谢谢！    提交人    /u/hardcoregiraffestyle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dtnd0d/how_do_you_remove_app_id_extensions_from_an_ipa/</guid>
       <pubDate>Tue, 02 Jul 2024 14:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>巨魔故障？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtmk93/troll_misaka_glitching/</link>
-      <description><![CDATA[我想安装 trollmisaka，但我听说你的设备会出现故障，trollmisaka 安全吗？我只想安装 trollstore，因为它内置了可以自动启用的 jit，我有一台运行 ios 15.8.1 的 ipad air 2，并且有一个 a8 芯片组，trollmisaka 是唯一适用于我的设备的产品。    提交人    /u/Fair-Brilliant107   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtmk93/troll_misaka_glitching/</guid>
-      <pubDate>Tue, 02 Jul 2024 14:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
