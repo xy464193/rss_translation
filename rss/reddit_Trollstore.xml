@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 02 Jul 2024 21:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:39:15 GMT</lastBuildDate>
+    <item>
+      <title>最新消息 TrollStore：iOS 16.7 - 18</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dtyr8w/latest_news_trollstore_ios_167_18/</link>
+      <description><![CDATA[        由    /u/tenir  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dtyr8w/latest_news_trollstore_ios_167_18/</guid>
+      <pubDate>Tue, 02 Jul 2024 22:35:44 GMT</pubDate>
+    </item>
     <item>
       <title>trollstore build yt 成功但无法安装 ipa</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dtr5lq/trollstore_build_yt_ok_but_cannot_install_ipa/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>iOS 测试版</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dtn2ul/ios_beta_version/</link>
-      <description><![CDATA[      iPhone Xs iOS 16.6beta 有没有 TrollStore 可以删除这个警报的东西我没有越狱    由    /u/Ahmed-Ellithy  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      iPhone Xs iOS 16.6beta TrollStore 有没有可以删除这个警报的东西我没有越狱   由    /u/Ahmed-Ellithy  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dtn2ul/ios_beta_version/</guid>
       <pubDate>Tue, 02 Jul 2024 14:23:06 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 28 Jun 2024 02:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>我下载了 trollinstaller x，现在它只是显示“无法安装，请稍后重试”</title>
+      <title>我下载了 trollinstaller x，现在它只显示“无法安装，请稍后重试”</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</link>
       <description><![CDATA[请帮助我 :(    提交人    /u/Fit_Camel7761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Trollbox 的 Locsim 我有一部 iPhone 11，我想伪造我的位置，但 3utools 不起作用。由于 Dopamine 越狱是无根的，从我尝试过的方法来看，没有任何调整可用。我为 Zebra 获得了 locSim，但似乎没有终端调整可以安装。（这个越狱有什么意义）🧐 无论如何，我终于在 GitHub 上找到了内置位置模拟器的 TrollBox，它似乎可以工作，但如果有人知道的话，我需要知道它能持续多长时间？我不想让它关闭并让我的位置跳回     提交人    /u/Professional-Arm-132   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dp0o8c/how_long_does_longsim_stay_persistent_from/</guid>
       <pubDate>Wed, 26 Jun 2024 14:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个 repo 来美化应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1do5mqp/need_a_repo_to_landscape_an_app/</link>
-      <description><![CDATA[我找不到可以强制横向显示应用的有效存储库。你们在用吗？    提交人    /u/alpceliko   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1do5mqp/need_a_repo_to_landscape_an_app/</guid>
-      <pubDate>Tue, 25 Jun 2024 13:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
