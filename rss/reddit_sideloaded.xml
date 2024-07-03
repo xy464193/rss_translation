@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Uyou按钮消失了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dubqjg/uyou_button_disappeared/</link>
+      <description><![CDATA[嗨， 我的 uyouenhanced 已经到了周末，所以我决定不再这样做，并采用了 esign 方法。通过该方法安装了 uyouenhanced，获得了我之前的所有设置（主要是，我希望我能看到 uyouenhanced 选项卡中的复制设置），现在我找不到“+”按钮，在设置中找不到它。它以前在主页的右上角。我该如何激活它？（我只用它来删除缓存） 编辑：此外，每当我退出 yt 时，迷你播放器就会出现在角落里。我该如何停止这种情况？    提交人    /u/RaresVladescu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dubqjg/uyou_button_disappeared/</guid>
+      <pubDate>Wed, 03 Jul 2024 11:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有可用的 TikTok Ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dubb0p/any_tiktok_ipa_that_works/</link>
+      <description><![CDATA[在将多个 BHTiktok ipas 下载到我的应用程序之前，我已经对其进行了测试，发现一个供应商已将这些 ipas 标记为恶意，错误显示“Riskware.Script.Obfuscated.kcdfgx”。我不希望我的 iphone 上有木马恶意软件或其他东西，所以我想知道你们有没有一个没有恶意软件的，一切都很好。 另外，不要说我应该删除 Tiktok，你既不古怪，也不有趣，也不聪明。    提交人    /u/PepperGhost323   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dubb0p/any_tiktok_ipa_that_works/</guid>
+      <pubDate>Wed, 03 Jul 2024 10:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deltarune 第 2 章 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1duar1w/deltarune_chapter_2_ipa/</link>
+      <description><![CDATA[伙计们，我刚刚在 ipad 上完成了 deltarune，还玩了 5 遍 undertale，这些都很火爆！！有人有 deltarune 第 2 章 ipa 吗？    提交人    /u/Last-Gap-5148   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1duar1w/deltarune_chapter_2_ipa/</guid>
+      <pubDate>Wed, 03 Jul 2024 10:08:43 GMT</pubDate>
+    </item>
     <item>
       <title>如何下载修改后的应用程序的原始 ipa 文件？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1du7ksa/how_to_download_the_original_ipa_files_of_modded/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我想安装 trollmisaka，但我听说你的设备会出现故障，trollmisaka 安全吗？我只想安装 trollstore，因为它内置了可以自动启用的 jit，我有一台运行 ios 15.8.1 的 ipad air 2，并且有一个 a8 芯片组，trollmisaka 是唯一适用于我的设备的产品。    提交人    /u/Fair-Brilliant107   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dtmk93/troll_misaka_glitching/</guid>
       <pubDate>Tue, 02 Jul 2024 14:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 DNS Anticert 方法中使用时要阻止的 Apple 服务器列表</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtksco/list_of_apple_servers_to_block_for_using_in_dns/</link>
-      <description><![CDATA[如果您更喜欢使用自己的 DNS 提供商（如 Control D、NextDNS 或 PiHole 等自托管解决方案），以下是您需要在 DNS Anticert 方法中阻止的域列表： ocsp.apple.com ocsp2.apple.com mesu.apple.com valid.apple.com crl.apple.com certs.apple.com appattest.apple.com vpp.itunes.apple.com guzzoni-apple-com.v.aaplimg.com gdmf.apple.com axm-app.apple.com comm-cohort.ess.apple.com comm-main.ess.apple.com  我使用 Controld 对其进行了测试，并按照此说明进行操作（如何以最简单的方式免费签署/安装（侧载）iPA（iPhone 应用程序）文件，且无任何有效期？– Avieshek 的博客 (wordpress.com)) -- 跳过帖子的第一部分并使用您自己的 DNS。它工作得很好。    提交人    /u/luciferian11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtksco/list_of_apple_servers_to_block_for_using_in_dns/</guid>
-      <pubDate>Tue, 02 Jul 2024 12:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>PandaHelper 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtj9vu/pandahelper_apps/</link>
-      <description><![CDATA[我从未真正使用过 PandaHelper，因为它一开始看起来很粗糙，所以我从未尝试过，但现在我正在寻找新 Survivor!.io 版本的修改版本，而我只在 VIP 版 PandaHelper 中找到了它。有没有办法在不支付 VIP 访问权限的情况下下载它？或者有人知道我在哪里可以得到这个新的 Survivor!.io 版本？它是 2.10.4，我相信是 6 天前发布的。 谢谢！    提交人    /u/999matias   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtj9vu/pandahelper_apps/</guid>
-      <pubDate>Tue, 02 Jul 2024 11:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub eevee Spotify</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtiv77/github_eevee_spotify/</link>
-      <description><![CDATA[好的，我已将其下载到我的 Windows 电脑上，现在我不知道下一步该怎么做，我点击它，它只会打开我的 iTunes。有人可以帮忙吗    提交人    /u/ZealousidealLow9623   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtiv77/github_eevee_spotify/</guid>
-      <pubDate>Tue, 02 Jul 2024 10:49:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
