@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 04 Jul 2024 03:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:12:39 GMT</lastBuildDate>
+    <item>
+      <title>您可以将应用程序通知重定向到侧载应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1duzu93/can_you_redirect_app_notifications_to_your/</link>
+      <description><![CDATA[我安装了 enmity（discord mod），但显然我没有收到通知。由于我不想付费实现这一点，我是否可以使用 discord（原始）通知并将其重定向到 enmity。     提交人    /u/Duffus_Rat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1duzu93/can_you_redirect_app_notifications_to_your/</guid>
+      <pubDate>Thu, 04 Jul 2024 06:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYouPlus 图标不显示</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1duz2kn/uyouplus_icons_not_appearing/</link>
+      <description><![CDATA[      大约 3-4 个月前，我在手机上侧载了 uYou+，它运行良好，直到大约一个月前，广告拦截功能和 PiP 功能无法使用，这是由于 YouTube 进行的一些更新造成的。今天我卸载了旧版 uYou+ 并自行重建。当我这样做并侧载应用程序时，播放器中的大多数图标（如主页、订阅和其他图标）都没有出现。有什么方法可以解决这个问题吗？  https://preview.redd.it/kpojdh2enfad1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=700a49232686738e9145d545524cfc67f00a2cb5 什么    提交人    /u/NotYulo2   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1duz2kn/uyouplus_icons_not_appearing/</guid>
+      <pubDate>Thu, 04 Jul 2024 05:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>FaceApp Pro IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1duymp2/faceapp_pro_ipa/</link>
+      <description><![CDATA[有人知道这个是否可用吗？    提交人    /u/ashley8976   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1duymp2/faceapp_pro_ipa/</guid>
+      <pubDate>Thu, 04 Jul 2024 04:57:16 GMT</pubDate>
+    </item>
     <item>
       <title>SideStore 说无法连接到设备，如何解决？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1duvt7u/sidestore_says_unable_to_connect_to_the_device/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Dylib 解锁 1080p 高级版</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1duoz13/dylib_to_unlock_1080p_premium/</link>
-      <description><![CDATA[是否有任何 dylib 可以解锁 1080p premium？我知道它不会改变那么多，但我的大脑总是想要更多😔    提交人    /u/Loud-Ganache-5119   [link] [评论]]]></description>
+      <description><![CDATA[是否有任何 dylib 可以解锁 1080p premium？我知道它不会改变那么多，但我的大脑总是想要更多 😔    提交人    /u/Loud-Ganache-5119   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1duoz13/dylib_to_unlock_1080p_premium/</guid>
       <pubDate>Wed, 03 Jul 2024 20:53:46 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[      每当我在 sidestore 上选择配对文件并按下文件时，它都不会选择。我可以尝试在应用程序的未签名文件中手动添加配对文件，但我不知道将其放在哪里    提交人    /u/Tinzellikesmemes   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1du33l8/sidestore_help/</guid>
       <pubDate>Wed, 03 Jul 2024 02:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持 .lrc 的音乐播放器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1du0fg2/music_player_with_lrc_support/</link>
-      <description><![CDATA[有谁知道哪个音乐播放器可以支持从 .lrc 文件（或者更好的是，从 SYLT 标签）同步歌词？ Android 上有这个选项，比如“Musicolet”，但不幸的是 IOS 上没有。    提交人    /u/Tobo_Baldo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1du0fg2/music_player_with_lrc_support/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>反作弊和 igamegod</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtzzdz/anti_cheat_and_igamegod/</link>
-      <description><![CDATA[尝试使用 igamegod 更改此游戏中硬币的价值，找不到任何教程，而且我是 igamegod 新手，我试图更改 mad skills mx3 版本 3.0.5 的硬币价值，但反作弊总是立即将其改回，我该怎么办？    提交人    /u/brybry110   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtzzdz/anti_cheat_and_igamegod/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>appdb 对我来说不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dtzdhx/appdb_doesnt_work_for_me/</link>
-      <description><![CDATA[我该怎么办？它不让我下载应用程序并告诉我更改设备的设置，但我不能     由    /u/charbelskp  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dtzdhx/appdb_doesnt_work_for_me/</guid>
-      <pubDate>Tue, 02 Jul 2024 23:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
