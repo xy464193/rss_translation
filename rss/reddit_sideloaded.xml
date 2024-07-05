@@ -4,20 +4,41 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 04 Jul 2024 21:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 00:39:20 GMT</lastBuildDate>
+    <item>
+      <title>为什么 SideStore 的安装如此复杂？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvlirf/why_is_sidestore_so_complicated_to_install/</link>
+      <description><![CDATA[之前都是通过 SideServer 安装的，现在看官方的教程好复杂啊。 https://sidestore.io/#get-started    submitted by    /u/Realistic-Sky-7858   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvlirf/why_is_sidestore_so_complicated_to_install/</guid>
+      <pubDate>Fri, 05 Jul 2024 00:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发账户还是签名服务？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvkaky/dev_account_or_signing_service/</link>
+      <description><![CDATA[我对侧载还比较陌生，但已经侧载了几个月了。这段时间我一直在 MacBook 上使用侧载刷新应用程序的方法，说实话我并不介意。我目前有一部运行 iOS 17.5.1 的 iPhone 15 Plus（我相信这是 18 之前的最新版本）但是，我正在考虑获取一个开发帐户，以便侧载更多应用程序（比我现在使用的 3 个还要多）。你们会推荐什么？官方 Apple 开发帐户，还是任何特定的签名服务？虽然我愿意花钱，但我宁愿不为此倾家荡产。我也根本不想越狱我的手机，也不想要任何可能使我的侧载能力复杂化和损害的阴暗方法。  TLDR; 标题    提交人    /u/jumpedshark4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvkaky/dev_account_or_signing_service/</guid>
+      <pubDate>Thu, 04 Jul 2024 23:29:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以更新我的软件吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvjp9g/can_i_update_my_software/</link>
+      <description><![CDATA[目前在 iOS 17.2.1 上，sideloadly 工作得很好。目前正在使用 Youtube plus，想将 Spotify++ 添加到列表中。但是我的手机变得如此缓慢和滞后。它在执行最基本的任务时会变得很热。我有一部 256gb 的 iPhone XR，只使用了 80gb。我想更新，但我还能毫无问题地进行侧载吗？    提交人    /u/mannerlybassoon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvjp9g/can_i_update_my_software/</guid>
+      <pubDate>Thu, 04 Jul 2024 22:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>棒球 9 更新了 IPA 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvjjh6/baseball_9_updated_ipa/</link>
+      <description><![CDATA[他们将其更新至 3.6.4，那么是否有适用于此版本的模组？    提交人    /u/ThyMemeth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvjjh6/baseball_9_updated_ipa/</guid>
+      <pubDate>Thu, 04 Jul 2024 22:51:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何启用按住以搜索、更改视频播放器中的速度控制位置以及更改主屏幕上的界面？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvhdvl/how_to_enable_hold_to_seek_change_speed_controls/</link>
       <description><![CDATA[      大家好， 我使用 esign 来获取 ytliteplus，遇到了一些问题，希望您能帮助我。首先，我找不到“按住以搜索”设置，如果我按住特定的时间戳，它会将视频时间球放在那里，而不必将其拖动到那里。其次，ytliteplus 的视频播放器控件是垂直侧向设置的，我想知道是否有办法将其水平放置在暂停按钮下方。最后，当我刷新后打开应用程序时（yt 徽标出现，好像从应用程序切换器中消失，然后再次打开应用程序），顶部的不同类别视频的选项卡没有出现（例如为您、游戏等），当我向下滚动时，它会出现并停留在那里，可能是因为设置强制搜索在您向下滚动后停留。     提交人    /u/RaresVladescu   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvhdvl/how_to_enable_hold_to_seek_change_speed_controls/</guid>
       <pubDate>Thu, 04 Jul 2024 21:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>InstaRocked 视频播放问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dvgtc3/instarocked_video_playback_buggy/</link>
-      <description><![CDATA[故事只是停止了，我不得不经常返回并重新开始。此外，视频在开始几秒钟后随机重新启动。它会影响 insta 中的所有内容。 我遇到这个问题已经好几个月了，但在最近几天情况变得更糟了。 你有什么建议给我吗？你遇到过类似的问题吗？    提交人    /u/JaJaMan_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dvgtc3/instarocked_video_playback_buggy/</guid>
-      <pubDate>Thu, 04 Jul 2024 20:42:54 GMT</pubDate>
     </item>
     <item>
       <title>刚买了 iPhone 14 plus，所以我终于可以运行 3DS 模拟器了。哪一个兼容性最好/最高，我在哪里可以得到它？</title>
@@ -83,32 +104,11 @@
       <pubDate>Thu, 04 Jul 2024 13:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram ipa 帐户</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv45dm/instagram_ipa/</link>
-      <description><![CDATA[大家好，有人知道哪里可以获得像普通版本而不是调整过的版本的 instagram ipa 吗？我需要旧版本，因为我被 instagram 应用程序禁止了，或者有人知道来自 instagram 的 ipa 可以绕过禁令检查并让你登录，谢谢    提交人    /u/Ok_Witness8542   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv45dm/instagram_ipa/</guid>
-      <pubDate>Thu, 04 Jul 2024 10:56:42 GMT</pubDate>
-    </item>
-    <item>
       <title>媒体播放器无法打开应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dv41ae/media_player_doesnt_open_apps/</link>
       <description><![CDATA[无法通过锁屏或控制中心的播放器打开 Spotify 或 Youtube 等应用。在我尝试使用 esign 和企业证书进行侧载之前，它一直运行正常。有人遇到过这个问题并有解决方案吗？感谢您的回复。 https://reddit.com/link/1dv41ae/video/p07l8gghfhad1/player    提交人    /u/_NDBK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dv41ae/media_player_doesnt_open_apps/</guid>
       <pubDate>Thu, 04 Jul 2024 10:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou增强了ios 14的支持？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv3p4a/uyouenhanced_ios_14_support/</link>
-      <description><![CDATA[为什么它被删除了？ :/ 我们中的很多人仍然在使用 iOS 14，尤其是支持 trollstore 的版本    由    /u/nutshucker  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv3p4a/uyouenhanced_ios_14_support/</guid>
-      <pubDate>Thu, 04 Jul 2024 10:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>已更新至最新的 Livecontainer（适用于 iOS 18），但放大后看起来怪怪的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv2c5t/updated_to_latest_livecontainerfor_ios_18_and_it/</link>
-      <description><![CDATA[        提交人    /u/Gromchy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv2c5t/updated_to_latest_livecontainerfor_ios_18_and_it/</guid>
-      <pubDate>Thu, 04 Jul 2024 08:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
