@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 12:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 15:08:42 GMT</lastBuildDate>
+    <item>
+      <title>Instagram 视频自动播放已禁用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvzzxq/instagram_video_autoplay_disabled/</link>
+      <description><![CDATA[嗨，我想问一下是否有一个 instagram mod 允许我在滚动 instagram 主页时禁用视频自动播放。 过去，Rocket 有这个选项，但我找不到它。 谢谢    提交人    /u/marchino123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvzzxq/instagram_video_autoplay_disabled/</guid>
+      <pubDate>Fri, 05 Jul 2024 14:59:42 GMT</pubDate>
+    </item>
     <item>
       <title>大家好，有人有 Egern 的 Locket、youtube、picart 等应用程序的个人资料吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvv40i/hey_everyone_does_anyone_have_profiles_of_apps/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Esign 反撤销 DNS 阻止了不该阻止的内容。还有其他人遇到这个问题吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvthn4/esign_antirevoke_dns_blocking_things_it_shouldnt/</link>
-      <description><![CDATA[因此，为了清楚起见，我指的是 PureEnvy 的 Esign 方法，它允许您使用过期/撤销的证书和特殊 DNS 来侧载应用程序。我相信你们大多数人都见过它。无论如何，几个月前它只使用了一个基本的 DNS，一切都运行良好。但最近他们更新了它使用的 DNS，现在它导致了各种奇怪的问题。 例如，前几天我去检查雅虎，因为我在等一封电子邮件，但我收到了无法访问网站的错误。我检查了其中一个网站跟踪器网站，以确认雅虎没有关闭。大约一个小时后，我想我应该关闭 DNS，因为我已经尝试了其他所有方法，而我一这样做，雅虎就加载了。就在昨天，当我尝试在线支付账单时，我遇到了类似的问题。付款失败了两次，并触发了我的卡上的欺诈警报。这是一张定期的月度账单（手机），我以前从未遇到过支付困难。我再次关闭了 DNS，之后就没再出现任何问题了。 不用说，我现在要关闭 DNS，因为它似乎在做一些见不得人的事。只是想知道是否有其他人使用更新的 DNS 的 Esign 方法遇到过类似的问题。    提交人    /u/JesseB342   [link] [评论]]]></description>
+      <description><![CDATA[因此，为了清楚起见，我指的是 PureEnvy 的 Esign 方法，它允许您使用过期/撤销的证书和特殊 DNS 来侧载应用程序。我相信你们大多数人都见过它。无论如何，几个月前它只使用了一个基本的 DNS，一切都运行良好。但最近他们更新了它使用的 DNS，现在它导致了各种奇怪的问题。 例如，前几天我去检查雅虎，因为我在等一封电子邮件，但我收到了无法访问网站的错误。我检查了其中一个网站跟踪器网站，以确认雅虎没有关闭。大约一个小时后，我想我应该关闭 DNS，因为我已经尝试了其他所有方法，而我一这样做，雅虎就加载了。就在昨天，当我尝试在线支付账单时，我遇到了类似的问题。付款失败了两次，并触发了我的卡上的欺诈警报。这是一份定期的月度账单（手机），我以前从未遇到过支付困难。我再次关闭了 DNS，之后就没再出现任何问题了。 不用说，我现在要关闭 DNS，因为它似乎在做一些见不得人的事。只是想知道是否有其他人使用更新的 DNS 的 Esign 方法遇到过类似的问题。    提交人    /u/JesseB342   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvthn4/esign_antirevoke_dns_blocking_things_it_shouldnt/</guid>
       <pubDate>Fri, 05 Jul 2024 08:56:04 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>反撤销 DNS</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvputf/anti_revoke_dns/</link>
-      <description><![CDATA[大家好！我有一些奇怪的疑问。如果我使用防撤销 DNS，它也会阻止 icloud 备份和同步吗？ 我知道我不会获得自动软件更新，但是来自应用商店的应用程序的自动更新呢？ 另外，有人可以告诉我使用 DNS 的缺点是什么吗，比如我使用 DNS 后是否错过了一些主要缺点。    提交人    /u/Ghostbot_14   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我有一个奇怪的疑问。如果我使用防撤销 DNS，它也会阻止 icloud 备份和同步吗？ 我知道我不会获得自动软件更新，但是来自应用商店的应用程序的自动更新呢？ 另外，有人可以告诉我使用 DNS 的缺点是什么吗，比如我使用 DNS 后是否错过了一些主要缺点。    提交人    /u/Ghostbot_14   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvputf/anti_revoke_dns/</guid>
       <pubDate>Fri, 05 Jul 2024 04:51:34 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[大家好，我是 sideloading 和 Reddit 的新手。我听到有人在谈论为 altstore 创建第二个 Apple ID，但当我尝试创建时，它总是要求输入电话号码，但不让我使用我现在在 Apple ID 上的电话号码。所以有没有提示或技巧，提前谢谢 :)    提交人    /u/ImHowdy1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvnq4k/how_to_make_new_apple_id/</guid>
       <pubDate>Fri, 05 Jul 2024 02:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 AppDB 上请求较新版本？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dvmric/is_there_a_way_to_request_a_newer_version_on_appdb/</link>
-      <description><![CDATA[我正在尝试查找 iCircuits 的更新版本，因为最新版本不适用于 iOS 16 以上的任何手机 有没有办法找到新版本？    提交人    /u/f2h2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dvmric/is_there_a_way_to_request_a_newer_version_on_appdb/</guid>
-      <pubDate>Fri, 05 Jul 2024 01:47:40 GMT</pubDate>
     </item>
     <item>
       <title>为什么 SideStore 的安装如此复杂？</title>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 04 Jul 2024 22:51:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何启用按住搜索、更改视频播放器中的速度控制位置以及更改主屏幕上的界面？</title>
+      <title>如何启用按住以搜索、更改视频播放器中的速度控制位置以及更改主屏幕上的界面？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvhdvl/how_to_enable_hold_to_seek_change_speed_controls/</link>
       <description><![CDATA[      大家好， 我使用 esign 来获取 ytliteplus，遇到了一些问题，希望您能帮助我。首先，我找不到“按住以搜索”设置，如果我按住特定的时间戳，它会将视频时间球放在那里，而不必将其拖动到那里。其次，ytliteplus 的视频播放器控件是垂直侧向设置的，我想知道是否有办法将其水平放置在暂停按钮下方。最后，当我刷新后打开应用程序时（yt 徽标出现，好像从应用程序切换器中消失，然后再次打开应用程序），顶部的不同类别视频的选项卡没有出现（例如为您、游戏等），当我向下滚动时，它会出现并停留在那里，可能是因为设置强制搜索在您向下滚动后停留。     提交人    /u/RaresVladescu   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvhdvl/how_to_enable_hold_to_seek_change_speed_controls/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>有人能用 snapchat falcon ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dveyhn/anyone_got_working_snapchat_falcon_ipa/</link>
-      <description><![CDATA[它显示重复尝试或其他尝试，并且在我退出后它不允许我登录，因此，如果有人获得了绕过该更新的 snapchat falcon，请给我链接或任何东西     提交人    /u/dead_eye-09   [链接] [评论]]]></description>
+      <description><![CDATA[它显示重复尝试或其他尝试，并且在我退出后它不允许我登录，因此如果有人获得了绕过该更新的 snapchat falcon，请给我链接或任何东西     提交人    /u/dead_eye-09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dveyhn/anyone_got_working_snapchat_falcon_ipa/</guid>
       <pubDate>Thu, 04 Jul 2024 19:19:47 GMT</pubDate>
     </item>

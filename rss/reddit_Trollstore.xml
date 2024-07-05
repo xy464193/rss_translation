@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Fri, 05 Jul 2024 12:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 15:08:37 GMT</lastBuildDate>
+    <item>
+      <title>无法通过 App Store 更新应用程序</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dvzk28/cant_update_app_through_app_store/</link>
+      <description><![CDATA[大家好，我看过关于这个问题的帖子，但没有一个修复方法对我有用。我无法通过应用商店更新 Spotify。当我按下更新时，它变灰，填满轮子，直到达到 75%，然后轮子消失，然后应用程序图标恢复正常，但当我点击它时，它会重新安装或类似的东西 我尝试过从 IPA 下载然后删除容器文件夹的技巧，但它不起作用。我甚至不确定如何正确执行此操作，因为 Metabundle Id 是 com.spotify.client，而且我看不到具有该名称的文件夹，只有 Spotify 文件夹 我已经安装了普通的解密 IPA，然后设置为用户指定，但这也不起作用 实际上，我甚至没有通过 troll store 安装的 Spotify 的原始 IPA，因为我很长时间都不需要这样做了，我已经使用普通应用程序一段时间了，这种情况一直在发生，只是现在我才开始恼火 我想提一下，我在 Dopamine 2、15.3.1、iphone 12 上是 jb，这只发生在我处于 jb 状态时，但我已经恢复了我的 jb 并且没有安装任何调整，因为我正在测试所有可能性，但它仍然不起作用 有什么建议吗？    由   提交  /u/DeskPrevious6504   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dvzk28/cant_update_app_through_app_store/</guid>
+      <pubDate>Fri, 05 Jul 2024 14:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>喷子商店 iOS 15</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dvuvzy/trollstore_ios_15/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/Crooton04   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1drevlg/getting_this_everytime_i_install_any_ipa_file/</guid>
       <pubDate>Sat, 29 Jun 2024 16:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何安装已下载到 MacBook 上的 ipa</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dr9uyo/how_do_i_install_an_ipa_downloaded_on_a_macbook/</link>
-      <description><![CDATA[所以我对此有点陌生，刚刚在 Apple TV HD 上安装了 trollstore，并在 MacBook 上下载了一个 ipa。我可以看到如何通过链接下载应用程序，但不能从本地文件下载。我现在有点困惑，因为我在网上找不到如何安装本地文件的地方。如上所述，我对此很陌生 😬 Ps 这是 ipa。    提交人    /u/BT_Games   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dr9uyo/how_do_i_install_an_ipa_downloaded_on_a_macbook/</guid>
-      <pubDate>Sat, 29 Jun 2024 12:13:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
