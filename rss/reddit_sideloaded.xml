@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 00:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 03:10:10 GMT</lastBuildDate>
+    <item>
+      <title>如何创建新的 Apple ID</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvnq4k/how_to_make_new_apple_id/</link>
+      <description><![CDATA[大家好，我是 sideloading 和 Reddit 的新手。我听到有人在谈论为 altstore 创建第二个 Apple ID，但当我尝试创建时，它总是要求输入电话号码，但不让我使用我现在在 Apple ID 上的电话号码。所以有没有提示或技巧，提前谢谢 :)    提交人    /u/ImHowdy1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvnq4k/how_to_make_new_apple_id/</guid>
+      <pubDate>Fri, 05 Jul 2024 02:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法在 AppDB 上请求较新版本？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvmric/is_there_a_way_to_request_a_newer_version_on_appdb/</link>
+      <description><![CDATA[我正在尝试查找 iCircuits 的更新版本，因为最新版本不适用于 iOS 16 以上的任何手机 有没有办法找到新版本？    提交人    /u/f2h2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvmric/is_there_a_way_to_request_a_newer_version_on_appdb/</guid>
+      <pubDate>Fri, 05 Jul 2024 01:47:40 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 SideStore 的安装如此复杂？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvlirf/why_is_sidestore_so_complicated_to_install/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我试过 appdb，但现在所有的下载链接都坏了？它要求链接设备，但我不知道那是什么，听起来很可怕。  我试过其他网站，如 http://iosvizor.com，但那里的 ipas，大多数都无法安装，不知何故坏了。有没有 ipas 始终有效的 lib 网站？ 主要是为我的孩子寻找游戏（我买不起）    提交人    /u/yalag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dv70bj/where_is_a_good_ipa_library_with_consistent_ipas/</guid>
       <pubDate>Thu, 04 Jul 2024 13:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 SideStore“文件不存在”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv6vsu/fix_sidestore_file_doesnt_exist/</link>
-      <description><![CDATA[我最近按照 yt 教程在我的 iphone 上安装了 sidestore，但是每当我选择要安装的 ipa 文件时，它都会显示“文件不存在”，有什么办法可以解决这个问题吗？    提交人    /u/RetiredHitsugaya   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv6vsu/fix_sidestore_file_doesnt_exist/</guid>
-      <pubDate>Thu, 04 Jul 2024 13:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体播放器无法打开应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv41ae/media_player_doesnt_open_apps/</link>
-      <description><![CDATA[无法通过锁屏或控制中心的播放器打开 Spotify 或 Youtube 等应用。在我尝试使用 esign 和企业证书进行侧载之前，它一直运行正常。有人遇到过这个问题并有解决方案吗？感谢您的回复。 https://reddit.com/link/1dv41ae/video/p07l8gghfhad1/player    提交人    /u/_NDBK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv41ae/media_player_doesnt_open_apps/</guid>
-      <pubDate>Thu, 04 Jul 2024 10:49:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
