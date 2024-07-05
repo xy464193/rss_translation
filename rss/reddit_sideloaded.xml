@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 03:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:13:21 GMT</lastBuildDate>
+    <item>
+      <title>反撤销 DNS</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dvputf/anti_revoke_dns/</link>
+      <description><![CDATA[大家好！我有一个奇怪的疑问。如果我使用防撤销 DNS，它也会阻止 icloud 备份和同步吗？ 我知道我不会获得自动软件更新，但是来自应用商店的应用程序的自动更新呢？ 另外，有人可以告诉我使用 DNS 的缺点是什么吗，比如我使用 DNS 后是否错过了一些主要缺点。    提交人    /u/Ghostbot_14   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dvputf/anti_revoke_dns/</guid>
+      <pubDate>Fri, 05 Jul 2024 04:51:34 GMT</pubDate>
+    </item>
     <item>
       <title>如何创建新的 Apple ID</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvnq4k/how_to_make_new_apple_id/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我该如何解决这个问题？    由   提交  /u/Huge-Anything1592   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dv99qr/whenever_i_install_scarlet_it_says_integrity/</guid>
       <pubDate>Thu, 04 Jul 2024 15:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里有好的ipa库和一致的ipas？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dv70bj/where_is_a_good_ipa_library_with_consistent_ipas/</link>
-      <description><![CDATA[我试过 appdb，但现在所有的下载链接都坏了？它要求链接设备，但我不知道那是什么，听起来很可怕。  我试过其他网站，如 http://iosvizor.com，但那里的 ipas，大多数都无法安装，不知何故坏了。有没有 ipas 始终有效的 lib 网站？ 主要是为我的孩子寻找游戏（我买不起）    提交人    /u/yalag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dv70bj/where_is_a_good_ipa_library_with_consistent_ipas/</guid>
-      <pubDate>Thu, 04 Jul 2024 13:31:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
