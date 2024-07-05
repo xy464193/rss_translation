@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Fri, 05 Jul 2024 09:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 12:15:04 GMT</lastBuildDate>
+    <item>
+      <title>喷子商店 iOS 15</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dvuvzy/trollstore_ios_15/</link>
+      <description><![CDATA[我正在尝试使用 iOS 受限的应用程序（银行应用程序），有没有办法通过更改 info.plist iOS 要求来使用它，或者有一个应用程序可以通过 TS 安装？请提供非 jb 解决方案！    提交人    /u/GDLRM4   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dvuvzy/trollstore_ios_15/</guid>
+      <pubDate>Fri, 05 Jul 2024 10:33:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify++ 下载</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dvtu8j/spotify_downloading/</link>
+      <description><![CDATA[我下载了 spotify ++，但遇到了两个问题：出于某种原因，我无法下载任何歌曲。按钮在那里，但当我点击它时，它会一直加载。此外，当我启动播放列表时，它总是随机播放。我无法按顺序播放它们。    提交人    /u/Either-Fig-4717   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dvtu8j/spotify_downloading/</guid>
+      <pubDate>Fri, 05 Jul 2024 09:20:34 GMT</pubDate>
+    </item>
     <item>
       <title>网站为何会这样？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dvmdtt/why_the_website_is_like_that/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我对此有点陌生，刚刚在 Apple TV HD 上安装了 trollstore，并在 MacBook 上下载了一个 ipa。我可以看到如何通过链接下载应用程序，但不能从本地文件下载。我现在有点困惑，因为我在网上找不到如何安装本地文件的地方。如上所述，我对此很陌生 😬 Ps 这是 ipa。    提交人    /u/BT_Games   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dr9uyo/how_do_i_install_an_ipa_downloaded_on_a_macbook/</guid>
       <pubDate>Sat, 29 Jun 2024 12:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助解决 WhatsApp 重复问题</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dq9dx6/help_with_whatsapp_duplicate/</link>
-      <description><![CDATA[我已经从 App store 为一个号码安装了官方版本。现在我想使用另一个号码，但每当我安装 Watusi 的 WhatsApp 重复版本时，它都显示 WhatsApp 的非官方版本。有什么方法可以安装更改了 bundle id 或其他内容的第二个未修改版本的应用程序？如果有人可以指导我，那将非常有帮助。    提交人    /u/CoolMiracle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dq9dx6/help_with_whatsapp_duplicate/</guid>
-      <pubDate>Fri, 28 Jun 2024 02:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我下载了 trollinstaller x，现在它只显示“无法安装，请稍后重试”</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</link>
-      <description><![CDATA[请帮助我 :(    提交人    /u/Fit_Camel7761   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dq7dyp/i_downloaded_trollinstaller_x_and_now_it_just/</guid>
-      <pubDate>Fri, 28 Jun 2024 01:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
