@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 06 Jul 2024 00:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 03:11:38 GMT</lastBuildDate>
+    <item>
+      <title>有人知道如何安装 uYou (不是 uYouPlus)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dwevfv/anyone_know_how_to_install_uyou_not_uyouplus/</link>
+      <description><![CDATA[      尝试安装 uYou，我分叉了 repo，但没有看到构建 &amp;在我的 repo 上的操作选项卡下的任何位置发布。 ​ https://preview.redd.it/ol03cy9p4tad1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=10844a8ea5a2637d657e8bb8ee685a2d0dc65e35    提交人    /u/ComfortableMilk4454   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dwevfv/anyone_know_how_to_install_uyou_not_uyouplus/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>一年后出现症状</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dw3wid/signulous_after_1_year/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Esign 反撤销 DNS 阻止了不该阻止的内容。还有其他人遇到这个问题吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dvthn4/esign_antirevoke_dns_blocking_things_it_shouldnt/</link>
-      <description><![CDATA[因此，为了清楚起见，我指的是 PureEnvy 的 Esign 方法，它允许您使用过期/撤销的证书和特殊 DNS 来侧载应用程序。我相信你们大多数人都见过它。无论如何，几个月前它只使用了一个基本的 DNS，一切都运行良好。但最近他们更新了它使用的 DNS，现在它导致了各种奇怪的问题。 例如，前几天我去检查雅虎，因为我在等一封电子邮件，但我收到了无法访问网站的错误。我检查了其中一个网站跟踪器网站，以确认雅虎没有关闭。大约一个小时后，我想我应该关闭 DNS，因为我已经尝试了其他所有方法，而我一这样做，雅虎就加载了。就在昨天，当我尝试在线支付账单时，我遇到了类似的问题。付款失败了两次，并触发了我的卡上的欺诈警报。这是一份定期的月度账单（手机），我以前从未遇到过支付困难。我再次关闭了 DNS，之后就没再出现任何问题了。 不用说，我现在要关闭 DNS，因为它似乎在做一些见不得人的事。只是想知道是否有其他人使用更新的 DNS 的 Esign 方法遇到过类似的问题。    提交人    /u/JesseB342   [link] [评论]]]></description>
+      <description><![CDATA[因此，为了清楚起见，我指的是 PureEnvy 的 Esign 方法，它允许您使用过期/撤销的证书和特殊 DNS 来侧载应用程序。我相信你们大多数人都见过它。无论如何，几个月前它只使用了一个基本的 DNS，一切都运行良好。但最近他们更新了它使用的 DNS，现在它导致了各种奇怪的问题。 例如，前几天我去检查雅虎，因为我在等一封电子邮件，但我收到了无法访问网站的错误。我检查了其中一个网站跟踪器网站，以确认雅虎没有关闭。大约一个小时后，我想我应该关闭 DNS，因为我已经尝试了其他所有方法，而我一这样做，雅虎就加载了。就在昨天，当我尝试在线支付账单时，我遇到了类似的问题。付款失败了两次，并触发了我的卡上的欺诈警报。这是一张定期的月度账单（手机），我以前从未遇到过支付困难。我再次关闭了 DNS，之后就没再出现任何问题了。 不用说，我现在要关闭 DNS，因为它似乎在做一些见不得人的事。只是想知道是否有其他人使用更新的 DNS 的 Esign 方法遇到过类似的问题。    提交人    /u/JesseB342   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvthn4/esign_antirevoke_dns_blocking_things_it_shouldnt/</guid>
       <pubDate>Fri, 05 Jul 2024 08:56:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好， 我使用 esign 来获取 ytliteplus，遇到了一些问题，希望您能帮助我。首先，我找不到“按住以搜索”设置，如果我按住特定的时间戳，它会将视频时间球放在那里，而不必将其拖动到那里。其次，ytliteplus 的视频播放器控件是垂直侧向设置的，我想知道是否有办法将其水平放置在暂停按钮下方。最后，当我刷新后打开应用程序时（yt 徽标出现，好像从应用程序切换器中消失，然后再次打开应用程序），顶部的不同类别视频的选项卡没有出现（例如为您、游戏等），当我向下滚动时，它会出现并停留在那里，可能是因为设置强制搜索在您向下滚动后停留。     提交人    /u/RaresVladescu   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dvhdvl/how_to_enable_hold_to_seek_change_speed_controls/</guid>
       <pubDate>Thu, 04 Jul 2024 21:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚买了 iPhone 14 plus，所以我终于可以运行 3DS 模拟器了。哪一个兼容性最好/最高，我在哪里可以得到它？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dvfloz/just_got_an_iphone_14_plus_so_im_finally_able_to/</link>
-      <description><![CDATA[只是寻求意见。    由   提交  /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dvfloz/just_got_an_iphone_14_plus_so_im_finally_able_to/</guid>
-      <pubDate>Thu, 04 Jul 2024 19:48:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
