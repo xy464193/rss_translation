@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 07 Jul 2024 00:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 03:10:53 GMT</lastBuildDate>
+    <item>
+      <title>有人能告诉我如何创建 modded ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dx6ika/can_someone_tell_me_how_to_create_a_modded_ipa/</link>
+      <description><![CDATA[我想删除应用中的付费墙。我该怎么做？ 到目前为止，我已成功从应用商店下载了 ipa。 我该怎么做？    提交人    /u/076028509494   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dx6ika/can_someone_tell_me_how_to_create_a_modded_ipa/</guid>
+      <pubDate>Sun, 07 Jul 2024 02:53:55 GMT</pubDate>
+    </item>
     <item>
       <title>连接错误解密和修改的应用程序（顶级驱动器）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dx143j/connection_error_decrypted_and_modded_app_top/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>更改位置 ios 17.4.1</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dwhl8a/change_location_ios_1741/</link>
-      <description><![CDATA[我尝试了很多应用程序：iMyfone anyto Tenorshare iAnyGo 但现在无法再重置路径。有没有侧载应用程序可以帮我更改位置？请推荐我。     提交人    /u/InternationalWar8843   [link] [评论]]]></description>
+      <description><![CDATA[我尝试了很多应用程序：iMyfone anyto Tenorshare iAnyGo 但现在无法再重置路径。有没有侧载应用程序可以帮我更改位置？请推荐给我。     提交人    /u/InternationalWar8843   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dwhl8a/change_location_ios_1741/</guid>
       <pubDate>Sat, 06 Jul 2024 04:45:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一年后会发生什么？我的应用程序被撤销了？我没有进行自动续订，而且似乎无法以任何方式进行续订，所以我是否只需要在一年后手动备份我的应用程序数据，然后在续订后重新安装，或者有没有办法在年度续订结束后刷新应用程序？    提交人    /u/sweepli   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dw3wid/signulous_after_1_year/</guid>
       <pubDate>Fri, 05 Jul 2024 17:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign + JIT (ios 17.5.1) (Win)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dw0i2m/esign_jit_ios_1751_win/</link>
-      <description><![CDATA[有没有办法用 PC 为 ESign 打开 jit，就像使用 SideJITServer 为 SideStore 打开一样。  或者是否有任何开发人员证书可以用来代替 esign 通常使用的企业证书，以便我可以允许使用 jit？    提交人    /u/pantynpc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dw0i2m/esign_jit_ios_1751_win/</guid>
-      <pubDate>Fri, 05 Jul 2024 15:21:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
