@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 06 Jul 2024 21:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:43:32 GMT</lastBuildDate>
+    <item>
+      <title>连接错误解密和修改的应用程序（顶级驱动器）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dx143j/connection_error_decrypted_and_modded_app_top/</link>
+      <description><![CDATA[这是服务器连接错误，我不知道如何修复它    提交人    /u/RhythmicOverlord   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dx143j/connection_error_decrypted_and_modded_app_top/</guid>
+      <pubDate>Sat, 06 Jul 2024 22:14:28 GMT</pubDate>
+    </item>
     <item>
       <title>Sidestore Anisette 如果有 altstore 的 anisette 服务器</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dwz1ut/sidestore_anisette_if_there_can_have_altstores/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>更改位置 ios 17.4.1</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dwhl8a/change_location_ios_1741/</link>
-      <description><![CDATA[我尝试了很多应用程序：iMyfone anyto Tenorshare iAnyGo 但现在无法再重置路径。有没有侧载应用程序可以帮我更改位置？请推荐给我。     提交人    /u/InternationalWar8843   [link] [评论]]]></description>
+      <description><![CDATA[我尝试了很多应用程序：iMyfone anyto Tenorshare iAnyGo 但现在无法再重置路径。有没有侧载应用程序可以帮我更改位置？请推荐我。     提交人    /u/InternationalWar8843   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dwhl8a/change_location_ios_1741/</guid>
       <pubDate>Sat, 06 Jul 2024 04:45:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有没有办法用 PC 为 ESign 打开 jit，就像使用 SideJITServer 为 SideStore 打开一样。  或者是否有任何开发人员证书可以用来代替 esign 通常使用的企业证书，以便我可以允许使用 jit？    提交人    /u/pantynpc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dw0i2m/esign_jit_ios_1751_win/</guid>
       <pubDate>Fri, 05 Jul 2024 15:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功下载了付费应用 ipa，但现在该应用要求我登录</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dw0bwm/successfully_downloaded_a_premium_app_ipa_but_now/</link>
-      <description><![CDATA[登录选项包括：gmail、电子邮件和 apple id。如何绕过这个问题？因为当我尝试登录时，它说互联网连接问题。  我无法指定该应用程序，因为它会违反此 subreddit 的规则 8。     提交人    /u/Zakariyah_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dw0bwm/successfully_downloaded_a_premium_app_ipa_but_now/</guid>
-      <pubDate>Fri, 05 Jul 2024 15:13:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
