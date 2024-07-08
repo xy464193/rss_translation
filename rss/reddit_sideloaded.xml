@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 08 Jul 2024 18:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 21:09:35 GMT</lastBuildDate>
+    <item>
+      <title>Flext0r错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</link>
+      <description><![CDATA[我试图将我的证书添加到应用程序中，它只是说： 对象 [Error error]  即使字段中没有任何内容，它也会这样做，所以我不确定问题是什么。 我所有的东西都是正确的，因为我还使用 ESign 和 scarlet。     提交人    /u/shreder856   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</guid>
+      <pubDate>Mon, 08 Jul 2024 21:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>绕过 Snapchat 禁令？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyk46d/bypass_snapchat_ban/</link>
+      <description><![CDATA[长话短说，我从未在这部手机上使用过 Snapchat，因为我并没有真正在那里活跃过。现在，我的设备被 Snapchat 禁止了。之前的所有者在 ig 上做了一些疯狂的事情，导致设备被禁止。我的帐户在其他设备上可以使用，但在这里不行。有什么想法可以绕过设备禁令吗？    提交人    /u/Railici_Plus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyk46d/bypass_snapchat_ban/</guid>
+      <pubDate>Mon, 08 Jul 2024 21:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 AltStore 的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyk10m/question_about_altstore/</link>
+      <description><![CDATA[如果我使用付费版 AltStore，它不会占用 3 个侧载应用程序的空间吗，因为不使用 Apple Developer Program 的应用程序数量限制为 3 个？如果您使用免费版 AltStore，服务器会占用侧载应用程序的空间，但付费版不会占用该空间吗？    提交人    /u/BloxMich   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyk10m/question_about_altstore/</guid>
+      <pubDate>Mon, 08 Jul 2024 21:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>UDIDregistrations.com 证书 + AppDB = 没有通知？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyjsp8/udidregistrationscom_certificate_appdb_no/</link>
+      <description><![CDATA[我拥有来自 udidregistrations.com 的开发者证书，并且已成功将其加载到 AppDB 并安装了应用程序。但是，我安装的所有应用程序都没有推送通知。 我将身份类型更改为开发者，并打开了“在安装请求期间询问选项”选项，并在应用程序安装期间选择了“允许推送通知”，但仍然没有收到任何推送通知。我还需要做什么吗？来自 U​​DIDregistrations 的证书不支持推送通知吗？    提交人    /u/DT_249   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyjsp8/udidregistrationscom_certificate_appdb_no/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以远程侧载 .ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyj20h/remotely_sideload_ipa_possible/</link>
+      <description><![CDATA[我有一个付费的苹果开发者帐户，我想将 IPA 发送给其他州的某人进行安装。但不向他们提供我的苹果 ID 登录信息。我知道有一种称为 Ad-Hoc 分发的东西，它允许测试人员安装来自开发者的应用程序。但我读到的所有说明都包括从您的 Xcode 项目创建 ipa。就我而言，我有一个从互联网上下载的 ipa。是否可以通过电子邮件将此 ipa 发送给某人，然后他们可以使用我的苹果开发者 ID 登录？    提交人    /u/ShakyMango   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyj20h/remotely_sideload_ipa_possible/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyieyi/scarlet_not_working/</link>
+      <description><![CDATA[因此，当我尝试直接安装 scarlet 时，我尝试打开它，当我打开它时，它说“无法安装此应用程序，因为无法验证其完整性”。有人帮忙吗？（iPhone 7 Plus，iOS 15.8）    由    /u/Tengolyper_  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyieyi/scarlet_not_working/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>签署龙珠传奇</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyi6qn/esign_dragon_ball_legends/</link>
+      <description><![CDATA[有人可以上传最新版本的龙珠传奇普通版吗     提交人    /u/Deathmonkey89   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyi6qn/esign_dragon_ball_legends/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:48:48 GMT</pubDate>
+    </item>
     <item>
       <title>有没有适合奶奶的旧 ipa？（1.0-1.5）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dyewm0/is_there_any_old_ipa_for_granny_1015/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>哪一个 Scarlet 网站是真正的网站？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dydpbd/which_scarlet_website_is_the_real_one/</link>
-      <description><![CDATA[非常抱歉，我对 IOS 和侧载还很陌生，我想安装一个经过修改的游戏，但每个 youtube 教程都来自不同频道的同一个人，而且 reddit 和 tiktok 上也是一样的事情。有人知道真正的 scarlet 网站吗？请    提交人    /u/Entire_Ticket_2917   [link] [评论]]]></description>
+      <description><![CDATA[非常抱歉，我对 IOS 和侧载还很陌生，我想安装一个经过修改的游戏，但每个 YouTube 教程都来自不同频道的同一个人，而且 reddit 和 tiktok 上也是一样的事情。有人知道真正的 scarlet 网站吗？请    提交人    /u/Entire_Ticket_2917   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dydpbd/which_scarlet_website_is_the_real_one/</guid>
       <pubDate>Mon, 08 Jul 2024 16:48:38 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好，我几乎从 SideStore Discord 服务器开始就一直在使用它，但一年前我发现它不见了。有人给我发邀请后，我发现我被禁止了，尽管我一直很友好。但即使使用 alt 帐户，我也可以加入 discord。有人知道发生了什么吗？    提交人    /u/Agreeable_Addendum52   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dya8a9/sidestore_discord/</guid>
       <pubDate>Mon, 08 Jul 2024 14:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>清除 YouTube 选项？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy9v4s/clearing_up_youtube_options/</link>
-      <description><![CDATA[因此，这篇文章的重点是询问和澄清：- 当前活跃的 YouTube 客户端有哪些？- 它们的开发状态如何？- 或多或少，严格按照其宣传的功能来看，最好的似乎是什么。 因此，环顾四周，现在进行了一些侧载（iPhone 15PM、iOS 18 dev-beta），我了解到 Google 一直在为各种 YouTube 替代客户端的开发人员制造困难（许多 GH 存储库要么不得不暂停托管版本，要么完全暂停帐户，而开发人员要么只是不再认为它值得/生命）。这不是对任何开发人员或项目的批评！那里有很多东西，我想也许我们可以一起整理出哪些有效，哪些无效，哪些不再开发。 最大的主要工作似乎是 UYou，它允许下载视频和屏蔽广告。我说大而主要，是因为下面的似乎合并了它或从中分叉了它。它们似乎都在构建于哪个版本的 YouTube 方面有所不同。 我见过、使用过和/或遇到过： - uYou - uYouPlus/uYou+ - uYou++ - uYouEnhanced - YTLite - YTLitePlus/+ - Cercube - ProTube - RebornAgain - RebornAgain+ - YouTube++ - YTKillerPlus 目前，我正在使用 YTLitePlus，它似乎运行良好，但仍然无法加载视频，因为广告正在尝试通过，或者偶尔会通过。对于前者，在它正常工作之前，这是一个掷骰子游戏（重置应用程序，尝试另一个视频然后重试，或者稍后再试），而对于后者，我只需关闭/终止应用程序（向上滑动，而不是应用内重置）它就可以再次正常工作（除非它开始卡在某个只想向您展示广告的视频上）。除此之外，它的其他功能似乎还可以正常工作。  我用过 uYouEnhanced，但我认为它已经死了，uYou 和它的各种迭代非常分散，所以很难说我是在哪个版本用过它的，也很难说是从谁那里用过的，但主要是它被嵌入到前面提到的其他应用程序中了。 我会在得到澄清后尝试编辑它！    提交人    /u/ibrown39   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy9v4s/clearing_up_youtube_options/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixiv Pro 侧载 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy7uml/pixiv_pro_sideloaded_ipa/</link>
-      <description><![CDATA[这真的存在吗？一直没找到，有人有吗？    提交人    /u/Short_Commission_553   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy7uml/pixiv_pro_sideloaded_ipa/</guid>
-      <pubDate>Mon, 08 Jul 2024 12:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ipaarchive.com 已被入侵 - 广告软件！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy6dps/ipaarchivecom_has_been_compromised_adware/</link>
-      <description><![CDATA[      请点赞/置顶以提高知名度！ 我是 ipaarchive.com 的长期用户，我使用该网站获取解密的 IPA。今天我发现需要三次验证码才能让应用程序被编入索引以供下载，然后它不再将您重定向到直接的现场下载，而是将用户重定向到一个广告软件网站，该网站可能会让您在 5 次尝试后下载文件（同时尝试向您提供恶意软件）。 我在 Discord 上吹哨，所有者删除了消息（包括我的），说“没人在乎”，并告诉人们“使用广告拦截器”，并撒谎说这就是下载无法正常工作的原因等等。 所有者删除了我的消息，并立即将我从 Discord 服务器中删除。 如果您查看一些隐藏的前端代码，很明显，Discord 上名为“peppehu”的维护者正计划让您付费以避免验证码和恶意软件： https://preview.redd.it/t4f9utl04abd1.png?width=1012&amp;format=png&amp;auto=webp&amp;s=cf0bb4ffe9e888cfba3c0a44477502889e880685 也许主人很生气，因为我增加了他的带宽使用量，哈哈。  TLDR：如果从现在开始使用 IPAARCHIVE，则存在恶意软件的风险！     由    /u/AluminiumSodaCan 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy6dps/ipaarchivecom_has_been_compromised_adware/</guid>
-      <pubDate>Mon, 08 Jul 2024 11:19:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[发布] AltServer Pi，使用 Raspberry Pi 通过 Wi-Fi 刷新应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy5dbz/release_altserver_pi_refresh_apps_over_wifi_with/</link>
-      <description><![CDATA[  由    /u/L3App  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy5dbz/release_altserver_pi_refresh_apps_over_wifi_with/</guid>
-      <pubDate>Mon, 08 Jul 2024 10:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚美利哥专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy53sf/amerigo_pro/</link>
-      <description><![CDATA[有一款名为 Amerigo 的应用程序可让您从许多不同的网站下载视频，但您需要为广告付费。是否有可能获得没有广告的专业版 IPA？我有一个旧的 repo，但大约一年来没有任何内容，所以我想知道是否有任何更新版本或是否可以制作一个。谢谢！    提交人    /u/iamintocatgirls   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy53sf/amerigo_pro/</guid>
-      <pubDate>Mon, 08 Jul 2024 10:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 17 的 JIT</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dy3l81/jit_for_ios_17/</link>
-      <description><![CDATA[我可以在 ios 17 上获取 jit 吗？而不是 sidejit，因为它对我不起作用，我想玩 pojavlauncher，但 sidejit 对它不起作用    提交人    /u/kiingqz_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dy3l81/jit_for_ios_17/</guid>
-      <pubDate>Mon, 08 Jul 2024 08:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>livecontainer 中的 Spotify</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dxu028/spotify_in_livecontainer/</link>
-      <description><![CDATA[      Eveespotify 无法正常工作。我尝试过其他一些版本，但都存在类似的问题。我正在使用最新的没有 jit 的 livecontainer    提交人    /u/Sufficient_Fox_9070   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dxu028/spotify_in_livecontainer/</guid>
-      <pubDate>Sun, 07 Jul 2024 23:19:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
