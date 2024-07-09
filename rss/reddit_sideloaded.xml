@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 09 Jul 2024 09:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 12:17:13 GMT</lastBuildDate>
+    <item>
+      <title>FlekSt0re“无法安装应用程序，因为无法验证其完整性”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dyze17/flekst0re_app_cannot_be_installed_because_its/</link>
+      <description><![CDATA[我想侧载 youtube++，我一直在使用 sideloadly，但我打算改用 Flekst0re，因为据说 Flekst0re 有无限天数需要重新注册应用程序，而 sideloadlys 只有 7 天。  下载 Flekst0re 时，我按照所有正确的步骤导入配置文件等等。我添加了自己的证书（不是我自己的，在网上找到了 2 个不同的证书），然后尝试侧载 IPA。下载后，我尝试打开应用程序，但收到“无法安装应用程序，因为无法验证其完整性”的消息。应用程序内的 IPA 也是如此。  有人知道解决方法吗？可能是因为我使用的证书可能不正确，但为什么应用程序会说它已经验证并且可以持续到 2025 年呢？我也没有使用付费版本，但免费版本应该适合我的用例。 使用搭载 IOS 17.5.1 的 Iphone 15 pro max    提交人    /u/PollutionOutrageous1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dyze17/flekst0re_app_cannot_be_installed_because_its/</guid>
+      <pubDate>Tue, 09 Jul 2024 10:49:35 GMT</pubDate>
+    </item>
     <item>
       <title>使用 VPN</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dyx2sl/using_vpn/</link>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 08 Jul 2024 22:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>Flext0r错误</title>
+      <title>Flext0r 错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</link>
       <description><![CDATA[我试图将我的证书添加到应用程序中，它只是说： 对象 [Error error]  即使字段中没有任何内容，它也会这样做，所以我不确定问题是什么。 我所有的东西都是正确的，因为我还使用 ESign 和 scarlet。     提交人    /u/shreder856   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想玩老游戏    提交人    /u/Vast-Objective9965   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dyewm0/is_there_any_old_ipa_for_granny_1015/</guid>
       <pubDate>Mon, 08 Jul 2024 17:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪一个 Scarlet 网站是真正的网站？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dydpbd/which_scarlet_website_is_the_real_one/</link>
-      <description><![CDATA[非常抱歉，我对 IOS 和侧载还很陌生，我想安装一个经过修改的游戏，但每个 YouTube 教程都来自不同频道的同一个人，而且 reddit 和 tiktok 上也是一样的事情。有人知道真正的 scarlet 网站吗？请    提交人    /u/Entire_Ticket_2917   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dydpbd/which_scarlet_website_is_the_real_one/</guid>
-      <pubDate>Mon, 08 Jul 2024 16:48:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 09 Jul 2024 09:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 12:17:05 GMT</lastBuildDate>
+    <item>
+      <title>搭载 iOS 15 的 iPhone 13 Pro Max</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dyy5ys/iphone_13_pro_max_on_ios_15/</link>
+      <description><![CDATA[我可以升级到的最高 iOS 版本是什么，并且仍然可以通过 Trollstore 安装无限量的 IPA，而无需重新签名和受到限制？    提交人    /u/GDLRM4   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dyy5ys/iphone_13_pro_max_on_ios_15/</guid>
+      <pubDate>Tue, 09 Jul 2024 09:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用回形针 ipa？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1dyxz88/universal_paperclips_ipa/</link>
+      <description><![CDATA[在任何地方都找不到这个游戏。这是一款已有 7 年历史的非常受欢迎的游戏，所以我很惊讶。请帮忙！！    提交人    /u/Natural_Office_5968   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1dyxz88/universal_paperclips_ipa/</guid>
+      <pubDate>Tue, 09 Jul 2024 09:17:23 GMT</pubDate>
+    </item>
     <item>
       <title>我如何安装持久性助手？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dyniqt/how_do_i_install_the_persistence_helper/</link>
@@ -13,7 +27,7 @@
       <pubDate>Mon, 08 Jul 2024 23:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>Iphone 13 Pro max 15.4.1 Trollstore IOS 升级至最新支持的 trollstore 版本</title>
+      <title>Iphone 13 Pro max 15.4.1 Trollstore IOS升级到trollstore最新支持版本</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dyjgfp/iphone_13_pro_max_1541_trollstore_ios_upgrade_to/</link>
       <description><![CDATA[嗨， 我有 IP 13 pro max，上面装有 ios 15.4.1，trollstore 运行正常，但 appstore 中的一些应用程序最近停止支持 ios 15，我的问题是如何将手机更新到最新支持版本？你推荐什么 IOS，如果我更新，我会丢失 trollstore 签名的应用程序吗？    提交人    /u/S33rg1o   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dyjgfp/iphone_13_pro_max_1541_trollstore_ios_upgrade_to/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>优步</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dwl2dk/yt_ipa/</link>
-      <description><![CDATA[你好，我怎样才能找到解密的 YT ipa 或者你自己解密？tia    提交人    /u/YPYUM   [link] [comments]]]></description>
+      <description><![CDATA[你好，我怎样才能找到解密的 YT ipa 或者你自己解密的？tia    提交人    /u/YPYUM   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dwl2dk/yt_ipa/</guid>
       <pubDate>Sat, 06 Jul 2024 08:35:57 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[是否可以在 trollstore 中添加 repo？    提交人    /u/Fair-Brilliant107   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1du8ryb/trollstore_repo/</guid>
       <pubDate>Wed, 03 Jul 2024 07:47:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>MasterMike88 解答了关于 TrollStore 的一些困惑</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1du2xw5/mastermike88_addresses_some_confusions_about/</link>
-      <description><![CDATA[        提交人    /u/tenir   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1du2xw5/mastermike88_addresses_some_confusions_about/</guid>
-      <pubDate>Wed, 03 Jul 2024 01:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>trollstore build yt 成功但无法安装 ipa</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dtr5lq/trollstore_build_yt_ok_but_cannot_install_ipa/</link>
-      <description><![CDATA[嗨，我设法通过 git 工作流构建了 yt ipa，从 zip 中获取了 ipa，但 trollstore 似乎看不到这个特定的 ipa 文件。文件扩展名为 .ipa，我可以解压缩它。Trollstore（按钮加号 = 安装）资源管理器可以看到其他 ipas，并设法使用 trollstore 进行安装而没有问题......就像文件在 trollstore 中不可见一样。太奇怪了，有什么想法吗？    提交人    /u/YPYUM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dtr5lq/trollstore_build_yt_ok_but_cannot_install_ipa/</guid>
-      <pubDate>Tue, 02 Jul 2024 17:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
