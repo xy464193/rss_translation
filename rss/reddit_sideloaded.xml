@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 09 Jul 2024 15:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:11:39 GMT</lastBuildDate>
+    <item>
+      <title>Eevee spotify - 有没有办法将专辑作为文件夹导入？如果我导入多张专辑，我不想一直向下滚动来查找特定专辑</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dz740x/eevee_spotify_any_way_to_import_albums_as_a/</link>
+      <description><![CDATA[目前，所有本地文件都是单独的曲目。是的，我可以按专辑对它们进行排序，但如果导入的曲目在本地文件中以文件夹的形式可见，那就容易多了。    提交人    /u/yellowroll   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dz740x/eevee_spotify_any_way_to_import_albums_as_a/</guid>
+      <pubDate>Tue, 09 Jul 2024 16:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>请问一下 iOS 14.4.1 是否可以使用 trollstore 安装 youtube 和 instagram 的调整后的 IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dz69e2/can_i_ask_if_ios_1441_can_install_tweaked_ipas_of/</link>
+      <description><![CDATA[我是这个领域的新手，由于银行和政府应用程序的不足，我刚刚删除了越狱，请问 iOS 14.4.1 是否可以使用 trollstore 安装 youtube 和 instagram 的调整后的 IPA？    提交人    /u/DangenDeer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dz69e2/can_i_ask_if_ios_1441_can_install_tweaked_ipas_of/</guid>
+      <pubDate>Tue, 09 Jul 2024 16:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最好的侧载应用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1dz5np6/best_app_to_sideload_rn/</link>
+      <description><![CDATA[哪个应用程序最适合用于侧载，不需要 PC 或付费订阅     提交人    /u/North-Wrongdoer3949   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1dz5np6/best_app_to_sideload_rn/</guid>
+      <pubDate>Tue, 09 Jul 2024 15:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>寻找几款已下架的IOS游戏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dz3w34/looking_for_a_few_delisted_ios_games/</link>
@@ -62,9 +83,9 @@
       <pubDate>Mon, 08 Jul 2024 22:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>Flext0r 错误</title>
+      <title>Flext0r错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</link>
-      <description><![CDATA[我试图将我的证书添加到应用程序中，它只是说： 对象 [Error error]  即使字段中没有任何内容，它也会这样做，所以我不确定问题是什么。 我所有的东西都是正确的，因为我也使用 ESign 和 scarlet。     提交人    /u/shreder856   [link] [评论]]]></description>
+      <description><![CDATA[我试图将我的证书添加到应用程序中，它只是说： 对象 [Error error]  即使字段中没有任何内容，它也会这样做，所以我不确定问题是什么。 我所有的东西都是正确的，因为我还使用 ESign 和 scarlet。     提交人    /u/shreder856   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dyk4o8/flekst0r_error/</guid>
       <pubDate>Mon, 08 Jul 2024 21:05:27 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我拥有来自 udidregistrations.com 的开发者证书，并且已成功将其加载到 AppDB 并安装了应用程序。但是，我安装的所有应用程序都没有推送通知。 我将身份类型更改为开发者，并打开了“在安装请求期间询问选项”选项，并在应用程序安装期间选择了“允许推送通知”，但仍然没有收到任何推送通知。我还需要做什么吗？来自 U​​DIDregistrations 的证书不支持推送通知吗？    提交人    /u/DT_249   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1dyjsp8/udidregistrationscom_certificate_appdb_no/</guid>
       <pubDate>Mon, 08 Jul 2024 20:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以远程侧载 .ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dyj20h/remotely_sideload_ipa_possible/</link>
-      <description><![CDATA[我有一个付费的苹果开发者帐户，我想将 IPA 发送给其他州的某人进行安装。但不向他们提供我的苹果 ID 登录信息。我知道有一种称为 Ad-Hoc 分发的东西，它允许测试人员安装来自开发者的应用程序。但我读到的所有说明都包括从您的 Xcode 项目创建 ipa。就我而言，我有一个从互联网上下载的 ipa。是否可以通过电子邮件将此 ipa 发送给某人，然后他们可以使用我的苹果开发者 ID 登录？    提交人    /u/ShakyMango   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dyj20h/remotely_sideload_ipa_possible/</guid>
-      <pubDate>Mon, 08 Jul 2024 20:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红色不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dyieyi/scarlet_not_working/</link>
-      <description><![CDATA[因此，当我尝试直接安装 scarlet 时，我尝试打开它，当我打开它时，它说“无法安装此应用程序，因为无法验证其完整性”。有人帮忙吗？（iPhone 7 Plus，iOS 15.8）    由    /u/Tengolyper_  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dyieyi/scarlet_not_working/</guid>
-      <pubDate>Mon, 08 Jul 2024 19:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>签署龙珠传奇</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1dyi6qn/esign_dragon_ball_legends/</link>
-      <description><![CDATA[有人可以上传最新版本的龙珠传奇普通版吗     提交人    /u/Deathmonkey89   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1dyi6qn/esign_dragon_ball_legends/</guid>
-      <pubDate>Mon, 08 Jul 2024 19:48:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
