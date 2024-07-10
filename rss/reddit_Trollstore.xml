@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Wed, 10 Jul 2024 18:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 21:08:04 GMT</lastBuildDate>
+    <item>
+      <title>tvOS 17.5.1 科迪</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1e05vmx/tvos_1751_kodi/</link>
+      <description><![CDATA[您好， 使用 tvOS 13.4.5 多年后，我决定更新我的 Apple TV 4 (2015)。  我能够通过 Palera1n 成功越狱，然后安装 Trollstore。  现在我找不到将 Kodi 放到 Apple TV 上的方法。  tvOS 13.4.5 上的 nitoTV 管理器非常方便，我发现 trollsotre 使用起来真的很乏味。 原因：您总是必须输入 trollstore 用于获取应用程序表单的 URL，您做对了吗？     提交人    /u/Eyelow91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1e05vmx/tvos_1751_kodi/</guid>
+      <pubDate>Wed, 10 Jul 2024 20:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>请帮助 trollstore。第一代 Iph SE</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1dzy9zc/help_with_trollstore_plz_1st_gen_iph_se/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我把手机备份到了 mac，在恢复并重新安装 trollstore 后，我的游戏数据被保存了下来。但是在我的 iCloud 服务自动将手机备份到 iCloud 后，我所有的 trollstore 游戏数据都丢失了。这种情况是怎么回事？我的游戏数据存储在 iCloud 上吗？    提交人    /u/ind_hunters   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1du8vow/lost_game_save_data/</guid>
       <pubDate>Wed, 03 Jul 2024 07:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>trollstore 仓库？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1du8ryb/trollstore_repo/</link>
-      <description><![CDATA[是否可以在 trollstore 中添加 repo？    提交人    /u/Fair-Brilliant107   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1du8ryb/trollstore_repo/</guid>
-      <pubDate>Wed, 03 Jul 2024 07:47:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
