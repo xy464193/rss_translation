@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 12 Jul 2024 15:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:11:22 GMT</lastBuildDate>
+    <item>
+      <title>maplesign 价格</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1o21e/maplesign_prices/</link>
+      <description><![CDATA[几个月前，我看到基本计划是 7.25，但现在是 9.25，我的问题是它什么时候改变的，为什么    提交人    /u/kitiki1222   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1o21e/maplesign_prices/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载缓慢</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1lqep/slow_download/</link>
+      <description><![CDATA[目前我正在使用 signolous 下载游戏，一开始下载甚至还没有开始，但现在已经开始了。下载速度非常非常慢。我该怎么做才能提高下载速度     提交人    /u/Mammoth_Variation553   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1lqep/slow_download/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:20:06 GMT</pubDate>
+    </item>
     <item>
       <title>Sideloady 未安装</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1iap1/sideloady_not_installing/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Deezer 崩溃修复</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1i75w/deezer_crashing_fix/</link>
-      <description><![CDATA[我想我找到了解决 Deezer 崩溃问题的方法。我所做的就是下载  从 App Store 下载 NextDns 打开应用程序并点击底部的 3 个点  在顶部打开使用自定义配置选项 然后粘贴此配置 ID f437c1 并点击完成 每次在在线模式下打开 Deezer 时，请确保已打开 NextDns。   我只在想要向 Deezer 添加需要在线模式的新歌曲时才打开 NextDns。这对我来说已经工作了 3 天，所以如果它对你有用，请告诉我。    提交人    /u/kdburnernorapcap   [链接] [评论]]]></description>
+      <description><![CDATA[我想我找到了解决 Deezer 崩溃问题的方法。我所做的就是下载  从 App Store 下载 NextDns 打开应用程序并点击底部的 3 个点  打开顶部的使用自定义配置选项 然后粘贴此配置 ID f437c1 并点击完成 每次在在线模式下打开 Deezer 时，请确保已打开 NextDns。   只有当我想向 Deezer 添加新歌曲时才会打开 NextDns，这需要在线模式。对我来说，这已经工作了 3 天，所以如果它对你有用，请告诉我。 编辑：如果您还使用 SideStore，请尝试在上述步骤之外打开 SideStore VPN     提交人    /u/kdburnernorapcap   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1i75w/deezer_crashing_fix/</guid>
       <pubDate>Fri, 12 Jul 2024 13:51:18 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Flexstore 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</link>
-      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常棒。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
+      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常有帮助。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</guid>
       <pubDate>Fri, 12 Jul 2024 06:44:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[说实话，这些应用程序已经变得非常糟糕，就好像他们看到使用它们的人数很多，就变得贪婪，毁掉了他们的应用程序。我不再太在意广告，但 tweakbox 不再调整内容，只有免费的应用程序，除非我以某种方式下载了错误的东西。     提交人    /u/ImJustBonk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1779g/apps_like_old_tweakbox_for_easy_downloads/</guid>
       <pubDate>Fri, 12 Jul 2024 03:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>专业提示：当您请求使用新证书签名时，Signolous / UDID 注册才会开始处理您的证书续订，而不是在您付款时</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e16m84/protip_signolous_udid_registrations_start/</link>
-      <description><![CDATA[过去一年来，我一直是 Signolous / UDID 注册的满意客户。我设置了自动续订，三天前付款就完成了，我觉得这很好，因为我的证书今天到期，而从 Apple 获取证书最多需要 72 小时。 是的，不。他们不会启动该过程，直到您主动尝试使用新证书。然后他们实际上会从 Apple 请求它并开始倒计时。 这意味着现在我接下来的几天都不需要侧载应用程序。他们真的应该在他们的指南中明确说明这一点。    提交人    /u/DurangoGango   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e16m84/protip_signolous_udid_registrations_start/</guid>
-      <pubDate>Fri, 12 Jul 2024 02:35:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何切换回旧的 Esign DNS（没有广告拦截的 DNS）吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0tedx/anyone_know_how_to_switch_back_to_the_old_esign/</link>
-      <description><![CDATA[我已经使用 Esign 方法进行侧载一段时间了，效果一直很好，直到他们更新了 DNS，加入了广告拦截功能，并允许使用 VPN。我从来没有遇到过旧 DNS 的问题，但在使用新 DNS 时，我遇到了各种奇怪的问题。例如，整个 Yahoo 域被屏蔽，在线借记卡付款无法通过，还有其他问题。我想继续使用 Esign，并了解到可以切换回原始 DNS，但不知道如何操作。按照指南操作只会链接到更新的 DNS。有人能告诉我如何恢复旧 DNS 吗？    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0tedx/anyone_know_how_to_switch_back_to_the_old_esign/</guid>
-      <pubDate>Thu, 11 Jul 2024 16:40:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
