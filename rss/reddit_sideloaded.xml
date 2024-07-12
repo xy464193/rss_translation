@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 12 Jul 2024 00:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 03:10:45 GMT</lastBuildDate>
+    <item>
+      <title>是否有类似旧版 tweakbox 的应用程序可轻松下载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1779g/apps_like_old_tweakbox_for_easy_downloads/</link>
+      <description><![CDATA[说实话，这些应用程序已经变得非常糟糕，就好像他们看到使用它们的人数很多，就变得贪婪，毁掉了他们的应用程序。我不再太在意广告，但 tweakbox 不再调整内容，只有免费的应用程序，除非我以某种方式下载了错误的东西。     提交人    /u/ImJustBonk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1779g/apps_like_old_tweakbox_for_easy_downloads/</guid>
+      <pubDate>Fri, 12 Jul 2024 03:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>专业提示：当您请求使用新证书签名时，Signolous / UDID 注册才会开始处理您的证书续订，而不是在您付款时</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e16m84/protip_signolous_udid_registrations_start/</link>
+      <description><![CDATA[过去一年来，我一直是 Signolous / UDID 注册的满意客户。我设置了自动续订，三天前付款就完成了，我觉得这很好，因为我的证书今天到期，而从 Apple 获取证书最多需要 72 小时。 是的，不。他们不会启动该过程，直到您主动尝试使用新证书。然后他们实际上会从 Apple 请求它并开始倒计时。 这意味着现在我接下来的几天都不需要侧载应用程序。他们真的应该在他们的指南中明确说明这一点。    提交人    /u/DurangoGango   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e16m84/protip_signolous_udid_registrations_start/</guid>
+      <pubDate>Fri, 12 Jul 2024 02:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道如何切换回旧的 Esign DNS（没有广告拦截的 DNS）吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e0tedx/anyone_know_how_to_switch_back_to_the_old_esign/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[离开越狱圈有一段时间了，我从未尝试过 Trollstore。我只尝试过 Altstore，它需要每周刷新 3 个应用程序。本质上只有 2 个，因为 Altstore 本身占据了 3 个应用程序中的 1 个位置。 话虽如此，有人可以解释一下 Esign 是什么、它能做什么、与 Altsore 相比的优缺点以及如何安装它吗？ 我目前使用的是 17.5.1 (A17 Pro)    提交人    /u/KesoReal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e062y1/question_about_esign/</guid>
       <pubDate>Wed, 10 Jul 2024 20:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>17.5.1 版的侧载程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e054ha/sideloaders_for_1751/</link>
-      <description><![CDATA[17.5.1 是否还有其他侧加载程序？esign 目前已被撤销，scarlet 始终处于关闭状态，appdb 一直出现故障，我甚至尝试了 maplesigner，但无济于事，它们都不起作用，有什么建议吗    提交人    /u/allthetimeintheword   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e054ha/sideloaders_for_1751/</guid>
-      <pubDate>Wed, 10 Jul 2024 19:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装经过修改的应用程序是否存在危险？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e00x78/is_there_any_dangers_when_installing_tweaked_apps/</link>
-      <description><![CDATA[我打算向 signolous 付费，以便上传我的 .IPA 文件并启动侧载应用，我主要想让它下载 youtube premium，因为他们在 3 年后撤销了我的土耳其订阅。  我的问题是，下载盗版应用程序有什么坏处吗？比如病毒、广告软件、手机被禁之类的？ 此外，signalous 似乎使用起来非常舒服，因为你可以侧载更多应用程序，而不需要每 7 天刷新一次。但它是侧载经过调整的应用程序的最佳应用程序吗？ 提前感谢您的回复。    提交人    /u/chillinnDronn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e00x78/is_there_any_dangers_when_installing_tweaked_apps/</guid>
-      <pubDate>Wed, 10 Jul 2024 17:01:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
