@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 12 Jul 2024 09:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 12:17:06 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 恢复播放？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1dotw/youtube_resume_playback/</link>
+      <description><![CDATA[对于 uYouEnhanced，如何让恢复播放功能正常工作？如果我观看视频并在视频结束前关闭，它不会从我上次停止的地方恢复播放。此外，视频不会出现在我的观看历史记录中。我在 YouTube 上从桌面观看的所有视频都会出现在应用程序的观看历史记录中，但我使用该应用程序观看的视频不会出现。我需要在应用程序设置中启用或禁用某些功能吗？ 此外，在 uYouEnhanced 设置中，我已禁用混音、下载、剪辑等按钮，但它们仍然出现。有什么办法可以让它只显示保存吗？或者有没有一种快速的方法可以将视频保存到稍后观看的播放列表中，而无需按保存然后稍后观看？    提交人    /u/yellowroll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1dotw/youtube_resume_playback/</guid>
+      <pubDate>Fri, 12 Jul 2024 09:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYouEnhanced + EeveeSpotify 不可能吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1ded3/uyouenhanced_eeveespotify_impossible/</link>
+      <description><![CDATA[嗨 这里是未越狱的 ios 16.3。 我的问题很简单，我们是否有可以与 AltStore 一起侧载的 uYouEnhanced 和 EeveeSpotify 版本？ 实际上这是不可能的，因为这两个应用程序需要太多的 App ID。 谢谢    提交人    /u/Wizard_Hermit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1ded3/uyouenhanced_eeveespotify_impossible/</guid>
+      <pubDate>Fri, 12 Jul 2024 09:28:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>市场发生了什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1ddii/what_happened_to_marketplaces/</link>
+      <description><![CDATA[已经 4 个月了    由    /u/Vektor801 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1ddii/what_happened_to_marketplaces/</guid>
+      <pubDate>Fri, 12 Jul 2024 09:26:31 GMT</pubDate>
+    </item>
     <item>
       <title>使用开发者帐户启用通知</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1bor0/enable_notifications_with_a_developer_account/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Flexstore 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</link>
-      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常棒。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
+      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常有帮助。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</guid>
       <pubDate>Fri, 12 Jul 2024 06:44:32 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Fri, 12 Jul 2024 04:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>有人尝试恢复一款名为 trials frontier 的应用程序吗？我有 jb。如果有人能用它，请直接发信息给我！</title>
+      <title>有人尝试恢复一款名为 trials frontier 的应用程序吗？我有 jb。如果有人能继续使用它，请直接发信息给我！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e17yoo/anybody_tryna_do_a_revival_of_an_app_called/</link>
       <description><![CDATA[耶    由   提交  /u/Aggravating-Row402   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e17yoo/anybody_tryna_do_a_revival_of_an_app_called/</guid>
@@ -71,7 +92,7 @@
     <item>
       <title>如果 Apple 安装了位置服务监控配置文件，它能检测到我是否有侧载应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</link>
-      <description><![CDATA[我的 iPhone 一直出现 GPS 问题，经过一些故障排除后，Apple 想要安装“LocationAndMotion.mobileconfig”配置文件来跟踪我 7 天的 GPS 活动。 虽然我的侧载应用程序不太可能是问题的根源，但我有点担心，如果他们发现我一直在侧载（修改过的 YouTube、Spotify 和 Twitch），他们会不愿意提供帮助。 配置文件信息： 位置和运动记录配置文件会生成文件，允许 Apple 对您的设备进行故障排除，并帮助 Apple 改进其产品和服务。生成的文件可能包含您的部分个人信息，包括短信内容、设备标识符和名称、注册设备的电话号码、您登录的账户的 Apple ID、启用日志记录期间的来电和拨出电话日志以及音频路由、位置数据、原始坐标数据、时间戳、电池状态和使用情况、wifi 接入点、运动数据（包括原始运动传感器数据）、应用程序使用情况以及应用程序对位置和运动的使用情况。如果您安装此配置文件，它将自动打开日志记录，并且当您在此设备上进行系统诊断时将捕获这些数据。除非您启动系统诊断并发送结果，否则数据不会离开设备。此配置文件将在 7 天后过期。 安装配置文件后，您可以随时打开和关闭日志记录。要在 iOS 设备上关闭日志记录，请打开“设置”，点击“通用”，点击“配置文件”，点击“位置和运动”。运动记录”，然后点击“删除配置文件”。 通过启用此诊断工具并将生成的文件的副本发送给 Apple，您即同意 Apple 根据其隐私政策 (http://www.apple.com/legal/privacy) 使用此类文件的内容。    提交人    /u/KojakMoment   [link] [评论]]]></description>
+      <description><![CDATA[我的 iPhone 一直出现 GPS 问题，经过一些故障排除后，Apple 想要安装“LocationAndMotion.mobileconfig”配置文件来跟踪我 7 天的 GPS 活动。 虽然我的侧载应用程序不太可能是问题的根源，但我有点担心，如果他们发现我一直在侧载（修改过的 YouTube、Spotify 和 Twitch），他们会不愿意提供帮助。 配置文件信息： 位置和运动记录配置文件会生成文件，允许 Apple 对您的设备进行故障排除，并帮助 Apple 改进其产品和服务。生成的文件可能包含您的部分个人信息，包括短信内容、设备标识符和名称、注册设备的电话号码、您登录的账户的 Apple ID、启用日志记录期间的来电和拨出电话日志以及音频路由、位置数据、原始坐标数据、时间戳、电池状态和使用情况、wifi 接入点、运动数据（包括原始运动传感器数据）、应用程序使用情况以及应用程序对位置和运动的使用情况。如果您安装此配置文件，它将自动打开日志记录，并且当您在此设备上进行系统诊断时将捕获这些数据。除非您启动系统诊断并发送结果，否则数据不会离开设备。此配置文件将在 7 天后过期。 安装配置文件后，您可以随时打开和关闭日志记录。要在 iOS 设备上关闭日志记录，请打开“设置”，点击“通用”，点击“配置文件”，点击“位置和运动”。运动记录”，然后点击“删除配置文件”。 通过启用此诊断工具并将生成的文件的副本发送给 Apple，即表示您同意 Apple 根据其隐私政策 (http://www.apple.com/legal/privacy) 使用此类文件的内容。    提交人    /u/KojakMoment   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</guid>
       <pubDate>Thu, 11 Jul 2024 16:38:35 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我想知道我是否可以在我的 Alt 手机中使用我的证书和配置文件，因为我丢失了我的主手机并且失去了恢复它的希望，而且我真的不想复制一个新的证书因为我买了它没多久，我想知道我是否可以签署 ESign（使用公共证书或其他东西），然后将我的工作证书和配置文件导入其中     提交人    /u/anxxgr   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0rb7y/esign_question/</guid>
       <pubDate>Thu, 11 Jul 2024 15:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>逆转裁判</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0pbba/ace_attorney/</link>
-      <description><![CDATA[有人有修改过的 Ace Attorney 游戏的 ipa 链接吗？除了三部曲。    提交人    /u/NoteUsed1985   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0pbba/ace_attorney/</guid>
-      <pubDate>Thu, 11 Jul 2024 13:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在侧载应用中保持登录状态</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0o512/cant_stay_logged_in_on_a_sideloaded_app/</link>
-      <description><![CDATA[基本上就是标题所说的。我使用 signum 侧载大约 2 年了。从来没有遇到过任何应用程序的问题。今天我尝试侧载 MyFitnessPal，除了每次关闭应用程序时保持登录状态外，一切都很顺利。我在 iOS 17.5.1 上。有什么想法吗？    提交人    /u/ncryptedk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0o512/cant_stay_logged_in_on_a_sideloaded_app/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么适合《新星足球》的 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0ncde/is_there_any_good_ipas_for_new_star_soccer/</link>
-      <description><![CDATA[一直在尝试寻找一个不使用电脑的游戏，因为我对技术不是很在行    提交人    /u/Fun-Sir-3801   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0ncde/is_there_any_good_ipas_for_new_star_soccer/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:06:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
