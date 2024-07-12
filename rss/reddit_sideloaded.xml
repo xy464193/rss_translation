@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 12 Jul 2024 12:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 15:08:43 GMT</lastBuildDate>
+    <item>
+      <title>Sideloady 未安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1iap1/sideloady_not_installing/</link>
+      <description><![CDATA[我的 Sideloady 无法安装任何东西，我一直收到大师调解错误，即使我尝试从网站正确下载 iTunes，关闭防病毒软件，安装了 iCloud 授权的计算机并以管理员身份运行，请问我可以得到一些帮助吗？ 谢谢     提交人    /u/Splatoonlover43   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1iap1/sideloady_not_installing/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 崩溃修复</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1i75w/deezer_crashing_fix/</link>
+      <description><![CDATA[我想我找到了解决 Deezer 崩溃问题的方法。我所做的就是下载  从 App Store 下载 NextDns 打开应用程序并点击底部的 3 个点  在顶部打开使用自定义配置选项 然后粘贴此配置 ID f437c1 并点击完成 每次在在线模式下打开 Deezer 时，请确保已打开 NextDns。   我只在想要向 Deezer 添加需要在线模式的新歌曲时才打开 NextDns。这对我来说已经工作了 3 天，所以如果它对你有用，请告诉我。    提交人    /u/kdburnernorapcap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1i75w/deezer_crashing_fix/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deezer 正在工作 IPa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1gr0n/deezer_working_ipa/</link>
+      <description><![CDATA[您好 在 3 周内，deezer 在高级 ipa 连接几分钟后会注销所有人。谁找到了离线模式之外的解决方案？谢谢    由   提交 /u/ResistInevitable9591   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1gr0n/deezer_working_ipa/</guid>
+      <pubDate>Fri, 12 Jul 2024 12:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube 恢复播放？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1dotw/youtube_resume_playback/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>Flexstore 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</link>
-      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常有帮助。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
+      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常棒。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</guid>
       <pubDate>Fri, 12 Jul 2024 06:44:32 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我已经使用 Esign 方法进行侧载一段时间了，效果一直很好，直到他们更新了 DNS，加入了广告拦截功能，并允许使用 VPN。我从来没有遇到过旧 DNS 的问题，但在使用新 DNS 时，我遇到了各种奇怪的问题。例如，整个 Yahoo 域被屏蔽，在线借记卡付款无法通过，还有其他问题。我想继续使用 Esign，并了解到可以切换回原始 DNS，但不知道如何操作。按照指南操作只会链接到更新的 DNS。有人能告诉我如何恢复旧 DNS 吗？    提交人    /u/JesseB342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0tedx/anyone_know_how_to_switch_back_to_the_old_esign/</guid>
       <pubDate>Thu, 11 Jul 2024 16:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果 Apple 安装了位置服务监控配置文件，它能检测到我是否有侧载应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</link>
-      <description><![CDATA[我的 iPhone 一直出现 GPS 问题，经过一些故障排除后，Apple 想要安装“LocationAndMotion.mobileconfig”配置文件来跟踪我 7 天的 GPS 活动。 虽然我的侧载应用程序不太可能是问题的根源，但我有点担心，如果他们发现我一直在侧载（修改过的 YouTube、Spotify 和 Twitch），他们会不愿意提供帮助。 配置文件信息： 位置和运动记录配置文件会生成文件，允许 Apple 对您的设备进行故障排除，并帮助 Apple 改进其产品和服务。生成的文件可能包含您的部分个人信息，包括短信内容、设备标识符和名称、注册设备的电话号码、您登录的账户的 Apple ID、启用日志记录期间的来电和拨出电话日志以及音频路由、位置数据、原始坐标数据、时间戳、电池状态和使用情况、wifi 接入点、运动数据（包括原始运动传感器数据）、应用程序使用情况以及应用程序对位置和运动的使用情况。如果您安装此配置文件，它将自动打开日志记录，并且当您在此设备上进行系统诊断时将捕获这些数据。除非您启动系统诊断并发送结果，否则数据不会离开设备。此配置文件将在 7 天后过期。 安装配置文件后，您可以随时打开和关闭日志记录。要在 iOS 设备上关闭日志记录，请打开“设置”，点击“通用”，点击“配置文件”，点击“位置和运动”。运动记录”，然后点击“删除配置文件”。 通过启用此诊断工具并将生成的文件的副本发送给 Apple，即表示您同意 Apple 根据其隐私政策 (http://www.apple.com/legal/privacy) 使用此类文件的内容。    提交人    /u/KojakMoment   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</guid>
-      <pubDate>Thu, 11 Jul 2024 16:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0t3rb/esign_question/</link>
-      <description><![CDATA[我可以通过 iPhone 更新 Apple Watch 吗？它会撤销我的证书吗？    提交人    /u/ioninvain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0t3rb/esign_question/</guid>
-      <pubDate>Thu, 11 Jul 2024 16:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e0rb7y/esign_question/</link>
-      <description><![CDATA[我想知道我是否可以在我的 Alt 手机中使用我的证书和配置文件，因为我丢失了我的主手机并且失去了恢复它的希望，而且我真的不想复制一个新的证书因为我买了它没多久，我想知道我是否可以签署 ESign（使用公共证书或其他东西），然后将我的工作证书和配置文件导入其中     提交人    /u/anxxgr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e0rb7y/esign_question/</guid>
-      <pubDate>Thu, 11 Jul 2024 15:12:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
