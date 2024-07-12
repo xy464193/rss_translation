@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 12 Jul 2024 06:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 09:10:14 GMT</lastBuildDate>
+    <item>
+      <title>使用开发者帐户启用通知</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1bor0/enable_notifications_with_a_developer_account/</link>
+      <description><![CDATA[您好。 我拥有一个开发者帐户，目前正在使用 SideStore 0.5.4 侧载我的应用程序。 我遇到了一个似乎很常见的问题，我的一些应用程序不显示通知（我想到了 Enmity、BHTwitter 和 InstaMulti），并且无法使用通用共享选项（它们会出现，但当我尝试使用它们时，它们会说无法连接到帐户）。 从我目前收集到的信息来看，这些问题应该是免费帐户（不是我的情况）或围绕通用软件包 ID 而出现的（我的所有应用程序软件包 ID 中都有相同的大写字母和数字字符串，所以我不确定这是问题所在）。 最后，由于未知原因，此行为不适用于某些应用程序：我完全能够从 Clip、InfusePlus 或 iTorrent 接收推送通知。 您能有人能帮我解决这个问题吗？ 提前感谢您的回答，祝您有美好的一天。 最好的问候。 编辑：我的设备在 iOS 17.5.1 下    提交人    /u/Kowken92   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1bor0/enable_notifications_with_a_developer_account/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 ipagalaxy 等网站。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1b80z/sites_like_ipagalaxy_etc/</link>
+      <description><![CDATA[因此，我对 siedeloading 还不熟悉，因为我刚刚获得了我的第一个 IP，所以我的问题是哪些网站与 ipagalaxy 类似，哪些是最重要的应用程序以及它们的最佳版本，如果有人可以说更多的事情，例如我应该使用什么应用程序来侧载等等，我不会介意...    提交人    /u/rajfff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1b80z/sites_like_ipagalaxy_etc/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flexstore 帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</link>
+      <description><![CDATA[任何使用 Flekstore Premium 的人都知道为什么有些应用程序无法下载，无论您使用什么来源。一旦它到达“签名文件”，它就会继续加载，永远不会进入安装步骤。任何帮助都将非常棒。    由   提交  /u/Organic_Magazine_129   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e1ayq0/flekstore_help/</guid>
+      <pubDate>Fri, 12 Jul 2024 06:44:32 GMT</pubDate>
+    </item>
     <item>
       <title>有谁有毁灭战士 ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e196d5/anyone_got_a_doom_ipa/</link>
@@ -20,7 +41,7 @@
       <pubDate>Fri, 12 Jul 2024 04:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>有人尝试恢复一款名为 trials frontier 的应用程序吗？我有 jb。如果有人能继续使用它，请直接发信息给我！</title>
+      <title>有人尝试恢复一款名为 trials frontier 的应用程序吗？我有 jb。如果有人能用它，请直接发信息给我！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e17yoo/anybody_tryna_do_a_revival_of_an_app_called/</link>
       <description><![CDATA[耶    由   提交  /u/Aggravating-Row402   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e17yoo/anybody_tryna_do_a_revival_of_an_app_called/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>如果 Apple 安装了位置服务监控配置文件，它能检测到我是否有侧载应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</link>
-      <description><![CDATA[我的 iPhone 一直出现 GPS 问题，经过一些故障排除后，Apple 想要安装“LocationAndMotion.mobileconfig”配置文件来跟踪我 7 天的 GPS 活动。 虽然我的侧载应用程序不太可能是问题的根源，但我有点担心，如果他们发现我一直在侧载（修改过的 YouTube、Spotify 和 Twitch），他们会不愿意提供帮助。 配置文件信息： 位置和运动记录配置文件会生成文件，允许 Apple 对您的设备进行故障排除，并帮助 Apple 改进其产品和服务。生成的文件可能包含您的部分个人信息，包括短信内容、设备标识符和名称、注册设备的电话号码、您登录的账户的 Apple ID、启用日志记录期间的来电和拨出电话日志以及音频路由、位置数据、原始坐标数据、时间戳、电池状态和使用情况、wifi 接入点、运动数据（包括原始运动传感器数据）、应用程序使用情况以及应用程序对位置和运动的使用情况。如果您安装此配置文件，它将自动打开日志记录，并且当您在此设备上进行系统诊断时将捕获这些数据。除非您启动系统诊断并发送结果，否则数据不会离开设备。此配置文件将在 7 天后过期。 安装配置文件后，您可以随时打开和关闭日志记录。要在 iOS 设备上关闭日志记录，请打开“设置”，点击“通用”，点击“配置文件”，点击“位置和运动”。运动记录”，然后点击“删除配置文件”。 通过启用此诊断工具并将生成的文件的副本发送给 Apple，即表示您同意 Apple 根据其隐私政策 (http://www.apple.com/legal/privacy) 使用此类文件的内容。    提交人    /u/KojakMoment   [link] [评论]]]></description>
+      <description><![CDATA[我的 iPhone 一直出现 GPS 问题，经过一些故障排除后，Apple 想要安装“LocationAndMotion.mobileconfig”配置文件来跟踪我 7 天的 GPS 活动。 虽然我的侧载应用程序不太可能是问题的根源，但我有点担心，如果他们发现我一直在侧载（修改过的 YouTube、Spotify 和 Twitch），他们会不愿意提供帮助。 配置文件信息： 位置和运动记录配置文件会生成文件，允许 Apple 对您的设备进行故障排除，并帮助 Apple 改进其产品和服务。生成的文件可能包含您的部分个人信息，包括短信内容、设备标识符和名称、注册设备的电话号码、您登录的账户的 Apple ID、启用日志记录期间的来电和拨出电话日志以及音频路由、位置数据、原始坐标数据、时间戳、电池状态和使用情况、wifi 接入点、运动数据（包括原始运动传感器数据）、应用程序使用情况以及应用程序对位置和运动的使用情况。如果您安装此配置文件，它将自动打开日志记录，并且当您在此设备上进行系统诊断时将捕获这些数据。除非您启动系统诊断并发送结果，否则数据不会离开设备。此配置文件将在 7 天后过期。 安装配置文件后，您可以随时打开和关闭日志记录。要在 iOS 设备上关闭日志记录，请打开“设置”，点击“通用”，点击“配置文件”，点击“位置和运动”。运动记录”，然后点击“删除配置文件”。 通过启用此诊断工具并将生成的文件的副本发送给 Apple，您即同意 Apple 根据其隐私政策 (http://www.apple.com/legal/privacy) 使用此类文件的内容。    提交人    /u/KojakMoment   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0tcs7/can_apple_detect_if_i_have_sideloaded_apps_if/</guid>
       <pubDate>Thu, 11 Jul 2024 16:38:35 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>逆转裁判</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e0pbba/ace_attorney/</link>
-      <description><![CDATA[有人有经过调整和修改的 Ace Attorney 游戏的 ipa 链接吗？除了三部曲。    提交人    /u/NoteUsed1985   [链接] [评论]]]></description>
+      <description><![CDATA[有人有修改过的 Ace Attorney 游戏的 ipa 链接吗？除了三部曲。    提交人    /u/NoteUsed1985   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0pbba/ace_attorney/</guid>
       <pubDate>Thu, 11 Jul 2024 13:45:22 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[一直在尝试寻找一个不使用电脑的游戏，因为我对技术不是很在行    提交人    /u/Fun-Sir-3801   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e0ncde/is_there_any_good_ipas_for_new_star_soccer/</guid>
       <pubDate>Thu, 11 Jul 2024 12:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iOS 9.3.6 中验证应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e09ir5/how_to_verify_app_in_ios_936/</link>
-      <description><![CDATA[我侧载了一个应用程序并希望我打开它进行验证，但是它显示连接到互联网，尽管我已连接到互联网，我正在尝试在不越狱 ipad 的情况下解决这个问题，但我不知道该怎么办？    提交人    /u/alinobakhtm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e09ir5/how_to_verify_app_in_ios_936/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous不工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e099oh/signulous_not_working/</link>
-      <description><![CDATA[还有人遇到问题吗？即使重新下载所有内容后，所有应用程序都无法正常工作。当我尝试打开任何应用程序时，都显示“不再可用”    提交人    /u/jagfan32100   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e099oh/signulous_not_working/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>ytlite plus 崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e08h9m/ytlite_plus_crashing/</link>
-      <description><![CDATA[嗨，ytlite 是否在您的实时容器（最新版本）中崩溃了？    提交人    /u/h3ketr0x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e08h9m/ytlite_plus_crashing/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
