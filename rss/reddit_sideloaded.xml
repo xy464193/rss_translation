@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 13 Jul 2024 03:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 06:12:06 GMT</lastBuildDate>
+    <item>
+      <title>对 YouTube 进行调整后，其他用户是否也能看到一些广告？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e21nhw/are_some_ads_getting_through_for_anyone_else_with/</link>
+      <description><![CDATA[具体来说，我正在使用 uYouEnhanced，偶尔在视频开始时仍会看到广告。大多数时候，这是 YouTube 调查之一。    提交人    /u/Didact67   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e21nhw/are_some_ads_getting_through_for_anyone_else_with/</guid>
+      <pubDate>Sat, 13 Jul 2024 04:25:16 GMT</pubDate>
+    </item>
     <item>
       <title>更新了 Premium Tiimo IPA？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e1ztr2/updated_premium_tiimo_ipa/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[已经 4 个月了    由    /u/Vektor801 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e1ddii/what_happened_to_marketplaces/</guid>
       <pubDate>Fri, 12 Jul 2024 09:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用开发者帐户启用通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e1bor0/enable_notifications_with_a_developer_account/</link>
-      <description><![CDATA[您好。 我拥有一个开发者帐户，目前正在使用 SideStore 0.5.4 侧载我的应用程序。 我遇到了一个似乎很常见的问题，我的一些应用程序不显示通知（我想到了 Enmity、BHTwitter 和 InstaMulti），并且无法使用通用共享选项（它们会出现，但当我尝试使用它们时，它们会说无法连接到帐户）。 从我目前收集到的信息来看，这些问题应该是免费帐户（不是我的情况）或围绕通用软件包 ID 而出现的（我的所有应用程序软件包 ID 中都有相同的大写字母和数字字符串，所以我不确定这是问题所在）。 最后，由于未知原因，此行为不适用于某些应用程序：我完全能够从 Clip、InfusePlus 或 iTorrent 接收推送通知。 您能有人能帮我解决这个问题吗？ 提前感谢您的回答，祝您有美好的一天。 最好的问候。 编辑：我的设备在 iOS 17.5.1 下    提交人    /u/Kowken92   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e1bor0/enable_notifications_with_a_developer_account/</guid>
-      <pubDate>Fri, 12 Jul 2024 07:31:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
