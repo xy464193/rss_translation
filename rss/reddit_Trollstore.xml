@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Sun, 14 Jul 2024 12:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 15:12:39 GMT</lastBuildDate>
+    <item>
+      <title>IPA 不起作用</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1e31jtm/ipa_doesnt_work/</link>
+      <description><![CDATA[2024-07-14 15:50:00.008 trollstorehelper[15485:2436716] [+] ALPINE DEBUG: 加载到 -&gt; com.opa334.TrollStore 2024-07-14 15:50:00.222 trollstorehelper[15485:2436716] [+] LYNX DEBUG: 拒绝 -&gt; 0 2024-07-14 15:50:00.222 trollstorehelper[15485:2436716] [+] LYNX DEBUG: 初始化 -&gt; com.opa334.TrollStore、trollstorehelper、/var/containers/Bundle/Application/5A192902-6B62-445B-894A-D55474C7B1A1/TrollStore.app/trollstorehelper、LynxRootless.xm 2024-07-14 15:50:00.375 trollstorehelper[15485:2436716] [SnowBoard Launcher] 加载程序检查已通过。正在加载 SnowBoard... 2024-07-14 15:50:00.379 trollstorehelper[15485:2436716] 正在初始化 Snowboard（版本：1.5.37-Beta4-rootless 编译时间：2024 年 7 月 9 日：00:24:55）在应用程序中：trollstorehelper... 2024-07-14 15:50:00.542 trollstorehelper[15485:2436716] trollstorehelper 使用参数调用：（install、installd、“/private/var/mobile/Containers/Data/Application/CA1AF743-8A92-4571-851D-F47BF90B0706/Documents/Inbox/Nulls Brawl 56.274 iOS.ipa&quot; ) (null) 2024-07-14 15:50:02.607 trollstorehelper[15485:2436716] trollstorehelper 返回 168 这是调试日志    提交人    /u/Dizzy-Ad3935   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1e31jtm/ipa_doesnt_work/</guid>
+      <pubDate>Sun, 14 Jul 2024 12:51:27 GMT</pubDate>
+    </item>
     <item>
       <title>还有人使用 insta 时遇到过这种情况吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1e2lozt/anyone_else_experiencing_this_with_insta/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是新手，你能告诉我在哪里可以下载修改过的 ipa 文件吗？更具体地说，我需要一个高级 spotify ipa 文件，它与使用 alt store 安装兼容 :)    提交人    /u/mateoocampos   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dwdivn/help_to_search_ipa_files/</guid>
       <pubDate>Sat, 06 Jul 2024 01:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法通过 App Store 更新应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dvzk28/cant_update_app_through_app_store/</link>
-      <description><![CDATA[大家好，我看过关于这个问题的帖子，但没有一个修复方法对我有用。我无法通过应用商店更新 Spotify。当我按下更新时，它变灰，填满轮子，直到达到 75%，然后轮子消失，然后应用程序图标恢复正常，但当我点击它时，它会重新安装或类似的东西 我尝试过从 IPA 下载然后删除容器文件夹的技巧，但它不起作用。我甚至不确定如何正确执行此操作，因为 Metabundle Id 是 com.spotify.client，而且我看不到具有该名称的文件夹，只有 Spotify 文件夹 我已经安装了普通的解密 IPA，然后设置为用户指定，但这也不起作用 实际上，我甚至没有通过 troll store 安装的 Spotify 的原始 IPA，因为我很长时间都不需要这样做了，我已经使用普通应用程序一段时间了，这种情况一直在发生，只是现在我才开始恼火 我想提一下，我在 Dopamine 2、15.3.1、iphone 12 上是 jb，这只发生在我处于 jb 状态时，但我已经恢复了我的 jb 并且没有安装任何调整，因为我正在测试所有可能性，但它仍然不起作用 有什么建议吗？ 编辑 1：我已经安装了普通的应用商店应用，只是无法更新它。 我还通过前往 trollstore 并点击卸载从 trollstore 卸载了 Spotify    提交人    /u/DeskPrevious6504   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dvzk28/cant_update_app_through_app_store/</guid>
-      <pubDate>Fri, 05 Jul 2024 14:40:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
