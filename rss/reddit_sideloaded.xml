@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 15 Jul 2024 12:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 15:11:15 GMT</lastBuildDate>
+    <item>
+      <title>即使证书被撤销，IPA 仍然有效</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3x56n/ipas_still_work_even_though_cert_was_revoked/</link>
+      <description><![CDATA[大家好，我的证书刚刚被吊销了，但我侧载的所有应用程序都正常工作，只有一个例外……这是怎么回事？    由    /u/vittosturi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3x56n/ipas_still_work_even_though_cert_was_revoked/</guid>
+      <pubDate>Mon, 15 Jul 2024 15:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载 Instagram</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3wwfc/sideload_instagram/</link>
+      <description><![CDATA[有人可以帮忙侧载 instagram 吗？ 我用 trollstore 和 ipadecrypter 做到了，但它们是钥匙串，并且相同的帐户在每个克隆的 instagram ipa 上保持连接。 我想在每个克隆的 instagram 上都有唯一的帐户    提交人    /u/crynemak   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3wwfc/sideload_instagram/</guid>
+      <pubDate>Mon, 15 Jul 2024 14:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLitePlus 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3v50q/problem_with_ytliteplus/</link>
+      <description><![CDATA[嘿，我在使用最新的 YTliteplus 时遇到了问题，有些视频会提示“出错了，请重试”，我该如何解决？谢谢     提交人    /u/YoshivsJoshi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3v50q/problem_with_ytliteplus/</guid>
+      <pubDate>Mon, 15 Jul 2024 13:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我想下载 Spotify，我需要签署以下哪些文件？第二张图片中的 MapleSigner</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3tg9m/which_of_these_files_do_i_need_to_sign_if_i_want/</link>
+      <description><![CDATA[      由于 Signulous 已关闭，我不得不涉足此领域第一次。首先，我做的事情是否可行？其次，哪个文件应该放入 IPA 部分，MobileProvision 和 P12 中应该包含哪些文件？    提交人    /u/jakz__   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3tg9m/which_of_these_files_do_i_need_to_sign_if_i_want/</guid>
+      <pubDate>Mon, 15 Jul 2024 12:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些 YouTube 应用程序仍可以作为实际 ipa 文件下载且无需编译？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e3tbos/any_youtube_apps_that_can_still_be_downloaded_as/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>为什么我无法在 Sidestore 中侧载超过 1 个 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e3s742/why_i_cant_sideload_more_than_1_ipa_in_sidestore/</link>
-      <description><![CDATA[我一周前下载了 sidestore，然后下载了 spotify，它运行良好，即使它崩溃了，使用刷新按钮解决了它，但问题是 spotify 之后我无法下载更多 ipa，它出现错误。我等了一个星期才刷新应用程序 id，它现在不见了，仍然显示“此开发者配置文件的应用程序数量已达到最大”，如果有人知道请帮助我。    提交人    /u/Resident-Medium-5131   [链接] [评论]]]></description>
+      <description><![CDATA[我一周前下载了 sidestore，然后下载了 spotify，它运行良好，即使它崩溃了，使用刷新按钮解决了它，但问题是 spotify 之后我无法下载更多 ipa，它出现错误。我等了一个星期才刷新应用程序 id，它现在不见了，仍然显示“此开发者配置文件的应用程序数量已达到上限”，如果有人知道请帮助我。    提交人    /u/Resident-Medium-5131   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e3s742/why_i_cant_sideload_more_than_1_ipa_in_sidestore/</guid>
       <pubDate>Mon, 15 Jul 2024 11:14:39 GMT</pubDate>
     </item>
@@ -62,7 +90,7 @@
       <pubDate>Mon, 15 Jul 2024 00:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法将应用程序从 iPhone 传输到 iPad ？</title>
+      <title>有没有办法将应用程序从 iPhone 传输到 iPad 上？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e3do76/anyway_to_get_app_from_iphone_to_ipad/</link>
       <description><![CDATA[这里可能不是问这个问题的合适地方，但我不知道还能在哪里问，所以提前说声抱歉，但我最近买了一台 ipad，我想将我 iphone 上的一个应用程序（未侧载）放到我的新 ipad 上，问题是应用程序商店中没有这个应用程序。我试过通过 iTunes 共享文件，但在它提供的列表中看不到这个应用程序。有人有其他想法吗？这是一款名为“DramaFlix”的电影/节目流媒体应用程序，所以如果有人有应用程序，我可以侧载它作为类似于我 ipad 上的应用程序的替代品，也请告诉我。谢谢    提交人    /u/Background-Block-165   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e3do76/anyway_to_get_app_from_iphone_to_ipad/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[我想深入研究 Apple 编程和开发的世界。这主要是为了我自己的作品集，我想说，看看幕后是如何完成的会很酷。我的整个越狱生涯都是因为其他人对社区的贡献。我想回馈。 我已经具备 C# 和 SQL 编程知识。我真正的职业是网络安全/系统管理。我非常精通 Microsoft 框架和内核世界。Powershell 和 SLI 是我的强项  我想扩展并了解 IOS 或 MacOS 操作系统的工作原理。我已经在 Google 上搜索过显而易见的东西，但我想知道这里是否有人有任何课程推荐或讲师。我有 Udemy 营业执照     提交人    /u/arbiterrecon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e37u5h/where_to_start_learning_iosipa_frameworks/</guid>
       <pubDate>Sun, 14 Jul 2024 17:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 与 AltStore 的比较</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e34z3t/esign_compared_to_altstore/</link>
-      <description><![CDATA[好吧，我可能比较笨，没有找到已经回答我的问题的帖子，或者没有找到解释这个问题的一些基本概念。 ESign 等应用程序和 AltStore 等应用程序之间的主要区别是什么？我发现 AltStore 不需要像 ESign 那样的配置文件，而且也绑定到您的计算机。在我看来，这两个应用程序从根本上来说是不同的，工作方式也不同，但我可以找到解释它们之间区别的解释。 有侧载专家，能解释一下它们之间的区别和好处吗？谢谢 &lt;3    提交人    /u/DocGoodyGoods   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e34z3t/esign_compared_to_altstore/</guid>
-      <pubDate>Sun, 14 Jul 2024 15:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 altstore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e32lz6/cant_use_altstore/</link>
-      <description><![CDATA[      嗨，最近我买了一部新手机（iOS 17.5 上的 15 pro），不知道为什么我无法侧载任何应用程序，我尝试了 scarlet（带 dns）、esign 和 altstore，但它们都不起作用，有什么提示吗？   由    /u/6paj  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e32lz6/cant_use_altstore/</guid>
-      <pubDate>Sun, 14 Jul 2024 13:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为实时容器内的应用启用 JIT</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e30rdl/how_do_you_enable_jit_for_an_app_inside_live/</link>
-      <description><![CDATA[我正在尝试在实时容器内运行 dolphin，每当我为实时容器应用启用 JIT 时，它都不起作用    提交人    /u/Lanky-Champion3403   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e30rdl/how_do_you_enable_jit_for_an_app_inside_live/</guid>
-      <pubDate>Sun, 14 Jul 2024 12:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以使用 YLitePlus 禁止 YouTube 帐户吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e30m26/can_yt_account_be_banned_using_yliteplus/</link>
-      <description><![CDATA[喜欢它摆脱广告，但担心我的帐户因使用非官方 YouTube 应用而被禁止使用 YouTube？    提交人    /u/DaveTheMan1985   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e30m26/can_yt_account_be_banned_using_yliteplus/</guid>
-      <pubDate>Sun, 14 Jul 2024 12:00:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
