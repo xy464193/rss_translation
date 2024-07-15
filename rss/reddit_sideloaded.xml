@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 15 Jul 2024 15:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:11:58 GMT</lastBuildDate>
+    <item>
+      <title>侧载 Fire Stick 以访问 Xbox 应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e40uxs/sideloading_fire_stick_to_access_xbox_app/</link>
+      <description><![CDATA[有人知道如何将使用 xbox 应用程序所需的当前 Fire Stick 侧载到我上一代 Fire Stick 上吗？    提交人    /u/mediafred   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e40uxs/sideloading_fire_stick_to_access_xbox_app/</guid>
+      <pubDate>Mon, 15 Jul 2024 17:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我将 Windows PC 上的 ipa 文件侧载到 iPhone 上，它会在某个时候被删除吗？如果会，我该如何在手机上获取 ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3ylu5/if_i_get_an_ipa_file_on_my_windows_pc_to_sideload/</link>
+      <description><![CDATA[.    由   提交  /u/sunny8720   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3ylu5/if_i_get_an_ipa_file_on_my_windows_pc_to_sideload/</guid>
+      <pubDate>Mon, 15 Jul 2024 16:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>DMA 的最新更新和情况</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e3xzn4/recent_updates_and_situation_with_dma/</link>
+      <description><![CDATA[大家好！ 我们正在为即将发布的付费应用、订阅和应用内购买准备 appdb，因此我们简化了您的账单管理。 新的 PLUS 订阅购买页面为您提供了订阅 appdb PLUS 扩展包后将获得的功能摘要。 更新的账单部分列出了您所有设备的所有供应商的有效和过去的订阅和购买，让您一目了然。 此外，我们还将 PLUS 和带有 Apple 开发者帐户的应用程序安装配置页面分开。 如果您是独立开发者并希望在 appdb 上正式发布您的应用，请随时检查 这篇文章关于支持的功能。 PS：关于我们的互操作性请求的最新信息 - Apple 没有回应，因此我们已联系欧盟 DMA 委员会，表达对这种公然违规行为的担忧。 DMA 委员会已考虑到这一点， 他们已开始调查此事。 我们将继续改进 appdb 并提供我们计划的所有功能。 此致敬意，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e3xzn4/recent_updates_and_situation_with_dma/</guid>
+      <pubDate>Mon, 15 Jul 2024 15:42:46 GMT</pubDate>
+    </item>
     <item>
       <title>即使证书被撤销，IPA 仍然有效</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e3x56n/ipas_still_work_even_though_cert_was_revoked/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[嘿，我在使用最新的 YTliteplus 时遇到了问题，有些视频会提示“出错了，请重试”，我该如何解决？谢谢     提交人    /u/YoshivsJoshi   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e3v50q/problem_with_ytliteplus/</guid>
       <pubDate>Mon, 15 Jul 2024 13:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我想下载 Spotify，我需要签署以下哪些文件？第二张图片中的 MapleSigner</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e3tg9m/which_of_these_files_do_i_need_to_sign_if_i_want/</link>
-      <description><![CDATA[      由于 Signulous 已关闭，我不得不涉足此领域第一次。首先，我做的事情是否可行？其次，哪个文件应该放入 IPA 部分，MobileProvision 和 P12 中应该包含哪些文件？    提交人    /u/jakz__   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e3tg9m/which_of_these_files_do_i_need_to_sign_if_i_want/</guid>
-      <pubDate>Mon, 15 Jul 2024 12:23:00 GMT</pubDate>
     </item>
     <item>
       <title>有哪些 YouTube 应用程序仍可以作为实际 ipa 文件下载且无需编译？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[这里可能不是问这个问题的合适地方，但我不知道还能在哪里问，所以提前说声抱歉，但我最近买了一台 ipad，我想将我 iphone 上的一个应用程序（未侧载）放到我的新 ipad 上，问题是应用程序商店中没有这个应用程序。我试过通过 iTunes 共享文件，但在它提供的列表中看不到这个应用程序。有人有其他想法吗？这是一款名为“DramaFlix”的电影/节目流媒体应用程序，所以如果有人有应用程序，我可以侧载它作为类似于我 ipad 上的应用程序的替代品，也请告诉我。谢谢    提交人    /u/Background-Block-165   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e3do76/anyway_to_get_app_from_iphone_to_ipad/</guid>
       <pubDate>Sun, 14 Jul 2024 21:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>AppTesters 高级版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e385jv/apptesters_premium/</link>
-      <description><![CDATA[这些家伙是合法的吗？他们的 25 美元终身证书选项在纸面上看起来不错，但听起来好得令人难以置信。我应该试试这些家伙还是回到 signulous    提交人    /u/Ok_Perspective8553   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e385jv/apptesters_premium/</guid>
-      <pubDate>Sun, 14 Jul 2024 17:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>从哪里开始学习 IOS/IPA 框架</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e37u5h/where_to_start_learning_iosipa_frameworks/</link>
-      <description><![CDATA[我想深入研究 Apple 编程和开发的世界。这主要是为了我自己的作品集，我想说，看看幕后是如何完成的会很酷。我的整个越狱生涯都是因为其他人对社区的贡献。我想回馈。 我已经具备 C# 和 SQL 编程知识。我真正的职业是网络安全/系统管理。我非常精通 Microsoft 框架和内核世界。Powershell 和 SLI 是我的强项  我想扩展并了解 IOS 或 MacOS 操作系统的工作原理。我已经在 Google 上搜索过显而易见的东西，但我想知道这里是否有人有任何课程推荐或讲师。我有 Udemy 营业执照     提交人    /u/arbiterrecon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e37u5h/where_to_start_learning_iosipa_frameworks/</guid>
-      <pubDate>Sun, 14 Jul 2024 17:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
