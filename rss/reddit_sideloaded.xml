@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 16 Jul 2024 12:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 15:07:49 GMT</lastBuildDate>
+    <item>
+      <title>预示着它会回归</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e4q9ba/signulous_is_it_coming_back/</link>
+      <description><![CDATA[我无法使用从 signulous 下载的任何应用程序，我想玩不义联盟 2    提交人    /u/Jamalfortnite7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e4q9ba/signulous_is_it_coming_back/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是黑名单和 UDID 冷却？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e4ptj9/what_is_blacklisting_and_udid_cooldown/</link>
+      <description><![CDATA[大家好， 我最近从 iOS Rocket 为我的 iPad 购买了一个终身撤销保护证书，我想澄清一下这意味着什么。目前，我相当有信心 iOS Rocket 不会让我失望，因为他们对我的电子邮件反应迅速，而且有很多正面评价。但是，我仍然有一些顾虑，正如这篇文章的标题所述。 由于我对侧载还很陌生，所以我不熟悉黑名单的概念。到目前为止，我的证书已被撤销一次，但在联系 iOS Rocket 后，我​​收到了一个新的证书。从我有限的知识来看，我明白这意味着我没有被列入黑名单；否则，我就无法获得新证书，对吗？但是，如果发生这种情况，我的主要问题是：黑名单意味着什么？黑名单是如何以及何时发生的？我如何才能知道我是否被列入了黑名单？有没有什么方法可以修复它或将其从黑名单中除名？ 我的第二个疑问是关于设备冷却期不合格期。我不确定它是如何工作的，但显然，iOS Rocket 出售了一种绕过方法，据说可以避免在撤销后等待 15-30 天。似乎 Apple 可以在撤销后对您的设备施加此冷却期。这是真的吗？如果是这样，为什么其他销售证书的网站没有提到它？例如，如果有人拥有 Maple Sign 证书，他们如何确定是否发生了这种情况？最后，如果冷却期是真实的，iOS Rocket 如何提供绕过它的选项？ 抱歉问了这么多问题，但我是新手，想了解所有可能影响我“一次性购买”（除非 iOS Rocket 关闭）签名证书的变量。我想确保安心，而不必担心为我的 iPad 购买其他任何东西。 谢谢！    提交人    /u/vittosturi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e4ptj9/what_is_blacklisting_and_udid_cooldown/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何 YouTube 修改过的 ipa 在打开时都会发生明显的崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e4p0k3/any_youtube_modded_ipa_used_with_signulous/</link>
+      <description><![CDATA[今天之前，我一直在使用最新版本的 uYou，没有任何问题（ios 17.1.1），但现在每次启动时都会崩溃。我还有其他应用程序，比如 Aidoku，今天也以同样的方式停止工作，但我重新安装了它，现在它工作正常，有什么解决办法吗？    提交人    /u/ctierboy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e4p0k3/any_youtube_modded_ipa_used_with_signulous/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AppTesters 与 Signulous</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</link>
+      <description><![CDATA[大家好！ 目前，我有 Signulous 订阅，我刚刚得知 AppTesters 有终身选项，所以我愿意尝试。Signulous 是否有任何功能（如签署我自己的 ipas、启用通知、更改应用程序名称/标识符等）在 AppTesters 上不存在，或者我不会错过切换后的任何内容？此外，AT 上是否有 Signulous 没有的其他功能（除了终身购买）？ 提前谢谢大家！    提交人    /u/fckpepo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>你能在 AltStore 上获得付费游戏吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4n0uq/can_you_get_paid_games_on_altstore/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我今天注意到 signulous 出现了一些问题，我想知道我是否需要做些什么来修复它，我之前使用的所有应用程序都运行良好，但如果我尝试侧载一个新应用程序，它会显示一条消息，说我需要信任“中国中信银行股份有限公司”，我不知道它是否安全。我想补充的另一件事是，一旦他们解决了这个问题，这个消息就会消失吗？    提交人    /u/MX-Chris   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4bnoq/signulous/</guid>
       <pubDate>Tue, 16 Jul 2024 01:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是黑名单和设备冷却？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e47p6c/what_is_blacklisting_and_device_cooldown/</link>
-      <description><![CDATA[大家好， 我最近从 iOS Rocket 为我的 iPad 购买了一个终身撤销保护证书，我想澄清一下这意味着什么。目前，我相当有信心 iOS Rocket 不会让我失望，因为他们对我的电子邮件反应迅速，而且有很多正面评价。但是，我仍然有一些顾虑，正如这篇文章的标题所述。 由于我对侧载还很陌生，所以我不熟悉黑名单的概念。到目前为止，我的证书已被撤销一次，但在联系 iOS Rocket 后，我​​收到了一个新的证书。从我有限的知识来看，我明白这意味着我没有被列入黑名单；否则，我就无法获得新证书，对吗？但是，如果发生这种情况，我的主要问题是：黑名单意味着什么？黑名单是如何以及何时发生的？我如何才能知道我是否被列入了黑名单？有没有什么方法可以修复它或将其从黑名单中除名？ 我的第二个疑问是关于设备冷却期不合格期。我不确定它是如何工作的，但显然，iOS Rocket 出售了一种绕过方法，据说可以避免在撤销后等待 15-30 天。似乎 Apple 可以在撤销后对您的设备施加此冷却期。这是真的吗？如果是这样，为什么其他销售证书的网站没有提到它？例如，如果有人拥有 Maple Sign 证书，他们如何确定是否发生了这种情况？最后，如果冷却期是真实的，iOS Rocket 如何提供绕过它的选项？ 抱歉问了这么多问题，但我是新手，想了解所有可能影响我“一次性购买”（除非 iOS Rocket 关闭）签名证书的变量。我想确保安心，而不必担心为我的 iPad 购买其他任何东西。 谢谢！    提交人    /u/vittosturi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e47p6c/what_is_blacklisting_and_device_cooldown/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以更新 iOS18 而不会被撤销/列入黑名单吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e47oq6/can_we_update_ios18_without_being/</link>
-      <description><![CDATA[      大家好，我正在使用 Esign 安装一些 ipas（使用了用户 PureEnvyUs 发布的精彩指南），现在我正在考虑更新到 iOS18 公开测试版，但我不确定我们是否可以在不扭曲所有设置和被撤销/列入黑名单的情况下做到这一点。 有没有办法设置 DNS，以便我们可以连接到苹果服务器，但又不会让它们检测到我们设备上安装的恶作剧？ 我分享的屏幕截图是我的 VPN 和设备管理 感谢大家的时间。很多爱 https://preview.redd.it/q6twhyqp9rcd1.jpg?width=1242&amp;format=pjpg&amp;auto=webp&amp;s=7ca836ebaafe7425fe410ec011ec3b4f8c8e3c81    提交人    /u/punpz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e47oq6/can_we_update_ios18_without_being/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Singulous - 有办法查看已签名的应用程序吗？今天的撤销让我忙得回想所有侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e46ije/singulous_is_there_a_way_to_view_signed_apps/</link>
-      <description><![CDATA[        提交人    /u/aspiringNoob   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e46ije/singulous_is_there_a_way_to_view_signed_apps/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:17:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17 上的 BHTwitter - 重新打开后注销？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e464yf/bhtwitter_on_ios_17_logging_off_after_reopening/</link>
-      <description><![CDATA[我刚刚在 Signulous 上签名并下载了 BHTwitter (v.10.47)，每当我关闭应用程序并重新打开它时，它都会注销我并要求我重新登录。其他人也遇到这种情况了吗？    提交人    /u/FurioCaesar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e464yf/bhtwitter_on_ios_17_logging_off_after_reopening/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:02:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
