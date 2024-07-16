@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 15 Jul 2024 21:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 00:40:55 GMT</lastBuildDate>
+    <item>
+      <title>什么是黑名单和设备冷却？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e47p6c/what_is_blacklisting_and_device_cooldown/</link>
+      <description><![CDATA[大家好， 我最近从 iOS Rocket 为我的 iPad 购买了一个终身撤销保护证书，我想澄清一下这意味着什么。目前，我相当有信心 iOS Rocket 不会让我失望，因为他们对我的电子邮件反应迅速，而且有很多正面评价。但是，我仍然有一些顾虑，正如这篇文章的标题所述。 由于我对侧载还很陌生，所以我不熟悉黑名单的概念。到目前为止，我的证书已被撤销一次，但在联系 iOS Rocket 后，我​​收到了一个新的证书。从我有限的知识来看，我明白这意味着我没有被列入黑名单；否则，我就无法获得新证书，对吗？但是，如果发生这种情况，我的主要问题是：黑名单意味着什么？黑名单是如何以及何时发生的？我如何才能知道我是否被列入了黑名单？有没有什么方法可以修复它或将其从黑名单中除名？ 我的第二个疑问是关于设备冷却期不合格期。我不确定它是如何工作的，但显然，iOS Rocket 出售了一种绕过方法，据说可以避免在撤销后等待 15-30 天。似乎 Apple 可以在撤销后对您的设备施加此冷却期。这是真的吗？如果是这样，为什么其他销售证书的网站没有提到它？例如，如果有人拥有 Maple Sign 证书，他们如何确定是否发生了这种情况？最后，如果冷却期是真实的，iOS Rocket 如何提供绕过它的选项？ 抱歉问了这么多问题，但我是新手，想了解所有可能影响我“一次性购买”（除非 iOS Rocket 关闭）签名证书的变量。我想确保安心，而不必担心为我的 iPad 购买其他任何东西。 谢谢！    提交人    /u/vittosturi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e47p6c/what_is_blacklisting_and_device_cooldown/</guid>
+      <pubDate>Mon, 15 Jul 2024 22:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以更新 iOS18 而不会被撤销/列入黑名单吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e47oq6/can_we_update_ios18_without_being/</link>
+      <description><![CDATA[      大家好，我正在使用 Esign 安装一些 ipas（使用了用户 PureEnvyUs 发布的精彩指南），现在我正在考虑更新到 iOS18 公开测试版，但我不确定我们是否可以在不扭曲所有设置和被撤销/列入黑名单的情况下做到这一点。 有没有办法设置 DNS，以便我们可以连接到苹果服务器，但又不会让它们检测到我们设备上安装的恶作剧？ 我分享的屏幕截图是我的 VPN 和设备管理 感谢大家的时间。很多爱 https://preview.redd.it/q6twhyqp9rcd1.jpg?width=1242&amp;format=pjpg&amp;auto=webp&amp;s=7ca836ebaafe7425fe410ec011ec3b4f8c8e3c81    提交人    /u/punpz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e47oq6/can_we_update_ios18_without_being/</guid>
+      <pubDate>Mon, 15 Jul 2024 22:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singulous - 有办法查看已签名的应用程序吗？今天的撤销让我忙得回想所有侧载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e46ije/singulous_is_there_a_way_to_view_signed_apps/</link>
+      <description><![CDATA[        提交人    /u/aspiringNoob   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e46ije/singulous_is_there_a_way_to_view_signed_apps/</guid>
+      <pubDate>Mon, 15 Jul 2024 21:17:30 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 17 上的 BHTwitter - 重新打开后注销？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e464yf/bhtwitter_on_ios_17_logging_off_after_reopening/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在尝试为我的 iPhone 寻找一个无广告的 YouTube，但似乎由于 Google，您无法再下载直接的 ipa 文件。您必须下载原始文件并自行编译 ipa，这没问题，但我没有 PC，所以我无法这样做。我确实在手机上保存了 uYou+ 的旧 ipa，但我认为它太过时了，因为它完全停止工作了。每当我尝试播放任何视频时，它就会崩溃。    提交者    /u/JesseB342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e3tbos/any_youtube_apps_that_can_still_be_downloaded_as/</guid>
       <pubDate>Mon, 15 Jul 2024 12:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous 发生什么事了？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e3t2sh/what_happened_to_signulous/</link>
-      <description><![CDATA[所有下载的应用程序都无法运行，以前也发生过这种情况，但现在甚至主 Signulous 商店也无法运行？在 Twitter 上也可以看到，这也是一种普遍现象。     提交人    /u/jakz__   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e3t2sh/what_happened_to_signulous/</guid>
-      <pubDate>Mon, 15 Jul 2024 12:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我无法在 Sidestore 中侧载超过 1 个 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e3s742/why_i_cant_sideload_more_than_1_ipa_in_sidestore/</link>
-      <description><![CDATA[我一周前下载了 sidestore，然后下载了 spotify，它运行良好，即使它崩溃了，使用刷新按钮解决了它，但问题是 spotify 之后我无法下载更多 ipa，它出现错误。我等了一个星期才刷新应用程序 id，它现在不见了，仍然显示“此开发者配置文件的应用程序数量已达到上限”，如果有人知道请帮助我。    提交人    /u/Resident-Medium-5131   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e3s742/why_i_cant_sideload_more_than_1_ipa_in_sidestore/</guid>
-      <pubDate>Mon, 15 Jul 2024 11:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影盒专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e3r1r0/movie_box_pro/</link>
-      <description><![CDATA[我需要一个 movie box pro 邀请码。如果有人可以给我一个，请给我留言！    提交人    /u/nitroedk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e3r1r0/movie_box_pro/</guid>
-      <pubDate>Mon, 15 Jul 2024 10:02:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
