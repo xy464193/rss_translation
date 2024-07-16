@@ -4,9 +4,16 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 16 Jul 2024 18:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 21:09:38 GMT</lastBuildDate>
     <item>
-      <title>从来没有听说过这件事，但是使用 Tik tok 插件而不被封号是否安全？我只是好奇</title>
+      <title>为什么我无法访问signulous？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e4zlm5/why_i_cannot_access_signulous/</link>
+      <description><![CDATA[我刚刚信任了中国证书，并侧载了 signulous 应用程序和 youtube reborn。现在 signulous 应用程序无法加载，无论我使用 Wifi 还是蜂窝数据，我都无法在任何浏览器中访问该页面。 无论如何，这玩意儿不起作用，我该如何从手机中删除证书，这玩意儿看起来很可疑。我在写这篇文章的时候，我的 iPhone 出现了一些延迟问题。以前从来没有发生过这种情况。 我在 iOS 18 测试版上，我有一部 iPhone 15 pro。    提交人    /u/chillinnDronn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e4zlm5/why_i_cannot_access_signulous/</guid>
+      <pubDate>Tue, 16 Jul 2024 20:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>从来没有听说过这件事，但是使用 Tik tok 插件而不被封号安全吗？我只是好奇</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4uk6c/never_heard_anythin_about_this_but_is_it_safe_to/</link>
       <description><![CDATA[.    由    /u/Xoscuy 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4uk6c/never_heard_anythin_about_this_but_is_it_safe_to/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>AppTesters 与 Signulous</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</link>
-      <description><![CDATA[大家好！ 目前，我有 Signulous 订阅，我刚刚得知 AppTesters 有终身选项，所以我愿意尝试。Signulous 是否有任何功能（如签署我自己的 ipas、启用通知、更改应用程序名称/标识符等）在 AppTesters 上不存在，或者我不会错过切换后的任何内容？此外，AT 上是否有 Signulous 没有的其他功能（除了终身购买）？ 提前谢谢大家！    提交人    /u/fckpepo   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 目前，我有 Signulous 订阅，我刚刚得知 AppTesters 有终身选项，所以我愿意尝试。Signulous 是否有任何功能（如签署我自己的 ipas、启用通知、更改应用程序名称/标识符等）在 AppTesters 上不存在，或者我不会错过切换后的任何内容？此外，AT 上是否有 Signulous 没有的其他功能（终身购买除外）？ 提前谢谢大家！    提交人    /u/fckpepo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</guid>
       <pubDate>Tue, 16 Jul 2024 13:08:07 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想安装侧面商店，但我发现您需要使用 Apple ID 登录应用程序。我看到有人说要使用刻录机 Apple ID。但这是为什么呢？我不能使用我的主应用程序吗？此外，如果我不能使用我的主应用程序并使用刻录机 Apple ID。应用程序还能正常工作吗？    提交人    /u/MaazzYT   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4fkqt/safe_to_use_my_main/</guid>
       <pubDate>Tue, 16 Jul 2024 04:21:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需禁用防撤销功能即可更新吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e4egb4/be_able_to_update_without_disabling_the_antirevoke/</link>
-      <description><![CDATA[我最近搜索了如何更新我的手机并保持 DNS 开启，我发现了 2 个 chatgpt 说要启用的拒绝列表，我想知道你们对此的看法以及它是否有效？ mesu.apple.com gdmf.apple.com    提交人    /u/exowolf18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e4egb4/be_able_to_update_without_disabling_the_antirevoke/</guid>
-      <pubDate>Tue, 16 Jul 2024 03:20:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
