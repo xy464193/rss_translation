@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 16 Jul 2024 21:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 00:40:49 GMT</lastBuildDate>
+    <item>
+      <title>可以在 ios 上运行 flash cs6 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e53j5h/is_it_possible_to_run_flash_cs6_on_ios/</link>
+      <description><![CDATA[我想使用动画应用程序 flash cs6，但您需要一台计算机来运行它。有没有办法在 ios 上运行它？请帮忙！    提交人    /u/Flinikk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e53j5h/is_it_possible_to_run_flash_cs6_on_ios/</guid>
+      <pubDate>Tue, 16 Jul 2024 23:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是黑名单？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e51zu4/what_is_blacklisting/</link>
+      <description><![CDATA[大家好，我正在努力弄清楚黑名单是如何工作的。就目前而言，我的理解是，黑名单适用于您的设备 UDID，这意味着即使您在撤销后获得了新证书，您仍然无法使用它和侧载 IPA。显然，唯一的解决办法是将手机恢复出厂设置。  我不确定这是否正确，但一位 reddit 用户告诉我，如果您拥有开发人员证书，显然您不会被列入黑名单……这是真的吗？ 最后，这种情况发生的频率是多少？为什么？    提交人    /u/vittosturi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e51zu4/what_is_blacklisting/</guid>
+      <pubDate>Tue, 16 Jul 2024 22:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧版 Minecraft</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e50zhr/old_minecraft/</link>
+      <description><![CDATA[我正在尝试侧载旧版 Minecraft，当我尝试这样做（使用 sideloadly）时，它告诉我它仅与 iPhone 10,2 之类的东西兼容（我有一部 iph13）有没有什么办法可以绕过这个问题？    提交人    /u/BoiledEggies   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e50zhr/old_minecraft/</guid>
+      <pubDate>Tue, 16 Jul 2024 21:51:23 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我无法访问signulous？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4zlm5/why_i_cannot_access_signulous/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>AppTesters 与 Signulous</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</link>
-      <description><![CDATA[大家好！ 目前，我有 Signulous 订阅，我刚刚得知 AppTesters 有终身选项，所以我愿意尝试。Signulous 是否有任何功能（如签署我自己的 ipas、启用通知、更改应用程序名称/标识符等）在 AppTesters 上不存在，或者我不会错过切换后的任何内容？此外，AT 上是否有 Signulous 没有的其他功能（终身购买除外）？ 提前谢谢大家！    提交人    /u/fckpepo   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 目前，我有 Signulous 订阅，我刚刚得知 AppTesters 有终身选项，所以我愿意尝试。Signulous 是否有任何功能（如签署我自己的 ipas、启用通知、更改应用程序名称/标识符等）在 AppTesters 上不存在，或者我不会错过切换后的任何内容？此外，AT 上是否有 Signulous 没有的其他功能（除了终身购买）？ 提前谢谢大家！    提交人    /u/fckpepo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4o7og/apptesters_vs_signulous/</guid>
       <pubDate>Tue, 16 Jul 2024 13:08:07 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[有没有办法在不使用任何计算机或像 Scarlet 一样突然被撤销的情况下获得侧载？    提交人    /u/Miktoman_122   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4jw6z/is_there_a_way_to_sideload_without_computer_nor/</guid>
       <pubDate>Tue, 16 Jul 2024 08:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous injustice 2 我无法打开它，有什么办法可以修复它吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e4i5gm/signulous_injustice_2_i_cant_open_it_is_there_a/</link>
-      <description><![CDATA[我从 signulous 下载的应用程序无法打开，有人能帮忙吗？    提交人    /u/Jamalfortnite7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e4i5gm/signulous_injustice_2_i_cant_open_it_is_there_a/</guid>
-      <pubDate>Tue, 16 Jul 2024 07:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 livecontainer 运行 Instagram 时出错</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e4gojf/error_running_instagram_using_livecontainer/</link>
-      <description><![CDATA[Instagram 以前运行良好，但今天开始出现此错误，如何修复它 dlopen(/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram, 0x0109): tried: &#39;/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (&lt;4C4C44BA-5555-3144-A1E0-B1001E88B4B6&gt; 中的代码签名无效) &#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (errno=1)sliceOffset=0x00000000，codeBlobOffset=0x062A9C90，codeBlobSize=0x00143C40)，&#39;/private/preboot/Cryptexes/OS/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (没有此文件)， &#39;/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (&lt;4C4C44BA-5555-3144-A1E0-B1001E88B4B6&gt; 中的代码签名无效&#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (errno=1)sliceOffset=0x00000000，codeBlobOffset=0x062A9C90，codeBlobSize=0x00143C40)，&#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (&lt;4C4C44BA-5555-3144-A1E0-B1001E88B4B6&gt; 中的代码签名无效&#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (errno=1)sliceOffset=0x00000000，codeBlobOffset=0x062A9C90，codeBlobSize=0x00143C40)，&#39;/private/preboot/Cryptexes/OS/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (没有此文件)， &#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (&lt;4C4C44BA-5555-3144-A1E0-B1001E88B4B6&gt; 中的代码签名无效&#39;/private/var/mobile/Containers/Data/Application/E3F08211-69E7-4B1C-A5E4-AA6D919489C6/Documents/Applications/Instagram.app/Instagram&#39; (errno=1)sliceOffset=0x00000000，codeBlobOffset=0x062A9C90，codeBlobSize=0x00143C40)    提交人    /u/Tefaaaa4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e4gojf/error_running_instagram_using_livecontainer/</guid>
-      <pubDate>Tue, 16 Jul 2024 05:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用我的主程序安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e4fkqt/safe_to_use_my_main/</link>
-      <description><![CDATA[我想安装侧面商店，但我发现您需要使用 Apple ID 登录应用程序。我看到有人说要使用刻录机 Apple ID。但这是为什么呢？我不能使用我的主应用程序吗？此外，如果我不能使用我的主应用程序并使用刻录机 Apple ID。应用程序还能正常工作吗？    提交人    /u/MaazzYT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e4fkqt/safe_to_use_my_main/</guid>
-      <pubDate>Tue, 16 Jul 2024 04:21:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
