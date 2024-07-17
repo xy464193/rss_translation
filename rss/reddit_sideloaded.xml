@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 17 Jul 2024 06:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 09:11:29 GMT</lastBuildDate>
+    <item>
+      <title>uYouPlus 在 Signulous 上立即崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e5brzd/uyouplus_instantly_crashing_on_signulous/</link>
+      <description><![CDATA[我昨天在 Signulous 中遇到了撤销。在重新链接我的设备并重新安装我自己的 IPA 应用程序（前天运行良好）后，该应用程序现在在打开时立即崩溃。情况如下： • Signulous 状态：已注册 • Signulous 应用程序：已安装并打开正常 • 常规设置：一切都受信任 • 开发者模式已打开 • 问题：我自己的 IPA 应用程序和 Signulous 的 uYou+ 应用程序都立即崩溃，但 Apollo 运行良好。 有人对如何修复此问题有任何建议吗？    提交人    /u/britney445   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e5brzd/uyouplus_instantly_crashing_on_signulous/</guid>
+      <pubDate>Wed, 17 Jul 2024 07:02:35 GMT</pubDate>
+    </item>
     <item>
       <title>支持 18 beta 吗？有人能给我指点入门教程吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e59oux/is_18_beta_supported_can_somebody_point_me_in_the/</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 16 Jul 2024 20:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>从来没有听说过这件事，但是使用 Tik tok 插件而不被封号是否安全？我只是好奇</title>
+      <title>从来没有听说过这件事，但是使用 Tik tok 插件而不被封号安全吗？我只是好奇</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e4uk6c/never_heard_anythin_about_this_but_is_it_safe_to/</link>
       <description><![CDATA[.    由    /u/Xoscuy 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4uk6c/never_heard_anythin_about_this_but_is_it_safe_to/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[看看我是否可以在 AltStore 上获得 FM24 触摸     由    /u/Joe_Mamma1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e4n0uq/can_you_get_paid_games_on_altstore/</guid>
       <pubDate>Tue, 16 Jul 2024 12:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有自己的服务器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e4m8e3/own_servers/</link>
-      <description><![CDATA[之前有一款游戏我想玩，但是服务器关闭了。有人说你需要启动自己的服务器，我该怎么做？    提交人    /u/Mammoth-Mix7287   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e4m8e3/own_servers/</guid>
-      <pubDate>Tue, 16 Jul 2024 11:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
