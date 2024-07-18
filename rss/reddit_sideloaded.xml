@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 18 Jul 2024 09:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 12:16:53 GMT</lastBuildDate>
+    <item>
+      <title>ESign 和应用程序侧载后随机开始崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e689ds/esign_and_apps_sideloaded_form_it_randomly/</link>
+      <description><![CDATA[我已经注意到这个问题很多次了，每次发生这种情况时，我都必须使用另一个证书从头开始做所有事情，这种情况一直发生，特别是当我重新启动手机时，它很有可能破坏 ESign 和我通过它下载的其他应用程序，导致我被列入证书黑名单 :( 如果发生一次，它就会一直发生，然后我就无法使用这些应用程序了     提交人    /u/bbsdieheartfan1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e689ds/esign_and_apps_sideloaded_form_it_randomly/</guid>
+      <pubDate>Thu, 18 Jul 2024 10:38:49 GMT</pubDate>
+    </item>
     <item>
       <title>接受中国花旗银行证书？还是等待？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e6692n/accept_the_china_citi_bank_certificate_or_wait/</link>
-      <description><![CDATA[我发现一些使用 Signulous 的人在访问他们的侧载时遇到了麻烦，包括我。我需要接受证书，但阅读一些人的评论，这非常可疑，并且使他们的手机变慢了。听起来很糟糕，我不想冒着新手机安全的风险。这是否意味着我们要等到一切恢复正常？     提交人    /u/Von_Stroheim   [link] [评论]]]></description>
+      <description><![CDATA[我发现一些使用 Signulous 的人在访问他们的侧载时遇到了麻烦，包括我。我需要接受证书，但阅读一些人的评论时发现它非常可疑，并且导致他们的手机变慢。听起来很糟糕，我不想冒着新手机安全的风险。这是否意味着我们要等到一切恢复正常？     提交人    /u/Von_Stroheim   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6692n/accept_the_china_citi_bank_certificate_or_wait/</guid>
       <pubDate>Thu, 18 Jul 2024 08:20:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[…    由    /u/Xoscuy 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e5j1l4/anyone_tried_wicked_on_snapchat_thinkin_of_tryin/</guid>
       <pubDate>Wed, 17 Jul 2024 14:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>eonhub 不工作？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e5iljj/eonhub_not_working/</link>
-      <description><![CDATA[eonhub 的证书已被吊销，目前将使用 samhub，他们获得了 dns 方法 scarlett nd esign     提交人    /u/Skullraised   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e5iljj/eonhub_not_working/</guid>
-      <pubDate>Wed, 17 Jul 2024 13:46:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
