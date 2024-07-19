@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 19 Jul 2024 18:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 21:08:05 GMT</lastBuildDate>
+    <item>
+      <title>如何通过 JIT 使用 Play! 模拟器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7ci7g/how_to_jit_to_use_play_emulator/</link>
+      <description><![CDATA[有没有办法在 IOS 中实现永久 JIT，而无需使用 PC？因为我没有它    提交人    /u/Dmmds0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7ci7g/how_to_jit_to_use_play_emulator/</guid>
+      <pubDate>Fri, 19 Jul 2024 19:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>遇到“需要 iOS 16.0 或更高版本”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7aqwk/running_into_requires_ios_160_or_later/</link>
+      <description><![CDATA[我有一部运行 iOS 15.7 的 iPhone 11，它允许我使用 TrollStore。我一直避免升级，但现在无法使用大多数非侧载应用程序（Uber、银行应用程序等），因为它们将我重定向到 App Store 进行更新。当我尝试在 App Store 上更新时，它显示“需要 iOS 16.0 或更高版本”。我该怎么做才能继续在旧 iOS 上使用这些应用程序。 有什么解决方法吗？还是我应该咬紧牙关升级我的 iOS，然后只使用 sideloadly 或其他东西。 谢谢！    提交人    /u/NSeth99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7aqwk/running_into_requires_ios_160_or_later/</guid>
+      <pubDate>Fri, 19 Jul 2024 18:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>阴天侧载？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e73t9q/overcast_sideload/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我很久没有尝试打开它了，但我从 Signulous 加载的应用程序确实打开了。但是，Signulous 无法再在我的手机上打开，而且我没有将任何设置（如开发者模式）更改为关闭    提交人    /u/Pitiful_Error_4388   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6qtyy/why_wont_signulous_open_on_my_iphone/</guid>
       <pubDate>Fri, 19 Jul 2024 00:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有关 ESign 自定义 NextDNS 的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6o2sd/i_need_help_with_esign_custom_nextdns/</link>
-      <description><![CDATA[我把哪些链接放入了拒绝名单，因为我不确定我是否也把划掉的链接放进去了？我究竟如何将 AdBlocking 放入 NextDNS 上的自定义 DNS 中？    提交人    /u/Then_Medium2424   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6o2sd/i_need_help_with_esign_custom_nextdns/</guid>
-      <pubDate>Thu, 18 Jul 2024 22:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 无日志</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6nnf4/esign_no_log/</link>
-      <description><![CDATA[我可以安装无日志的 esign 并卸载原始 esign 吗？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6nnf4/esign_no_log/</guid>
-      <pubDate>Thu, 18 Jul 2024 22:09:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
