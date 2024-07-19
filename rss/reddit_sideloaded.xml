@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:09:57 GMT</lastBuildDate>
+    <item>
+      <title>阴天侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e73t9q/overcast_sideload/</link>
+      <description><![CDATA[有人有 Overcast 播客应用的 ipa 吗？最新更新完全掩盖了 UI/UX，我想回到旧版本。    提交人    /u/Infinite_Scene   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e73t9q/overcast_sideload/</guid>
+      <pubDate>Fri, 19 Jul 2024 13:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>sideload 下载速度很慢</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e72rao/sideloadly_download_slow/</link>
+      <description><![CDATA[我无法在 Windows 上下载 sideloadly，它需要很长时间，超过几个小时    由    /u/kiingqz_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e72rao/sideloadly_download_slow/</guid>
+      <pubDate>Fri, 19 Jul 2024 12:40:13 GMT</pubDate>
+    </item>
     <item>
       <title>崛起：66 生命重置计划</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e71mwz/rise_66_life_reset_program/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我可以安装无日志的 esign 并卸载原始 esign 吗？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6nnf4/esign_no_log/</guid>
       <pubDate>Thu, 18 Jul 2024 22:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 uyouplus 中更改寻道时间</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6buim/change_seek_time_in_uyouplus/</link>
-      <description><![CDATA[大家好，我正在使用 uyouplus 19.21.2-3.0.4，我似乎找不到更改双击时寻道时间的选项（默认为 10 秒）。有人知道怎么改变吗？非常感谢！    提交人    /u/PandaTheCommunist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6buim/change_seek_time_in_uyouplus/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 和应用程序侧载后随机开始崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e689ds/esign_and_apps_sideloaded_form_it_randomly/</link>
-      <description><![CDATA[我已经注意到这个问题很多次了，每次发生这种情况时，我都必须使用另一个证书从头开始做所有事情，这种情况一直发生，特别是当我重新启动手机时，它很有可能破坏 ESign 和我通过它下载的其他应用程序，导致我被列入证书黑名单 :( 如果发生一次，它就会一直发生，然后我就无法使用这些应用程序了     提交人    /u/bbsdieheartfan1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e689ds/esign_and_apps_sideloaded_form_it_randomly/</guid>
-      <pubDate>Thu, 18 Jul 2024 10:38:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
