@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:12:46 GMT</lastBuildDate>
+    <item>
+      <title>Maplesign 目前已用完</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e6v486/maplesign_currently_out_of_slots/</link>
+      <description><![CDATA[大家好， 我刚刚购买了 maplesign 证书，正在尝试获取 UDID。但是，我从他们的 discord 服务器收到以下消息： “我们目前没有此设备类型的插槽，插槽将在几个小时内补充。我们会通知您！” 这是什么意思，该怎么办？    提交人    /u/monsieurcliffe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e6v486/maplesign_currently_out_of_slots/</guid>
+      <pubDate>Fri, 19 Jul 2024 04:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sierra 应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e6u07k/sierra_app/</link>
+      <description><![CDATA[我当时正在对“sierra.app”应用进行快速分析，这是 ESign 的替代方案。如果你查看他们的主页，你会发现一个虚假的下载计数器，当你点击 PC 下载时会出现拼写错误，一个看似虚假的声明，即该应用是由前 Apple 员工制作的，等等。 不用说，这激起了我的好奇心。我在旧的越狱手机上下载了该应用，解密了 IPA，并将其发送到我的笔记本电脑上。我才刚刚开始研究它，但在主 plist 文件中，它似乎可能会获取位置数据并具有蓝牙访问权限（为什么签名应用需要这两个功能？？？）。 另一方面，这可能没什么。我的工作主要关注软件供应链漏洞，所以我对 IOS 不是很熟悉。话虽如此，我个人对任何考虑使用这个应用的人都会持谨慎态度。  我所引用的屏幕截图：https://imgur.com/a/fUWJEX2 编辑：忘了提它具有 VoIP 功能 👍    提交人    /u/Sharp_Listen3436   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e6u07k/sierra_app/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>未来更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e6s8tx/future_update/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>接受中国花旗银行证书？还是等待？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e6692n/accept_the_china_citi_bank_certificate_or_wait/</link>
-      <description><![CDATA[我发现一些使用 Signulous 的人在访问他们的侧载时遇到了麻烦，包括我。我需要接受证书，但阅读一些人的评论，这非常可疑，并且使他们的手机变慢了。听起来很糟糕，我不想冒着新手机安全的风险。这是否意味着我们要等到一切恢复正常？     提交人    /u/Von_Stroheim   [link] [评论]]]></description>
+      <description><![CDATA[我发现一些使用 Signulous 的人在访问他们的侧载时遇到了麻烦，包括我。我需要接受证书，但阅读一些人的评论时发现它非常可疑，并且导致他们的手机变慢。听起来很糟糕，我不想冒着新手机安全的风险。这是否意味着我们要等到一切恢复正常？     提交人    /u/Von_Stroheim   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6692n/accept_the_china_citi_bank_certificate_or_wait/</guid>
       <pubDate>Thu, 18 Jul 2024 08:20:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[是否有任何调整图像我可以用来绕过 instagram 操作块     提交人    /u/Code8761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e5xyle/instagram_action_block/</guid>
       <pubDate>Thu, 18 Jul 2024 00:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 免费侧载更新 7/17/24 [VPN] [IOS 更新] [无日志] 及更多！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e5tkgo/esign_free_sideloading_update_71724_vpn_ios/</link>
-      <description><![CDATA[您好，侧载社区！ 今天是历史性的一天，因为我们现在可以使用带有 ESign DNS 防撤销功能的 VPN！ ESign NoLogs 可从 swaggy repo 获得！ iOS 更新不再被阻止并且不会撤销侧载应用程序！ （需要设置您自己的 DNS 指南） 这基本上意味着您可以更新 IOS 而无需禁用 DNS 并重新进行整个设置！ 所有这些都表明使用此方法的每个缺点现在都消失了！ 请参阅整个指南中的更新，以设置最佳的免费侧载！ 还添加了一个链接，使用您为反撤销设置的相同自定义 DNS 向 iOS 添加广告拦截（这样人们就不会再问我有关广告拦截的问题了） 感谢 u/Ornery_Ingenuity3178 更新指南并添加自定义 DNS 和u/bbsdieheartfan1 偶然发现了一款​​不会泄漏 DNS 的 VPN！如果有人发现另一款不会泄漏 DNS 的 VPN，请给我留言，我会添加它。 🤙    提交人    /u/PuReEnVyUs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e5tkgo/esign_free_sideloading_update_71724_vpn_ios/</guid>
-      <pubDate>Wed, 17 Jul 2024 21:14:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous UDID 推送通知不可用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e5rtyu/signulous_udid_push_notifications_not_available/</link>
-      <description><![CDATA[自从苹果最近挥舞斧头以来，有人知道什么时候可以使用 uyou+ 等应用程序和其他使用 UDID 和 Signulous 的应用程序的通知吗？     提交人    /u/Miggidymoggidymoog   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e5rtyu/signulous_udid_push_notifications_not_available/</guid>
-      <pubDate>Wed, 17 Jul 2024 20:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
