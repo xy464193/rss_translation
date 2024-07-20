@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 20 Jul 2024 00:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 03:09:41 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么网站或应用程序可以让我下载 ipa 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7l03z/is_there_any_websites_or_apps_that_let_me/</link>
+      <description><![CDATA[我想为我的手机下载 API 文件，以便使用 Esign 对其进行签名并安装它们，但我不知道我们如何找到好的 api 网站。    提交人    /u/Idontremeber10   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7l03z/is_there_any_websites_or_apps_that_let_me/</guid>
+      <pubDate>Sat, 20 Jul 2024 02:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiveContainer 是否支持 iOS 18？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7jmnt/does_livecontainer_support_ios_18/</link>
+      <description><![CDATA[title    由   提交  /u/Which_Isopod_4606   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7jmnt/does_livecontainer_support_ios_18/</guid>
+      <pubDate>Sat, 20 Jul 2024 01:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>直接在应用程序中打开 YouTube 链接</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e7i1o8/open_youtube_links_directly_to_app/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我使用 Esign 侧载了 Facebook，现在我遇到的问题是，每当我点击 Messenger 中分享的 Facebook 帖子链接时，Facebook 应用程序都会打开，但它会显示在“主页”选项卡上，而不是帖子上。有什么解决办法吗？谢谢。    提交人    /u/leminhhieuctvn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6wt3g/sideload_facebook_with_esign_problems/</guid>
       <pubDate>Fri, 19 Jul 2024 06:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maplesign 目前已用完</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6v486/maplesign_currently_out_of_slots/</link>
-      <description><![CDATA[大家好， 我刚刚购买了 maplesign 证书，正在尝试获取 UDID。但是，我从他们的 discord 服务器收到以下消息： “我们目前没有此设备类型的插槽，插槽将在几个小时内补充。我们会通知您！” 这是什么意思，该怎么办？    提交人    /u/monsieurcliffe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6v486/maplesign_currently_out_of_slots/</guid>
-      <pubDate>Fri, 19 Jul 2024 04:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sierra 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6u07k/sierra_app/</link>
-      <description><![CDATA[我当时正在对“sierra.app”应用进行快速分析，这是 ESign 的替代方案。如果你查看他们的主页，你会发现一个虚假的下载计数器，当你点击 PC 下载时会出现拼写错误，一个看似虚假的声明，即该应用是由前 Apple 员工制作的，等等。 不用说，这激起了我的好奇心。我在旧的越狱手机上下载了该应用，解密了 IPA，并将其发送到我的笔记本电脑上。我才刚刚开始研究它，但在主 plist 文件中，它似乎可能会获取位置数据并具有蓝牙访问权限（为什么签名应用需要这两个功能？？？）。 另一方面，这可能没什么。我的工作主要关注软件供应链漏洞，所以我对 IOS 不是很熟悉。话虽如此，我个人对任何考虑使用这个应用的人都会持谨慎态度。  我所引用的屏幕截图：https://imgur.com/a/fUWJEX2 编辑：忘了提它具有 VoIP 功能 👍    提交人    /u/Sharp_Listen3436   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6u07k/sierra_app/</guid>
-      <pubDate>Fri, 19 Jul 2024 03:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
