@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:39:40 GMT</lastBuildDate>
+    <item>
+      <title>直接在应用程序中打开 YouTube 链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7i1o8/open_youtube_links_directly_to_app/</link>
+      <description><![CDATA[我有这个来打开 YouTube 链接到原生 YouTube 移动应用。只需粘贴、生成并在您的社交网络中使用它即可。上帝保佑。 https://abriryt.com    由   提交  /u/audiopr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7i1o8/open_youtube_links_directly_to_app/</guid>
+      <pubDate>Fri, 19 Jul 2024 23:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有 Hustle Castle 的调整版 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7heqy/is_there_a_tweaked_ipa_for_hustle_castle/</link>
+      <description><![CDATA[我最近一直在玩，你必须等待很长时间才能完成所有事情，这很无聊    由    /u/lewichis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7heqy/is_there_a_tweaked_ipa_for_hustle_castle/</guid>
+      <pubDate>Fri, 19 Jul 2024 23:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试侧载旧版 Minecraft 以怀旧，但它只显示 mojang 并崩溃或关闭应用程序。请帮忙</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e7eo2o/i_tried_to_sideload_an_old_version_of_minecraft/</link>
+      <description><![CDATA[我已经尝试了新版本的游戏，并且在 iPhone 6 和 13 上尝试过。    提交人    /u/AntiqueFlounder4745   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e7eo2o/i_tried_to_sideload_an_old_version_of_minecraft/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何通过 JIT 使用 Play! 模拟器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e7ci7g/how_to_jit_to_use_play_emulator/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我当时正在对“sierra.app”应用进行快速分析，这是 ESign 的替代方案。如果你查看他们的主页，你会发现一个虚假的下载计数器，当你点击 PC 下载时会出现拼写错误，一个看似虚假的声明，即该应用是由前 Apple 员工制作的，等等。 不用说，这激起了我的好奇心。我在旧的越狱手机上下载了该应用，解密了 IPA，并将其发送到我的笔记本电脑上。我才刚刚开始研究它，但在主 plist 文件中，它似乎可能会获取位置数据并具有蓝牙访问权限（为什么签名应用需要这两个功能？？？）。 另一方面，这可能没什么。我的工作主要关注软件供应链漏洞，所以我对 IOS 不是很熟悉。话虽如此，我个人对任何考虑使用这个应用的人都会持谨慎态度。  我所引用的屏幕截图：https://imgur.com/a/fUWJEX2 编辑：忘了提它具有 VoIP 功能 👍    提交人    /u/Sharp_Listen3436   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e6u07k/sierra_app/</guid>
       <pubDate>Fri, 19 Jul 2024 03:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来更新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6s8tx/future_update/</link>
-      <description><![CDATA[当 iOS 18 发布或更新时，我应该继续使用 iOS 17.5.1 吗？ 我不知道我是否应该等待有一天巨魔商店会在此版本上可用？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6s8tx/future_update/</guid>
-      <pubDate>Fri, 19 Jul 2024 01:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢在手机上进行 Sideload 的哪种方法？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6rqni/what_are_your_favorite_methods_to_sideload_on/</link>
-      <description><![CDATA[就我个人而言，我使用 Sideloadly，但我很快将使用证书切换到 E-Sign。    提交人    /u/ReasonableAd9362   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6rqni/what_are_your_favorite_methods_to_sideload_on/</guid>
-      <pubDate>Fri, 19 Jul 2024 01:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Signulous 无法在我的 iPhone 上打开？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e6qtyy/why_wont_signulous_open_on_my_iphone/</link>
-      <description><![CDATA[我很久没有尝试打开它了，但我从 Signulous 加载的应用程序确实打开了。但是，Signulous 无法再在我的手机上打开，而且我没有将任何设置（如开发者模式）更改为关闭    提交人    /u/Pitiful_Error_4388   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e6qtyy/why_wont_signulous_open_on_my_iphone/</guid>
-      <pubDate>Fri, 19 Jul 2024 00:39:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
