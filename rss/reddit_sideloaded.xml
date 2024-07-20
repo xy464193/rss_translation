@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 18:11:26 GMT</lastBuildDate>
+    <item>
+      <title>如何阻止 Esign 遥测。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e81amu/how_to_block_esign_telemetry/</link>
+      <description><![CDATA[有人告诉我 Esign 会将您的信息发送到他们在中国的服务器。但是，我仍然想使用它。那么有什么办法可以阻止它的传输吗？    提交人    /u/grandiloquence3   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e81amu/how_to_block_esign_telemetry/</guid>
+      <pubDate>Sat, 20 Jul 2024 17:47:12 GMT</pubDate>
+    </item>
     <item>
       <title>Signulous 推送通知</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e7x2fy/signulous_push_notifications/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想为我的手机下载 API 文件，以便使用 Esign 对其进行签名并安装它们，但我不知道我们如何找到好的 api 网站。    提交人    /u/Idontremeber10   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e7l03z/is_there_any_websites_or_apps_that_let_me/</guid>
       <pubDate>Sat, 20 Jul 2024 02:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>LiveContainer 是否支持 iOS 18？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e7jmnt/does_livecontainer_support_ios_18/</link>
-      <description><![CDATA[title    由   提交  /u/Which_Isopod_4606   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e7jmnt/does_livecontainer_support_ios_18/</guid>
-      <pubDate>Sat, 20 Jul 2024 01:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
