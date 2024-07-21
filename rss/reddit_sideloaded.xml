@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 21 Jul 2024 09:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:15:22 GMT</lastBuildDate>
+    <item>
+      <title>Altstore/Sidestore 与 Signulous 有关系吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e8j63h/altstoresidestore_with_signulous/</link>
+      <description><![CDATA[您好，我只想问一下 JB，但在 iOS 17 上我认为我不能，所以我一直在使用 Signulous...  想要充分利用 Sideloading.. 如果我已经拥有 Signulous，Altstore/Sidestore 对我有什么好处吗？ 我发现我可以使用 Signulous 上传我自己的应用程序，而不限于使用他们网站上列出的应用程序.. 在这种情况下，我可以在哪里下载可以通过 Signulous 轻松安装的其他应用程序？ TIA :-)    提交人    /u/Invader_86   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e8j63h/altstoresidestore_with_signulous/</guid>
+      <pubDate>Sun, 21 Jul 2024 10:19:50 GMT</pubDate>
+    </item>
     <item>
       <title>瓦图西与单线</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e8i2jc/watusi_con_singolus/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不知道我到底在做什么，因为这是我第一次，我不知何故设法直接从那里安装了 Scarlet，我使用 Streamer 的 IPA 通过 Scarlet 下载 Streamer。这里：https://github.com/StreamerApp/Streamer?tab=readme-ov-file  我可以打开应用程序并观看电影，但是当我想下载它们时，它说不支持在此设备上下载。这个网站似乎有一个解决方案：https://github.com/StreamerApp/Streamer/blob/main/download-error.md 但我不明白。请帮助我，我对这一切都很陌生。    提交人    /u/pandaram02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e7uusp/i_cant_download_on_the_streamer_app/</guid>
       <pubDate>Sat, 20 Jul 2024 12:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何下载 IPA 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e7u0w2/how_to_download_ipa_files/</link>
-      <description><![CDATA[我是 iPhone 和这个主题的新手，所以想问一下如何下载它们    提交人    /u/BenadrylAngyl   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e7u0w2/how_to_download_ipa_files/</guid>
-      <pubDate>Sat, 20 Jul 2024 12:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
