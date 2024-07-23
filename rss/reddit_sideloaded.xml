@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 23 Jul 2024 15:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 18:12:14 GMT</lastBuildDate>
+    <item>
+      <title>YTLitePlus</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eadn8p/ytliteplus/</link>
+      <description><![CDATA[如何在 iPhone 上下载 YTLitePlus？    由    /u/chillestmofo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eadn8p/ytliteplus/</guid>
+      <pubDate>Tue, 23 Jul 2024 17:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持 Carplay 的 Spotilife</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eadkaz/spotilife_with_carplay_support/</link>
+      <description><![CDATA[大家好， 正在寻找让 Spotify++/spotilife 与 Carplay 配合使用的方法，就像普通应用程序一样。 我已阅读了关于此问题的一些先前帖子，但它们都很旧，链接不再有效。在 Google 上搜索“spotify++ carplay”即可找到它们。 据我了解，侧载 IPA 都缺少允许应用程序被 Carplay 识别的权限。因此它没有显示出来。 有人有可以与 Carplay 配合使用的 IPA 版本吗？或者有其他方法可以让它工作？让这个东西工作起来将是锦上添花，哈哈 编辑：我认为这没什么区别，但我在 17.5.1 上使用带有 Altstore 的 iPhone 11。    提交人    /u/acampervan   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eadkaz/spotilife_with_carplay_support/</guid>
+      <pubDate>Tue, 23 Jul 2024 17:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>重置 iPhone 后我还能使用付费证书吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eac4a5/will_i_still_be_able_to_use_my_paid_cert_after_i/</link>
+      <description><![CDATA[title    由   提交  /u/Noah2570   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eac4a5/will_i_still_be_able_to_use_my_paid_cert_after_i/</guid>
+      <pubDate>Tue, 23 Jul 2024 16:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的 GPS 变换器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eaaxvw/free_gps_changer/</link>
+      <description><![CDATA[有没有其他可以替代 signulous 的方法，因为我真的不想为此每月支付 20 美元或每年支付 80 美元，或者只有一个完全免费的替代 AppStore 将不胜感激，提前谢谢。     提交人    /u/aztec_king2511   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eaaxvw/free_gps_changer/</guid>
+      <pubDate>Tue, 23 Jul 2024 15:37:54 GMT</pubDate>
+    </item>
     <item>
       <title>签名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ea9188/esign/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>使用免费 Esign 证书的会员在被撤销之前使用了多长时间</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ea1oh0/members_using_free_esign_certificates_for_how/</link>
-      <description><![CDATA[我使用的是 iOS 18，已将规则添加到我的 DNS 黑名单，还尝试直接从 github 使用 DNS 黑名单。但无论我做什么，几天之内证书都会被吊销。     提交人    /u/EloneMusk   [link] [评论]]]></description>
+      <description><![CDATA[我使用的是 iOS 18，已将规则添加到我的 DNS 阻止列表，还直接从 github 尝试了 DNS 阻止列表。但无论我做什么，几天之内证书都会被撤销。     提交人    /u/EloneMusk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ea1oh0/members_using_free_esign_certificates_for_how/</guid>
       <pubDate>Tue, 23 Jul 2024 07:24:12 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[嘿，Signulous 的撤销浪潮几天前就发生了。他们为我们提供了一个配置文件，允许我们再次侧载应用程序。但由于 Signulous 应用程序很垃圾，速度慢得要命，而且无法真正处理更大的上传量，我更喜欢使用 ESign。对于 ESign，我需要从 udid 注册中获得的证书，但他们仍然说我现在无法下载它，这很糟糕。  Signulous 支持只是一遍又一遍地回答相同的问题，这没有任何帮助  你们有同样的问题吗？    提交人    /u/JeyDesu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e9prod/still_cant_download_my_certificate_after/</guid>
       <pubDate>Mon, 22 Jul 2024 21:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ipa 安装程序帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</link>
-      <description><![CDATA[是否有人知道是否有一个应用程序允许您安装您下载的 ipa，而不是 iosgods 或其他第三方应用程序，因为它们全部或大多数证书已被吊销。 仅供参考，我对此真的不太了解，所以任何帮助都将不胜感激🙏。    提交人    /u/m1sterofpuppets   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助 flakestore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9lkvn/pls_help_with_flakestore/</link>
-      <description><![CDATA[      我已经验证过了，但是当我想进入应用程序时出现错误，我必须验证它。有解决方案吗？    提交人    /u/SadEntertainment9956   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9lkvn/pls_help_with_flakestore/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法将证书导入到 Flexstore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9g4ux/i_cant_import_cert_to_flekstore/</link>
-      <description><![CDATA[我看到您可以在 flekstore 中导入证书，然后我导入了 p12 并提供了移动配置并输入了密码，但是当我想确认时，它显示 [object Object] 并且什么都没有发生，这是一个开发者证书，我该如何解决这个问题？    提交人    /u/kiingqz_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9g4ux/i_cant_import_cert_to_flekstore/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[问题] uYouPlus：使用 PiP 并提高播放速度会导致视频播放器混乱。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9fjnd/question_uyouplus_using_pip_with_increased/</link>
-      <description><![CDATA[当我以 1.75 倍速播放视频并打开 PiP 时，视频会缓冲并停止。音频播放正常。旧版视频播放器可以正常播放视频，但会将其更改为 1.0 倍速。 有没有办法修复它，或者有任何其他 YouTube 替代应用可以通过这种方式播放视频？    提交人    /u/Meldi15   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9fjnd/question_uyouplus_using_pip_with_increased/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:22:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
