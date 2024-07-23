@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 09:10:02 GMT</lastBuildDate>
+    <item>
+      <title>使用免费 Esign 证书的会员在被撤销之前使用了多长时间</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ea1oh0/members_using_free_esign_certificates_for_how/</link>
+      <description><![CDATA[我使用的是 iOS 18，已将规则添加到我的 DNS 黑名单，还尝试直接从 github 使用 DNS 黑名单。但无论我做什么，几天之内证书都会被吊销。     提交人    /u/EloneMusk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ea1oh0/members_using_free_esign_certificates_for_how/</guid>
+      <pubDate>Tue, 23 Jul 2024 07:24:12 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube ++ 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e9xcph/youtube_help/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Ipa 安装程序帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</link>
-      <description><![CDATA[是否有人知道是否有一个应用程序允许您安装您下载的 ipa，而不是 iosgods 或其他第三方应用程序，因为它们全部或大多数证书已被吊销。 仅供参考，我真的对此不太了解，所以任何帮助都将不胜感激🙏。    提交人    /u/m1sterofpuppets   [link] [评论]]]></description>
+      <description><![CDATA[是否有人知道是否有一个应用程序允许您安装您下载的 ipa，而不是 iosgods 或其他第三方应用程序，因为它们全部或大多数证书已被吊销。 仅供参考，我对此真的不太了解，所以任何帮助都将不胜感激🙏。    提交人    /u/m1sterofpuppets   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</guid>
       <pubDate>Mon, 22 Jul 2024 20:10:48 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当经过调整的应用程序要求您输入 Apple 登录信息（例如：Documents plus）时，使用它登录是否安全，或者是否会危及我的 Apple ID？    提交人    /u/NoozPrime   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e951k7/sideapps/</guid>
       <pubDate>Mon, 22 Jul 2024 04:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密egg inc 1.33.2</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e8yh06/decrypt_egg_inc_1332/</link>
-      <description><![CDATA[有人有 egg incs 新更新 1.33.2 的解密 ipa 吗？或者有人可以给我看一个指南，告诉我在哪里可以学到自己动手做     提交人    /u/Effective-Row8394   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e8yh06/decrypt_egg_inc_1332/</guid>
-      <pubDate>Sun, 21 Jul 2024 22:29:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
