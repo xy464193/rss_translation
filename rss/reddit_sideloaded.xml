@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 22 Jul 2024 21:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 00:40:45 GMT</lastBuildDate>
+    <item>
+      <title>应用测试仪</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e9u9za/apptester/</link>
+      <description><![CDATA[它像 signulous 一样简单吗？我购买了 13 美元的计划，但现在我担心它会很难使用    提交人    /u/RaspberrySky395   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e9u9za/apptester/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>注意：侧边栏中的 discord 邀请链接已过期</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e9u5d2/note_discord_invite_link_in_sidebar_is_expired/</link>
+      <description><![CDATA[请输入    由   提交  /u/EVENTHORIZON-XI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e9u5d2/note_discord_invite_link_in_sidebar_is_expired/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signulous 撤销通知后仍然无法下载我的证书吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e9prod/still_cant_download_my_certificate_after/</link>
+      <description><![CDATA[嘿，Signulous 的撤销浪潮几天前就发生了。他们为我们提供了一个配置文件，允许我们再次侧载应用程序。但由于 Signulous 应用程序很垃圾，速度慢得要命，而且无法真正处理更大的上传量，我更喜欢使用 ESign。对于 ESign，我需要从 udid 注册中获得的证书，但他们仍然说我现在无法下载它，这很糟糕。  Signulous 支持只是一遍又一遍地回答相同的问题，这没有任何帮助  你们有同样的问题吗？    提交人    /u/JeyDesu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e9prod/still_cant_download_my_certificate_after/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:19:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ipa 安装程序帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</link>
-      <description><![CDATA[是否有人知道是否有一个应用程序允许您安装您下载的 ipa，而不是 iosgods 或其他第三方应用程序，因为它们全部或大多数证书已被吊销。 仅供参考，我对此真的不太了解，所以任何帮助都将不胜感激🙏。    提交人    /u/m1sterofpuppets   [link] [评论]]]></description>
+      <description><![CDATA[是否有人知道是否有一个应用程序允许您安装您下载的 ipa，而不是 iosgods 或其他第三方应用程序，因为它们全部或大多数证书已被吊销。 仅供参考，我真的对此不太了解，所以任何帮助都将不胜感激🙏。    提交人    /u/m1sterofpuppets   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e9o2jf/ipa_installer_help/</guid>
       <pubDate>Mon, 22 Jul 2024 20:10:48 GMT</pubDate>
     </item>
@@ -25,13 +46,6 @@
       <description><![CDATA[我正在寻找一种简单的方式来自己或从他们提供的商店签署应用程序，而且价格也实惠。我没有电脑，所以所有事情都需要在我的手机上完成。    提交人    /u/RaspberrySky395   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e9h2hv/is_signulous_the_best/</guid>
       <pubDate>Mon, 22 Jul 2024 15:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要免费 Spotify Premium 的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9h19o/need_help_for_free_spotify_premium/</link>
-      <description><![CDATA[我刚刚换了 iPhone，我知道我不能使用 happy mod，我试过使用 appdb，但没有用，有没有免费的方法可以免费下载 Spotify premium 或者有教程可以参考？    提交人    /u/AaronGarYT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9h19o/need_help_for_free_spotify_premium/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:25:15 GMT</pubDate>
     </item>
     <item>
       <title>我无法将证书导入到 Flexstore</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想玩 mini motorways，但不想影响 Apple Arcade 的试用，我只想要这一个游戏。安装使用 esign 签名的 iosgods 版本时，游戏打开时出现黑屏并立即崩溃。我也尝试过 mini metro，它立即崩溃了。其他非 Apple Arcade 游戏运行良好。（我使用了来自 senumy.com 的中国中信银行证书）    提交人    /u/karmayxzu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e8xjvx/installing_apple_arcade_game_with_esign/</guid>
       <pubDate>Sun, 21 Jul 2024 21:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 esign 安装 Apple Arcade 游戏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e8xj21/installing_apple_arcade_game_with_esign/</link>
-      <description><![CDATA[我想玩 mini motorways，但不想影响 Apple Arcade 的试用，我只想要这一个游戏。安装使用 esign 签名的 iosgods 版本时，游戏打开时出现黑屏并立即崩溃。我也尝试过 mini metro，它立即崩溃了。其他非 Apple Arcade 游戏运行正常。（我使用了来自 senumy.com 的中国中信银行证书）    提交人    /u/karmayxzu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e8xj21/installing_apple_arcade_game_with_esign/</guid>
-      <pubDate>Sun, 21 Jul 2024 21:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想使用 flekst0re</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e8wfis/i_wanna_use_flekst0re/</link>
-      <description><![CDATA[有没有办法通过某些服务免费获取 .p12 文件和 mobileprovision？    提交人    /u/LordNoah73YT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e8wfis/i_wanna_use_flekst0re/</guid>
-      <pubDate>Sun, 21 Jul 2024 20:57:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
