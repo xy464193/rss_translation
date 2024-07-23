@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 23 Jul 2024 03:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:12:53 GMT</lastBuildDate>
     <item>
       <title>YouTube ++ 帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e9xcph/youtube_help/</link>
@@ -62,13 +62,6 @@
       <pubDate>Mon, 22 Jul 2024 18:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>signulous 是最好的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1e9h2hv/is_signulous_the_best/</link>
-      <description><![CDATA[我正在寻找一种简单的方式来自己或从他们提供的商店签署应用程序，而且价格也实惠。我没有电脑，所以所有事情都需要在我的手机上完成。    提交人    /u/RaspberrySky395   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1e9h2hv/is_signulous_the_best/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:26:42 GMT</pubDate>
-    </item>
-    <item>
       <title>我无法将证书导入到 Flexstore</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1e9g4ux/i_cant_import_cert_to_flekstore/</link>
       <description><![CDATA[我看到您可以在 flekstore 中导入证书，然后我导入了 p12 并提供了移动配置并输入了密码，但是当我想确认时，它显示 [object Object] 并且什么都没有发生，这是一个开发者证书，我该如何解决这个问题？    提交人    /u/kiingqz_   [link] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[当经过调整的应用程序要求您输入 Apple 登录信息（例如：Documents plus）时，使用它登录是否安全，或者是否会危及我的 Apple ID？    提交人    /u/NoozPrime   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1e951k7/sideapps/</guid>
       <pubDate>Mon, 22 Jul 2024 04:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>解密egg inc 1.33.2</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1e8yh06/decrypt_egg_inc_1332/</link>
+      <description><![CDATA[有人有 egg incs 新更新 1.33.2 的解密 ipa 吗？或者有人可以给我看一个指南，告诉我在哪里可以学到自己动手做     提交人    /u/Effective-Row8394   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1e8yh06/decrypt_egg_inc_1332/</guid>
+      <pubDate>Sun, 21 Jul 2024 22:29:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
