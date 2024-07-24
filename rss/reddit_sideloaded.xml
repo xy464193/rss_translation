@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 24 Jul 2024 09:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:15:56 GMT</lastBuildDate>
+    <item>
+      <title>Sideloadly 与开发者帐户问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eazbcl/sideloadly_with_developer_account_issue/</link>
+      <description><![CDATA[我最近支付了一个 Apple 开发者账户。我正尝试使用 Sideloadly 将应用程序安装到我的 iPhone 和 iPad 上。虽然我能够在 iPad 上成功完成此操作，但当我尝试在 iPhone 上安装同一个应用程序时，安装结束时出现错误： 未找到此可执行文件的有效配置文件。 有人能帮忙解释为什么会这样吗？    提交人    /u/JHoliness   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eazbcl/sideloadly_with_developer_account_issue/</guid>
+      <pubDate>Wed, 24 Jul 2024 11:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的侧载工具？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eaxyf5/best_sideloading_tool/</link>
+      <description><![CDATA[我用过 troll store（我最喜欢的）alt store Esign 和 sideloadly 任何其他类似于 troll store 的，我的 iOS 版本都不支持    提交人    /u/NefariousnessSad2551   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eaxyf5/best_sideloading_tool/</guid>
+      <pubDate>Wed, 24 Jul 2024 10:21:50 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 上的 eSign 已彻底失效</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eau7o7/esign_is_completely_broken_ios_18/</link>
-      <description><![CDATA[到目前为止，我已经使用过 Jork the Pork 的方法和 Google Docs 指南，没有任何问题。我最近将手机更新到了 iOS 18 DB4，这需要我删除防撤销 DNS，并将我的 iPhone 列入黑名单。 我已经两次完全重置了我的 iPhone，希望它能摆脱黑名单，但没有一个链接可以重新安装 eSign。现在不知道该怎么做。任何指示都将不胜感激。    提交人    /u/Shubunkin42   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我已经使用过 Jork the Pork 的方法和 Google Docs 指南，没有任何问题。我最近将手机更新到了 iOS 18 DB4，需要我删除防撤销 DNS，并将我的 iPhone 列入黑名单。 我已经两次完全重置了我的 iPhone，希望它能摆脱黑名单，但没有一个链接可以重新安装 eSign。不知道现在该怎么做。任何指示都将不胜感激。    提交人    /u/Shubunkin42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eau7o7/esign_is_completely_broken_ios_18/</guid>
       <pubDate>Wed, 24 Jul 2024 06:13:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[是否有任何网站可以获得类似更新的 IPA，以及是否有人拥有或知道带有 dylib 文件的网站、discord、telegram？    提交人    /u/Fair_Initial_9838   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eagl3o/ipa_sites_or_if_anyone_has_a_telegram_discord/</guid>
       <pubDate>Tue, 23 Jul 2024 19:25:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLitePlus</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eadn8p/ytliteplus/</link>
-      <description><![CDATA[如何在 iPhone 上下载 YTLitePlus？    由    /u/chillestmofo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eadn8p/ytliteplus/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持 Carplay 的 Spotilife</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eadkaz/spotilife_with_carplay_support/</link>
-      <description><![CDATA[大家好， 正在寻找让 Spotify++/spotilife 与 Carplay 配合使用的方法，就像普通应用程序一样。 我已阅读了关于此问题的一些先前帖子，但它们都很旧，链接不再有效。在 Google 上搜索“spotify++ carplay”即可找到它们。 据我了解，侧载 IPA 都缺少允许应用程序被 Carplay 识别的权限。因此它没有显示出来。 有人有可以与 Carplay 配合使用的 IPA 版本吗？或者有其他方法可以让它工作？让这个东西工作起来将是锦上添花，哈哈 编辑：我认为这没什么区别，但我在 17.5.1 上使用带有 Altstore 的 iPhone 11。    提交人    /u/acampervan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eadkaz/spotilife_with_carplay_support/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:23:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
