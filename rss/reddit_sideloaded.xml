@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 24 Jul 2024 06:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 09:09:41 GMT</lastBuildDate>
+    <item>
+      <title>iOS 18 上的 eSign 已彻底失效</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eau7o7/esign_is_completely_broken_ios_18/</link>
+      <description><![CDATA[到目前为止，我已经使用过 Jork the Pork 的方法和 Google Docs 指南，没有任何问题。我最近将手机更新到了 iOS 18 DB4，这需要我删除防撤销 DNS，并将我的 iPhone 列入黑名单。 我已经两次完全重置了我的 iPhone，希望它能摆脱黑名单，但没有一个链接可以重新安装 eSign。现在不知道该怎么做。任何指示都将不胜感激。    提交人    /u/Shubunkin42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eau7o7/esign_is_completely_broken_ios_18/</guid>
+      <pubDate>Wed, 24 Jul 2024 06:13:05 GMT</pubDate>
+    </item>
     <item>
       <title>迄今为止我最喜欢的侧载应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eau1c3/my_favorite_sideloaded_apps_so_far/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 正在寻找让 Spotify++/spotilife 与 Carplay 配合使用的方法，就像普通应用程序一样。 我已阅读了关于此问题的一些先前帖子，但它们都很旧，链接不再有效。在 Google 上搜索“spotify++ carplay”即可找到它们。 据我了解，侧载 IPA 都缺少允许应用程序被 Carplay 识别的权限。因此它没有显示出来。 有人有可以与 Carplay 配合使用的 IPA 版本吗？或者有其他方法可以让它工作？让这个东西工作起来将是锦上添花，哈哈 编辑：我认为这没什么区别，但我在 17.5.1 上使用带有 Altstore 的 iPhone 11。    提交人    /u/acampervan   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eadkaz/spotilife_with_carplay_support/</guid>
       <pubDate>Tue, 23 Jul 2024 17:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>重置 iPhone 后我还能使用付费证书吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eac4a5/will_i_still_be_able_to_use_my_paid_cert_after_i/</link>
-      <description><![CDATA[title    由   提交  /u/Noah2570   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eac4a5/will_i_still_be_able_to_use_my_paid_cert_after_i/</guid>
-      <pubDate>Tue, 23 Jul 2024 16:25:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
