@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 28 Jul 2024 12:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 18:11:48 GMT</lastBuildDate>
+    <item>
+      <title>帮助设计</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eebt1i/help_esign/</link>
+      <description><![CDATA[这个问题问得真的很愚蠢，但是我在安装标志时遇到了麻烦，我想知道是否有人可以帮助我，比如指导我完成整个过程，我已经尝试阅读所有教程，但由于某种原因它仍然没有点击 如果有人能帮助我，我将不胜感激    提交人    /u/Vivid_Suspect171   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eebt1i/help_esign/</guid>
+      <pubDate>Sun, 28 Jul 2024 16:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eeveee Spotify premium 无法使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ee9kav/eeveee_spotify_premium_not_working/</link>
+      <description><![CDATA[我从 appdb 下载了 Eevee Spotify，应用程序运行良好，但高级版无法使用，我有免费计划    提交人    /u/DFD_21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ee9kav/eeveee_spotify_premium_not_working/</guid>
+      <pubDate>Sun, 28 Jul 2024 15:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我迷路了。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ee8syd/im_lost/</link>
+      <description><![CDATA[嗨，是否可以在不设置到期日期的情况下侧载应用程序？如果可以，您能向我解释一下如何操作吗？    提交人    /u/Unytix   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ee8syd/im_lost/</guid>
+      <pubDate>Sun, 28 Jul 2024 14:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ee8mys/how_do_i_sideload/</link>
+      <description><![CDATA[无需越狱，通过计算机侧载应用程序的最佳方法是什么？有人有教程吗？    提交人    /u/Financial_Pitch1630   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ee8mys/how_do_i_sideload/</guid>
+      <pubDate>Sun, 28 Jul 2024 14:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>较新的 spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ee7ne2/newer_spotify/</link>
+      <description><![CDATA[您好， 我现在使用 spotify 版本 8.8.78 和 spotilife 1.8。 （我在 2023 年 11 月下载了它）但现在应用程序有时无法加载歌曲并冻结。  有人有（可用的）较新的修改过的 spotift IPA 文件或可信赖的下载位置吗？ 最后一个支持小部件的版本。  我在我的 ipad 5de gen iPadOS 16.7.8 上使用它，我想用 altstore 安装它。     提交人    /u/BramB5807   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ee7ne2/newer_spotify/</guid>
+      <pubDate>Sun, 28 Jul 2024 13:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试将 Kodi 侧载到 ATV 4K (2022)，无需 i-devices。我有哪些选择？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ee696d/trying_to_sideload_kodi_to_atv_4k_2022_without/</link>
+      <description><![CDATA[嗨！我最近通过 Signulous 成功注册了我的 ATV 4k，我可以下载 Kodi IPA，它提示我使用 ifunbox 或 Apple 配置器侧载应用程序。  主要问题是我没有 ipad 或 iphone，我的 ATV 没有 usb c 输入，甚至尝试虚拟化 MacOs 也是徒劳的，因为我至少需要 MacOs 14（目前不受支持）来安装 Xcode 和 Apple 配置器，以便链接我的 ATV 并能够无线侧载。 我有什么选择？    提交人    /u/Khan_81   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ee696d/trying_to_sideload_kodi_to_atv_4k_2022_without/</guid>
+      <pubDate>Sun, 28 Jul 2024 12:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>KDT LiveContainer</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ee35qw/kdt_livecontainer/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我构建了最新的 github 版本 (19.08.2-3.0.3) 并将其安装在我的 iphone 上。底部栏的图标不见了，所以只有文字：主页、短裤、订阅等。isponsorblock 图标也不见了，而且总体来说有很多错误。是我构建错了，还是代码坏了？我使用的是 ios 16.6。    提交人    /u/RevolutionaryAd7036   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1edpx0b/is_the_latest_uyouplus_release_broken/</guid>
       <pubDate>Sat, 27 Jul 2024 20:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>获得无限侧载应用的最佳方式是什么，而无需向苹果支付 100 美元购买开发者工具</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edob7e/whats_the_best_way_to_get_unlimited_sideloaded/</link>
-      <description><![CDATA[title。太感谢了！阅读了一些 r/sideloaded 帖子，他们提到了 maplesign，但那些帖子是很久以前的，所以我想要一个更新的答案。非常感谢！    提交人    /u/ComfortableMilk4454   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edob7e/whats_the_best_way_to_get_unlimited_sideloaded/</guid>
-      <pubDate>Sat, 27 Jul 2024 19:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plex App 下载适用于 Scarlet 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edo7gp/plex_app_download_for_scarlet/</link>
-      <description><![CDATA[嘿，我正在尝试通过 Scarlet 下载破解版 Plex，因为我没有 Plex Pass，而且我不想付费解除播放限制。有人知道我需要安装哪个 repo 吗？    提交人    /u/AppleNeird2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edo7gp/plex_app_download_for_scarlet/</guid>
-      <pubDate>Sat, 27 Jul 2024 19:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>scarlet 上显示“无法打开 zip 文件”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ednq35/failed_to_open_zip_file_on_scarlet/</link>
-      <description><![CDATA[我正在尝试下载一个 iPA 文件，它显示“无法打开 zip 文件”，有人知道解决办法吗？    由   提交  /u/Ryoth_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ednq35/failed_to_open_zip_file_on_scarlet/</guid>
-      <pubDate>Sat, 27 Jul 2024 18:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买了 UDID 之后怎么办？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ednjk5/bought_udid_and_now_what/</link>
-      <description><![CDATA[我对侧载一些应用程序等很感兴趣，所以我得到了 UDID，因为它似乎是最好的。 仍在等待 72 小时过去，但同时可以使用临时签名者，但我唯一的问题是将 IPA 存储库复制到哪个应用程序最好？Scarlet 好用吗？    提交人    /u/Rare-Development-298   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ednjk5/bought_udid_and_now_what/</guid>
-      <pubDate>Sat, 27 Jul 2024 18:49:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>重启手机后，应用和 Esign 不断崩溃。如何永久修复此问题？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edn6ic/apps_and_esign_keeps_crashing_after_restarting/</link>
-      <description><![CDATA[我通过 ESign 安装了一些应用程序，重启手机后，我安装的所有应用程序都崩溃了。甚至是 ESign。我不得不删除它，用不同的证书安装它，然后重新下载所有内容。  为什么会发生这种情况？是 DNS 泄漏吗？有永久的解决方案吗？    提交人    /u/rezw4n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edn6ic/apps_and_esign_keeps_crashing_after_restarting/</guid>
-      <pubDate>Sat, 27 Jul 2024 18:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextDNS 免费帐户</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edmjdy/nextdns_free_account/</link>
-      <description><![CDATA[我已经开始使用 NextDNS 作为我自己的 DNS 过滤器来防止撤销。但是，我刚刚注意到它实际上并不免费，因为它每月仅分析 300,000 个查询。如果我不得不放弃 NextDNS，我可以使用的其他选项是什么。我已经尝试过 Khoindvn，但它会阻止 linkedin 和某些其他网站。    提交人    /u/haidersheikh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edmjdy/nextdns_free_account/</guid>
-      <pubDate>Sat, 27 Jul 2024 18:05:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
