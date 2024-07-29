@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 29 Jul 2024 00:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 03:10:58 GMT</lastBuildDate>
+    <item>
+      <title>两天内两次被signulous 撤销。可能是我的错？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eeolyx/revoked_twice_in_two_day_with_signulous_possibly/</link>
+      <description><![CDATA[我问这个问题是因为如果这是我的错，我不想再犯同样的错误。  两天前 signulous 给我发邮件说我的证书被吊销了，并让我重新安装应用程序。我照做了。证书仍然被吊销。我给支持部门发了邮件，他们说他们更改了我的个人资料，让我再试一次。成功了！  在这样做的时候，我试图弄清楚是否可以找到一种方法来从侧载应用程序中使用 vpn。特别是 aloha，因为它运行得很好，而我无法连接到 vpn。我被引导到 esign 的教程。  我觉得我让它工作了一段时间，但后来它被吊销了（可能是我在创建正确 DNS 的过程中犯的一个错误）我只是说“呃，我下次再试一次”删除了与 esign 相关的所有内容并继续返回 signulous。两天后我的证书再次被吊销。Signulous 说这是一个错误，我需要等到下个月底才能获得新的证书。  所以基本上我只是好奇是我的错误导致了这种情况的发生，还是这是我无法控制的事情。谢谢大家。     提交人    /u/Not_here_2conversate   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eeolyx/revoked_twice_in_two_day_with_signulous_possibly/</guid>
+      <pubDate>Mon, 29 Jul 2024 02:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign Spotilife</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eemxau/esign_spotilife/</link>
+      <description><![CDATA[有没有办法通过这个下载音乐？如果有人需要获取 spotilife 的方法，我会在评论中发布。     提交人    /u/Upstairs_Daikon893   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eemxau/esign_spotilife/</guid>
+      <pubDate>Mon, 29 Jul 2024 01:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>调整过应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eemmhx/tweaked_app/</link>
+      <description><![CDATA[Messager 有吗？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eemmhx/tweaked_app/</guid>
+      <pubDate>Mon, 29 Jul 2024 00:51:00 GMT</pubDate>
+    </item>
     <item>
       <title>应用程序离线运行良好，但它一直要求我更新，即使我关闭数据，应用程序也会自动切换到蜂窝网络……我不得不一遍又一遍地关闭它……救命</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eekxq1/app_is_working_fine_offline_but_it_keep_asking_me/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[标题总结了一切。我想在 altstore 上安装 dynamiccowTS。或者这是否可行，因为 .tipa 文件不是 .ipa 文件    提交人    /u/Aircool08   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ee32d9/how_to_install_trollstore_tipa_file_on_a_non/</guid>
       <pubDate>Sun, 28 Jul 2024 08:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sideloadly？或者其他应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edxmf1/sideloadly_or_other_app/</link>
-      <description><![CDATA[目前 sideloadly 无法检测到我的 iPhone，所以我现在无法使用该方法。还有其他我不知道的方法可以获取修改后的应用程序吗？我也试过 scarlet，但我猜它已经过时了。谢谢     提交人    /u/Upstairs_Daikon893   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edxmf1/sideloadly_or_other_app/</guid>
-      <pubDate>Sun, 28 Jul 2024 02:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以将我的电子签名证书与 Scarlet 一起使用吗？如果可以，如何使用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edvmge/can_i_use_my_esign_certificates_with_scarlet_if/</link>
-      <description><![CDATA[我试过在输入证书时输入，但输入失败    提交人    /u/TravelSquare6045   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edvmge/can_i_use_my_esign_certificates_with_scarlet_if/</guid>
-      <pubDate>Sun, 28 Jul 2024 01:06:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有可能吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1edulol/is_it_even_possible/</link>
-      <description><![CDATA[无需付费、越狱和 PC 即可进行侧载吗？    提交人    /u/Niparii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1edulol/is_it_even_possible/</guid>
-      <pubDate>Sun, 28 Jul 2024 00:11:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
