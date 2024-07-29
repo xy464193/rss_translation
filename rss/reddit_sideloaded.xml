@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 29 Jul 2024 03:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 06:13:11 GMT</lastBuildDate>
+    <item>
+      <title>电子签名麻烦</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eesboo/esign_troubles/</link>
+      <description><![CDATA[我最初使用 Esign 时，它可以工作，但随后，只要我打开它，它就会关闭应用程序，因此我重启了手机，因为我认为之后不会发生任何事情，果然它仍然不起作用，因此我删除了它，尝试恢复它，但所有证书都不起作用（经过这一切，我意识到问题可能出在我的 VPN 上）    提交人    /u/Appropriate-Pea-162   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eesboo/esign_troubles/</guid>
+      <pubDate>Mon, 29 Jul 2024 06:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮忙？我想在 iPad Pro 上播放 Sonolus</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eeprlx/help_i_wanna_play_sonolus_on_my_ipad_pro/</link>
+      <description><![CDATA[听说 Scarlett 很可疑，就像我听到有人说它会跟踪你的东西并且使用起来不安全，但后来又有人说它可以安全使用等等等等......我不知道真相是什么......你能回答我吗？我想玩 Sonolus......但我不想冒险让我 4 年旧的 iPad pro 12.9 英寸变成烂摊子或死机......    提交人    /u/Seaheartcon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eeprlx/help_i_wanna_play_sonolus_on_my_ipad_pro/</guid>
+      <pubDate>Mon, 29 Jul 2024 03:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>两天内两次被signulous 撤销。可能是我的错？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eeolyx/revoked_twice_in_two_day_with_signulous_possibly/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨！我最近通过 Signulous 成功注册了我的 ATV 4k，我可以下载 Kodi IPA，它提示我使用 ifunbox 或 Apple 配置器侧载应用程序。  主要问题是我没有 ipad 或 iphone，我的 ATV 没有 usb c 输入，甚至尝试虚拟化 MacOs 也是徒劳的，因为我至少需要 MacOs 14（目前不受支持）来安装 Xcode 和 Apple 配置器，以便链接我的 ATV 并能够无线侧载。 我有什么选择？    提交人    /u/Khan_81   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ee696d/trying_to_sideload_kodi_to_atv_4k_2022_without/</guid>
       <pubDate>Sun, 28 Jul 2024 12:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDT LiveContainer</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ee35qw/kdt_livecontainer/</link>
-      <description><![CDATA[为什么没有更多人谈论这个？说实话，这是一款非常棒的应用程序。使用 Sidestore 侧载它，然后就可以安装任意数量的应用程序，只需在其中一个上点击播放即可。 iOS 18 的错误已修复，几乎每个应用程序都可以运行，即使是那些注入了调整的应用程序。    提交人    /u/The_Dukes_Of_Hazzard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ee35qw/kdt_livecontainer/</guid>
-      <pubDate>Sun, 28 Jul 2024 08:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在未越狱的 Iphone 11 Pro A13 iOS 18.0 BETA 上安装 Trollstore .tipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ee32d9/how_to_install_trollstore_tipa_file_on_a_non/</link>
-      <description><![CDATA[标题总结了一切。我想在 altstore 上安装 dynamiccowTS。或者这是否可行，因为 .tipa 文件不是 .ipa 文件    提交人    /u/Aircool08   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ee32d9/how_to_install_trollstore_tipa_file_on_a_non/</guid>
-      <pubDate>Sun, 28 Jul 2024 08:51:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
