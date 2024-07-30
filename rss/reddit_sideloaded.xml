@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 30 Jul 2024 00:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 03:11:53 GMT</lastBuildDate>
+    <item>
+      <title>链接无法在 IPA 中打开⚠️</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1efhzu6/links_wont_open_in_ipa/</link>
+      <description><![CDATA[如何让链接在调整后的应用程序内打开，而不是在 Safari 中打开？例如：我单击 Instagram 个人资料的链接，它会在 Safari 中打开，而不是在调整后的 Instagram IPA 中打开。    提交人    /u/TikTokUser2001   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1efhzu6/links_wont_open_in_ipa/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRM 的屏幕共享</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1efhwvp/screen_share_of_drm/</link>
+      <description><![CDATA[有什么办法可以在 discord 上分享我的 iPad 屏幕，以便我的朋友们可以一起观看我的流媒体服务吗？任何 IPA 或隐藏的东西     提交人    /u/Sinrra   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1efhwvp/screen_share_of_drm/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wizz 应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1efhbnm/wizz_app/</link>
+      <description><![CDATA[有人有破解的 Wizz ipa 吗？比如无限请求和秘密聊天。    提交人    /u/WaifuHunterzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1efhbnm/wizz_app/</guid>
+      <pubDate>Tue, 30 Jul 2024 01:46:51 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么 ipa 可以看电视节目？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1efd4rx/any_ipa_to_watch_tv_shows/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[还有人有这个问题吗？当我从相机胶卷发布故事创作者时，应用程序崩溃了，什么也没发布。    提交人    /u/polofreaks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eexhug/rocket_crashing_when_posting_stories/</guid>
       <pubDate>Mon, 29 Jul 2024 11:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTMusicUltimate 不再适用于 Google Home 扬声器。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eewudm/ytmusicultimate_no_longer_works_with_google_home/</link>
-      <description><![CDATA[我收到以下消息：只有上传的音乐才能在您的扬声器上播放。一个月前运行良好。我正在运行最新版本，但问题仍然存在。请帮忙。     提交人    /u/bashar_20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eewudm/ytmusicultimate_no_longer_works_with_google_home/</guid>
-      <pubDate>Mon, 29 Jul 2024 11:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign Sideloaders 更新 - 好消息！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eevq2w/updates_for_esign_sideloaders_good_news/</link>
-      <description><![CDATA[对于那些尚未熟悉 Esign 的绕过撤销方法的人。 ↳ 完整上下文：指南  经过数周的共同努力，绕过撤销的默认 DNS 配置文件不再阻止 OTA 系统软件更新以及 Safari 翻译到 Watch 健康数据同步。虽然我贡献的新过滤器是从服务器端部署的，但我们仍然建议您从他的网站或直接从我的教程页面重新安装 DNS 配置文件。 Esign No Logs版本托管在 TrollStore GitHub Library 上，现在根据我的建议直接从 Khơindvn 的下载站点部署，这意味着“现在”那些注重隐私和安全的人不必再加倍努力。我已经请求 r/Sideloaded 的版主将 No Logs 的 Esign 版本也更新到最新版本，但如果有人想手动阻止它们，我的教程页面中列出了所有遥测链接。 之前，广告软件过滤器仅阻止 Mullvad 提供的遥测和恶意软件。经过我的探索和参与，之前的所有内容都已替换为 AdGuard DNS 过滤器，立即生效，现在可以真正阻止广告。对于那些想要自己复制的人：GitHub Repo  Tl;dr:  OTA 更新 ✓ Esign 无日志 ✓ 广告软件过滤器 ✓  总结：所以，现在……通过与原作者直接合作，Esign Bypass Revoke 方法的所有故障实际上都是从基层消除的。我相信，侧载应该是免费的，自 PC 时代以来就一直如此。 作者注：  我想让 Jakob 也参与进来，他是 notjakob 背后的策划者，参与到这个合作项目中，我也与他保持着直接联系，但遗憾的是他此时还有其他承诺，不过请留意未来的更新。🤞🏻  ​    提交人    /u/Avieshek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eevq2w/updates_for_esign_sideloaders_good_news/</guid>
-      <pubDate>Mon, 29 Jul 2024 10:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>设备已被列入黑名单。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eeshh7/device_got_blacklisted/</link>
-      <description><![CDATA[最近我的设备被苹果列入了黑名单。所以每当我尝试安装任何 ipa 时，它都会显示无法验证完整性。有什么方法可以将我的设备从黑名单中删除吗？还有什么预防措施，以便下次我不会被列入黑名单？    提交人    /u/NeverForget1984-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eeshh7/device_got_blacklisted/</guid>
-      <pubDate>Mon, 29 Jul 2024 06:19:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
