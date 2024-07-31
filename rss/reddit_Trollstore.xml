@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Wed, 31 Jul 2024 03:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:10:54 GMT</lastBuildDate>
+    <item>
+      <title>如果我使用 Troll Decrypt 保存已安装在手机上的 IPA，它会保留所有的注入/调整吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1egff1m/if_i_use_troll_decrypt_to_save_an_ipa_i_have/</link>
+      <description><![CDATA[我的意思是，我有一份非常过时的 SoundCloud++ 副本，但我在网上任何地方都找不到相同的 IPA，所以在我更新到“应该”已解锁所有高级功能的新版本之前，如果我使用 TD 保存我当前安装的 IPA 的副本，如果新更新的 IPA 不起作用，我可以安全地恢复到那个版本吗？    提交人    /u/Axl_Von_Urban   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1egff1m/if_i_use_troll_decrypt_to_save_an_ipa_i_have/</guid>
+      <pubDate>Wed, 31 Jul 2024 05:36:07 GMT</pubDate>
+    </item>
     <item>
       <title>奇怪的应用程序切换器故障，无法从中打开应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eetq44/weird_app_switcher_glitch_cant_open_apps_from_it/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，重启第一代 iPhone SE 后，越狱功能如预期般消失了。但是，TrollStore 及其安装的 IPA 仍然已签名并可正常工作。其他时候这种情况没有发生，我不得不重新越狱。我可以做些什么不同的事情来让这种情况发生？谢谢。    提交人    /u/HeadArtist2057   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1dzy9zc/help_with_trollstore_plz_1st_gen_iph_se/</guid>
       <pubDate>Wed, 10 Jul 2024 15:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>搭载 iOS 15 的 iPhone 13 Pro Max</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1dyy5ys/iphone_13_pro_max_on_ios_15/</link>
-      <description><![CDATA[我可以升级到的最高 iOS 版本是什么，并且仍然可以通过 Trollstore 安装无限量的 IPA，而无需重新签名和受到限制？    提交人    /u/GDLRM4   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1dyy5ys/iphone_13_pro_max_on_ios_15/</guid>
-      <pubDate>Tue, 09 Jul 2024 09:30:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
