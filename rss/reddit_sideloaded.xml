@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 31 Jul 2024 00:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 03:11:50 GMT</lastBuildDate>
     <item>
       <title>破解的屏幕录像机是否可以调整质量设置？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eg8y0l/cracked_screen_recorder_with_adjustable_quality/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>如何解密 IPA 文件而非应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eg5577/how_to_decrypt_ipa_files_not_app/</link>
-      <description><![CDATA[我想解密一个 ipa 文件，但我就是找不到方法，我使用的是 iOS 17.5.1，我不知道该怎么做，我还有一台安装了 iOS 12.5.7 和 Cydia 的 iPad mini 2，该应用程序不再在 AppStore 上，而且它是免费的，所以不是盗版：https://archive.org/details/asphalt-overdrive-ipa-collection 如果有人可以下载这个 ipa 并尝试解密它会有所帮助，此外，如果它与 iOS 17.5.1 不兼容，您可以使用 tooldump2，但仅限于 iOS 16 - 17.0    提交人    /u/No-Panda-9279   [链接] [评论]]]></description>
+      <description><![CDATA[我想解密一个 ipa 文件，但我就是找不到方法，我使用的是 iOS 17.5.1，我不知道该怎么做，我还有一台安装了 iOS 12.5.7 和 Cydia 的 iPad mini 2，该应用程序不再在 AppStore 上，而且是免费的，所以不是盗版：https://archive.org/details/asphalt-overdrive-ipa-collection 如果有人可以下载这个 ipa 并尝试解密它会有所帮助，此外，如果它与 iOS 17.5.1 不兼容，您可以使用 tooldump2，但仅限于 iOS 16 - 17.0    提交人    /u/No-Panda-9279   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eg5577/how_to_decrypt_ipa_files_not_app/</guid>
       <pubDate>Tue, 30 Jul 2024 21:22:15 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 30 Jul 2024 19:21:07 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Scar***“无法验证”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eg1nfc/scar_unable_to_verify/</link>
       <description><![CDATA[   https://preview.redd.it/2mt5aunqepfd1.png?width=591&amp;format=png&amp;auto=webp&amp;s=5bf05b6514b1b234ba0b7e580414cb5c0e23723b 大约 2 小时前，应用程序运行良好，现在发生了这种情况，有人知道他们的许可证是否被吊销了，或者它是否在我这边呢？配置文件仍然在“设置”中，每个应用仍然经过验证 另外，UDID 会阻止这种情况以后发生，对吧？ 另外，我并不是 100% 确定如何使用 UDID，它显然会签署 IPA，但就像我所有的应用都来自存储库，而不是下载的 IPA，我该如何签署通过 Scarlet 或 altstore 安装的存储库中的应用？    提交人    /u/Rare-Development-298   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eg1nfc/scar_unable_to_verify/</guid>
