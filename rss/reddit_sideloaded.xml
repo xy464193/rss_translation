@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 01 Aug 2024 03:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:13:04 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法在不使用 DNS 的情况下使用 Esign？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eh94qz/anyway_to_use_esign_without_dns/</link>
+      <description><![CDATA[我使用手机应用程序来记录我的工作时间。并且该应用程序必须关闭 DNS。 还有其他方法可以使用 ESIGN 吗？我应该使用外部 CERT，例如 APPTESTER 或 MAPLESIGN 吗？ 我正在使用 sideloadly。它很好，但是每周都必须使用电脑，这很烦人，而且 3 个应用程序是不够的    提交人    /u/shyrnr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eh94qz/anyway_to_use_esign_without_dns/</guid>
+      <pubDate>Thu, 01 Aug 2024 05:48:06 GMT</pubDate>
+    </item>
     <item>
       <title>Watusi 在原始 WhatsApp 上接听电话</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eh4y02/watusi_receive_calls_on_original_whatsapp/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>呼呼。哪个应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eh0yzj/huhuto_which_app/</link>
-      <description><![CDATA[嗨，我想问一下，我想用名为 oha.to 或 huhu.to 的网站观看 Rokkr 和 Watched 等电影和电视节目，有谁知道有支持这些网站的应用程序的 repo 或 ipa 吗？    提交人    /u/krass1234   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我想问一下，我想用 oha.to 或 huhu.to 网站观看类似 Rokkr 和 Watched 的电影和电视节目，有谁知道有支持这些网站的应用程序的 repo 或 ipa 吗？    提交人    /u/krass1234   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eh0yzj/huhuto_which_app/</guid>
       <pubDate>Wed, 31 Jul 2024 22:51:32 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我发现 youtube ipas 无法在 github 上发布，但创建者提供了一些文件供您自己构建。我该如何创建一个？ 修改：对于 YTliteplus，我发现它超级简单。如果有人需要它.. https://github.com/YTLitePlus/YTLitePlus/releases/tag/v19.29.1-4.0.1    提交人    /u/PODDAAA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1egox95/how_do_i_build_an_ipa/</guid>
       <pubDate>Wed, 31 Jul 2024 14:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBA 2K 移动版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1egnb8x/nba_2k_mobile/</link>
-      <description><![CDATA[嘿伙计们，我一直在寻找 NBA 2k Mobile 作弊工具，但我找不到，所以我想我会来这里，我正在寻找一个我可以使用的 IPA，它可以让我以某种方式获得好卡或其他东西，例如自动研磨事件，谢谢    提交人    /u/nitroedk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1egnb8x/nba_2k_mobile/</guid>
-      <pubDate>Wed, 31 Jul 2024 13:34:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
