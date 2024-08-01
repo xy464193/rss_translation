@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 01 Aug 2024 06:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:08:42 GMT</lastBuildDate>
+    <item>
+      <title>我的所有 ESign 应用程序均未经过验证</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ehbq4f/all_my_esign_apps_are_not_verified/</link>
+      <description><![CDATA[我认为打开我的 vpn 可能会导致这种情况，我的所有 ESign 应用程序在设置中都显示未经验证，但 scarlet 已通过验证，所以我是否必须卸载所有内容并重新安装以修复 ESign，或者有没有更简单的解决方法？    提交人    /u/No-Cap-1368   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ehbq4f/all_my_esign_apps_are_not_verified/</guid>
+      <pubDate>Thu, 01 Aug 2024 08:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>不义联盟 2 iosgod</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eh9p9y/injustice_2_iosgod/</link>
+      <description><![CDATA[有人能给个 injustice 2 iosgods 的 ipa 吗    提交人    /u/Jamalfortnite7   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eh9p9y/injustice_2_iosgod/</guid>
+      <pubDate>Thu, 01 Aug 2024 06:24:46 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法在不使用 DNS 的情况下使用 Esign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eh94qz/anyway_to_use_esign_without_dns/</link>
-      <description><![CDATA[我使用手机应用程序来记录我的工作时间。并且该应用程序必须关闭 DNS。 还有其他方法可以使用 ESIGN 吗？我应该使用外部 CERT，例如 APPTESTER 或 MAPLESIGN 吗？ 我正在使用 sideloadly。它很好，但是每周都必须使用电脑，这很烦人，而且 3 个应用程序是不够的    提交人    /u/shyrnr   [link] [评论]]]></description>
+      <description><![CDATA[在我的工作场所，运行一个检查我工作时间的应用程序，要登录该应用程序，您必须连接到特定的 Wi-Fi。而且由于该应用程序不允许使用 NEXTDNS 等外部 DNS，因此我必须关闭 NEXTDNS 才能访问该应用程序。我被列入了黑名单。 还有其他方法可以使用 ESIGN 吗？我应该使用 APPTESTER 或 MAPLESIGN 等外部 CERT 吗？ 我正在使用 sideloadly。它很好，但每周都必须使用电脑，这很烦人，而且 3 个应用程序还不够    提交人    /u/shyrnr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eh94qz/anyway_to_use_esign_without_dns/</guid>
       <pubDate>Thu, 01 Aug 2024 05:48:06 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>呼呼。哪个应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eh0yzj/huhuto_which_app/</link>
-      <description><![CDATA[嗨，我想问一下，我想用 oha.to 或 huhu.to 网站观看类似 Rokkr 和 Watched 的电影和电视节目，有谁知道有支持这些网站的应用程序的 repo 或 ipa 吗？    提交人    /u/krass1234   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我想问一下，我想用名为 oha.to 或 huhu.to 的网站观看 Rokkr 和 Watched 等电影和电视节目，有谁知道有支持这些网站的应用程序的 repo 或 ipa 吗？    提交人    /u/krass1234   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eh0yzj/huhuto_which_app/</guid>
       <pubDate>Wed, 31 Jul 2024 22:51:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿，我目前正在寻找一个可以观看和下载动漫的应用程序。你知道吗？    提交人    /u/Unytix   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1egu2cz/animés_application/</guid>
       <pubDate>Wed, 31 Jul 2024 18:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>同时使用多个版本的 X/Twitter</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1egqoge/multiple_versions_of_xtwitter_at_once/</link>
-      <description><![CDATA[我是否可以使用侧载来安装 2 个 X/Twitter 副本，每个副本安装在不同的帐户上？ 我喜欢这个家伙的建议，即拥有一个左翼帐户和一个右翼帐户，以便接触两个泡沫。 https://twitter.com/attorneyfrey/status/1818672462353059863?s=46 我不确定如果您在一个帐户中同时关注左翼和右翼，算法是否会向您显示相同的帖子。    提交人    /u/JohnLockeNJ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1egqoge/multiple_versions_of_xtwitter_at_once/</guid>
-      <pubDate>Wed, 31 Jul 2024 15:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建 .ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1egox95/how_do_i_build_an_ipa/</link>
-      <description><![CDATA[大家好，我发现 youtube ipas 无法在 github 上发布，但创建者提供了一些文件供您自己构建。我该如何创建一个？ 修改：对于 YTliteplus，我发现它超级简单。如果有人需要它.. https://github.com/YTLitePlus/YTLitePlus/releases/tag/v19.29.1-4.0.1    提交人    /u/PODDAAA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1egox95/how_do_i_build_an_ipa/</guid>
-      <pubDate>Wed, 31 Jul 2024 14:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
