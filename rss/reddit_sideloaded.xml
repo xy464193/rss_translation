@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 01 Aug 2024 15:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 18:11:40 GMT</lastBuildDate>
+    <item>
+      <title>Alderis.framework 缺少错误，我该如何修复？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ehmdr9/alderisframework_missing_error_how_i_can_fix_it/</link>
+      <description><![CDATA[您好，当我创建项目 uYouEnhanced 并使用 troll store 安装 ipa 时，应用程序 (youtube) 崩溃，崩溃日志如下: 这里 &quot;procName&quot; : &quot;YouTube&quot;, &quot;procPath&quot; : &quot;\/private\/var\/containers\/Bundle\/Application\/229A002C-FE72-4C97-9E30-5ECE9716C3F5\/YouTube.app\/YouTube&quot;, &quot;bundleInfo&quot; ：{&quot;CFBundleShortVersionString&quot;:&quot;19.29.1&quot;,&quot;CFBundleVersion&quot;:&quot;19.29.1&quot;,&quot;CFBundleIdentifier&quot;:&quot;com.google.ios.youtube&quot;,&quot;DTAppStoreToolsBuild&quot;:&quot;15F31e&quot;}, &quot;storeInfo&quot; ：{&quot;deviceIdentifierForVendor&quot;:&quot;1F11AC64-AA6E-439E-8B73-98C4B94086ED&quot;}, 但是我有它的应用程序框架/Alderis.framework，我真的不知道这个错误是什么以及如何修复它。你能帮助我吗？    提交人    /u/CanHead9544   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ehmdr9/alderisframework_missing_error_how_i_can_fix_it/</guid>
+      <pubDate>Thu, 01 Aug 2024 17:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLitePlus 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ehlw5b/ytliteplus_question/</link>
+      <description><![CDATA[刚刚从 uYouPlus 切换到现在的 YTLitePlus。  uYouPlus 有一个音量控制功能，我非常喜欢，您只需用手指在屏幕顶部中间向左或向右滑动即可调节音量。  我发现 YTLitePlus 似乎没有该功能，现在必须实际按下音量按钮，我检查了设置，但从我所看到的情况来看，找不到任何与此有关的东西。是我遗漏了什么还是 YTLitePlus 没有该功能？    提交人    /u/KiLLCraZy87   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ehlw5b/ytliteplus_question/</guid>
+      <pubDate>Thu, 01 Aug 2024 17:04:41 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找一个 IPA 应用程序来阻止应用程序访问互联网</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ehifej/i_am_looking_for_an_ipa_application_to_block/</link>
-      <description><![CDATA[我正在寻找一款 IPA 应用，以便使用 Sideloadly 阻止应用访问互联网。提前致谢    由    /u/djazairisky 提交   [link] [comments]]]></description>
+      <description><![CDATA[我正在寻找一款 IPA 应用，以使用 Sideloadly 阻止应用访问互联网。提前致谢    由    /u/djazairisky 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ehifej/i_am_looking_for_an_ipa_application_to_block/</guid>
       <pubDate>Thu, 01 Aug 2024 14:43:17 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>我的所有 ESign 应用程序均未经过验证</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ehbq4f/all_my_esign_apps_are_not_verified/</link>
-      <description><![CDATA[我认为打开我的 vpn 可能会导致这种情况，我的所有 ESign 应用程序在设置中都显示未验证，但 scarlet 已验证，所以我是否必须卸载所有内容并重新安装以修复 ESign，或者有没有更简单的解决方法？    提交人    /u/No-Cap-1368   [link] [评论]]]></description>
+      <description><![CDATA[我认为打开我的 vpn 可能会导致这种情况，我的所有 ESign 应用程序在设置中都显示未经验证，但 scarlet 已通过验证，所以我是否必须卸载所有内容并重新安装以修复 ESign，或者有没有更简单的解决方法？    提交人    /u/No-Cap-1368   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ehbq4f/all_my_esign_apps_are_not_verified/</guid>
       <pubDate>Thu, 01 Aug 2024 08:43:44 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[如标题所述，如何实现呢？    提交者    /u/leRetray   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eh4y02/watusi_receive_calls_on_original_whatsapp/</guid>
       <pubDate>Thu, 01 Aug 2024 01:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用猩红色</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eh4pnn/usescarlet/</link>
-      <description><![CDATA[当我进入 Scarlet 网站时，它只是一个黑屏。请帮我修复它    提交人    /u/El_Jax45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eh4pnn/usescarlet/</guid>
-      <pubDate>Thu, 01 Aug 2024 01:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>maplesign 和 apptester 等服务如何以如此低廉的价格获得证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eh2jxa/how_do_services_like_maplesign_and_apptesters_get/</link>
-      <description><![CDATA[Title^    由   提交  /u/Ornery_Ingenuity3178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eh2jxa/how_do_services_like_maplesign_and_apptesters_get/</guid>
-      <pubDate>Thu, 01 Aug 2024 00:03:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
