@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 02 Aug 2024 12:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 15:09:28 GMT</lastBuildDate>
+    <item>
+      <title>适用于 iOS 的下载器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eibbc9/downloader_for_ios/</link>
+      <description><![CDATA[我想在手机上下载一些文件和种子，当我使用安卓系统时，有几个应用程序，如 1dm 或 adm，可以在后台下载它们。但我在应用商店中找不到它，有什么我可以外部获取的吗？ios 上没有可靠的下载管理器支持屏幕关闭或后台下载吗？我看到苹果已经公开了一个 API https:// developer.apple.com/documentation/foundation/ ur_loading_system/ downloading_files_in_the_background    提交人    /u/Sinrra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eibbc9/downloader_for_ios/</guid>
+      <pubDate>Fri, 02 Aug 2024 14:22:23 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮忙</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ei6d5l/need_help/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[抱歉，至少对于 iOS 来说，我还是新手（主要是终生研究 Android），但我有兴趣尝试启用 JIT 并将一些应用程序（如 UTM）侧载到我的 M4 iPad Pro 11&quot; 上。我不希望越狱，我只想侧载一些应用程序，希望使用 SideJITServer 之类的东西在 JIT 上启动并运行 UTM。 无论如何，试图弄清楚在哪些设备和哪些 iOS/iPadOS 版本上可以使用哪种方法让我有点困惑。似乎你们大多数人都表示即使通过 iOS 18 也绝对有可能。  启用 UTM 后，我可以侧载它以使用 JIT 吗？ 我可以侧载该应用程序并在不越狱的情况下启用 JIT 吗？ 假设可以，那么最好的方法是什么？  谢谢！    提交人    /u/mightyarrow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ehgwor/m4_ipp_176_can_be_sideloaded/</guid>
       <pubDate>Thu, 01 Aug 2024 13:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>BHTikTok Plus v32.2.0 (3220120)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehfx9i/bhtiktok_plus_v3220_3220120/</link>
-      <description><![CDATA[刷新时出现 2008 错误，我读到它不再与我的 iOS 兼容。我使用的是 iPadOS beta 18.0。我在哪里可以找到适合我的版本？我有一个 Dev 帐户，我正在使用 AltStore 将其放在我的 iPad 上。提前谢谢您。    提交人    /u/laplumaanonymous   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehfx9i/bhtiktok_plus_v3220_3220120/</guid>
-      <pubDate>Thu, 01 Aug 2024 12:53:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
