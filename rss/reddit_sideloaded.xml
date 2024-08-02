@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 02 Aug 2024 03:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 06:14:10 GMT</lastBuildDate>
+    <item>
+      <title>IPAD MOBILE终端提示“无法打开文件，因为您没有查看它的权限”怎么办</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ei1ssu/how_to_fix_file_couldnt_be_opened_because_you/</link>
+      <description><![CDATA[因此，我尝试在新术语中使用 flexdecrypt 解密 ipa，我有一台搭载 iOS 12.5.7 的 iPad mini 2，但是每次我运行命令时都会出现这个特定错误：  Error Domain=NSCocoaErrorDomain Code=257 &quot;无法打开文件&quot;FileName&quot;，因为您无权查看它。&quot;  UserInfo={NSFilePath=/private/var/mobile/Documents/Appname.ipa/Payload/Appname.app, NSUnderlyingError=0x10120bf00 {Error Domain=NSPOS IXErrorDomain Code=13 &quot;Permission denied&quot;}&gt; 如果有人知道这件事，请帮忙✌️    提交人    /u/No-Panda-9279   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ei1ssu/how_to_fix_file_couldnt_be_opened_because_you/</guid>
+      <pubDate>Fri, 02 Aug 2024 05:05:24 GMT</pubDate>
+    </item>
     <item>
       <title>构建商店中设备的状态设置为不合格</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ehx0vu/ineligible_status_set_for_device_on_buildstore/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eheh68/developing_secure_mobile_applications_tips_and/</guid>
       <pubDate>Thu, 01 Aug 2024 11:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试获取一款旧的 Bigfish Games 游戏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehe85t/trying_to_get_an_old_bigfish_games_game/</link>
-      <description><![CDATA[大家好，希望我能得到一些帮助，因为我尝试了所有方法，从进入 ipa 存档到尝试给 mixrank（拥有大量 ipas 的公司）发送消息，试图获得游戏，即神秘案件档案 madame facta sonif 有人购买了请给我 ipa，我正在尝试存档这个游戏，非常感谢提前致谢    提交人    /u/Lanky-Path346   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehe85t/trying_to_get_an_old_bigfish_games_game/</guid>
-      <pubDate>Thu, 01 Aug 2024 11:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
