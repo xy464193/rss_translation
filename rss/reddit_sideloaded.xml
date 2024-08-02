@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 02 Aug 2024 18:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 21:09:33 GMT</lastBuildDate>
+    <item>
+      <title>如果我使用 ESign 更新会发生什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eiikk8/what_will_happen_if_i_update_with_esign/</link>
+      <description><![CDATA[我正在考虑使用我的电脑将我的 iPhone 更新到 iOS 17.6，这样就不会禁用 DNS。这会撤销我的 ESign 吗？    提交人    /u/spermcell   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eiikk8/what_will_happen_if_i_update_with_esign/</guid>
+      <pubDate>Fri, 02 Aug 2024 19:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何安装 scarlet ++</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eii7oe/how_to_install_scarlet/</link>
+      <description><![CDATA[我有一台 ipad os 16.7.8，我想安装 scarlet，我需要它的 ipa    提交人    /u/Negative-Scar9702   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eii7oe/how_to_install_scarlet/</guid>
+      <pubDate>Fri, 02 Aug 2024 19:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>将应用程序从手机传输到计算机以修改 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eihfob/transfering_app_from_phone_to_computer_to_modify/</link>
+      <description><![CDATA[我目前已下载原始应用程序，但我还想要一个经过调整的版本，当我尝试安装经过调整的版本时，它出错并说我已经拥有它了。 现在这个应用程序位于我在 Scarlet 中使用的存储库中，有没有办法将应用程序下载到我的手机上，然后将应用程序传输到我的电脑上，以便我可以编辑 bundleID？或者最好的方法是什么？    提交人    /u/Dry-Bat-3241   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eihfob/transfering_app_from_phone_to_computer_to_modify/</guid>
+      <pubDate>Fri, 02 Aug 2024 18:28:55 GMT</pubDate>
+    </item>
     <item>
       <title>Sidestore 无法安装 Mangayomi 仅当您使用 Sideloadly 时才有效</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eigvha/sidestore_cant_install_mangayomi_only_works_if/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>猩红</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ehwpvq/scarlet/</link>
-      <description><![CDATA[我有一台旧的 ipad，它使用的是 ios 9.3.5，我想知道 Scarlet 是否可以与它一起运行。如果不行，有人能告诉我哪些侧载应用程序可以与它配合使用吗？    提交人    /u/ImWeird62674   [link] [comments]]]></description>
+      <description><![CDATA[我有一台闲置的旧 iPad，它使用的是 iOS 9.3.5，我想知道 Scarlet 是否可以与它一起运行。如果不行，有人能告诉我哪些侧载应用程序可以与它配合使用吗？    提交人    /u/ImWeird62674   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ehwpvq/scarlet/</guid>
       <pubDate>Fri, 02 Aug 2024 00:41:56 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[有人遇到 uYou 问题吗？我的手机上有 uYou。版本 3.0.3。 以前可以正常下载音频和视频，但 signal 崩溃后，我不得不重新下载所有应用程序。 当我尝试下载任何音频时。它可以下载但卡在下载部分。我可以清楚地看到进度条已完成，但它仍然显示正在下载。 重新启动应用程序也无济于事。 有人有解决这个问题的办法吗？我尝试删除应用程序并重新安装多次，但仍然遇到同样的问题。    提交人    /u/GlobalBird4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eho46d/uyou_not_downloading/</guid>
       <pubDate>Thu, 01 Aug 2024 18:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alderis.framework 缺少错误，我该如何修复？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehmdr9/alderisframework_missing_error_how_i_can_fix_it/</link>
-      <description><![CDATA[您好，当我创建项目 uYouEnhanced 并使用 troll store 安装 ipa 时，应用程序 (youtube) 崩溃，崩溃日志如下: 这里 &quot;procName&quot; : &quot;YouTube&quot;, &quot;procPath&quot; : &quot;\/private\/var\/containers\/Bundle\/Application\/229A002C-FE72-4C97-9E30-5ECE9716C3F5\/YouTube.app\/YouTube&quot;, &quot;bundleInfo&quot; ：{&quot;CFBundleShortVersionString&quot;:&quot;19.29.1&quot;,&quot;CFBundleVersion&quot;:&quot;19.29.1&quot;,&quot;CFBundleIdentifier&quot;:&quot;com.google.ios.youtube&quot;,&quot;DTAppStoreToolsBuild&quot;:&quot;15F31e&quot;}, &quot;storeInfo&quot; ：{&quot;deviceIdentifierForVendor&quot;:&quot;1F11AC64-AA6E-439E-8B73-98C4B94086ED&quot;}, 但是我有它的应用程序框架/Alderis.framework，我真的不知道这个错误是什么以及如何修复它。你能帮助我吗？    提交人    /u/CanHead9544   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehmdr9/alderisframework_missing_error_how_i_can_fix_it/</guid>
-      <pubDate>Thu, 01 Aug 2024 17:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLitePlus 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehlw5b/ytliteplus_question/</link>
-      <description><![CDATA[刚刚从 uYouPlus 切换到现在的 YTLitePlus。  uYouPlus 有一个音量控制功能，我非常喜欢，您只需用手指在屏幕顶部中间向左或向右滑动即可调节音量。  我发现 YTLitePlus 似乎没有该功能，现在必须实际按下音量按钮，我检查了设置，但从我所看到的情况来看，找不到任何与此有关的东西。是我遗漏了什么还是 YTLitePlus 没有该功能？    提交人    /u/KiLLCraZy87   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehlw5b/ytliteplus_question/</guid>
-      <pubDate>Thu, 01 Aug 2024 17:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个 IPA 应用程序来阻止应用程序访问互联网</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehifej/i_am_looking_for_an_ipa_application_to_block/</link>
-      <description><![CDATA[我正在寻找一款 IPA 应用，以使用 Sideloadly 阻止应用访问互联网。提前致谢    由    /u/djazairisky 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehifej/i_am_looking_for_an_ipa_application_to_block/</guid>
-      <pubDate>Thu, 01 Aug 2024 14:43:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
