@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 02 Aug 2024 15:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:12:42 GMT</lastBuildDate>
+    <item>
+      <title>Sidestore 无法安装 Mangayomi 仅当您使用 Sideloadly 时才有效</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eigvha/sidestore_cant_install_mangayomi_only_works_if/</link>
+      <description><![CDATA[正如标题所说，我正在尝试从 Github ipa 文件安装 Mangayomi，当您尝试安装时总是会出现错误，但是当您尝试使用 Altserver 时也会发生这种情况。出于某种原因，此应用程序仅在您使用 Sideloadly 时安装。我做错什么了吗？    提交人    /u/Blaz3bullet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eigvha/sidestore_cant_install_mangayomi_only_works_if/</guid>
+      <pubDate>Fri, 02 Aug 2024 18:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么好的证书服务？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eifu13/any_good_service_for_certificates/</link>
+      <description><![CDATA[不久前，我从 iOS Rocket 购买了一个证书，它一直在工作，但却被随机撤销了，尽管它还有几个月才会过期。    提交人    /u/AlphaliusW   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eifu13/any_good_service_for_certificates/</guid>
+      <pubDate>Fri, 02 Aug 2024 17:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iOS 的下载器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eibbc9/downloader_for_ios/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在寻找一款 IPA 应用，以使用 Sideloadly 阻止应用访问互联网。提前致谢    由    /u/djazairisky 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ehifej/i_am_looking_for_an_ipa_application_to_block/</guid>
       <pubDate>Thu, 01 Aug 2024 14:43:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.5.1 如何进行侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehhc55/how_can_ios_1751_be_sideloaded/</link>
-      <description><![CDATA[我是侧载新手，请解释一下    提交人    /u/Ciaken85   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehhc55/how_can_ios_1751_be_sideloaded/</guid>
-      <pubDate>Thu, 01 Aug 2024 13:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>M4 IPP + 17.6 可以侧载吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehgwor/m4_ipp_176_can_be_sideloaded/</link>
-      <description><![CDATA[抱歉，至少对于 iOS 来说，我还是新手（主要是终生研究 Android），但我有兴趣尝试启用 JIT 并将一些应用程序（如 UTM）侧载到我的 M4 iPad Pro 11&quot; 上。我不希望越狱，我只想侧载一些应用程序，希望使用 SideJITServer 之类的东西在 JIT 上启动并运行 UTM。 无论如何，试图弄清楚在哪些设备和哪些 iOS/iPadOS 版本上可以使用哪种方法让我有点困惑。似乎你们大多数人都表示即使通过 iOS 18 也绝对有可能。  启用 UTM 后，我可以侧载它以使用 JIT 吗？ 我可以侧载该应用程序并在不越狱的情况下启用 JIT 吗？ 假设可以，那么最好的方法是什么？  谢谢！    提交人    /u/mightyarrow   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehgwor/m4_ipp_176_can_be_sideloaded/</guid>
-      <pubDate>Thu, 01 Aug 2024 13:38:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
