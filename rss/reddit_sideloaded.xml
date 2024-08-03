@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 03 Aug 2024 00:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 03:10:14 GMT</lastBuildDate>
+    <item>
+      <title>如何在 Esign 应用程序上启用 JIT？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eisc0x/how_to_enable_jit_on_esign_apps/</link>
+      <description><![CDATA[是否有方法让 JIT 在 Esign 应用上运行，就像在 Altstore、trollstore 或 Sideloadly 上一样？    提交人    /u/grandiloquence3   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eisc0x/how_to_enable_jit_on_esign_apps/</guid>
+      <pubDate>Sat, 03 Aug 2024 02:34:16 GMT</pubDate>
+    </item>
     <item>
       <title>为什么有些应用程序占用的应用程序位置超过 1 个？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eipu36/why_do_some_apps_take_up_more_app_slots_than_1/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[伙计们，我想知道涉及使用 DNS 的免费 esign 方法是否适用于 alt store，我只是想使用 altstore，因为我想使用 JIT 并使用一些 JIT 应用程序。如果您有任何其他免费的解决方案，请给我发送 DM。如果我错了，请纠正我，但我听说某处侧面 GIT 仅适用于侧面商店或 alt store 应用程序。    提交人    /u/bbsdieheartfan1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ei6d5l/need_help/</guid>
       <pubDate>Fri, 02 Aug 2024 10:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPAD MOBILE终端提示“无法打开文件，因为您没有查看它的权限”怎么办</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ei1ssu/how_to_fix_file_couldnt_be_opened_because_you/</link>
-      <description><![CDATA[因此，我尝试在新术语中使用 flexdecrypt 解密 ipa，我有一台搭载 iOS 12.5.7 的 iPad mini 2，但是每次我运行命令时都会出现这个特定错误：  Error Domain=NSCocoaErrorDomain Code=257 &quot;无法打开文件&quot;FileName&quot;，因为您无权查看它。&quot;  UserInfo={NSFilePath=/private/var/mobile/Documents/Appname.ipa/Payload/Appname.app, NSUnderlyingError=0x10120bf00 {Error Domain=NSPOS IXErrorDomain Code=13 &quot;Permission denied&quot;}&gt; 如果有人知道这件事，请帮忙✌️    提交人    /u/No-Panda-9279   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ei1ssu/how_to_fix_file_couldnt_be_opened_because_you/</guid>
-      <pubDate>Fri, 02 Aug 2024 05:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
