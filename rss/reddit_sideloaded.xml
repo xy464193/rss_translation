@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 02 Aug 2024 21:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 00:40:13 GMT</lastBuildDate>
+    <item>
+      <title>为什么有些应用程序占用的应用程序位置超过 1 个？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eipu36/why_do_some_apps_take_up_more_app_slots_than_1/</link>
+      <description><![CDATA[有些 .ipas 占用了多个应用程序位置，我只是想知道这是为什么。例如，EeveeSpotify 使用 7（我认为），但一个 .ipa 文件怎么可能算作多个应用程序？这些应用程序中是否有为不同架构或 iOS 版本构建的多个应用程序版本？只是好奇。    提交人    /u/NSTOPABALZ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eipu36/why_do_some_apps_take_up_more_app_slots_than_1/</guid>
+      <pubDate>Sat, 03 Aug 2024 00:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有海绵宝宝：比基尼海滩之战的 IPA 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eip4wd/does_anyone_have_a_working_ipa_for_spongebob/</link>
+      <description><![CDATA[到目前为止，我在网上找到的所有 IPA 都已过期，包括 AppDB。如果有人有的话，谢谢！:)    提交人    /u/TSCAlt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eip4wd/does_anyone_have_a_working_ipa_for_spongebob/</guid>
+      <pubDate>Fri, 02 Aug 2024 23:56:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>付费证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eioz87/paid_certificate/</link>
+      <description><![CDATA[如果我决定从 apptesters 购买高级证书，是否意味着我不再需要 DNS？    提交人    /u/exowolf18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eioz87/paid_certificate/</guid>
+      <pubDate>Fri, 02 Aug 2024 23:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计应用程序库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1einnci/esign_app_library/</link>
+      <description><![CDATA[有没有办法更改侧载应用程序在应用程序库中的类别？每当我通过 esign 侧载某些内容时，它只会出现在业务应用程序文件夹中，有没有办法更改它？谢谢     提交人    /u/Excellent-Leg-5530   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1einnci/esign_app_library/</guid>
+      <pubDate>Fri, 02 Aug 2024 22:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有浏览器可以解决这个问题？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ein8k0/is_there_a_browser_that_solves_this/</link>
+      <description><![CDATA[我试图在 Crunchyroll 上观看视频，但无法观看，它总是告诉我相同的错误。该页面设置了禁令，只有 Android 用户才能通过浏览器观看动漫，而我在 iPad 上尝试通过 Alook 浏览器访问，修改了用户代理。我从 Android 上放了一个，但出现了这个错误，您可以在图片中看到。我该怎么做才能解决这个问题？ 最有可能的原因是屏幕分辨率 这既不是让我使用该应用程序的解决方案，也不是让我以“替代”方式观看剧集的解决方案。    提交人    /u/Sinrra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ein8k0/is_there_a_browser_that_solves_this/</guid>
+      <pubDate>Fri, 02 Aug 2024 22:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLitePlus 在播放产品展示视频时崩溃了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eilsyy/ytliteplus_crashes_on_videos_featuring_products/</link>
+      <description><![CDATA[YTLitePlus 在播放产品展示视频时崩溃？ 我在 iOS 17.5.1 上使用最新版本的 YTLitePlus (19.29.1-4.0.1) 今天，我在观看 City Planner Plays 的“Road Builder is One of Cities Skylines 2&#39;s Best Mods”时遇到了起初以为是随机崩溃的情况。视频加载不到一秒，应用就崩溃了。其他视频播放正常。但在观看 Linus Tech Tips 的“Reacting to Our Best PC Builds Ever”时也遇到了同样的事情。 这两个视频的共同点是，当我在 Chrome 中访问它们时，在视频加载之前，我会看到一个关于特色产品的愚蠢插页，然后视频才会播放。 （我最初附上了此截图，但 Automod 因某种链接问题删除了该帖子，而且由于我没有链接到任何内容，我假设它一定是附件） 其他人可以使用这些视频（或带有插页的其他视频）重现此问题吗？有没有可能有一个设置可以解决这个问题，还是我只需要等待 YTLitePlus 本身的错误修复？    提交人    /u/insatido   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eilsyy/ytliteplus_crashes_on_videos_featuring_products/</guid>
+      <pubDate>Fri, 02 Aug 2024 21:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>地铁跑酷无限金币和钥匙所有角色板板升级 ulocked ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eilryz/subway_surfers_infinite_coins_keys_all_characters/</link>
+      <description><![CDATA[我试了很多，它们都给我这个烦人的更新提示，我无法取消，所以我无法使用该应用程序，有人知道一个可行的吗？非常感谢！    提交人    /u/ComfortableMilk4454   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eilryz/subway_surfers_infinite_coins_keys_all_characters/</guid>
+      <pubDate>Fri, 02 Aug 2024 21:27:21 GMT</pubDate>
+    </item>
     <item>
       <title>如果我使用 ESign 更新会发生什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eiikk8/what_will_happen_if_i_update_with_esign/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[因此，我尝试在新术语中使用 flexdecrypt 解密 ipa，我有一台搭载 iOS 12.5.7 的 iPad mini 2，但是每次我运行命令时都会出现这个特定错误：  Error Domain=NSCocoaErrorDomain Code=257 &quot;无法打开文件&quot;FileName&quot;，因为您无权查看它。&quot;  UserInfo={NSFilePath=/private/var/mobile/Documents/Appname.ipa/Payload/Appname.app, NSUnderlyingError=0x10120bf00 {Error Domain=NSPOS IXErrorDomain Code=13 &quot;Permission denied&quot;}&gt; 如果有人知道这件事，请帮忙✌️    提交人    /u/No-Panda-9279   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ei1ssu/how_to_fix_file_couldnt_be_opened_because_you/</guid>
       <pubDate>Fri, 02 Aug 2024 05:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建商店中设备的状态设置为不合格</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehx0vu/ineligible_status_set_for_device_on_buildstore/</link>
-      <description><![CDATA[我能够使用 buildstore 6 个月，没有任何问题。一个多月前我第一次被撤销，并收到一封来自 Buildstore 的电子邮件，称苹果在 14-30 天内将我的设备设置为不合格状态。我等了 30 多天才尝试再次使用该服务，今天他们试图解决问题时收到了同样的电子邮件。我不明白发生了什么。为什么苹果一直暂时将我列入黑名单？我还没有尝试使用任何其他侧载服务。除了取消我打算取消的服务之外，我还能做些什么吗？我希望能够再次进行侧载。任何建议或帮助都将不胜感激。     提交人    /u/Thick-Quiet-9982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehx0vu/ineligible_status_set_for_device_on_buildstore/</guid>
-      <pubDate>Fri, 02 Aug 2024 00:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehwpvq/scarlet/</link>
-      <description><![CDATA[我有一台闲置的旧 iPad，它使用的是 iOS 9.3.5，我想知道 Scarlet 是否可以与它一起运行。如果不行，有人能告诉我哪些侧载应用程序可以与它配合使用吗？    提交人    /u/ImWeird62674   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehwpvq/scarlet/</guid>
-      <pubDate>Fri, 02 Aug 2024 00:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何匿名注册Apple开发者账号？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehvzl6/how_to_sign_up_for_an_apple_developer_account/</link>
-      <description><![CDATA[真的可以使用一次性电子邮件吗？以及预付 Visa 卡来支付开发者帐户？以前有人这样做过吗？有什么提示吗？    提交人    /u/ProvincialPromenade   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehvzl6/how_to_sign_up_for_an_apple_developer_account/</guid>
-      <pubDate>Fri, 02 Aug 2024 00:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助在我的 iPhone 上获取经过调整的应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehurzb/need_help_on_getting_tweaked_app_on_my_iphone/</link>
-      <description><![CDATA[请帮忙    提交人    /u/Waste-Meeting8040   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehurzb/need_help_on_getting_tweaked_app_on_my_iphone/</guid>
-      <pubDate>Thu, 01 Aug 2024 23:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 更新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehqcr6/ios_update/</link>
-      <description><![CDATA[大家好，我有一个问题，我的所有电子签名都被撤销了，而且还有一个新的更新 ios 17.6，但我不想更新。我想重置我的手机而不更新，可以吗？    提交人    /u/exowolf18   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehqcr6/ios_update/</guid>
-      <pubDate>Thu, 01 Aug 2024 20:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 已通过 dns 被撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ehpnyo/esign_got_revoke_with_dns/</link>
-      <description><![CDATA[我拥有反撤销 DNS，但出于某种原因，我仍然被撤销，你们知道为什么吗？顺便说一句，我使用带有拒绝列表的 nextdns。    提交人    /u/exowolf18   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ehpnyo/esign_got_revoke_with_dns/</guid>
-      <pubDate>Thu, 01 Aug 2024 19:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou 未下载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eho46d/uyou_not_downloading/</link>
-      <description><![CDATA[有人遇到 uYou 问题吗？我的手机上有 uYou。版本 3.0.3。 以前可以正常下载音频和视频，但 signal 崩溃后，我不得不重新下载所有应用程序。 当我尝试下载任何音频时。它可以下载但卡在下载部分。我可以清楚地看到进度条已完成，但它仍然显示正在下载。 重新启动应用程序也无济于事。 有人有解决这个问题的办法吗？我尝试删除应用程序并重新安装多次，但仍然遇到同样的问题。    提交人    /u/GlobalBird4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eho46d/uyou_not_downloading/</guid>
-      <pubDate>Thu, 01 Aug 2024 18:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
