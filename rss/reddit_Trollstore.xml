@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Mon, 05 Aug 2024 15:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:12:36 GMT</lastBuildDate>
+    <item>
+      <title>苹果一个</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ektep1/apple_one_free/</link>
+      <description><![CDATA[各位，我听说有一种方法可以通过 VIP 72 计划获取 Apple One 代码，我想你们中没有人不知道这种方法。请帮助我们，伙计们。    提交人    /u/Agile_Floor_2045   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ektep1/apple_one_free/</guid>
+      <pubDate>Mon, 05 Aug 2024 17:16:34 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone 14 Pro Max iOS 16.7</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ejw43s/iphone_14_pro_max_ios_167/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当我第一次开始使用 TrollStore 时，一切都运行良好，我安装了应用程序，它们会弹出到主屏幕上，但后来发生了一些变化，我不知道是什么，但无论是什么，应用程序在安装后不会弹出，我必须通过应用程序库手动将它们添加到主屏幕。 如能提供任何帮助来修复此问题，我们将不胜感激！    提交人    /u/Ryder7223   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1e59ikh/trollstore_apps_arent_automatically_added_to_home/</guid>
       <pubDate>Wed, 17 Jul 2024 04:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPA 不起作用</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1e31jtm/ipa_doesnt_work/</link>
-      <description><![CDATA[2024-07-14 15:50:00.008 trollstorehelper[15485:2436716] [+] ALPINE DEBUG: 加载到 -&gt; com.opa334.TrollStore 2024-07-14 15:50:00.222 trollstorehelper[15485:2436716] [+] LYNX DEBUG: 拒绝 -&gt; 0 2024-07-14 15:50:00.222 trollstorehelper[15485:2436716] [+] LYNX DEBUG: 初始化 -&gt; com.opa334.TrollStore、trollstorehelper、/var/containers/Bundle/Application/5A192902-6B62-445B-894A-D55474C7B1A1/TrollStore.app/trollstorehelper、LynxRootless.xm 2024-07-14 15:50:00.375 trollstorehelper[15485:2436716] [SnowBoard Launcher] 加载程序检查已通过。正在加载 SnowBoard... 2024-07-14 15:50:00.379 trollstorehelper[15485:2436716] 正在初始化 Snowboard（版本：1.5.37-Beta4-rootless 编译时间：2024 年 7 月 9 日：00:24:55）在应用程序中：trollstorehelper... 2024-07-14 15:50:00.542 trollstorehelper[15485:2436716] trollstorehelper 使用参数调用：（install、installd、“/private/var/mobile/Containers/Data/Application/CA1AF743-8A92-4571-851D-F47BF90B0706/Documents/Inbox/Nulls Brawl 56.274 iOS.ipa&quot; ) (null) 2024-07-14 15:50:02.607 trollstorehelper[15485:2436716] trollstorehelper 返回 168 这是调试日志    提交人    /u/Dizzy-Ad3935   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1e31jtm/ipa_doesnt_work/</guid>
-      <pubDate>Sun, 14 Jul 2024 12:51:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

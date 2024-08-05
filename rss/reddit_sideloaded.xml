@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 05 Aug 2024 15:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:12:42 GMT</lastBuildDate>
+    <item>
+      <title>ESign [DNS] 和 [VPN] 更新！8/5/24</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eks9ry/esign_dns_vpn_update8524/</link>
+      <description><![CDATA[      您好，sideloaders！ 这可能是我最近一次更新指南。 首先，我要感谢大家对解决错误、崩溃、黑名单以及我们已经克服的所有其他问题的解决方案的支持。 我仍然需要你的帮助！通过这种方式使用带有 ESign DNS 方法的 VPN，我想编制一份所有可用 VPN 的列表，因此请发布该方法是否适合您以及您使用的 VPN！ 我认为不再推荐使用预建 DNS，并且提供了一种新的解决方案来设置您自己的 DNS（需要更多时间，但更安全，可以保证您的互联网流量不会被任何人跟踪！） 我们已经很久没有使用 VPN 和自定义 DNS 来阻止苹果而无需立即撤销应用程序了。 这就是解决方案！ 在测试了大量 VPN（免费和付费）后，几乎每个 VPN 都兼容。 （需要在应用程序本身中更改 DNS 转发的能力） 对于每个 VPN 来说，这都会有所不同，因为它们并非都是平等创建的，因此请查看上面链接的指南的最底部以查看您正在寻找的内容的图片，因为我没有测试每个 VPN，这就是我需要你的原因！ 在大多数（如果不是全部）付费 VPN 中，您可以在 VPN 应用程序中找到 DNS 设置（通常在应用程序的设置部分，有时在“协议”或“VPN 设置”或“配置”下），具体取决于您喜欢的 VPN。 您需要更改/禁用 VPN 应用中的 DNS。如果禁用，您就大功告成了！如果您没有禁用功能，则需要将 DNS 从自动设置为自定义。然后，您可以将 VPN 中的 DNS 设置为链接到自定义 DNS 设置的另一个地址。这可以在您的 DNS 配置中找到，但是您也可以只使用 cloudflare 对于 cloudflare，您可以将 VPN 中的 DNS 设置为 1.1.1.1 如果您不想使用 cloudflare，您可以将 DNS 设置为您使用新 DNS 设置的个人 DNS 地址 例如（请参阅图片指南）我将在今晚更新，现在发挥您的想象力    提交人    /u/PuReEnVyUs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eks9ry/esign_dns_vpn_update8524/</guid>
+      <pubDate>Mon, 05 Aug 2024 16:31:16 GMT</pubDate>
+    </item>
     <item>
       <title>YTLitePlus 横向模式帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ekpv9i/ytliteplus_landscape_mode_help/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 05 Aug 2024 14:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>如何将牛排分给查理？</title>
+      <title>如何给查理侧载牛排？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eko57m/how_to_sideload_charlie_the_steak/</link>
       <description><![CDATA[我正在使用带有 DNS 的 E-Sign，如果我尝试安装它，应用程序就会消失。我尝试注入侧载绕过，但它仍然消失了。    提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eko57m/how_to_sideload_charlie_the_steak/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人可以制作一个 dylib，让您可以将来自不同应用程序的音乐播放到 roblox 上，例如 spotify，而无需在 roblox 上暂停吗？    提交人    /u/Snoo-9908   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ek6k86/roblox_music_dylib/</guid>
       <pubDate>Sun, 04 Aug 2024 21:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有方舟生存进化移动版无限琥珀的 IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ek44aj/anyone_have_ipa_for_ark_survival_evolved_mobile/</link>
-      <description><![CDATA[拜托，我到处都找过了    提交人    /u/ConcernMinute9608   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ek44aj/anyone_have_ipa_for_ark_survival_evolved_mobile/</guid>
-      <pubDate>Sun, 04 Aug 2024 19:49:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
