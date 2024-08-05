@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 05 Aug 2024 09:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 12:17:05 GMT</lastBuildDate>
+    <item>
+      <title>帮助⚠️使用 Adblock 创建用于防撤销的自定义 CloudFlare DNS</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ekk6cp/helpto_make_custom_cloudflare_dns_for_antirevoke/</link>
+      <description><![CDATA[有人知道如何创建自定义 cloudflare 零信任 DNS 配置文件用于防撤销和广告拦截吗，我尝试了&quot;Khoindvn&quot; DNS，它阻止了一些我经常访问的网站，我觉得它很慢，请指导我如何创建具有防撤销和广告拦截的 cloudflare 零信任，我对此很菜，一步一步的指南也会对那些不像我这样专业人士的人有所帮助🥲 我也尝试了 nextdns，我的消耗有点高，它有查询限制  谢谢 🙏    提交人    /u/Prestigious-Guide-61   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ekk6cp/helpto_make_custom_cloudflare_dns_for_antirevoke/</guid>
+      <pubDate>Mon, 05 Aug 2024 10:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ekjysi/free_cert/</link>
+      <description><![CDATA[我需要证书才能下载 ipa 游戏，有人有吗？    提交人    /u/babanegaming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ekjysi/free_cert/</guid>
+      <pubDate>Mon, 05 Aug 2024 10:00:36 GMT</pubDate>
+    </item>
     <item>
       <title>寻求有关侧载/证书的一些建议</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eki6q1/looking_for_some_advice_on_sideloadingcerts/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[当 esign premium 证书在 2025 年到期时，应用程序还能用吗？ 我说的是它们的到期日期，而不是撤销。    提交人    /u/grandiloquence3   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eju63x/what_happens_when_one_of_the_esign_certificates/</guid>
       <pubDate>Sun, 04 Aug 2024 12:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法保存游戏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ejqqg9/cant_save_game/</link>
-      <description><![CDATA[在 iOS 上使用 emuthreeds 和 limon，无法在两者中保存游戏    提交人    /u/Mother_Buffalo8310   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ejqqg9/cant_save_game/</guid>
-      <pubDate>Sun, 04 Aug 2024 08:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>iGameGod.deb 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ejmnzv/igamegod_deb_file/</link>
-      <description><![CDATA[有人可以给我发 iGameGod deb 文件吗    提交人    /u/ZxZKoK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ejmnzv/igamegod_deb_file/</guid>
-      <pubDate>Sun, 04 Aug 2024 04:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
