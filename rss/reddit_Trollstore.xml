@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Mon, 05 Aug 2024 18:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 21:10:16 GMT</lastBuildDate>
+    <item>
+      <title>在 iPhone 14 的 iOS 16.6.1 上安装 TrollStore 几天后无法更新常规 App Store 应用</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ekuyy6/cant_update_regular_app_store_apps_a_few_days/</link>
+      <description><![CDATA[正如标题所述，我无法更新大多数常用的 App Store 应用程序，如果我想“更新”它们，我必须重新安装它们，这样它们才能保持最新版本。在获得 TrollStore 几天后，我开始遇到无法更新应用程序的问题，这不是存储问题导致的，而且在我使用手机大约一年后，我从未遇到过这种情况。我甚至用我的 Windows 笔记本电脑将手机恢复到 TrollStore 之前的备份，但问题仍然存在。有人知道如何解决这个问题吗？  编辑：好的，我已修复此问题，再次安装 TrollStore 并获取 Filza 后，您不仅必须同时将应用程序目录的所有者和组更改为 _installd，而且应用程序目录内的每个应用程序的所有者和组也需要更改为 _installd（位置为 var/containers/Bundle/Application），我主要通过获取 bootstrap 和下载 newterm 3 终端来解决这个问题，并直接从终端更改内容，因为对我来说这样更快，但如果您不知道自己在做什么，就会很复杂。     提交人    /u/NoDuck1170   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ekuyy6/cant_update_regular_app_store_apps_a_few_days/</guid>
+      <pubDate>Mon, 05 Aug 2024 18:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>苹果一个</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ektep1/apple_one_free/</link>
@@ -83,7 +90,7 @@
       <pubDate>Sun, 28 Jul 2024 09:59:20 GMT</pubDate>
     </item>
     <item>
-      <title>如何删除这个应用程序，它没有出现在设置和 trollstore 中 😭😭</title>
+      <title>如何删除这个应用程序，它没有出现在设置和 trollstore 中😭😭</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</link>
       <description><![CDATA[      图片    提交人    /u/_solly1402   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我最近才遇到 troll store，一切正常，但今天我的大多数应用程序都丢失了图标，即使有图标也无法启动。我尝试重建图标缓存，所有没有图标的应用程序都被删除了，还有 mu 数据和艺术项目。我很伤心。有人能帮我了解到底发生了什么吗？我的设备没有越狱，只有通过 trollstar 安装了 troll store    提交人    /u/MidnightCareful1386   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1e95ikl/my_appstore_apps_are_gone/</guid>
       <pubDate>Mon, 22 Jul 2024 04:28:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrollStore 应用程序不会自动添加到主屏幕</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1e59ikh/trollstore_apps_arent_automatically_added_to_home/</link>
-      <description><![CDATA[当我第一次开始使用 TrollStore 时，一切都运行良好，我安装了应用程序，它们会弹出到主屏幕上，但后来发生了一些变化，我不知道是什么，但无论是什么，应用程序在安装后不会弹出，我必须通过应用程序库手动将它们添加到主屏幕。 如能提供任何帮助来修复此问题，我们将不胜感激！    提交人    /u/Ryder7223   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1e59ikh/trollstore_apps_arent_automatically_added_to_home/</guid>
-      <pubDate>Wed, 17 Jul 2024 04:42:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
