@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 05 Aug 2024 03:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:14:08 GMT</lastBuildDate>
+    <item>
+      <title>iOS 快捷方式在侧载应用中不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eker7v/ios_shrotcuts_not_working_in_sideloaded_apps/</link>
+      <description><![CDATA[大家好， 我一直在尝试在侧载应用上使用一些快捷方式，但它们根本不起作用。在 3 个不同的应用中分享特定帖子后，什么都没有发生，也没有弹出任何内容。如果我使用任何其他应用和默认的 iOS 共享菜单，快捷方式就可以正常工作。 它不应该在侧载应用上运行吗？ 谢谢。    提交人    /u/TheSmexhy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eker7v/ios_shrotcuts_not_working_in_sideloaded_apps/</guid>
+      <pubDate>Mon, 05 Aug 2024 04:14:39 GMT</pubDate>
+    </item>
     <item>
       <title>嘿伙计们，我需要专家建议</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ekd6gt/hey_guys_i_need_expert_advice/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>设计问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ekaeq5/esign_question/</link>
-      <description><![CDATA[因此，出于某种原因，我被列入了 esign 黑名单，我的问题是我使用 bitwarden 作为密码，我想知道如果我将手机重置为 0 并从 iCloud 安装所有数据，我是否必须再次输入我的 bitwarden 密码？    提交人    /u/NoozPrime   [link] [comments]]]></description>
+      <description><![CDATA[因此，出于某种原因，我被列入了 esign 黑名单，我的问题是我使用 bitwarden 作为密码，我想知道如果我将手机重置为 0 并从 iCloud 安装所有数据，我是否必须再次输入 bitwarden 密码？    提交人    /u/NoozPrime   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ekaeq5/esign_question/</guid>
       <pubDate>Mon, 05 Aug 2024 00:29:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有没有办法在付款前查看他们提供的应用程序？    提交人    /u/MilqkInvestment   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ejkhvr/singulous/</guid>
       <pubDate>Sun, 04 Aug 2024 02:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>EastJitEnabler 安全吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ejia1v/is_eastjitenabler_safe/</link>
-      <description><![CDATA[我在寻找 SideJitserver 时发现了这个 GitHub https://github.com/Bullishdrake09/EasyJITEnabler    提交人    /u/No_Ranger3020   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ejia1v/is_eastjitenabler_safe/</guid>
-      <pubDate>Sun, 04 Aug 2024 00:26:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
