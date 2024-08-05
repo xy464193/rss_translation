@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 05 Aug 2024 06:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 09:09:33 GMT</lastBuildDate>
+    <item>
+      <title>寻求有关侧载/证书的一些建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eki6q1/looking_for_some_advice_on_sideloadingcerts/</link>
+      <description><![CDATA[首先，请原谅我的术语，我对这些都有点陌生。  我最初是通过 Khơindvn DNS 配置文件进入这个领域的。一切都很顺利，直到一天晚上我喝醉了，使用了我的 VPN。从那时起，所有电子签名应用程序都不受信任，我再也无法安装电子签名。假设我现在被列入黑名单了？  所以我一直在探索付费证书的选项，我遇到了一些问题，我正在努力通过研究来回答。   我最好购买证书吗？我很乐意时不时地刷新一下，我可以访问 Windows 和 Mac 机器，所以都不是问题。显然我宁愿不付钱，但我想这取决于免费选项的繁琐程度 哪个证书提供商最好？最佳 = 最便宜但最可靠，可以最好地访问 IPA。我知道最便宜的证书不提供撤销保护，这对我来说似乎有点毫无意义（但如果我误解了，请纠正我）。  我需要使用刻录机 Apple ID 帐户吗？这些破解的 IPA 会链接到我的帐户吗？有人因为这样做而丢失了 Apple 帐户吗？如果您确实使用了刻录机帐户，它可以与您的 OG 帐户同时使用吗？     提交人    /u/Juliett_Sierra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eki6q1/looking_for_some_advice_on_sideloadingcerts/</guid>
+      <pubDate>Mon, 05 Aug 2024 07:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我只能从我的热点安装 scarlet 中的应用程序？有时它可以与我的 WiFi 配合使用，但大多数时候它只能通过热点安装应用程序。如果我尝试通过 WiFi 安装，它大多数时候都显示“无法安装”。请告诉我如何在 scarlet 中解决这个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eki5zk/why_can_i_only_install_apps_in_scarlet_from_my/</link>
+      <description><![CDATA[顺便说一下，这在我的所有设备上都是如此。iPhone 7 IPad 8 IPhone 14 Pro    提交人    /u/Last-Ad-2006   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eki5zk/why_can_i_only_install_apps_in_scarlet_from_my/</guid>
+      <pubDate>Mon, 05 Aug 2024 07:54:08 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 快捷方式在侧载应用中不起作用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eker7v/ios_shrotcuts_not_working_in_sideloaded_apps/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>设计问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ekaeq5/esign_question/</link>
-      <description><![CDATA[因此，出于某种原因，我被列入了 esign 黑名单，我的问题是我使用 bitwarden 作为密码，我想知道如果我将手机重置为 0 并从 iCloud 安装所有数据，我是否必须再次输入 bitwarden 密码？    提交人    /u/NoozPrime   [link] [comments]]]></description>
+      <description><![CDATA[因此，出于某种原因，我被列入了 esign 黑名单，我的问题是我使用 bitwarden 作为密码，我想知道如果我将手机重置为 0 并从 iCloud 安装所有数据，我是否必须再次输入我的 bitwarden 密码？    提交人    /u/NoozPrime   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ekaeq5/esign_question/</guid>
       <pubDate>Mon, 05 Aug 2024 00:29:44 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人可以给我发 iGameGod deb 文件吗    提交人    /u/ZxZKoK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ejmnzv/igamegod_deb_file/</guid>
       <pubDate>Sun, 04 Aug 2024 04:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cowabunga 无法在猩红色上工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ejkkts/cowabunga_not_working_on_scarlet/</link>
-      <description><![CDATA[哟，为什么 cowabunga 无法在 scarlet 上使用，它显示即将过期，我已经使用 78 天了。如何修复它     提交人    /u/RightCherry5787   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ejkkts/cowabunga_not_working_on_scarlet/</guid>
-      <pubDate>Sun, 04 Aug 2024 02:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇异</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ejkhvr/singulous/</link>
-      <description><![CDATA[有没有办法在付款前查看他们提供的应用程序？    提交人    /u/MilqkInvestment   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ejkhvr/singulous/</guid>
-      <pubDate>Sun, 04 Aug 2024 02:21:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
