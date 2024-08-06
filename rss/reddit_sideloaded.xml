@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 09:09:47 GMT</lastBuildDate>
+    <item>
+      <title>DNS 不工作？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</link>
+      <description><![CDATA[自从我使用 DNS 获取 iPA 以来，在我拥有 iPadOS 18 之前，它一直都很好，现在几乎没有任何使用 DNS 的应用程序不起作用，我也尝试了所有 khoidvn ESigns    提交人    /u/ZxZKoK   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:36:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助修改 iPhone 应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elaoqk/i_need_help_modding_iphone_apps/</link>
+      <description><![CDATA[好吧，我甚至不知道我是否在正确的地方，但有人可以帮我在 iPhone 上修改游戏吗？我只想修改饥饿鲨鱼以获得无限宝石，就是这样。我试图下载 filza，但大多数视频都是假的，大多数下载都是病毒，一切都要花钱而且很粗略。 有人可以给我发一个视频给我看，或者下载或一些真正真实的东西吗？谢谢。 此外，我确实有一台可以连接的 Windows 计算机，如果有帮助的话。 编辑：我说了几次 iPhone，只是为了澄清我使用的是 iOS 版本 17.5.1    提交人    /u/Less-Hovercraft7572   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elaoqk/i_need_help_modding_iphone_apps/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:29:58 GMT</pubDate>
+    </item>
     <item>
       <title>可以共享开发者账号吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1el6mpn/is_it_possible_to_share_a_developer_account/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人知道如何创建自定义 cloudflare 零信任 DNS 配置文件用于防撤销和广告拦截吗，我尝试了&quot;Khoindvn&quot; DNS，它阻止了一些我经常访问的网站，我觉得它很慢，请指导我如何创建具有防撤销和广告拦截的 cloudflare 零信任，我对此很菜，一步一步的指南也会对那些不像我这样专业人士的人有所帮助🥲 我也尝试了 nextdns，我的消耗有点高，它有查询限制  谢谢 🙏    提交人    /u/Prestigious-Guide-61   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ekk6cp/helpto_make_custom_cloudflare_dns_for_antirevoke/</guid>
       <pubDate>Mon, 05 Aug 2024 10:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ekjysi/free_cert/</link>
-      <description><![CDATA[我需要证书才能下载 ipa 游戏，有人有吗？    提交人    /u/babanegaming   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ekjysi/free_cert/</guid>
-      <pubDate>Mon, 05 Aug 2024 10:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关侧载/证书的一些建议</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eki6q1/looking_for_some_advice_on_sideloadingcerts/</link>
-      <description><![CDATA[首先，请原谅我的术语，我对这些都有点陌生。  我最初是通过 Khơindvn DNS 配置文件进入这个领域的。一切都很顺利，直到一天晚上我喝醉了，使用了我的 VPN。从那时起，所有电子签名应用程序都不受信任，我再也无法安装电子签名。假设我现在被列入黑名单了？  所以我一直在探索付费证书的选项，我遇到了一些问题，我正在努力通过研究来回答。   我最好购买证书吗？我很乐意时不时地刷新一下，我可以访问 Windows 和 Mac 机器，所以都不是问题。显然我宁愿不付钱，但我想这取决于免费选项的繁琐程度 哪个证书提供商最好？最佳 = 最便宜但最可靠，可以最好地访问 IPA。我知道最便宜的证书不提供撤销保护，这对我来说似乎有点毫无意义（但如果我误解了，请纠正我）。  我需要使用刻录机 Apple ID 帐户吗？这些破解的 IPA 会链接到我的帐户吗？有人因为这样做而丢失了 Apple 帐户吗？如果您确实使用了刻录机帐户，它可以与您的 OG 帐户同时使用吗？     提交人    /u/Juliett_Sierra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eki6q1/looking_for_some_advice_on_sideloadingcerts/</guid>
-      <pubDate>Mon, 05 Aug 2024 07:55:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

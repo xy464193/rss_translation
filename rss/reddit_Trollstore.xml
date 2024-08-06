@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 09:09:39 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 安全吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</link>
+      <description><![CDATA[我使用 appdb 安装 TrollStore 时，它​​检测到“可能的恶意软件”，在我使用 VirusTotal 并扫描了几种病毒后，它们是否都是误报？我使用了错误的下载链接吗？我使用了 subreddit 关于页面中的下载链接    提交人    /u/TylerTheGuy298   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:50:46 GMT</pubDate>
+    </item>
     <item>
       <title>在 iPhone 14 的 iOS 16.6.1 上安装 TrollStore 几天后无法更新常规 App Store 应用</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ekuyy6/cant_update_regular_app_store_apps_a_few_days/</link>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 28 Jul 2024 09:59:20 GMT</pubDate>
     </item>
     <item>
-      <title>如何删除这个应用程序，它没有出现在设置和 trollstore 中😭😭</title>
+      <title>如何删除这个应用程序，它没有出现在设置和 trollstore 中 😭😭</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</link>
       <description><![CDATA[      图片    提交人    /u/_solly1402   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[编辑：设法在 Picasso discord 上找到 IconExporter（之前错过了），并确认可以在 iOS 17 上使用。谢谢大家 :) 我希望导出所有应用程序图标，包括 trollstore 和本机图标，这样我就可以在计算机上编辑它们，然后稍后重新安装它们。到目前为止，我找到的唯一能做到这一点的东西是 IconExporter，它已经过时了，我甚至找不到下载来尝试它。在我的 XS Max 上运行带有 Trollstore 2 的 iOS 17.0。    提交人    /u/met_MY_verse   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1e96g2n/is_there_an_ipa_that_exports_all_app_icons/</guid>
       <pubDate>Mon, 22 Jul 2024 05:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的应用商店应用程序不见了！</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1e95ikl/my_appstore_apps_are_gone/</link>
-      <description><![CDATA[      我最近才遇到 troll store，一切正常，但今天我的大多数应用程序都丢失了图标，即使有图标也无法启动。我尝试重建图标缓存，所有没有图标的应用程序都被删除了，还有 mu 数据和艺术项目。我很伤心。有人能帮我了解到底发生了什么吗？我的设备没有越狱，只有通过 trollstar 安装了 troll store    提交人    /u/MidnightCareful1386   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1e95ikl/my_appstore_apps_are_gone/</guid>
-      <pubDate>Mon, 22 Jul 2024 04:28:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
