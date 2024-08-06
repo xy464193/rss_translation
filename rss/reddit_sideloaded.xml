@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 06 Aug 2024 09:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 12:16:46 GMT</lastBuildDate>
+    <item>
+      <title>嘿，没有收到信任计算机消息</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elf94k/hey_not_getting_trust_computer_messages/</link>
+      <description><![CDATA[嘿，我想侧载应用程序，但我没有收到信任计算机消息，而且我无法将我的 iPhone 与 iTunes 连接，现在该怎么办？    由    /u/Baxhod_coder 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elf94k/hey_not_getting_trust_computer_messages/</guid>
+      <pubDate>Tue, 06 Aug 2024 11:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国中信银行证书被列入黑名单</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elf237/china_citic_bank_cert_blacklisted/</link>
+      <description><![CDATA[我使用了中信银行证书，但它被列入了我的黑名单，有人知道其他可用的公共证书吗？    提交人    /u/Franekstein_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elf237/china_citic_bank_cert_blacklisted/</guid>
+      <pubDate>Tue, 06 Aug 2024 11:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新/更新 SideStore 时出现的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eld4dc/issues_with_updatedupdating_sidestore/</link>
+      <description><![CDATA[您好。 我在 Sidestore 中收到通知，要求将其更新至 0.5.7。我进行了更新。现在我遇到了两个问题：  即使我更新了应用程序，更新通知仍然存在 刷新所有应用程序快捷方式现在没有任何作用。它完成时没有任何错误。SideStore 日志中没有错误，但我尝试刷新的应用程序没有刷新。  我对 Sidestore 还很陌生。也许仍然看到更新通知的问题很常见。 谢谢。    提交人    /u/Aero_Z   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eld4dc/issues_with_updatedupdating_sidestore/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:13:40 GMT</pubDate>
+    </item>
     <item>
       <title>DNS 不工作？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</link>
-      <description><![CDATA[自从我使用 DNS 获取 iPA 以来，在我拥有 iPadOS 18 之前，它一直都很好，现在几乎没有任何使用 DNS 的应用程序不起作用，我也尝试了所有 khoidvn ESigns    提交人    /u/ZxZKoK   [link] [comments]]]></description>
+      <description><![CDATA[自从我使用 DNS 获取 iPA 以来，在我使用 iPadOS 18 之前，它一直都很好，现在几乎没有任何使用 DNS 的应用程序不起作用，我也尝试了所有 khoidvn ESigns    提交人    /u/ZxZKoK   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</guid>
       <pubDate>Tue, 06 Aug 2024 07:36:21 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[这是我收到的错误消息......有什么解决办法吗？ 安装过程中出现问题：0：APIInternalError（错误域 = IXErrorDomain 代码 = 2“无法为 com.zhiliaoapp.musically.J2992CWC49 设置应用扩展占位符”UserInfo = {NSLocalizedFailureReason = 无法创建承诺。，NSLocalizedDescription = 无法为 com.zhiliaoapp.musically.J2992CWC49 设置应用扩展占位符，FunctionName = + [IXPlaceholder    提交人    /u/Valonqar73   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ekpfrz/i_cant_seem_to_sideload_any_tiktok_ipa_files/</guid>
       <pubDate>Mon, 05 Aug 2024 14:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat 调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ekot70/snapchat_tweaks/</link>
-      <description><![CDATA[我想问一下是否有任何免费的 Snapchat 调整可供下载，因为我似乎找不到一个    提交人    /u/Franekstein_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ekot70/snapchat_tweaks/</guid>
-      <pubDate>Mon, 05 Aug 2024 14:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何给查理侧载牛排？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eko57m/how_to_sideload_charlie_the_steak/</link>
-      <description><![CDATA[我正在使用带有 DNS 的 E-Sign，如果我尝试安装它，应用程序就会消失。我尝试注入侧载绕过，但它仍然消失了。    提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eko57m/how_to_sideload_charlie_the_steak/</guid>
-      <pubDate>Mon, 05 Aug 2024 13:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助⚠️使用 Adblock 创建用于防撤销的自定义 CloudFlare DNS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ekk6cp/helpto_make_custom_cloudflare_dns_for_antirevoke/</link>
-      <description><![CDATA[有人知道如何创建自定义 cloudflare 零信任 DNS 配置文件用于防撤销和广告拦截吗，我尝试了&quot;Khoindvn&quot; DNS，它阻止了一些我经常访问的网站，我觉得它很慢，请指导我如何创建具有防撤销和广告拦截的 cloudflare 零信任，我对此很菜，一步一步的指南也会对那些不像我这样专业人士的人有所帮助🥲 我也尝试了 nextdns，我的消耗有点高，它有查询限制  谢谢 🙏    提交人    /u/Prestigious-Guide-61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ekk6cp/helpto_make_custom_cloudflare_dns_for_antirevoke/</guid>
-      <pubDate>Mon, 05 Aug 2024 10:13:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

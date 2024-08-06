@@ -4,7 +4,28 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 06 Aug 2024 09:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 12:16:38 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 通过 rootful 越狱 iOS 16.7.5</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1elfyer/trollstore_via_rootful_jailbreak_ios_1675/</link>
+      <description><![CDATA[大家好，我正在尝试越狱我的 iPhone 8，它运行的是 iOS 16.7.5，我想让 trollstore 侧载应用程序，因此我使用了 burhan rana 在 rootful 越狱上制作的指南，他越狱了他的手机并安装了 cydia，然后 trollstore 我犯了一个错误，那就是在不使用 usbdk 的情况下创建了假 fs，现在当我从 winraln 运行 rootful 越狱来获取 paleraln 时，它不断重试，但出现 err2，这意味着它无法创建另一个假 fs，我尝试使用 usbdk 但没有 usodk 它就是不起作用，我没有越狱，我确实通过强制重启摆脱了循环，但我能做什么知道我的主要目标是滑动应用程序没有任何问题任何解决方案都会有所帮助谢谢。    提交人    /u/IcyStuff7716   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1elfyer/trollstore_via_rootful_jailbreak_ios_1675/</guid>
+      <pubDate>Tue, 06 Aug 2024 12:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ios 18 有 Troll store 吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1eldqqp/troll_store_for_ios_18/</link>
+      <description><![CDATA[我想在 iOS 18 上使用 troll store     提交人    /u/Souninjinma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1eldqqp/troll_store_for_ios_18/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序不断退出</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1eldeer/apps_keep_logging_out/</link>
+      <description><![CDATA[在 iPhone 13 Pro Max 16.6.1 上。有些应用程序（并非全部）无法保持登录状态。不仅是 TrollStore 应用程序，还有我从 App Store 下载的应用程序。我搜索过但找不到任何相同的报告。有什么想法可能导致这种情况吗？提前致谢。    提交人    /u/mick_swagger   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1eldeer/apps_keep_logging_out/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:32:50 GMT</pubDate>
+    </item>
     <item>
       <title>Trollstore 安全吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Ab 获得带有最新软件的 Ipad Air M2。有什么办法可以获取任何 trollstore 吗？我的最后一个办法是使用 Sidestore，这有点令人头疼，因为必须打开 VPN 才能刷新应用程序，但一切都很好。有什么办法吗？    提交人    /u/excstacyy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1eeedv3/ipad_air_m2/</guid>
       <pubDate>Sun, 28 Jul 2024 18:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>重置 iPhone 的设置</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ee3zsy/reset_settings_of_the_iphone/</link>
-      <description><![CDATA[您好，重置 iPhone 的设置会让我丢失 TrollStore 吗？因为我忘记了使用 iTunes 保存 iPhone 的密码，所以我无法备份。我认为这是重置密码的唯一方法     提交人    /u/Naruto1041   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ee3zsy/reset_settings_of_the_iphone/</guid>
-      <pubDate>Sun, 28 Jul 2024 09:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何删除这个应用程序，它没有出现在设置和 trollstore 中 😭😭</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</link>
-      <description><![CDATA[      图片    提交人    /u/_solly1402   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ecn5li/how_to_delete_this_app_its_not_appear_in_settings/</guid>
-      <pubDate>Fri, 26 Jul 2024 12:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以导出所有应用图标的 ipa？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1e96g2n/is_there_an_ipa_that_exports_all_app_icons/</link>
-      <description><![CDATA[编辑：设法在 Picasso discord 上找到 IconExporter（之前错过了），并确认可以在 iOS 17 上使用。谢谢大家 :) 我希望导出所有应用程序图标，包括 trollstore 和本机图标，这样我就可以在计算机上编辑它们，然后稍后重新安装它们。到目前为止，我找到的唯一能做到这一点的东西是 IconExporter，它已经过时了，我甚至找不到下载来尝试它。在我的 XS Max 上运行带有 Trollstore 2 的 iOS 17.0。    提交人    /u/met_MY_verse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1e96g2n/is_there_an_ipa_that_exports_all_app_icons/</guid>
-      <pubDate>Mon, 22 Jul 2024 05:26:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
