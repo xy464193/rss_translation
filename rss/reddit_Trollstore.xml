@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 06 Aug 2024 15:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 18:13:02 GMT</lastBuildDate>
+    <item>
+      <title>恶意商店尚未经过验证</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1elkx92/troll_store_not_being_verified/</link>
+      <description><![CDATA[我通过 jailbreaks.app 安装了 troll store，它要求验证 trollinstallerx，我照做了，但之后它仍然说同样的话。我使用的是 15.5 iOS 系统和 a9 芯片组，应该可以工作，但我不知道哪里出了问题。    提交人    /u/Randumbweeb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1elkx92/troll_store_not_being_verified/</guid>
+      <pubDate>Tue, 06 Aug 2024 15:36:09 GMT</pubDate>
+    </item>
     <item>
       <title>Trollstore 通过 rootful 越狱 iOS 16.7.5</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1elfyer/trollstore_via_rootful_jailbreak_ios_1675/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我最小化的任何应用程序都不会出现在应用程序切换器中，应用程序不会被终止，因为我可以从主屏幕打开它并且它仍在运行 我试过修复它：硬重启，更改壁纸，字体，...仍然没有得到解决 设备：13 Pro Max iOS：17.0带有TrollStore  （我是不是完蛋了？甚至无法重置设备，trollstore 也无法工作）    提交人    /u/Traditional-Night-25   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1eetq44/weird_app_switcher_glitch_cant_open_apps_from_it/</guid>
       <pubDate>Mon, 29 Jul 2024 07:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad Air M2</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1eeedv3/ipad_air_m2/</link>
-      <description><![CDATA[Ab 获得带有最新软件的 Ipad Air M2。有什么办法可以获取任何 trollstore 吗？我的最后一个办法是使用 Sidestore，这有点令人头疼，因为必须打开 VPN 才能刷新应用程序，但一切都很好。有什么办法吗？    提交人    /u/excstacyy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1eeedv3/ipad_air_m2/</guid>
-      <pubDate>Sun, 28 Jul 2024 18:39:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
