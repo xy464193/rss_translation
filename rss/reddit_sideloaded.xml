@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 07 Aug 2024 00:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:10:28 GMT</lastBuildDate>
+    <item>
+      <title>使用以下网站打开 ipa 文件最安全</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1em02it/safest_site_to_open_ipa_files_with/</link>
+      <description><![CDATA[Look@title    由   提交  /u/Exact-Road-2051   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1em02it/safest_site_to_open_ipa_files_with/</guid>
+      <pubDate>Wed, 07 Aug 2024 02:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 的 Regram 不会显示个人资料分析器。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elzc4b/regram_for_instagram_wont_show_profile_analyzer/</link>
+      <description><![CDATA[      正如标题所述，由于这个新的 Instagram 更新，出于某种原因，我无法再使用个人资料分析器。  是的，我尝试退出应用程序，同时再次打开和关闭它，但没有任何效果。  下面是我的两个帐户的示例，一个没有新的更新，另一个有新的更新。  有人遇到过这种情况吗？如果是，我能做些什么吗？提前致谢。  （我从 http://ipa.cypwn.xyz 获得了 IPA，最新版本的 IPA。）    提交人    /u/Nicolas2913   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elzc4b/regram_for_instagram_wont_show_profile_analyzer/</guid>
+      <pubDate>Wed, 07 Aug 2024 01:32:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法运行 SideJitServer</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1elz4nj/cant_get_sidejitserver_to_run/</link>
+      <description><![CDATA[我试图在我的 Mac 上使用 sidejitserver，但它从未通过“Uvicorn 正在运行”，然后它给了我错误“/venv./lib/python3.12/site-packages/pymobiledevice3/utils.py:55: DeprecationWarning: 没有当前事件循环 loop = asyncio.get_event_loop()”我真的想将 UTM 与 jit 一起使用，但这根本不起作用。如果有帮助的话，我正在使用 2021 MBP。    提交人    /u/Ok_Taro9366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1elz4nj/cant_get_sidejitserver_to_run/</guid>
+      <pubDate>Wed, 07 Aug 2024 01:23:03 GMT</pubDate>
+    </item>
     <item>
       <title>appdb.to 安全吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1elvg0h/is_appdbto_safe/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿，我想侧载应用程序，但我没有收到信任计算机消息，而且我无法将我的 iPhone 与 iTunes 连接，现在该怎么办？    由    /u/Baxhod_coder 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1elf94k/hey_not_getting_trust_computer_messages/</guid>
       <pubDate>Tue, 06 Aug 2024 11:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国中信银行证书被列入黑名单</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elf237/china_citic_bank_cert_blacklisted/</link>
-      <description><![CDATA[我使用了中信银行证书，但它被列入了我的黑名单，有人知道其他可用的公共证书吗？    提交人    /u/Franekstein_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elf237/china_citic_bank_cert_blacklisted/</guid>
-      <pubDate>Tue, 06 Aug 2024 11:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新/更新 SideStore 时出现的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eld4dc/issues_with_updatedupdating_sidestore/</link>
-      <description><![CDATA[您好。 我在 Sidestore 中收到通知，要求将其更新至 0.5.7。我进行了更新。现在我遇到了两个问题：  即使我更新了应用程序，更新通知仍然存在 刷新所有应用程序快捷方式现在没有任何作用。它完成时没有任何错误。SideStore 日志中没有错误，但我尝试刷新的应用程序没有刷新。  我对 Sidestore 还很陌生。也许仍然看到更新通知的问题很常见。 谢谢。    提交人    /u/Aero_Z   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eld4dc/issues_with_updatedupdating_sidestore/</guid>
-      <pubDate>Tue, 06 Aug 2024 09:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 不工作？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</link>
-      <description><![CDATA[自从我使用 DNS 获取 iPA 以来，在我拥有 iPadOS 18 之前，它一直都很好，现在几乎没有任何使用 DNS 的应用程序不起作用，我也尝试了所有 khoidvn ESigns    提交人    /u/ZxZKoK   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elbpah/dns_not_working/</guid>
-      <pubDate>Tue, 06 Aug 2024 07:36:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
