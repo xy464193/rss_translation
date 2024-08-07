@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 07 Aug 2024 03:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:12:59 GMT</lastBuildDate>
+    <item>
+      <title>Sidestore VPN 已关闭</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1em36pj/sidestore_vpn_is_down/</link>
+      <description><![CDATA[即使我已启用 VPN，也无法刷新我的应用。错误显示要求启用并连接到 Wireguard 的侧边存储 VPN，尽管之前已启用。 错误：“无法连接到设备，请确保 Wireguard 已启用并且您已连接到 Wifi”    提交人    /u/Nobody030796   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1em36pj/sidestore_vpn_is_down/</guid>
+      <pubDate>Wed, 07 Aug 2024 04:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名后出现错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1em21jf/error_after_stuck_on_signing/</link>
+      <description><![CDATA[我总是收到此错误，提示“侧载失败！安装失败：Guru Meditation 6020bc@99:f11511 调用lockdownd_client_new_with_handshake失败：LOCKDOWN_E_INVALID_HOST_ID”有人能帮我解决这个问题吗！！！谢谢    提交人    /u/SquiggleSausage   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1em21jf/error_after_stuck_on_signing/</guid>
+      <pubDate>Wed, 07 Aug 2024 03:47:34 GMT</pubDate>
+    </item>
     <item>
       <title>使用以下网站打开 ipa 文件最安全</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1em02it/safest_site_to_open_ipa_files_with/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>AltStore PAM？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1els6pl/altstore_pam/</link>
-      <description><![CDATA[AltStore PAM？ 也许我不明白，但我今天获得了 AltStore PAM 的许可证。我这样做主要是因为我的 AltServer 并不总是运行，而我的 iTorrent 总是过期。现在我已经导入了源代码，还必须每月支付使用 iTorrent 的费用，而 AltServer 没有这样的要求。冒着问一个愚蠢问题的风险，我在这里错过了什么？    提交人    /u/Bartnnn   [link] [评论]]]></description>
+      <description><![CDATA[也许我不明白，但我今天获得了 AltStore PAM 的许可证。我这样做主要是因为我的 AltServer 并不总是运行，而我的 iTorrent 总是过期。现在我已经导入了源代码，还必须每月支付使用 iTorrent 的费用，而 AltServer 没有这样的要求。冒着问一个愚蠢问题的风险，我在这里错过了什么？    提交人    /u/Bartnnn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1els6pl/altstore_pam/</guid>
       <pubDate>Tue, 06 Aug 2024 20:24:50 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[使用 uyouplus 18.14.1 - 有人知道从主屏幕完全删除短裤的方法吗？在设置中查找但找不到。谢谢！！    提交人    /u/BuyerNovel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1elln5b/remove_shorts/</guid>
       <pubDate>Tue, 06 Aug 2024 16:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有适合苹果的好用的自动点击器吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elj3v1/does_anyone_have_a_good_auto_clicker_for_apple/</link>
-      <description><![CDATA[我需要一个哈哈    由   提交  /u/Plenty_Wolverine_626   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elj3v1/does_anyone_have_a_good_auto_clicker_for_apple/</guid>
-      <pubDate>Tue, 06 Aug 2024 14:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，没有收到信任计算机消息</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elf94k/hey_not_getting_trust_computer_messages/</link>
-      <description><![CDATA[嘿，我想侧载应用程序，但我没有收到信任计算机消息，而且我无法将我的 iPhone 与 iTunes 连接，现在该怎么办？    由    /u/Baxhod_coder 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elf94k/hey_not_getting_trust_computer_messages/</guid>
-      <pubDate>Tue, 06 Aug 2024 11:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
