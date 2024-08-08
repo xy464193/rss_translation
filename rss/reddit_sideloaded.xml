@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 07 Aug 2024 21:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 00:41:02 GMT</lastBuildDate>
+    <item>
+      <title>专业人士的 Dlg 记忆问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1empwuz/dlg_memor_question_for_the_pros/</link>
+      <description><![CDATA[因此，我已将 dlg memor dylib 注入到我的游戏中，并且我可以成功更改货币值，但唯一的问题是，例如，一旦我尝试使用我生成的 9999 货币，它就会恢复到原始金额。我知道如果应用程序将东西存储在服务器端，那么我就无法更改货币，但我想知道我是否做错了什么，或者它实际上是服务器端。  编辑：是的，我在单人游戏或离线中运行它，货币价值达到了我想要的值，我可以使用它，所以我认为这是服务器端的问题，但我是个新手，所以我不知道。    提交人    /u/ConcernMinute9608   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1empwuz/dlg_memor_question_for_the_pros/</guid>
+      <pubDate>Wed, 07 Aug 2024 22:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYou+ 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1emp0uj/uyou_issues/</link>
+      <description><![CDATA[因此我下载了 Scarlet 并尝试下载 Youtube++。当它不起作用时，我尝试了 uYou+。它打开正常，但即使登录时也只能播放 youtube 短片。我无法下载任何东西（它会失败）或观看完整长度的视频（它会崩溃），而且我不知道如何使用 Scarlet 的冲突解决。你能帮助我吗？我是侧载新手。    提交者    /u/TheElytheOfficial   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1emp0uj/uyou_issues/</guid>
+      <pubDate>Wed, 07 Aug 2024 22:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kitty Powers 媒人</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1emnsl9/kitty_powers_matchmaker/</link>
+      <description><![CDATA[我在任何地方都找不到适用于游戏 kitty powers matchmaker 的 ipa。pander helper 上有一个，但每次安装它都会崩溃。还有其他的吗？    提交人    /u/Chrry_child   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1emnsl9/kitty_powers_matchmaker/</guid>
+      <pubDate>Wed, 07 Aug 2024 21:22:54 GMT</pubDate>
+    </item>
     <item>
       <title>电子签名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1emmus7/e_sign/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Look@title    由   提交  /u/Exact-Road-2051   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1em02it/safest_site_to_open_ipa_files_with/</guid>
       <pubDate>Wed, 07 Aug 2024 02:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 的 Regram 不会显示个人资料分析器。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elzc4b/regram_for_instagram_wont_show_profile_analyzer/</link>
-      <description><![CDATA[      正如标题所述，由于这个新的 Instagram 更新，出于某种原因，我无法再使用个人资料分析器。  是的，我尝试退出应用程序，同时再次打开和关闭它，但没有任何效果。  下面是我的两个帐户的示例，一个没有新的更新，另一个有新的更新。  有人遇到过这种情况吗？如果是，我能做些什么吗？提前致谢。  （我从 http://ipa.cypwn.xyz 获得了 IPA，最新版本的 IPA。）    提交人    /u/Nicolas2913   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elzc4b/regram_for_instagram_wont_show_profile_analyzer/</guid>
-      <pubDate>Wed, 07 Aug 2024 01:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法运行 SideJitServer</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elz4nj/cant_get_sidejitserver_to_run/</link>
-      <description><![CDATA[我试图在我的 Mac 上使用 sidejitserver，但它从未通过“Uvicorn 正在运行”，然后它给了我错误“/venv./lib/python3.12/site-packages/pymobiledevice3/utils.py:55: DeprecationWarning: 没有当前事件循环 loop = asyncio.get_event_loop()”我真的想将 UTM 与 jit 一起使用，但这根本不起作用。如果有帮助的话，我正在使用 2021 MBP。    提交人    /u/Ok_Taro9366   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elz4nj/cant_get_sidejitserver_to_run/</guid>
-      <pubDate>Wed, 07 Aug 2024 01:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>appdb.to 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1elvg0h/is_appdbto_safe/</link>
-      <description><![CDATA[我刚刚下载并安装了一个游戏，可以吗？    提交人    /u/Unlucky-Ladder-8276   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1elvg0h/is_appdbto_safe/</guid>
-      <pubDate>Tue, 06 Aug 2024 22:37:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
