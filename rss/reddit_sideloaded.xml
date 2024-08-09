@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 09 Aug 2024 15:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 18:12:14 GMT</lastBuildDate>
+    <item>
+      <title>Esign 现在已经两次随机停止工作。还有人遇到过这个问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eo5o8e/esign_has_randomly_stopped_working_twice_now/</link>
+      <description><![CDATA[自从我发现 Esign 方法以来，我一直是它的忠实粉丝，但最近它让我失望了，我不知道为什么。在过去的几个月里，它和我安装的所有应用程序都随机停止工作了两次，我不知道为什么。我确保始终保持防撤销 DNS 处于打开状态，所以它不应该停止工作，但它不知何故却停止了。我想我会花 20 美元买一个为期一年的证书，这样我就不用担心了，但我只是好奇是否还有其他人也遇到过这种情况？    提交人    /u/JesseB342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eo5o8e/esign_has_randomly_stopped_working_twice_now/</guid>
+      <pubDate>Fri, 09 Aug 2024 17:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Esign 上签名后无法安装应用程序我做错了什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eo4fp1/cannot_install_apps_after_signing_them_on_esign/</link>
+      <description><![CDATA[我在 esign 上导入了 IPA，对其进行了签名，当我尝试安装时，什么都没有弹出或发生。我也有 Antirevoke DNS 设置和证书。我哪里做错了？    提交人    /u/Vipexx619   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eo4fp1/cannot_install_apps_after_signing_them_on_esign/</guid>
+      <pubDate>Fri, 09 Aug 2024 16:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天巴基斯坦的网络和社交媒体瘫痪了，之后我安装的应用程序没有得到验证，我该如何解决这个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eo2mju/today_the_network_and_social_media_was_down_in/</link>
+      <description><![CDATA[帮帮我     由   提交  /u/Neat_Jaguar69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eo2mju/today_the_network_and_social_media_was_down_in/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以将我的 Signulous 证书与 ESign 一起使用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eo2lhr/can_i_use_my_signulous_certificate_with_esign/</link>
+      <description><![CDATA[我已经使用免费的 ESign 方法一段时间了，但是由于 iOS 17 中的一些文件错误，我不得不半频繁地重启手机，这导致我被列入黑名单，不得不重新设置一切。 所以我最终购买了 signulous，想知道我是否可以将它与 ESign 一起使用，以允许我使用自定义存储库和类似的东西。提前谢谢了。    提交人    /u/Hannan_A   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eo2lhr/can_i_use_my_signulous_certificate_with_esign/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 9.3.5 上的侧载错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eo275w/sideload_error_on_ios_935/</link>
+      <description><![CDATA[上下文：我有一台运行 iOS 9.3.5 的 iPad 2,4（iPad 2 (Wifi)），由于苹果破坏了旧设备的激活功能，我使用银色激活了它。 但是现在我无法通过侧载 Phoenix 等应用程序进行越狱，尝试了几个应用程序和方法（Altstore、Sideloadly），但问题仍然存在。 在 iOS 17.0.2 上使用我的 iPhone SE 2020 测试了相同的 iPA，它可以正常侧载。 有没有办法对其进行暴力破解，或者有一个具有有效证书的网站供我使用？    提交人    /u/me33YT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eo275w/sideload_error_on_ios_935/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>有免费的 esim iPA 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eo0y17/are_there_any_free_esim_ipas/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>两个相同的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1enkkbv/two_of_the_same_app/</link>
-      <description><![CDATA[我想知道是否有可能在我的手机上获取两个相同的应用程序，因为我可以使用 appdb 来实现，但是有谁知道如何操作或者是否可以使用 appstore 中的应用程序来实现    提交人    /u/Afraid_Ad1325   [link] [评论]]]></description>
+      <description><![CDATA[我想知道是否有可能在我的手机上获取两个相同的应用程序，因为我可以使用 appdb 来实现，但是有谁知道如何做或者是否可以使用 appstore 中的应用程序来实现    提交人    /u/Afraid_Ad1325   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1enkkbv/two_of_the_same_app/</guid>
       <pubDate>Thu, 08 Aug 2024 23:24:10 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[嗨，我还没有购买 Apptesters，在购买之前我只是想了解更多信息。 我只是想知道 Apptesters 是否有 Snapchat 恶搞版和 PokeMMO。 如果没有，有谁知道我可以使用其他替代方案吗（最好越便宜越好）（也不是 Signulous）（我可以使用 Windows PC，但不想使用）    提交人    /u/CSprouty   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eni7zj/apptesters_apps/</guid>
       <pubDate>Thu, 08 Aug 2024 21:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eeveespotify 与 Siri 有什么区别？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1enfast/eeveespotify_with_siri/</link>
-      <description><![CDATA[我已经有一段时间没有使用 eeveespotify 了，我想知道是否有快捷方式/另一个经过调整的 spotify 可以使用 Siri（就像普通的 spotify 一样）？谢谢    提交人    /u/ultymix   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1enfast/eeveespotify_with_siri/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>绕过 3 个应用程序限制的最佳方法是什么？（SideLoadly）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1en826h/whats_the_best_way_to_get_around_the_3_app_limit/</link>
-      <description><![CDATA[除了每年向 Apple 开发者支付 99 美元外，还有其他方法可以绕过 3 个应用程序侧载限制吗？最好是便宜一点的方法。    提交人    /u/FredHerbertsWhistle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1en826h/whats_the_best_way_to_get_around_the_3_app_limit/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我找到了如何在 iOS 17 以上版本上侧载 3 个以上应用的方法</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1en7q7u/i_found_out_how_to_sideload_more_than_3_apps_on/</link>
-      <description><![CDATA[ 安装 Altstore  侧载 Scarlet 应用 使用 scarlet 安装无限数量的 IPA 文件。      提交人    /u/Danimal147   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1en7q7u/i_found_out_how_to_sideload_more_than_3_apps_on/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>EeveeSpotify 是否支持 Siri</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1en6owk/does_eeveespotify_support_siri_at_all/</link>
-      <description><![CDATA[我试图通过快捷方式在每次闹钟播放时播放我的播放列表之一，但我根本无法让 siri 与 eeveespotify 配合使用    提交人    /u/FinNinja28   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1en6owk/does_eeveespotify_support_siri_at_all/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个音乐应用程序可以让我使用我下载的歌曲制作播放列表？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1en5str/is_there_a_music_app_which_lets_me_make_playlists/</link>
-      <description><![CDATA[Eevee 不允许下载，YTMusicUltimate 不允许我制作已下载音乐的播放列表。我习惯使用 Apple Music，因此正在寻找类似的东西，因为它有一个“已下载”部分，如果已下载，则其中包含相同的播放列表。 我不介意从某个地方手动下载歌曲并将它们放在我的手机中，但这就像我的最后手段一样。    提交者    /u/DuckSleazzy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1en5str/is_there_a_music_app_which_lets_me_make_playlists/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:20:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
