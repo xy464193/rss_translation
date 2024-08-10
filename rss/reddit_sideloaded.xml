@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 10 Aug 2024 03:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 06:11:56 GMT</lastBuildDate>
+    <item>
+      <title>spotc++ 高级功能不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eoj9n0/spotc_premium_features_not_working/</link>
+      <description><![CDATA[我从官方 github 页面下载了 spotc++，并通过 sidestore 下载，没有任何问题，但高级功能不知为何无法使用，尽管上次下载时它运行良好。现在它只是显示“无法打开链接”“您尝试打开的链接似乎是 spotify 链接，但 spotify 无法打开它。”  基本上，我将我的 iphone 更新到了最新版本，这可能与此无法正常工作有关。所以，我不得不重新下载 sidestore 和 spotc++ 应用程序。 如果我遗漏了什么或者您推荐了更好的替代方案，请在评论中告诉我    提交人    /u/HooperKidd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eoj9n0/spotc_premium_features_not_working/</guid>
+      <pubDate>Sat, 10 Aug 2024 03:29:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Khoindvn Github 文件不见了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eoj0uv/khoindvn_github_files_gone/</link>
+      <description><![CDATA[所有文件都去哪儿了？    提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eoj0uv/khoindvn_github_files_gone/</guid>
+      <pubDate>Sat, 10 Aug 2024 03:16:19 GMT</pubDate>
+    </item>
     <item>
       <title>在欧盟下载 AltStore PAL 并在美国使用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eoi2pc/download_altstore_pal_in_the_eu_and_use_it_in_the/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[上下文：我有一台运行 iOS 9.3.5 的 iPad 2,4（iPad 2 (Wifi)），由于苹果破坏了旧设备的激活功能，我使用银色激活了它。 但是现在我无法通过侧载 Phoenix 等应用程序进行越狱，尝试了几个应用程序和方法（Altstore、Sideloadly），但问题仍然存在。 在 iOS 17.0.2 上使用我的 iPhone SE 2020 测试了相同的 iPA，它可以正常侧载。 有没有办法对其进行暴力破解，或者有一个具有有效证书的网站供我使用？    提交人    /u/me33YT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eo275w/sideload_error_on_ios_935/</guid>
       <pubDate>Fri, 09 Aug 2024 15:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify IPA 和 Spotify Car Thing</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1enxkq8/spotify_ipa_spotify_car_thing/</link>
-      <description><![CDATA[想知道是否有办法将 Car Thing 与 IPA 一起使用。我有一个 IPA，但没有像在常规应用程序中那样使用该 Thing 的选项。  如果有人有任何见解，将不胜感激！    提交人    /u/Alex_5oh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1enxkq8/spotify_ipa_spotify_car_thing/</guid>
-      <pubDate>Fri, 09 Aug 2024 11:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 appdb 降级 Snapchat 会导致我被禁止吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1envwkf/will_using_appdb_to_downgrade_snapchat_get_me/</link>
-      <description><![CDATA[Snapchat 本身仍显示已更新至最新，但具有我降级版本的功能，因此 Snapchat 不会将其检测为调整吗？    提交人    /u/JPNWeeb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1envwkf/will_using_appdb_to_downgrade_snapchat_get_me/</guid>
-      <pubDate>Fri, 09 Aug 2024 10:04:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
