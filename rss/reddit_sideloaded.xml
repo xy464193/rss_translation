@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 10 Aug 2024 09:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 12:15:18 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何 ipa 安装程序支持 Apple CarPlay 或者 trollstore 是唯一的？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eor0lq/does_any_ipa_installers_support_apple_carplay_or/</link>
+      <description><![CDATA[?    由   提交  /u/Tomfanter1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eor0lq/does_any_ipa_installers_support_apple_carplay_or/</guid>
+      <pubDate>Sat, 10 Aug 2024 11:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Youtube 调整登录</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eoq7pu/youtube_tweaked_sign_in/</link>
+      <description><![CDATA[嗨 登录经过调整的 YouTube 安全吗？是否有可能密码被盗或 YouTube 禁止我的帐户？使用 AppTesters IPA Repo 的最新版本 谢谢    由   提交  /u/TheIrishFello   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eoq7pu/youtube_tweaked_sign_in/</guid>
+      <pubDate>Sat, 10 Aug 2024 10:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>e 签名 DNS 方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eopq1t/e_sign_dns_method/</link>
+      <description><![CDATA[电子签名 DNS 方法是否始终避免撤销？我想知道它是如何工作的，我从 khovind 获得了我的 DNS 配置文件。谢谢    提交人    /u/ronnyradical1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eopq1t/e_sign_dns_method/</guid>
+      <pubDate>Sat, 10 Aug 2024 10:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国中信银行股份有限公司证书无法与 scarlet/esign/gbox 一起用于侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eophq2/china_citic_bank_corporation_certificate_doesnt/</link>
+      <description><![CDATA[它说我需要互联网连接来检查应用程序是否安全，但我有 wlan 和互联网，但安装该证书的所有其他应用程序都可以运行。请帮帮我    提交人    /u/Aircool08   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eophq2/china_citic_bank_corporation_certificate_doesnt/</guid>
+      <pubDate>Sat, 10 Aug 2024 10:04:46 GMT</pubDate>
+    </item>
     <item>
       <title>意义重大的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eones3/signulous_question/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[是否有 Picsify premium 解锁 ipa？    提交人    /u/Extension_Web_2870   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eo8ba7/picsify_premium_unlocked/</guid>
       <pubDate>Fri, 09 Aug 2024 19:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 现在已经两次随机停止工作。还有人遇到过这个问题吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eo5o8e/esign_has_randomly_stopped_working_twice_now/</link>
-      <description><![CDATA[自从我发现 Esign 方法以来，我一直是它的忠实粉丝，但最近它让我失望了，我不知道为什么。在过去的几个月里，它和我安装的所有应用程序都随机停止工作了两次，我不知道为什么。我确保始终保持防撤销 DNS 处于打开状态，所以它不应该停止工作，但它不知何故却停止了。我想我会花 20 美元买一个为期一年的证书，这样我就不用担心了，但我只是好奇是否还有其他人也遇到过这种情况？    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eo5o8e/esign_has_randomly_stopped_working_twice_now/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Esign 上签名后无法安装应用程序我做错了什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eo4fp1/cannot_install_apps_after_signing_them_on_esign/</link>
-      <description><![CDATA[我在 esign 上导入了 IPA，对其进行了签名，当我尝试安装时，什么都没有弹出或发生。我也有 Antirevoke DNS 设置和证书。我哪里做错了？    提交人    /u/Vipexx619   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eo4fp1/cannot_install_apps_after_signing_them_on_esign/</guid>
-      <pubDate>Fri, 09 Aug 2024 16:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天巴基斯坦的网络和社交媒体瘫痪了，之后我安装的应用程序没有得到验证，我该如何解决这个问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eo2mju/today_the_network_and_social_media_was_down_in/</link>
-      <description><![CDATA[帮帮我     由   提交  /u/Neat_Jaguar69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eo2mju/today_the_network_and_social_media_was_down_in/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以将我的 Signulous 证书与 ESign 一起使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eo2lhr/can_i_use_my_signulous_certificate_with_esign/</link>
-      <description><![CDATA[我已经使用免费的 ESign 方法一段时间了，但是由于 iOS 17 中的一些文件错误，我不得不半频繁地重启手机，这导致我被列入黑名单，不得不重新设置一切。 所以我最终购买了 signulous，想知道我是否可以将它与 ESign 一起使用，以允许我使用自定义存储库和类似的东西。提前谢谢了。    提交人    /u/Hannan_A   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eo2lhr/can_i_use_my_signulous_certificate_with_esign/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:26:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
