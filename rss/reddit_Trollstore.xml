@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Sat, 10 Aug 2024 15:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 18:10:44 GMT</lastBuildDate>
+    <item>
+      <title>我无法将 2.2.2 版多巴胺安装到 TrollStore 或通过 OTA 进行更新。</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1eozhtu/i_cant_get_version_222_dopamine_installed_onto/</link>
+      <description><![CDATA[每次我尝试下载或安装最新版本的 dopamine 2.2.2 时，它只会安装版本 2.2.1。还有其他人遇到同样的问题吗？    提交人    /u/christophmsc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1eozhtu/i_cant_get_version_222_dopamine_installed_onto/</guid>
+      <pubDate>Sat, 10 Aug 2024 18:10:21 GMT</pubDate>
+    </item>
     <item>
       <title>Trollstore iOS 18</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eon00t/trollstore_ios_18/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Trollstore 支持 iOS 17 已经有一段时间了，但我并没有真正感受到使用 TrollStore 的太多好处。随着 iOS 18 测试版的发布，我不再对越狱感兴趣，尽管 iOS 17.0 有很多错误并且电池性能不佳，但我还是继续使用它。我正在考虑更新我的 iOS，并重新使用证书在应用商店之外安装应用程序。 那么，你们觉得怎么样？    提交人    /u/mhmddhn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1egjdgi/is_there_any_good_things_to_keep_trollstore/</guid>
       <pubDate>Wed, 31 Jul 2024 10:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我使用 Troll Decrypt 保存已安装在手机上的 IPA，它会保留所有的注入/调整吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1egff1m/if_i_use_troll_decrypt_to_save_an_ipa_i_have/</link>
-      <description><![CDATA[我的意思是，我有一份非常过时的 SoundCloud++ 副本，但我在网上任何地方都找不到相同的 IPA，所以在我更新到“应该”已解锁所有高级功能的新版本之前，如果我使用 TD 保存我当前安装的 IPA 的副本，如果新更新的 IPA 不起作用，我可以安全地恢复到那个版本吗？    提交人    /u/Axl_Von_Urban   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1egff1m/if_i_use_troll_decrypt_to_save_an_ipa_i_have/</guid>
-      <pubDate>Wed, 31 Jul 2024 05:36:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
