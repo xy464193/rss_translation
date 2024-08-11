@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Sun, 11 Aug 2024 12:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 15:08:22 GMT</lastBuildDate>
+    <item>
+      <title>troll 安装程序 X 卡住了</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1epmxoe/the_troll_installer_x_is_stucked/</link>
+      <description><![CDATA[      有人有同样的问题吗？   由    /u/winfield001  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1epmxoe/the_troll_installer_x_is_stucked/</guid>
+      <pubDate>Sun, 11 Aug 2024 15:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>我无法将 2.2.2 版多巴胺安装到 TrollStore 或通过 OTA 进行更新。</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eozhtu/i_cant_get_version_222_dopamine_installed_onto/</link>
@@ -83,7 +90,7 @@
       <pubDate>Sat, 03 Aug 2024 16:09:17 GMT</pubDate>
     </item>
     <item>
-      <title>Trollstore 在 iOS 15.8.3 上卡在等待模式</title>
+      <title>Trollstore 在 iOS 15.8.3 上停留在等待模式</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eh0nba/trollstore_stuck_in_waiting_mode_on_ios_1583/</link>
       <description><![CDATA[      是不是因为新版 ios 的安全更新15.8.3 ??    由    /u/thedaywalk3r   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1eh0nba/trollstore_stuck_in_waiting_mode_on_ios_1583/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[   我需要 jit，因为没有它应用程序就无法启动    提交人    /u/Friendly_Ad_153   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1egn1lu/question_how_to_add_enable_jit_in_trollstore/</guid>
       <pubDate>Wed, 31 Jul 2024 13:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么好东西可以保留 Trollstore？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1egjdgi/is_there_any_good_things_to_keep_trollstore/</link>
-      <description><![CDATA[Trollstore 支持 iOS 17 已经有一段时间了，但我并没有真正感受到使用 TrollStore 的太多好处。随着 iOS 18 测试版的发布，我不再对越狱感兴趣，尽管 iOS 17.0 有很多错误并且电池性能不佳，但我还是继续使用它。我正在考虑更新我的 iOS，并重新使用证书在应用商店之外安装应用程序。 那么，你们觉得怎么样？    提交人    /u/mhmddhn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1egjdgi/is_there_any_good_things_to_keep_trollstore/</guid>
-      <pubDate>Wed, 31 Jul 2024 10:04:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
