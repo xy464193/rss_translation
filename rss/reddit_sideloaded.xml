@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 11 Aug 2024 09:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 12:15:03 GMT</lastBuildDate>
+    <item>
+      <title>允许应用程序逃离沙盒</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1epiui8/allow_apps_to_escape_sandbox/</link>
+      <description><![CDATA[我目前有一部搭载 A13 Bionic 的 iPhone 11 Pro，运行 iOS 18 beta 5，我找不到不是病毒的 jb，现在我使用免费证书通过 scarlet 安装。现在我想让应用离开沙盒，我该怎么办？    提交人    /u/Aircool08   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1epiui8/allow_apps_to_escape_sandbox/</guid>
+      <pubDate>Sun, 11 Aug 2024 11:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iOS 15.8 上使用 Jitterbug 进行 JIT</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1epiaj8/jit_with_jitterbug_on_ios_158/</link>
+      <description><![CDATA[这是我第一次使用 jitterbug，我的 iOS 15.8 iphone 没有可用于 jitterbug 的开发人员磁盘映像，我在网上也找不到，都是 15.7 以上版本，然后 16.0+ 就不行了。有没有什么方法可以使用它，或者有人能找到开发人员磁盘映像。我现在没有电脑，所以这些就是我得到的全部     提交人    /u/TrqshAtPVP   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1epiaj8/jit_with_jitterbug_on_ios_158/</guid>
+      <pubDate>Sun, 11 Aug 2024 11:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是黑名单以及它是如何运作的？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1epgy3o/whats_blacklisting_and_how_does_it_work/</link>
+      <description><![CDATA[我的手机是否被苹果服务器列入黑名单，还是我被证书列入黑名单？如果我被列入黑名单会发生什么？我首先是如何被列入黑名单的？    提交人    /u/L3App   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1epgy3o/whats_blacklisting_and_how_does_it_work/</guid>
+      <pubDate>Sun, 11 Aug 2024 09:38:47 GMT</pubDate>
+    </item>
     <item>
       <title>EA Spy Mouse - 正在寻找可用的 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1epfhc2/ea_spy_mouse_looking_for_working_ipa/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[寻找一款优质可靠的足球 ipa 应用，一直想要一个，但一直找不到。谢谢 🙏🏽🙏🏽    提交人    /u/Youserborba80   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ep2ili/looking_for_a_football_app/</guid>
       <pubDate>Sat, 10 Aug 2024 20:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 ESign 方面的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ep1cp0/need_help_with_esign/</link>
-      <description><![CDATA[因此，我正在尝试签名并安装我获得的 CarX Street ipa，并且我确保我有足够的存储空间来下载文件 4 次，但是在签名过程中，正如它说 100% 打包时它说失败了......我现在非常困惑    提交人    /u/TravelSquare6045   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ep1cp0/need_help_with_esign/</guid>
-      <pubDate>Sat, 10 Aug 2024 19:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>AppleTV 存储库</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eowyxj/appletv_repositories/</link>
-      <description><![CDATA[考虑从其中一个提供商处购买共享证书（可能是 MapleSign 4 设备交易）。我还没有看到太多关于您是否可以直接在 ATV 上获取 App Store 或 eSign 等存储库的信息。希望只加载一次并能够直接从设备安装 IPA。任何信息都将不胜感激！    提交人    /u/allhaildre   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eowyxj/appletv_repositories/</guid>
-      <pubDate>Sat, 10 Aug 2024 16:22:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以使用 GTA SA IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eowxk4/working_gta_sa_ipa/</link>
-      <description><![CDATA[我    由   提交  /u/Prestigious-Guide-61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eowxk4/working_gta_sa_ipa/</guid>
-      <pubDate>Sat, 10 Aug 2024 16:20:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
