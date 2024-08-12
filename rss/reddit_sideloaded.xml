@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 12 Aug 2024 09:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 12:18:32 GMT</lastBuildDate>
+    <item>
+      <title>在 Live Container 中收到错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eqby0d/getting_an_error_in_live_container/</link>
+      <description><![CDATA[尝试在实时容器中打开应用程序时出错  &quot;dlsym(RTLD_DEFAULT, bd_requestURLParameters): 未找到符号&quot; 我已正确设置实时容器，它们在 SideStore 上运行良好。我使用的是 iOS 18 测试版，但到目前为止这还没有引起任何问题。iPhone 15 Pro。 有什么想法吗？    提交人    /u/Rare-District7333   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eqby0d/getting_an_error_in_live_container/</guid>
+      <pubDate>Mon, 12 Aug 2024 12:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTMusicUltimate 不允许我正常下载播放列表和歌曲</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eqbt6i/ytmusicultimate_doesnt_let_me_download_playlist/</link>
+      <description><![CDATA[是不是只有我一个人这样，还是我们必须通过单击火焰图标从 YTMusicUltimate 手动下载我们想要的所有歌曲？而且它只能在 quicktime 上播放？    提交人    /u/amomandar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eqbt6i/ytmusicultimate_doesnt_let_me_download_playlist/</guid>
+      <pubDate>Mon, 12 Aug 2024 12:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eqaldv/what_to_do_now/</link>
+      <description><![CDATA[我已经在 iPhone 15 上安装了侧边存储，但我不知道如何在其上获取和安装应用程序。请有人帮助我了解该怎么做，谢谢。    提交人    /u/Bubbly_Tower_7439   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eqaldv/what_to_do_now/</guid>
+      <pubDate>Mon, 12 Aug 2024 10:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign repo 添加</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eqa0cp/esign_repo_adding/</link>
+      <description><![CDATA[我刚刚安装了 esign 无日志，现在正尝试将 swaggyp36000s repo 添加到其中，按照教程中的说明进行操作，但它不起作用，如果我输入链接，我会收到“返回数据错误”，如果我复制并添加所有内容，它只会加载一秒钟，然后什么都没有发生，任何帮助都将非常有帮助。    提交人    /u/Beginning_Word6742   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eqa0cp/esign_repo_adding/</guid>
+      <pubDate>Mon, 12 Aug 2024 10:18:05 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eq8t7j/looking_for_an_app/</link>
@@ -20,7 +48,7 @@
       <pubDate>Mon, 12 Aug 2024 06:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>“UWU 我把原木弄坏了。”我应该担心吗？</title>
+      <title>“UWU 我把木头弄坏了。”我应该担心吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eq55xq/uwu_i_killed_the_logs_should_be_i_worried/</link>
       <description><![CDATA[所以我在安装 esign，第一次打开时，我浏览了条款和条件，然后服务协议弹出来，说 uwu 我杀死了日志，我应该担心吗？    提交人    /u/Classic_Feeling5928   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eq55xq/uwu_i_killed_the_logs_should_be_i_worried/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[是不是只有我一个人这么想，或者这些条款到目前为止都是相同的，只是引入了费用来阻止第三方开发者获得竞争机会？有什么新东西吗，或者这只是一次软弱的尝试，试图延长欧盟的调查，哪怕只是一点点，这样他们就可以获得更多的利润，直到被迫遵守？    提交人    /u/KillerLeader   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1epvjiq/whats_the_deal_with_the_new_rules_apple_imposed/</guid>
       <pubDate>Sun, 11 Aug 2024 21:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 JIT？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1epuafn/what_is_jit/</link>
-      <description><![CDATA[它是什么？如何在不从计算机侧载的情况下获取它？    提交人    /u/Ciccionick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1epuafn/what_is_jit/</guid>
-      <pubDate>Sun, 11 Aug 2024 20:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录侧载的 yt</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1epu3oo/cant_sign_in_on_sideloaded_yt/</link>
-      <description><![CDATA[已将高级 YouTube 模块侧载，但无法登录我的 Google 帐户     提交人    /u/Dizzy-Efficiency-659   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1epu3oo/cant_sign_in_on_sideloaded_yt/</guid>
-      <pubDate>Sun, 11 Aug 2024 20:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我寻找生化危机村庄、生化危机4、刺客信条 ipa 已经有一段时间了。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eptysw/i_am_looking_for_resident_evil_village_and_re4/</link>
-      <description><![CDATA[我找到了一些，但它们不起作用（卡在加载屏幕）我有 ipad pro M2。有人能告诉我这些 AAA 游戏是否有可用的 ipa 吗？有人侧载过吗？    提交人    /u/2Much_Copium   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eptysw/i_am_looking_for_resident_evil_village_and_re4/</guid>
-      <pubDate>Sun, 11 Aug 2024 20:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouPlus 广告切换问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1epq7u9/uyouplus_ad_toggle_issue/</link>
-      <description><![CDATA[有没有其他人遇到过这样的问题：在 uYouPlus 中，当您进入 uYou 设置 &gt; 其他设置并关闭 YouTube 广告时，它会在重新启动应用后重置？这是正常现象吗？还是有解决办法？    提交人    /u/Ethan-B24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1epq7u9/uyouplus_ad_toggle_issue/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:22:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
