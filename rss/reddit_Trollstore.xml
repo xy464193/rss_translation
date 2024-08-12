@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Mon, 12 Aug 2024 03:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 06:14:04 GMT</lastBuildDate>
+    <item>
+      <title>在 iPhone 11 IOS 16.6 上播放 CarTube</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1eq4rse/playing_cartube_on_iphone_11_ios_166/</link>
+      <description><![CDATA[      大家好，长话短说，我有一个Iphone 11 的屏幕坏了一半，触摸无法工作，所以我决定买一部 iphone 15，当我发现 trollstore 不支持 ios17+ 并且苹果似乎已经发现了这个漏洞后没有计划很快推出时，我非常沮丧。 所以我决定检查我的 iPhone 11 使用的是哪个版本，令人惊讶的是它是 16.6，我非常兴奋，因为我知道可以安装 trollstore（顺便说一下很麻烦，但值得）然后我震惊了 cartube 项目不支持 ios 16+ 我试图安装最新版本，但它显示了一些奇怪的调试日志，我非常恼火。我决定尝试一下旧版本的 cartube 1.3 可以工作，但问题是它不稳定，因为它不应该工作。您必须解决这个问题，使用您的手机并粘贴 YouTube 链接，而且您无法轻松更改视频，您必须关闭应用程序并粘贴另一个链接，我知道这听起来很乏味，但它仍然非常值得  无论如何，我知道关于在 CarPlay 上观看视频以及苹果为什么禁止存在很多争论，但我在车里吃了很多东西，能够在屏幕上观看视频真是太奢侈了。    提交人    /u/jordaniansenpai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1eq4rse/playing_cartube_on_iphone_11_ios_166/</guid>
+      <pubDate>Mon, 12 Aug 2024 04:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>troll 安装程序 X 卡住了</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1epmxoe/the_troll_installer_x_is_stucked/</link>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 03 Aug 2024 16:09:17 GMT</pubDate>
     </item>
     <item>
-      <title>Trollstore 在 iOS 15.8.3 上卡在等待模式</title>
+      <title>Trollstore 在 iOS 15.8.3 上停留在等待模式</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eh0nba/trollstore_stuck_in_waiting_mode_on_ios_1583/</link>
       <description><![CDATA[      是不是因为新版 ios 的安全更新15.8.3 ??    由    /u/thedaywalk3r   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1eh0nba/trollstore_stuck_in_waiting_mode_on_ios_1583/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，朋友们，trollstore 什么时候发布 iOS 17.5.1    提交人    /u/Agile_Floor_2045   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1egnpfb/trollstore/</guid>
       <pubDate>Wed, 31 Jul 2024 13:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[问题] 如何在 trollstore 中添加“启用 JIT？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1egn1lu/question_how_to_add_enable_jit_in_trollstore/</link>
-      <description><![CDATA[   我需要 jit，因为没有它应用程序就无法启动    提交人    /u/Friendly_Ad_153   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1egn1lu/question_how_to_add_enable_jit_in_trollstore/</guid>
-      <pubDate>Wed, 31 Jul 2024 13:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
