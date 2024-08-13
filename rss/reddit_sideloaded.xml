@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 13 Aug 2024 09:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 12:17:26 GMT</lastBuildDate>
+    <item>
+      <title>无法安装此应用，因为无法验证其完整性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1er5wm8/this_app_cannot_be_installed_because_its/</link>
+      <description><![CDATA[正如标题所说，通过 esign 从 appdb 和 cypwn 安装 ipa 文件会导致出现消息“无法安装此应用程序，因为无法验证其完整性。” 我在网上到处都查过了，但没有答案。  有人知道如何解决这个问题吗？ 提前感谢所有的回复    提交人    /u/Tiled-Floors   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1er5wm8/this_app_cannot_be_installed_because_its/</guid>
+      <pubDate>Tue, 13 Aug 2024 11:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用付费开发者帐户在多台设备上进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1er4o4i/sideloading_on_multiple_devices_with_paid/</link>
+      <description><![CDATA[大家好， 有没有关于如何使用付费开发者帐户在多台设备上侧载应用程序的指南？ 目前，我已设置为使用 SideStore 方法在我的 iPhone 上侧载应用程序（与我的设备上的 iCloud 帐户相同），但只要我在其他设备上登录（设备上的 iCloud 帐户不同），我就会收到一封电子邮件，提示“您的证书已被撤销”。    提交人    /u/whoru07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1er4o4i/sideloading_on_multiple_devices_with_paid/</guid>
+      <pubDate>Tue, 13 Aug 2024 10:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何模拟旧的 IPA 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1er3865/how_can_i_emulate_old_ipa_files/</link>
+      <description><![CDATA[不确定这里是不是提问的正确地方。 我是否备份了 2010 年代的旧版 iOS 游戏，想再次玩。有没有办法模拟它们？ 我有一台装有 xcode 的 MacBook，但您需要一个开发者帐户才能运行它们。 似乎唯一的办法是购买旧的 iPhone 或 iPad。（我知道它很便宜，但我宁愿先寻找免费的替代品）    提交人    /u/__Acedia_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1er3865/how_can_i_emulate_old_ipa_files/</guid>
+      <pubDate>Tue, 13 Aug 2024 09:11:25 GMT</pubDate>
+    </item>
     <item>
       <title>来源</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1er2i2y/sources/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ESign对于免费用户来说危险吗？ 因为我在登录应用程序的时候收到一条信息说：“ESign是免费工具，任何付费证书、付费应用程序来源与ESign无关，因使用ESign而导致的任何问题均由用户自行负责。您不得将ESign提供的任何服务用于违反任何国家相关法律的用途，否则，由此导致的一切法律后果将由您自行承担。”那么，这是否意味着ESign对于非付费用户来说危险呢？    submitted by    /u/Scottaslin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eqqb7x/if_i_use_esign_without_paying_any_subscription/</guid>
       <pubDate>Mon, 12 Aug 2024 21:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 众神 VIP 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqovn8/ios_gods_vip_app/</link>
-      <description><![CDATA[有人有这个应用程序的 ipa 吗，可以给我吗？  https://iosgods.com/topic/172119-mobile-legends-bang-bang-1906-3-map-hack-esp-auto-aim/#comment-5430346    提交人    /u/HellReik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqovn8/ios_gods_vip_app/</guid>
-      <pubDate>Mon, 12 Aug 2024 20:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有针对 Bloons 6 调整过的 v44.1 ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqnpf3/is_there_a_v441_ipa_for_bloons_6_that_is_tweaked/</link>
-      <description><![CDATA[我一直在寻找新的 Bloons td6 ipa 调整，但我找不到任何可以工作的调整，我发现它们要么崩溃，要么根本不起作用。    提交人    /u/WolverineMedical1405   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqnpf3/is_there_a_v441_ipa_for_bloons_6_that_is_tweaked/</guid>
-      <pubDate>Mon, 12 Aug 2024 20:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载新手</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqmvmc/new_to_side_loading/</link>
-      <description><![CDATA[我刚刚开始使用带有防撤销 DNS 方法的 esign，我想知道它的全部缺点以及如何将 vpn 与它结合使用，另外，如果您可以建议我获得最好的调整应用程序（最佳流媒体应用程序，用于运动和电影最佳 vpn……），最佳 repos 和 ipa 下载网站（游戏和调整后的应用程序），我遇到了一些问题，例如 adguard pro 不会为我打开，每次打开它都会崩溃，并且侧面 JIT 服务器无法检测到我使用 esign 或 scarlet 侧载的应用程序     提交人    /u/Adilix_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqmvmc/new_to_side_loading/</guid>
-      <pubDate>Mon, 12 Aug 2024 19:28:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
