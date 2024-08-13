@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 13 Aug 2024 15:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 18:12:41 GMT</lastBuildDate>
+    <item>
+      <title>解密 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ercgri/decrypting_ipa/</link>
+      <description><![CDATA[因此，我获得了某个版本的应用程序，想要将其安装在我的 iPhone 上。我已经拥有 IPA 并已将其打开，但它已加密并通过 AppConfigurator 2 安装。 问题是 AppStore 中始终会显示更新提示，我想将其删除。 我对此的想法是解密所述 IPA 并将其侧载，这样就只保留此版本，而不会意外更新它并经历回滚过程，当然也不会删除 AppStore 应用程序上的更新徽章。 那么，如何才能安全地解密 IPA 以供自己使用？无需越狱，如果需要，我可以访问 Mac 或 Windows VM。希望有一个工具可以直接在 iPhone 上执行此操作？    提交人    /u/qiuChuck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ercgri/decrypting_ipa/</guid>
+      <pubDate>Tue, 13 Aug 2024 16:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 Beta 6 上的侧载有问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1erawac/issues_with_sideloading_on_ios_18_beta_6/</link>
+      <description><![CDATA[自从你们更新到 Beta 6 后，安装签名的应用程序时是否也遇到问题？ 在安装部分之前一切正常，但当你实际尝试安装签名的 IPA 时就失败了    提交人    /u/kroosw0w   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1erawac/issues_with_sideloading_on_ios_18_beta_6/</guid>
+      <pubDate>Tue, 13 Aug 2024 15:31:18 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以帮我侧载吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1er95w5/can_someone_help_me_in_sideloading/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我搜遍了互联网也没找到，而且我担心即使找到了也会因为 iOS 版本而被撤销    提交人    /u/HourMathematician679   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eqv2sb/anyone_have_an_fs_12_or_farming_simulator_causal/</guid>
       <pubDate>Tue, 13 Aug 2024 01:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>熊猫助手安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqt0ey/is_panda_helper_safe/</link>
-      <description><![CDATA[前段时间下载了一些地铁跑酷的东西，不知道是否安全。    提交人    /u/FutureLongjumping403   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqt0ey/is_panda_helper_safe/</guid>
-      <pubDate>Mon, 12 Aug 2024 23:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Instagram 恢复为旧版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqs0ab/reverting_instagram_to_older_version/</link>
-      <description><![CDATA[我有一部更新到 IOS 17.5.1 的 iPhone 14，我正考虑将我的 Instagram 恢复到旧版本——我喜欢社交媒体，想跟上人们的步伐，我只是不喜欢他们通过广告和简短内容变得如此掠夺性。我记得这是一个非常简单的过程，你可以在 2018 年从 Safari 中完成，但据我所知，如果没有备用 Windows 计算机或第二台越狱设备，要做到这一点变得相当困难。有人知道有什么相当简单的方法可以将 Instagram 和其他应用程序恢复到以前的版本吗？    提交人    /u/Solid_Scar9055   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqs0ab/reverting_instagram_to_older_version/</guid>
-      <pubDate>Mon, 12 Aug 2024 22:56:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
