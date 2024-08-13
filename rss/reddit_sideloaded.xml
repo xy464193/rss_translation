@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 13 Aug 2024 06:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 09:11:12 GMT</lastBuildDate>
+    <item>
+      <title>来源</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1er2i2y/sources/</link>
+      <description><![CDATA[有没有人有我可以尝试的 sidestore/altstore 来源，用于调整应用程序等。    提交人    /u/Brotholomeww   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1er2i2y/sources/</guid>
+      <pubDate>Tue, 13 Aug 2024 08:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试签名并安装应用程序时出错</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1er1a3e/error_when_trying_to_sign_and_install_apps/</link>
+      <description><![CDATA[我按照本页上的教程操作，但遇到了问题。我下载了 DNS 并进行了设置。我安装了 esign 和证书。每当我下载应用程序时，都会收到错误消息。“无法安装应用程序，因为无法验证其完整性。”这是否意味着所有证书都是坏的/被撤销了？还是我做错了什么？任何帮助都将不胜感激     提交人    /u/Thick-Quiet-9982   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1er1a3e/error_when_trying_to_sign_and_install_apps/</guid>
+      <pubDate>Tue, 13 Aug 2024 06:57:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何访问调整</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1er00tg/how_to_access_tweaks/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我刚刚开始使用带有防撤销 DNS 方法的 esign，我想知道它的全部缺点以及如何将 vpn 与它结合使用，另外，如果您可以建议我获得最好的调整应用程序（最佳流媒体应用程序，用于运动和电影最佳 vpn……），最佳 repos 和 ipa 下载网站（游戏和调整后的应用程序），我遇到了一些问题，例如 adguard pro 不会为我打开，每次打开它都会崩溃，并且侧面 JIT 服务器无法检测到我使用 esign 或 scarlet 侧载的应用程序     提交人    /u/Adilix_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eqmvmc/new_to_side_loading/</guid>
       <pubDate>Mon, 12 Aug 2024 19:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deezer IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqm14k/deezer_ipa/</link>
-      <description><![CDATA[有人有可以正常工作的 Deezer IPA 链接吗？    提交人    /u/ReplacementJolly7939   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqm14k/deezer_ipa/</guid>
-      <pubDate>Mon, 12 Aug 2024 18:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑更新我的 IOS（失去 TrollStore 和越狱能力）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eqkgge/considering_updating_my_ios_losing_trollstore_and/</link>
-      <description><![CDATA[你好！ 我目前使用的是 iPhone 13 Pro Max，iOS 16.1.2，安装了 TrollStore，并具有越狱功能。尽管如此，我仍然想更新我的 IOS。我遇到了很多错误，有些至少对我来说是“交易破坏者”，例如 Spotlight 搜索有时会停止工作。（输入应用程序的名称，什么都没有显示）这是我打开应用程序的主要方式，也是我唯一想到的方式。除了 Apple 实现的新功能（例如在呼叫某人时显示联系人照片）和 NameDrop 之外，还面临着这样的错误，这真的吸引了我。阻止我更新的唯一原因是 TrollStore。我喜欢 TrollStore，喜欢它易于使用和稳定。但是，我只将它用于“修改版”的应用程序，尤其是社交媒体应用程序。  我是否应该升级并使用类似 MapleSigner 之类的东西，这会是一个稳定的体验吗？或者我是否应该不更新并保留 TrollStore 的高级和原生体验，尽管存在 IOS Bug？ 我希望得到一些反馈！    提交人    /u/Ok_Purple_6557   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eqkgge/considering_updating_my_ios_losing_trollstore_and/</guid>
-      <pubDate>Mon, 12 Aug 2024 17:54:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
