@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 14 Aug 2024 03:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 06:13:17 GMT</lastBuildDate>
+    <item>
+      <title>任何带有下载功能的 spotify premium/ytmusic ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1errnj3/any_spotify_premiumytmusic_ipa_with_downloads/</link>
+      <description><![CDATA[我不太了解 spotube，但我的 530 首歌曲播放列表被截断了，所以我复制并删除了手动适合的一半以制作 2 个播放列表，第二个播放列表仅限于 79 首歌曲 oml 😭 ytmusicultimate 也无法下载整个播放列表。我有一部 iPhone xs（ios 17），如果有人能提供解决方案我将不胜感激 😭💀😭    提交人    /u/megu7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1errnj3/any_spotify_premiumytmusic_ipa_with_downloads/</guid>
+      <pubDate>Wed, 14 Aug 2024 03:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>不工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1err7u2/not_working/</link>
+      <description><![CDATA[嘿，我只是想玩修改过的 Good Pizza, Great Pizza，但它不起作用，有人能帮忙吗  我对黑客或编程一无所知，或者我让某人帮助我达到这一点，他也不知道为什么它不起作用     由   提交  /u/Damiensacc   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1err7u2/not_working/</guid>
+      <pubDate>Wed, 14 Aug 2024 03:15:33 GMT</pubDate>
+    </item>
     <item>
       <title>我想要同时具有 antirevoke 和 adblocker 的 DNS。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1erqn1x/i_want_dns_with_antirevoke_adblocker_at_the_same/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我对这个世界很陌生，所以请记住这一点。 正如标题所说，我侧载的一款应用不断要求我输入 Apple ID，我甚至无法退出该应用，所以我不得不关掉手机。这对我来说似乎很可疑，所以我立即卸载了它，没有输入任何信息。我​​知道侧载应用在恶意软件等方面无能为力，所以我可以继续使用了？    提交人    /u/dumb-boiii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1erf0gf/sideloaded_app_asked_me_to_sign_into_my_apple_id/</guid>
       <pubDate>Tue, 13 Aug 2024 18:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ercgri/decrypting_ipa/</link>
-      <description><![CDATA[因此，我获得了某个版本的应用程序，想要将其安装在我的 iPhone 上。我已经拥有 IPA 并已将其打开，但它已加密并通过 AppConfigurator 2 安装。 问题是 AppStore 中始终会显示更新提示，我想将其删除。 我对此的想法是解密所述 IPA 并将其侧载，这样就只保留此版本，而不会意外更新它并经历回滚过程，当然也不会删除 AppStore 应用程序上的更新徽章。 那么，如何才能安全地解密 IPA 以供自己使用？无需越狱，如果需要，我可以访问 Mac 或 Windows VM。希望有一个工具可以直接在 iPhone 上执行此操作？    提交人    /u/qiuChuck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ercgri/decrypting_ipa/</guid>
-      <pubDate>Tue, 13 Aug 2024 16:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 Beta 6 上的侧载有问题吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1erawac/issues_with_sideloading_on_ios_18_beta_6/</link>
-      <description><![CDATA[自从你们更新到 Beta 6 后，安装签名的应用程序时是否也遇到问题？ 在安装部分之前一切正常，但当你实际尝试安装签名的 IPA 时就失败了    提交人    /u/kroosw0w   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1erawac/issues_with_sideloading_on_ios_18_beta_6/</guid>
-      <pubDate>Tue, 13 Aug 2024 15:31:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
