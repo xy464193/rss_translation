@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 13 Aug 2024 21:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 00:41:29 GMT</lastBuildDate>
+    <item>
+      <title>侧载旁路 (sideload Bypass) 的作用是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1erjogb/what_is_sideload_bypass_do/</link>
+      <description><![CDATA[我不明白有什么好处？    提交人    /u/NoozPrime   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1erjogb/what_is_sideload_bypass_do/</guid>
+      <pubDate>Tue, 13 Aug 2024 21:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>有人在 iPhone 上感染过熊猫助手恶意软件吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1erisfa/has_anyone_ever_got_malware_from_panda_helper_on/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>有人可以帮我侧载吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1er95w5/can_someone_help_me_in_sideloading/</link>
-      <description><![CDATA[我想使用 sideloadly！太糟糕了，但每次我想使用它时都会出错：我尝试在两台电脑上使用，但都没有用。我需要达到最低年龄才能使用 sideloadly 吗？我需要苹果开发者账户吗？我需要在电脑上安装 iTunes 或 icloud 吗？我需要打开飞行模式吗？我可以向您显示我的错误，如果您能提供任何帮助，我将不胜感激 （如果您不能帮助我，请推荐一款不需要电脑的 sideloading 应用程序，我将不胜感激）    提交人    /u/AbbreviationsLow5737   [链接] [评论]]]></description>
+      <description><![CDATA[我想使用 sideloadly！太糟糕了，但每次我想使用它时都会出错：我尝试在两台电脑上使用，但都没有用。我需要达到最低年龄才能使用 sideloadly 吗？我需要苹果开发者账户吗？我需要在电脑上安装 iTunes 或 icloud 吗？我需要打开飞行模式吗？我可以向您展示我的错误，如果您能提供任何帮助，我将不胜感激 （如果您不能帮助我，请推荐一款不需要电脑的 sideloading 应用程序，我将不胜感激）    提交人    /u/AbbreviationsLow5737   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1er95w5/can_someone_help_me_in_sideloading/</guid>
       <pubDate>Tue, 13 Aug 2024 14:22:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[正如标题所说，通过 esign 从 appdb 和 cypwn 安装 ipa 文件会导致出现消息“无法安装此应用程序，因为无法验证其完整性。” 我在网上到处都查过了，但没有答案。  有人知道如何解决这个问题吗？ 提前感谢所有的回复    提交人    /u/Tiled-Floors   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1er5wm8/this_app_cannot_be_installed_because_its/</guid>
       <pubDate>Tue, 13 Aug 2024 11:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用付费开发者帐户在多台设备上进行侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1er4o4i/sideloading_on_multiple_devices_with_paid/</link>
-      <description><![CDATA[大家好， 有没有关于如何使用付费开发者帐户在多台设备上侧载应用程序的指南？ 目前，我已设置为使用 SideStore 方法在我的 iPhone 上侧载应用程序（与我的设备上的 iCloud 帐户相同），但只要我在其他设备上登录（设备上的 iCloud 帐户不同），我就会收到一封电子邮件，提示“您的证书已被撤销”。    提交人    /u/whoru07   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1er4o4i/sideloading_on_multiple_devices_with_paid/</guid>
-      <pubDate>Tue, 13 Aug 2024 10:46:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
