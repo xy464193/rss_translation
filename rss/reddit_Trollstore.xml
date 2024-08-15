@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Thu, 15 Aug 2024 12:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 15:09:15 GMT</lastBuildDate>
+    <item>
+      <title>如果我更新到最新的 iOS，AppStore 更新还会有效吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1eswmg2/will_appstore_updates_work_if_i_update_to_latest/</link>
+      <description><![CDATA[自从我下载了 TrollStore 后，我就无法再通过 AppStore 更新应用程序了。我读到的唯一解决办法是将 iPhone 恢复出厂设置。 如果我更新到最新的 iOS，这个问题会得到解决吗？当然，TrollStore 会被删除。 还有解决办法吗？不用更新我的 iPhone？    提交人    /u/Buddy551   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1eswmg2/will_appstore_updates_work_if_i_update_to_latest/</guid>
+      <pubDate>Thu, 15 Aug 2024 14:28:44 GMT</pubDate>
+    </item>
     <item>
       <title>应用程序没有图标。帮助</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ess6kp/apps_dont_have_icons_help/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 iPhone 13 Pro Max 16.6.1 上。有些应用程序（并非全部）无法保持登录状态。不仅是 TrollStore 应用程序，还有我从 App Store 下载的应用程序。我搜索过但找不到任何相同的报告。有什么想法可能导致这种情况吗？提前致谢。    提交人    /u/mick_swagger   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1eldeer/apps_keep_logging_out/</guid>
       <pubDate>Tue, 06 Aug 2024 09:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trollstore 安全吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</link>
-      <description><![CDATA[我使用 appdb 安装 TrollStore 时，它​​检测到“可能的恶意软件”，在我使用 VirusTotal 并扫描了几种病毒后，它们是否都是误报？我使用了错误的下载链接吗？我使用了 subreddit 关于页面中的下载链接    提交人    /u/TylerTheGuy298   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</guid>
-      <pubDate>Tue, 06 Aug 2024 08:50:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
