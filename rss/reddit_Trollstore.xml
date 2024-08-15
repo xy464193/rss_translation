@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Thu, 15 Aug 2024 09:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 12:17:02 GMT</lastBuildDate>
+    <item>
+      <title>应用程序没有图标。帮助</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ess6kp/apps_dont_have_icons_help/</link>
+      <description><![CDATA[      我通过 trollstore 安装的所有应用程序都没有图标。自从七月我买 iphone 以来就有了，但是今天它们不见了。帮助我    提交人    /u/Slow-Hyena-7361   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ess6kp/apps_dont_have_icons_help/</guid>
+      <pubDate>Thu, 15 Aug 2024 10:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序没有图标。帮助</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ess4y9/apps_dont_have_icons_help/</link>
+      <description><![CDATA[      我通过 trollstore 安装的所有应用程序都没有图标。自从七月我买 iphone 以来就有了，但是今天它们不见了。帮助我    提交人    /u/Slow-Hyena-7361   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ess4y9/apps_dont_have_icons_help/</guid>
+      <pubDate>Thu, 15 Aug 2024 10:53:25 GMT</pubDate>
+    </item>
     <item>
       <title>目前最好的 TikTok IPA 是什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1esk6jk/what_is_the_best_tiktok_ipa_right_now/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我使用 appdb 安装 TrollStore 时，它​​检测到“可能的恶意软件”，在我使用 VirusTotal 并扫描了几种病毒后，它们是否都是误报？我使用了错误的下载链接吗？我使用了 subreddit 关于页面中的下载链接    提交人    /u/TylerTheGuy298   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1elcsg0/is_trollstore_safe/</guid>
       <pubDate>Tue, 06 Aug 2024 08:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iPhone 14 的 iOS 16.6.1 上安装 TrollStore 几天后无法更新常规 App Store 应用</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ekuyy6/cant_update_regular_app_store_apps_a_few_days/</link>
-      <description><![CDATA[正如标题所述，我无法更新大多数常用的 App Store 应用程序，如果我想“更新”它们，我必须重新安装它们，这样它们才能保持最新版本。在获得 TrollStore 几天后，我开始遇到无法更新应用程序的问题，这不是存储问题导致的，而且在我使用手机大约一年后，我从未遇到过这种情况。我甚至用我的 Windows 笔记本电脑将手机恢复到 TrollStore 之前的备份，但问题仍然存在。有人知道如何解决这个问题吗？  编辑：好的，我已修复此问题，再次安装 TrollStore 并获取 Filza 后，您不仅必须同时将应用程序目录的所有者和组更改为 _installd，而且应用程序目录内的每个应用程序的所有者和组也需要更改为 _installd（位置为 var/containers/Bundle/Application），我主要通过获取 bootstrap 和下载 newterm 3 终端来解决这个问题，并直接从终端更改内容，因为对我来说这样更快，但如果您不知道自己在做什么，就会很复杂。     提交人    /u/NoDuck1170   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ekuyy6/cant_update_regular_app_store_apps_a_few_days/</guid>
-      <pubDate>Mon, 05 Aug 2024 18:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果一个</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ektep1/apple_one_free/</link>
-      <description><![CDATA[各位，我听说有一种方法可以通过 VIP 72 计划获取 Apple One 代码，我想你们中没有人不知道这种方法。请帮助我们，伙计们。    提交人    /u/Agile_Floor_2045   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ektep1/apple_one_free/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:16:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
