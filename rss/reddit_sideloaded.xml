@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 16 Aug 2024 15:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 18:12:25 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找 IPA：</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1etunf3/im_searching_for_ipas/</link>
+      <description><![CDATA[Toca Life Unblocked、Alight motion pro、Capcut Pro    由    /u/nikeziny  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1etunf3/im_searching_for_ipas/</guid>
+      <pubDate>Fri, 16 Aug 2024 17:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>WireGuard/SideStore 问题！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1etsyxv/wireguardsidestore_issue/</link>
+      <description><![CDATA[通常，当我激活（必需的）WireGuard VPN 来刷新 SideStore 的应用程序（例如 LiveContainer）时，ESign 应用程序（通过 KhoinDNS 配置文件）会被撤销！！！有人向我解释说，通过激活 VPN，DNS 配置文件“退居次要地位”！对于某些 VPN（例如 WARP），可以选择使用 ZeroTrust（它也用于绕过苹果撤销）！ 有没有人（同时使用防撤销配置文件和 SideStore，因此使用 WireGuard vpn）可以告诉我如何在每次打开 WireGuard 时停止连续的撤销？    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1etsyxv/wireguardsidestore_issue/</guid>
+      <pubDate>Fri, 16 Aug 2024 16:16:29 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以上传新的 fortnite 2024 ipa 吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1etqtje/can_someone_upload_the_new_fortnite_2024_ipa_pls/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/laryiza   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1etfhk1/i_just_tried_using_signulous_for_the_first_time/</guid>
       <pubDate>Fri, 16 Aug 2024 04:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以保存和恢复数据吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1etf86b/is_there_anyway_to_save_and_restore_data/</link>
-      <description><![CDATA[所以我被撤销并从备份中恢复了。但侧载的应用程序没有恢复。我可以看到图标，但必须删除该应用程序。我尝试在现有图标上安装，但它说安装失败。我不想失去我的进度，有什么办法可以恢复吗？    提交人    /u/Jattsaab69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1etf86b/is_there_anyway_to_save_and_restore_data/</guid>
-      <pubDate>Fri, 16 Aug 2024 03:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何侧载太旧的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1etdjcx/how_to_side_load_apps_that_are_too_old/</link>
-      <description><![CDATA[我想在最新的 iOS 上在 iPhone 13 上重播一些应用程序（海港大师、100 层），但它们总是在我打开它们时崩溃，或者说需要更新（取决于应用程序的版本）有什么办法可以绕过这个问题吗？    提交人    /u/juliousrobins   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1etdjcx/how_to_side_load_apps_that_are_too_old/</guid>
-      <pubDate>Fri, 16 Aug 2024 02:24:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
