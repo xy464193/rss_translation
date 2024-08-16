@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Fri, 16 Aug 2024 12:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 15:09:05 GMT</lastBuildDate>
+    <item>
+      <title>在 iPad Pro m1 上安装 trollstore</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1etobgn/installing_trollstore_on_ipad_pro_m1/</link>
+      <description><![CDATA[我有一台 iPad Pro M1。是否可以降级我的 iOS 版本来安装 trollstore？如果可以，我需要降级到哪个最新的 iOS，安装方法是什么？很抱歉，我发现在线指南很难理解。 谢谢    提交人    /u/ThomasAlban307   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1etobgn/installing_trollstore_on_ipad_pro_m1/</guid>
+      <pubDate>Fri, 16 Aug 2024 13:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来会有欧盟市场 Trollstore 版本吗？🤔</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1etniwt/eu_marketplace_trollstore_version_in_the_future/</link>
+      <description><![CDATA[是否会有类似 altstore PAL 的适用于欧盟的 Trollstore 版本    提交人    /u/Aircool08   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1etniwt/eu_marketplace_trollstore_version_in_the_future/</guid>
+      <pubDate>Fri, 16 Aug 2024 12:30:29 GMT</pubDate>
+    </item>
     <item>
       <title>如果我更新到最新的 iOS，AppStore 更新还会有效吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1eswmg2/will_appstore_updates_work_if_i_update_to_latest/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我通过 jailbreaks.app 安装了 troll store，它要求验证 trollinstallerx，我照做了，但之后它仍然说同样的话。我使用的是 15.5 iOS 系统和 a9 芯片组，应该可以工作，但我不知道哪里出了问题。    提交人    /u/Randumbweeb   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1elkx92/troll_store_not_being_verified/</guid>
       <pubDate>Tue, 06 Aug 2024 15:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trollstore 通过 rootful 越狱 iOS 16.7.5</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1elfyer/trollstore_via_rootful_jailbreak_ios_1675/</link>
-      <description><![CDATA[大家好，我正在尝试越狱我的 iPhone 8，它运行的是 iOS 16.7.5，我想让 trollstore 侧载应用程序，因此我使用了 burhan rana 在 rootful 越狱上制作的指南，他越狱了他的手机并安装了 cydia，然后 trollstore 我犯了一个错误，那就是在不使用 usbdk 的情况下创建了假 fs，现在当我从 winraln 运行 rootful 越狱来获取 paleraln 时，它不断重试，但出现 err2，这意味着它无法创建另一个假 fs，我尝试使用 usbdk 但没有 usodk 它就是不起作用，我没有越狱，我确实通过强制重启摆脱了循环，但我能做什么知道我的主要目标是滑动应用程序没有任何问题任何解决方案都会有所帮助谢谢。    提交人    /u/IcyStuff7716   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1elfyer/trollstore_via_rootful_jailbreak_ios_1675/</guid>
-      <pubDate>Tue, 06 Aug 2024 12:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序不断退出</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1eldeer/apps_keep_logging_out/</link>
-      <description><![CDATA[在 iPhone 13 Pro Max 16.6.1 上。有些应用程序（并非全部）无法保持登录状态。不仅是 TrollStore 应用程序，还有我从 App Store 下载的应用程序。我搜索过但找不到任何相同的报告。有什么想法可能导致这种情况吗？提前致谢。    提交人    /u/mick_swagger   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1eldeer/apps_keep_logging_out/</guid>
-      <pubDate>Tue, 06 Aug 2024 09:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
