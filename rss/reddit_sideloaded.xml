@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 16 Aug 2024 06:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 09:10:40 GMT</lastBuildDate>
+    <item>
+      <title>无法打开银行应用程序！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1etjeh6/cant_open_bank_app/</link>
+      <description><![CDATA[大家好，我的设备是 12pro，运行 iOS17.2.1，安装了 Altstore。每次我尝试打开我的银行应用程序时，它都显示越狱检测，不让我使用该应用程序。但我的设备只是有一些侧载应用程序，但没有越狱？有什么办法可以解决这个问题吗？    提交人    /u/Sarversucks   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1etjeh6/cant_open_bank_app/</guid>
+      <pubDate>Fri, 16 Aug 2024 08:20:44 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚第一次尝试使用 Signulous，签名等之后，我想安装一个应用程序，但它一直停留在等待状态。我该如何解决这个问题？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1etfhk1/i_just_tried_using_signulous_for_the_first_time/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿伙计们，我知道应用商店中有更好的第三方计算器，它们实际上有退格/删除按钮哈哈 但是我真的很喜欢从控制中心打开计算器的便利。在 IOS 17 及更低版本中，除非越狱，否则不能将任何应用添加到控制中心。 如果我删除默认计算器应用程序并侧载第三方计算器，但更改名称和捆绑包 ID 以匹配原始计算器应用程序，该怎么办。有人知道这是否允许将其添加到控制中心吗？ 在尝试使其工作之前，我想事先知道是否可能    提交人    /u/MightyWolf39   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1et3x16/replacing_the_ios_17_and_lower_calculator/</guid>
       <pubDate>Thu, 15 Aug 2024 19:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>辞职</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1et3v44/resign/</link>
-      <description><![CDATA[如果所有 esign 应用链接均未安装，该怎么办？    提交人    /u/FTLisCOMING   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1et3v44/resign/</guid>
-      <pubDate>Thu, 15 Aug 2024 19:18:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
