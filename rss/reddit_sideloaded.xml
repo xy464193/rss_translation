@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 17 Aug 2024 15:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 18:11:59 GMT</lastBuildDate>
+    <item>
+      <title>解决方法 - 侧载 iOS 18 beta 6</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1euo38q/workaround_sideload_ios_18_beta_6/</link>
+      <description><![CDATA[我找到了一种在 iOS 18 dev beta 6 上进行侧载的方法。  如果您已从 MapleSign 或其他提供商处购买了证书，则应该能够使用此网站进行侧载。我在使用 esign 和其他应用程序时遇到了同样的问题，但已成功完成此操作。希望这能帮助大家，直到问题得到解决。  https://sign.ipasign.cc/    提交人    /u/knighthawk0127   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1euo38q/workaround_sideload_ios_18_beta_6/</guid>
+      <pubDate>Sat, 17 Aug 2024 18:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apptesters.org 与 iOS rocket 对比</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eunzlg/apptestersorg_vs_ios_rocket/</link>
+      <description><![CDATA[你好朋友，终身计划签署哪个更好？到目前为止你的体验如何？还有其他更好的选择吗？ 提前致谢。    提交人    /u/khurshidhere   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eunzlg/apptestersorg_vs_ios_rocket/</guid>
+      <pubDate>Sat, 17 Aug 2024 18:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iOS 不支持的设备上下载 Fortnite</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eungjk/how_to_download_fortnite_on_ios_unsupported/</link>
+      <description><![CDATA[所以我有一部不受 fortnite 支持的 iphone se 2020，所以有什么办法可以下载它     提交人    /u/No_Imagination_6906   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eungjk/how_to_download_fortnite_on_ios_unsupported/</guid>
+      <pubDate>Sat, 17 Aug 2024 17:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些签名服务为其证书启用了外部虚拟寻址？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eunb69/which_signing_services_have_external_virtual/</link>
+      <description><![CDATA[title    由   提交  /u/Noah2570   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eunb69/which_signing_services_have_external_virtual/</guid>
+      <pubDate>Sat, 17 Aug 2024 17:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子签名证书和移动监管</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eum8lj/esign_certificate_and_mobilesupervison/</link>
+      <description><![CDATA[我已导入证书和移动监管，但系统提示证书已被吊销，有人能给我一个可用的证书和移动监管文件吗？    提交人    /u/HansiDaHamster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eum8lj/esign_certificate_and_mobilesupervison/</guid>
+      <pubDate>Sat, 17 Aug 2024 16:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>安加米++？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eukbre/anghami/</link>
+      <description><![CDATA[有人有经过调整的 anghami ipa 吗，它与 spotify 类似，但在中东很出名    提交人    /u/Optimal-Complaint486   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eukbre/anghami/</guid>
+      <pubDate>Sat, 17 Aug 2024 15:26:33 GMT</pubDate>
+    </item>
     <item>
       <title>Signulous 上的 Fortnite</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eugnis/fortnite_on_signulous/</link>
@@ -20,7 +62,7 @@
       <pubDate>Sat, 17 Aug 2024 12:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>您是否有使用付费开发者账户创建证书的教程？</title>
+      <title>您是否有使用付费开发者帐户创建证书的教程？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eufh9s/would_you_have_a_tutorial_to_create_certificates/</link>
       <description><![CDATA[我正在考虑使用付费开发者帐户来用我自己的证书进行签名，您有使用付费开发者帐户创建证书的教程吗？    提交人    /u/djazairisky   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eufh9s/would_you_have_a_tutorial_to_create_certificates/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[这不是自签名应用程序，而是通过标准的第三方 App Store 流程安装的。他们提供了相当有说服力的视频证据，并表示一旦他们完成方法以确保它尽可能简单，他们将在几个小时内上传教程。 https://twitter.com/saunderstech/status/1824626252356943924    提交人    /u/AugustMKraft   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eu8vrv/twitter_user_saunders_tech_claims_to_bypass_eu/</guid>
       <pubDate>Sat, 17 Aug 2024 04:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tor 代理不能与防撤销功能配合使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu5ndx/does_a_tor_proxy_not_work_with_antirevoke/</link>
-      <description><![CDATA[我假设如此。但我想再检查一下。    由    /u/grandiloquence3 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu5ndx/does_a_tor_proxy_not_work_with_antirevoke/</guid>
-      <pubDate>Sat, 17 Aug 2024 01:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人有 Java 21 的 PojavLauncher 或者安装 Java 21 的方法</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu55ku/does_anyone_have_a_pojavlauncher_with_java_21_or/</link>
-      <description><![CDATA[无需正文    由    /u/ytfanboiii_exe 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu55ku/does_anyone_have_a_pojavlauncher_with_java_21_or/</guid>
-      <pubDate>Sat, 17 Aug 2024 00:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 UI 没有在后台获取消息！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu40ko/whats_ui_not_fetching_message_in_background/</link>
-      <description><![CDATA[因此，我正在使用最新版本的 WhatsUI，并尝试使用 Duplicate WhatsUI，但问题仍然存在。当我关闭应用程序时，它不会收到任何消息，而当我打开它时，所有消息都会被获取。 我尝试了一些方法，但没有成功。如能得到一点帮助，将不胜感激🙂    提交人    /u/ZestAvatar37   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu40ko/whats_ui_not_fetching_message_in_background/</guid>
-      <pubDate>Sat, 17 Aug 2024 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>兄弟，我的 IP 和苹果 ID 都在欧洲</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu39ta/like_bruh_my_ip_and_apple_id_is_in_europe/</link>
-      <description><![CDATA[我的手机位于欧盟国家/地区内，但是当我想下载 Epic 游戏商店时，它告诉我您无权安装此应用程序，但没有显示您不在欧盟，谢谢帮助😭😭😭    提交人    /u/Ducky_mcdeez69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu39ta/like_bruh_my_ip_and_apple_id_is_in_europe/</guid>
-      <pubDate>Fri, 16 Aug 2024 23:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何联系 swaggy 来请求添加应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu391e/how_can_i_contact_swaggy_to_ask_to_add_an_app/</link>
-      <description><![CDATA[我想添加一个应用程序来签名，但我不知道该怎么做？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu391e/how_can_i_contact_swaggy_to_ask_to_add_an_app/</guid>
-      <pubDate>Fri, 16 Aug 2024 23:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELI5：为什么 Epic Games 不想发布他们的 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eu30g6/eli5_why_doent_epic_games_want_to_release_their/</link>
-      <description><![CDATA[既然 Epic Games 与 AltStore PAL 合作，为什么他们不想为 AltStore International 发布 IPA？我认为这是一个愚蠢的问题，但我不明白原因。 编辑：澄清一下，我不是问为什么 Epic Games 不在 App Store 上。我是问为什么他们不提供用于 Altstore International 的 IPA。    提交人    /u/AugustMKraft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eu30g6/eli5_why_doent_epic_games_want_to_release_their/</guid>
-      <pubDate>Fri, 16 Aug 2024 23:17:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
