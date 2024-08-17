@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 17 Aug 2024 00:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 03:09:47 GMT</lastBuildDate>
+    <item>
+      <title>Tor 代理不能与防撤销功能配合使用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eu5ndx/does_a_tor_proxy_not_work_with_antirevoke/</link>
+      <description><![CDATA[我假设如此。但我想再检查一下。    由    /u/grandiloquence3 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eu5ndx/does_a_tor_proxy_not_work_with_antirevoke/</guid>
+      <pubDate>Sat, 17 Aug 2024 01:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人有 Java 21 的 PojavLauncher 或者安装 Java 21 的方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eu55ku/does_anyone_have_a_pojavlauncher_with_java_21_or/</link>
+      <description><![CDATA[无需正文    由    /u/ytfanboiii_exe 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eu55ku/does_anyone_have_a_pojavlauncher_with_java_21_or/</guid>
+      <pubDate>Sat, 17 Aug 2024 00:55:46 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 UI 没有在后台获取消息！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eu40ko/whats_ui_not_fetching_message_in_background/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨！我刚刚从“官方”Khoindvn 网站下载了 ESign，唯一有效的证书是 HDFC 人寿保险 #1。 我使用的是 iOS 18，安装时它要求我重启手机（iPhone 14）并做了一些事情……最后它确实安装了 ESign，但是……这是正常的吗？我已经在 iOS 17 上安装了 ESign，但我使用的证书被撤销了（中国大陆什么的）    提交人    /u/Shaijyy1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1etwl33/hdfc_1_esign/</guid>
       <pubDate>Fri, 16 Aug 2024 18:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找 IPA：</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1etunf3/im_searching_for_ipas/</link>
-      <description><![CDATA[Toca Life Unblocked、Alight motion pro、Capcut Pro    由    /u/nikeziny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1etunf3/im_searching_for_ipas/</guid>
-      <pubDate>Fri, 16 Aug 2024 17:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>WireGuard/SideStore 问题！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1etsyxv/wireguardsidestore_issue/</link>
-      <description><![CDATA[通常，当我激活（必需的）WireGuard VPN 来刷新 SideStore 的应用程序（例如 LiveContainer）时，ESign 应用程序（通过 KhoinDNS 配置文件）会被撤销！！！有人向我解释说，通过激活 VPN，DNS 配置文件“退居次要地位”！对于某些 VPN（例如 WARP），可以选择使用 ZeroTrust（它也用于绕过苹果撤销）！ 有没有人（同时使用防撤销配置文件和 SideStore，因此使用 WireGuard vpn）可以告诉我如何在每次打开 WireGuard 时停止连续的撤销？    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1etsyxv/wireguardsidestore_issue/</guid>
-      <pubDate>Fri, 16 Aug 2024 16:16:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
