@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 19 Aug 2024 03:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 06:13:38 GMT</lastBuildDate>
+    <item>
+      <title>拥有开发者帐户并有一些问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evtltk/got_a_developer_account_and_have_some_questions/</link>
+      <description><![CDATA[所以我加入了开发者计划，并获得了批准。我的问题是让我的朋友下载侧载 IPA 的过程/步骤是什么。我认为需要涉及证书并注册他们的 UDID。如果可能的话，我很想有一个关于如何在不使用第三方服务（如 esign 或 Appdb）的情况下执行此操作的指南。我使用了 sideloadly，但我试图尽可能减少使用。我听说 Cydia Impactor 仍然有效，但我还没有尝试过。我将不胜感激任何帮助    提交人    /u/Right_Ad73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evtltk/got_a_developer_account_and_have_some_questions/</guid>
+      <pubDate>Mon, 19 Aug 2024 05:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>如果我从 Apple 购买了 Apple 开发者帐户，我是否需要一台 Mac 来签署应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1evriq9/do_i_need_a_mac_to_sign_apps_if_i_purchase_an/</link>
-      <description><![CDATA[我根本没有 Mac。我希望能够使用通知签署应用。 还有 2 个问题。  我和妻子都有一部 iPhone 13 Pro Max、家里有 3 台 Apple TV 4K 和 3 台 iPad。我可以使用同一个开发者帐户为所有这些设备签署应用吗？ 我可以添加我的兄弟（不同家庭）来签署应用吗？我必须为他签署应用吗？还是我可以授予他签署自己应用的权限？  谢谢！    提交人    /u/xvizuet   [链接] [评论]]]></description>
+      <description><![CDATA[我根本没有 Mac。我希望能够使用通知签署应用。 还有 2 个问题。  我和妻子都有 iPhone 13 Pro Max、家里有 3 台 Apple TV 4K（没有 USB c 端口）和 3 台 iPad。我可以使用同一个开发者帐户为所有这些设备签署应用吗？ 我可以添加我的兄弟（不同家庭）来签署应用吗？我必须为他签署应用吗？还是我可以授予他签署自己应用的权限？  谢谢！    提交人    /u/xvizuet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1evriq9/do_i_need_a_mac_to_sign_apps_if_i_purchase_an/</guid>
       <pubDate>Mon, 19 Aug 2024 03:01:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我尝试玩 CarX Street，但有文件限制，下载后游戏很大。    提交人    /u/TravelSquare6045   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1evhx64/any_signing_apps_like_esign_that_have_no_file/</guid>
       <pubDate>Sun, 18 Aug 2024 19:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fortnite 和 Fall Guys：IPA 下载文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1evgwxb/fortnite_fall_guys_ipa_download_files/</link>
-      <description><![CDATA[https://qwerty.lol/    由   提交  /u/turbopug2735   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1evgwxb/fortnite_fall_guys_ipa_download_files/</guid>
-      <pubDate>Sun, 18 Aug 2024 18:58:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
