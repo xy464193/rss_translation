@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 19 Aug 2024 00:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 03:10:40 GMT</lastBuildDate>
+    <item>
+      <title>如果我从 Apple 购买了 Apple 开发者帐户，我是否需要一台 Mac 来签署应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evriq9/do_i_need_a_mac_to_sign_apps_if_i_purchase_an/</link>
+      <description><![CDATA[我根本没有 Mac。我希望能够使用通知签署应用。 还有 2 个问题。  我和妻子都有一部 iPhone 13 Pro Max、家里有 3 台 Apple TV 4K 和 3 台 iPad。我可以使用同一个开发者帐户为所有这些设备签署应用吗？ 我可以添加我的兄弟（不同家庭）来签署应用吗？我必须为他签署应用吗？还是我可以授予他签署自己应用的权限？  谢谢！    提交人    /u/xvizuet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evriq9/do_i_need_a_mac_to_sign_apps_if_i_purchase_an/</guid>
+      <pubDate>Mon, 19 Aug 2024 03:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何安装 ipa 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evq8ib/how_to_install_ipa_files/</link>
+      <description><![CDATA[我用的是 iphone 15（未越狱），以前用 sierra 安装 ipa 文件，现在不行了，有人有其他办法吗？    提交人    /u/DeluxeMafia   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evq8ib/how_to_install_ipa_files/</guid>
+      <pubDate>Mon, 19 Aug 2024 01:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何解决这个问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evpiag/anyone_know_how_fix_this/</link>
+      <description><![CDATA[从 appdb.to 获取了一些应用程序，当我尝试使用这些应用程序时，它一直显示一条消息，说我需要互联网连接来验证应用程序，即使我的互联网速度很快。请帮我解决这个问题。     提交人    /u/Puzzleheaded-Rip6284   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evpiag/anyone_know_how_fix_this/</guid>
+      <pubDate>Mon, 19 Aug 2024 01:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为 IPA 添加权利？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evp7dm/how_do_i_add_entitlements_to_ipas/</link>
+      <description><![CDATA[我正在尝试侧载 Fortnite 31.00.01，它说我需要添加授权 &lt;key&gt;com.apple.developer.kernel.extended-virtual-addressing&lt;/key&gt; &lt;true /&gt; &lt;key&gt;com.apple.developer.kernel.increased-memory-limit&lt;/key&gt; &lt;true /&gt; 以下是告诉我这一点的 https://iosgods.com/topic/185293-fortnite-31001-ipa-trollstoresideloadly-version-released/?_fromLogin=1    提交人    /u/Economy-Abies-3880   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evp7dm/how_do_i_add_entitlements_to_ipas/</guid>
+      <pubDate>Mon, 19 Aug 2024 01:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪里获得 Scarlet 的证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1evoudq/where_do_i_get_the_certificate_for_scarlet/</link>
+      <description><![CDATA[我刚刚获得 Scarlet，但我不知道如何获得证书，请帮帮我     提交人    /u/The-curious_one1234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1evoudq/where_do_i_get_the_certificate_for_scarlet/</guid>
+      <pubDate>Mon, 19 Aug 2024 00:46:44 GMT</pubDate>
+    </item>
     <item>
       <title>调整 YouTube</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1evn8v9/tweaked_youtube/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[https://qwerty.lol/    由   提交  /u/turbopug2735   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1evgwxb/fortnite_fall_guys_ipa_download_files/</guid>
       <pubDate>Sun, 18 Aug 2024 18:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有人可以将 Epic Games Store 添加到 signulous，供欧盟以外的人使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1evfcw5/is_it_possible_for_someone_to_add_the_epic_games/</link>
-      <description><![CDATA[标题     由   提交  /u/PsychologicalShare24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1evfcw5/is_it_possible_for_someone_to_add_the_epic_games/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新村庄捐赠</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1evfafv/re_village_giving/</link>
-      <description><![CDATA[即使我有 40 GB 可用空间，《生化危机 7：村庄》在 iPhone 14 Pro 上也显示没有空间错误？有什么想法吗    由    /u/exveere  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1evfafv/re_village_giving/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都从我们的服务器获得了fall guys ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1evezgd/everyone_got_the_fall_guys_ipa_from_our_server/</link>
-      <description><![CDATA[每个网站或签名提供商或 wtv（如解密日）或任何人都从我们的服务器获得了 fall guys ipa，没有任何积分（我们甚至得到了证明：https://discord.gg/kkezTUNTyk ）    提交人    /u/l0tUsss1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1evezgd/everyone_got_the_fall_guys_ipa_from_our_server/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 YTLitePlus 中删除 FLEX？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eveow4/how_to_remove_flex_from_ytliteplus/</link>
-      <description><![CDATA[我在 GitHub 上 fork 了官方 YTLitePlus 仓库，并在 makefile 中尝试了几处修改。在构建时，我已经能够阻止注入一些我不想要的调整，但我不知道如何防止注入 FLEX。我想禁用它的原因是我总是收到一条提示，说要卸载 Flex_Manager 才能让 YouTube 正常工作，然后它就会崩溃。     提交人    /u/royerlraph79   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eveow4/how_to_remove_flex_from_ytliteplus/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>潮汐！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eve1bm/tidal/</link>
-      <description><![CDATA[有人有 tidal ipa 吗？我似乎无法在 decrypt.day 上下载，所以我请求看看是否有人有！提前致谢。     提交人    /u/Dnfx01   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eve1bm/tidal/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:56:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
