@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 21 Aug 2024 18:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 21:09:06 GMT</lastBuildDate>
+    <item>
+      <title>可以跳过广告的播客应用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ey0tmg/podcast_app_that_skips_ads/</link>
+      <description><![CDATA[有没有什么应用可以做到这一点？    提交人    /u/Jaimster08   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ey0tmg/podcast_app_that_skips_ads/</guid>
+      <pubDate>Wed, 21 Aug 2024 20:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧版 IPA 档案/固件可过滤存储库（iOS 12）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1exyy2w/legacy_ipa_archives_firmwarefilterable_repos_ios/</link>
+      <description><![CDATA[我收到了一台运行 iOS 12.5.7 的非常旧的 iPad...这太过时了，所以没有一个应用程序可用...所以我决定从越狱开始，并发现了侧载。 现在我希望找到我需要的应用程序的非常旧版本的，但关于旧版支持，我能够找到的 ipa 库似乎也是如此。 我只是想让基本功能运行，比如 Firefox、Discord、Youtube。但我就是找不到这么旧的 ipas，而且没有一个 repos 允许按 iOS 版本进行过滤，这让情况变得更糟。 有人知道适用于 iOS 12 的优质 ipa 库吗？    提交人    /u/traxx2012   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1exyy2w/legacy_ipa_archives_firmwarefilterable_repos_ios/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:41:37 GMT</pubDate>
+    </item>
     <item>
       <title>当通过 Siri 请求时，Spotify eevee 会播放广播而不是播放具体歌曲</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1extjsd/spotify_eevee_plays_radio_instead_of_exact_song/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人知道吗？    由    /u/notjjana 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1exd8un/danganronpa_v3_killing_harmony_ipa/</guid>
       <pubDate>Wed, 21 Aug 2024 01:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>以及适用于 ios 16.1.1 的刺客信条幻影 ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1excy65/and_assassins_creed_mirage_ipa_for_ios_1611/</link>
-      <description><![CDATA[我正在使用 ipad pro m2，ipados 16.1.1 trollstore 已越狱，我尝试过很多 ipa 来玩，但都没用。有可以安装的 ipa 吗？    提交人    /u/nkganchup   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1excy65/and_assassins_creed_mirage_ipa_for_ios_1611/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修复 sudachi 中的 livecontiner 崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1excomw/how_to_fix_livecontiner_crash_in_sudachi/</link>
-      <description><![CDATA[当我在 livecontiner 中运行 sudachi 时，一切正常，但是当我尝试下载游戏的更新或 dlc 时，它会崩溃，有没有办法手动下载更新和 dlc，因为我使用 sidestore 并且我已经下载了 3 个应用程序，我无法下载更多，所以我使用 live 容器，如何修复它    提交人    /u/AlbaraaQY   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1excomw/how_to_fix_livecontiner_crash_in_sudachi/</guid>
-      <pubDate>Wed, 21 Aug 2024 01:12:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
