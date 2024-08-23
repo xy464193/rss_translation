@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 23 Aug 2024 06:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 09:09:34 GMT</lastBuildDate>
+    <item>
+      <title>猩红色回购</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez81et/scarlet_repos/</link>
+      <description><![CDATA[有人知道 Scarlet repo 中有 samo 色情或漫画应用程序吗，我已经知道 violet 了    提交人    /u/Muted-Conference-452   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez81et/scarlet_repos/</guid>
+      <pubDate>Fri, 23 Aug 2024 09:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>旁载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez81bu/sideload/</link>
+      <description><![CDATA[在我安装了 sidestore 应用后，突然有一台新设备登录到我的 icloud，它是 MacBook Pro，这是正常现象吗？还是我应该将其从我的 iCloud 中移除？我需要一个快速回复，谢谢。    由    /u/DeJKRH  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez81bu/sideload/</guid>
+      <pubDate>Fri, 23 Aug 2024 09:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何做到这一点？（电子签名）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez6s5b/how_to_do_this_esign/</link>
+      <description><![CDATA[https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/  第 1 步或者，您也可以手动添加这些作为过滤器： 在此，我如何使用 Egern 添加域？像 nextdns ....    提交人    /u/0adxil8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez6s5b/how_to_do_this_esign/</guid>
+      <pubDate>Fri, 23 Aug 2024 07:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以将 Egern vpn 与 Esign 一起使用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez6gp2/can_you_use_egern_vpn_with_esign/</link>
+      <description><![CDATA[如果在 Egern 应用中添加域（dns 方法），它会像下一个 dns 一样工作吗？怎么做？    提交人    /u/0adxil8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez6gp2/can_you_use_egern_vpn_with_esign/</guid>
+      <pubDate>Fri, 23 Aug 2024 07:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>NextDns DoT 配置文件通过使用 notjakob Dns 配置文件创建器来绕过撤销</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez6czx/nextdns_dot_profile_by_using_notjakob_dns_profile/</link>
+      <description><![CDATA[      我最近将 khoindvn 切换到带有拒绝列表网址的 nextdns，如固定指南中所述，但我刚刚发现点比 doh 更快，如果我使用 Nextdns 点端点在 dns.notjakob.com 创建配置文件，使用它是否会有问题，因为它显示未签名且已过期，这是否会导致任何 DNS 泄漏或任何影响绕过撤销的问题，他们的网站还说证书将在 90 天前有效，请解释，如果有人知道更好的方法或者如果您知道任何方法，请告诉我们！！    提交人    /u/Prestigious-Guide-61   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez6czx/nextdns_dot_profile_by_using_notjakob_dns_profile/</guid>
+      <pubDate>Fri, 23 Aug 2024 07:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 5.1.1 我让我的 AppStore 可以在我的 iPod 第四代上运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez63py/ios_511_i_got_my_appstore_to_work_on_my_ipod_4th/</link>
+      <description><![CDATA[☝️    由    /u/Oschur 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez63py/ios_511_i_got_my_appstore_to_work_on_my_ipod_4th/</guid>
+      <pubDate>Fri, 23 Aug 2024 06:48:26 GMT</pubDate>
+    </item>
     <item>
       <title>有人有好的 ipa 网站吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ez5eg9/does_anyone_have_any_good_ipa_sites/</link>
@@ -20,16 +62,9 @@
       <pubDate>Fri, 23 Aug 2024 05:58:09 GMT</pubDate>
     </item>
     <item>
-      <title>NextDns DoT 配置文件使用 notjakob 配置文件创建器来绕过撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ez5bdm/nextdns_dot_profile_using_notjakob_profile/</link>
-      <description><![CDATA[      我最近将 khoindvn 切换到带有拒绝列表网址的 nextdns，如指南中所述，但刚刚发现 dot 比 doh 更快，如果我在 notjakob 创建配置文件会怎样使用 mextdns 点端点的站点，如果我使用这个，是否会有问题，因为它显示未签名且已过期，这是否会导致任何 DNS 泄漏或任何影响绕过撤销的问题，或者您是否知道任何方法？此外，系统范围是什么？？？    提交人    /u/Prestigious-Guide-61   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ez5bdm/nextdns_dot_profile_using_notjakob_profile/</guid>
-      <pubDate>Fri, 23 Aug 2024 05:55:47 GMT</pubDate>
-    </item>
-    <item>
       <title>我不得不重新注册我的 signulous 帐户。我的应用程序无法打开。如果我删除一些应用程序，我将丢失无法恢复的数据。有没有办法只更新应用程序而不删除它，还是我运气不好？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ez550z/i_had_to_reregister_my_signulous_account_my_apps/</link>
-      <description><![CDATA[):    由    /u/Seannykin 提交   [链接] [评论]]]></description>
+      <description><![CDATA[):   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ez550z/i_had_to_reregister_my_signulous_account_my_apps/</guid>
       <pubDate>Fri, 23 Aug 2024 05:44:20 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[嗨，我买了一部新手机，我想知道如何切换我的 signulous 帐户，是否有人之前这样做过     提交人    /u/NeutralPerspective   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eyuz3h/signulous_and_swapping_phones/</guid>
       <pubDate>Thu, 22 Aug 2024 21:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最好的侧装载机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eyutmc/best_side_loader_rn/</link>
-      <description><![CDATA[电子签名对我来说很好用，直到它开始说“无法验证”。今天又写了一篇文章，似乎电子签名的所有证书都已失效，那么有没有无限应用程序侧加载器的替代方案？我有可用的 PC     由   提交  /u/DefNotTyn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eyutmc/best_side_loader_rn/</guid>
-      <pubDate>Thu, 22 Aug 2024 21:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以向我解释一下“iPhone 被苹果列入黑名单”是如何运作的（通过 UDID）？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eyu94i/somebody_can_explain_me_how_work_iphones/</link>
-      <description><![CDATA[有人可以解释一下吗？    由    /u/Breaking_Bad13 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eyu94i/somebody_can_explain_me_how_work_iphones/</guid>
-      <pubDate>Thu, 22 Aug 2024 20:52:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个证书允许从 Esign 下载应用程序的通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eytu94/which_certificate_allow_notification_for_app/</link>
-      <description><![CDATA[我知道 hdfc 有通知，还有其他的吗？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eytu94/which_certificate_allow_notification_for_app/</guid>
-      <pubDate>Thu, 22 Aug 2024 20:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPA 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eysrw3/ipa_files/</link>
-      <description><![CDATA[有人可以向我解释如何获取 ipa 文件吗？我想在 iphone 上安装 happy mod，我想获取该 ipa 文件，但我不知道如何获取。有人可以向我解释如何获取或您使用哪个网站，我将不胜感激。    提交人    /u/DeJKRH   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eysrw3/ipa_files/</guid>
-      <pubDate>Thu, 22 Aug 2024 19:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，有人能帮我做这个 vipmod 吗？你能通过谷歌驱动器发送它吗？:cry:</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eyq8es/hi_can_anyone_help_me_with_this_vipmod_can_you/</link>
-      <description><![CDATA[https://app.iosgods.com/store/appdetails/623-dragon-ball-legends-vip-hack 或 https://iosgods.com/topic/70410-dragon-ball-legends-v560-enemies-dont-attack-more/#comment-2092497    由    /u/Possible_Payment399  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eyq8es/hi_can_anyone_help_me_with_this_vipmod_can_you/</guid>
-      <pubDate>Thu, 22 Aug 2024 18:06:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
