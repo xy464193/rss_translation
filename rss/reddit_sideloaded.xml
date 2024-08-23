@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 23 Aug 2024 00:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 03:10:28 GMT</lastBuildDate>
+    <item>
+      <title>接受本教程中的 DNS 是否安全</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ez2e26/is_it_safe_to_accept_the_dns_from_this_tutorial/</link>
+      <description><![CDATA[https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/ https://imgur.com/a/WztjOQz    提交人    /u/arandomudontknow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ez2e26/is_it_safe_to_accept_the_dns_from_this_tutorial/</guid>
+      <pubDate>Fri, 23 Aug 2024 03:06:13 GMT</pubDate>
+    </item>
     <item>
       <title>我该怎么办？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eyxmwv/what_do_i_do/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>有人有 YouTube Premium 免费 ipa 吗???</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eyw4h5/anyone_got_youtube_premium_free_ipa/</link>
-      <description><![CDATA[我只是想找一个 YouTube Premium ipa，因为我真的破产了，而且不买 YouTube Premium，等等，我可以使用广告拦截器来屏蔽广告，但我不想那样做    提交人    /u/AdTraditional3777   [link] [评论]]]></description>
+      <description><![CDATA[我只是想找一个 YouTube Premium ipa，因为我真的破产了，而且不买 YouTube Premium，等等，我可以使用广告拦截器来屏蔽广告，但我不想这么做    提交人    /u/AdTraditional3777   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eyw4h5/anyone_got_youtube_premium_free_ipa/</guid>
       <pubDate>Thu, 22 Aug 2024 22:12:27 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>目前最好的侧装载机</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eyutmc/best_side_loader_rn/</link>
-      <description><![CDATA[电子签名对我来说很好用，直到它开始说“无法验证”。今天又写了一篇文章，似乎电子签名的所有证书都已失效，那么有没有无限应用程序侧加载器的替代方案？我有可用的 PC     由   提交  /u/DefNotTyn   [链接] [评论]]]></description>
+      <description><![CDATA[电子签名对我来说很好用，直到它开始说“无法验证”。今天又写了一篇文章，似乎电子签名的所有证书都已失效，那么有没有无限应用程序侧加载器的替代方案？我有可用的 PC     提交人    /u/DefNotTyn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eyutmc/best_side_loader_rn/</guid>
       <pubDate>Thu, 22 Aug 2024 21:16:32 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 22 Aug 2024 20:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>哪个证书允许从 Esign 下载应用程序的通知</title>
+      <title>哪些证书允许从 Esign 下载应用程序的通知</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eytu94/which_certificate_allow_notification_for_app/</link>
       <description><![CDATA[我知道 hdfc 有通知，还有其他的吗？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eytu94/which_certificate_allow_notification_for_app/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 22 Aug 2024 19:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，有人能帮我做这个 vipmod 吗？你能通过谷歌驱动器发送它吗？:cry:</title>
+      <title>有人能帮我做这个 vipmod 吗？你能通过谷歌驱动器发送它吗？:cry:</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1eyq8es/hi_can_anyone_help_me_with_this_vipmod_can_you/</link>
       <description><![CDATA[https://app.iosgods.com/store/appdetails/623-dragon-ball-legends-vip-hack 或 https://iosgods.com/topic/70410-dragon-ball-legends-v560-enemies-dont-attack-more/#comment-2092497    由    /u/Possible_Payment399  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eyq8es/hi_can_anyone_help_me_with_this_vipmod_can_you/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 操作无法完成。无法安装应用：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.rMC06l/extracted/Payload/App.app/Frameworks/IntuneMAMSwiftStub.framework 的代码签名：0xe8008016（可执行文件使用无效授权签名。） （在 SideStore 上）    提交人    /u/AwesomeBros132   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1eyltvm/why_am_i_getting_this_error/</guid>
       <pubDate>Thu, 22 Aug 2024 15:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法可以在不使用 appdb 的情况下在 iPhone ios 17 上下载 spotify premium？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1eylhz8/is_there_any_way_to_download_spotify_premium_on/</link>
-      <description><![CDATA[所以我通过 appdb 下载了 spotify premium，但它在一天后就停止工作了。还有其他方法可以在 ios 17 上下载高级版本吗？请帮帮我，我无法忍受大量的广告😭    提交人    /u/Salty_Data_1968   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1eylhz8/is_there_any_way_to_download_spotify_premium_on/</guid>
-      <pubDate>Thu, 22 Aug 2024 15:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
