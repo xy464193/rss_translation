@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 23 Aug 2024 18:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 21:10:54 GMT</lastBuildDate>
+    <item>
+      <title>愚弄 iPhone</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1eznl1y/dumbify_iphone/</link>
+      <description><![CDATA[大家好， 我正在尝试弄清楚如何限制对 iPhone 上的 App Store 和/或“设置”应用的访问，但我遇到了一些障碍。理想情况下，我想为“设置”应用设置一个更复杂的字母数字密码，我可以写下来并安全保存。甚至可以把它交给我信任的人，这样如果我需要访问 App Store 或“设置”，我就需要打电话给他们。 但问题是：屏幕使用时间密码是设置应用密码的唯一方法，它不允许您锁定“设置”应用。另外，它仅限于 4 位数代码，并非万无一失。 我一直在寻找解决方法，例如使用第三方应用程序来阻止访问，但到目前为止我发现的所有方法都依赖于屏幕时间协议，这让我回到了同样的限制。 因此，我想看看是否有人对如何绕过这个问题有任何想法，或者知道任何其他方法来“简化”iPhone。我想知道是否有任何涉及侧载的方法。 提前感谢任何建议！    提交人    /u/SeaBuilder9067   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1eznl1y/dumbify_iphone/</guid>
+      <pubDate>Fri, 23 Aug 2024 20:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Youtube Music Premium 侧边商店</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ezni9q/youtube_music_premium_sidestore/</link>
+      <description><![CDATA[有人有最新的 yt music premium ipa 用于 sidestore 吗，拜托了？    提交人    /u/Match-Playful   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ezni9q/youtube_music_premium_sidestore/</guid>
+      <pubDate>Fri, 23 Aug 2024 20:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>列入黑名单</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ezjr8s/blacklisted/</link>
+      <description><![CDATA[我被所有证书列入了黑名单（不要问我怎么被列入的）我该怎么做才能取消黑名单？    提交人    /u/Ok-Operation-9360   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ezjr8s/blacklisted/</guid>
+      <pubDate>Fri, 23 Aug 2024 18:15:41 GMT</pubDate>
+    </item>
     <item>
       <title>尝试阻止屏幕使用时间/设置</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ezj5zk/trying_to_block_screentimesettings/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/  第 1 步或者，您也可以手动添加这些作为过滤器： 在此，我如何使用 Egern 添加域？像 nextdns ....    提交人    /u/0adxil8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ez6s5b/how_to_do_this_esign/</guid>
       <pubDate>Fri, 23 Aug 2024 07:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以将 Egern vpn 与 Esign 一起使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ez6gp2/can_you_use_egern_vpn_with_esign/</link>
-      <description><![CDATA[如果在 Egern 应用中添加域（dns 方法），它会像下一个 dns 一样工作吗？怎么做？    提交人    /u/0adxil8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ez6gp2/can_you_use_egern_vpn_with_esign/</guid>
-      <pubDate>Fri, 23 Aug 2024 07:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextDns DoT 配置文件通过使用 notjakob Dns 配置文件创建器来绕过撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ez6czx/nextdns_dot_profile_by_using_notjakob_dns_profile/</link>
-      <description><![CDATA[      我最近将 khoindvn 切换到带有拒绝列表网址的 nextdns，如固定指南中所述，但我刚刚发现点比 doh 更快，如果我使用 Nextdns 点端点在 dns.notjakob.com 创建配置文件，使用它是否会有问题，因为它显示未签名且已过期，这是否会导致任何 DNS 泄漏或任何影响绕过撤销的问题，他们的网站还说证书将在 90 天前有效，请解释，如果有人知道更好的方法或者如果您知道任何方法，请告诉我们！！    提交人    /u/Prestigious-Guide-61   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ez6czx/nextdns_dot_profile_by_using_notjakob_dns_profile/</guid>
-      <pubDate>Fri, 23 Aug 2024 07:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 5.1.1 我让我的 AppStore 可以在我的 iPod 第四代上运行</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ez63py/ios_511_i_got_my_appstore_to_work_on_my_ipod_4th/</link>
-      <description><![CDATA[☝️    由    /u/Oschur 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ez63py/ios_511_i_got_my_appstore_to_work_on_my_ipod_4th/</guid>
-      <pubDate>Fri, 23 Aug 2024 06:48:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
