@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 25 Aug 2024 18:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 21:08:11 GMT</lastBuildDate>
+    <item>
+      <title>如果我的 UDID 被列入黑名单或处于签名服务的等待期，购买 99 美元的 Apple 开发者帐户是否可以让我立即开始签署自己的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f16uqg/if_my_udid_is_blacklisted_or_on_a_waiting_period/</link>
+      <description><![CDATA[我已经等待 Signulous 两个月了，他们一点帮助都没有。我想完全避开中间人，直接购买我自己的 Apple 开发者许可证。    提交人    /u/xvizuet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f16uqg/if_my_udid_is_blacklisted_or_on_a_waiting_period/</guid>
+      <pubDate>Sun, 25 Aug 2024 21:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮忙！通过 carplay 授权进行侧载！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f15pt3/sideload_with_carplay_entitlement_please_help/</link>
+      <description><![CDATA[我找不到在 Carplay 上使用 YouTube 的真正方法。因此，如果我侧载 YouTube，是否有办法添加 Carplay 授权以便我可以使用？    由   提交  /u/Disastrous_Rub_3130   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f15pt3/sideload_with_carplay_entitlement_please_help/</guid>
+      <pubDate>Sun, 25 Aug 2024 20:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何免费的 VPN（我可以在其中更改 DNS）吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f14f1q/any_free_vpn_where_i_can_change_dns/</link>
+      <description><![CDATA[我需要一个不会破坏 ESign 的免费 VPN。    提交人    /u/Efficient_Quiet1891   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f14f1q/any_free_vpn_where_i_can_change_dns/</guid>
+      <pubDate>Sun, 25 Aug 2024 19:19:09 GMT</pubDate>
+    </item>
     <item>
       <title>OTA 延迟/OTADisabler</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f122zf/ota_delay_otadisabler/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>重新生成应用程序而不丢失数据？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</link>
-      <description><![CDATA[这是我过去 2 个月内第三次撤销我的应用程序（付费订阅 Signulous），但为了让应用程序正常工作，我必须卸载并重新安装。但如果我还必须手动备份其数据并复制/粘贴到重新安装的文件夹中。如果我尝试重新安装应用程序，它会立即崩溃。是否可以在不卸载的情况下重新辞职？所以我不需要卸载然后等待，将 iPA 重新上传到 signulous，重新安装并重新粘贴数据？    提交人    /u/sweepli   [链接] [评论]]]></description>
+      <description><![CDATA[这是我过去 2 个月内第三次撤销我的应用程序（付费订阅 Signulous），但为了让应用程序正常工作，我必须卸载并重新安装。我还必须手动备份它们的数据并复制/粘贴到重新安装的文件夹中。如果我尝试重新安装应用程序，它会立即崩溃。是否可以在不卸载的情况下重新撤销？所以我不需要卸载然后等待，将 iPA 重新上传到 signulous，重新安装并重新粘贴数据？    提交人    /u/sweepli   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</guid>
       <pubDate>Sun, 25 Aug 2024 14:44:18 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[是否有可能在没有互联网的情况下使用 Spotify 下载歌曲？    提交人    /u/SignMoney6649   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0um50/spotify_ipa/</guid>
       <pubDate>Sun, 25 Aug 2024 11:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者模式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0tcke/developer_mode/</link>
-      <description><![CDATA[有没有办法在没有 PC 的情况下在 iOS 17 上启用开发者模式？    提交人    /u/fenzi2001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0tcke/developer_mode/</guid>
-      <pubDate>Sun, 25 Aug 2024 10:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore：代码数据错误。它是怎么发生的，我该如何修复它？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0sba1/sidestore_code_data_error_how_does_it_come_and/</link>
-      <description><![CDATA[        由    /u/XvederX  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0sba1/sidestore_code_data_error_how_does_it_come_and/</guid>
-      <pubDate>Sun, 25 Aug 2024 09:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>修改过的应用程序无法通过链接打开</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0s8jb/modded_apps_do_not_open_with_links/</link>
-      <description><![CDATA[每当有人通过 messenger 或 whatsapp 向我发送任何链接时，它都不会通过修改过的应用程序打开，例如 facebook wolf 或 instagram nyx 有什么办法可以解决这个问题？它们会在 safari 中打开    提交人    /u/Overlord192   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0s8jb/modded_apps_do_not_open_with_links/</guid>
-      <pubDate>Sun, 25 Aug 2024 09:10:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
