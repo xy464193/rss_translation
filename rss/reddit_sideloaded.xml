@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 25 Aug 2024 06:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 09:09:13 GMT</lastBuildDate>
+    <item>
+      <title>使用 iOS 10.3.3 进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</link>
+      <description><![CDATA[如何将应用程序侧载到 iOS 10.3.3？尝试过 altstore，但它只适用于 12.0，Sideloadly 也给出了类似的错误。我还能使用哪些其他工具？    由    /u/Foresisis  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</guid>
+      <pubDate>Sun, 25 Aug 2024 07:02:36 GMT</pubDate>
+    </item>
     <item>
       <title>为您推荐 5 款最佳应用程序！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f0pfxb/top_5_apps_for_you/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[它可能很安全，我只是想要确认    提交人    /u/LiamGarci   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0dh4d/is_sposify_safe/</guid>
       <pubDate>Sat, 24 Aug 2024 19:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在低端 iPhone 上试过《刺客信条：幻影》吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0d107/has_anyone_tried_assassins_creed_mirage_on_lower/</link>
-      <description><![CDATA[游戏可以运行吗？还是像生化危机游戏一样无法启动？    提交人    /u/Thanosnuke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0d107/has_anyone_tried_assassins_creed_mirage_on_lower/</guid>
-      <pubDate>Sat, 24 Aug 2024 19:09:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
