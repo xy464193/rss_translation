@@ -4,11 +4,46 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 25 Aug 2024 09:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 12:15:19 GMT</lastBuildDate>
+    <item>
+      <title>这是什么错误？我怎样才能使它消失？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0unne/what_is_this_error_and_how_do_i_make_it_dissapear/</link>
+      <description><![CDATA[        提交人    /u/Adoptat32   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0unne/what_is_this_error_and_how_do_i_make_it_dissapear/</guid>
+      <pubDate>Sun, 25 Aug 2024 11:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify++ ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0um50/spotify_ipa/</link>
+      <description><![CDATA[是否有可能在没有互联网的情况下使用 Spotify 下载歌曲？    提交人    /u/SignMoney6649   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0um50/spotify_ipa/</guid>
+      <pubDate>Sun, 25 Aug 2024 11:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者模式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0tcke/developer_mode/</link>
+      <description><![CDATA[有没有办法在没有 PC 的情况下在 iOS 17 上启用开发者模式？    提交人    /u/fenzi2001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0tcke/developer_mode/</guid>
+      <pubDate>Sun, 25 Aug 2024 10:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore：代码数据错误。它是怎么发生的，我该如何修复它？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0sba1/sidestore_code_data_error_how_does_it_come_and/</link>
+      <description><![CDATA[        由    /u/XvederX  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0sba1/sidestore_code_data_error_how_does_it_come_and/</guid>
+      <pubDate>Sun, 25 Aug 2024 09:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>修改过的应用程序无法通过链接打开</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0s8jb/modded_apps_do_not_open_with_links/</link>
+      <description><![CDATA[每当有人通过 messenger 或 whatsapp 向我发送任何链接时，它都不会通过修改过的应用程序打开，例如 facebook wolf 或 instagram nyx 有什么办法可以解决这个问题？它们会在 safari 中打开    提交人    /u/Overlord192   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0s8jb/modded_apps_do_not_open_with_links/</guid>
+      <pubDate>Sun, 25 Aug 2024 09:10:13 GMT</pubDate>
+    </item>
     <item>
       <title>使用 iOS 10.3.3 进行侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</link>
-      <description><![CDATA[如何将应用程序侧载到 iOS 10.3.3？尝试过 altstore，但它只适用于 12.0，Sideloadly 也给出了类似的错误。我还能使用哪些其他工具？    由    /u/Foresisis  提交  [link] [comments]]]></description>
+      <description><![CDATA[如何将应用程序侧载到 iOS 10.3.3？尝试过 altstore，但它只适用于 12.0，Sideloadly 也给出了类似的错误。我还能使用哪些其他工具？    提交人    /u/Foresisis   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</guid>
       <pubDate>Sun, 25 Aug 2024 07:02:36 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[由于最近发生了工作人员窃取资金的事件，我只想让您知道，maplesign 已更名为 kravasign，如果您是老客户，您的证书仍然有效，计划等我们很高兴地宣布 KravaSigner v3.00 应用程序即将发生重大变化： 1）AppleTV 签名  无需 Mac 即可直接从您的设备将应用程序安装到您的 AppleTV。 从您的 AppleTV 将 iOS 应用安装到您的设备。  2）调整注入  注入 Debs/Dylibs  3）删除规定  签名后删除 embedded.mobileprovision 文件  4）错误修复  修复 BundleID更改 修复无法安装的问题 修复获取应用程序时的滞后/挂起问题  5) 颜色自定义  更改整个应用程序的 UI 外观  6) Apple Watch 应用程序  我们已经完成一个 Apple Watch 应用程序并捆绑在 v2.00 中，并准备从部分客户开始为 v3.00 启用该功能，并计划在例如 v3.0.1 中完全开放它。  我们将有一些截图和镜头展示这些功能以分享！在我们的 discord 中，您现在可以在我们的新网站 https://kravasign.com/ 谢谢   由    /u/KravaSign  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0gnb7/maplesign_is_now_kravasign/</guid>
       <pubDate>Sat, 24 Aug 2024 21:53:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载应用程序不会出现在 iGameGod 中</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0g4ds/sideloaded_apps_dont_appear_in_igamegod/</link>
-      <description><![CDATA[只有来自应用商店的应用才会出现在iGameGod中。我使用 trollstore 安装的 IPA 文件没有出现在iGameGod中。我该如何修复？    提交人    /u/Immediate-Risk-7569   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0g4ds/sideloaded_apps_dont_appear_in_igamegod/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红不开</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0g3es/scarlet_not_opening/</link>
-      <description><![CDATA[我不知道为什么，但是 scarlet 一直在关闭 iOS 17.5    提交人    /u/LILxsIMO   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0g3es/scarlet_not_opening/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前是否有 Filza 或类似工具可以编辑 iOS 17.0 的游戏/应用程序文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0fltl/is_there_filza_or_anything_similar_to_edit/</link>
-      <description><![CDATA[问题    由   提交  /u/OkayGreat27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0fltl/is_there_filza_or_anything_similar_to_edit/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出替代签名应用程序 Feather</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0dxsy/introducing_feather_alternative_signing_app/</link>
-      <description><![CDATA[简介 介绍 Feather，一种免费的开源应用程序签名替代方案，如 ESign！ 坦率地说，为了实现这一点，我们投入了太多的工作，并花了几个月的时间试图弄清楚它通常是如何工作的，但我们已经设法开发出一些可以供公众使用的东西。 功能  Altstore repo 支持。支持旧版和 2.0 repo 结构* 导入您自己的 `.ipa`。 在签署应用程序时注入调整。 通过无线方式将应用程序直接无缝安装到您的设备上。 允许导入多个证书以轻松切换。 可配置的签名选项。 （名称、bundleid、版本、其他 plist 选项）* 旨在与属于 `ADP`（Apple 开发者计划）的 Apple 帐户一起使用。但是其他证书也可以使用！ 轻松辞职**！如果您有另一个证书想要在应用程序上使用，您可以辞职并重新安装同一个应用程序！ 没有跟踪、分析或任何此类信息。您的信息（例如 udid 和证书）永远不会离开设备。  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0dxsy/introducing_feather_alternative_signing_app/</guid>
-      <pubDate>Sat, 24 Aug 2024 19:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>sposify++ 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0dh4d/is_sposify_safe/</link>
-      <description><![CDATA[它可能很安全，我只是想要确认    提交人    /u/LiamGarci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0dh4d/is_sposify_safe/</guid>
-      <pubDate>Sat, 24 Aug 2024 19:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
