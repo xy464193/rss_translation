@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 25 Aug 2024 12:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 15:08:32 GMT</lastBuildDate>
+    <item>
+      <title>重新生成应用程序而不丢失数据？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</link>
+      <description><![CDATA[这是我过去 2 个月内第三次撤销我的应用程序（付费订阅 Signulous），但为了让应用程序正常工作，我必须卸载并重新安装。但如果我还必须手动备份其数据并复制/粘贴到重新安装的文件夹中。如果我尝试重新安装应用程序，它会立即崩溃。是否可以在不卸载的情况下重新辞职？所以我不需要卸载然后等待，将 iPA 重新上传到 signulous，重新安装并重新粘贴数据？    提交人    /u/sweepli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法将 Siri 控制集成到 Eevee Spotify？我有一个付费的开发证书。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0xcd5/is_there_a_way_to_integrate_siri_controls_into/</link>
+      <description><![CDATA[我尝试将 Siri 命令与 Eevee Spotify 结合使用，但没有任何效果。每次我让 Siri 播放音乐时，她都只是告诉我需要通过 Spotify 验证我的帐户详细信息。我在 Spotify 中搜索了一下，但在设置中没有看到任何“验证我的帐户”的选项。我确实有一个付费证书，我已将其导入 Scarlet，并已直接通过 Scarlet repo 安装了 Eevee。如果有办法让它工作，请有人向我解释一下。    提交人    /u/JesseB342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0xcd5/is_there_a_way_to_integrate_siri_controls_into/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signulous 使用 Sunshine 证书吗？（在 Scarlet 和 AppleP12 中使用，无授权）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0woul/signulous_uses_the_sunshine_certificate_used_in/</link>
+      <description><![CDATA[    /u/Suitable-Ad3846   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0woul/signulous_uses_the_sunshine_certificate_used_in/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>堡垒之夜 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f0wgqv/fortnite_ipa/</link>
+      <description><![CDATA[由于 fortnite 已在欧盟发布 iOS 版本，这里有任何我可以使用 trollstore 安装的 IPA 吗？或者甚至有指南可以让我制作自己的 IPA。我不想因为 trollstore 而更新我的 iPad，所以我目前无法真正使用 vpn 创建欧洲 Apple ID 并以“正常”方式下载它。    提交人    /u/Glass_Doughnut7833   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f0wgqv/fortnite_ipa/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>这是什么错误？我怎样才能使它消失？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f0unne/what_is_this_error_and_how_do_i_make_it_dissapear/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>使用 iOS 10.3.3 进行侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</link>
-      <description><![CDATA[如何将应用程序侧载到 iOS 10.3.3？尝试过 altstore，但它只适用于 12.0，Sideloadly 也给出了类似的错误。我还能使用哪些其他工具？    提交人    /u/Foresisis   [link] [comments]]]></description>
+      <description><![CDATA[如何将应用程序侧载到 iOS 10.3.3？尝试过 altstore，但它只适用于 12.0，Sideloadly 也给出了类似的错误。我还能使用哪些其他工具？    由    /u/Foresisis  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0qidp/sideloading_with_ios_1033/</guid>
       <pubDate>Sun, 25 Aug 2024 07:02:36 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我收到此错误 dlopen(/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp, 0x0109): tried: &#39;/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39; (无法 dlopen 主可执行文件&#39;/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;）、&#39;/private/preboot/Cryptexes/OS/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;（没有此文件）、&#39;/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;（无法 dlopen 主可执行文件&#39;/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;), &#39;/private/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39; (无法 dlopen 主可执行文件 &#39;/private/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;), &#39;/private/preboot/Cryptexes/OS/private/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;（没有此文件），&#39;/private/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;（无法打开主可执行文件&#39;/private/var/mobile/Containers/Data/Application/6408ED48-F0A0-47EF-88C2-5B189B4C0A37/Documents/Applications/DuolingoMobile.app/LiveContainer.tmp&#39;)    由   提交  /u/AwesomeBros132   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0j268/livecontainer_crashes_whenever_trying_to_open_an/</guid>
       <pubDate>Sat, 24 Aug 2024 23:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装重复的应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0hgin/install_duplicate_apps/</link>
-      <description><![CDATA[有人知道是否可以在 iOS 17 上安装 2 个相同的应用程序吗？我正在使用 ESign，并尝试安装两个 instagram 实例。    提交人    /u/Ok-Excitement6515   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0hgin/install_duplicate_apps/</guid>
-      <pubDate>Sat, 24 Aug 2024 22:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您针对 ios +17 使用的侧载方法是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0gvl4/what_is_the_sideloading_method_you_are_using_for/</link>
-      <description><![CDATA[标题    由   提交  /u/visible_discomfort3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0gvl4/what_is_the_sideloading_method_you_are_using_for/</guid>
-      <pubDate>Sat, 24 Aug 2024 22:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoundCloud IPA 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0gqor/soundcloud_ipa_issues/</link>
-      <description><![CDATA[我不知道这是否是一个热门话题，但有人知道一个好的 Soundcloud IPA 吗？我之前尝试过的所有 IPA 都不允许我登录，即使按照步骤操作也是如此。谢谢    由    /u/bitchfent  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0gqor/soundcloud_ipa_issues/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>MapleSign 现已更名为 KravaSign</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0gnb7/maplesign_is_now_kravasign/</link>
-      <description><![CDATA[由于最近发生了工作人员窃取资金的事件，我只想让您知道，maplesign 已更名为 kravasign，如果您是老客户，您的证书仍然有效，计划等我们很高兴地宣布 KravaSigner v3.00 应用程序即将发生重大变化： 1）AppleTV 签名  无需 Mac 即可直接从您的设备将应用程序安装到您的 AppleTV。 从您的 AppleTV 将 iOS 应用安装到您的设备。  2）调整注入  注入 Debs/Dylibs  3）删除规定  签名后删除 embedded.mobileprovision 文件  4）错误修复  修复 BundleID更改 修复无法安装的问题 修复获取应用程序时的滞后/挂起问题  5) 颜色自定义  更改整个应用程序的 UI 外观  6) Apple Watch 应用程序  我们已经完成一个 Apple Watch 应用程序并捆绑在 v2.00 中，并准备从部分客户开始为 v3.00 启用该功能，并计划在例如 v3.0.1 中完全开放它。  我们将有一些截图和镜头展示这些功能以分享！在我们的 discord 中，您现在可以在我们的新网站 https://kravasign.com/ 谢谢   由    /u/KravaSign  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0gnb7/maplesign_is_now_kravasign/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:53:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
