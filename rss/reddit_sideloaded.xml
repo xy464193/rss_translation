@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 26 Aug 2024 18:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 21:08:21 GMT</lastBuildDate>
+    <item>
+      <title>重新打开应用时 YouTube 音频会短暂暂停</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</link>
+      <description><![CDATA[我注意到，每当我在后台观看 YouTube 并返回时，音频都会停止大约一秒钟。 有没有办法阻止这种情况发生，以便音频和视频继续流畅播放？ 我正在使用 appdb 中最新的预制 YouTube 应用，并进行了所有调整。    提交人    /u/Responsible-Bike-868   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</guid>
+      <pubDate>Mon, 26 Aug 2024 20:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法在捆绑包名称 ESign 中添加空格</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1wnxh/cannot_add_space_in_bundle_name_esign/</link>
+      <description><![CDATA[每当我更改软件包名称并添加空格时，当我安装应用程序时，空格就会消失。    提交人    /u/Ok-Excitement6515   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1wnxh/cannot_add_space_in_bundle_name_esign/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>标志性骗局</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1waum/signulous_scam/</link>
+      <description><![CDATA[有人可能知道 Signulous 被撤销了，之后他们就变得非常懒惰，给了我们一个被盗的企业证书。请记住，这项服务被数千人使用，自撤销以来已经过去了一个月，但他们仍然没有向用户提供实际证书。当它发生时，我迅速切换到 Krava，但我仍然向他们支付了 20 美元，他们所做的只是给了我们一个被盗/泄露的企业证书。要求他们退款，没有回应（这是 3 周前的事了）。所以我觉得我被最值得信赖的服务之一骗了。太棒了！    提交人    /u/Orion4021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1waum/signulous_scam/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:01:30 GMT</pubDate>
+    </item>
     <item>
       <title>[问题] 在线签名服务安全吗？他们可以使用我自己的开发证书吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1ubgp/question_are_online_signing_services_secure_can/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有一个应用程序，我想通过调整来安装，当我使用 esign 和 sidestore 时，它​​立即崩溃，但出于某种原因，我尝试了 livecontainer，它运行良好，但它需要通知权限才能让你打开应用程序的其余部分，而我无法让它工作，有没有办法在这里获取通知或我可以注入调整来绕过这个需要    提交人    /u/XxIIIBanIIIxX   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f1ky8g/notifications_on_livecontainer/</guid>
       <pubDate>Mon, 26 Aug 2024 10:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被列入了所有 esign 证书的黑名单</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1fwz0/im_blacklisted_for_all_esign_certs/</link>
-      <description><![CDATA[我被列入了所有撤销和未撤销的 esign 证书的黑名单。有没有办法解决这个问题，而不需要备份和重置设备？我的 iPhone 版本是：iPhone 11。iOS 版本是：17.5.1。而且它没有越狱。我目前正在使用 sideloadly 和 altstore，一开始我以为它们是彼此独立的，这意味着 altstore 的 3 个应用程序限制与 sideloadly 的限制不同。但它们是一个。    提交者    /u/WahebM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1fwz0/im_blacklisted_for_all_esign_certs/</guid>
-      <pubDate>Mon, 26 Aug 2024 04:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助安装好的 notes6</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1f08h/need_help_installing_good_notes6/</link>
-      <description><![CDATA[如何在我的 ipad 上安装 good notes 6？我按照要求下载了原版 goodnotes6 应用程序，然后（强制）下载调整后的 troll store 版本。但当我尝试下载调整后的版本时，它说我已经有该应用程序了。是因为我是通过 esign 下载的还是我该如何安装它？    提交人    /u/Apprehensive_Task_43   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1f08h/need_help_installing_good_notes6/</guid>
-      <pubDate>Mon, 26 Aug 2024 03:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁熟悉 ipasign.online 及其克隆 ipasign.cc 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</link>
-      <description><![CDATA[这两个网站完全相同，而且它们似乎是 MapleSigner.ca 的唯一替代方案，自从 KravaSign 出现以来，MapleSigner.ca 就无法签署任何应用程序了    提交人    /u/mindful999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</guid>
-      <pubDate>Mon, 26 Aug 2024 02:56:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
