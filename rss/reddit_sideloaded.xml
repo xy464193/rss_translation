@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 26 Aug 2024 00:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 03:12:15 GMT</lastBuildDate>
+    <item>
+      <title>有谁熟悉 ipasign.online 及其克隆 ipasign.cc 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</link>
+      <description><![CDATA[这两个网站完全相同，而且它们似乎是 MapleSigner.ca 的唯一替代方案，自从 KravaSign 出现以来，MapleSigner.ca 就无法签署任何应用程序了    提交人    /u/mindful999   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</guid>
+      <pubDate>Mon, 26 Aug 2024 02:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>希梅吉迪利布</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1bbvj/shimeji_dylibdeb/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是我过去 2 个月内第三次撤销我的应用程序（付费订阅 Signulous），但为了让应用程序正常工作，我必须卸载并重新安装。我还必须手动备份它们的数据并复制/粘贴到重新安装的文件夹中。如果我尝试重新安装应用程序，它会立即崩溃。是否可以在不卸载的情况下重新撤销？所以我不需要卸载然后等待，将 iPA 重新上传到 signulous，重新安装并重新粘贴数据？    提交人    /u/sweepli   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</guid>
       <pubDate>Sun, 25 Aug 2024 14:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法将 Siri 控制集成到 Eevee Spotify？我有一个付费的开发证书。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0xcd5/is_there_a_way_to_integrate_siri_controls_into/</link>
-      <description><![CDATA[我尝试将 Siri 命令与 Eevee Spotify 结合使用，但没有任何效果。每次我让 Siri 播放音乐时，她都只是告诉我需要通过 Spotify 验证我的帐户详细信息。我在 Spotify 中搜索了一下，但在设置中没有看到任何“验证我的帐户”的选项。我确实有一个付费证书，我已将其导入 Scarlet，并已直接通过 Scarlet repo 安装了 Eevee。如果有办法让它工作，请有人向我解释一下。    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0xcd5/is_there_a_way_to_integrate_siri_controls_into/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
