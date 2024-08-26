@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 26 Aug 2024 03:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 06:13:53 GMT</lastBuildDate>
+    <item>
+      <title>我被列入了所有 esign 证书的黑名单</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1fwz0/im_blacklisted_for_all_esign_certs/</link>
+      <description><![CDATA[我被列入了所有撤销和未撤销的 esign 证书的黑名单。有没有办法解决这个问题，而不需要备份和重置设备？我的 iPhone 版本是：iPhone 11。iOS 版本是：17.5.1。而且它没有越狱。我目前正在使用 sideloadly 和 altstore，一开始我以为它们是彼此独立的，这意味着 altstore 的 3 个应用程序限制与 sideloadly 的限制不同。但它们是一个。    提交者    /u/WahebM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1fwz0/im_blacklisted_for_all_esign_certs/</guid>
+      <pubDate>Mon, 26 Aug 2024 04:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助安装好的 notes6</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1f08h/need_help_installing_good_notes6/</link>
+      <description><![CDATA[如何在我的 ipad 上安装 good notes 6？我按照要求下载了原版 goodnotes6 应用程序，然后（强制）下载调整后的 troll store 版本。但当我尝试下载调整后的版本时，它说我已经有该应用程序了。是因为我是通过 esign 下载的还是我该如何安装它？    提交人    /u/Apprehensive_Task_43   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1f08h/need_help_installing_good_notes6/</guid>
+      <pubDate>Mon, 26 Aug 2024 03:48:03 GMT</pubDate>
+    </item>
     <item>
       <title>有谁熟悉 ipasign.online 及其克隆 ipasign.cc 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</link>
@@ -27,7 +41,7 @@
       <pubDate>Sun, 25 Aug 2024 23:59:57 GMT</pubDate>
     </item>
     <item>
-      <title>appdb.to 好用吗？</title>
+      <title>appdb.to 好吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f17hdk/is_appdbto_good/</link>
       <description><![CDATA[刚刚发现它，我想在这里问一下。顺便说一下，我在 IOS 上 :3    由    /u/Cha0ticvss  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f17hdk/is_appdbto_good/</guid>
@@ -60,13 +74,6 @@
       <description><![CDATA[我需要一个不会破坏 ESign 的免费 VPN。    提交人    /u/Efficient_Quiet1891   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f14f1q/any_free_vpn_where_i_can_change_dns/</guid>
       <pubDate>Sun, 25 Aug 2024 19:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OTA 延迟/OTADisabler</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f122zf/ota_delay_otadisabler/</link>
-      <description><![CDATA[是否可以侧载其中一个？    提交人    /u/troublesomety   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f122zf/ota_delay_otadisabler/</guid>
-      <pubDate>Sun, 25 Aug 2024 17:40:04 GMT</pubDate>
     </item>
     <item>
       <title>有关 iOS 18 Beta 本地签名和 IPA 安装问题的详细信息</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[自从我更新到 iOS beta 6 后，我就无法通过 esign 签名（dns 方法），甚至 livecontainer 也不起作用（代码签名失败）。我听到社区中很多人谈论这个问题（比如这里）。我的问题是：我需要从备份中恢复吗？或者有没有简单的方法可以恢复到测试版？或者还有其他选择吗？    提交人    /u/Alternative_Horse_37   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0z1kc/esign_not_working_since_ios_18_beta_6/</guid>
       <pubDate>Sun, 25 Aug 2024 15:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新生成应用程序而不丢失数据？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</link>
-      <description><![CDATA[这是我过去 2 个月内第三次撤销我的应用程序（付费订阅 Signulous），但为了让应用程序正常工作，我必须卸载并重新安装。我还必须手动备份它们的数据并复制/粘贴到重新安装的文件夹中。如果我尝试重新安装应用程序，它会立即崩溃。是否可以在不卸载的情况下重新撤销？所以我不需要卸载然后等待，将 iPA 重新上传到 signulous，重新安装并重新粘贴数据？    提交人    /u/sweepli   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0xygy/resign_apps_without_losing_data/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:44:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
