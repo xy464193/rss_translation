@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 26 Aug 2024 15:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 18:13:10 GMT</lastBuildDate>
+    <item>
+      <title>[问题] 在线签名服务安全吗？他们可以使用我自己的开发证书吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1ubgp/question_are_online_signing_services_secure_can/</link>
+      <description><![CDATA[类似 https://ipasign.online/upload    由    /u/qiuChuck 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1ubgp/question_are_online_signing_services_secure_can/</guid>
+      <pubDate>Mon, 26 Aug 2024 17:43:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>证书应用程序如何工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1sxj8/how_does_the_cert_apps_work/</link>
+      <description><![CDATA[我在我爸爸的手机上安装了一些证书应用程序，在中国中信被撤销后，它们仍然可以使用，但他没有 vpn/dns 来阻止苹果，怎么办？？？    提交人    /u/Aircool08   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1sxj8/how_does_the_cert_apps_work/</guid>
+      <pubDate>Mon, 26 Aug 2024 16:46:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需 PC 即可通过 Trollstore 进行 JIT？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1s24s/jit_through_trollstore_without_a_pc/</link>
+      <description><![CDATA[我想尝试将 Windows 版本放在 UTM 上，但 App Store 中的 SE 版本太慢了，因为它不支持 JIT。即使在 14 pro 上，安装 Windows 7 也花了将近两个小时，而且即使这样，速度也太慢了，基本上无法使用。我确实有一部装有 Trollstore 的旧 iPhone 8，所以我想我可以尝试支持 JIT 的 UTM 版本，但唯一的问题是 iPhone 的数据端口坏了，所以使用任何类型的 PC 激活的 JIT（如 sideJIT 服务器）都是行不通的。我似乎记得有一种方法可以在设备上完全在设备上激活 Trollstore 设备上的 JIT，而无需另一台设备或 PC，但不能肯定，因为我从未研究过它。它被称为 dirtyJIT irc。有人用过这个吗？如果是的话，它是否按我需要的方式工作？    提交人    /u/JesseB342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1s24s/jit_through_trollstore_without_a_pc/</guid>
+      <pubDate>Mon, 26 Aug 2024 16:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iOS 的 Avee 音乐播放器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1rlf3/avee_music_player_for_ios/</link>
+      <description><![CDATA[有没有 avee player 的 ios 版本，我试过 spectra 但它不如 avee player 好用    提交人    /u/Narrow_Ad8007   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1rlf3/avee_music_player_for_ios/</guid>
+      <pubDate>Mon, 26 Aug 2024 15:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>IOS 18 BETA - 本地签名解决方法。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1rexs/ios_18_beta_local_signing_workaround/</link>
+      <description><![CDATA[最近的 IOS 18 测试版破坏了本地签名，因此 Esign 和 Scarlet 等应用程序停止工作。  几天前 Feather 发布了，我想尝试一下，所以我通过 sideloadly 安装了它，令我惊讶的是，安装应用程序成功了。  然后我尝试签名 Feather 并重新安装它，但本地签名和安装再次中断。我不知道为什么它不起作用，除非使用 Sideloadly 之类的东西进行侧载（AltStore 可能会起作用，但我还没有测试过）。我与 Feather 没有任何关系，但我肯定会继续使用它，只是想分享这个解决方法。此方法可能也适用于其他本地签名应用程序，但我尚未测试过它们。    提交人    /u/AntonSlem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1rexs/ios_18_beta_local_signing_workaround/</guid>
+      <pubDate>Mon, 26 Aug 2024 15:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道可以在 IOS 上运行并能运行《动物之森：新视野》的任天堂 Switch 模拟器吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1ptoe/does_anyone_know_of_a_nintendo_switch_emulator/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[这两个网站完全相同，而且它们似乎是 MapleSigner.ca 的唯一替代方案，自从 KravaSign 出现以来，MapleSigner.ca 就无法签署任何应用程序了    提交人    /u/mindful999   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f1e245/anyone_familiar_with_ipasignonline_and_its_clone/</guid>
       <pubDate>Mon, 26 Aug 2024 02:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>希梅吉迪利布</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1bbvj/shimeji_dylibdeb/</link>
-      <description><![CDATA[有人有 shimeji dylib/deb 吗    提交人    /u/ZxZKoK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1bbvj/shimeji_dylibdeb/</guid>
-      <pubDate>Mon, 26 Aug 2024 00:34:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>破解了 Ai ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1anbt/cracked_ai_ipas/</link>
-      <description><![CDATA[有人知道或使用过 Claude pro、Chat-gpt4 或类似应用程序的破解版本吗？我正在考虑购买证书，以便可以侧载更多应用程序，但我想知道是否有我可以使用的高级 ai 版本，这是否值得。     提交人    /u/No_Watch_8068   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1anbt/cracked_ai_ipas/</guid>
-      <pubDate>Sun, 25 Aug 2024 23:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>appdb.to 好吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f17hdk/is_appdbto_good/</link>
-      <description><![CDATA[刚刚发现它，我想在这里问一下。顺便说一下，我在 IOS 上 :3    由    /u/Cha0ticvss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f17hdk/is_appdbto_good/</guid>
-      <pubDate>Sun, 25 Aug 2024 21:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[请求] 有任何 IPA/应用程序可以记录屏幕触摸或宏吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f174fr/request_any_ipasapps_to_record_screen_touch_or/</link>
-      <description><![CDATA[寻找类似适用于苹果的东西？ https://f-droid.org/packages/com.buzbuz.smartautoclicker/    由   提交  /u/Exciting_Weight_823   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f174fr/request_any_ipasapps_to_record_screen_touch_or/</guid>
-      <pubDate>Sun, 25 Aug 2024 21:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我的 UDID 被列入黑名单或处于签名服务的等待期，购买 99 美元的 Apple 开发者帐户是否可以让我立即开始签署自己的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f16uqg/if_my_udid_is_blacklisted_or_on_a_waiting_period/</link>
-      <description><![CDATA[我已经等待 Signulous 两个月了，他们一点帮助都没有。我想完全避开中间人，直接购买我自己的 Apple 开发者许可证。    提交人    /u/xvizuet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f16uqg/if_my_udid_is_blacklisted_or_on_a_waiting_period/</guid>
-      <pubDate>Sun, 25 Aug 2024 21:03:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
