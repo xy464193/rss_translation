@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 26 Aug 2024 09:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:16:59 GMT</lastBuildDate>
+    <item>
+      <title>livecontainer 上有通知吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f1ky8g/notifications_on_livecontainer/</link>
+      <description><![CDATA[我有一个应用程序，我想通过调整来安装，当我使用 esign 和 sidestore 时，它​​立即崩溃，但出于某种原因，我尝试了 livecontainer，它运行良好，但它需要通知权限才能让你打开应用程序的其余部分，而我无法让它工作，有没有办法在这里获取通知或我可以注入调整来绕过这个需要    提交人    /u/XxIIIBanIIIxX   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f1ky8g/notifications_on_livecontainer/</guid>
+      <pubDate>Mon, 26 Aug 2024 10:33:35 GMT</pubDate>
+    </item>
     <item>
       <title>我被列入了所有 esign 证书的黑名单</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1fwz0/im_blacklisted_for_all_esign_certs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Eve v8.9 无法在 ios 14 上运行   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f0z3mv/help_me_i_cant_find_spotify_eve_for_ios_14_not_jb/</guid>
       <pubDate>Sun, 25 Aug 2024 15:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 iOS 18 beta 6 以来，eSign 无法正常工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f0z1kc/esign_not_working_since_ios_18_beta_6/</link>
-      <description><![CDATA[自从我更新到 iOS beta 6 后，我就无法通过 esign 签名（dns 方法），甚至 livecontainer 也不起作用（代码签名失败）。我听到社区中很多人谈论这个问题（比如这里）。我的问题是：我需要从备份中恢复吗？或者有没有简单的方法可以恢复到测试版？或者还有其他选择吗？    提交人    /u/Alternative_Horse_37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f0z1kc/esign_not_working_since_ios_18_beta_6/</guid>
-      <pubDate>Sun, 25 Aug 2024 15:31:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
