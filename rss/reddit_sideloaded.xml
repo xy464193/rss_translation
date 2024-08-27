@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 27 Aug 2024 06:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 09:10:17 GMT</lastBuildDate>
+    <item>
+      <title>SideJITServer 未启用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2c0ya/sidejitserver_not_enabling/</link>
+      <description><![CDATA[      我将 SideJITServer 下载到我的 Windows 并尝试通过 Powershell 启用它。在我关注的 YouTube 视频中，它提供了两个 IP 地址，但对我来说，它只提供了 1 个 IP 地址并完全停止了。有什么帮助吗？此外，它显示我有一部 iPhone 15，但我有一部 14 Pro Max。 https://preview.redd.it/f3grgrgw36ld1.png?width=1085&amp;format=png&amp;auto=webp&amp;s=afca8402f5ecd68c37fa8e4e58e88ab95a9dbe46    提交人    /u/xraven2009   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2c0ya/sidejitserver_not_enabling/</guid>
+      <pubDate>Tue, 27 Aug 2024 08:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我无法使用 Signulous 同时下载两个应用程序，有什么解决办法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2bp6q/i_cant_download_two_apps_at_once_with_signulous/</link>
+      <description><![CDATA[我想同时安装两个不同的应用程序，一旦我安装了其中一个，另一个就会安装在它的位置，从而删除它。     提交人    /u/Embarrassed_Path4193   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2bp6q/i_cant_download_two_apps_at_once_with_signulous/</guid>
+      <pubDate>Tue, 27 Aug 2024 08:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watusi Sideloaded 无法启动</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2bfyo/watusi_sideloaded_not_starting/</link>
+      <description><![CDATA[我侧载了 watusi，现在应用程序无法启动。我认为我的 UDIDregistrations 证书已被撤销。  我尝试再次签署 apk 并通过 xcode 安装应用程序，但出现错误。但我想在不删除整个应用程序的情况下访问我的旧聊天记录。 如何解决这个问题？    提交人    /u/flywig607   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2bfyo/watusi_sideloaded_not_starting/</guid>
+      <pubDate>Tue, 27 Aug 2024 07:48:51 GMT</pubDate>
+    </item>
     <item>
       <title>付费功能延迟，佣金估算</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f29jzi/paid_functions_delayed_approximate_commissions/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>重新打开应用时 YouTube 音频会短暂暂停</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</link>
-      <description><![CDATA[我注意到，每当我在后台观看 YouTube 并返回时，音频都会停止大约一秒钟。 有没有办法阻止这种情况发生，以便音频和视频继续流畅播放？ 我正在使用 appdb 中最新的预制 YouTube 应用，并进行了所有调整。    提交人    /u/Responsible-Bike-868   [link] [评论]]]></description>
+      <description><![CDATA[我注意到，每当我在后台观看 YouTube 并返回时，音频都会停止约一秒钟。有没有办法阻止这种情况发生，以便音频和视频继续流畅播放？ 我正在使用 appdb 中最新的预制 YouTube 应用，并进行了所有调整。 编辑：我弄清楚了它是什么。当我关闭 YouPiP 时，会出现这个错误。无法真正解决这个问题，因为无论您选择什么选项，在禁用 YouPiP 的情况下打开时它总是会微暂停。    提交人    /u/Responsible-Bike-868   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</guid>
       <pubDate>Mon, 26 Aug 2024 20:27:01 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[每当我更改软件包名称并添加空格时，当我安装应用程序时，空格就会消失。    提交人    /u/Ok-Excitement6515   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f1wnxh/cannot_add_space_in_bundle_name_esign/</guid>
       <pubDate>Mon, 26 Aug 2024 19:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志性骗局</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1waum/signulous_scam/</link>
-      <description><![CDATA[有人可能知道 Signulous 被撤销了，之后他们就变得非常懒惰，给了我们一个被盗的企业证书。请记住，这项服务被数千人使用，自撤销以来已经过去了一个月，但他们仍然没有向用户提供实际证书。当它发生时，我迅速切换到 Krava，但我仍然向他们支付了 20 美元，他们所做的只是给了我们一个被盗/泄露的企业证书。要求他们退款，没有回应（这是 3 周前的事了）。所以我觉得我被最值得信赖的服务之一骗了。太棒了！    提交人    /u/Orion4021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1waum/signulous_scam/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[问题] 在线签名服务安全吗？他们可以使用我自己的开发证书吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1ubgp/question_are_online_signing_services_secure_can/</link>
-      <description><![CDATA[类似 https://ipasign.online/upload    由    /u/qiuChuck 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1ubgp/question_are_online_signing_services_secure_can/</guid>
-      <pubDate>Mon, 26 Aug 2024 17:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>证书应用程序如何工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1sxj8/how_does_the_cert_apps_work/</link>
-      <description><![CDATA[我在我爸爸的手机上安装了一些证书应用程序，在中国中信被撤销后，它们仍然可以使用，但他没有 vpn/dns 来阻止苹果，怎么办？？？    提交人    /u/Aircool08   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1sxj8/how_does_the_cert_apps_work/</guid>
-      <pubDate>Mon, 26 Aug 2024 16:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
