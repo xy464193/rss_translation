@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 27 Aug 2024 09:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 12:16:52 GMT</lastBuildDate>
+    <item>
+      <title>Safari 链接重定向至侧载应用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2drcf/safari_links_redirect_for_sideloaded_apps/</link>
+      <description><![CDATA[有没有办法确保 safari 重定向链接到实际应用程序而不是应用商店（对于侧载应用程序而言）？例如当使用调整后的 reddit 或 x 时    提交人    /u/kayna76666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2drcf/safari_links_redirect_for_sideloaded_apps/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 DNS 方面的帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2ddoq/need_some_help_with_dns/</link>
+      <description><![CDATA[大家好，我一直在使用 Khomod dns，没有任何问题。但是最近当我尝试通过 torrent 下载文件时，文件没有开始下载。 当我通过 wifi 或热点连接时，它确实开始下载（在其他安装了 dns 的 iPhone 上）。有什么解决办法吗？我尝试关闭 adblock 和反黑名单，但似乎不起作用。 任何帮助都将不胜感激。    提交人    /u/CoolMiracle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2ddoq/need_some_help_with_dns/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:09:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOSGods IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f2clp2/iosgods_ipa/</link>
+      <description><![CDATA[我无法从 ioa gods 下载 ipa，因为他们希望我输入密码，而我无法获取任何密码，有没有其他网站提供更新的调整后的 ipa，顺便说一句，我想要 power director premium 解锁 ipa，有人能找到我它的最新版本吗🙄 提前谢谢     提交人    /u/ntn_rathor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f2clp2/iosgods_ipa/</guid>
+      <pubDate>Tue, 27 Aug 2024 09:15:19 GMT</pubDate>
+    </item>
     <item>
       <title>SideJITServer 未启用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f2c0ya/sidejitserver_not_enabling/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>付费功能延迟，佣金估算</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f29jzi/paid_functions_delayed_approximate_commissions/</link>
-      <description><![CDATA[大家好！ 每家大型科技公司的功能发布都落后了。我们也是。我们正在努力在 appdb 上发布应用内购买和订阅功能，而且由于我们位于欧盟，因此适用许多法律。我们所做的一切都以合规为前提，因此我们将发布时间推迟到今年秋季。 我们的佣金比较合理，每笔交易约 0.2 欧元 + 5%，并且率先使用 appdb 分发应用的开发者还将获得为期一年的独家折扣。 我们很高兴，即使在广告和营销上没有花费任何资金，我们也已经正式发布了应用，并且用户群不断增加。 如果您是开发者 - 请随意发布您的应用（免费）。 此致敬意，appdb 团队    提交人    /u/appdb_official   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 每家大型科技公司的功能发布都落后了。我们也是。我们正在努力在 appdb 上发布应用内购买和订阅，而且由于我们位于欧盟，因此适用许多法律。我们所做的一切都以合规为前提，因此我们将发布时间推迟到今年秋季。 我们的佣金比较合理，每笔交易约 0.2 欧元 + 5%，并且率先使用 appdb 分发应用的开发者还将获得为期一年的独家折扣。 我们很高兴，即使在广告和营销上没有花费任何资金，我们也已经正式发布了应用，并且用户群不断增加。 如果您是开发者 - 请随意发布您的应用（免费）。 此致敬意，appdb 团队    提交人    /u/appdb_official   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f29jzi/paid_functions_delayed_approximate_commissions/</guid>
       <pubDate>Tue, 27 Aug 2024 05:36:33 GMT</pubDate>
     </item>
@@ -71,14 +92,14 @@
     <item>
       <title>使用 eSign 启用 JIT</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f2421t/enabling_jit_with_esign/</link>
-      <description><![CDATA[我使用的是 iOS 18.1，我想知道您首选的 JIT 方法是什么。我将自己的开发者证书与 esign 结合使用，因此不需要 AltStore/SideStore（在我获得开发者帐户之前，我曾使用过这两种方法）。  您建议如何启用 JIT？我正在尝试使用通过 esign 侧载的 LiveContainer。我知道我不需要额外的插槽，这是为了我正在开展的项目。  谢谢！     提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <description><![CDATA[我使用的是 iOS 18.1，我想知道您首选的 JIT 方法是什么。我将自己的开发者证书与 esign 结合使用，因此不需要 AltStore/SideStore（在我获得开发者帐户之前，我使用过这两种方法）。  您建议如何启用 JIT？我正在尝试使用通过 esign 侧载的 LiveContainer。我知道我不需要额外的插槽，这是为了我正在开展的项目。  谢谢！     提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f2421t/enabling_jit_with_esign/</guid>
       <pubDate>Tue, 27 Aug 2024 00:40:07 GMT</pubDate>
     </item>
     <item>
       <title>YTliteplus 无法播放视频</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f21j6u/ytliteplus_not_playing_videos/</link>
-      <description><![CDATA[我拥有最新版本，但当我点击视频时，屏幕一片漆黑，并且无限加载。 Shorts 也不起作用。     由   提交  /u/Low-Knowledge6690   [link] [comments]]]></description>
+      <description><![CDATA[我拥有最新版本，但当我点击视频时，它只是一个黑屏并无限加载。 Shorts 也不起作用。     由   提交  /u/Low-Knowledge6690   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f21j6u/ytliteplus_not_playing_videos/</guid>
       <pubDate>Mon, 26 Aug 2024 22:43:32 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[c    由   提交  /u/Friendly-Platypus564   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f213jv/can_you_get_scarlet_on_ios_712/</guid>
       <pubDate>Mon, 26 Aug 2024 22:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>动漫应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f20vvi/anime_apps/</link>
-      <description><![CDATA[有任何可以让你下载剧集的动漫观看应用程序吗？    提交人    /u/Spiteful4706   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f20vvi/anime_apps/</guid>
-      <pubDate>Mon, 26 Aug 2024 22:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新打开应用时 YouTube 音频会短暂暂停</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</link>
-      <description><![CDATA[我注意到，每当我在后台观看 YouTube 并返回时，音频都会停止约一秒钟。有没有办法阻止这种情况发生，以便音频和视频继续流畅播放？ 我正在使用 appdb 中最新的预制 YouTube 应用，并进行了所有调整。 编辑：我弄清楚了它是什么。当我关闭 YouPiP 时，会出现这个错误。无法真正解决这个问题，因为无论您选择什么选项，在禁用 YouPiP 的情况下打开时它总是会微暂停。    提交人    /u/Responsible-Bike-868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1yd0a/youtube_audio_pauses_briefly_when_reopening_the/</guid>
-      <pubDate>Mon, 26 Aug 2024 20:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在捆绑包名称 ESign 中添加空格</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f1wnxh/cannot_add_space_in_bundle_name_esign/</link>
-      <description><![CDATA[每当我更改软件包名称并添加空格时，当我安装应用程序时，空格就会消失。    提交人    /u/Ok-Excitement6515   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f1wnxh/cannot_add_space_in_bundle_name_esign/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:16:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
