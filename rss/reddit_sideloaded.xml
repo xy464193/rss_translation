@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 29 Aug 2024 06:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 09:11:01 GMT</lastBuildDate>
+    <item>
+      <title>使用 livecontainer 时我总会被注销吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f3w1id/will_i_always_be_logged_out_when_using/</link>
+      <description><![CDATA[正如标题所述。 如果我在实时容器中打开一个应用程序，一段时间后我将进入主屏幕。因此，我运行该应用程序并退出。 这是正常行为吗？    提交人    /u/AwesomeBros132   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f3w1id/will_i_always_be_logged_out_when_using/</guid>
+      <pubDate>Thu, 29 Aug 2024 06:56:12 GMT</pubDate>
+    </item>
     <item>
       <title>我可以使用我的开发账户绕过设备黑名单吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f3vfv2/can_i_bypass_device_blacklist_with_my_dev_account/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我真的需要下载动漫才能离线观看。如果您有下载动漫的替代方法，请说出来     提交人    /u/Budget-Ad-5770   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f3mv34/does_crunchyroll_ipa_exists/</guid>
       <pubDate>Wed, 28 Aug 2024 22:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍，北极！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f3mlq5/introducing_arctic/</link>
-      <description><![CDATA[大家好，我想宣布我计划发布一款新的 IPA Signer，类似 esign，名为 Arctic Signer，它将与 esign 相同，但内置了 Epic 游戏应用程序，而且它将具有更好的用户界面和内置浏览器来搜索 IPA 我将在此帖子上发表评论，随时告知状态，但现在我正在对其进行 Beta 测试。希望你喜欢它。GitHub 这里    提交人    /u/Frosty-Handle-6454   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f3mlq5/introducing_arctic/</guid>
-      <pubDate>Wed, 28 Aug 2024 22:33:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
