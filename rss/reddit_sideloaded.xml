@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 30 Aug 2024 18:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 21:10:23 GMT</lastBuildDate>
+    <item>
+      <title>更新：Feather v1.0.1 已经发布！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f55vnd/update_feather_v101_is_out/</link>
+      <description><![CDATA[大家好，您可能知道，feather 的第一个版本大约在一周前发布，并且引起了比实际应有的更多的关注，这让我感到非常惊讶！非常感谢！ 我感谢大家的支持，为此我关注了所有建议并实施了许多最适合的建议 但有一件重要的事情需要注意：遗憾的是，esign 使其与内置功能（如 esigncerts 和 repo 导出）的兼容性变得非常困难，因此我不太可能很快添加这些功能。有关更多信息，只需知道它们被奇怪地混淆了即可。 改变了什么 • 添加了将 ipa 文件共享到 feather 的能力 • 可用于添加存储库的新 url 方案 • feather://source/https://cdn.altstore.io/file/altstore/apps.json • 能够删除 IPA 中主可执行文件中的加载命令 • 为商店添加了一些自定义选项，具有长描述等 • 添加了自定义选项，用于在证书显示标题中将 App ID 名称更改为团队名称 • 在商店中添加了搜索栏 • 在商店中添加了适当的版本号 • 增加了批量导入/导出存储库的功能，包括 Maplesigns 的“存储库代码”兼容性 • 添加了一种无需使用 feather 签名即可安装应用程序的方法，适用于以前签名的应用程序 • 添加存储库时检查 json url 是否有效的能力 • 一些视觉变化 • 本地化 Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f55vnd/update_feather_v101_is_out/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instarocket 如何工作？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f55a36/how_does_instarocket_work/</link>
+      <description><![CDATA[我已经使用 Instarocket 一段时间了，我一直很好奇这款应用是如何隐藏故事查看功能的 这里有人知道吗？    提交人    /u/mdr7   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f55a36/how_does_instarocket_work/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:28:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signulous 不工作了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</link>
+      <description><![CDATA[我尝试通过 signulous 安装 spotify，但当我按下安装应用程序时什么也没发生。我点击了复制链接并在新标签页中打开它，但什么也没发生    提交人    /u/amiabaka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，为什么会这样说以及如何解决它？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f54jx7/hi_why_does_it_say_this_and_how_to_fix_it/</link>
+      <description><![CDATA[需要互联网连接来验证对开发者“iPhone Distribution: Sunshine Insurance Group Co., Ltd.”的信任。 验证后，此应用将不可用。 尝试从 scarlet 打开 wicked Snapchat，但均不起作用     提交人    /u/ThrowRAchloe_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f54jx7/hi_why_does_it_say_this_and_how_to_fix_it/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助设计</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f53dqg/help_esign/</link>
+      <description><![CDATA[伙计们，一些 esign hdfc 1 和 2 以及中国程序已被禁用。有新的解决方案吗？    提交人    /u/Agile_Floor_2045   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f53dqg/help_esign/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:08:31 GMT</pubDate>
+    </item>
     <item>
       <title>Altstore 存储库</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f51ytd/altstore_repos/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[所以我听说 iOS Apk 或 iAPK 应用可以在 iPhone 上运行 APK 应用。如果这是真的，有人能帮我找到 IPA 吗     提交人    /u/ntn_rathor   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f4sbmv/apk_apps_in_ios/</guid>
       <pubDate>Fri, 30 Aug 2024 10:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>绕过统一裂缝检测。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4pfi1/bypass_unity_crack_detection/</link>
-      <description><![CDATA[如何绕过名为“Avo！”的游戏的 Unity 破解检测？我破解了该游戏，但它似乎无法在侧载副本上运行（无法下载、无法保存数据） 有人能帮帮我吗？    提交人    /u/1Emilis   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4pfi1/bypass_unity_crack_detection/</guid>
-      <pubDate>Fri, 30 Aug 2024 07:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fortnite iOS，请帮忙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4nwuu/fortnite_ios_help_pls/</link>
-      <description><![CDATA[      兄弟，我该如何解决这个问题，请帮帮我    提交人    /u/Suspicious_Ask6943   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4nwuu/fortnite_ios_help_pls/</guid>
-      <pubDate>Fri, 30 Aug 2024 05:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 .p12 Flekstore 的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4nv12/need_help_with_p12_flekstore/</link>
-      <description><![CDATA[您好，有人能告诉我我做错了什么吗？我正在尝试下载 ipa，但一直收到此错误“找不到 .p12，请稍后重试”，我的设备上已下载了证书和配置文件，但它只允许我从 flekstores repo 下载 ipa。我尝试的其他 repo 都不允许我签署 ipa。     提交人    /u/Fair_Jellyfish4937   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4nv12/need_help_with_p12_flekstore/</guid>
-      <pubDate>Fri, 30 Aug 2024 05:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 ESign 和 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4m340/how_can_i_use_esign_with_vpn/</link>
-      <description><![CDATA[如何在 VPN 中使用 ESign 而非撤销方法。 我想使用 vpn….    提交人    /u/0adxil8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4m340/how_can_i_use_esign_with_vpn/</guid>
-      <pubDate>Fri, 30 Aug 2024 03:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dark Reader Safari 扩展 iPA 请求</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4lwym/dark_reader_safari_extension_ipa_request/</link>
-      <description><![CDATA[如果有人知道，请分享    提交人    /u/Prestigious-Guide-61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4lwym/dark_reader_safari_extension_ipa_request/</guid>
-      <pubDate>Fri, 30 Aug 2024 03:48:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
