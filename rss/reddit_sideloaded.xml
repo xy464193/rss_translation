@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 30 Aug 2024 12:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 15:09:50 GMT</lastBuildDate>
+    <item>
+      <title>如何在侧载后导入应用数据</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f4www5/how_to_import_app_data_after_sideloading/</link>
+      <description><![CDATA[大家好！自从 Playdeo 推出游戏“Avo!”后，我和几个朋友找到了它的 ipa，因为它已从应用商店下架。问题是，该游戏依赖于从苹果服务器下载每个关卡。这意味着您实际上只能玩第一个关卡而不会遇到问题。在 iCloud 帐户中拥有该游戏的人仍然可以下载和玩所有关卡，但任何侧载的人都无法玩。它返回错误 4994“请求的应用程序数据不存在”。这可能是因为它无法验证游戏是否合法，因此无法连接到苹果服务器下载其余关卡。在 iCloud 帐户中拥有该游戏的人设法上传了游戏缓存文件，大小为 1.5 GB。此缓存中下载了所有关卡。现在的问题是，我们如何允许其他人将缓存数据添加到他们的游戏中？我最近更新了我的手机（像个傻瓜一样），现在它不支持 trollstore，这意味着我无法使用 filza（ios 17.6.1）。如果没有办法将数据导入我的游戏，那么拥有游戏的人有没有办法导出带有数据的 ipa？谢谢你的帮助！    提交人    /u/Apprehensive_Move736   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f4www5/how_to_import_app_data_after_sideloading/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 上的 Apollo</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f4w18y/apollo_for_reddit/</link>
+      <description><![CDATA[我了解了 apollo for reddit 并尝试安装它。它要求我登录，我尝试登录但它出现了附加的图像，有人可以告诉我发生了什么或如何修复吗，提前谢谢了    提交人    /u/ronnyradical1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f4w18y/apollo_for_reddit/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>请使用，这样我就可以养活我的家人了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f4ufwp/pls_use_so_i_can_feed_me_family_ty/</link>
+      <description><![CDATA[https://flekstore.com/bc45vbHssd https://flekstore.com/bc45vbHssd    由   提交  /u/Many-Hat-5105   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f4ufwp/pls_use_so_i_can_feed_me_family_ty/</guid>
+      <pubDate>Fri, 30 Aug 2024 12:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自 iOSGodsIPA.com 的 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f4tz87/ipa_from_iosgodsipacom/</link>
+      <description><![CDATA[谁能告诉我如何从这个网站下载 IPA...每当我尝试下载时总是要求输入密码...然后我尝试进行调查以解锁密码，但由于无法发送短信，它无法完成....现在有些人说我需要在网站上创建一个帐户才能下载，所以我在 iosgods 上创建了一个，但它把我带到了他们的论坛/社区页面..但无法下载任何 ipa 😑 我对此感到恼火...谁能帮帮我🥹我已经束手无策了🥲    提交人    /u/ntn_rathor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f4tz87/ipa_from_iosgodsipacom/</guid>
+      <pubDate>Fri, 30 Aug 2024 12:26:58 GMT</pubDate>
+    </item>
     <item>
       <title>一个 ipa 卡在“正在安装”时冻结</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f4sid8/one_ipa_is_stuck_on_freezing_on_installing/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我需要使用 scarlet 和 ESign 安装应用程序 .ipa 的证书    提交人    /u/Psyco12gamer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f4fjpp/how_to_have_certificates_for_scarlet_ecc/</guid>
       <pubDate>Thu, 29 Aug 2024 22:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，我有一个问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4amm2/hey_peeps_i_got_a_question/</link>
-      <description><![CDATA[所以基本上我想找一些可以安装 ipas 的东西，比如 scarlet，这个问题可能经常被问到，我不能做付费的，因为我的国家没有在线支付权限 * 荷兰  无论如何它应该是无需电脑的，而且是免费的，提前谢谢了    提交人    /u/Specialist_Beat_7817   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4amm2/hey_peeps_i_got_a_question/</guid>
-      <pubDate>Thu, 29 Aug 2024 19:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>eSign 对应用程序 ID 的数量有限制吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f46qt8/does_esign_have_a_limit_of_amount_of_app_ids/</link>
-      <description><![CDATA[这就是问题。是的。你好    提交者    /u/FlamingoHaunting9812   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f46qt8/does_esign_have_a_limit_of_amount_of_app_ids/</guid>
-      <pubDate>Thu, 29 Aug 2024 16:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Feather Repos</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f444r4/feather_repos/</link>
-      <description><![CDATA[为 feather signer 提供最佳存储库。    由   提交  /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f444r4/feather_repos/</guid>
-      <pubDate>Thu, 29 Aug 2024 14:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有更新、调整过的 reddit 应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f42t9f/is_there_an_updated_tweaked_reddit_app/</link>
-      <description><![CDATA[据我所知，最后一个可以真正屏蔽广告/推广帖子的应用程序是“lizard for reddit”，但由于版本太旧，它已经有点不行了。有人发布过可以真正屏蔽广告的新版 reddit 应用程序吗？    提交人    /u/Alexxeon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f42t9f/is_there_an_updated_tweaked_reddit_app/</guid>
-      <pubDate>Thu, 29 Aug 2024 13:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
