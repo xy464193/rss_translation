@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 06:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 09:09:06 GMT</lastBuildDate>
+    <item>
+      <title>如何安装ipa文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5hv9h/how_to_install_ipa_file/</link>
+      <description><![CDATA[有人能解释一下如何在没有越狱的 iPhone 上安装 ipa 文件吗？这样做有什么好处？    提交人    /u/Moist_Structure_5491   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5hv9h/how_to_install_ipa_file/</guid>
+      <pubDate>Sat, 31 Aug 2024 07:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Pureya ipa 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5h13n/looking_for_pureya_ipa_file/</link>
+      <description><![CDATA[我尝试查找 Pureya ipa 文件，但似乎找不到。有人有吗？    提交者    /u/Hot-Stuff-4864   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5h13n/looking_for_pureya_ipa_file/</guid>
+      <pubDate>Sat, 31 Aug 2024 06:39:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为谁是最好的证书卖家？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5gwj1/in_your_opinion_who_is_the_best_certificate_seller/</link>
+      <description><![CDATA[我使用 Signulous 已有近一年的时间，我的证书从未被吊销过，但是使用他们的证书我无法访问 Heathkit。您推荐任何卖家吗？谢谢。    提交人    /u/LucasPedrosa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5gwj1/in_your_opinion_who_is_the_best_certificate_seller/</guid>
+      <pubDate>Sat, 31 Aug 2024 06:30:54 GMT</pubDate>
+    </item>
     <item>
       <title>Arctic Beta 即将完工</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5gbxg/arctic_beta_is_nearly_done/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>使用 Feather 从任何应用中删除广告</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</link>
-      <description><![CDATA[这是一个完整的教程，从下载 Feather 到添加证书，再到安装任何没有广告的应用程序 Feather：  从此链接下载 Feather 1.0.1，并使用您首选的签名服务进行安装 通过此链接从 senumy 下载免费的 p12 证书（密码为 AppleP12.com） （可选）通过此链接 导入证书并使用不同的 bundle ID 重新签署 Feather 删除旧的 feather 应用，以便所有应用都在同一个证书上  应用和 Adblock  你可以从这里获取任何解密的应用（我选择了 Blockblast） 下载这两个 Deb 文件 1,2 这适用于几乎所有应用程序。如果不行，您可以在此处 找到应用程序的 deb 文件。  注入  导入想要的 ipa 点击应用程序进行签名 在弹出的窗口中选择添加调整。添加 1 和 2 以获得最大可靠性 签名、安装并享受  为什么不直接获取经过调整的 IPA 当然，获取经过调整的 IPA 始终是一种选择。但是，此方法主要针对没有可用良好调整的应用程序，并且对于调整后的 IPA 尚未更新的情况也很有用。    提交人    /u/Big-Deal-5104   [link] [comments]]]></description>
+      <description><![CDATA[这是一个完整的教程，从下载 Feather 到添加证书，再到安装任何没有广告的应用程序 Feather：  从此链接下载 Feather 1.0.1，并使用您首选的签名服务进行安装 通过此链接从 senumy 下载免费的 p12 证书（密码为 AppleP12.com） （可选）通过此链接 导入证书并使用不同的 bundle ID 重新签署 Feather 删除旧的 feather 应用，以便所有应用都在同一个证书上  应用和 Adblock  你可以从这里获取任何解密的应用（我选择了 Blockblast） 下载这两个 Deb 文件 1,2 这适用于几乎所有应用程序。如果不行，您可以在此处 找到应用程序的 deb 文件。  注入  导入想要的 ipa 点击应用程序进行签名 在弹出的窗口中选择添加调整。添加 1 和 2 以获得最大可靠性 签名、安装并享受  为什么不直接获取经过调整的 IPA 当然，获取经过调整的 IPA 始终是一种选择。但是，此方法主要针对没有可用调整的应用程序，并且对于调整后的 IPA 尚未更新的情况也很有用。    提交人    /u/Big-Deal-5104   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</guid>
       <pubDate>Sat, 31 Aug 2024 02:24:45 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Fri, 30 Aug 2024 20:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>Signulous 不工作了吗？</title>
+      <title>Signulous 不工作了？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</link>
       <description><![CDATA[我尝试通过 signulous 安装 spotify，但当我按下安装应用程序时什么也没发生。我点击了复制链接并在新标签页中打开它，但什么也没发生    提交人    /u/amiabaka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[目前，侧载的使用量达到了历史最高水平  而且，由于 altstore 是目前最受欢迎的服务之一，我想知道你们最喜欢的存储库是什么，以及你们推荐使用哪些应用程序进行侧载     提交人    /u/Big-Deal-5104   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f51ytd/altstore_repos/</guid>
       <pubDate>Fri, 30 Aug 2024 18:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>把 watusi 用作关联账户还是作为主设备比较好</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f51j21/is_it_better_to_use_watusi_as_a_linked_account_or/</link>
-      <description><![CDATA[我一直在使用 watusi 3 作为链接设备，因此一些设置和选项已经消失，而且我不再需要原始的 whatsapp，所以我想知道是否应该将 watusi 作为我的主要设备或将其保留为链接设备。    提交人    /u/Yeetsteem   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f51j21/is_it_better_to_use_watusi_as_a_linked_account_or/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 Canal+ 是否有与 Eeveespotify 相当的产品吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f50bgr/does_anyone_know_if_there_is_an_equivalent_of/</link>
-      <description><![CDATA[我不想再付费订阅了，因为它太贵了，我想免费观看 f1    提交人    /u/Apart_Assumption3591   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f50bgr/does_anyone_know_if_there_is_an_equivalent_of/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我被列入黑名单，我可以使用什么作为 SCARLET 替代品 [ 旁边商店 ]</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4yv1y/what_can_i_use_as_a_scarlet_alternative_if_im/</link>
-      <description><![CDATA[我想我被列入了黑名单，尝试了其他一些选项，但除了“SIDESTORE”有限制之外都失败了……！ 有什么帮助吗？🫠    提交人    /u/Simon_Muhumuza   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4yv1y/what_can_i_use_as_a_scarlet_alternative_if_im/</guid>
-      <pubDate>Fri, 30 Aug 2024 16:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
