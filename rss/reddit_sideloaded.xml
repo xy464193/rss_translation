@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 30 Aug 2024 21:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 00:43:03 GMT</lastBuildDate>
+    <item>
+      <title>有人能帮我获得 iosgood vip 来安装 asphalt 8 吗？我不想为此支付 30 美元</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5a57w/can_someone_help_me_for_have_iosgood_vip_for/</link>
+      <description><![CDATA[伙计，请帮帮我     提交人    /u/Apprehensive-Dare705   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5a57w/can_someone_help_me_for_have_iosgood_vip_for/</guid>
+      <pubDate>Sat, 31 Aug 2024 00:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命😭</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f57vaz/help/</link>
+      <description><![CDATA[我觉得我被列入黑名单了？不管那是什么意思 😭 一个帮助我的人告诉我  这是怎么发生的，除了硬重置我的设备之外，还有其他方法可以解决这个问题吗？    提交人    /u/Cha0ticvss   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f57vaz/help/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:19:20 GMT</pubDate>
+    </item>
     <item>
       <title>更新：Feather v1.0.1 已经发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f55vnd/update_feather_v101_is_out/</link>
-      <description><![CDATA[大家好，您可能知道，feather 的第一个版本大约在一周前发布，并且引起了比实际应有的更多的关注，这让我感到非常惊讶！非常感谢！ 我感谢大家的支持，为此我关注了所有建议并实施了许多最适合的建议 但有一件重要的事情需要注意：遗憾的是，esign 使其与内置功能（如 esigncerts 和 repo 导出）的兼容性变得非常困难，因此我不太可能很快添加这些功能。有关更多信息，只需知道它们被奇怪地混淆了即可。 改变了什么 • 添加了将 ipa 文件共享到 feather 的能力 • 可用于添加存储库的新 url 方案 • feather://source/https://cdn.altstore.io/file/altstore/apps.json • 能够删除 IPA 中主可执行文件中的加载命令 • 为商店添加了一些自定义选项，具有长描述等 • 添加了自定义选项，用于在证书显示标题中将 App ID 名称更改为团队名称 • 在商店中添加了搜索栏 • 在商店中添加了适当的版本号 • 增加了批量导入/导出存储库的功能，包括 Maplesigns 的“存储库代码”兼容性 • 添加了一种无需使用 feather 签名即可安装应用程序的方法，适用于以前签名的应用程序 • 添加存储库时检查 json url 是否有效的能力 • 一些视觉变化 • 本地化 Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，您可能知道，feather 的第一个版本大约在一周前发布，并且引起了比实际应有的更多的关注，这让我感到非常惊讶！非常感谢！ 我感谢大家的支持，为此我关注了所有建议并实施了许多最适合的建议 但有一件重要的事情需要注意：遗憾的是，esign 使其与内置功能（如 esigncerts 和 repo 导出）的兼容性变得非常困难，因此我不太可能很快添加这些功能。有关更多信息，只需知道它们被奇怪地混淆了即可。 改变了什么 • 添加了将 ipa 文件共享到 feather 的能力 • 可用于添加存储库的新 url 方案 • feather://source/https://cdn.altstore.io/file/altstore/apps.json • 能够删除 IPA 中主可执行文件中的加载命令 • 为商店添加了一些自定义选项，具有长描述等 • 添加了自定义选项，用于在证书显示标题中将 App ID 名称更改为团队名称 • 在商店中添加了搜索栏 • 在商店中添加了适当的版本号 • 增加了批量导入/导出存储库的功能，包括 Maplesigns 的“存储库代码”兼容性 • 添加了一种无需使用 feather 签名即可安装应用程序的方法，适用于以前签名的应用程序 • 添加存储库时检查 json url 是否有效 • 一些视觉变化 • 本地化 Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f55vnd/update_feather_v101_is_out/</guid>
       <pubDate>Fri, 30 Aug 2024 20:52:54 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我试图在我的 ipad 上安装“mcsm”，但它卡在“正在安装”上，没有任何 % 废话，它只是卡在那里，试图取消会冻结应用程序，尝试了不同版本的应用程序不起作用，另一个非 MCSM 的应用程序起作用，谁能告诉我它为什么没有安装 MCSM，我只是想玩它，请帮帮我    提交人    /u/Ramses29pha69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f4sid8/one_ipa_is_stuck_on_freezing_on_installing/</guid>
       <pubDate>Fri, 30 Aug 2024 11:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fortnite 移动杯</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4scgr/fortnite_mobile_cup/</link>
-      <description><![CDATA[需要一对搭档参加几个小时后举行的移动杯赛  中东服务器  英语     提交人    /u/ntn_rathor   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4scgr/fortnite_mobile_cup/</guid>
-      <pubDate>Fri, 30 Aug 2024 10:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 中的 APK 应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4sbmv/apk_apps_in_ios/</link>
-      <description><![CDATA[所以我听说 iOS Apk 或 iAPK 应用可以在 iPhone 上运行 APK 应用。如果这是真的，有人能帮我找到 IPA 吗     提交人    /u/ntn_rathor   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4sbmv/apk_apps_in_ios/</guid>
-      <pubDate>Fri, 30 Aug 2024 10:55:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
