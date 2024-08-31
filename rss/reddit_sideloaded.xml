@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 03:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 06:12:14 GMT</lastBuildDate>
+    <item>
+      <title>Arctic Beta 即将完工</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5gbxg/arctic_beta_is_nearly_done/</link>
+      <description><![CDATA[我几乎完成了 Arctic 测试版，您已经可以使用 DNS，但测试版将在未来一两天内发布。从我的 Github 获取它     提交人    /u/Frosty-Handle-6454   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5gbxg/arctic_beta_is_nearly_done/</guid>
+      <pubDate>Sat, 31 Aug 2024 05:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有免费的动漫 ipas？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5g8d2/are_there_any_free_anime_ipas/</link>
+      <description><![CDATA[我一直在寻找动漫 ipa，但我找到的所有东西都被关闭了。     提交人    /u/Direct_Spirit_8504   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5g8d2/are_there_any_free_anime_ipas/</guid>
+      <pubDate>Sat, 31 Aug 2024 05:45:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>sileo 的仓库吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5ez7a/repos_for_sileo/</link>
+      <description><![CDATA[刚刚在旧手机上安装了 sileo，我需要游戏的 repos 🙏     提交人    /u/Cha0ticvss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5ez7a/repos_for_sileo/</guid>
+      <pubDate>Sat, 31 Aug 2024 04:25:57 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Feather 从任何应用中删除广告</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</link>
-      <description><![CDATA[这是一个完整的教程，从下载 Feather 到添加证书，再到安装任何没有广告的应用程序 Feather：  从此链接下载 Feather 1.0.1，并使用您首选的签名服务进行安装 通过此链接从 senumy 下载免费的 p12 证书（密码为 AppleP12.com） （可选）通过此链接 导入证书并使用不同的 bundle ID 重新签署 Feather 删除旧的 feather 应用，以便所有应用都在同一个证书上  应用和 Adblock  你可以从这里获取任何解密的应用（我选择了 Blockblast） 下载这两个 Deb 文件 1,2 这适用于几乎所有应用程序。如果不行，您可以在此处 找到应用程序的 deb 文件。  注入  导入想要的 ipa 点击应用程序进行签名 在弹出的窗口中选择添加调整。添加 1 和 2 以获得最大可靠性 签名、安装并享受  为什么不直接获取经过调整的 IPA 当然，获取经过调整的 IPA 始终是一种选择。但是，此方法主要针对没有可用调整的应用程序，并且对于调整后的 IPA 尚未更新的情况也很有用。    提交人    /u/Big-Deal-5104   [link] [comments]]]></description>
+      <description><![CDATA[这是一个完整的教程，从下载 Feather 到添加证书，再到安装任何没有广告的应用程序 Feather：  从此链接下载 Feather 1.0.1，并使用您首选的签名服务进行安装 通过此链接从 senumy 下载免费的 p12 证书（密码为 AppleP12.com） （可选）通过此链接 导入证书并使用不同的 bundle ID 重新签署 Feather 删除旧的 feather 应用，以便所有应用都在同一个证书上  应用和 Adblock  你可以从这里获取任何解密的应用（我选择了 Blockblast） 下载这两个 Deb 文件 1,2 这适用于几乎所有应用程序。如果不行，您可以在此处 找到应用程序的 deb 文件。  注入  导入想要的 ipa 点击应用程序进行签名 在弹出的窗口中选择添加调整。添加 1 和 2 以获得最大可靠性 签名、安装并享受  为什么不直接获取经过调整的 IPA 当然，获取经过调整的 IPA 始终是一种选择。但是，此方法主要针对没有可用良好调整的应用程序，并且对于调整后的 IPA 尚未更新的情况也很有用。    提交人    /u/Big-Deal-5104   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</guid>
       <pubDate>Sat, 31 Aug 2024 02:24:45 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Fri, 30 Aug 2024 20:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>Signulous 不工作了？</title>
+      <title>Signulous 不工作了吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</link>
       <description><![CDATA[我尝试通过 signulous 安装 spotify，但当我按下安装应用程序时什么也没发生。我点击了复制链接并在新标签页中打开它，但什么也没发生    提交人    /u/amiabaka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f551bh/signulous_not_working/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[我想我被列入了黑名单，尝试了其他一些选项，但除了“SIDESTORE”有限制之外都失败了……！ 有什么帮助吗？🫠    提交人    /u/Simon_Muhumuza   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f4yv1y/what_can_i_use_as_a_scarlet_alternative_if_im/</guid>
       <pubDate>Fri, 30 Aug 2024 16:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在侧载后导入应用数据</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4www5/how_to_import_app_data_after_sideloading/</link>
-      <description><![CDATA[大家好！自从 Playdeo 推出游戏“Avo!”后，我和几个朋友找到了它的 ipa，因为它已从应用商店下架。问题是，该游戏依赖于从苹果服务器下载每个关卡。这意味着您实际上只能玩第一个关卡而不会遇到问题。在 iCloud 帐户中拥有该游戏的人仍然可以下载和玩所有关卡，但任何侧载的人都无法玩。它返回错误 4994“请求的应用程序数据不存在”。这可能是因为它无法验证游戏是否合法，因此无法连接到苹果服务器下载其余关卡。在 iCloud 帐户中拥有该游戏的人设法上传了游戏缓存文件，大小为 1.5 GB。此缓存中下载了所有关卡。现在的问题是，我们如何允许其他人将缓存数据添加到他们的游戏中？我最近更新了我的手机（像个傻瓜一样），现在它不支持 trollstore，这意味着我无法使用 filza（ios 17.6.1）。如果没有办法将数据导入我的游戏，那么拥有游戏的人有没有办法导出带有数据的 ipa？谢谢你的帮助！    提交人    /u/Apprehensive_Move736   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4www5/how_to_import_app_data_after_sideloading/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:39:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 上的 Apollo</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4w18y/apollo_for_reddit/</link>
-      <description><![CDATA[我了解了 apollo for reddit 并尝试安装它。它要求我登录，我尝试登录但它出现了附加的图像，有人可以告诉我发生了什么或如何修复吗，提前谢谢了    提交人    /u/ronnyradical1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4w18y/apollo_for_reddit/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自 iOSGodsIPA.com 的 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f4tz87/ipa_from_iosgodsipacom/</link>
-      <description><![CDATA[谁能告诉我如何从这个网站下载 IPA...每当我尝试下载时总是要求输入密码...然后我尝试进行调查以解锁密码，但由于无法发送短信，它无法完成....现在有些人说我需要在网站上创建一个帐户才能下载，所以我在 iosgods 上创建了一个，但它把我带到了他们的论坛/社区页面..但无法下载任何 ipa 😑 我对此感到恼火...谁能帮帮我🥹我已经束手无策了🥲    提交人    /u/ntn_rathor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f4tz87/ipa_from_iosgodsipacom/</guid>
-      <pubDate>Fri, 30 Aug 2024 12:26:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
