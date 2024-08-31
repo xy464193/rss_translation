@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 12:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 15:09:41 GMT</lastBuildDate>
+    <item>
+      <title>如何创建非 mapsigner 或应用测试人员的即时下载 URL</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5p6gg/how_do_i_make_a_instant_download_url_that_isnt/</link>
+      <description><![CDATA[大多数在手机上使用几天后就无法正常工作了    提交人    /u/TheRiceFarmer_YT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5p6gg/how_do_i_make_a_instant_download_url_that_isnt/</guid>
+      <pubDate>Sat, 31 Aug 2024 14:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于羽毛应用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5owyo/regarding_feather_app/</link>
+      <description><![CDATA[嗨，家人，最近我读到了关于 feather 应用程序的文章。我只是想知道你们中有多少人从 E-sign 切换到 feather，撤销的证书是否适用于它？     提交人    /u/Tricky-Act-794   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5owyo/regarding_feather_app/</guid>
+      <pubDate>Sat, 31 Aug 2024 14:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>将开发者证书导入Esign？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5ngf9/import_developer_certificate_to_esign/</link>
+      <description><![CDATA[是否可以提取或使用我们的 7 天开发者证书（sideloadly 使用的证书）并将其导入 Esign 来签署我们的应用程序    提交人    /u/VegetableGur4121   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5ngf9/import_developer_certificate_to_esign/</guid>
+      <pubDate>Sat, 31 Aug 2024 13:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f5m6e2/certificate/</link>
+      <description><![CDATA[任何可以使用的 ipa 证书…！    提交人    /u/TheDealer__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f5m6e2/certificate/</guid>
+      <pubDate>Sat, 31 Aug 2024 12:31:21 GMT</pubDate>
+    </item>
     <item>
       <title>需要有关 IOS 的提示</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5llc5/need_tips_regarding_ios/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我几乎完成了 Arctic 测试版，您已经可以使用 DNS，但测试版将在未来一两天内发布。从我的 Github 获取它     提交人    /u/Frosty-Handle-6454   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5gbxg/arctic_beta_is_nearly_done/</guid>
       <pubDate>Sat, 31 Aug 2024 05:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有免费的动漫 ipas？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5g8d2/are_there_any_free_anime_ipas/</link>
-      <description><![CDATA[我一直在寻找动漫 ipa，但我找到的所有东西都被关闭了。     提交人    /u/Direct_Spirit_8504   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5g8d2/are_there_any_free_anime_ipas/</guid>
-      <pubDate>Sat, 31 Aug 2024 05:45:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>sileo 的仓库吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5ez7a/repos_for_sileo/</link>
-      <description><![CDATA[刚刚在旧手机上安装了 sileo，我需要游戏的 repos 🙏     提交人    /u/Cha0ticvss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5ez7a/repos_for_sileo/</guid>
-      <pubDate>Sat, 31 Aug 2024 04:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Feather 从任何应用中删除广告</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</link>
-      <description><![CDATA[这是一个完整的教程，从下载 Feather 到添加证书，再到安装任何没有广告的应用程序 Feather：  从此链接下载 Feather 1.0.1，并使用您首选的签名服务进行安装 通过此链接从 senumy 下载免费的 p12 证书（密码为 AppleP12.com） （可选）通过此链接 导入证书并使用不同的 bundle ID 重新签署 Feather 删除旧的 feather 应用，以便所有应用都在同一个证书上  应用和 Adblock  你可以从这里获取任何解密的应用（我选择了 Blockblast） 下载这两个 Deb 文件 1,2 这适用于几乎所有应用程序。如果不行，您可以在此处 找到应用程序的 deb 文件。  注入  导入想要的 ipa 点击应用程序进行签名 在弹出的窗口中选择添加调整。添加 1 和 2 以获得最大可靠性 签名、安装并享受  为什么不直接获取经过调整的 IPA 当然，获取经过调整的 IPA 始终是一种选择。但是，此方法主要针对没有可用调整的应用程序，并且对于调整后的 IPA 尚未更新的情况也很有用。    提交人    /u/Big-Deal-5104   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5cujd/remove_ads_from_any_app_using_feather/</guid>
-      <pubDate>Sat, 31 Aug 2024 02:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能帮我获得 iosgood vip 来安装 asphalt 8 吗？我不想为此支付 30 美元</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5a57w/can_someone_help_me_for_have_iosgood_vip_for/</link>
-      <description><![CDATA[伙计，请帮帮我     提交人    /u/Apprehensive-Dare705   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5a57w/can_someone_help_me_for_have_iosgood_vip_for/</guid>
-      <pubDate>Sat, 31 Aug 2024 00:05:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
