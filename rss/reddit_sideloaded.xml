@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 01 Sep 2024 15:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 18:11:26 GMT</lastBuildDate>
+    <item>
+      <title>Discord 查找 ipas</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6jace/discord_to_find_ipas/</link>
+      <description><![CDATA[请在标题中说明。是否有 discord 服务器可以找到 ipas？例如 Discord 中的 ipa 库？    由   提交  /u/Unfortunately2inches   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6jace/discord_to_find_ipas/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 IPA 调整安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6il4q/tweaks_installation_with_ipa/</link>
+      <description><![CDATA[大家好，希望你们一切都好。 我最近买了一部搭载 iOS 17 的 iPhone 15，我已将其更新到最新版本 17.6.1。我花了很多时间安装修改过的应用程序并对其进行侧载，所以我发现了 scarlet，到目前为止，它对我来说效果很好。 我的 Apple ID 已在 Apple Developer 注册，我确实启用了开发者选项（如果这有帮助的话），但基本上我想用 ShortMoji 或 SwipeExtenderX 修改默认的 iOS 键盘。 这些是通过 .deb 文件进行的调整，是否可以通过将它们注入应用程序并安装来安装它们，还是那些需要 JB 的系统级调整。就目前而言，我知道 iPhone 15 还没有 JB。抱歉，我是新手，以防我错过了有关侧载和调整的任何重要信息。 第三方键盘是目前我的最后手段。 提前致谢。    提交人    /u/Superdriver9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6il4q/tweaks_installation_with_ipa/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>电脑无法识别我的 iPhone。如何侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6i3fk/the_computer_doesnt_recognize_my_iphone_how_to/</link>
+      <description><![CDATA[我花了 20 美元买了一部 iPhone 5S 来做一些测试，但我无法在其上侧载 .ipa 文件，即使尝试了几种方法也是如此。我尝试安装 gbox，但没有成功。 我尝试在计算机上使用 sideloadly，但计算机和笔记本电脑都无法识别我的 iPhone 5S，事实上，它甚至没有出现“信任这台计算机”这样的选项，它只是给我的手机充电。 该电缆确实是通用的，不是原装的，所以我相信这是原因，对吧？但我的主要手机是 Android，所以我没有其他闪电电缆。 有没有其他解决方案，让我可以在没有计算机的情况下在手机上侧载这个 .ipa，比如网站或类似的东西？谢谢！    提交人    /u/Medium-Twist-2447   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6i3fk/the_computer_doesnt_recognize_my_iphone_how_to/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>未撤销的猩红</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6hqtq/unrevoked_scarlet/</link>
+      <description><![CDATA[经过无数次的痛苦和研究，我终于通过 PC（Windows）获得了未撤销的猩红色……！！ 我在我的 DNS（拒绝列表）中放了多个链接，我很惊讶它有效，因为我被列入了黑名单😂 所以..鉴于我已经设置了 DNS，我的应用程序是否有可能停止工作???    提交人    /u/TheDealer__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6hqtq/unrevoked_scarlet/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stremio IPA 即将登陆 iOS！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6h0ul/stremio_ipa_coming_to_ios/</link>
+      <description><![CDATA[感谢 u/LinixGuy 和 stremio 开发团队，Stremio 终于正式登陆 iOS 进行侧载。https://github.com/Stremio/stremio-core-swift     提交人    /u/One_Age646   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6h0ul/stremio_ipa_coming_to_ios/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>帮助卸载侧载的 Shazam</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6gaxj/help_uninstall_sideloaded_shazam/</link>
@@ -71,44 +106,9 @@
     <item>
       <title>我的 IPA 网站未来目标和 V1.04</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6aey8/my_ipa_site_future_goals_and_v104/</link>
-      <description><![CDATA[大家好， 我想提供一下我上次发帖后的项目更新。我最近在开发 1.04 版，想分享一下我的最新进展和项目目标。 目标：  永久免费：这个项目将永远免费，没有广告或微交易。由于维护它不需要我花任何钱，所以我希望它对每个人都免费。 无广告体验：我不喜欢充斥着广告和 Linkvertise 链接的 IPA 库，所以我致力于保持这种体验与众不同。该项目已获得 GNU GPLv3 许可，源代码可在 GitHub - KittenStore 上找到。欢迎贡献 — 如果您有兴趣，请在 Discord 上给我发私信：codingkitten。  更新：  新功能：现在支持 Sidestore 和 Appdb。我还添加了一个设置页面，允许您切换特定的安装选项，以便您可以自定义要显示的选项。 设计改进：自上次发布以来，我对 CSS 进行了重大更新。我希望你喜欢这个新外观，但如果你有任何反馈，我很乐意听取建议。  信息：  应用程序链接： KittenStore 我的更多作品： KittenDev 原始帖子： Reddit - 原始帖子 GitHub 存储库： GitHub - KittenStore  感谢您的支持！ — CodingKitten    由   提交  /u/CodingKittenYT   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：我创建了一个 discord 服务器，我将在其中发布更新和类似内容：https://discord.gg/BUKMjpCca6 我也刚刚将 v1.05 上传到 github，因此它现在支持多个存储库。对于下一次更新，我将让用户添加存储库，而不仅仅是几个已设置的存储库。 大家好， 我想提供自上次发布以来的项目更新。我最近在研究 1.04 版本，并想分享最新进展和我对该项目的目标。 目标：  永久免费： 该项目将永远免费，没有广告或微交易。由于维护它不需要我花费任何费用，因此我希望它对所有人都免费。 无广告体验：我不喜欢充斥着广告和 Linkvertise 链接的 IPA 库，因此我致力于保持这种体验与众不同。该项目根据 GNU GPLv3 许可，源代码可在 GitHub - KittenStore 获得。欢迎贡献 - 如果您有兴趣，请在 Discord 上给我发私信：codingkitten。  更新：  新功能：现在支持 Sidestore 和 Appdb。我还添加了一个设置页面，允许您切换特定的安装选项，以便您可以自定义显示哪些选项。 设计改进：自上次发布以来，我对 CSS 进行了重大更新。我希望你喜欢这个新外观，但如果你有任何反馈，我很乐意听取建议。  信息：  应用程序链接： KittenStore 我的更多作品： KittenDev 原始帖子： Reddit - 原始帖子 GitHub 存储库： GitHub - KittenStore  感谢您的支持！ — CodingKitten    由   提交  /u/CodingKittenYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f6aey8/my_ipa_site_future_goals_and_v104/</guid>
       <pubDate>Sun, 01 Sep 2024 09:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站 http://sierra.app</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f6a9gv/website_httpsierraapp/</link>
-      <description><![CDATA[嗨，我正在尝试打开网站 http://sierra.app 来安装应用程序，但打不开？三天前我已经用过 sierra 了，它运行正常，但今天所有的应用程序都停止工作了，所以我删除了所有应用程序，包括 sierra 应用程序和配置文件。但网站打不开或再也打不开 😔，你能帮忙吗？还有其他方法可以获取 sierra 应用程序吗？    提交人    /u/Intelligent-Badger28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f6a9gv/website_httpsierraapp/</guid>
-      <pubDate>Sun, 01 Sep 2024 09:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign Repo 代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f66smn/esign_repo_code/</link>
-      <description><![CDATA[Esign Repo 代码 source[5GHxhb1U7Lc5jIMpumASbN2teg9dyK5EAazzwnfm1/gPKQPTWzcz/GqlPDc/7Km2PMYo6ZLWw8aBN0jFOyphsztwijHaOP/HgNtFseMyB1X3pIk160RewkryDBOO3lYEn1vYXVzQp6qN4HcSSLFlGwnKEsOOtBr35cueB03dmxMyY1Qg36zceyW94Lvj3KnjrespEdmy81mQXjZdEkfvusBgMY9 tx3QGxf7wHuZA4MGY5cXs6onTbvbrRJtzagGDAiyKJFULqYKiB1AaWn2u+DwT/3TZbrZ5JJ 57uSQ9r9KOE6I9uVurF04CuH3OxkgO+ZtHkm/ZHWlwCgZuhUyjMZn5cwUarbNwt6D7z/puO b6GbMH/U04KPuUIiCAyVviuUe99lq/JzfEYq0sNzvq9Rb/DF5MACP9SBRwtT1StRlJ+BXxyQjOmHHjQlT7eLArn2 Vg7Cwx0i/im0+DHIw/tN0W6aRl2EMx8y7zggjO8GQ0quRD4t196+IO9/+MdJ+k7/5RFySPLR0Jpcdi+klMZ2Ns/Nsclfxi9NASGxKor/61bk3zQPHqhVbBplbrdesldydum9k9lmz4IZM+rpxOkjn+ LLADAKgiBTzR6T/ynOL0jKqh7wltfsnuWdWRcCec+B8H90fnjX9/gD0Op2Rv8/8zjbT15nyLAopEgdaP QWU08lid5vSv2CX+8cPhwlxEfZkot6by3q+Tf9h4Iiljj3n6H95owkE2Vv0xGDvooXuMoYeQ72//s8bxWXROdSnTuUDXZV9beP5vewWp7jXNQkCAulMcu2nq/9dvdoIz4eKizFiuLKuASGF8FknCMtlIwGz/Q/8hmu79F2saQp1xcYIoZWJw86PSv5FOx1Ce8eatIkv54xIGQPqe4J2lP0KQxlVTTriMU] 在 gbox 上不起作用    提交人    /u/Scottaslin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f66smn/esign_repo_code/</guid>
-      <pubDate>Sun, 01 Sep 2024 05:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有《地球末日：生存》调整版本的 repo 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f61zlk/does_anyone_have_a_repo_for_the_tweaked_verison/</link>
-      <description><![CDATA[我找不到它😣     提交人    /u/Cha0ticvss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f61zlk/does_anyone_have_a_repo_for_the_tweaked_verison/</guid>
-      <pubDate>Sun, 01 Sep 2024 00:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capcut 优质解锁 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5zz18/capcut_premium_unlocked_ipa/</link>
-      <description><![CDATA[我需要这个 IPA..我下载了此应用程序的不同版本，但都无法安装...即使我通过 signulous（付费订阅）登录也是如此     提交人    /u/ntn_rathor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5zz18/capcut_premium_unlocked_ipa/</guid>
-      <pubDate>Sat, 31 Aug 2024 23:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 国际音标 (IPA)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5zqfg/youtube_ipa/</link>
-      <description><![CDATA[有人有可以在第三代 Apple TV 上运行的经过调整的 YouTube IPA 吗？ 因为他们不再支持它。    提交人    /u/Away-Excitement-2298   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5zqfg/youtube_ipa/</guid>
-      <pubDate>Sat, 31 Aug 2024 22:48:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
