@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 01 Sep 2024 00:52:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 03:16:48 GMT</lastBuildDate>
+    <item>
+      <title>YouTube Plus 5.0 现已推出！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f63tl0/youtube_plus_50_is_out/</link>
+      <description><![CDATA[大家好，希望你们一切都好。 YouTube Plus 5.0 已经发布，可供所有人使用。 您可以在我的 Github 上找到更改日志、文件或构建应用程序 祝你有美好的一天！    由   提交  /u/dayanch96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f63tl0/youtube_plus_50_is_out/</guid>
+      <pubDate>Sun, 01 Sep 2024 02:18:26 GMT</pubDate>
+    </item>
     <item>
       <title>有人有《地球末日：生存》调整版本的 repo 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f61zlk/does_anyone_have_a_repo_for_the_tweaked_verison/</link>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 31 Aug 2024 20:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>伙计们 iosloaded 可信吗？</title>
+      <title>伙计们，iosloaded 可信吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5wnuj/guys_is_iosloaded_trusted/</link>
       <description><![CDATA[是    由   提交  /u/Appropriate-Shop-12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5wnuj/guys_is_iosloaded_trusted/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>如何创建非 mapsigner 或应用测试人员的即时下载 URL</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f5p6gg/how_do_i_make_a_instant_download_url_that_isnt/</link>
-      <description><![CDATA[大多数在几天后在手机上都无法使用    提交人    /u/TheRiceFarmer_YT   [链接] [评论]]]></description>
+      <description><![CDATA[大多数在手机上使用几天后就无法正常工作了    提交人    /u/TheRiceFarmer_YT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5p6gg/how_do_i_make_a_instant_download_url_that_isnt/</guid>
       <pubDate>Sat, 31 Aug 2024 14:56:50 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，家人，最近我读到了关于 feather 应用程序的文章。我只是想知道你们中有多少人从 E-sign 切换到 feather，撤销的证书是否适用于它？     提交人    /u/Tricky-Act-794   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5owyo/regarding_feather_app/</guid>
       <pubDate>Sat, 31 Aug 2024 14:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>将开发者证书导入Esign？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5ngf9/import_developer_certificate_to_esign/</link>
-      <description><![CDATA[是否可以提取或使用我们的 7 天开发者证书（sideloadly 使用的证书）并将其导入 Esign 来签署我们的应用程序    提交人    /u/VegetableGur4121   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5ngf9/import_developer_certificate_to_esign/</guid>
-      <pubDate>Sat, 31 Aug 2024 13:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
