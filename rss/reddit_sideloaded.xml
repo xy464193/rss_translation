@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 01 Sep 2024 12:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 15:08:39 GMT</lastBuildDate>
+    <item>
+      <title>帮助卸载侧载的 Shazam</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6gaxj/help_uninstall_sideloaded_shazam/</link>
+      <description><![CDATA[我从 AppDB 侧载了 Shazam，但现在我想卸载它，但在主页上找不到它。我只在控制面板中看到它为“音乐识别”，我想让它消失    由   提交  /u/LavieGamer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6gaxj/help_uninstall_sideloaded_shazam/</guid>
+      <pubDate>Sun, 01 Sep 2024 14:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助建立 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6fzqk/need_help_building_ipa/</link>
+      <description><![CDATA[      我正在尝试使用解密的我在 decrypt.day 下载了文件并上传到 filebin。但是它不能并显示此错误，请帮忙 https://preview.redd.it/eurj1wkwl7md1.jpg?width=1235&amp;format=pjpg&amp;auto=webp&amp;s=6c1704f6ec01774f1826a31d13f29261b22a168d    提交人    /u/baothoi133   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6fzqk/need_help_building_ipa/</guid>
+      <pubDate>Sun, 01 Sep 2024 14:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>你还能下载 Sierra 吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6fk6y/are_you_still_able_to_download_sierra/</link>
+      <description><![CDATA[尝试访问网站，但是不起作用，也尝试从 GitHub 页面下载，但是不起作用    提交人    /u/sheepsquad343   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6fk6y/are_you_still_able_to_download_sierra/</guid>
+      <pubDate>Sun, 01 Sep 2024 14:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>等待时间（72小时 - 1个月）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6demu/signulous_waiting_time_72_hours_1_month/</link>
+      <description><![CDATA[大家好，Signulous 说我需要 72 小时才能安装 Fortnite，然后当我返回同一页面时，它显示以下内容： “此应用需要您当前证书无法提供的额外权利。我们已经提交了更换请求，但 Apple 需要更多时间来处理已注册设备的新证书。 您将能够在 10 月 3 日太平洋时间下午 5 点之后签署此应用。请在此时间之后重试，感谢您的耐心等待。” 我真的需要等待整整一个月还是仅仅 3 天???    提交人    /u/IndependentBoard7317   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6demu/signulous_waiting_time_72_hours_1_month/</guid>
+      <pubDate>Sun, 01 Sep 2024 12:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚接触 IOS，住在欧盟，只想使用 YT 和 Spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f6d94w/new_to_ios_i_live_in_the_eu_and_just_want_yt_and/</link>
+      <description><![CDATA[大家好， 最近我买了一部 iPhone，想找一些方法来获得 youtube 和 spotify 的无广告版本。我偶然发现了这个 subreddit，并研究了侧载，但如果我理解正确的话，我发现它在欧盟是允许的？ 这是什么意思？我应该按照指南进行 DNS 电子签名吗？还是可以直接从任何来源下载这两个应用程序的无广告版本？ 我已经下载了 Altstore PAL，但不知道我是否需要它，因为我只看到了几个我不会使用的应用程序。 我希望你能帮助指导我完成这个过程，并祝你在阅读本文时过得愉快。    提交人    /u/fatalogia786   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f6d94w/new_to_ios_i_live_in_the_eu_and_just_want_yt_and/</guid>
+      <pubDate>Sun, 01 Sep 2024 12:29:15 GMT</pubDate>
+    </item>
     <item>
       <title>DNS 不足</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6d0n8/ran_out_of_dns/</link>
@@ -55,13 +90,6 @@
       <pubDate>Sun, 01 Sep 2024 05:09:57 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube Plus 5.0 现已推出！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f63tl0/youtube_plus_50_is_out/</link>
-      <description><![CDATA[大家好，希望你们一切都好。 YouTube Plus 5.0 已经发布，可供所有人使用。 您可以在我的 Github 上找到更改日志、文件或构建应用程序 祝你有美好的一天！    由   提交  /u/dayanch96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f63tl0/youtube_plus_50_is_out/</guid>
-      <pubDate>Sun, 01 Sep 2024 02:18:26 GMT</pubDate>
-    </item>
-    <item>
       <title>有人有《地球末日：生存》调整版本的 repo 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f61zlk/does_anyone_have_a_repo_for_the_tweaked_verison/</link>
       <description><![CDATA[我找不到它😣     提交人    /u/Cha0ticvss   [链接] [评论]]]></description>
@@ -81,34 +109,6 @@
       <description><![CDATA[有人有可以在第三代 Apple TV 上运行的经过调整的 YouTube IPA 吗？ 因为他们不再支持它。    提交人    /u/Away-Excitement-2298   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f5zqfg/youtube_ipa/</guid>
       <pubDate>Sat, 31 Aug 2024 22:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5ylpn/esign_help/</link>
-      <description><![CDATA[因此，我关闭了 vpn 以使用 chatgpt，然后我将其重新打开，当我打开 esign 应用程序时，它立即关闭，并且我通过 esign 获得的所有应用程序也都这样做，请帮忙    由    /u/rajfff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5ylpn/esign_help/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以找到旧版本的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5xbb1/where_to_find_older_versions_of_apps/</link>
-      <description><![CDATA[我以前用过 AppDB，但他们的新搜索系统对我来说毫无意义。有谁知道一个好的来源来找到官方应用程序的旧版本？未修改的 IPA。    提交人    /u/Girth_Inspector   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5xbb1/where_to_find_older_versions_of_apps/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们 iosloaded 可信吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5wnuj/guys_is_iosloaded_trusted/</link>
-      <description><![CDATA[是    由   提交  /u/Appropriate-Shop-12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5wnuj/guys_is_iosloaded_trusted/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最好的 TikTok IPA 是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f5wkww/what_is_the_best_tiktok_ipa_right_now/</link>
-      <description><![CDATA[BHTIKTOK 的最新版本无法正常工作，是否有其他适合您的 IPA 版本的 TikTok？    由   提交  /u/Scottaslin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f5wkww/what_is_the_best_tiktok_ipa_right_now/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:23:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
