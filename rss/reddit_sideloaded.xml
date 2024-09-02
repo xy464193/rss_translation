@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 02 Sep 2024 06:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 09:11:01 GMT</lastBuildDate>
+    <item>
+      <title>我有猩红色的回购</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f726iz/repos_i_have_for_scarlet/</link>
+      <description><![CDATA[我拥有 scarlet 的所有这些存储库，还有其他我应该拥有的吗？WuXu 的 Library++、AltStore Complete、MovieBoxPro for AltStore、AppTesters IPA Repo、Qn_ 的 AltStore Repo、zx 的存储库、CyPwn IPA Library、swaggyP36000 IPA Library、Dynastic Repo、Chariz。    提交者    /u/DunGoofedGamingAUS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f726iz/repos_i_have_for_scarlet/</guid>
+      <pubDate>Mon, 02 Sep 2024 09:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>iTunes Iphone 徽标不显示</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f71zbs/itunes_iphone_logo_not_showing/</link>
+      <description><![CDATA[为什么 iTunes 中不显示手机徽标？它工作了几个月，但后来徽标停止显示。我的帐户已获得授权，并且我有 iCloud 下载。我尝试重新安装并重置手机的设置，但没有用。我该如何解决这个问题？    提交人    /u/ClassicKing5568   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f71zbs/itunes_iphone_logo_not_showing/</guid>
+      <pubDate>Mon, 02 Sep 2024 08:48:40 GMT</pubDate>
+    </item>
     <item>
       <title>真实赛车3</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6zkhf/real_racing_3/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如何下载已删除的应用商店应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6zdb4/how_do_i_download_removed_app_store_apps/</link>
-      <description><![CDATA[有人知道如何下载已从应用商店中删除的应用程序吗？我想下载一些我小时候玩过的游戏，但我不知道该怎么做    提交人    /u/No-Arm-7362   [link] [评论]]]></description>
+      <description><![CDATA[有人知道如何下载已从应用商店中删除的应用程序吗？我想下载一些我小时候玩过的游戏，但我不知道该怎么做 （我有 IPA，但我不知道如何使用它，因为我对这整个事情都很陌生）    提交人    /u/No-Arm-7362   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f6zdb4/how_do_i_download_removed_app_store_apps/</guid>
       <pubDate>Mon, 02 Sep 2024 05:49:35 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>Instagram</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f6lmt1/instagram/</link>
-      <description><![CDATA[我开始厌倦这些 Instagram 广告。尤其是当它们连续出现时。我还发誓，有时他们会将滑动注册为点击，这样我就不得不进入应用程序。 你能推荐我什么 Instagram ipa？（最好是开源的）    提交人    /u/Early_Championship_2   [link] [评论]]]></description>
+      <description><![CDATA[我开始厌倦这些 Instagram 广告。尤其是当它们连续出现时。我还发誓，有时他们会将滑动注册为点击，这样我就会进入应用程序。 你能推荐我什么 Instagram ipa？（最好是开源的）    提交人    /u/Early_Championship_2   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f6lmt1/instagram/</guid>
       <pubDate>Sun, 01 Sep 2024 18:39:25 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[请在标题中说明。是否有 discord 服务器可以找到 ipas？例如 Discord 中的 ipa 库？    由   提交  /u/Unfortunately2inches   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f6jace/discord_to_find_ipas/</guid>
       <pubDate>Sun, 01 Sep 2024 16:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 IPA 调整安装</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f6il4q/tweaks_installation_with_ipa/</link>
-      <description><![CDATA[大家好，希望你们一切都好。 我最近买了一部搭载 iOS 17 的 iPhone 15，我已将其更新到最新版本 17.6.1。我花了很多时间安装修改过的应用程序并对其进行侧载，所以我发现了 scarlet，到目前为止，它对我来说效果很好。 我的 Apple ID 已在 Apple Developer 注册，我确实启用了开发者选项（如果这有帮助的话），但基本上我想用 ShortMoji 或 SwipeExtenderX 修改默认的 iOS 键盘。 这些是通过 .deb 文件进行的调整，是否可以通过将它们注入应用程序并安装来安装它们，还是那些需要 JB 的系统级调整。就目前而言，我知道 iPhone 15 还没有 JB。抱歉，我是新手，以防我错过了有关侧载和调整的任何重要信息。 第三方键盘是目前我的最后手段。 提前致谢。    提交人    /u/Superdriver9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f6il4q/tweaks_installation_with_ipa/</guid>
-      <pubDate>Sun, 01 Sep 2024 16:29:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>电脑无法识别我的 iPhone。如何侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f6i3fk/the_computer_doesnt_recognize_my_iphone_how_to/</link>
-      <description><![CDATA[我花了 20 美元买了一部 iPhone 5S 来做一些测试，但我无法在其上侧载 .ipa 文件，即使尝试了几种方法也是如此。我尝试安装 gbox，但没有成功。 我尝试在计算机上使用 sideloadly，但计算机和笔记本电脑都无法识别我的 iPhone 5S，事实上，它甚至没有出现“信任这台计算机”这样的选项，它只是给我的手机充电。 电缆真的是通用的，不是原装的，所以我相信这是原因，对吧？但我的主要手机是安卓手机，所以我没有其他闪电电缆。 有没有其他解决方案，让我可以在没有电脑的情况下在手机上侧载这个 .ipa，比如网站或类似的东西？谢谢！    提交人    /u/Medium-Twist-2447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f6i3fk/the_computer_doesnt_recognize_my_iphone_how_to/</guid>
-      <pubDate>Sun, 01 Sep 2024 16:08:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
