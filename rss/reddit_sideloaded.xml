@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:10:09 GMT</lastBuildDate>
+    <item>
+      <title>使用 ESign、Scarlet 在 CarPlay 上播放 Spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f825mw/spotify_on_carplay_using_esign_scarlet/</link>
+      <description><![CDATA[      如您所知，如果您使用 esign 或 scarlet 进行侧载，则无法在 carplay 中看到 Spotify 的全屏播放，但我发现一个小故障可能有助于您使用 Spotify，如图所示。我下载了另一个名为离线音乐播放器的应用程序，然后播放了几秒钟，然后我转到侧载的 spotify 并从那里开始播放，您可以看到屏幕已完成，如图所示。 告诉我它是否适合您，如果有人有解释，我将非常高兴。    提交人    /u/Optimal-Complaint486   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f825mw/spotify_on_carplay_using_esign_scarlet/</guid>
+      <pubDate>Tue, 03 Sep 2024 15:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18.1 开发者测试版？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f80h45/ios_181_developer_beta/</link>
+      <description><![CDATA[我听说 iOS 18 测试版的新版本侧载功能已损坏。如果我更新，会遇到问题吗？    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f80h45/ios_181_developer_beta/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 看不到已连接的 VPN 或 wifi，因此无法刷新 - 有什么解决办法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f7zeyc/sidestore_does_not_see_vpn_connected_nor_wifi_so/</link>
+      <description><![CDATA[它已经正常工作了一周，但突然由于 wifi 或 VPN 未连接而无法重新签名应用程序，尽管它已连接。 除了完全重新进行安装过程之外，还有其他解决方案吗？目前在度假，没有电脑。    提交人    /u/mindful999   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f7zeyc/sidestore_does_not_see_vpn_connected_nor_wifi_so/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>它在哪里？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f7zec8/kodi_ipa/</link>
+      <description><![CDATA[寻找一个我可以下载并放到侧载上的 Kodi 32 位 IPA（无需在 iPad 上越狱）。它存在吗，还是您需要越狱？    提交人    /u/zoro1020   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f7zec8/kodi_ipa/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法验证应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f7zbn4/anyway_to_reverify_apps/</link>
+      <description><![CDATA[        提交人    /u/DonutvibesYT   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f7zbn4/anyway_to_reverify_apps/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:00:47 GMT</pubDate>
+    </item>
     <item>
       <title>iPad 版的 Lightroom 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f7xwlg/lightroom_for_ipad/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>如何修补 uYouPlus 非持久设置？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f7wf5n/how_to_patch_uyouplus_nonpersistent_setting/</link>
-      <description><![CDATA[我安装了 YouTube 的修补版本（YouTube Ivanced 是一个非常特殊的版本，没有故障），它具有我需要的所有功能，但由于某些原因，每次我退出应用程序时，“阻止广告”设置都会关闭。 我发现这是 uyouplus 的错误，我想知道是否有人知道对此进行调整？比如 .dylib 文件    提交人    /u/Asmoson_   [link] [评论]]]></description>
+      <description><![CDATA[我安装了 YouTube 的修补版本（YouTube Ivanced 是一个非常特定的版本，没有故障），它具有我需要的所有功能，但由于某些原因，每次我退出应用程序时，“阻止广告”设置都会关闭。 我发现这是 uyouplus 的错误，我想知道是否有人知道对此进行调整？比如 .dylib 文件    提交人    /u/Asmoson_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f7wf5n/how_to_patch_uyouplus_nonpersistent_setting/</guid>
       <pubDate>Tue, 03 Sep 2024 10:21:20 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[您好，当我使用开发者（自己的）帐户时，有什么方法可以为侧载应用启用通知吗？ 当我使用 Altstore 侧载应用时，一切都运行良好（例如从应用内更改图标或 YT/Spotify 的动态岛等），但通知和小部件不起作用。我认为应该有一种方法可以用正确的权利来实现它。 请不要建议替代方案（如 AppDB 或 Maple 或 Signoulous）。是的，带来通知，但其他一切（如小部件、更改图标、动态岛等）都无法正常工作。 谢谢！    提交人    /u/GrPK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f7h7fh/any_way_to_enable_notifications_for_altstore_with/</guid>
       <pubDate>Mon, 02 Sep 2024 20:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7dxjz/esign_not_working/</link>
-      <description><![CDATA[当我尝试使用 ESign 和所有附属应用程序时，它们会立即崩溃，提示它们未经验证，当我尝试验证时什么也没有发生，请帮忙    提交人    /u/Stunning-Relief8299   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7dxjz/esign_not_working/</guid>
-      <pubDate>Mon, 02 Sep 2024 18:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 IPAGods 下载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7dwz9/how_to_download_from_ipagods/</link>
-      <description><![CDATA[此网站拥有我正在寻找的一些最新版本的 IPA，但问题是它要求输入密码才能下载文件。要获取密码，您必须完成一项调查或一些从未完成的任务。知道我该如何下载它吗？  我在此处附加链接- https://iosgodsipa.com    提交人    /u/knightking08   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7dwz9/how_to_download_from_ipagods/</guid>
-      <pubDate>Mon, 02 Sep 2024 18:22:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 yt lite plus 上看到了广告</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7dphz/im_seeing_ads_on_yt_lite_plus/</link>
-      <description><![CDATA[有办法解决这个问题吗？还是我必须找到另一种方法来摆脱 YouTube 广告？    提交人    /u/MemoryPatient2073   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7dphz/im_seeing_ads_on_yt_lite_plus/</guid>
-      <pubDate>Mon, 02 Sep 2024 18:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>塞拉</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7dbgq/sierra/</link>
-      <description><![CDATA[所以 sierra 已下载并正常工作，直到出现故障。我验证了个人资料和所有内容。它只是说“无法验证应用程序”，有什么想法吗？    提交人    /u/therealfan_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7dbgq/sierra/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:59:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>对此来说是新的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7blbq/new_to_this/</link>
-      <description><![CDATA[以前从未这样做过，我需要做什么，我能期待什么，如何安全地做到这一点，以及我可以用侧载做什么？我是新手，所以请帮忙 ios 18 最新测试版  iphone 12     提交人    /u/therealfan_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7blbq/new_to_this/</guid>
-      <pubDate>Mon, 02 Sep 2024 16:51:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
