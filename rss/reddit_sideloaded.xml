@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 03 Sep 2024 15:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:12:53 GMT</lastBuildDate>
+    <item>
+      <title>最适合 eSign 的 iPA 存储库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f83aw8/the_greatest_ipas_repos_for_esign/</link>
+      <description><![CDATA[大家好，我请求大家在互联网上以&quot;URL&quot; 格式而不是&quot;源&quot; 代码形式分享你们喜爱的 ipa repos 用于电子签名，这样每个人都可以相应地进行选择，并且更容易单独复制粘贴     提交人    /u/Prestigious-Guide-61   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f83aw8/the_greatest_ipas_repos_for_esign/</guid>
+      <pubDate>Tue, 03 Sep 2024 15:48:47 GMT</pubDate>
+    </item>
     <item>
       <title>使用 ESign、Scarlet 在 CarPlay 上播放 Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f825mw/spotify_on_carplay_using_esign_scarlet/</link>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 03 Sep 2024 01:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>Trollstore 在 iOS 17.0 上的安装方法</title>
+      <title>iOS 17.0 上的 Trollstore 安装方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f7kp15/trollstore_installation_method_on_ios_170/</link>
       <description><![CDATA[        提交人    /u/No_Care6202   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f7kp15/trollstore_installation_method_on_ios_170/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[有一个名为 record it 的应用程序（它可以记录屏幕，大多数人用它来录制游戏）现在我的问题是哪个更好，Iphone 的屏幕录制还是第三方应用程序，还有一件事是在应用程序中有一个 1440p 加上 12 mbps 比特率和 60 FPS 的选项，但是普通的内置屏幕录制没有该功能并且它一直崩溃，每当我尝试连接控制器并开始直播时，twitch streame 也会发生同样的情况（控制器断开连接或流被取消）🥲    提交人    /u/ntn_rathor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f7knzh/screen_recording_in_ios/</guid>
       <pubDate>Mon, 02 Sep 2024 23:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法使用个人开发账户为 AltStore 启用通知？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f7h7fh/any_way_to_enable_notifications_for_altstore_with/</link>
-      <description><![CDATA[您好，当我使用开发者（自己的）帐户时，有什么方法可以为侧载应用启用通知吗？ 当我使用 Altstore 侧载应用时，一切都运行良好（例如从应用内更改图标或 YT/Spotify 的动态岛等），但通知和小部件不起作用。我认为应该有一种方法可以用正确的权利来实现它。 请不要建议替代方案（如 AppDB 或 Maple 或 Signoulous）。是的，带来通知，但其他一切（如小部件、更改图标、动态岛等）都无法正常工作。 谢谢！    提交人    /u/GrPK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f7h7fh/any_way_to_enable_notifications_for_altstore_with/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:35:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
