@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 03 Sep 2024 03:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 06:13:45 GMT</lastBuildDate>
+    <item>
+      <title>没有证书的话是否可以使用 trollstore 进行 ESign？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1f7sgch/is_it_possible_to_get_esign_with_trollstore/</link>
+      <description><![CDATA[我有 trollstore，但我想要 ESign，这样我就可以将 igamegod 注入一些游戏中，但是是否有可能通过安装带有 trollstore 的 ESign 来获得 ESign 并使用 ESign 签署应用程序 我想我在写这篇文章的时候中风了，但它提出了这个问题    提交人    /u/No_Money_1347   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1f7sgch/is_it_possible_to_get_esign_with_trollstore/</guid>
+      <pubDate>Tue, 03 Sep 2024 05:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装方法 Windows 上带有 trollrestore 17.0</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1f7sfq3/installation_methods_windows_with_trollrestore_170/</link>
+      <description><![CDATA[       由    /u/Shot-Satisfaction-42  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1f7sfq3/installation_methods_windows_with_trollrestore_170/</guid>
+      <pubDate>Tue, 03 Sep 2024 05:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>有没有关于安全（没有启动循环风险）应用程序外观/主题的 trollstore 应用程序的推荐？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f7nfd1/any_recommendations_for_safe_no_risk_of_boot_loop/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[因此，我知道网站上有一个兼容版本列表，但我检查过，似乎找不到包含 15.8.3 的版本。我可以看到 15.7.7 到 15.8，然后它就跳转到 16。我看到网上有人用这个 iOS 使用它，所以我想知道是否有人可以告诉我我需要哪个版本的正确方向或发送链接。  干杯    提交人    /u/gotswag736   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f3p9h2/which_download_for_1583_is_it_compatible/</guid>
       <pubDate>Thu, 29 Aug 2024 00:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关我的 IPA 安装程序 PWA 的反馈 – 建议？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1f3emc6/feedback_on_my_ipa_installer_pwa_suggestions/</link>
-      <description><![CDATA[嗨 Reddit， 我最近使用 OnsenUI 的 HTML、CSS 和 JavaScript 创建了一个小型副项目。这是一个用于从此存储库安装 IPA 文件的 UI：TrollStore-IPAs。该项目也是一个渐进式 Web 应用程序 (PWA)，因此您可以通过选择“共享”轻松将其添加到主屏幕然后“添加到主屏幕”。 您可以在这里查看：KittenStore。 我有几个问题要问你们：  您知道其他支持 URL 方案的侧载工具吗？ 您建议进行哪些改进（无论是设计、功能还是其他什么）？ 我应该继续研究这个问题，还是最好转向其他问题？  感谢您的时间！ — CodingKitten    提交人    /u/CodingKittenYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1f3emc6/feedback_on_my_ipa_installer_pwa_suggestions/</guid>
-      <pubDate>Wed, 28 Aug 2024 16:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 无法从 App Store 下载</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1f3a1a9/instagram_not_downloading_from_app_store/</link>
-      <description><![CDATA[我已经使用 Insta BH + Rocket 一段时间了，现在想回到原来的 instagram。但是，从 Trollstore 卸载 IPA 文件后，我仍然无法从 App Store 下载原始 insta。它开始下载，然后当它到达安装部分时，它会在 75% 处暂停，然后下载停止，并且 insta 图标停留在那里，就像它被卸载了一样。我该如何解决这个问题？    提交人    /u/AbO0d1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1f3a1a9/instagram_not_downloading_from_app_store/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
