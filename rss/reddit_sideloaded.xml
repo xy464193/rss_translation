@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 05 Sep 2024 12:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 15:10:14 GMT</lastBuildDate>
+    <item>
+      <title>关于电子签名和证书的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f9mb1p/question_about_esign_and_certificates/</link>
+      <description><![CDATA[如果使用 dns 方法证书过期会发生什么情况？（过期但未撤销）    提交人    /u/Competitive-Ad-6570   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f9mb1p/question_about_esign_and_certificates/</guid>
+      <pubDate>Thu, 05 Sep 2024 13:19:54 GMT</pubDate>
+    </item>
     <item>
       <title>如果我使用我的 Apple ID，Scarlet 会被撤销吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f9kqdt/will_scarlet_get_revoked_if_i_use_my_apple_id/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我正在尝试通过使用 esign 更改其捆绑包 ID 在我的 iPhone 上复制 Google Chrome，它已经安装但无法正常工作并不断崩溃，任何帮助，谢谢    提交人    /u/No-Custard-2466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f94n7x/duplicate_chrome/</guid>
       <pubDate>Wed, 04 Sep 2024 21:05:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSR赛车2</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f92ho7/csr_racing_2/</link>
-      <description><![CDATA[使用 signulous 安装了应用程序，但它崩溃了，知道为什么吗？我是新手    由   提交  /u/not-Phil42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f92ho7/csr_racing_2/</guid>
-      <pubDate>Wed, 04 Sep 2024 19:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
