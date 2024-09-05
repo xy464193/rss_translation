@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 05 Sep 2024 18:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 21:09:03 GMT</lastBuildDate>
+    <item>
+      <title>用于电子签名的免费 VPN</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f9x92i/free_vpn_for_esign/</link>
+      <description><![CDATA[有没有什么免费的 vpn 可以与 esign 一起使用？我试过的那些都没有被撤销 esign，但是我的学校屏蔽了它们，所以我不能用我的手机连接学校的 wifi    提交人    /u/CryptographerOk9812   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f9x92i/free_vpn_for_esign/</guid>
+      <pubDate>Thu, 05 Sep 2024 20:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于Signulous的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f9uooq/question_about_signulous/</link>
+      <description><![CDATA[如果我购买了 Signulous 证书，我可以将其用于不同的签名，例如 esign 吗？它是如何工作的？它会给我一个文件还是什么？或者，如果我从 kravasign 购买证书，我可以在 signulous 上使用它吗？    由   提交  /u/Rachels4You   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f9uooq/question_about_signulous/</guid>
+      <pubDate>Thu, 05 Sep 2024 19:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign 更新 [VPN] & [Feather]</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1f9th6b/esign_update_vpn_feather/</link>
+      <description><![CDATA[Hello Sideloaders! 对一些事情进行快速小更新。完成后，VPN 信息已添加到指南底部。这绝不是每个 VPN 的完整指南，并且将非常依赖于您使用的 VPN，但 redditor（u/Dropped_Angel）非常好心地制作了一个指南，介绍如何使用 Wireguard 进行设置，我已将其添加到如何使用大多数其他 VPN 进行设置 Feather 人气爆棚！虽然目前还没有网站可以在使用此方法时直接侧载它而不需要 ESign。我添加了一个快速指南，介绍如何使用 DNS 方法使其工作。设置它确实需要一些时间，您需要获取 P12 和移动配置文件来自 AppleP12，因为 Feather 不支持 .esigncert 格式。 如果您想制作有关如何设置允许 DNS 更改的 VPN 的指南，请向我发送 DM，我会将其添加到指南中。大多数付费 VPN 都具有此功能，但我无法全部做到！ -PuReEnVyUs    提交人    /u/PuReEnVyUs   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1f9th6b/esign_update_vpn_feather/</guid>
+      <pubDate>Thu, 05 Sep 2024 18:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>appdb 上有哪些好的健身应用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f9r57h/good_fitness_apps_on_appdb/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Sierra 侧载：“应用程序不再可用”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f9qfyt/sierra_sideload_app_no_longer_available/</link>
-      <description><![CDATA[      看，我已经使用 sierra 大约 3 周了，并用它来侧载应用程序，但今天，当我尝试打开一个应用程序时，我的手机告诉我应用程序不再可用，所以请帮忙 !!!!    由    /u/Apart_Assumption3591  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      看，我已经使用 sierra 大约 3 周了，并用它来侧载应用程序，但今天，当我尝试打开一个应用程序时，我的手机告诉我这些应用程序不再可用，所以请帮忙 !!!!    由    /u/Apart_Assumption3591  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f9qfyt/sierra_sideload_app_no_longer_available/</guid>
       <pubDate>Thu, 05 Sep 2024 16:18:35 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>Esigned 应用程序“不再可用”？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f9pky7/esigned_apps_no_longer_available/</link>
-      <description><![CDATA[我 5 天前更新到了 17.6.1，当天就完成了整个 esign 和 nextdns 等操作 今天，Esign 和所有已安装的应用程序都显示“不再可用”。  为什么会这样？我在安装时遗漏了什么吗？还是这是一个经常导致应用程序不可用的重复问题？  最后，我该如何解决？    提交人    /u/xPhantom__   [link] [评论]]]></description>
+      <description><![CDATA[我 5 天前更新到了 17.6.1，当天就完成了整个 esign 和 nextdns 等操作 今天，Esign 和所有安装的应用程序都显示“不再可用”。  为什么会这样？我在安装时遗漏了什么吗？还是这是一个经常导致应用程序不可用的重复问题？  最后，我该如何解决？    提交人    /u/xPhantom__   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f9pky7/esigned_apps_no_longer_available/</guid>
       <pubDate>Thu, 05 Sep 2024 15:43:20 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>关于电子签名和证书的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1f9mb1p/question_about_esign_and_certificates/</link>
-      <description><![CDATA[如果使用 dns 方法证书过期会发生什么情况？（过期但未撤销）    提交人    /u/Competitive-Ad-6570   [link] [comments]]]></description>
+      <description><![CDATA[如果使用 dns 方法的证书过期会发生什么？（过期而不是撤销）    提交人    /u/Competitive-Ad-6570   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f9mb1p/question_about_esign_and_certificates/</guid>
       <pubDate>Thu, 05 Sep 2024 13:19:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有一个苹果开发者账户，应用程序会在一段时间后被撤销吗？    提交人    /u/Active-Elephant5842   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1f9al9b/using_appdb/</guid>
       <pubDate>Thu, 05 Sep 2024 01:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 chatgpt 的修改版 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f9ah1c/does_anyone_have_a_modded_ipa_for_chatgpt/</link>
-      <description><![CDATA[谢谢    由   提交  /u/JAILBREAKSGOATED   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f9ah1c/does_anyone_have_a_modded_ipa_for_chatgpt/</guid>
-      <pubDate>Thu, 05 Sep 2024 01:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altstor 7 天</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f99mlm/altstor_7_days/</link>
-      <description><![CDATA[大家好，祝大家有美好的一天  我正在使用 altstore 来观看 youtube premium 和 show mania，我需要添加更多应用程序并且需要超过 7 天的时间，并对其进行指导  请考虑：我不是专家，但我喜欢弄清楚事情     提交人    /u/Marwanellithey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f99mlm/altstor_7_days/</guid>
-      <pubDate>Thu, 05 Sep 2024 00:49:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐工作 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1f98gpi/musically_working_ipa/</link>
-      <description><![CDATA[我正在寻找一个可用的 musicaly ipa，我认为如果能在 2024 年与 TikTok 服务器或其他东西一起使用 musically 会很酷。如果有人知道什么，可以分享一下吗？    提交人    /u/nate348   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1f98gpi/musically_working_ipa/</guid>
-      <pubDate>Wed, 04 Sep 2024 23:54:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
