@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Fri, 06 Sep 2024 03:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 06:13:23 GMT</lastBuildDate>
+    <item>
+      <title>IPA搜索</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fa6j7h/ipa_search/</link>
+      <description><![CDATA[  由    /u/ZiggyTTV  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fa6j7h/ipa_search/</guid>
+      <pubDate>Fri, 06 Sep 2024 04:21:47 GMT</pubDate>
+    </item>
     <item>
       <title>14 pro 任意动态岛屿定制</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f9kwnx/any_dynamic_island_customization_for_14_pro/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>尝试通过 Scarlet 下载应用程序时出错</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f92yrv/error_trying_to_download_apps_via_scarlet/</link>
-      <description><![CDATA[我尝试从 Scarlet 中下载任何应用程序后收到错误： “无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.stagin 的代码签名...” 我尝试重新激活开发人员模式，但没有任何变化。 Scarlet 最初是通过其网站安装的，在被撤销后，我通过 TrollStore 安装了它。    提交人    /u/Eyelow91   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试从 Scarlet 中下载任何应用程序后收到错误： “无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.stagin 的代码签名....” 我尝试重新激活开发人员模式，但没有任何变化。 Scarlet 最初是通过其网站安装的，在被撤销后，我通过 TrollStore 安装了它。    提交人    /u/Eyelow91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f92yrv/error_trying_to_download_apps_via_scarlet/</guid>
       <pubDate>Wed, 04 Sep 2024 19:57:25 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>降级至 iOS 17.0 并安装 Troll Store</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f8owuo/downgrade_to_ios_170_and_install_troll_store/</link>
-      <description><![CDATA[我目前使用的是 iOS 17.5.1，可以将我的手机降级到 17.0 并安装 troll store 吗？ 如果可能的话请指导我    提交人    /u/Ashfaq-2805   [link] [评论]]]></description>
+      <description><![CDATA[我目前使用的是 iOS 17.5.1，可以将我的手机降级到 17.0 并安装 troll store 吗？ 如果可能的话，请指导我    提交人    /u/Ashfaq-2805   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f8owuo/downgrade_to_ios_170_and_install_troll_store/</guid>
       <pubDate>Wed, 04 Sep 2024 09:25:53 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Apple Watch 无法更新</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f7x314/apple_watch_cant_update/</link>
-      <description><![CDATA[有没有可以让我更新 Apple Watch 的小技巧，因为我的 iOS 版本太旧了，所以被锁定了？    提交人    /u/akminas   [link] [comments]]]></description>
+      <description><![CDATA[有没有可以让我更新 Apple Watch 的小技巧，因为我的 iOS 版本太旧，所以被锁定了？    提交人    /u/akminas   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f7x314/apple_watch_cant_update/</guid>
       <pubDate>Tue, 03 Sep 2024 11:02:59 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 03 Sep 2024 05:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>安装方法 Windows 上带有 trollrestore 17.0</title>
+      <title>使用 trollrestore 17.0 的 Windows 安装方法</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1f7sfq3/installation_methods_windows_with_trollrestore_170/</link>
       <description><![CDATA[       由    /u/Shot-Satisfaction-42  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f7sfq3/installation_methods_windows_with_trollrestore_170/</guid>
       <pubDate>Tue, 03 Sep 2024 05:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有关于安全（没有启动循环风险）应用程序外观/主题的 trollstore 应用程序的推荐？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1f7nfd1/any_recommendations_for_safe_no_risk_of_boot_loop/</link>
-      <description><![CDATA[任何建议均不胜感激！    由    /u/reddragonoooo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1f7nfd1/any_recommendations_for_safe_no_risk_of_boot_loop/</guid>
-      <pubDate>Tue, 03 Sep 2024 01:13:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
