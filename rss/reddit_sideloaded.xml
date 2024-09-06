@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 06 Sep 2024 15:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 18:12:30 GMT</lastBuildDate>
+    <item>
+      <title>侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1falqc2/sideloading/</link>
+      <description><![CDATA[请不要杀了我，但有人知道侧载应用程序的好指南吗？希望它是“永久的”，最好是免费的方式，但我不介意付费。我现在在用 ipad os 18 beta     由    /u/RykerShleicher  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1falqc2/sideloading/</guid>
+      <pubDate>Fri, 06 Sep 2024 18:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 livecontainer 启用 Jit 时出错</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1faljzv/error_while_enabling_jit_for_livecontainer/</link>
+      <description><![CDATA[嗨 我正在使用 ios 17.2，并正在尝试为 Livecontainer 启用 jit。 我收到的错误消息是： 进程“altjit”失败，代码为 1。无法将调试器附加到 LiveContainer_PleaseDoNotShortenTheExecutableNameBecauseItIsUsedToReserveSpaceForOverwritingThankYou。 LiveContainer_PleaseDoNotShortenTheExecutableNameBecauseItIsUsedToReserveSpaceForOverwritingThankYou 未运行。 在此过程中，我让 livecontainer 应用在​​前台运行。 pymobiledevice3==2.30.0 construct==2.10.69 qh3==0.15.1 如能提供任何帮助，我们将不胜感激。谢谢。    提交人    /u/onions_lfg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1faljzv/error_while_enabling_jit_for_livecontainer/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign 为何失败</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1falgy1/why_esign_has_been_failing/</link>
+      <description><![CDATA[      Khoindvn 的 Esign DNS 阻止程序已在2024 年 9 月 2 日。    由   提交  /u/grandiloquence3   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1falgy1/why_esign_has_been_failing/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feather 应用程序可以离线工作吗？我可以使用已撤销的证书吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fakmm4/feather_app_work_offline_and_can_i_use_revoked/</link>
+      <description><![CDATA[我想知道它是否像 esign 或者根本不像？    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fakmm4/feather_app_work_offline_and_can_i_use_revoked/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple TV 上的 YouTube</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1faj60d/youtube_on_apple_tv/</link>
+      <description><![CDATA[快速提问，这可能不可行，但是否有任何支持 tvOS 的 YouTube mod ipa？我有一台 Apple TV 4K，通过 Signulous 侧载了 Kodi，也希望在其上侧载一些无广告的 YouTube 版本。尝试了几个，但无济于事。我也尽了最大努力让 Kodi 中的 YouTube 运行 API，但那是我无法成功的努力。 在我的 iPhone 上整理 YT 没问题，这些天要找到能用的版本真是太难了，但我在 github 上找到了一个可靠的 uYouEnhanced 版本。 谢谢    提交人    /u/Tranquillian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1faj60d/youtube_on_apple_tv/</guid>
+      <pubDate>Fri, 06 Sep 2024 16:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以从 Watusi Whatsapp 恢复到原始版本吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1faibu6/can_i_revert_from_watusi_whatsapp_to_the_original/</link>
+      <description><![CDATA[我已侧载了 Watusi Whatsapp，然后发现我停止接收来自 whatsapp 的任何通知，无论是在我的手机本身还是在 carplay 上。然后我找到了一个带有通知的 Watusi IPA 的 github 页面，但是，它现在仍然显示在 carplay 上，更糟糕的是，我在 whatsapp 上有 ADS。 有人能帮我找回原来的 whatsapp..    提交人    /u/No_Cryptographer122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1faibu6/can_i_revert_from_watusi_whatsapp_to_the_original/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:42:03 GMT</pubDate>
+    </item>
     <item>
       <title>猩红错误</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fah6bf/scarlet_error/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[      您好，我正在尝试自行托管 JITStreamer 2，但遇到了一些问题。我知道这与侧载并不完全相关，我不介意管理员出于这个原因删除此帖子。但如果有人能帮助兄弟，那就太好了。唯一被审查的是我的名字，不要害怕询问任何额外的信息。提前致谢。    提交人    /u/10GSkpla   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fa6hu4/fun_time_trying_to_enable_jit_programmingrelated/</guid>
       <pubDate>Fri, 06 Sep 2024 04:19:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eevee Spotify</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa3zb3/eevee_spotify/</link>
-      <description><![CDATA[可以使用 eevee spotify 进行 jam 吗？如果可以，我该如何打开它？    提交人    /u/Polar_Lemonade   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa3zb3/eevee_spotify/</guid>
-      <pubDate>Fri, 06 Sep 2024 02:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>！！！！！！帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa3m86/help/</link>
-      <description><![CDATA[所以我放弃了电子签名，因为它似乎对我来说不起作用，而且我不知道如何安装羽毛签名，所以有人可以推荐一个视频或其他东西吗🙏😭 iOS 18 顺便说一句，如果这有什么变化的话     提交人    /u/Single-Afternoon-105   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa3m86/help/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出全新 TrollStore：Omega Ω</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa315u/introducing_the_new_trollstore_omega_ω/</link>
-      <description><![CDATA[大约 2 周前，我发布了“让 eSign 焕然一新”。该帖子得到了积极的反馈，但我忽略了一点，我并不是第一个有这个想法的人。 在 Feather、Prism、QuickSign 等背后有着出色的开发人员，仅仅制作一个签名应用程序并不会引起轰动。 使用新的漏洞，我计划创建用于侧载、设备自定义等的终极应用程序。它将引入无数新功能，并集成社区中以前最喜欢的众多功能。 这并不意味着要成为像 TrollStore 这样的永久签名应用程序（尽管我希望我们有一天能达到这一点）。相反，它将成为侧载领域的创新中心，我的目标是这将是人们会使用的第一个也是最后一个应用程序。  我已经在两部手机上测试了最早的功能，并且取得了成功。我对未来的发展充满期待。  附注：这只是我对该应用程序的第一个概念。请留下您希望看到的功能的建议。     提交人    /u/LoquatMaleficent9781   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa315u/introducing_the_new_trollstore_omega_ω/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>登录安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa2zle/safe_to_login/</link>
-      <description><![CDATA[我获得了 genie chat 功能，但它要求我在启动时登录 Apple ID，使用我的主账号安全吗？当我使用我的备用账号时，它一直让我在设置中验证，但我当然不能，因为我的主 Apple ID 在我的手机上    提交人    /u/MaazzYT   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa2zle/safe_to_login/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子标志</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa268o/e_sign/</link>
-      <description><![CDATA[我怎么也找不到任何可用的链接，是因为我使用的是 iOS 18 还是只是链接不好，有人能帮帮我吗    提交人    /u/Single-Afternoon-105   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa268o/e_sign/</guid>
-      <pubDate>Fri, 06 Sep 2024 00:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>发条骑士 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fa0pgr/windup_knight_ipa/</link>
-      <description><![CDATA[有没有人知道/有 Wi​​nd-Up Knight IPA 文件的链接？我小时候玩过这个游戏，很喜欢，但是 iOS 上没有了，我找不到在线下载的方法。我可以很容易地找到 .APK 文件，但除了模拟它之外没有其他合法的方法可以将其转换为 IPA，这显然对游戏来说很糟糕，因为它很滞后。所以有没有人有：  真正的 APK 到 IPA 转换器 不慢的 APK 模拟器 Windup Knight 的 IPA 文件     提交人    /u/jrschoen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fa0pgr/windup_knight_ipa/</guid>
-      <pubDate>Thu, 05 Sep 2024 23:25:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
