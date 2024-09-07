@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 07 Sep 2024 06:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 09:09:30 GMT</lastBuildDate>
+    <item>
+      <title>我们有用于侧载的超级线程吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fb1k7e/do_we_have_a_megathread_for_side_loading/</link>
+      <description><![CDATA[A    由   提交  /u/EatNails_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fb1k7e/do_we_have_a_megathread_for_side_loading/</guid>
+      <pubDate>Sat, 07 Sep 2024 07:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法使用 Feather 安装任何东西</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fb1f70/cant_install_anything_with_feather/</link>
+      <description><![CDATA[      大家好。过去几周我一直在使用 ESign，效果不错。最近我听说了 Feather，并按照指南进行了安装（我在白名单中添加了正确的条目）。我一直在使用在 AppleP12 电报频道上找到的各种已撤销的证书，但我无法安装任何东西。我只使用 HDFC 证书成功过一次，但是由于我有使用该证书签名的其他应用程序（以 esign 格式），因此最终我的所有应用程序都未经验证（我想我已被列入黑名单，仍然想不出怎么回事，因为我正在使用新的 dns 方法），所以我不得不转移到 Esign 上的另一个（显然是在 feather 中）。使用 feather 我所能得到的只是 Feather 中的“完成”消息和出现在我主页上的“紫色”图标，上面写着“安装失败，因为无法验证完整性”（用另一种语言写成的类似内容）。我该怎么办？谢谢你们的帮助    提交人    /u/Zestyclose_Use_5961   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fb1f70/cant_install_anything_with_feather/</guid>
+      <pubDate>Sat, 07 Sep 2024 07:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>证书搜寻</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fb0e25/cert_hunting/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>Esign 为何失败</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1falgy1/why_esign_has_been_failing/</link>
-      <description><![CDATA[      Khoindvn 的 Esign DNS 阻止程序已在2024 年 9 月 2 日。    由   提交  /u/grandiloquence3   [链接] [评论] ]]></description>
+      <description><![CDATA[      Khoindvn 的 Esign DNS 阻止程序已在2024 年 9 月 2 日。    由    /u/grandiloquence3 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1falgy1/why_esign_has_been_failing/</guid>
       <pubDate>Fri, 06 Sep 2024 17:53:50 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[快速提问，这可能不可行，但是否有任何支持 tvOS 的 YouTube mod ipa？我有一台 Apple TV 4K，通过 Signulous 侧载了 Kodi，也希望在其上侧载一些无广告的 YouTube 版本。尝试了几个，但无济于事。我也尽了最大努力让 Kodi 中的 YouTube 运行 API，但那是我无法成功的努力。 在我的 iPhone 上整理 YT 没问题，这些天要找到能用的版本真是太难了，但我在 github 上找到了一个可靠的 uYouEnhanced 版本。 谢谢    提交人    /u/Tranquillian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1faj60d/youtube_on_apple_tv/</guid>
       <pubDate>Fri, 06 Sep 2024 16:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以从 Watusi Whatsapp 恢复到原始版本吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1faibu6/can_i_revert_from_watusi_whatsapp_to_the_original/</link>
-      <description><![CDATA[我已侧载了 Watusi Whatsapp，然后发现我停止接收来自 whatsapp 的任何通知，无论是在我的手机本身还是在 carplay 上。然后我找到了一个带有通知的 Watusi IPA 的 github 页面，但是，它现在仍然显示在 carplay 上，更糟糕的是，我在 whatsapp 上有 ADS。 有人能帮我找回原来的 whatsapp..    提交人    /u/No_Cryptographer122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1faibu6/can_i_revert_from_watusi_whatsapp_to_the_original/</guid>
-      <pubDate>Fri, 06 Sep 2024 15:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fah6bf/scarlet_error/</link>
-      <description><![CDATA[如何在没有 PC 的情况下下载 spotify++？    提交人    /u/SignMoney6649   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fah6bf/scarlet_error/</guid>
-      <pubDate>Fri, 06 Sep 2024 14:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
