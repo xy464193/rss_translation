@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:12:21 GMT</lastBuildDate>
+    <item>
+      <title>Locsim 技术细节</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fbp5si/locsim_technicalities/</link>
+      <description><![CDATA[我想知道 Locsim 是如何工作的，以及是否有任何事情会导致它关闭，例如 wifi/数据断线。基本上就是代码如何工作，以及我是否应该担心什么（我也在 iPad 上使用它，如果这有任何变化，而不是手机）    提交人    /u/lmaoOZ3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fbp5si/locsim_technicalities/</guid>
+      <pubDate>Sun, 08 Sep 2024 04:02:19 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何即将发布的内容可以在 iOS 17.0 上进行跳板调整？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fbnrs9/is_there_anything_releasing_soon_to_get/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[trollstore 可以安装在运行 iOS 16.7.10 的未越狱的 Iphone 8 Plus 上吗？如果可以，您能指导我吗？    提交人    /u/jasiahsaint   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f88kpb/support_for_16710_nonjailbreak/</guid>
       <pubDate>Tue, 03 Sep 2024 19:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Watch 无法更新</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1f7x314/apple_watch_cant_update/</link>
-      <description><![CDATA[有没有可以让我更新 Apple Watch 的小技巧，因为我的 iOS 版本太旧，所以被锁定了？    提交人    /u/akminas   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1f7x314/apple_watch_cant_update/</guid>
-      <pubDate>Tue, 03 Sep 2024 11:02:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

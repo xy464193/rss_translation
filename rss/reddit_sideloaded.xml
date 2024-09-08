@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:12:28 GMT</lastBuildDate>
+    <item>
+      <title>注入专业版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</link>
+      <description><![CDATA[我不确定这是否是 Infuse 应用程序中众所周知的故障，但我不想像个菜鸟一样庆祝已经众所周知的事情。 我之前使用过破解的 Infuse Pro 应用程序，它很卡，所以我卸载了它并从 App Store 安装了常规的 Infuse 应用程序。最初，它没有 Pro 功能，但登录我的 Trakt 帐户后，它意外地升级到了 Infuse Pro。 我以为这个故障可能与我的 Trakt 帐户有关，但是当我的证书被吊销时（在我的 iPad 电池耗尽到零之后），Infuse Pro 消失了。我意识到即使删除了破解的应用程序，eSign 中签名的 Infuse Pro 仍然存在。我重新安装了 eSign 证书并重复了该过程，再次成功。 我知道为什么要多此一举，但常规应用程序运行得更顺畅。此外，直接从 App Store 更新应用程序似乎不会丢失 Infuse Pro。有没有人可以尝试这个并分享他们的结果？步骤如下：  从 eSign 安装最新破解的 Infuse 应用程序。 打开并使用您的 Trakt 帐户登录。3. 我不知道这一步是否真的有效果，但我尝试在破解应用程序仍安装时安装常规应用程序。4. 然后卸载应用程序，但不要从 eSign 中删除它。 从 App Store 安装 Infuse 应用程序并登录您的 Trakt 帐户。     提交人    /u/Madbod93g   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</guid>
+      <pubDate>Sun, 08 Sep 2024 05:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>⚠️警告⚠️</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fbn3bv/warning/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://imgur.com/a/LblkX58 如何删除产品选项卡？    提交人    /u/Sweet_Ad_9832   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fbbjc6/products_tab_showing_on_yt_lite_plus/</guid>
       <pubDate>Sat, 07 Sep 2024 16:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad pro 上的 IPA 端加载错误，请求协助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fb9741/ipa_side_loading_error_on_ipad_pro_requesting/</link>
-      <description><![CDATA[因此，我尝试在 iPad 上侧载应用程序，但一直收到错误消息，提示“由于这是受托开发人员，因此需要 Internet 连接来验证文件的完整性” 因此，我转到配置文件区域，信任开发人员并点击应用程序，但仍然出现相同的错误。有其他人遇到过这种情况吗？如果是这样，您如何解决？    提交人    /u/Bougouge   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fb9741/ipa_side_loading_error_on_ipad_pro_requesting/</guid>
-      <pubDate>Sat, 07 Sep 2024 15:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
