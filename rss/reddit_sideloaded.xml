@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 08 Sep 2024 18:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 21:08:29 GMT</lastBuildDate>
+    <item>
+      <title>我被列入黑名单了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fc7min/am_i_blacklisted/</link>
+      <description><![CDATA[您好。我正在使用 appdb，所有内容均可正常下载，但 TRUST 选项未显示在 vpn 和设备管理中，因此我无法使用任何应用程序。    由    /u/No-Masterpiece6495  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fc7min/am_i_blacklisted/</guid>
+      <pubDate>Sun, 08 Sep 2024 20:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign Dylib/Deb 注入 [9/8/24]</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fc78cy/esign_dylibdeb_injection_9824/</link>
+      <description><![CDATA[Hello Sideloaders! 我添加了一个快速指南，介绍如何为 ESign 注入/删除 Dylibs/Deb 文件，因为我最近看到了一篇关于如何为 Feather 执行此操作的帖子，人们在问如何使用 ESign 执行此操作。这是一个更高级的指南，用于通过注入 IPA 自行调整应用程序以允许使用各种工具和调整。 此外，我将很快再次将指南移至另一个网站，希望它更容易遵循，因为它现在已经变得相当满，图片占用了大量空间。 如果您有任何建议的 Dylib/Deb 文件可以推荐，请告诉我，我会将其添加到指南中。 -PuReEnVyUs    提交人    /u/PuReEnVyUs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fc78cy/esign_dylibdeb_injection_9824/</guid>
+      <pubDate>Sun, 08 Sep 2024 20:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>每次我搜索精确值时 igamegod 都会崩溃 - 修复了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fc5wg7/igamegod_crashes_every_time_i_search_for_an_exact/</link>
+      <description><![CDATA[我试图修改甚至搜索 Pokemon Sleep 上的值，但它一直崩溃。知道我做错了什么吗？    提交人    /u/Jango313   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fc5wg7/igamegod_crashes_every_time_i_search_for_an_exact/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>我买了这款全新 iPhone se 第一代，系统为 iOS 9.3</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fc3f4q/got_this_brandnew_iphone_se_1st_gen_with_ios_93/</link>
@@ -76,39 +97,18 @@
       <pubDate>Sun, 08 Sep 2024 11:04:08 GMT</pubDate>
     </item>
     <item>
+      <title>我好像被列入了黑名单，而且没有备份</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbtt3v/looks_like_im_blacklisted_and_i_dont_have_a_backup/</link>
+      <description><![CDATA[      它们都不是签名证书对我有用，但我不知道现在该怎么办，我的手机上有很多数据不能丢失，有办法解决这个问题吗？    提交人    /u/Federal-Ear-7614   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbtt3v/looks_like_im_blacklisted_and_i_dont_have_a_backup/</guid>
+      <pubDate>Sun, 08 Sep 2024 09:24:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Cydia 与 Socket/Zebra（Ipad 4 iOS 10.3.3）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fbsj4i/cydia_with_socketzebra_ipad_4_ios_1033/</link>
       <description><![CDATA[嘿！所以，我用套接字越狱了我的 ipad 4 并获得了 zebra，但据我所知没有 cydia，我被告知所有来源都添加了超时。我怎样才能获得 Cydia？我的主要目标是获取 iFile 或其他东西来修改我的游戏文件。谢谢！    提交人    /u/Foresisis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fbsj4i/cydia_with_socketzebra_ipad_4_ios_1033/</guid>
       <pubDate>Sun, 08 Sep 2024 07:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Undertale 红色和黄色 iOS 端口</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbs7vu/undertale_red_and_yellow_ios_port/</link>
-      <description><![CDATA[大家好，我为 Undertale Red 和 Yellow 制作了一个 iOS 端口。如果你正在寻找它，它就在这里。 https://drive.google.com/file/d/19_cnya_yK5RblEURhuFbqZel_totVqgp/view?usp=drivesdk 希望你喜欢玩它，伙计 ;)    提交人    /u/PieJayYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbs7vu/undertale_red_and_yellow_ios_port/</guid>
-      <pubDate>Sun, 08 Sep 2024 07:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>注入专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</link>
-      <description><![CDATA[我不确定这是否是 Infuse 应用程序中众所周知的故障，但我不想像个菜鸟一样庆祝已经众所周知的事情。 我之前使用过破解的 Infuse Pro 应用程序，它很卡，所以我卸载了它并从 App Store 安装了常规的 Infuse 应用程序。最初，它没有 Pro 功能，但登录我的 Trakt 帐户后，它意外地升级到了 Infuse Pro。 我以为这个故障可能与我的 Trakt 帐户有关，但是当我的证书被吊销时（在我的 iPad 电池耗尽到零之后），Infuse Pro 消失了。我意识到即使删除了破解的应用程序，eSign 中签名的 Infuse Pro 仍然存在。我重新安装了 eSign 证书并重复了该过程，再次成功。 我知道为什么要采取额外的步骤，但常规应用程序要流畅得多。此外，直接从 App Store 更新应用程序似乎不会丢失 Infuse Pro。其他人可以尝试这个并分享他们的结果吗？步骤如下：  从 eSign 安装最新破解的 Infuse 应用程序。 打开并使用您的 Trakt 帐户登录。  3. 我不知道这一步是否真的有任何效果，但我试图在破解的应用程序仍安装时安装常规应用程序，无论如何它不会让你完成安装。 4. 然后卸载该应用程序，但不要从 eSign 中删除它。  从 App Store 安装 Infuse 应用程序并登录您的 Trakt 帐户。     提交人    /u/Madbod93g   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</guid>
-      <pubDate>Sun, 08 Sep 2024 05:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>⚠️警告⚠️</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbn3bv/warning/</link>
-      <description><![CDATA[      ⚠️此应用程序“swaggyP36000 IPA Library” repo 一旦下载就会立即被列入黑名单（需要互联网连接来验证应用程序），我遇到过两次这种情况，我不得不两次擦除/休息我的 iPhone（正在进行测试以确保这是问题所在，结果确实如此）所以如果您使用 ESign DNS 方法，请不要下载它（可能适用于其他方法），但我已经测试过了，它会立即将你列入黑名单⚠️    提交人    /u/smack_my_sack   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbn3bv/warning/</guid>
-      <pubDate>Sun, 08 Sep 2024 02:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁有免费的 ipa 下载器？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbmffo/who_got_an_ipa_downloader_for_free/</link>
-      <description><![CDATA[谁免费获得了 ipa 下载器    提交人    /u/Pitiful-Call-9328   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbmffo/who_got_an_ipa_downloader_for_free/</guid>
-      <pubDate>Sun, 08 Sep 2024 01:23:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
