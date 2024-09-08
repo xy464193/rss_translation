@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 08 Sep 2024 00:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 03:12:00 GMT</lastBuildDate>
+    <item>
+      <title>⚠️警告⚠️</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbn3bv/warning/</link>
+      <description><![CDATA[      ⚠️此应用程序“swaggyP36000 IPA Library” repo 一旦下载就会立即被列入黑名单（需要互联网连接来验证应用程序），我遇到过两次这种情况，我不得不两次擦除/休息我的 iPhone（正在进行测试以确保这是问题所在，结果确实如此）所以如果您使用 ESign DNS 方法，请不要下载它（可能适用于其他方法），但我已经测试过了，它会立即将你列入黑名单⚠️    提交人    /u/smack_my_sack   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbn3bv/warning/</guid>
+      <pubDate>Sun, 08 Sep 2024 02:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁有免费的 ipa 下载器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbmffo/who_got_an_ipa_downloader_for_free/</link>
+      <description><![CDATA[谁免费获得了 ipa 下载器    提交人    /u/Pitiful-Call-9328   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbmffo/who_got_an_ipa_downloader_for_free/</guid>
+      <pubDate>Sun, 08 Sep 2024 01:23:57 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个侧载应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fbkxur/i_made_an_sideloading_app/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[因此，我尝试在 iPad 上侧载应用程序，但一直收到错误消息，提示“由于这是受托开发人员，因此需要 Internet 连接来验证文件的完整性” 因此，我转到配置文件区域，信任开发人员并点击应用程序，但仍然出现相同的错误。有其他人遇到过这种情况吗？如果是这样，您如何解决？    提交人    /u/Bougouge   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fb9741/ipa_side_loading_error_on_ipad_pro_requesting/</guid>
       <pubDate>Sat, 07 Sep 2024 15:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有 alight motion premium ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fb86o8/does_any_one_has_alight_motion_premium_ipa/</link>
-      <description><![CDATA[拜托？    由   提交  /u/MKTAB_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fb86o8/does_any_one_has_alight_motion_premium_ipa/</guid>
-      <pubDate>Sat, 07 Sep 2024 14:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些泄露的证书拥有最多的权利？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fb7oxi/what_leaked_cert_has_the_most_entitlements/</link>
-      <description><![CDATA[想知道哪个支持最多的功能。    由    /u/grandiloquence3 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fb7oxi/what_leaked_cert_has_the_most_entitlements/</guid>
-      <pubDate>Sat, 07 Sep 2024 14:05:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
