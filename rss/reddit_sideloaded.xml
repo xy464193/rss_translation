@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 08 Sep 2024 06:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:09:23 GMT</lastBuildDate>
+    <item>
+      <title>Cydia 与 Socket/Zebra（Ipad 4 iOS 10.3.3）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbsj4i/cydia_with_socketzebra_ipad_4_ios_1033/</link>
+      <description><![CDATA[嘿！所以，我用套接字越狱了我的 ipad 4 并获得了 zebra，但据我所知没有 cydia，我被告知所有来源都添加了超时。我怎样才能获得 Cydia？我的主要目标是获取 iFile 或其他东西来修改我的游戏文件。谢谢！    提交人    /u/Foresisis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbsj4i/cydia_with_socketzebra_ipad_4_ios_1033/</guid>
+      <pubDate>Sun, 08 Sep 2024 07:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Undertale 红色和黄色 iOS 端口</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fbs7vu/undertale_red_and_yellow_ios_port/</link>
+      <description><![CDATA[大家好，我为 Undertale Red 和 Yellow 制作了一个 iOS 端口。如果你正在寻找它，它就在这里。 https://drive.google.com/file/d/19_cnya_yK5RblEURhuFbqZel_totVqgp/view?usp=drivesdk 希望你喜欢玩它，伙计 ;)    提交人    /u/PieJayYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fbs7vu/undertale_red_and_yellow_ios_port/</guid>
+      <pubDate>Sun, 08 Sep 2024 07:27:59 GMT</pubDate>
+    </item>
     <item>
       <title>注入专业版</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</link>
-      <description><![CDATA[我不确定这是否是 Infuse 应用程序中众所周知的故障，但我不想像个菜鸟一样庆祝已经众所周知的事情。 我之前使用过破解的 Infuse Pro 应用程序，它很卡，所以我卸载了它并从 App Store 安装了常规的 Infuse 应用程序。最初，它没有 Pro 功能，但登录我的 Trakt 帐户后，它意外地升级到了 Infuse Pro。 我以为这个故障可能与我的 Trakt 帐户有关，但是当我的证书被吊销时（在我的 iPad 电池耗尽到零之后），Infuse Pro 消失了。我意识到即使删除了破解的应用程序，eSign 中签名的 Infuse Pro 仍然存在。我重新安装了 eSign 证书并重复了该过程，再次成功。 我知道为什么要多此一举，但常规应用程序运行得更顺畅。此外，直接从 App Store 更新应用程序似乎不会丢失 Infuse Pro。有没有人可以尝试这个并分享他们的结果？步骤如下：  从 eSign 安装最新破解的 Infuse 应用程序。 打开并使用您的 Trakt 帐户登录。3. 我不知道这一步是否真的有效果，但我尝试在破解应用程序仍安装时安装常规应用程序。4. 然后卸载应用程序，但不要从 eSign 中删除它。 从 App Store 安装 Infuse 应用程序并登录您的 Trakt 帐户。     提交人    /u/Madbod93g   [链接] [评论]]]></description>
+      <description><![CDATA[我不确定这是否是 Infuse 应用程序中众所周知的故障，但我不想像个菜鸟一样庆祝已经众所周知的事情。 我之前使用过破解的 Infuse Pro 应用程序，它很卡，所以我卸载了它并从 App Store 安装了常规的 Infuse 应用程序。最初，它没有 Pro 功能，但登录我的 Trakt 帐户后，它意外地升级到了 Infuse Pro。 我以为这个故障可能与我的 Trakt 帐户有关，但是当我的证书被吊销时（在我的 iPad 电池耗尽到零之后），Infuse Pro 消失了。我意识到即使删除了破解的应用程序，eSign 中签名的 Infuse Pro 仍然存在。我重新安装了 eSign 证书并重复了该过程，再次成功。 我知道为什么要采取额外的步骤，但常规应用程序要流畅得多。此外，直接从 App Store 更新应用程序似乎不会丢失 Infuse Pro。其他人可以尝试这个并分享他们的结果吗？步骤如下：  从 eSign 安装最新破解的 Infuse 应用程序。 打开并使用您的 Trakt 帐户登录。  3. 我不知道这一步是否真的有任何效果，但我试图在破解的应用程序仍安装时安装常规应用程序，无论如何它不会让你完成安装。 4. 然后卸载该应用程序，但不要从 eSign 中删除它。  从 App Store 安装 Infuse 应用程序并登录您的 Trakt 帐户。     提交人    /u/Madbod93g   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fbqcce/infuse_pro/</guid>
       <pubDate>Sun, 08 Sep 2024 05:17:14 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>Gameseagull（Gamepigeon hack）除了 trollstore 之外还能做其他什么吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fbkj7m/gameseagull_gamepigeon_hack_to_work_on_anything/</link>
-      <description><![CDATA[有没有办法让 gameseagull 在 sierra/scarlet 而不是 trollstore 上运行？我的设备是 iOS 17.6.1，无法使用 trollstore。我正在寻找一种能够使用 scarlet/sierra 来使用 gameseagull 的方法。当你下载 gameseagull 的 ipa 时，你无法打开对手的游戏，并且/或者他们无法打开你的游戏。我真的希望它能在 trollstore 以外的任何东西上工作。（我会链接 gameseagull 的 GitHub）感谢您花时间阅读本文。    提交人    /u/verxzylol   [链接] [评论]]]></description>
+      <description><![CDATA[有没有办法让 gameseagull 在 esign/scarlet 而不是 trollstore 上工作？我的设备是 iOS 17.6.1，无法使用 trollstore。我正在寻找一种能够使用 scarlet/esign 来使用 gameseagull 的方法。当你下载 gameseagull 的 ipa 时，你无法打开对手的游戏和/或他们无法打开你的游戏。我真的希望它能在 trollstore 以外的任何东西上工作。（我会链接 gameseagull 的 GitHub）感谢您花时间阅读这篇文章。    提交人    /u/verxzylol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fbkj7m/gameseagull_gamepigeon_hack_to_work_on_anything/</guid>
       <pubDate>Sat, 07 Sep 2024 23:44:33 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人有/知道在哪里可以找到 STAmina Apnae Trainer Pro 的 ipa 吗？    提交人    /u/PilotHaribo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fbfv26/stamina_apnae_trainer_ipa/</guid>
       <pubDate>Sat, 07 Sep 2024 20:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡里斯塔</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbcwt8/carista/</link>
-      <description><![CDATA[我正在寻找 OBD 应用程序 Carista 的高级版本。我尝试过的那些都拒绝连接到我的车。我愿意使用 sideloadly。有人有链接吗？    提交人    /u/hotbutnotathot   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbcwt8/carista/</guid>
-      <pubDate>Sat, 07 Sep 2024 17:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>YT Lite Plus 上显示的产品标签</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fbbjc6/products_tab_showing_on_yt_lite_plus/</link>
-      <description><![CDATA[https://imgur.com/a/LblkX58 如何删除产品选项卡？    提交人    /u/Sweet_Ad_9832   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fbbjc6/products_tab_showing_on_yt_lite_plus/</guid>
-      <pubDate>Sat, 07 Sep 2024 16:54:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
