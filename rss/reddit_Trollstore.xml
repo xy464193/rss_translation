@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Sun, 08 Sep 2024 15:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 18:12:23 GMT</lastBuildDate>
+    <item>
+      <title>尝试在 TVOS 上安装 Kodi 时出现错误 175</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fc0mfw/error_175_trying_to_install_kodi_on_tvos/</link>
+      <description><![CDATA[当 TrollStore 无法对其进行签名时会发生 Wrror 175，因此我从 kodi 网站下载了 DEB 文件并转换为 IPA，之后我使用 eSign+ 进行了签名，但仍然出现相同的错误，如果有人有不同的想法或有可用的 IPA？    提交人    /u/HiRex   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fc0mfw/error_175_trying_to_install_kodi_on_tvos/</guid>
+      <pubDate>Sun, 08 Sep 2024 15:36:54 GMT</pubDate>
+    </item>
     <item>
       <title>Osushi - 适用于 TS 的新 CC，不含 jb，支持 17.0</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fbzshc/osushi_new_cc_for_ts_wo_jb_and_support_170/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我尝试从 Scarlet 中下载任何应用程序后收到错误： “无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.stagin 的代码签名....” 我尝试重新激活开发人员模式，但没有任何变化。 Scarlet 最初是通过其网站安装的，在被撤销后，我通过 TrollStore 安装了它。    提交人    /u/Eyelow91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1f92yrv/error_trying_to_download_apps_via_scarlet/</guid>
       <pubDate>Wed, 04 Sep 2024 19:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>trollstore/roothide</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1f8twwh/trollstoreroothide/</link>
-      <description><![CDATA[我已经很久没有越狱了，刚刚在我的 15 上安装了 17.0 版的 trollstore，我已经安装了 bootstrap 和 sileo，有人能推荐一些好的调整吗？我目前有 audiorecorder、filza、应用程序管理器和 appstore++     提交人    /u/Bitter-Painting-1352   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1f8twwh/trollstoreroothide/</guid>
-      <pubDate>Wed, 04 Sep 2024 13:53:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
