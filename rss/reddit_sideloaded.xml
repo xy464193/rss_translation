@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 09 Sep 2024 18:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 21:08:47 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 或升级但没有 Trollstore？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fd0j35/trollstore_or_upgrade_and_no_trollstore/</link>
+      <description><![CDATA[嗨， 我想知道我是否可以在我的 iPhone 14 iOS17 上获得 Trollstore，或者直接升级它以获取最新功能？ 如果没有 Trollstore，我会错过什么？我有一个付费的 Apple 开发者帐户，因此我可以签署应用程序。    提交人    /u/goolmoon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fd0j35/trollstore_or_upgrade_and_no_trollstore/</guid>
+      <pubDate>Mon, 09 Sep 2024 21:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 RC 已发布。使用 ESIGN 和 DNS 升级可以吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fcxv3s/ios_18_rc_is_out_is_it_ok_to_upgrade_with_esign/</link>
+      <description><![CDATA[标题说明了一切 编辑：刚刚检查过，它有效，男孩们。    提交人    /u/spermcell   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fcxv3s/ios_18_rc_is_out_is_it_ok_to_upgrade_with_esign/</guid>
+      <pubDate>Mon, 09 Sep 2024 19:20:15 GMT</pubDate>
+    </item>
     <item>
       <title>有什么方法可以知道 JIT 是否已启用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fcvkfc/is_there_any_way_of_knowing_whether_jit_is_enabled/</link>
@@ -62,7 +76,7 @@
       <pubDate>Mon, 09 Sep 2024 13:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>Undertale BNP iOS 移植版</title>
+      <title>Undertale BNP iOS 端口</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</link>
       <description><![CDATA[大家好，我决定分享另一个 Undertale Mod iOS 端口。这个 mod 是 Undertale Bits and Pieces (BNP)，它基本上改变了精灵、音乐、功能等。这个端口 mod 的当前版本是 4.2.4。如果你想玩它，这里是链接 https://drive.google.com/file/d/131UoH4lCDHfDAtmuOzP5FsBd3wqwatKL/view?usp=sharing 游戏愉快！:)    提交人    /u/PieJayYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，正如标题所示，我正在尝试安装旧版本的 myfitnesspal (23.24.5)，因为这是我所知道的唯一一个在您关闭应用程序时仍保持登录状态的版本，所有较新的版本都会让您退出，但它可以安装但不会打开。较新的版本确实可以工作，但总是让我退出，我大约一个月前曾经使用它，然后删除了它，现在试图再次获取它。我的证书没有被撤销，因为我使用的是自定义 DNS，并且所有其他应用程序都安装并运行良好，我尝试使用 feather 和 esign，没有日志，但都不起作用，任何帮助都将不胜感激（顺便说一下，它是来自 appdb 的 ipa，因为它是我唯一能找到该版本的地方）    提交人    /u/Beginning_Word6742   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fclkmb/certain_apps_unable_to_install_app_cannot_be/</guid>
       <pubDate>Mon, 09 Sep 2024 09:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fciu67/scarlet/</link>
-      <description><![CDATA[有关猩红色撤销的任何更新以及何时会再次可用    提交人    /u/Appropriate-Pea-162   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fciu67/scarlet/</guid>
-      <pubDate>Mon, 09 Sep 2024 06:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该从哪里获取 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fch1n9/where_should_i_get_my_ipas/</link>
-      <description><![CDATA[哪里是查找更新的 IPA 的最佳位置？    提交人    /u/Square_Letterhead_63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fch1n9/where_should_i_get_my_ipas/</guid>
-      <pubDate>Mon, 09 Sep 2024 04:21:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
