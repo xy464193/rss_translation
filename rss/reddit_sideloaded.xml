@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Sep 2024 09:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 12:19:58 GMT</lastBuildDate>
+    <item>
+      <title>哪位签名者会获胜？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fdfg63/what_signer_will_win/</link>
+      <description><![CDATA[会是 Prism、Feather、Omega、Quicksign 还是 Arctic。我选择 Arctic，因为开发人员承诺了很多，但谁知道会发生什么呢    提交人    /u/Mrsheep5601   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fdfg63/what_signer_will_win/</guid>
+      <pubDate>Tue, 10 Sep 2024 11:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>降级</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fd9n3w/downgrade/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在评论中告诉我应该做哪些更改！ 使用 Khoindvn 设置 DNS  下载 DNS 配置文件：  访问 Khoindvn 网站，找到 DNS 配置文件并下载。 如果出现提示，请允许安装。  安装 DNS 配置：  转到 设置 &gt; 常规 &gt; VPN &amp; DNS Khoindvn 并进行安装。  应该会出现一个名为“ESign Khoindvn”的快捷方式。  设置 ESign  打开 ESign Khoindvn：  点击主屏幕上的快捷方式，然后滚动到 ESign 下载 部分。  下载 ESign：  尝试下载链接，直到找到带有“ESign”的链接以蓝白字体显示。 如果不匹配，请删除并重试。  验证 ESign 证书：  在设置 &gt; VPN 和设备管理中，验证“iPhone 分布”下的配置文件（例如，“Aldo Group Co. Ltd.”）。   导入 ESign 证书  同意条款：  打开 ESign 应用并同意条款。  访问 ESignCert：  从“ESign Khoindvn”快捷方式，转到 ESignCert 并在 ESign 中打开文件。  解压并导入：  在 ESign 中解压文件，打开“esigncert”文件夹，然后将证书导入证书管理。   使用 ESign 侧载应用  下载 .ipa 文件：  将下载的 .ipa 文件分享到 ESign。 或者点击 3 个点并导入  导入到应用库：  将 .ipa 导入 ESign 中的应用库。转到应用，选择应用，然后完成签名过程。  安装应用：  等待安装完成。如果出现“无法安装”删除应用程序，在 Unsigned 中重试该过程，并留在 ESign 中直到完成。   故障排除 如果需要，请直接向我寻求帮助！👍    提交人    /u/Firecatonreddit7349   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fcpxav/esign_guide/</guid>
       <pubDate>Mon, 09 Sep 2024 13:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Undertale BNP iOS 移植版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</link>
-      <description><![CDATA[大家好，我决定分享另一个 Undertale Mod iOS 端口。这个 mod 是 Undertale Bits and Pieces (BNP)，它基本上改变了精灵、音乐、功能等。这个端口 mod 的当前版本是 4.2.4。如果你想玩它，这里是链接 https://drive.google.com/file/d/131UoH4lCDHfDAtmuOzP5FsBd3wqwatKL/view?usp=sharing 游戏愉快！:)    提交人    /u/PieJayYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</guid>
-      <pubDate>Mon, 09 Sep 2024 13:51:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
