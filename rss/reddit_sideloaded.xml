@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Sep 2024 03:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 06:14:29 GMT</lastBuildDate>
+    <item>
+      <title>降级</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fd9n3w/downgrade/</link>
+      <description><![CDATA[如何从 iOS 17.5.1 降级到 17？对于 trollstore 🙏🏻    由   提交  /u/Significant_End_726   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fd9n3w/downgrade/</guid>
+      <pubDate>Tue, 10 Sep 2024 04:32:40 GMT</pubDate>
+    </item>
     <item>
       <title>是否有 IPA“稳定”版本的列表？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fd6qop/is_there_a_list_of_stable_versions_of_ipas/</link>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 09 Sep 2024 13:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>Undertale BNP iOS 端口</title>
+      <title>Undertale BNP iOS 移植版</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</link>
       <description><![CDATA[大家好，我决定分享另一个 Undertale Mod iOS 端口。这个 mod 是 Undertale Bits and Pieces (BNP)，它基本上改变了精灵、音乐、功能等。这个端口 mod 的当前版本是 4.2.4。如果你想玩它，这里是链接 https://drive.google.com/file/d/131UoH4lCDHfDAtmuOzP5FsBd3wqwatKL/view?usp=sharing 游戏愉快！:)    提交人    /u/PieJayYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fcpx8q/undertale_bnp_ios_port/</guid>
       <pubDate>Mon, 09 Sep 2024 13:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载侧载应用程序和证书的快捷方式！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fcpk5j/shortcut_to_download_sideloading_apps_and_certs/</link>
-      <description><![CDATA[Hello Sideloaders! 最近有人创建了一个快捷方式，允许快速安装 ESign、Scarlet 和 Feather，无需访问任何网站！您仍然需要先设置 DNS，但这可以更快地以对新手更友好的方式获取文件。这应该是未来的标准，所以我将相应地更新指南，现在我已在指南中包含了获取新快捷方式的链接，这里。 https://www.icloud.com/shortcuts/f76a0ea555c84d6c8afb652a18e1507b -PuReEnVyUs    提交人    /u/PuReEnVyUs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fcpk5j/shortcut_to_download_sideloading_apps_and_certs/</guid>
-      <pubDate>Mon, 09 Sep 2024 13:34:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
