@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Sep 2024 00:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 03:11:57 GMT</lastBuildDate>
+    <item>
+      <title>是否有 IPA“稳定”版本的列表？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fd6qop/is_there_a_list_of_stable_versions_of_ipas/</link>
+      <description><![CDATA[背景：我在 iPhone 15 上使用 Signulous。 我熟悉 https://github.com/swaggyP36000/TrollStore-IPAs/releases?page=18 和那里无数的 IPA。但是，我注意到最新版本对某些应用程序来说并不好。例如，如果您安装最新的 IPA，Twitter (X) 每次都会要求您登录。我安装了 2024 年 1 月的版本，那个版本运行良好。最新的 Instagram 也要求您每次都登录。我还听说 Snapchat IPA 会让你被禁止？好奇的是，是否有某个地方的指南可以解释哪些版本可以完全正常工作而没有问题。    提交人    /u/ButterMilkHoney   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fd6qop/is_there_a_list_of_stable_versions_of_ipas/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Windows 上使用 ipa 文件更改应用程序的图标</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fd5cun/how_do_i_change_the_icon_of_apps_using_the_ipa/</link>
+      <description><![CDATA[正如标题所示，我想更改侧载应用的应用图标。我使用 sideloady，但不想支付 patreon 订阅费用。    提交人    /u/Plastic-Conflict7999   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fd5cun/how_do_i_change_the_icon_of_apps_using_the_ipa/</guid>
+      <pubDate>Tue, 10 Sep 2024 00:45:23 GMT</pubDate>
+    </item>
     <item>
       <title>有没有免费的 Snapchat IPAs 如果我需要付费的话我会</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fd23aw/are_there_any_free_snapchat_ipas_if_i_need_to_pay/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Hello Sideloaders! 最近有人创建了一个快捷方式，允许快速安装 ESign、Scarlet 和 Feather，无需访问任何网站！您仍然需要先设置 DNS，但这可以更快地以对新手更友好的方式获取文件。这应该是未来的标准，所以我将相应地更新指南，现在我已在指南中包含了获取新快捷方式的链接，这里。 https://www.icloud.com/shortcuts/f76a0ea555c84d6c8afb652a18e1507b -PuReEnVyUs    提交人    /u/PuReEnVyUs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fcpk5j/shortcut_to_download_sideloading_apps_and_certs/</guid>
       <pubDate>Mon, 09 Sep 2024 13:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经使用了 Ensign 工具</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fcml38/i_have_used_the_ensign_tool/</link>
-      <description><![CDATA[感谢@PuReEnVyUs 我想知道有没有办法启用 vpn，而且是免费的还是一次性付费的，或者有没有我可以使用的带有 vpn 的浏览器？    提交人    /u/Left_Day_8444   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fcml38/i_have_used_the_ensign_tool/</guid>
-      <pubDate>Mon, 09 Sep 2024 10:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型讨论帖/维基/列表</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fcm8re/megathreadwikilist/</link>
-      <description><![CDATA[我们一直收到相同的请求，我在哪里可以获取 IPA 或我在哪里可以获取特定的 IPA。我们可以获取或开始使用我们使用的来源列表吗？甚至可以推荐特定应用程序（如 Spotify 和 YouTube）的版本。  我愿意提供帮助，而不仅仅是将所有内容都转储给版主和管理员。只是我们的许多帖子都是“我在哪里可以获取……” 它至少会给人们一个起点，并在他们询问时为他们指明方向。    提交人    /u/Shack70   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fcm8re/megathreadwikilist/</guid>
-      <pubDate>Mon, 09 Sep 2024 10:34:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
