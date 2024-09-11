@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 11 Sep 2024 18:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:09:26 GMT</lastBuildDate>
+    <item>
+      <title>如果我关闭 ESign dns 会发生什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fejg4z/what_happens_if_i_turn_off_the_esign_dns/</link>
+      <description><![CDATA[昨天，我询问了 ChatGPT 无法使用 ESign 所需的 DNS。我删除了 DNS 配置文件和 ESign，但我仍然有通过 ESign 侧载的应用程序，它们仍在运行。我是否也应该删除这些应用程序，即使它们仍在运行，或者可以继续使用它们，直到它们被撤销？    提交人    /u/SimShade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fejg4z/what_happens_if_i_turn_off_the_esign_dns/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 高级 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1feipzm/chatgpt_premium_ipa/</link>
+      <description><![CDATA[有人有 ChatGPT premium ipa 或可以创建 word 文件的聊天机器人吗？    提交人    /u/Afraid_Ad1325   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1feipzm/chatgpt_premium_ipa/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:23:55 GMT</pubDate>
+    </item>
     <item>
       <title>signulous 还存在问题吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fegyde/are_there_still_issues_with_signulous/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿嘿！ 我在 Cydia 时代就远离了 iOS，但可能很快就会回到苹果的花园。 我在 Android 上一直很享受 Revanced 补丁和从任何我喜欢的地方下载 APK 的能力，并且很好奇 iOS 上的事情发展到了什么程度。 我一直在阅读补丁说明并查看 IPA 源，但如果不直接摆弄它，很难判断场景是多么简单或高接触。    提交人    /u/Realityfoible   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fdwaoy/hows_the_general_state_of_ios_sideloading/</guid>
       <pubDate>Tue, 10 Sep 2024 23:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么每个人都在创建签名应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdvkm5/why_is_everyone_creating_a_signing_app/</link>
-      <description><![CDATA[上周，有几款新的签名应用发布。这是什么原因造成的？ 这并不是对这些应用的批评。我认为 feather、prism 等都很有前途。我只是对突然涌入感到好奇。    提交人    /u/grandiloquence3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdvkm5/why_is_everyone_creating_a_signing_app/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Folium 是唯一的 3DS 模拟器吗？它是否需要 JIT 才能以可播放的速度运行？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdspt5/is_folium_the_only_3ds_emulator_there_is_and_does/</link>
-      <description><![CDATA[几乎就是标题。我一直想在旅途中玩一些 3DS 游戏，现在我终于有了一部功能强大到可以处理 3DS 模拟的手机。但当我查看时，我发现 Folium 是唯一能找到相关信息的模拟。Citra 似乎已经停产，而 Limon 似乎没有任何下载链接。我确实让 Captain Toad 在 Folium 上运行，但速度非常慢。我假设我需要通过 Sidestore 进行侧载并使用 SideJIt 才能获得接近可玩速度的速度？    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdspt5/is_folium_the_only_3ds_emulator_there_is_and_does/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:57:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
