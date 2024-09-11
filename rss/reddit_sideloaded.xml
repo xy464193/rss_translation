@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:43:26 GMT</lastBuildDate>
+    <item>
+      <title>这是正确的吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fdwvu4/is_this_correct/</link>
+      <description><![CDATA[Virustotal 说 scarlet 是恶意软件，这是权利问题还是因为证书签名系统    提交人    /u/Mrsheep5601   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fdwvu4/is_this_correct/</guid>
+      <pubDate>Wed, 11 Sep 2024 00:07:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 侧载的总体状况如何？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fdwaoy/hows_the_general_state_of_ios_sideloading/</link>
+      <description><![CDATA[嘿嘿！ 我在 Cydia 时代就远离了 iOS，但可能很快就会回到苹果的花园。 我在 Android 上一直很享受 Revanced 补丁和从任何我喜欢的地方下载 APK 的能力，并且很好奇 iOS 上的事情发展到了什么程度。 我一直在阅读补丁说明并查看 IPA 源，但如果不直接摆弄它，很难判断场景是多么简单或高接触。    提交人    /u/Realityfoible   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fdwaoy/hows_the_general_state_of_ios_sideloading/</guid>
+      <pubDate>Tue, 10 Sep 2024 23:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么每个人都在创建签名应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fdvkm5/why_is_everyone_creating_a_signing_app/</link>
+      <description><![CDATA[上周，有几款新的签名应用发布。这是什么原因造成的？ 这并不是对这些应用的批评。我认为 feather、prism 等都很有前途。我只是对突然涌入感到好奇。    提交人    /u/grandiloquence3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fdvkm5/why_is_everyone_creating_a_signing_app/</guid>
+      <pubDate>Tue, 10 Sep 2024 23:04:25 GMT</pubDate>
+    </item>
     <item>
       <title>Folium 是唯一的 3DS 模拟器吗？它是否需要 JIT 才能以可播放的速度运行？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fdspt5/is_folium_the_only_3ds_emulator_there_is_and_does/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>哪里可以获取 ipas</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fdsfud/where_can_i_get_ipas/</link>
-      <description><![CDATA[我刚刚在 iPad 上安装了 trollstore，但不确定在哪里可以获取 ipas 来进行实际安装    由    /u/alinamoonpaw 提交   [link] [comments]]]></description>
+      <description><![CDATA[我刚刚在 iPad 上安装了 trollstore，但不确定在哪里可以获取 ipas 进行实际安装    由    /u/alinamoonpaw 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fdsfud/where_can_i_get_ipas/</guid>
       <pubDate>Tue, 10 Sep 2024 20:46:09 GMT</pubDate>
     </item>
@@ -39,13 +60,6 @@
       <description><![CDATA[      嗨 我每周刷新一次，有时刷新更频繁。这没问题。 Sidestore 运行良好。 但几天以来，我收到了更新通知（见屏幕截图），我尝试更新，但它并没有消失。 我该怎么办？ 商店版本是 0.5.8 https://preview.redd.it/mqh1s99fi0od1.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=a972c900a03c6ffc88f602d1de6ff24b42acf9dc    提交人    /u/PipoMario   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fdmq5t/sidestore_problem/</guid>
       <pubDate>Tue, 10 Sep 2024 16:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 Spotilife 1.8 rootless .deb 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdlxvq/anybody_have_spotilife_18_rootless_deb/</link>
-      <description><![CDATA[有人有 Spotilife 1.8 rootless .deb 吗？Julio 的 repo 已经离线一周多了。谢谢     提交人    /u/pump-n_munch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdlxvq/anybody_have_spotilife_18_rootless_deb/</guid>
-      <pubDate>Tue, 10 Sep 2024 16:21:05 GMT</pubDate>
     </item>
     <item>
       <title>无日志注册</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[如何从 iOS 17.5.1 降级到 17？对于 trollstore 🙏🏻    由   提交  /u/Significant_End_726   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fd9n3w/downgrade/</guid>
       <pubDate>Tue, 10 Sep 2024 04:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有 IPA“稳定”版本的列表？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fd6qop/is_there_a_list_of_stable_versions_of_ipas/</link>
-      <description><![CDATA[背景：我在 iPhone 15 上使用 Signulous。 我熟悉 https://github.com/swaggyP36000/TrollStore-IPAs/releases?page=18 和那里无数的 IPA。但是，我注意到最新版本对某些应用程序来说并不好。例如，如果您安装最新的 IPA，Twitter (X) 每次都会要求您登录。我安装了 2024 年 1 月的版本，那个版本运行良好。最新的 Instagram 也要求您每次都登录。我还听说 Snapchat IPA 会让你被禁止？好奇的是，是否有某个地方的指南可以解释哪些版本可以完全正常工作而没有问题。    提交人    /u/ButterMilkHoney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fd6qop/is_there_a_list_of_stable_versions_of_ipas/</guid>
-      <pubDate>Tue, 10 Sep 2024 01:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Windows 上使用 ipa 文件更改应用程序的图标</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fd5cun/how_do_i_change_the_icon_of_apps_using_the_ipa/</link>
-      <description><![CDATA[正如标题所示，我想更改侧载应用的应用图标。我使用 sideloady，但不想支付 patreon 订阅费用。    提交人    /u/Plastic-Conflict7999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fd5cun/how_do_i_change_the_icon_of_apps_using_the_ipa/</guid>
-      <pubDate>Tue, 10 Sep 2024 00:45:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
