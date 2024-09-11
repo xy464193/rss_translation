@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 11 Sep 2024 03:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 06:14:28 GMT</lastBuildDate>
+    <item>
+      <title>哪里可以找到至少能够签署 551.7mb 的网络签名者</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fe1ui1/where_do_i_get_a_websigner_with_atleast_capable/</link>
+      <description><![CDATA[我需要一个，因为 Apple 删除了本地签名     提交人    /u/spinning176   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fe1ui1/where_do_i_get_a_websigner_with_atleast_capable/</guid>
+      <pubDate>Wed, 11 Sep 2024 04:33:57 GMT</pubDate>
+    </item>
     <item>
       <title>从 Safari 调整过应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fdzann/tweaked_apps_from_safari/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我是 iOS 新手（或者说我上一个 iPhone 是 10 年前的）。 我知道有一个 google 文档，其中有关于无需撤销的侧载应用程序的指南。但我不明白 alt store、sideloadley、feather 和您在此子版块中经常引用的其他应用程序之间的区别。 您能帮我理解一下吗？谢谢    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fdhkpg/can_no_revoke_and_altstore_work_together/</guid>
       <pubDate>Tue, 10 Sep 2024 13:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪位签名者会获胜？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdfg63/what_signer_will_win/</link>
-      <description><![CDATA[会是 Prism、Feather、Omega、Quicksign 还是 Arctic。我选择 Arctic，因为开发人员承诺了很多，但谁知道会发生什么呢    提交人    /u/Mrsheep5601   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdfg63/what_signer_will_win/</guid>
-      <pubDate>Tue, 10 Sep 2024 11:23:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
