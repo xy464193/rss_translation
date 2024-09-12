@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 12 Sep 2024 06:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 09:10:21 GMT</lastBuildDate>
+    <item>
+      <title>替代应用商店</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fexgd8/alternative_app_store/</link>
+      <description><![CDATA[伙计们，2024 年苹果商店的最佳替代品是什么，在那里你可以免费找到几乎所有的应用程序？    提交人    /u/Affective-Dark22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fexgd8/alternative_app_store/</guid>
+      <pubDate>Thu, 12 Sep 2024 08:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>幸存者</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fewmvc/survivorio/</link>
+      <description><![CDATA[嘿，我从 iosgods 下载了 survivor.io，出于某种原因，当我尝试加载时它会自动冻结。有什么原因吗？    提交人    /u/wexious   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fewmvc/survivorio/</guid>
+      <pubDate>Thu, 12 Sep 2024 07:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何让uyou+ 3.0.3连续播放10小时</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1feue2s/how_to_make_uyou_303_continue_playing_for_10hours/</link>
-      <description><![CDATA[我刚刚下载了 uyou+，但当我播放播放列表时，它会在一段时间后随机停止播放，我必须转到手机并按播放才能继续。问题是我在实验室工作，有时我无法拿到手机，所以有没有办法让它在我工作时无人看管的情况下继续播放    提交人    /u/KlutzyLow4280   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚下载了 uyou+，但当我播放播放列表时，它会在一段时间后随机停止播放，我必须转到手机并按播放才能继续播放。问题是我在实验室工作，有时我无法拿到手机，所以有没有办法让它在我工作时无人看管的情况下继续播放    提交人    /u/KlutzyLow4280   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1feue2s/how_to_make_uyou_303_continue_playing_for_10hours/</guid>
       <pubDate>Thu, 12 Sep 2024 04:44:26 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>有人有 Spotilife 1.8 rootless .deb 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1felz11/anybody_have_spotilife_18_rootless_deb/</link>
-      <description><![CDATA[有人有 Spotilife 1.8 rootless .deb 吗？Julio 的 repo 已经离线一周多了。我更喜欢 Spotilife 而不是 EeveeSpotify，因为我喜欢旧版 Spotify 中没有歌词和视频的更简单的用户界面。  Spotilife 1.8 在我的 iPhone X 上与 Spotify 8.5.55 配合得很好，直到我不得不恢复它。谢谢     提交人    /u/pump-n_munch   [链接] [评论]]]></description>
+      <description><![CDATA[有人有 Spotilife 1.8 rootless .deb 吗？Julio 的 repo 已经离线一周多了。我更喜欢 Spotilife 而不是 EeveeSpotify，因为我喜欢旧版 Spotify 中没有歌词和视频的更简单的用户界面。 Spotilife 1.8 在我的 iPhone X 上与 Spotify 8.5.55 配合得很好，直到我不得不恢复它。谢谢     提交人    /u/pump-n_munch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1felz11/anybody_have_spotilife_18_rootless_deb/</guid>
       <pubDate>Wed, 11 Sep 2024 21:40:46 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>我们可以向解密的 IPA 注入 IAP 破解程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fegvls/can_we_inject_iap_cracker_to_decrypted_ipas/</link>
-      <description><![CDATA[我看到有 .deb 可以阻止可注入任何解密 IPA 的广告。想知道是否存在类似但带有 IAP 破解器的东西？    提交人    /u/xologram   [链接] [评论]]]></description>
+      <description><![CDATA[我看到有 .deb 可以阻止任何解密 IPA 中注入的广告。想知道是否存在类似但带有 IAP 破解器的东西？    提交人    /u/xologram   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fegvls/can_we_inject_iap_cracker_to_decrypted_ipas/</guid>
       <pubDate>Wed, 11 Sep 2024 18:07:47 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[如上所述，我将我的手机信号欺骗为 4 格 5guw，我的手机更新并删除了执行此操作的任何应用程序，有什么办法可以解决吗？    提交人    /u/jpegeatsfarts   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fecyuw/how_can_i_fix_the_spoofed_cell_signal/</guid>
       <pubDate>Wed, 11 Sep 2024 15:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>“IOSrocket”！？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1feam0b/iosrocket/</link>
-      <description><![CDATA[  由    /u/Separate_Cat_7547  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1feam0b/iosrocket/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能告诉我如何获取这些 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1feaf2o/can_anyone_tell_me_how_to_get_these_ipa/</link>
-      <description><![CDATA[我是新手，非常希望得到一些指导。我想下载 Lightroom、Picsart 和 Capcut。我安装了 Trollstore。 我也想了解您喜欢使用的其他 IPA。目前，我正在使用 Infuse、YTLite 和 iTorrent。    提交人    /u/jayavanth18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1feaf2o/can_anyone_tell_me_how_to_get_these_ipa/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:41:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
