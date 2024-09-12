@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:43:52 GMT</lastBuildDate>
+    <item>
+      <title>签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fepw89/esign/</link>
+      <description><![CDATA[因此，我使用快捷方式进行侧载，并且工作正常，但是当我尝试打开 eeveespotify 时，它一直关闭，因此我卸载了所有应用程序甚至 esign 并重新安装了它们，但我下载的应用程序在名称旁边显示小云并显示“无法验证”    提交人    /u/Appropriate-Pea-162   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fepw89/esign/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>EeveeSpotify 包装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fepeyp/eeveespotify_wrapped/</link>
+      <description><![CDATA[大家好，我刚刚开始侧载，想知道我通过 eeveespotify 收听的音乐是否会被跟踪并反映在 spotify wrapper 中。另外，我们是否能够通过 eeveespotify 访问 spotify wrapper，还是需要使用常规 spotify 来实现？    提交人    /u/ping-me   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fepeyp/eeveespotify_wrapped/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有 Spotilife 1.8 rootless .deb 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1felz11/anybody_have_spotilife_18_rootless_deb/</link>
+      <description><![CDATA[有人有 Spotilife 1.8 rootless .deb 吗？Julio 的 repo 已经离线一周多了。我更喜欢 Spotilife 而不是 EeveeSpotify，因为我喜欢旧版 Spotify 中没有歌词和视频的更简单的用户界面。  Spotilife 1.8 在我的 iPhone X 上与 Spotify 8.5.55 配合得很好，直到我不得不恢复它。谢谢     提交人    /u/pump-n_munch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1felz11/anybody_have_spotilife_18_rootless_deb/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:40:46 GMT</pubDate>
+    </item>
     <item>
       <title>如果我关闭 ESign dns 会发生什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fejg4z/what_happens_if_i_turn_off_the_esign_dns/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>我们可以向解密的 IPA 注入 IAP 破解程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fegvls/can_we_inject_iap_cracker_to_decrypted_ipas/</link>
-      <description><![CDATA[我看到有 .deb 可以阻止任何解密 IPA 中注入的广告。想知道是否存在类似但带有 IAP 破解器的东西？    提交人    /u/xologram   [链接] [评论]]]></description>
+      <description><![CDATA[我看到有 .deb 可以阻止可注入任何解密 IPA 的广告。想知道是否存在类似但带有 IAP 破解器的东西？    提交人    /u/xologram   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fegvls/can_we_inject_iap_cracker_to_decrypted_ipas/</guid>
       <pubDate>Wed, 11 Sep 2024 18:07:47 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我需要一个，因为 Apple 删除了本地签名     提交人    /u/spinning176   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fe1ui1/where_do_i_get_a_websigner_with_atleast_capable/</guid>
       <pubDate>Wed, 11 Sep 2024 04:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Safari 调整过应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdzann/tweaked_apps_from_safari/</link>
-      <description><![CDATA[多年来，我没有侧载任何东西、越狱或使用任何此类东西。我记得你仍然可以直接从 tutuapp 的 safari 下载经过调整的应用程序。这种事情仍然可能吗？我在 iOS 17.1.1 上，似乎越狱是不可能的。    提交人    /u/ThrowRAwannabe0321   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdzann/tweaked_apps_from_safari/</guid>
-      <pubDate>Wed, 11 Sep 2024 02:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是正确的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdwvu4/is_this_correct/</link>
-      <description><![CDATA[Virustotal 说 scarlet 是恶意软件，这是权利问题还是因为证书签名系统    提交人    /u/Mrsheep5601   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdwvu4/is_this_correct/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 侧载的总体状况如何？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fdwaoy/hows_the_general_state_of_ios_sideloading/</link>
-      <description><![CDATA[嘿嘿！ 我在 Cydia 时代就远离了 iOS，但可能很快就会回到苹果的花园。 我在 Android 上一直很享受 Revanced 补丁和从任何我喜欢的地方下载 APK 的能力，并且很好奇 iOS 上的事情发展到了什么程度。 我一直在阅读补丁说明并查看 IPA 源，但如果不直接摆弄它，很难判断场景是多么简单或高接触。    提交人    /u/Realityfoible   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fdwaoy/hows_the_general_state_of_ios_sideloading/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:38:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
