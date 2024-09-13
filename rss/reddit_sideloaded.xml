@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:43:44 GMT</lastBuildDate>
+    <item>
+      <title>我可以再次使用我的 Apple ID 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ffg7lh/can_i_use_my_apple_id_again/</link>
+      <description><![CDATA[我按照 YouTube 上关于侧载应用程序的教程操作，它建议我应该使用刻录机 Apple ID，我想知道侧载过程完成后我是否可以使用旧的 Apple ID，或者这是否会引起问题？    提交人    /u/Bubbly_Tower_7439   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ffg7lh/can_i_use_my_apple_id_again/</guid>
+      <pubDate>Thu, 12 Sep 2024 23:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jit 或 Fnm</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fffl12/jit_or_fnm/</link>
+      <description><![CDATA[      开玩笑的，我甚至没有电脑或受支持的 iOS 版本（17.5.1）来获取 jit :(    由   提交  /u/oneboiii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fffl12/jit_or_fnm/</guid>
+      <pubDate>Thu, 12 Sep 2024 22:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>那么，为什么我们还没有 Android 模拟器呢？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ffdv2c/so_why_dont_we_have_an_android_emulator_yet/</link>
+      <description><![CDATA[自从今年早些时候我得到了一部 iPhone 以来，我对越狱/侧载/IOS 模拟场景还很陌生，仍然在尝试适应一些东西。但有一件事一直困扰着我，因为我似乎在任何地方都找不到 Android 模拟器，所以我很好奇，Android 是开源的，它可能使用 JIT 运行良好（但无论如何这适用于所有模拟器），那么问题到底是什么？不，我不想越狱我的手机来运行一些奇怪的仅限 Java 的 Android 版本，它会像 Chrome 消耗你的 RAM 一样消耗你的电池，我不想要一些运行起来非常糟糕的粗略的浏览器模拟器，甚至可能在某些位置无法工作，在 UTM 上运行的想法不一定坏，但它非常不方便。顺便说一句，我并不反对那些使用这些方法的人   由    /u/Sn0wL4nd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ffdv2c/so_why_dont_we_have_an_android_emulator_yet/</guid>
+      <pubDate>Thu, 12 Sep 2024 21:23:54 GMT</pubDate>
+    </item>
     <item>
       <title>由于无法验证应用程序的完整性，因此无法安装该应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ffcicb/the_app_could_nit_be_installed_because_its/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[伙计们，2024 年苹果商店的最佳替代品是什么，在那里你可以免费找到几乎所有的应用程序？    提交人    /u/Affective-Dark22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fexgd8/alternative_app_store/</guid>
       <pubDate>Thu, 12 Sep 2024 08:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>幸存者</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fewmvc/survivorio/</link>
-      <description><![CDATA[嘿，我从 iosgods 下载了 survivor.io，出于某种原因，当我尝试加载时它会自动冻结。有什么原因吗？    提交人    /u/wexious   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fewmvc/survivorio/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让uyou+ 3.0.3连续播放10小时</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1feue2s/how_to_make_uyou_303_continue_playing_for_10hours/</link>
-      <description><![CDATA[我刚刚下载了 uyou+，但当我播放播放列表时，它会在一段时间后随机停止播放，我必须转到手机并按播放才能继续播放。问题是我在实验室工作，有时我无法拿到手机，所以有没有办法让它在我工作时无人看管的情况下继续播放    提交人    /u/KlutzyLow4280   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1feue2s/how_to_make_uyou_303_continue_playing_for_10hours/</guid>
-      <pubDate>Thu, 12 Sep 2024 04:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法为 Sidestore 中复制的每个应用程序独立设置通知？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fescuk/is_there_a_way_to_set_notifications_independently/</link>
-      <description><![CDATA[是否有办法为 Sidestore 中复制的每个应用程序独立设置通知？    提交人    /u/m1o6chi6   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fescuk/is_there_a_way_to_set_notifications_independently/</guid>
-      <pubDate>Thu, 12 Sep 2024 02:47:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
