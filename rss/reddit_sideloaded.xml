@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 09:09:18 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Scarlet 没有获得私人证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh87v8/why_dont_scarlet_get_a_private_certificate/</link>
+      <description><![CDATA[我认为他们赢了足够的钱来支付私人证书    提交人    /u/PsiOnTop   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh87v8/why_dont_scarlet_get_a_private_certificate/</guid>
+      <pubDate>Sun, 15 Sep 2024 08:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法无需越狱就能将应用程序侧载到 3G 手机上？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh7mea/is_there_a_way_to_sideload_apps_onto_the_3gs/</link>
+      <description><![CDATA[它运行 3.1.3，我想添加一些应用程序，但它说它已经越狱，而且 Cydia 无处不在。那么有没有办法添加应用程序而不越狱？    提交人    /u/Much-Switch-5834   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh7mea/is_there_a_way_to_sideload_apps_onto_the_3gs/</guid>
+      <pubDate>Sun, 15 Sep 2024 08:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色证书未经验证</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh6nz3/scarlet_cert_unverified/</link>
+      <description><![CDATA[我使用 scarlet 已有一段时间了，今天当我尝试打开所有侧载应用时，它们都崩溃了，我进入了 vpn 和设备管理，它说我的所有应用都未经验证，所以我按了验证，但什么也没发生    提交人    /u/International_Belt52   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh6nz3/scarlet_cert_unverified/</guid>
+      <pubDate>Sun, 15 Sep 2024 07:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经安装了 Feather，现在该做什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh6lru/ive_installed_feather_what_do_i_have_to_do_now/</link>
+      <description><![CDATA[嗨！我已经安装了 feather（尝试了 3 个证书后），但现在我卡住了：我无法理解电报 AppleP12 频道，大多数证书的状态为：已撤销。 我应该下载什么？ 还有一个问题：我可以从 repos 下载、签名和安装，而无需使用其他应用程序（如 Maplesign、Signulous 等）吗？哦，我刚刚设置了 nextDNS，但我如何使用 dns-blocklist github 构建一个可以阻止广告的良好 DNS？ 谢谢，非常感谢。    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh6lru/ive_installed_feather_what_do_i_have_to_do_now/</guid>
+      <pubDate>Sun, 15 Sep 2024 06:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮我找到免费的 Instagram 侧载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh628v/please_help_me_find_free_instagram_sideload_app/</link>
+      <description><![CDATA[如果这个问题已经解决了，我很抱歉，但老实说，我找不到解决办法。我对侧载知之甚少，我只是在寻找一个专门用于 IOS（iPhone）的 instragram 侧载平台。过去几个月我一直在使用 appdb，但今天遇到了麻烦，似乎没有订阅我就无法使用 appdb 的平台。请帮忙，让我知道，谢谢 🙏🏼     提交人    /u/Sea_Reputation_2105   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh628v/please_help_me_find_free_instagram_sideload_app/</guid>
+      <pubDate>Sun, 15 Sep 2024 06:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>猩红色的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fh527s/problem_with_scarlet/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我刚刚将 iPhone 恢复出厂设置，并且使用了 DNS 阻止方法来获取设计，但是所有证书都被撤销了，当我签署应用程序时，它显示“无法安装应用程序，无法验证完整性”    提交人    /u/Ok-Excitement6515   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fgtisv/esign_signing_not_working/</guid>
       <pubDate>Sat, 14 Sep 2024 19:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录 uYouEnchanced</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgqbon/cant_sign_into_uyouenchanced/</link>
-      <description><![CDATA[每次我尝试登录时，都会收到错误“您无法登录此应用，因为 Google 无法确认它是否安全。”，有什么解决方法吗？    提交人    /u/MasterHaIo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgqbon/cant_sign_into_uyouenchanced/</guid>
-      <pubDate>Sat, 14 Sep 2024 16:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮忙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgpcuz/need_help/</link>
-      <description><![CDATA[好的，我从 Facebook Marketplace 以 10 美元的价格购买了这部 iPhone 5s，但遗憾的是原主人忘记了 Apple ID 密码，所以我无法退出。我原本打算在不使用电脑的情况下侧载应用程序，但由于我是新手，所以我需要更多指南。任何帮助都将不胜感激。谢谢！    提交人    /u/ConnectAd1197   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgpcuz/need_help/</guid>
-      <pubDate>Sat, 14 Sep 2024 15:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>其中一个侧载应用崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgoh6d/one_of_the_sideloaded_app_is_crashing/</link>
-      <description><![CDATA[我使用 RedditFilter 和 YTLite+，并通过从 armconverter 获取解密并自行构建来定期更新它们。由于某种原因，自最近的 2-3 个 reddit 版本以来，应用程序就崩溃了。它打开显示徽标并立即崩溃。几周前发生了这种情况，我尝试侧载旧版本，但仍然崩溃。但几天后，最新版本开始不知何故开始正常工作。 YT 运行良好，但自上次更新以来，它还显示“检测到不兼容的调整”。但是我在使用它时没有遇到任何问题。 我的所有存储库都是最新的，我使用的是 17.6.1    提交人    /u/DuckSleazzy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgoh6d/one_of_the_sideloaded_app_is_crashing/</guid>
-      <pubDate>Sat, 14 Sep 2024 15:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么方法可以在 iOS 18 上实现 JIT，而不需要每次都连接到 PC？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgo0w3/any_methods_for_jit_on_ios_18_that_dont_require/</link>
-      <description><![CDATA[我想在我的手机 (14) 上通过 Folium 玩一些 3DS 游戏，但我尝试过的几款游戏基本上在没有启用 JIT 的情况下无法玩。我研究过，但找不到一个简洁的答案。有些人说 JIT 在 iOS 17/18 下坏了，其他人说没有。到目前为止，我看到有人提到了 SideJITserver 和 JITStreamer 2.0，据说它们都可以在 iOS 17(18) 下工作？那么，有没有人从第一手经验知道它们是否确实有效，如果可以，只要我在家里使用 WiFi，是否可以通过快捷方式启用它们？如果它们确实有效，但每次我想启用 JIT 时都必须物理连接到 PC，我宁愿在我的 PC 上玩模拟器，因为这样有点违背了便携性的整个概念。   由    /u/JesseB342  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgo0w3/any_methods_for_jit_on_ios_18_that_dont_require/</guid>
-      <pubDate>Sat, 14 Sep 2024 15:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Signulous 会被禁止吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgnwk7/will_i_get_banned_for_using_signulous/</link>
-      <description><![CDATA[所以我想玩 fortnite ios，Signulous 似乎很适合，但它会禁止我的 Apple ID 或设备吗？比如我的设备会被锁定或变砖吗？如果出现任何问题，我不想重置它    提交人    /u/alosopa123456   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgnwk7/will_i_get_banned_for_using_signulous/</guid>
-      <pubDate>Sat, 14 Sep 2024 14:55:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
