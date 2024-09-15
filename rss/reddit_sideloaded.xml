@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 15 Sep 2024 03:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 06:13:10 GMT</lastBuildDate>
+    <item>
+      <title>猩红色的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh527s/problem_with_scarlet/</link>
+      <description><![CDATA[所以我下载了一堆使用 scarlet 的 api 文件的应用程序，当我打开它们时，它们会随机地从任何地方关闭    提交人    /u/No_Yam1294   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh527s/problem_with_scarlet/</guid>
+      <pubDate>Sun, 15 Sep 2024 05:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh4tbf/scarlet_cert/</link>
+      <description><![CDATA[scarlet 的新证书已被撤销，我想知道当它重新启用时是否可以使用防撤销 DNS？在直接安装 scarlet 的情况下安装防撤销 DNS 是否可行（简单的问题：在正常安装 scarlet 时（通过直接安装）是否可以只安装防撤销 DNS 并使其自动不可撤销？）    提交人    /u/Altruistic_Space6434   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh4tbf/scarlet_cert/</guid>
+      <pubDate>Sun, 15 Sep 2024 04:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一台运行 17.6.1 版的基本款 iPhone 14 和一台 Chromebook，我有哪些选择？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh37qa/i_have_a_base_iphone_14_on_1761_and_a_chromebook/</link>
+      <description><![CDATA[正如标题所说，我很想侧载 sidestore 或 AltStore，但我不确定我有什么选择，我应该安装 Linux 并尝试通过这种方式侧载吗？    提交人    /u/Pulp-_-Fiction   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh37qa/i_have_a_base_iphone_14_on_1761_and_a_chromebook/</guid>
+      <pubDate>Sun, 15 Sep 2024 03:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>被列入我从未使用过的证书黑名单了吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fh13jr/blacklisted_from_certs_ive_never_used_before/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[所以我想玩 fortnite ios，Signulous 似乎很适合，但它会禁止我的 Apple ID 或设备吗？比如我的设备会被锁定或变砖吗？如果出现任何问题，我不想重置它    提交人    /u/alosopa123456   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fgnwk7/will_i_get_banned_for_using_signulous/</guid>
       <pubDate>Sat, 14 Sep 2024 14:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能测试一下从 Mobileprovision 中提取公钥是否可行吗？我没有 MacBook</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgnpya/can_someone_test_if_extracting_the_public_key/</link>
-      <description><![CDATA[      提供了 mobileprovision 的链接 尝试以下步骤： 1 提取 iOS 应用程序的内容（扩展名：.ipa）。您只需使用存档实用程序即可完成此操作。 2 切换到提取的内容，您将在其中看到一个应用程序文件（扩展名：.app） 3 右键单击​​应用程序并选择显示包内容 4 您将在名称下看到您使用的配置文件：embedded.mobileprovision 5 在终端中执行以下命令（使用正确的路径）或使用您选择的应用程序打开 embedded.mobileprovision，例如 TextWrangler。您将在 &lt;data&gt; 中找到签名证书密钥（或证书，如果您使用了多个） &#39;security cms -D -i embedded.mobileprovision&#39; 此外，如果要提取公钥并将其直接保存到文件中，请在终端中执行以下操作： 1 如果尚未安装 Homebrew，请下载并安装它： ruby -e &quot;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)&quot; 2 安装 XMLStarlet 或任何其他可帮助我们解析 plist 内容的工具： &#39;brew install xmlstarlet&#39; 3 像以前一样，我们使用 security cms 命令解码 embedded.mobileprovision 配置文件，但这次我们将其直接提供给 XMLStarlet（xml 命令）来解析DeveloperCertificates 元素，其中包含公钥。我们使用 openssl 读取它并将其写入文件 publickey.pem： &#39;security cms -D -i embedded.mobileprovision | xml sel -t -v &quot;/plist/dict/key[. = &#39;DeveloperCertificates&#39;]/following-sibling::array[1]/data[1]&quot; | awk &#39;{print $1}&#39; | sed &#39;/$/d&#39; | base64 -D | openssl x509 -inform der &gt; publickey.pem&#39; 4 您会在文件 publickey.pem 中找到公钥    submitted by    /u/BS4EVER202000   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgnpya/can_someone_test_if_extracting_the_public_key/</guid>
-      <pubDate>Sat, 14 Sep 2024 14:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remini 和 chikii 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fglxq1/remini_and_chikii_apps/</link>
-      <description><![CDATA[伙计们，我正在寻找 remini 和 chikii 程序。    提交人    /u/Agile_Floor_2045   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fglxq1/remini_and_chikii_apps/</guid>
-      <pubDate>Sat, 14 Sep 2024 13:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈皮重装上阵</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fglolw/harpy_reloaded/</link>
-      <description><![CDATA[是否有任何兼容 iOS 17.6 的工作版本可以侧载？我找到了一个 ipa，应用程序正在打开，但它不会阻止 wifi 访问。    提交人    /u/Electronic-Path947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fglolw/harpy_reloaded/</guid>
-      <pubDate>Sat, 14 Sep 2024 13:09:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
