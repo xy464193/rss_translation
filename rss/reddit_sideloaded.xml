@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 15 Sep 2024 09:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 12:16:03 GMT</lastBuildDate>
+    <item>
+      <title>NextDNS 有关撤销的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fhap0y/nextdns_questions_about_revocation/</link>
+      <description><![CDATA[设置并激活 nextdns 后，我的 scarlet 会自动撤销证明吗？我现在已将 ios 域添加到我的拒绝列表中，我现在需要确认它是否会自动撤销证明    提交人    /u/Altruistic_Space6434   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fhap0y/nextdns_questions_about_revocation/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrollFools 尝试注入 igg 时崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh9x69/trollfools_crashing_when_trying_to_inject_igg/</link>
+      <description><![CDATA[由于某种原因，当我尝试将 igg 注入游戏时，我的 Trollfools 崩溃了。我甚至尝试将 Trollfools 更新到最新版本，但似乎没有任何效果。    提交人    /u/Extreme_Security694   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh9x69/trollfools_crashing_when_trying_to_inject_igg/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在欧盟以外下载 Epic 游戏应用程序/Fortnite？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh9lum/how_do_i_download_epic_games_app_fortnite_outside/</link>
+      <description><![CDATA[所以，我已经等待 Fortnite 回归 io,s 很多年了，几周前，它终于回来了，但问题是我在澳大利亚，大多数侧载都被我学校的 mdm 配置文件禁止，即使这是我直接从苹果购买的个人设备，他们仍然对它有很大的限制，例如，阳光有限公司集团配置文件已被所有设备禁止，所以这意味着没有猩红色，我在 iOS 18.1 上，所以没有巨魔商店，他们不会因为我侧载而将我的设备恢复到 iOS 17，我有一台 Apple iPad Pro 第 5 代 12.9 英寸，我不知道该怎么办？有什么建议吗？我尝试下载 alt store、sideloadly、Scarlett、e sign、trollstore 和其他几个，但都没用，我还没有银行账户，所以也不能购买任何会员资格，请提一些建议  或者有没有欧盟模拟器之类的？我没主意了    提交人    /u/FluffyIsBackFromCodm   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh9lum/how_do_i_download_epic_games_app_fortnite_outside/</guid>
+      <pubDate>Sun, 15 Sep 2024 10:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fh8k0b/apps_for_side_loading/</link>
+      <description><![CDATA[我想知道有哪些适合侧载的好应用？我不在欧盟，Scarlett 对我来说不起作用，因为我的学校禁止在我的个人设备上使用它，有什么建议吗？    提交人    /u/FluffyIsBackFromCodm   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fh8k0b/apps_for_side_loading/</guid>
+      <pubDate>Sun, 15 Sep 2024 09:21:26 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Scarlet 没有获得私人证书</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fh87v8/why_dont_scarlet_get_a_private_certificate/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[bunny / pyoncord（discord 移动应用程序的修改版）的开发者 Pylix 正处于严重的财务状况，可能无法满足互联网等基本需求。 如果您想支持 pyoncord 以及 pylix 和他的家人，请通过他的 GitHub 赞助商或 Kofi 进行捐赠！ - https://github.com/sponsors/pylixonly - https://ko-fi.com/pylixonly 有关更多信息，请查看他最近的两个公告：https://discord.com/channels/1196075698301968455/1205101050739167272/1284599577865093252 https://discord.gg/pyoncord    由    /u/Friendly_Cajun 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fgxmzg/please_support_pylix_bunny_tweak_developer_if_you/</guid>
       <pubDate>Sat, 14 Sep 2024 22:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法创建 AppleID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgx4ln/cant_create_appleid/</link>
-      <description><![CDATA[三天来我一直试图为 AltStore 创建第二个 Apple ID，但似乎都没有用。 我几乎看过所有的指南和视频，试过所有的方法，但就是出现无法在此时创建 appleid 的消息。 有人有什么想法我应该尝试吗？ 我正在使用 protonmail 电子邮件，而他们的电话号码是我唯一拥有的（与我的主要 AID 使用的号码相同）    提交人    /u/donutio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgx4ln/cant_create_appleid/</guid>
-      <pubDate>Sat, 14 Sep 2024 22:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Letsview 截屏直播尚未升级为专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgwvf3/letsview_screencast_not_going_pro/</link>
-      <description><![CDATA[大家好，我刚刚从 decrypt.day 获得了 letsview ipa，并使用 flekstore 安装了它，通常这就足够了。但我没有专业功能。请帮帮我，我需要这个来投射电影。    提交人    /u/Asleep-Flounder-4349   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgwvf3/letsview_screencast_not_going_pro/</guid>
-      <pubDate>Sat, 14 Sep 2024 21:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>YtLitePlus</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgu9hf/ytliteplus/</link>
-      <description><![CDATA[由于谷歌 DMCA 通知，YtLitePlus ipa 在 github 上不可用，我们现在可以从哪里获取 ipa？ 所有者是否在其他平台上活跃？    提交人    /u/XafarKhanWazir   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgu9hf/ytliteplus/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>eSign 签名不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fgtisv/esign_signing_not_working/</link>
-      <description><![CDATA[我刚刚将 iPhone 恢复出厂设置，并且使用了 DNS 阻止方法来获取设计，但是所有证书都被撤销了，当我签署应用程序时，它显示“无法安装应用程序，无法验证完整性”    提交人    /u/Ok-Excitement6515   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fgtisv/esign_signing_not_working/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:11:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
