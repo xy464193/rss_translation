@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 15 Sep 2024 18:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 21:09:16 GMT</lastBuildDate>
+    <item>
+      <title>所有证书均被撤销</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fhkiiq/all_the_certs_revoked/</link>
+      <description><![CDATA[所有证书都不起作用，我们能做什么吗（除了等待新的证书）？    提交人    /u/Affective-Dark22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fhkiiq/all_the_certs_revoked/</guid>
+      <pubDate>Sun, 15 Sep 2024 19:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序随机停止工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fhk37x/apps_randomly_stopped_working/</link>
+      <description><![CDATA[      我正在使用 dns 方法，但我的所有应用程序都随机停止工作。在设置中，它仍然显示它是受信任的。有人遇到过同样的问题吗？    提交人    /u/Ok-Excitement6515   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fhk37x/apps_randomly_stopped_working/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>金块.ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fhjw2p/nuggetipa/</link>
+      <description><![CDATA[        提交人    /u/ThisIsABurner27   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fhjw2p/nuggetipa/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以将 WireGuard VPN 用于 SideStore 而不使用 ESign 的撤销方法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fhjqfd/can_i_use_the_wireguard_vpn_for_sidestore_while/</link>
+      <description><![CDATA[我知道当未通过 DNS 为 ESign 使用撤销方法时，您无法使用 VPN。  但是我可以使用 VPN 通过 SideStore 验证文件吗？     提交人    /u/AwesomeBros132   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fhjqfd/can_i_use_the_wireguard_vpn_for_sidestore_while/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:39:34 GMT</pubDate>
+    </item>
     <item>
       <title>Tapsonic 世界冠军 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fhico4/tapsonic_world_champion_ipa/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[设置并激活 nextdns 后，我的 scarlet 会自动撤销证明吗？我现在已将 ios 域添加到我的拒绝列表中，我现在需要确认它是否会自动撤销证明    提交人    /u/Altruistic_Space6434   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fhap0y/nextdns_questions_about_revocation/</guid>
       <pubDate>Sun, 15 Sep 2024 11:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrollFools 尝试注入 igg 时崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fh9x69/trollfools_crashing_when_trying_to_inject_igg/</link>
-      <description><![CDATA[由于某种原因，当我尝试将 igg 注入游戏时，我的 Trollfools 崩溃了。我甚至尝试将 Trollfools 更新到最新版本，但似乎没有任何效果。    提交人    /u/Extreme_Security694   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fh9x69/trollfools_crashing_when_trying_to_inject_igg/</guid>
-      <pubDate>Sun, 15 Sep 2024 11:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在欧盟以外下载 Epic 游戏应用程序/Fortnite？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fh9lum/how_do_i_download_epic_games_app_fortnite_outside/</link>
-      <description><![CDATA[所以，我已经等待 Fortnite 回归 io,s 很多年了，几周前，它终于回来了，但问题是我在澳大利亚，大多数侧载都被我学校的 mdm 配置文件禁止，即使这是我直接从苹果购买的个人设备，他们仍然对它有很大的限制，例如，阳光有限公司集团配置文件已被所有设备禁止，所以这意味着没有猩红色，我在 iOS 18.1 上，所以没有巨魔商店，他们不会因为我侧载而将我的设备恢复到 iOS 17，我有一台 Apple iPad Pro 第 5 代 12.9 英寸，我不知道该怎么办？有什么建议吗？我尝试下载 alt store、sideloadly、Scarlett、e sign、trollstore 和其他几个，但都没用，我还没有银行账户，所以也不能购买任何会员资格，请提一些建议  或者有没有欧盟模拟器之类的？我没主意了    提交人    /u/FluffyIsBackFromCodm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fh9lum/how_do_i_download_epic_games_app_fortnite_outside/</guid>
-      <pubDate>Sun, 15 Sep 2024 10:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fh8k0b/apps_for_side_loading/</link>
-      <description><![CDATA[我想知道有哪些适合侧载的好应用？我不在欧盟，Scarlett 对我来说不起作用，因为我的学校禁止在我的个人设备上使用它，有什么建议吗？    提交人    /u/FluffyIsBackFromCodm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fh8k0b/apps_for_side_loading/</guid>
-      <pubDate>Sun, 15 Sep 2024 09:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Scarlet 没有获得私人证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fh87v8/why_dont_scarlet_get_a_private_certificate/</link>
-      <description><![CDATA[我认为他们赢了足够的钱来支付私人证书    提交人    /u/PsiOnTop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fh87v8/why_dont_scarlet_get_a_private_certificate/</guid>
-      <pubDate>Sun, 15 Sep 2024 08:56:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
