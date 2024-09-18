@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 18 Sep 2024 00:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:11:47 GMT</lastBuildDate>
+    <item>
+      <title>Flekstore 未连接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fjh939/flekstore_not_connecting/</link>
+      <description><![CDATA[      从 iOS 18 开始，我无法再连接到 flekstore。这里有没有人遇到类似的问题？甚至帮助部分都没有加载。  尝试了不同的连接：wifi、LTE    提交人    /u/makstra   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fjh939/flekstore_not_connecting/</guid>
+      <pubDate>Wed, 18 Sep 2024 01:39:11 GMT</pubDate>
+    </item>
     <item>
       <title>有人有比 8.6.94 更新的 spotify 版本可以通过 alt store 安装吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fjfqge/does_anyone_have_a_most_recent_spotify_version/</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 17 Sep 2024 22:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>在最新的 Sidestore 应用程序中我应该在哪里输入自己的 Anisette 服务器？</title>
+      <title>在最新的 Sidestore 应用程序中我应该在哪里输入我自己的 Anisette 服务器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fjcqa4/where_do_i_input_my_own_anisette_server_in_the/</link>
       <description><![CDATA[我知道它不再完全必要，但我有自己的服务器，宁愿使用它而不是公共共享的服务器。我似乎找不到应用程序中指向我的服务器的位置或方法。    提交人    /u/bibear54   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fjcqa4/where_do_i_input_my_own_anisette_server_in_the/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人更新到开发者测试版 4 了吗？    由    /u/Mindlesforlife  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fj6exh/ios_181_db4/</guid>
       <pubDate>Tue, 17 Sep 2024 18:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里免费获得侧载和调整过的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fj4tnj/where_can_i_get_side_loaded_and_tweaked_apps_for/</link>
-      <description><![CDATA[我安装了 iOS 18，在哪里可以免费获得侧载和调整过的应用程序而无需撤销？现在帮忙哪个网站/链接不会给我发送病毒     提交人    /u/ConsciousTop7647   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fj4tnj/where_can_i_get_side_loaded_and_tweaked_apps_for/</guid>
-      <pubDate>Tue, 17 Sep 2024 17:11:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
