@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 19 Sep 2024 12:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 15:10:24 GMT</lastBuildDate>
+    <item>
+      <title>希望常见问题解答中的错误 3017 仍然准确？（AltStore）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkm9gp/hoping_error_3017_on_faq_is_still_accurate/</link>
+      <description><![CDATA[AltStore.AppleDeveloperError 3017 尝试安装 alt store 时，服务器返回错误响应或其他内容。  常见问题解答中说道：如果您看到此错误，很可能是由于 Apple 最近对服务器端进行了更改。请参阅以下公告以获取更多信息：https://twitter.com/altstoreio/status/1638599316762664974?s=20但它链接到 2023 年的帖子.. 我正在运行 linux，所以我尝试的是： 首先在 mint 22 上运行 Altlinux。 运行 windows 10 的 VM。 使用 sudo 权限和 3.0 usb 运行 windows 10 的 VM 使用 sudo 和 2.0 usb 运行 windows 10 的 VM 使用 sudo 和 1 运行 windows 10 的 VM。？ usb 笔记本电脑使用 altlinux 运行 ubuntu。  笔记本电脑重新格式化，运行 Windows 10。  所有这些我都从 altstore 上的直接链接安装了 iTunes。重新启动了计算机或虚拟机。然后安装了 icloud 并重新启动了机器。然后以管理员或 sudo 身份运行 altstore。  我希望这实际上是服务器端错误，而不是我购买新手机并尝试再次安装 alt store 的问题，而苹果认为我已经有两个签名的应用程序或某些东西拒绝再次安装 altstore。 还尝试运行 iOS 17.?? 以及 iOS 18。 我确实有一个开发者帐户，我的帐户，官方的，上次安装的费用为 99 美元。我现在没有付费的开发者帐户。如果它可以解决问题，我愿意为开发帐户付费，但我不想为此付费，直到我至少有一点确定它可以解决问题。 还尝试了多根电缆并尝试使用不正确的凭据，这些凭据返回了不同的错误，告诉我这不是密码或帐户电子邮件问题。    提交人    /u/Rank_Runt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkm9gp/hoping_error_3017_on_faq_is_still_accurate/</guid>
+      <pubDate>Thu, 19 Sep 2024 14:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助编译无广告 bhtwitter ipa (https://github.com/BandarHL/BHTwitter)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkl3je/help_with_compiling_no_ad_bhtwitter_ipa/</link>
+      <description><![CDATA[有没有 github 专家能帮我编译这个无广告的 twitter ipa？我不明白这些说明，但我确实有一个解密的 x .ipa。该项目是 https://github.com/BandarHL/BHTwitter 。在分叉 repo 后，我在操作选项卡中使用了构建和发布工作流程，但构建完成后它给了我一个 .deb 文件，据我所知，除非我越狱，否则我无法侧载它，但我不想越狱。有人知道如何从这个项目中取出 .ipa 吗？非常感谢任何和所有的帮助！   由    /u/ComfortableMilk4454  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkl3je/help_with_compiling_no_ad_bhtwitter_ipa/</guid>
+      <pubDate>Thu, 19 Sep 2024 13:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>“黑名单”是什么意思，以及 30 天或 365 天的保修期</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkkx9b/what_the_mean_of_blacklist_and_the_warranty_that/</link>
+      <description><![CDATA[当我为 iOS 购买证书时，我有两个选项，保修 30 天或 365 天，有什么区别，保修什么？    由   提交  /u/Nuser30   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkkx9b/what_the_mean_of_blacklist_and_the_warranty_that/</guid>
+      <pubDate>Thu, 19 Sep 2024 13:31:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在没有 Telegram 账户的情况下下载 AppleP12 证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkkwxy/how_to_download_the_applep12_certificate_without/</link>
+      <description><![CDATA[如何在没有 Telegram 帐户的情况下下载 AppleP12 证书？    提交人    /u/Fletchilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkkwxy/how_to_download_the_applep12_certificate_without/</guid>
+      <pubDate>Thu, 19 Sep 2024 13:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 Android/三星的侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fkj2ne/sideloading_for_androidsamsung/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我想侧载 manly，原因有 2 个  Appstore 上已经有游戏了，但是出于某种原因我不想将其与我的 Apple 帐户关联 玩其他地区的游戏，由于 WB 的无能，Magic Awakened 正在关闭其美国服务器，每个人都在转移到其他亚洲服务器，网易甚至批准了这一点。，是的，有一个 PC 客户端，但是当我有了具有更大存储空间的 Ipad 时，我会再次选择这个游戏。  侧载对我来说也行吗？或者我最好从其他地区创建一个 Apple 帐户或类似的东西？它甚至允许我在另一个地区的帐户上使用美国的恢复电话号码吗？    提交人    /u/drafan5   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fkaq18/is_sideloading_for_me/</guid>
       <pubDate>Thu, 19 Sep 2024 02:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swaggy Repo 替代品</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk6tuy/swaggy_repo_replacement/</link>
-      <description><![CDATA[我目前正坐在办公桌前处理我的“by Omega IPA Repo”。 我一直计划这样做，但由于 Swaggy 被删除了，所以它来得早了。RIP。 它将不断更新，现在随时可以添加到您的签名服务中。 链接在我的 Discord 中！谢谢。    提交人    /u/LoquatMaleficent9781   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk6tuy/swaggy_repo_replacement/</guid>
-      <pubDate>Wed, 18 Sep 2024 23:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志性的 iOS 18</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk5p65/signulous_ios_18/</link>
-      <description><![CDATA[您好，如果我更新到 iOS 18，我签名的应用程序还能正常工作吗？另外，我未来更新的应用程序怎么办？它们还能签名和工作吗？    由    /u/DigitalArtzOnline  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk5p65/signulous_ios_18/</guid>
-      <pubDate>Wed, 18 Sep 2024 22:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 和 Esigned 应用程序正在关闭？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk5os8/esign_esigned_apps_closing/</link>
-      <description><![CDATA[Esign 和 esigned 应用程序都会立即打开和关闭，我使用的是 nextDNS，昨天我达到了限制，所以我想它停止工作了。我在收到电子邮件几分钟后购买了高级版本，一切正常。但是今天所有应用程序都只能立即打开和关闭。我需要重新安装所有内容吗？还是我必须完全重置手机？ 我已经打开和关闭手机，没有改变任何东西    提交人    /u/mlbplayer24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk5os8/esign_esigned_apps_closing/</guid>
-      <pubDate>Wed, 18 Sep 2024 22:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以找到免费游戏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk5o9n/where_can_i_find_games_for_free/</link>
-      <description><![CDATA[Hhhhhggg    由   提交  /u/Sarahlewis773   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk5o9n/where_can_i_find_games_for_free/</guid>
-      <pubDate>Wed, 18 Sep 2024 22:35:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
