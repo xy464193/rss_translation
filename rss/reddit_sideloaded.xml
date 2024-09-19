@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 19 Sep 2024 18:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 21:09:23 GMT</lastBuildDate>
+    <item>
+      <title>是否有包含所有 Epic Games IPA 文件的来源？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkuez0/is_there_a_source_that_contains_all_epic_games/</link>
+      <description><![CDATA[例如 fall guys 和 Fortnite     提交人    /u/AwesomeBros132   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkuez0/is_there_a_source_that_contains_all_epic_games/</guid>
+      <pubDate>Thu, 19 Sep 2024 20:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sideloadly 和 Esign</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkrn6b/sideloadly_and_esign/</link>
+      <description><![CDATA[为什么当我使用付费证书和 Esign 签名并安装某些应用程序时，应用程序在启动时崩溃，但如果我使用 sideloadly 安装应用程序，应用程序就可以正常工作？    提交人    /u/VegetableGur4121   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkrn6b/sideloadly_and_esign/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 iOS 17.2 更新至 17.7 已吊销证书 + NextDNS</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkrlfh/updating_from_ios_172_to_177_revoked_certificate/</link>
+      <description><![CDATA[我正在考虑将我的 iPad 从 17.2 更新到 17.7，趁现在还有机会。看来 iOS 18 一团糟。  我还需要采取其他措施来避免被列入黑名单吗？    提交人    /u/bashar_20   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkrlfh/updating_from_ios_172_to_177_revoked_certificate/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:13:01 GMT</pubDate>
+    </item>
     <item>
       <title>异常活动 ChatGPT 修复 DNS 方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fkr3ly/unusual_activity_chatgpt_fix_for_dns_method/</link>
-      <description><![CDATA[ChatGPT 显示 DNS 方法的“异常活动”，因此我决定进行一些调试，我发现 App attest（appattest.apple.com）是开发人员可以建立应用程序完整性的一种方式。 我们正在阻止“appattest.apple.com”以防止被列入黑名单，但 ChatGPT 需要一次性连接到 appattest.apple.com 才能建立应用程序完整性。 iOS DNS 配置文件的方法。 继续之前，您需要从设置、常规、VPN 和中删除所有企业应用程序设备管理并重新启动，以防止您的设备将证书列入黑名单。 禁用 DNS，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 您现在可以重新激活 DNS 以防止撤销，但是，如果您退出 ChatGPT，则需要再次重做这些步骤以重新验证 ChatGPT。 Adguard Pro 或 NextDNS 的方法 将 http://register.appattest.apple.com 添加到您的白名单，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 请注意，到目前为止，我还没有因添加 http://register.appattest.apple.com/ 列入白名单，但需要进一步测试来确认这一点。    提交人    /u/UmarFarq   [链接] [评论]]]></description>
+      <description><![CDATA[ChatGPT 显示 DNS 方法的“异常活动”，因此我决定进行一些调试，我发现 App attest（appattest.apple.com）是开发人员可以建立应用程序完整性的一种方式。 我们正在阻止“appattest.apple.com”以防止被列入黑名单，但 ChatGPT 需要一次性连接到 appattest.apple.com 才能建立应用程序完整性。 iOS DNS 配置文件的方法。 继续之前，您需要从设置、常规、VPN 和中删除所有企业应用程序设备管理并重新启动，以防止您的设备将证书列入黑名单。 禁用 DNS，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 您现在可以重新激活 DNS 以防止撤销，但是，如果您退出 ChatGPT，则需要再次重做这些步骤以重新验证 ChatGPT。 Adguard Pro 或 NextDNS 的方法 将 http://register.appattest.apple.com 添加到您的白名单，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 请注意，到目前为止，我还没有因添加 http://register.appattest.apple.com 添加到白名单，但需要进一步测试来确认这一点。    提交人    /u/UmarFarq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fkr3ly/unusual_activity_chatgpt_fix_for_dns_method/</guid>
       <pubDate>Thu, 19 Sep 2024 17:52:11 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我最近买了一部 s24 ultra，想免费获得 Spotify premium，但我不知道有哪些侧载应用商店    提交人    /u/Appropriate_South_75   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fkj2ne/sideloading_for_androidsamsung/</guid>
       <pubDate>Thu, 19 Sep 2024 12:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要 ipa 侧载程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkhgwa/i_need_ipa_sideloaders/</link>
-      <description><![CDATA[  由    /u/Tinzellikesmemes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkhgwa/i_need_ipa_sideloaders/</guid>
-      <pubDate>Thu, 19 Sep 2024 10:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以突破 AltStore 的限制？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkg21s/way_to_get_past_altstore_limit/</link>
-      <description><![CDATA[有没有办法突破这个限制，甚至有更好的选择？    提交人    /u/Soft_Dare_5318   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkg21s/way_to_get_past_altstore_limit/</guid>
-      <pubDate>Thu, 19 Sep 2024 08:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 IOS 的 Spotify Premium</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkfy6u/spotify_premium_for_ios/</link>
-      <description><![CDATA[几个月前，我偶然发现了一个关于在 iOS 上免费获取 spotify premium 的视频，现在才想起来。它简要提到了侧载，所以我在这里寻求你的帮助。我是新手，我不想冒险用越狱或 root 或其他什么方法毁了我的手机。     提交人    /u/JealousDimension2256   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkfy6u/spotify_premium_for_ios/</guid>
-      <pubDate>Thu, 19 Sep 2024 08:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
