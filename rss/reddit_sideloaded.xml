@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 19 Sep 2024 15:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 18:12:35 GMT</lastBuildDate>
+    <item>
+      <title>异常活动 ChatGPT 修复 DNS 方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkr3ly/unusual_activity_chatgpt_fix_for_dns_method/</link>
+      <description><![CDATA[ChatGPT 显示 DNS 方法的“异常活动”，因此我决定进行一些调试，我发现 App attest（appattest.apple.com）是开发人员可以建立应用程序完整性的一种方式。 我们正在阻止“appattest.apple.com”以防止被列入黑名单，但 ChatGPT 需要一次性连接到 appattest.apple.com 才能建立应用程序完整性。 iOS DNS 配置文件的方法。 继续之前，您需要从设置、常规、VPN 和中删除所有企业应用程序设备管理并重新启动，以防止您的设备将证书列入黑名单。 禁用 DNS，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 您现在可以重新激活 DNS 以防止撤销，但是，如果您退出 ChatGPT，则需要再次重做这些步骤以重新验证 ChatGPT。 Adguard Pro 或 NextDNS 的方法 将 http://register.appattest.apple.com 添加到您的白名单，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 请注意，到目前为止，我还没有因添加 http://register.appattest.apple.com/ 列入白名单，但需要进一步测试来确认这一点。    提交人    /u/UmarFarq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkr3ly/unusual_activity_chatgpt_fix_for_dns_method/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取 adBlock + antirevoke DNS？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkqjuq/how_do_i_get_a_adblock_antirevoke_dns/</link>
+      <description><![CDATA[      我不能同时使用 2 个 DNS，但我需要一个 adblock 和 anti revoke，就像教程图片一样，我目前正在使用 esign。图 1-2：我的手机 图 3：教程 ESign    提交人    /u/Dmmds0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkqjuq/how_do_i_get_a_adblock_antirevoke_dns/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从应用程序更改语言？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkq7a0/change_language_from_apps/</link>
+      <description><![CDATA[大家好， 我侧载了“Mimo”应用，但无法更改语言，因为它会将我发送到“破解”应用信息，而我无法更改语言。iosgods 中是否有可以更改语言的值？    提交人    /u/Mountain-Push-3460   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkq7a0/change_language_from_apps/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apptoide iOS 早期访问代码</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkp9d7/apptoide_ios_early_acces_codes/</link>
+      <description><![CDATA[我有 2 个 apptoide 代码，如果有人感兴趣请直接发信息给我（当然是免费的）    提交人    /u/Primary-Ad-3410   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkp9d7/apptoide_ios_early_acces_codes/</guid>
+      <pubDate>Thu, 19 Sep 2024 16:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有修改过改装游戏的电报吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkp0a2/anyone_has_a_telegram_that_has_tweaked_modded/</link>
+      <description><![CDATA[发送给我     提交者    /u/ConsciousTop7647   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkp0a2/anyone_has_a_telegram_that_has_tweaked_modded/</guid>
+      <pubDate>Thu, 19 Sep 2024 16:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有 cod mobile modded tweaked ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkoyyx/anyone_has_a_cod_mobile_modded_tweaked_ipa/</link>
+      <description><![CDATA[我需要一个可以解锁所有    提交人    /u/ConsciousTop7647   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkoyyx/anyone_has_a_cod_mobile_modded_tweaked_ipa/</guid>
+      <pubDate>Thu, 19 Sep 2024 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用付费证书在 Apple Watch 上进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fknx37/sideloading_on_apple_watch_with_paid_cert/</link>
+      <description><![CDATA[我知道有很多关于此的问题，但他们只说付费开发证书。  但是我有一个来自 ios rocket 的付费手机 p12 证书。我可以用它将应用程序侧载到我的苹果手表上吗？如果可能的话，我可以用 esign 签署一个支持苹果手表的应用程序吗？    提交人    /u/CodingKittenYT   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fknx37/sideloading_on_apple_watch_with_paid_cert/</guid>
+      <pubDate>Thu, 19 Sep 2024 15:41:01 GMT</pubDate>
+    </item>
     <item>
       <title>希望常见问题解答中的错误 3017 仍然准确？（AltStore）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fkm9gp/hoping_error_3017_on_faq_is_still_accurate/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[几个月前，我偶然发现了一个关于在 iOS 上免费获取 spotify premium 的视频，现在才想起来。它简要提到了侧载，所以我在这里寻求你的帮助。我是新手，我不想冒险用越狱或 root 或其他什么方法毁了我的手机。     提交人    /u/JealousDimension2256   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fkfy6u/spotify_premium_for_ios/</guid>
       <pubDate>Thu, 19 Sep 2024 08:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iPhone 5 的 Minecraft 最新版本是什么？我下载了 1.8 版，但我想要更高版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkfsac/what_is_the_latest_version_of_minecraft_that/</link>
-      <description><![CDATA[标题    提交人    /u/Poxthej   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkfsac/what_is_the_latest_version_of_minecraft_that/</guid>
-      <pubDate>Thu, 19 Sep 2024 08:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flixhub 蓝牙音频不工作。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkeyj5/flixhub_bluetooth_audio_not_working/</link>
-      <description><![CDATA[使用 flixhub，但它很烦人，因为音频是通过我的 iPhone 扬声器而不是我的耳机传出来的。 有人有同样的问题吗？    提交人    /u/Asleep-Flounder-4349   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkeyj5/flixhub_bluetooth_audio_not_working/</guid>
-      <pubDate>Thu, 19 Sep 2024 07:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 uyou plus 下载视频时卡住了？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fke5z7/videos_get_stuck_when_downloading_from_uyou_plus/</link>
-      <description><![CDATA[      当我使用 uyou 下载 q 视频时，我卡在这种状态 这是什么意思？从 Uyouplus 下载的视频 我按照 github 的说明构建了最新版本的 uyouplus，现在当我下载视频时，有可能在右下角出现这个符号并且下载卡住，有谁知道其他是什么意思或者如何避免它吗？    提交人    /u/BQjesuEM   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fke5z7/videos_get_stuck_when_downloading_from_uyou_plus/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新：Feather v1.0.2 已发布，修复了 18.0 问题！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkcra5/update_feather_v102_is_out_with_180_fixes/</link>
-      <description><![CDATA[我知道很多人在 iOS 17.7 和 18.0 上遇到了问题，所以我做了一种替代安装方法！ 有什么变化 • 添加了名为“在线安装方法”的替代安装方法，如果您使用的是 iOS 18，建议使用  替代方法联系外部服务器，该服务器返回一个 plist 文件，此操作期间不会收集任何数据：[Server.swift#L84-L105](https://github.com/khcrysalis/Feather/blob/main/Shared/Server/Server.swift#L84-L105)。  • 添加了选项来打开应用程序 • 添加了用于更改签名应用程序图标的照片选择器选项 • 添加了商店的排序选项 • 选项为：“默认”、“名称”和“日期” • 添加了另一个后备以在某些存储库中正确显示描述。 • 改进一些与 URL 方案相关的代码......“feather://source/&lt;url&gt;” • 一些常规代码改进 注释 • 可以在此处找到外部服务器的代码&gt; • 如果您使用 DNS 阻止 Apple 请求，请将 app.localhost.direct 和 api.palera.in 列入白名单，这些 URL 将被 Feather 用来安装应用程序。 悲伤 Github 操作覆盖了前一个标签 :/ 因此该标签后面会缺少一个版本 Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkcra5/update_feather_v102_is_out_with_180_fixes/</guid>
-      <pubDate>Thu, 19 Sep 2024 04:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载 GO GO GOLD 原创应用程序????</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkcpry/sideload_go_go_gold_original_app/</link>
-      <description><![CDATA[前段时间，我从广告中下载了 go go gold 应用程序（带有龙应用程序图标），这是获得该版本以玩真钱 (SC) 的唯一方法。我不得不重置手机，现在 Apple 不允许我重新安装该应用程序，因为它已从 App Store 中删除……当我找到另一个广告时，它是针对新版本“经典 Royale”的。我在 go go gold 应用程序上有几个不同的帐户，它们都是白金 VIP 或更高级别。这么说吧，我从那个应用程序中赢了不少钱，有几次仅从我的 1 美元每日奖金中就兑现了 200 多美元。我需要它！！！  有人可以向我解释如何将原始应用程序侧载回我的 iPhone 吗？我已经做了研究，但坦率地说，没有任何意义。     提交人    /u/amestx1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkcpry/sideload_go_go_gold_original_app/</guid>
-      <pubDate>Thu, 19 Sep 2024 04:36:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个发布 IPA 格式破解应用程序的私人电报群，你知道吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkb7cl/i_am_looking_for_a_private_telegram_group_that/</link>
-      <description><![CDATA[大家好，我正在寻找一个发布破解 IPA 应用程序的私人 Telegram 群组。如果我能找到一个付费的私人 Telegram 群组，那对我来说会更好。一个发布破解 IPA 的群组，我在这个群组之外找不到这些破解 IPA。一个始终活跃并始终更新破解应用程序的群组。即使我必须支付费用才能加入该群组，那也不会成为问题。提前感谢您的帮助。    提交人    /u/Scottaslin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkb7cl/i_am_looking_for_a_private_telegram_group_that/</guid>
-      <pubDate>Thu, 19 Sep 2024 03:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载适合我吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkaq18/is_sideloading_for_me/</link>
-      <description><![CDATA[我想侧载 manly，原因有 2 个  Appstore 上已经有游戏了，但是出于某种原因我不想将其与我的 Apple 帐户关联 玩其他地区的游戏，由于 WB 的无能，Magic Awakened 正在关闭其美国服务器，每个人都在转移到其他亚洲服务器，网易甚至批准了这一点。，是的，有一个 PC 客户端，但是当我有了具有更大存储空间的 Ipad 时，我会再次选择这个游戏。  侧载对我来说也行吗？或者我最好从其他地区创建一个 Apple 帐户或类似的东西？它甚至允许我在另一个地区的帐户上使用美国的恢复电话号码吗？    提交人    /u/drafan5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkaq18/is_sideloading_for_me/</guid>
-      <pubDate>Thu, 19 Sep 2024 02:43:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
