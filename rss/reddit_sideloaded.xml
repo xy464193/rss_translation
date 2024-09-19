@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 19 Sep 2024 03:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 06:14:31 GMT</lastBuildDate>
+    <item>
+      <title>从 uyou plus 下载视频时卡住了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fke5z7/videos_get_stuck_when_downloading_from_uyou_plus/</link>
+      <description><![CDATA[      当我使用 uyou 下载 q 视频时，我卡在这种状态 这是什么意思？从 Uyouplus 下载的视频 我按照 github 的说明构建了最新版本的 uyouplus，现在当我下载视频时，有可能在右下角出现这个符号并且下载卡住，有谁知道其他是什么意思或者如何避免它吗？    提交人    /u/BQjesuEM   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fke5z7/videos_get_stuck_when_downloading_from_uyou_plus/</guid>
+      <pubDate>Thu, 19 Sep 2024 06:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新：Feather v1.0.2 已发布，修复了 18.0 问题！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkcra5/update_feather_v102_is_out_with_180_fixes/</link>
+      <description><![CDATA[我知道很多人在 iOS 17.7 和 18.0 上遇到了问题，所以我做了一种替代安装方法！ 有什么变化 • 添加了名为“在线安装方法”的替代安装方法，如果您使用的是 iOS 18，建议使用  替代方法联系外部服务器，该服务器返回一个 plist 文件，此操作期间不会收集任何数据：[Server.swift#L84-L105](https://github.com/khcrysalis/Feather/blob/main/Shared/Server/Server.swift#L84-L105)。  • 添加了选项来打开应用程序 • 添加了用于更改签名应用程序图标的照片选择器选项 • 添加了商店的排序选项 • 选项为：“默认”、“名称”和“日期” • 添加了另一个后备以在某些存储库中正确显示描述。 • 改进一些与 URL 方案相关的代码......“feather://source/&lt;url&gt;” • 一些常规代码改进 注释 • 可以在此处找到外部服务器的代码&gt; • 如果您使用 DNS 阻止 Apple 请求，请将 app.localhost.direct 和 api.palera.in 列入白名单，这些 URL 将被 Feather 用来安装应用程序。 悲伤 Github 操作覆盖了前一个标签 :/ 因此该标签后面会缺少一个版本 Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkcra5/update_feather_v102_is_out_with_180_fixes/</guid>
+      <pubDate>Thu, 19 Sep 2024 04:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载 GO GO GOLD 原创应用程序????</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fkcpry/sideload_go_go_gold_original_app/</link>
+      <description><![CDATA[前段时间，我从广告中下载了 go go gold 应用程序（带有龙应用程序图标），这是获得该版本以玩真钱 (SC) 的唯一方法。我不得不重置手机，现在 Apple 不允许我重新安装该应用程序，因为它已从 App Store 中删除……当我找到另一个广告时，它是针对新版本“经典 Royale”的。我在 go go gold 应用程序上有几个不同的帐户，它们都是白金 VIP 或更高级别。这么说吧，我从那个应用程序中赢了不少钱，有几次仅从我的 1 美元每日奖金中就兑现了 200 多美元。我需要它！！！  有人可以向我解释如何将原始应用程序侧载回我的 iPhone 吗？我已经做了研究，但坦率地说，没有任何意义。     提交人    /u/amestx1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fkcpry/sideload_go_go_gold_original_app/</guid>
+      <pubDate>Thu, 19 Sep 2024 04:36:38 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找一个发布 IPA 格式破解应用程序的私人电报群，你知道吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fkb7cl/i_am_looking_for_a_private_telegram_group_that/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[每当我尝试在手机上安装 esign 时，我都会收到无法验证完整性的消息。尝试了 scarlet，它已安装，但我需要互联网来验证此应用程序。还有其他方法可以侧载应用程序吗？    提交人    /u/not-saf1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fk1my6/cant_install_any_esgin_version/</guid>
       <pubDate>Wed, 18 Sep 2024 19:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>显著的可靠性？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk105u/signulous_reliability/</link>
-      <description><![CDATA[我 2 天前购买了 1 年期证书，具有 365 天撤销保护。 今天，证书已被撤销。我有临时证书 China Continent Property 这正常吗？下一步是什么？ 由于我们无法联系 Signulous，他们会在准备好新证书后发送邮件吗？    提交人    /u/KejnaPT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk105u/signulous_reliability/</guid>
-      <pubDate>Wed, 18 Sep 2024 19:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 立即失败</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk07bm/apple_intelligence_failing_immediately/</link>
-      <description><![CDATA[我已经使用 MisakaX 在 iPhone 12 Pro 上安装了 Apple Intelligence，今天早上我终于摆脱了等待名单，这让我很惊讶。经过几次尝试让它工作后，Siri 总是会说“Siri 不可用”，即使我已连接，我也应该连接到 Wifi 才能完成下载。有人知道这个问题的解决方案吗？非常感谢    提交人    /u/LachiJailbreak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk07bm/apple_intelligence_failing_immediately/</guid>
-      <pubDate>Wed, 18 Sep 2024 18:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iOS 18.1 上获取 ESign（使用 DNS）的有效方法？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fk01ec/a_working_way_of_getting_esign_with_dns_on_ios_181/</link>
-      <description><![CDATA[我真的需要一些帮助才能在我的 iPad 和 iPhone 上获取 ESign。升级到 iOS 18.1 后，似乎新的侧载应用程序还没有跟上。有没有人有 100% 有效的方法来获取 ESign 而无需撤销 DNS（因为我为了更新 iOS 而删除了我的 DNS）？    提交人    /u/TheSteveGuy123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fk01ec/a_working_way_of_getting_esign_with_dns_on_ios_181/</guid>
-      <pubDate>Wed, 18 Sep 2024 18:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
