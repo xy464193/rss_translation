@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 20 Sep 2024 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 06:14:26 GMT</lastBuildDate>
+    <item>
+      <title>使用 3utools 安装 ipa 文件并“使用 Apple ID 签名”是永久性的吗？如果不是，有没有办法在 ios 10.3.4 上永久侧载 ipa 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fl42r8/is_installing_ipa_files_with_3utools_and_the_sign/</link>
+      <description><![CDATA[title    由   提交  /u/Extreme_Big5194   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fl42r8/is_installing_ipa_files_with_3utools_and_the_sign/</guid>
+      <pubDate>Fri, 20 Sep 2024 04:43:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发现了一些东西...</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fl3k58/i_found_something/</link>
+      <description><![CDATA[      https://preview.redd.it/i25947863wpd1.jpg?width=1197&amp;format=pjpg&amp;auto=webp&amp;s=b12e89143d063942a09b0dc7830f8c4c36b76649 所以你可能知道我正在制作 Arctic，但是当我浏览 ESign 时，我发现了一些令人震惊的东西。我应该担心还是应该将此作为让 Arctic 变得更好的动力。    提交人    /u/Frosty-Handle-6454   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fl3k58/i_found_something/</guid>
+      <pubDate>Fri, 20 Sep 2024 04:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何自动点击器吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fl2z5h/any_autoclicker/</link>
+      <description><![CDATA[ios 有没有自动点击器？？我想用它在游戏中耕种    提交人    /u/Dmmds0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fl2z5h/any_autoclicker/</guid>
+      <pubDate>Fri, 20 Sep 2024 03:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>我如何获取旧游戏 ipa？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fl2grl/how_can_i_get_an_old_game_ipa/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ChatGPT 显示 DNS 方法的“异常活动”，因此我决定进行一些调试，我发现 App attest（appattest.apple.com）是开发人员可以建立应用程序完整性的一种方式。 我们正在阻止“appattest.apple.com”以防止被列入黑名单，但 ChatGPT 需要一次性连接到 appattest.apple.com 才能建立应用程序完整性。 iOS DNS 配置文件的方法。 继续之前，您需要从设置、常规、VPN 和中删除所有企业应用程序设备管理并重新启动，以防止您的设备将证书列入黑名单。 禁用 DNS，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 您现在可以重新激活 DNS 以防止撤销，但是，如果您退出 ChatGPT，则需要再次重做这些步骤以重新验证 ChatGPT。 Adguard Pro 或 NextDNS 的方法 将 http://register.appattest.apple.com 添加到您的白名单，打开 ChatGPT，登录并打招呼，以允许苹果返回有效密钥。 ChatGPT 现已通过 App attest 验证。 我添加 http://register.appattest.apple.com 添加到白名单，但需要进一步测试来确认这一点。    提交人    /u/UmarFarq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fkr3ly/unusual_activity_chatgpt_fix_for_dns_method/</guid>
       <pubDate>Thu, 19 Sep 2024 17:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获取 adBlock + antirevoke DNS？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkqjuq/how_do_i_get_a_adblock_antirevoke_dns/</link>
-      <description><![CDATA[      我不能同时使用 2 个 DNS，但我需要一个 adblock 和 anti revoke，就像教程图片一样，我目前正在使用 esign。图 1-2：我的手机 图 3：教程 ESign    提交人    /u/Dmmds0   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkqjuq/how_do_i_get_a_adblock_antirevoke_dns/</guid>
-      <pubDate>Thu, 19 Sep 2024 17:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>从应用程序更改语言？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkq7a0/change_language_from_apps/</link>
-      <description><![CDATA[大家好， 我侧载了“Mimo”应用，但无法更改语言，因为它会将我发送到“破解”应用信息，而我无法更改语言。iosgods 中是否有可以更改语言的值？    提交人    /u/Mountain-Push-3460   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkq7a0/change_language_from_apps/</guid>
-      <pubDate>Thu, 19 Sep 2024 17:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apptoide iOS 早期访问代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fkp9d7/apptoide_ios_early_acces_codes/</link>
-      <description><![CDATA[我有 2 个 apptoide 代码，如果有人感兴趣请直接发信息给我（当然是免费的）    提交人    /u/Primary-Ad-3410   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fkp9d7/apptoide_ios_early_acces_codes/</guid>
-      <pubDate>Thu, 19 Sep 2024 16:36:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
