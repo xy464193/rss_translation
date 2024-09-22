@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Sep 2024 03:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 06:12:41 GMT</lastBuildDate>
+    <item>
+      <title>uYou 增强下载卡住了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmm8ee/uyou_enhanced_downloads_stuck/</link>
+      <description><![CDATA[当我尝试在 uYou 中下载某些内容时，我的下载卡在这里  https://imgur.com/a/N1cBQMs    提交人    /u/NefariousnessSad2551   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmm8ee/uyou_enhanced_downloads_stuck/</guid>
+      <pubDate>Sun, 22 Sep 2024 05:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>FlekStore 支持 JIT 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fml4ym/does_flekstore_support_jit/</link>
+      <description><![CDATA[您好，我是侧载新手。我刚刚在运行 17.6.1 的 iPhone 14 Pro 上安装了 FlekStore，我想运行 Play！模拟器，但我需要启用 JIT 才能正常工作。FlekStore 是否支持 JIT，如果支持，我该如何通过 FlekStore 启动启用了 JIT 的 Play！？如果 FlekStore 不支持 JIT，我是否应该切换到其他替代方案，例如 SideStore？我一直在试图弄清楚，有些人说启用 JIT 的唯一方法是将 iPhone 连接到 Mac，这完全违背了在 iPhone 上进行模拟的目的。任何对此的澄清都将非常有帮助，谢谢！    提交人    /u/BigBoiLeroy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fml4ym/does_flekstore_support_jit/</guid>
+      <pubDate>Sun, 22 Sep 2024 04:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarlet 未下载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmktoj/scarlet_not_downloading/</link>
+      <description><![CDATA[我正在尝试下载 scarlet，但系统提示“无法下载，因为无法验证完整性”。我该如何修复？    提交人    /u/zephx23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmktoj/scarlet_not_downloading/</guid>
+      <pubDate>Sun, 22 Sep 2024 04:12:20 GMT</pubDate>
+    </item>
     <item>
       <title>使用 esign 安装后应用程序无法启动</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmi05p/apps_not_launching_after_installing_with_esign/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[在扎伊尔杰克逊需要帮助的时候帮助他们 亲爱的朋友们和家人 我希望这封邮件能传达给你们。我代表扎伊尔杰克逊向你们致意，他是一个勇敢的 10 岁孩子，正面临着人生中的艰难时刻，他在两年内失去了双亲。他的祖母正在抚养他，但她目前正处于经济危机中，需要帮助来支付医疗费用和其他需求。每一笔捐款，无论多小，都会对扎伊尔人的生活产生重大影响，并帮助确保他们在这个困难时期得到所需的照顾和支持。  如果您能够提供帮助，请考虑捐赠 $Aidenkey2018 您的慷慨可以为这个可爱的孩子带来希望和治愈。 感谢您的善意和支持。 如果您有任何问题或疑虑，请联系 Marquise Key (4074797460)    提交人    /u/Zealousideal_Tax5083   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmc0ch/doing_my_part_for_a_child_in_his_grandmother_in/</guid>
       <pubDate>Sat, 21 Sep 2024 20:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳尊重隐私/安全的 Apple 开发者账户签名服务？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmbefp/best_signing_service_with_apple_developer_account/</link>
-      <description><![CDATA[我已经使用 AppDB 几年了，对他们的服务很满意，但是在设置我的新 iPhone 16 并安装 24/7 全天候保留在设备管理中的配置文件时，我开始更多地考虑安全性和隐私。 我看到很多人出于某种原因对 AppDB 持负面看法，而对 ESign（即使它是中国遥测）和 KravaSign（以前是 MapleSign，但因资金窃取争议而更改）持正面看法。还看到很多关于其他侧载服务的信息。不确定为什么 AppDB 令人讨厌。 我有一个付费的 Apple 开发者帐户。哪种签名方法既尊重隐私和安全，我可以使用我的 Apple 开发者帐户来避免撤销，还可以收到通知？ 编辑：我最终选择了 Feather。到目前为止，它看起来很棒，而且 GitHub 页面上的说明非常容易理解。正是我在寻找的。    提交人    /u/TylerJamesDurden   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmbefp/best_signing_service_with_apple_developer_account/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，请告诉我如何在 ios18 上侧载 Premium Youtube 音乐和 Spotify。（Apple 设备新手）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmb1r9/guys_please_suggest_me_how_to_sideload_premium/</link>
-      <description><![CDATA[我是一名 Android 用户，最近换用了苹果，我很喜欢这款手机，但唯一让我难过的是 Apk Modding 部分......我想这对 iOS 来说很难。我是 iOS 新手，所以请建议我如何轻松安装 Mod Youtube Music 和 Spotify......提前致谢 :)    提交人    /u/Proud-Pie-2731   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmb1r9/guys_please_suggest_me_how_to_sideload_premium/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 GearUp Booster 来使用我自己的 DNS 而不会被撤销或列入黑名单吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmaspd/can_i_use_gearup_booster_when_using_my_own_dns/</link>
-      <description><![CDATA[我订阅了 1.1.1.1 和 GearUp Booster，因为它们降低了我在游戏中的 ping。现在，我正在使用 Next DNS 的 ESign 和我自己 DNS。我想知道是否有任何方法可以使用任何 Ping 助推器而不会被撤销/列入黑名单？    提交人    /u/Dramatic-Party9409   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmaspd/can_i_use_gearup_booster_when_using_my_own_dns/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:26:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
