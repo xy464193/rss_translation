@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Sep 2024 15:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 18:11:46 GMT</lastBuildDate>
+    <item>
+      <title>为什么使用 Feather 侧载的应用程序不断崩溃？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmyov1/why_do_my_apps_sideloaded_with_feather_keep/</link>
+      <description><![CDATA[因此我下载了 feather，安装了 minecraft 和其他一些应用程序进行测试，它运行良好，然后我更新到 ios 18 以查看它的情况，我尝试打开 minecraft，出现 mojang 启动画面然后崩溃，尝试安装 dolphin ios，出现黑屏然后崩溃，ios 18 不支持 feather 吗？应用程序本身运行良好，但当我尝试运行从中下载的应用程序时，它几乎立即崩溃    提交人    /u/NeedleworkerOne6864   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmyov1/why_do_my_apps_sideloaded_with_feather_keep/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>有羽毛的标志吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmwddm/signulous_with_feather/</link>
+      <description><![CDATA[我似乎找不到直接的答案，也不确定这是如何工作的，但我有一个 Signulous 订阅，我可以将其与 Feather 应用程序一起使用吗？如果可以，我该怎么做？    由   提交  /u/iChopPryde   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmwddm/signulous_with_feather/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmw2z3/problem_with_sideloading/</link>
+      <description><![CDATA[您好，我按照 PureEnvyUs 指南使用 NextDNS 进行侧载，两天来运行正常，但现在我无法打开任何侧载应用，因为它说打开前需要验证证书...我在 iOS 17.7 上使用 Feather 安装应用。哪里出了问题？    提交人    /u/AndreaBezio   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmw2z3/problem_with_sideloading/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>Kravasign 基本版还是专业版？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmutgj/kravasign_basic_or_pro/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[如何在 KravaSigner 上获取 YouTube plus 和 Regram？    由    /u/Lekowski  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmo1qc/how_can_i_get_youtube_plus_and_regram_on/</guid>
       <pubDate>Sun, 22 Sep 2024 07:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些使用下一个 DNS 的人来说，你如何保持你的队列向下</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmnxxv/for_those_using_next_dns_how_do_you_keep_your/</link>
-      <description><![CDATA[我已经使用 next dns 进行了电子签名，但我刚刚收到电子邮件，说我的查询数为 250000，而它将在 300000 处停止，我该怎么办？    提交人    /u/NefariousnessSad2551   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmnxxv/for_those_using_next_dns_how_do_you_keep_your/</guid>
-      <pubDate>Sun, 22 Sep 2024 07:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型应用程序 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmnn96/mega_app_ipa/</link>
-      <description><![CDATA[正在寻找具有高级版本的大型应用的 ipa    由   提交  /u/Tricky-Acadia7959   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmnn96/mega_app_ipa/</guid>
-      <pubDate>Sun, 22 Sep 2024 07:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>你使用哪个 repo 来下载经过调整的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmnmcy/what_repo_do_you_use_to_download_apps_with_tweaks/</link>
-      <description><![CDATA[您使用哪个 repo 下载带有调整的应用程序？    由    /u/Lekowski  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmnmcy/what_repo_do_you_use_to_download_apps_with_tweaks/</guid>
-      <pubDate>Sun, 22 Sep 2024 07:23:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
