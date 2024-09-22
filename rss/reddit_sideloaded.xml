@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Sep 2024 00:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 03:17:18 GMT</lastBuildDate>
+    <item>
+      <title>使用 esign 安装后应用程序无法启动</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmi05p/apps_not_launching_after_installing_with_esign/</link>
+      <description><![CDATA[由于我一直使用越狱手机，因此我对侧载还不熟悉。现在我使用的是 iOS 18，并且已经调整了几天。我遵循了以下指南：https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/mobilebasic 我安装了所有想要的应用程序。然后我重启了一下，发现 esign 应用程序无法启动。我查看了 VPN 和设备管理部分，发现我安装的应用程序列表显示为“未验证”，但它们仍正常运行。我使用了从 zip 文件夹下载的证书，该证书与我设备上安装的 esign 证书不匹配。想了想...好的，安装的 esign 证书被撤销了......但是我在 esign 中使用不同证书安装的证书保持完好。我的意思是，我以为这就是这一切的工作原理，只要保持选择 Next DNS，应用程序就不会被撤销。我检查了我的 NextDNS 帐户上的设置，指南中显示的所有 7 个地址都已被阻止。我在想...我需要使用不同的证书安装另一个 esign 实例。因此，如果证书（来自初始安装）被撤销，我仍然可以毫无问题地运行 esign，就像我获得的未经验证但仍在运行的应用程序集一样。大约一个小时后..现在所有（未经验证的）应用程序都无法启动。 我是否错过了这一切中的重要一步？？我认为重点是使用该 zip 文件夹中的任何证书通过 esign 安装应用程序可以使应用程序保持正常运行，即使证书未激活。或者根本不是这样，我只是误会了？因为到目前为止，我每天都必须经历这个过程才能使应用程序保持正常运行。    提交人    /u/donutpower   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmi05p/apps_not_launching_after_installing_with_esign/</guid>
+      <pubDate>Sun, 22 Sep 2024 01:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何让 Anime Now 运行？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmhl5o/how_do_i_get_anime_now_to_work/</link>
+      <description><![CDATA[我现在在 appdb 上下载了动漫，它总是显示我选择的任何节目都在加载 有人知道我该如何解决这个问题吗？    提交人    /u/Lucky_Truth_6316   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmhl5o/how_do_i_get_anime_now_to_work/</guid>
+      <pubDate>Sun, 22 Sep 2024 01:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何 Deezer 下载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmhkwp/any_deezer_downloader_apps/</link>
+      <description><![CDATA[有没有类似 deemix 或 deezloader 的 iOS 应用？     提交者    /u/alpacanightmares   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmhkwp/any_deezer_downloader_apps/</guid>
+      <pubDate>Sun, 22 Sep 2024 01:01:46 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们有这么多阳光证书？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmh5ez/why_do_we_have_so_many_sunshine_certificates/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>最佳尊重隐私/安全的 Apple 开发者账户签名服务？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmbefp/best_signing_service_with_apple_developer_account/</link>
-      <description><![CDATA[我已经使用 AppDB 几年了，对他们的服务很满意，但是在设置我的新 iPhone 16 并安装 24/7 全天候保留在设备管理中的配置文件时，我开始更多地考虑安全性和隐私问题。 我看到很多人出于某种原因对 AppDB 持负面看法，而对 ESign（即使它是中国遥测）和 KravaSign（以前是 MapleSign，但因窃取资金争议而更改）持正面看法。还看到很多关于其他侧载服务的信息。不确定为什么 AppDB 讨厌。 我有一个付费的 Apple 开发者帐户。哪种签名方法既尊重隐私和安全，又可以使用我的 Apple 开发者帐户来避免撤销并接收通知？    提交人    /u/TylerJamesDurden   [链接] [评论]]]></description>
+      <description><![CDATA[我已经使用 AppDB 几年了，对他们的服务很满意，但是在设置我的新 iPhone 16 并安装 24/7 全天候保留在设备管理中的配置文件时，我开始更多地考虑安全性和隐私。 我看到很多人出于某种原因对 AppDB 持负面看法，而对 ESign（即使它是中国遥测）和 KravaSign（以前是 MapleSign，但因资金窃取争议而更改）持正面看法。还看到很多关于其他侧载服务的信息。不确定为什么 AppDB 令人讨厌。 我有一个付费的 Apple 开发者帐户。哪种签名方法既尊重隐私和安全，我可以使用我的 Apple 开发者帐户来避免撤销，还可以收到通知？ 编辑：我最终选择了 Feather。到目前为止，它看起来很棒，而且 GitHub 页面上的说明非常容易理解。正是我在寻找的。    提交人    /u/TylerJamesDurden   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmbefp/best_signing_service_with_apple_developer_account/</guid>
       <pubDate>Sat, 21 Sep 2024 19:55:15 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我订阅了 1.1.1.1 和 GearUp Booster，因为它们降低了我在游戏中的 ping。现在，我正在使用 Next DNS 的 ESign 和我自己 DNS。我想知道是否有任何方法可以使用任何 Ping 助推器而不会被撤销/列入黑名单？    提交人    /u/Dramatic-Party9409   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmaspd/can_i_use_gearup_booster_when_using_my_own_dns/</guid>
       <pubDate>Sat, 21 Sep 2024 19:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fm9j17/i_need_one/</link>
-      <description><![CDATA[伙计们，我需要适用于 ios 16.710 的 trollstore    提交人    /u/Imaginary-Tea-51   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fm9j17/i_need_one/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>MovieBoxPro 代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fm7y1o/movieboxpro_code/</link>
-      <description><![CDATA[有人可以发给我一个代码吗，我需要看《少年谢尔顿》😭😭🙏😫    提交人    /u/bloon_destroyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fm7y1o/movieboxpro_code/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>愤怒的小鸟Go旧版IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fm7w5q/ipa_for_old_angry_birds_go/</link>
-      <description><![CDATA[Angry birds go 1.8.7 可以运行 ipa 吗？    由   提交  /u/Interesting-Okra-431   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fm7w5q/ipa_for_old_angry_birds_go/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:14:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
