@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Sep 2024 12:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:08:38 GMT</lastBuildDate>
+    <item>
+      <title>Kravasign 基本版还是专业版？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmutgj/kravasign_basic_or_pro/</link>
+      <description><![CDATA[我想获得 kravasign，但我应该获得哪一个，它们有什么大的区别？    提交人    /u/Skipyopro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmutgj/kravasign_basic_or_pro/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signulous 没有撤销保护吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmtka6/does_signulous_not_have_revoke_protection/</link>
+      <description><![CDATA[我的应用不再工作，我是否必须联系他们以获取新证书？或者我的 UDID 被列入黑名单了？ 我有白金套餐    提交人    /u/djquik1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmtka6/does_signulous_not_have_revoke_protection/</guid>
+      <pubDate>Sun, 22 Sep 2024 13:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Feather 安装了 YTLitePlus。我需要做什么才能让它继续运行？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fms1yz/istalled_ytliteplus_using_feather_anything_i_need/</link>
+      <description><![CDATA[我是 iPhone 的新用户。就在几天前，我听说了在 iPhone 上使用修改过的应用程序。因此，我观看了一些教程，并设法使用 Feather 安装了 YTLitePlus。顺便说一下，我使用的是 iOS 18。 现在，我想知道是否还有一些步骤可以让它继续运行而不会出现任何问题。因为我还注意到一些术语，例如“7 天刷新”、“撤销”等。    提交人    /u/exibillia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fms1yz/istalled_ytliteplus_using_feather_anything_i_need/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:24:54 GMT</pubDate>
+    </item>
     <item>
       <title>分享 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmrskl/sharing_ipas/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[您使用哪个 repo 下载带有调整的应用程序？    由    /u/Lekowski  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmnmcy/what_repo_do_you_use_to_download_apps_with_tweaks/</guid>
       <pubDate>Sun, 22 Sep 2024 07:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou 增强下载卡住了</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmm8ee/uyou_enhanced_downloads_stuck/</link>
-      <description><![CDATA[当我尝试在 uYou 中下载某些内容时，我的下载卡在这里  https://imgur.com/a/N1cBQMs    提交人    /u/NefariousnessSad2551   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmm8ee/uyou_enhanced_downloads_stuck/</guid>
-      <pubDate>Sun, 22 Sep 2024 05:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>FlekStore 支持 JIT 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fml4ym/does_flekstore_support_jit/</link>
-      <description><![CDATA[您好，我是侧载新手。我刚刚在运行 17.6.1 的 iPhone 14 Pro 上安装了 FlekStore，我想运行 Play！模拟器，但我需要启用 JIT 才能正常工作。FlekStore 是否支持 JIT，如果支持，我该如何通过 FlekStore 启动启用了 JIT 的 Play！？如果 FlekStore 不支持 JIT，我是否应该切换到其他替代方案，例如 SideStore？我一直在试图弄清楚，有些人说启用 JIT 的唯一方法是将 iPhone 连接到 Mac，这完全违背了在 iPhone 上进行模拟的目的。任何对此的澄清都将非常有帮助，谢谢！    提交人    /u/BigBoiLeroy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fml4ym/does_flekstore_support_jit/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 未下载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmktoj/scarlet_not_downloading/</link>
-      <description><![CDATA[我正在尝试下载 scarlet，但系统提示“无法下载，因为无法验证完整性”。我该如何修复？    提交人    /u/zephx23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmktoj/scarlet_not_downloading/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:12:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
