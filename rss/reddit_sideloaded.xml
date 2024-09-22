@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Sep 2024 09:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 12:16:24 GMT</lastBuildDate>
+    <item>
+      <title>分享 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmrskl/sharing_ipas/</link>
+      <description><![CDATA[嘿，嗯……我碰巧有一堆用 TrollDecrypt 解密的 ipas（免费和付费应用程序，没有注入的 twerk，只有基本应用程序）。我想通过我的网站分享这个集合并附上下载链接（云存储）和随意捐赠，这违法吗？我对诉讼等没有太多经验。提前谢谢！    提交人    /u/GaLac26   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmrskl/sharing_ipas/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有自定义图标的 Web 应用程序签名者？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmrsdd/web_app_signer_with_custom_icon/</link>
+      <description><![CDATA[有没有网站可以签署带有自定义图标的应用程序，KravaSign 和我尝试过的一些其他服务都没有这个选项。    提交人    /u/DBeitniz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmrsdd/web_app_signer_with_custom_icon/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Flekstore 侧载应用程序（阅读说明）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmq5de/sideloading_an_app_with_flekstore_read_desc/</link>
+      <description><![CDATA[      我使用 Flekstore，我想侧载一个应用程序，但它说我需要互联网连接来验证应用程序。在图片上，你可以看到我有 Wifi。所以我不明白，也不知道在这种情况下该怎么做。你们有什么建议吗？    提交人    /u/KrishappsYT   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmq5de/sideloading_an_app_with_flekstore_read_desc/</guid>
+      <pubDate>Sun, 22 Sep 2024 10:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>feather 支持 JIT 吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmq07w/does_feather_support_jit/</link>
+      <description><![CDATA[TITLE    由   提交  /u/Creeper_TNT_1234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmq07w/does_feather_support_jit/</guid>
+      <pubDate>Sun, 22 Sep 2024 10:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>电报 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fmpqbu/telegram_ipa/</link>
+      <description><![CDATA[有任何解锁了预感功能的电报 ipa 吗？    提交人    /u/Famous_Sail_3347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fmpqbu/telegram_ipa/</guid>
+      <pubDate>Sun, 22 Sep 2024 09:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>如何正确备份和恢复我的 iPhone？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fmoh5g/how_do_i_properly_backup_and_restore_my_iphone/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在尝试下载 scarlet，但系统提示“无法下载，因为无法验证完整性”。我该如何修复？    提交人    /u/zephx23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fmktoj/scarlet_not_downloading/</guid>
       <pubDate>Sun, 22 Sep 2024 04:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 esign 安装后应用程序无法启动</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmi05p/apps_not_launching_after_installing_with_esign/</link>
-      <description><![CDATA[由于我一直使用越狱手机，因此我对侧载还不熟悉。现在我使用的是 iOS 18，并且已经调整了几天。我遵循了以下指南：https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/mobilebasic 我安装了所有想要的应用程序。然后我重启了一下，发现 esign 应用程序无法启动。我查看了 VPN 和设备管理部分，发现我安装的应用程序列表显示为“未验证”，但它们仍正常运行。我使用了从 zip 文件夹下载的证书，该证书与我设备上安装的 esign 证书不匹配。想了想...好的，安装的 esign 证书被撤销了......但是我在 esign 中使用不同证书安装的证书保持完好。我的意思是，我以为这就是这一切的工作原理，只要保持选择 Next DNS，应用程序就不会被撤销。我检查了我的 NextDNS 帐户上的设置，指南中显示的所有 7 个地址都已被阻止。我在想...我需要使用不同的证书安装另一个 esign 实例。因此，如果证书（来自初始安装）被撤销，我仍然可以毫无问题地运行 esign，就像我获得的未经验证但仍在运行的应用程序集一样。大约一个小时后..现在所有（未经验证的）应用程序都无法启动。 我是否错过了这一切中的重要一步？？我认为重点是使用该 zip 文件夹中的任何证书通过 esign 安装应用程序可以使应用程序保持正常运行，即使证书未激活。或者根本不是这样，我只是误会了？因为到目前为止，我每天都必须经历这个过程才能使应用程序保持正常运行。    提交人    /u/donutpower   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmi05p/apps_not_launching_after_installing_with_esign/</guid>
-      <pubDate>Sun, 22 Sep 2024 01:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何让 Anime Now 运行？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmhl5o/how_do_i_get_anime_now_to_work/</link>
-      <description><![CDATA[我现在在 appdb 上下载了动漫，它总是显示我选择的任何节目都在加载 有人知道我该如何解决这个问题吗？    提交人    /u/Lucky_Truth_6316   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmhl5o/how_do_i_get_anime_now_to_work/</guid>
-      <pubDate>Sun, 22 Sep 2024 01:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何 Deezer 下载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmhkwp/any_deezer_downloader_apps/</link>
-      <description><![CDATA[有没有类似 deemix 或 deezloader 的 iOS 应用？     提交者    /u/alpacanightmares   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmhkwp/any_deezer_downloader_apps/</guid>
-      <pubDate>Sun, 22 Sep 2024 01:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们有这么多阳光证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmh5ez/why_do_we_have_so_many_sunshine_certificates/</link>
-      <description><![CDATA[阳光人是否一直在遭受数据泄露？    提交人    /u/grandiloquence3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmh5ez/why_do_we_have_so_many_sunshine_certificates/</guid>
-      <pubDate>Sun, 22 Sep 2024 00:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试下载 Sidestore Connect Source 后，Sidestore 崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fmgj53/sidestore_crashes_after_trying_to_download/</link>
-      <description><![CDATA[尝试下载 Sidestore Connect Source 后，我的 Sidestore 应用程序根本无法打开，而且立即崩溃，我该如何修复？    提交人    /u/Kirbo_Thesupahstar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fmgj53/sidestore_crashes_after_trying_to_download/</guid>
-      <pubDate>Sun, 22 Sep 2024 00:04:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
