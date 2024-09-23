@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:09:19 GMT</lastBuildDate>
+    <item>
+      <title>TrollStore 或适用于 iOS 17.4 至 iOS 18.1 的类似应用程序，可允许在非欧盟国家/地区分发替代应用程序</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fnvd8l/trollstore_or_similar_app_for_ios_174_to_ios_181/</link>
+      <description><![CDATA[因此，替代应用程序分发允许将第三方应用程序安装到在欧盟国家销售和使用的 iPhone 上，以遵守其法律。但是，我想知道是否有可能开发这样的应用程序，将非欧盟 iPhone 欺骗为欧盟 iPhone，允许使用替代应用程序分发在全球任何国家/地区将第三方 ipas 安装到 iPhone 而不受任何到期限制？    提交人    /u/JailbreakHat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fnvd8l/trollstore_or_similar_app_for_ios_174_to_ios_181/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:03:25 GMT</pubDate>
+    </item>
     <item>
       <title>有人能帮助我吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fnn55f/can_someone_help_me/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一部 iphone 7 ios 15.8，我在苹果开发者帐户上侧载了 10 个，因此我认为我还有空间，我需要侧载另外 5 个完全相同类型、完全相同流程且使用相同 trollstore IPA 的手机，现在我收到此错误 安装期间出现问题：3892346901：ApplicationVerificationFailed（无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.D2pz1J/extracted/Payload/TrollInstallerX.app 的代码签名：0xe8008015（未找到此可执行文件的有效配置文件。）） 我该如何修复此问题。如果这种情况继续下去，我的星期五就会被毁掉 我的主要问题是我无法再将 trollstore IPA 侧载到手机上     提交人    /u/DisconnectedWallaby   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fi7jvt/im_so_confused/</guid>
       <pubDate>Mon, 16 Sep 2024 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的手机怎么了？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fhk6rc/whats_up_with_my_phone/</link>
-      <description><![CDATA[我在越狱的 iPhone 6s Plus 上安装了 trollinstallerx，但应用程序似乎无法从安装程序安装。设备重新启动后，它就不见了。     提交人    /u/epicgamer0435   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fhk6rc/whats_up_with_my_phone/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:58:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
