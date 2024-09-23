@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Mon, 23 Sep 2024 15:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:12:51 GMT</lastBuildDate>
+    <item>
+      <title>有人能帮助我吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fnn55f/can_someone_help_me/</link>
+      <description><![CDATA[所以我在 iOS 16.0 版本的 iPhone 上安装了 trollstore，但过了一段时间后我就无法再打开这些应用程序了，它们并没有被撤销，但我现在无法打开它们，我想尝试再次安装 trollstore，但我的 TrollInstallerX 一直崩溃，如果我再次尝试下载它，我的整个手机就会崩溃，有人能帮我吗？    提交人    /u/juxt_haon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fnn55f/can_someone_help_me/</guid>
+      <pubDate>Mon, 23 Sep 2024 15:25:30 GMT</pubDate>
+    </item>
     <item>
       <title>iPadOS 17.0.3 的 Troll 商店？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fnhpqj/troll_store_for_ipados_1703/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找一个应用程序来编辑 ipa 名称 bundle id 等，然后再安装</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fjvdj0/looking_for_an_app_to_edit_ipa_name_bundle_id_etc/</link>
-      <description><![CDATA[寻找一个应用程序来编辑 ipa 名称、bundle id 等，然后再安装     由   提交  /u/akminas   [link] [comments]]]></description>
+      <description><![CDATA[寻找一个应用程序，在安装前编辑 ipa 名称、包 ID 等     由   提交  /u/akminas   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fjvdj0/looking_for_an_app_to_edit_ipa_name_bundle_id_etc/</guid>
       <pubDate>Wed, 18 Sep 2024 15:18:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我在越狱的 iPhone 6s Plus 上安装了 trollinstallerx，但应用程序似乎无法从安装程序安装。设备重新启动后，它就不见了。     提交人    /u/epicgamer0435   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fhk6rc/whats_up_with_my_phone/</guid>
       <pubDate>Sun, 15 Sep 2024 18:58:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>将歌曲导入本机音乐应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fhgwc7/import_song_to_native_music_app/</link>
-      <description><![CDATA[有没有办法将歌曲导入原生 Apple Music App，而无需越狱和将手机连接到 PC？ 有一个名为 Mimport 的调整用于越狱，是否可以制作 ipa 或通过 filza 导入歌曲？    提交人    /u/XafarKhanWazir   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fhgwc7/import_song_to_native_music_app/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:40:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
