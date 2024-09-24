@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Sep 2024 03:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 06:14:46 GMT</lastBuildDate>
+    <item>
+      <title>将 DNS 与 MDM VPN 结合使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo5srh/use_dns_with_mdm_vpn/</link>
+      <description><![CDATA[因此，我的设备有一个 MDM，如果我想使用互联网，它会强制进行 VPN 连接，并且在安装 MDM 后，我最近无法侧载已撤销的证书。VPN 有可能弄乱了我的 DNS 吗？如果是，请帮助我。（我无法配置 VPN，也无法关闭它。）    提交人    /u/wa019   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo5srh/use_dns_with_mdm_vpn/</guid>
+      <pubDate>Tue, 24 Sep 2024 06:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果开发者问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo4xlz/apple_developer_question/</link>
+      <description><![CDATA[我是否可以以每年 99 美元的价格购买一个 Apple 开发者帐户，然后让 20 个人每年为一台设备支付 5 美元？或者我是否忽略了某些东西导致此方法行不通。因为我认为每年至少会有 20 个人为这项服务每人支付 5 美元？    提交人    /u/Joub1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo4xlz/apple_developer_question/</guid>
+      <pubDate>Tue, 24 Sep 2024 05:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能解释一下 altstore 到底是干什么的吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo4iap/could_someone_explain_what_altstore_does_exactly/</link>
+      <description><![CDATA[我对侧载还不熟悉，我想了解 altstore 具体是做什么的，它只是对应用程序进行签名吗？没有它你能运行签名的 ipa 文件吗？    提交人    /u/Wnuforgtalurpaswords   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo4iap/could_someone_explain_what_altstore_does_exactly/</guid>
+      <pubDate>Tue, 24 Sep 2024 04:44:23 GMT</pubDate>
+    </item>
     <item>
       <title>侧载会阻止 iOS 更新吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fo2w5z/sideloading_blocks_ios_updates/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>Nugget/MisakaX 补丁 (SparseRestore)</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</link>
-      <description><![CDATA[我确定你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您可以更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有未开发的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何人来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们是不可逆的，而且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 像 Cowabunga Lite 这样的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <description><![CDATA[我相信你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有未开发的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何人来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们是不可逆的，而且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 像 Cowabunga Lite 这样的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</guid>
       <pubDate>Mon, 23 Sep 2024 23:42:17 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[如何将 VPN 与反黑名单 DNS 结合使用？我听说 VPN 会把事情搞糟并将你列入黑名单（顺便说一下，使用 esign）    提交人    /u/CommercialAioli7453   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fntsg4/vpn_with_school/</guid>
       <pubDate>Mon, 23 Sep 2024 19:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Express VPN 和防撤销 DNS 而不被列入黑名单？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnstn9/how_can_i_use_express_vpn_with_anti_revoke_dns/</link>
-      <description><![CDATA[我有 ExpressVPN，我想继续将其用于流媒体平台和一般安全保护，我听说有一个安全漏洞，如果我使用 VPN，我会被列入黑名单，是吗？如果是，我该如何绕过它    提交人    /u/Federal-Ear-7614   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnstn9/how_can_i_use_express_vpn_with_anti_revoke_dns/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>X/Twitter 侧载版本不再起作用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnsmxj/xtwitter_side_load_versions_no_longer_working/</link>
-      <description><![CDATA[最近我安装的每一个都可以工作 10 分钟，但最终当我尝试重新连接时，我无法连接到服务器。我注意到最近没有发布像 BHX 这样的新更新。     提交人    /u/RefrigeratorNo2605   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnsmxj/xtwitter_side_load_versions_no_longer_working/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nugget 和 MiskaX 在 iOS 18.1 beta 5 上出现故障</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnrbwf/nugget_miskax_are_broken_on_ios_181_beta_5/</link>
-      <description><![CDATA[请勿升级到 iOS 18.1 beta 4 之后的版本 未破坏的漏洞已被修补    提交人    /u/GregWanta   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnrbwf/nugget_miskax_are_broken_on_ios_181_beta_5/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:16:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
