@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Sep 2024 12:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:10:19 GMT</lastBuildDate>
+    <item>
+      <title>signulous 一周内第三次停止工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1foeew4/3rd_time_signulous_has_stopped_working_in_a_week/</link>
+      <description><![CDATA[第一次我的应用程序停止工作时，他们发了一封电子邮件说我的证书已被吊销，并要求重新安装所有应用程序。很简单，对吧？没问题。几天后，我的应用程序又无法正常工作，我只需重新下载 signulous 并花一点时间重新安装所有内容，但几天后一切又再次发生。我甚至最近两次收到电子邮件，我对每隔几天这样做不感兴趣，所以除非有人有任何建议，否则我可能会放弃 signulous。    提交人    /u/OpGotReddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1foeew4/3rd_time_signulous_has_stopped_working_in_a_week/</guid>
+      <pubDate>Tue, 24 Sep 2024 14:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1foe4do/esign_online/</link>
+      <description><![CDATA[esign online 和 esign 有什么区别 https://x.com/esignpatch/status/1838488092778598856?s=46    submitted by    /u/Agile_Floor_2045   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1foe4do/esign_online/</guid>
+      <pubDate>Tue, 24 Sep 2024 14:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Youtube 侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fod2d8/youtube_side_loading/</link>
+      <description><![CDATA[我尝试从许多不同的存储库下载许多 youtube plus 应用程序，但似乎都没有下载，任何帮助都会很棒    提交人    /u/thedankmemelord69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fod2d8/youtube_side_loading/</guid>
+      <pubDate>Tue, 24 Sep 2024 13:54:12 GMT</pubDate>
+    </item>
     <item>
       <title>最好的付费证书是什么</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fob1al/whats_the_best_payed_cert/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨， 我是这个世界的新手，想了解一件事。 我在这里阅读了一份指南，该指南允许您安装已撤销的 IPA，这要归功于手机上必须始终处于活动状态的 DNS，但这会阻止 iPhone 接收 iOS 更新。 现在，尽管每周都会撤销，但我对 Scarlett/SideStore/Esign/Appdb 之类的东西更感兴趣（我只是在这里列出了我听说过的网站），我想知道即使使用这些网站，iPhone 是否也无法获取最新版本的 iOS，因此您是否会被禁止接收更新。 谢谢。    提交人    /u/Klutzy-Tadpole-366   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fo2w5z/sideloading_blocks_ios_updates/</guid>
       <pubDate>Tue, 24 Sep 2024 03:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nugget 和 MiskaX 是什么，我可以在已越狱/保修失效的主设备上使用它吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fo2s4r/what_are_nugget_miskax_and_can_i_use_it_on_my/</link>
-      <description><![CDATA[L    由   提交  /u/GalaCad2003   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fo2s4r/what_are_nugget_miskax_and_can_i_use_it_on_my/</guid>
-      <pubDate>Tue, 24 Sep 2024 03:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnzqti/scarlet/</link>
-      <description><![CDATA[什么时候才能取消撤销？    提交人    /u/Alternative-Foot-388   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnzqti/scarlet/</guid>
-      <pubDate>Tue, 24 Sep 2024 00:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您建议使用哪种方法来侧载 2 个应用程序超过一个月？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnz1g7/which_method_would_you_suggest_to_sideload_2_apps/</link>
-      <description><![CDATA[我真的只想侧载 Anki 和一个没有广告和 pip 的 YT 版本，仅此而已，没有花哨的东西。我试过 AltStore，但我无法添加任何来源，我试过在我的 Mac 上使用 Sideloadly，但我得到了一个错误代码。我觉得我太老了，无法完全参与所有这些东西。Nugget 在我看来就像一个该死的病毒，谁他妈的有这个想法 - 虽然没有尝试过-。  任何帮助都非常感谢    提交人    /u/Lobbichu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnz1g7/which_method_would_you_suggest_to_sideload_2_apps/</guid>
-      <pubDate>Mon, 23 Sep 2024 23:50:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
