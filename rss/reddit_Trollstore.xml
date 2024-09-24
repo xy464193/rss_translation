@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Tue, 24 Sep 2024 09:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 12:18:09 GMT</lastBuildDate>
+    <item>
+      <title>trollstore 17.0 可以进行这样的调整吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fo97gn/tweaks_like_this_possible_with_trollstore_170/</link>
+      <description><![CDATA[        提交人    /u/ProfessionalPeach661   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fo97gn/tweaks_like_this_possible_with_trollstore_170/</guid>
+      <pubDate>Tue, 24 Sep 2024 10:28:27 GMT</pubDate>
+    </item>
     <item>
       <title>TrollStore 或适用于 iOS 17.4 至 iOS 18.1 的类似应用程序，可允许在非欧盟国家/地区分发替代应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fnvd8l/trollstore_or_similar_app_for_ios_174_to_ios_181/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿， 我有一部运行 iOS 17 的 iPhone 13 mini。我正尝试在 Windows 11 上安装 Trollrestore。 我从 Apple 网站（不是 Microsoft 商店）安装了 iTunes，安装了最新版本的 Python 和 Trollrestore 1.0。安装了 Tips 并关闭了 findmy。 终端刚刚打开，光标刚刚闪烁。长时间（30 分钟左右）没有发生任何事情。 有人知道是什么原因造成的吗？    提交人    /u/Sacha117   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fic3he/trollstore_terminal_opening_but_not_doing_anything/</guid>
       <pubDate>Mon, 16 Sep 2024 18:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很困惑</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fi7jvt/im_so_confused/</link>
-      <description><![CDATA[我有一部 iphone 7 ios 15.8，我在苹果开发者帐户上侧载了 10 个，因此我认为我还有空间，我需要侧载另外 5 个完全相同类型、完全相同流程且使用相同 trollstore IPA 的手机，现在我收到此错误 安装期间出现问题：3892346901：ApplicationVerificationFailed（无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.D2pz1J/extracted/Payload/TrollInstallerX.app 的代码签名：0xe8008015（未找到此可执行文件的有效配置文件。）） 我该如何修复此问题。如果这种情况继续下去，我的星期五就会被毁掉 我的主要问题是我无法再将 trollstore IPA 侧载到手机上     提交人    /u/DisconnectedWallaby   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fi7jvt/im_so_confused/</guid>
-      <pubDate>Mon, 16 Sep 2024 15:29:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
