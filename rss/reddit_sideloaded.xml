@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Sep 2024 06:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 09:10:49 GMT</lastBuildDate>
+    <item>
+      <title>我从哪里获取 ipa 文件以进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo6zjj/where_do_i_get_ipa_files_to_sideload/</link>
+      <description><![CDATA[因为我刚刚开始使用 Sideloading！    提交者    /u/CooledDrop   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo6zjj/where_do_i_get_ipa_files_to_sideload/</guid>
+      <pubDate>Tue, 24 Sep 2024 07:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eevee Spotify 本地文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo6vt5/eevee_spotify_local_files/</link>
+      <description><![CDATA[eevee Spotify 不支持本地文件吗？我一直想添加这首歌，但它根本没有显示出来。显示了一组随机歌曲，我不知道为什么是这些歌曲，提前谢谢     提交人    /u/Correct-Ad3690   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo6vt5/eevee_spotify_local_files/</guid>
+      <pubDate>Tue, 24 Sep 2024 07:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>将 DNS 与 MDM VPN 结合使用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fo5srh/use_dns_with_mdm_vpn/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>Nugget/MisakaX 补丁 (SparseRestore)</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</link>
-      <description><![CDATA[我相信你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有未开发的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何人来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们是不可逆的，而且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 像 Cowabunga Lite 这样的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <description><![CDATA[我相信你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有很大的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何用户来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们将是不可逆的，并且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 Cowabunga Lite 之类的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</guid>
       <pubDate>Mon, 23 Sep 2024 23:42:17 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在使用 Scarlett，每当我尝试打开它或我从它侧面加载的应用程序时，它们都会立即关闭。当我进入设置时，它有验证它们的选项，点击它什么也没做。scarlet 坏了吗？    提交人    /u/Major_Union_9943   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnwk08/is_scarlet_down_right_now/</guid>
       <pubDate>Mon, 23 Sep 2024 21:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩老游戏最好的 iOS 设备是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnusc6/what_is_the_best_ios_device_to_play_older_games/</link>
-      <description><![CDATA[我想获得《超凡蜘蛛侠》和《黑暗骑士崛起》等游戏，但这些游戏无法在现代 iPhone 上玩，因为它们是 32 位游戏，在 iOS 11 之后不受支持。 据我所知，这些游戏仍然可以在限制在 iOS 10 的旧 iOS 设备上玩。我能想到的这类设备的例子有 iPhone 5、iPad Mini 第 1 代、iPad 第 2 代、iPad 第 3 代和 iPad 第 4 代。 所以从理论上讲，我可以在任何这些设备上购买和安装《超凡蜘蛛侠》和《黑暗骑士崛起》，因为它们的限制在 iOS 10。 这是正确的吗？如果是这样，我应该买哪个设备？ 仅供参考：在我的购买历史记录中，我还没有购买过这两款游戏。   由    /u/MessianicApostate  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnusc6/what_is_the_best_ios_device_to_play_older_games/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>与学校的 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fntsg4/vpn_with_school/</link>
-      <description><![CDATA[如何将 VPN 与反黑名单 DNS 结合使用？我听说 VPN 会把事情搞糟并将你列入黑名单（顺便说一下，使用 esign）    提交人    /u/CommercialAioli7453   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fntsg4/vpn_with_school/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:57:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
