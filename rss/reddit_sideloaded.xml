@@ -4,7 +4,63 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:47:03 GMT</lastBuildDate>
+    <item>
+      <title>猩红</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnzqti/scarlet/</link>
+      <description><![CDATA[什么时候才能取消撤销？    提交人    /u/Alternative-Foot-388   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnzqti/scarlet/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>您建议使用哪种方法来侧载 2 个应用程序超过一个月？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnz1g7/which_method_would_you_suggest_to_sideload_2_apps/</link>
+      <description><![CDATA[我真的只想侧载 Anki 和一个没有广告和 pip 的 YT 版本，仅此而已，没有花哨的东西。我试过 AltStore，但我无法添加任何来源，我试过在我的 Mac 上使用 Sideloadly，但我得到了一个错误代码。我觉得我太老了，无法完全参与所有这些东西。Nugget 在我看来就像一个该死的病毒，谁他妈的有这个想法 - 虽然没有尝试过-。  任何帮助都非常感谢    提交人    /u/Lobbichu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnz1g7/which_method_would_you_suggest_to_sideload_2_apps/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nugget/MisakaX 补丁 (SparseRestore)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</link>
+      <description><![CDATA[我相信你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有很大的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何用户来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们将是不可逆的，并且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 Cowabunga Lite 之类的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找旧的费雪婴儿应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnyh19/finding_old_fisherprice_baby_apps/</link>
+      <description><![CDATA[      大家好，我正在寻找旧版 Fisher-Price 婴儿应用程序的 IPA 或 XAPK 文件。具体来说，B&amp;W High Contrast、Peek ‘n Play Rainforest、Laugh and Smile 以及 Soothing Sights and Songs for Baby。如果有人能找到它们那就太好了。我很乐意玩这些，因为访问这些功能的唯一其他方法是通过 Digital Soother。谢谢阅读。     提交人    /u/MagiColorfulMoon   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnyh19/finding_old_fisherprice_baby_apps/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用付费开发者账户安装带有 AppDB 的 IPA 时，如何启用权利和 JIT 来运行 Pomelo 模拟器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnxaek/how_do_you_enable_entitlements_and_jit_to_run/</link>
+      <description><![CDATA[说明在这里：https://github.com/Pomelo-Emu/Pomelo 但所有的应用程序 ID 都被称为 dont0remove0ex，没有名为 Pomelo 的程序 我如何启用权利 + JIT 分页 u/appdb_official 说明副本：  正常侧载 (通过 S​​ideStore、AltStore 或任何 Apple ID 侧载程序) 转到 https://developer.apple.com/account/resources/identifiers 找到 Pomelo 然后启用这些权利  扩展虚拟寻址 增加内存限制 增加调试内存限制  然后，您将需要删除并再次侧载它 通过您喜欢的方法启用 JIT。     提交人    /u/Endawmyke   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnxaek/how_do_you_enable_entitlements_and_jit_to_run/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 ios rocket 购买了一个证书，但两天了还没到，我应该担心吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnx39s/i_bought_a_cert_from_ios_rocket_and_it_hasnt/</link>
+      <description><![CDATA[我可能被骗了，但我想知道    提交人    /u/ImmediateBar6467   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnx39s/i_bought_a_cert_from_ios_rocket_and_it_hasnt/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以提供给我 dylib/deb 文件来绕过付费订阅吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnwxqx/can_anyone_supply_me_with_dylibdeb_files_to/</link>
+      <description><![CDATA[我已经使用过 statella，但它对大多数应用程序来说效果并不好。    提交人    /u/Unable_Bird_3309   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnwxqx/can_anyone_supply_me_with_dylibdeb_files_to/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红色现在下来了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fnwk08/is_scarlet_down_right_now/</link>
+      <description><![CDATA[我正在使用 Scarlett，每当我尝试打开它或我从它侧面加载的应用程序时，它们都会立即关闭。当我进入设置时，它有验证它们的选项，点击它什么也没做。scarlet 坏了吗？    提交人    /u/Major_Union_9943   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fnwk08/is_scarlet_down_right_now/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:55:18 GMT</pubDate>
+    </item>
     <item>
       <title>玩老游戏最好的 iOS 设备是什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fnusc6/what_is_the_best_ios_device_to_play_older_games/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我在说明中看到您必须这样做。文件名看起来很相似，但即使在更新 iOS 后，内容是否仍然略有不同？    提交人    /u/runella-caralyn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnqpbu/why_do_you_have_to_regenerate_the_pairing_file/</guid>
       <pubDate>Mon, 23 Sep 2024 17:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 YouTube 中打开的快捷方式不起作用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnqhcl/open_in_youtube_shortcut_not_working/</link>
-      <description><![CDATA[自从我更新到 IOS18 后，在 YouTube 中打开链接的快捷方式（“在 Youtube 中打开”）就丢失了。  我曾经点击 Safari 中的分享按钮，在那里我可以选择“在 Youtube 中打开”，但现在它不再存在了。我做错了什么？    提交人    /u/MrHelpComputer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnqhcl/open_in_youtube_shortcut_not_working/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要这样做以免被撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnqfzl/dont_do_that_to_not_get_revoked/</link>
-      <description><![CDATA[请在评论中发布不要做什么！    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnqfzl/dont_do_that_to_not_get_revoked/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify ++</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnprvs/spotify/</link>
-      <description><![CDATA[所以我是 Apple 环境中的新手，我需要有人告诉我是否可以在不越狱手机的情况下获得破解版 Spotify    提交人    /u/Strange_Snow5088   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnprvs/spotify/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Goodnotes ipa 不能用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnpf1g/goodnotes_ipa_dont_work/</link>
-      <description><![CDATA[我试图从 appdb 侧载 goodnites 6 ipa for iPad，但失败了。使用手机上的 trollstore 或 SideStore 和 iPad 的 live 容器无法安装该应用程序。有人有可用的 ipa 或其他可行的方法吗？我将不胜感激。    提交人    /u/grzybu32152   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnpf1g/goodnotes_ipa_dont_work/</guid>
-      <pubDate>Mon, 23 Sep 2024 16:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nba 2K24 或 23 街机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnohpy/nba_2k24_or_23_arcade/</link>
-      <description><![CDATA[有没有人有好的下载链接或者可以发送 ipa 文件。或者如果它不起作用，请告诉我。谢谢    提交人    /u/Normal-Hunt-5564   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnohpy/nba_2k24_or_23_arcade/</guid>
-      <pubDate>Mon, 23 Sep 2024 16:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有《亨利火柴人合集》 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fno9uv/is_there_a_the_henry_stickman_collection_ipa/</link>
-      <description><![CDATA[只是问问。我在 PC 上 100% 完成了所有结局、失败、简历和成就。我现在有点想在我的 iPhone 上磨练它，但我找不到 ipas。有人找到了吗？    提交人    /u/New_Ad_7804   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fno9uv/is_there_a_the_henry_stickman_collection_ipa/</guid>
-      <pubDate>Mon, 23 Sep 2024 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在我的矿机上进行侧载吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnnzjf/should_i_side_load_on_my_mine_device/</link>
-      <description><![CDATA[我对所有这些侧载都非常陌生，我真的很想知道应该使用哪些应用程序进行侧载。我正在寻找一些免费且好用的东西。我有一部运行 iOS 18.1 开发者测试版的 iPhone 14 Pro，你们有什么推荐的吗？    提交人    /u/Entire-Anywhere-4639   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnnzjf/should_i_side_load_on_my_mine_device/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以无需证书下载 Spotify++ 之类的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnnvsm/is_there_any_way_to_download_apps_like_spotify/</link>
-      <description><![CDATA[我住在欧盟，我对所有这些应用程序和 scarlet、Altstore 等东西感到很困惑。有没有办法免费获得 Spotify premium 而无需购买/拥有证书。我已经设法下载了 altstore pal，但我只能下载 3 个我不需要的应用程序。我试过使用 TikTok，但每个人都在谈论 scarlet，人们说它是安全的还是不安全的。如果有人能以某种方式告诉我一些事情，如果我错过了一个特定的应用程序或其他东西。我也在用 iOS 18。    提交人    /u/PeterGreffin69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnnvsm/is_there_any_way_to_download_apps_like_spotify/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:55:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
