@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Sep 2024 00:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 03:17:01 GMT</lastBuildDate>
+    <item>
+      <title>侧载会阻止 iOS 更新吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo2w5z/sideloading_blocks_ios_updates/</link>
+      <description><![CDATA[嗨， 我是这个世界的新手，想了解一件事。 我在这里阅读了一份指南，该指南允许您安装已撤销的 IPA，这要归功于手机上必须始终处于活动状态的 DNS，但这会阻止 iPhone 接收 iOS 更新。 现在，尽管每周都会撤销，但我对 Scarlett/SideStore/Esign/Appdb 之类的东西更感兴趣（我只是在这里列出了我听说过的网站），我想知道即使使用这些网站，iPhone 是否也无法获取最新版本的 iOS，因此您是否会被禁止接收更新。 谢谢。    提交人    /u/Klutzy-Tadpole-366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo2w5z/sideloading_blocks_ios_updates/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nugget 和 MiskaX 是什么，我可以在已越狱/保修失效的主设备上使用它吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fo2s4r/what_are_nugget_miskax_and_can_i_use_it_on_my/</link>
+      <description><![CDATA[L    由   提交  /u/GalaCad2003   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fo2s4r/what_are_nugget_miskax_and_can_i_use_it_on_my/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>猩红</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fnzqti/scarlet/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Nugget/MisakaX 补丁 (SparseRestore)</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</link>
-      <description><![CDATA[我相信你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有很大的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何用户来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们将是不可逆的，并且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 Cowabunga Lite 之类的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <description><![CDATA[我确定你们都看过 20 篇已修复的帖子，所以这里再详细一点。  如果您不知道，Nugget 和 MisakaX 是使用名为 SparseRestore 的漏洞的应用程序。 他们利用此功能启用动态岛、Apple Intelligence，甚至绕过欧盟限制，让您可以更自由地侧载应用程序（如 Epic Games Store）。  在 iOS 17.0 上，SparseRestore 用作 TrollStore（TrollRestore）的安装方法。 在 iOS 18.1 beta 5 中，他们已正式修补了 SparseRestore。这并不奇怪，唯一令人惊讶的是花了这么长时间。这意味着 18.1 beta 4 之后的所有更新都将修补此问题。我认为这个漏洞还有未开发的潜力，所以你必须决定你是否更看重 SparseRestore 而不是新的 iOS 功能。一些 Omega 功能依赖于此，因此它们对于 18.1 b4 之后的任何人来说都是不可行的。  我相信如果你更新，当前的调整将保留。然而，它们是不可逆的，而且可能不稳定，这可能会使你的手机变砖。如果你想更新，至少要等待更多信息，看看这些调整是否可以安全保留，或者它们是否不稳定。 像 Cowabunga Lite 这样的东西仍然正常运行。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnyv1w/nuggetmisakax_patched_sparserestore/</guid>
       <pubDate>Mon, 23 Sep 2024 23:42:17 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[请勿升级到 iOS 18.1 beta 4 之后的版本 未破坏的漏洞已被修补    提交人    /u/GregWanta   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fnrbwf/nugget_miskax_are_broken_on_ios_181_beta_5/</guid>
       <pubDate>Mon, 23 Sep 2024 18:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 天内第四次显著撤销？？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnr8ne/signolous_4th_revoke_in_6_days/</link>
-      <description><![CDATA[正如标题所述，在过去 6 天里，我经历了 4 次撤销。大约 2 个月前购买了 Signolous。第一个月运行良好，但自从我购买了 AdGuard pro（包括 DNS active）后，它几乎每天都在被撤销。该怎么办？  编辑：忘记添加。  iOS 17.6.1    提交人    /u/CommunityPrize8110   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnr8ne/signolous_4th_revoke_in_6_days/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么更新 iOS 后必须重新生成 sidestore 的配对文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fnqpbu/why_do_you_have_to_regenerate_the_pairing_file/</link>
-      <description><![CDATA[我在说明中看到您必须这样做。文件名看起来很相似，但即使在更新 iOS 后，内容是否仍然略有不同？    提交人    /u/runella-caralyn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fnqpbu/why_do_you_have_to_regenerate_the_pairing_file/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:51:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
