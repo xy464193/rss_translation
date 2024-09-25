@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Wed, 25 Sep 2024 15:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 18:13:41 GMT</lastBuildDate>
+    <item>
+      <title>提示已下载，但御坂无法识别</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fp8kie/tips_is_downloaded_but_misaka_wont_recognize/</link>
+      <description><![CDATA[      如何修复？   由    /u/Suspicious_Bread_201  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fp8kie/tips_is_downloaded_but_misaka_wont_recognize/</guid>
+      <pubDate>Wed, 25 Sep 2024 16:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>小问题</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fp6jzw/small_question/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我目前在安装了 iOS 16.0 的 iPhone 14 pro max 上安装了 TrollStore，今天我要换到我的新 16 pro max。在转移所有内容或采取任何其他步骤之前，我需要删除 TrollStore 吗？我不知道之后是否可以删除该应用程序。由于 TrollStore 尚未在 de 16/iOS 18 上使用，如果我没记错的话，最好的替代方案是使用我自己的 DNS 阻止和证书？     提交人    /u/usernameisokay_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fm0q7y/switching_to_iphone_16_pro_max/</guid>
       <pubDate>Sat, 21 Sep 2024 11:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>请建议我什么更适合我</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fkkwrx/please_suggest_me_whats_better_for_me/</link>
-      <description><![CDATA[Whatsapp 与 Watusi 哪个更好，用 Bootstrap 调整好还是用 Trollstore 调整 IPA 好？主要问题是通知与开发人员的 Tipa 最新更新有关     提交人    /u/iOyeAnu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fkkwrx/please_suggest_me_whats_better_for_me/</guid>
-      <pubDate>Thu, 19 Sep 2024 13:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

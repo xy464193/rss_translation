@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 25 Sep 2024 15:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 18:13:48 GMT</lastBuildDate>
+    <item>
+      <title>证书加载后未安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpay3g/not_installing_after_cert_loaded/</link>
+      <description><![CDATA[我使用的是 iOS 18.1 和 iPhone 16。我从 Kravasign 获得了证书。我在 Flekstore 上使用它，它运行良好并安装成功，但如果我尝试任何其他方法，应用程序将无法安装。我尝试过 ESign、Feather、Gbox 甚至 Kravasigns 自己的应用程序。我加载了证书并启动了该过程，但应用程序安装失败。  我是不是漏掉了什么？也许是 18.1？我真的不想使用 Flekstore。谢谢！     提交人    /u/a589cc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpay3g/not_installing_after_cert_loaded/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你的 Scarlet 被吊销或列入黑名单，我找到了一个解决方案，我以 25 美元的价格出售，不需要 PC 或任何东西，它有一个苹果拦截器，应该可以阻止它很快被吊销，虽然不是 100% 确定，但就我而言，自从 evb 从我这里购买以来，它运行良好</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp9odj/if_ur_scarlet_revoked_or_blacklisted_i_found_a/</link>
+      <description><![CDATA[L    由   提交  /u/Mother-Narwhal-328   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp9odj/if_ur_scarlet_revoked_or_blacklisted_i_found_a/</guid>
+      <pubDate>Wed, 25 Sep 2024 17:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何旧的 Spotilife 32 位 .ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp91d5/are_there_any_old_spotilife_32bit_ipas/</link>
+      <description><![CDATA[我正在为我的 iPhone 5 寻找一个，谢谢！    提交人    /u/Charming-Gur-3496   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp91d5/are_there_any_old_spotilife_32bit_ipas/</guid>
+      <pubDate>Wed, 25 Sep 2024 16:42:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Signalous 认证？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp8w0v/new_signalous_certification/</link>
+      <description><![CDATA[让我重启 iPhone 并安装配置文件。这安全吗，有其他人这样做过吗？    提交人    /u/TheJasonWill   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp8w0v/new_signalous_certification/</guid>
+      <pubDate>Wed, 25 Sep 2024 16:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不丢失设置的情况下更新 Feather 等侧载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp7d7l/how_do_you_go_around_updating_sideloading_apps/</link>
+      <description><![CDATA[标题。 我第一次安装 Feather 时使用的是 Sideloadly，然后下载并使用 Sideloadly 版本的 Feather 签名，并安装了该版本，以便它使用我用于其他应用程序的相同证书进行签名。但是，现在有一个新的 Feather 更新，我不确定如何在不丢失我的设置和存储库的情况下进行更新，因为如果我使用 Feather 安装它，我会安装两个版本，但新版本没有我的存储库和签名的应用程序。    提交人    /u/rodharet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp7d7l/how_do_you_go_around_updating_sideloading_apps/</guid>
+      <pubDate>Wed, 25 Sep 2024 15:33:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign iOS 18-Repo 应用程序不工作。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp6uly/esign_ios_18_repo_apps_not_working/</link>
+      <description><![CDATA[它对我没有任何影响，但我只是想知道是否有人遇到过这种情况。我无法使用/安装来自 Nabz Repo 和 Apptesters Repo 的任何应用程序。收到无法验证应用程序的消息。其他所有工作都正常。    提交人    /u/Otherwise_Art_101   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp6uly/esign_ios_18_repo_apps_not_working/</guid>
+      <pubDate>Wed, 25 Sep 2024 15:11:59 GMT</pubDate>
+    </item>
     <item>
       <title>ESign 和所有其他侧载应用程序不断崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fp5uxu/esign_and_all_the_other_sideloaded_apps_keep/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[几周前我买了一张新 SIM 卡，但出于某种原因，我无法在上面激活 Facetime 和 iMessage。我想这可能是因为防撤销 DNS。    提交人    /u/No_Cryptographer122   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1foykyy/factime_imessage_activation/</guid>
       <pubDate>Wed, 25 Sep 2024 07:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳侧载 iOS18</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foyfmw/best_sideload_ios18/</link>
-      <description><![CDATA[我使用 sideloadly 快一年了，但每次都要上电脑刷新应用程序，很烦人，有没有不用电脑的新方法？    提交人    /u/Goal-Expert   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foyfmw/best_sideload_ios18/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>是不是只有我一个人觉得 iOS 18 破坏了 LiveContainer？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foxfki/is_it_just_me_or_did_ios_18_break_livecontainer/</link>
-      <description><![CDATA[我已经使用 LiveContainer 大约 3 个月了，但是当我去刷新 Sidestore 上的所有应用程序时，它完全搞砸了 LiveContainer。我尝试重新安装，但没有成功，尝试降级 Sidestore 版本，也没有成功。此外，我甚至无法设置 jit less 证书，而这正是我一直用于 LiveContainer 的证书。在我看来，当我下载 iOS 18 时它开始出现问题，因为在此之前，它运行良好，没有任何问题。    提交人    /u/bananaboi123lol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foxfki/is_it_just_me_or_did_ios_18_break_livecontainer/</guid>
-      <pubDate>Wed, 25 Sep 2024 05:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有最近的 MyFitnessPal Premium IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fov8ln/anyone_have_a_recent_myfitnesspal_premium_ipa/</link>
-      <description><![CDATA[寻找 MyFitnessPal/MyFitnessPal++ 的修改版本。我能找到的所有版本都很旧，如果可能的话，寻找更新的版本。     由   提交  /u/michaelsp9   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fov8ln/anyone_have_a_recent_myfitnesspal_premium_ipa/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取单独设备和 Apple ID 以使用我的开发者帐户进行侧载的提示或指南</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foty8d/tips_or_guide_to_get_a_separate_device_and_apple/</link>
-      <description><![CDATA[提示或指南，获取单独的设备和 Apple ID，以便使用我的开发者帐户进行侧载，以便第二台设备在 7 天后不会丢失应用程序。 在我的设备上，应用程序可以使用 1 年    提交人    /u/FlairPants   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foty8d/tips_or_guide_to_get_a_separate_device_and_apple/</guid>
-      <pubDate>Wed, 25 Sep 2024 02:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何更新我的电子签名</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fotpm0/how_do_i_renew_my_esign/</link>
-      <description><![CDATA[我的 esign 随机停止工作，我通过 ios rocket 购买了它，我购买了终身套餐，我没有收到续订电子邮件，当我尝试通过电子邮件向他们寻求续订帮助时，我没有得到任何答复（我多次尝试寻求帮助），有人知道如何修复它吗？或者以前有人遇到过 ios rocket 的这个问题吗？    提交人    /u/TTVuhohstinkyhi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fotpm0/how_do_i_renew_my_esign/</guid>
-      <pubDate>Wed, 25 Sep 2024 02:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apollo 需要 7 个 App ID？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fot2u4/apollo_requires_7_app_ids/</link>
-      <description><![CDATA[在我尝试通过 sidestore 或 altstore 安装 Apollo 时，我不断收到一条消息，建议我删除七个应用程序，因为 Apollo 需要七个不同的 App ID。此问题是否也会影响其他人？    提交人    /u/shekyu01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fot2u4/apollo_requires_7_app_ids/</guid>
-      <pubDate>Wed, 25 Sep 2024 01:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
