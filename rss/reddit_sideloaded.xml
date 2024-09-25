@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 21:09:55 GMT</lastBuildDate>
+    <item>
+      <title>安全切换 nextdns 配置文件（esign dns 方法）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpewkp/switching_nextdns_profile_safely_esign_dns_method/</link>
+      <description><![CDATA[众所周知，nextdns 的限制是每月 30 万次查询。您可以订阅，但也可以创建一个新帐户，所以有人知道如何安全地从接近限制的 DNS 配置文件切换到新配置文件（无需重新下载 esign）？    提交人    /u/kayna76666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpewkp/switching_nextdns_profile_safely_esign_dns_method/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 11 英寸及以上 iPad 的 Microsoft 365/Word IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpesg8/microsoft_365word_ipa_for_11_ipad/</link>
+      <description><![CDATA[我买了一台 iPad Air 5 作为 iPad Air 2 的升级版，显然更大的 iPad 在没有订阅的情况下无法使用微软的应用程序。我自己找不到一个合法的 IPA，所以我需要你的帮助。    提交人    /u/CheetoTheSandile   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpesg8/microsoft_365word_ipa_for_11_ipad/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子签名指南</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpe8c5/esign_guide/</link>
+      <description><![CDATA[我根据 u/PuReEnVyUs 的指南创建了这个网站  与指南最初所在的 google docs 不同，它在移动设备上更容易导航和响应。  如果您想查看更多功能或希望我添加更多指南，请告诉我。  https://sideloading.vercel.app    提交人    /u/Mr_Phenomen0n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpe8c5/esign_guide/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:19:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feather 的存储库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpe6la/repos_for_feather/</link>
+      <description><![CDATA[嘿，想知道是否有人有任何好的 repos 可以添加到 Feather？我添加了 Apptesters 和 CyPwn，我只是不确定是否还有     提交人    /u/GlitteringFig2625   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpe6la/repos_for_feather/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取 Spotify Premium</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpd11w/how_to_get_spotify_premium/</link>
+      <description><![CDATA[我有一部 15 手机，我没有盗版经验，需要帮助获取 spotify premium    提交人    /u/Broad_Line_2026   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpd11w/how_to_get_spotify_premium/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:28:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序上的诊断弹出窗口</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpcjix/diagnostic_popup_on_sideloaded_apps/</link>
+      <description><![CDATA[显然，如果不删除帖子，我无法分享它的图像。每当我在侧载应用程序中使用 swype 键盘时，就会弹出一个诊断信息，其中包含 GPU 和 CPU 统计数据，这让我很抓狂，因为我看不到键盘。我该如何关闭它？    由   提交  /u/Skuplia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpcjix/diagnostic_popup_on_sideloaded_apps/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的设备</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fpcf4s/eu_device/</link>
+      <description><![CDATA[如果我有欧盟设备，我可以不使用 DNS 进行侧载吗？    提交人    /u/odi4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fpcf4s/eu_device/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>证书加载后未安装</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fpay3g/not_installing_after_cert_loaded/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[Soundcloud SCMusic 已更新至 24.9.1-1 https://github.com/Rov3r/scmusicplus 有人可以将 IPA 文件发送给我以供侧载吗  使用 feather 注入 DEB 后，APP 总是崩溃    提交人    /u/patariml   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fp40v1/soundcloud_scmusic_got_updated_to_24911/</guid>
       <pubDate>Wed, 25 Sep 2024 13:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 18.1 的最佳签名应用程序是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fp3twy/whats_the_best_signing_app_for_ios_181/</link>
-      <description><![CDATA[根据标题，到目前为止，我已经在 iOS 18.1 Beta 5 上尝试了 ESign 和 Feather，但每个都有自己的小缺点。我只是想确认是否还有其他免费的签名应用程序可以使用。非常感谢！     提交人    /u/mainhathao   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fp3twy/whats_the_best_signing_app_for_ios_181/</guid>
-      <pubDate>Wed, 25 Sep 2024 12:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红操作系统</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fp2p0z/scarletos/</link>
-      <description><![CDATA[所以我试图下载 scarlet OS，但我得到的都是诈骗网站，要么告诉我输入我的电话号码，要么告诉我下载伪装成“OperaGX”的病毒链接，比如有人可以告诉我一个不是他妈的骗局的侧载器网站吗？别胡说八道了，我想得到海豚    提交人    /u/Unkn_wnIdiot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fp2p0z/scarletos/</guid>
-      <pubDate>Wed, 25 Sep 2024 12:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swaggyp36000 库叉</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fp2mwo/swaggyp36000_library_fork/</link>
-      <description><![CDATA[这是他们库在 2023 年制作的一个分支。（它已经 9 个月没有更新了，但也许你可以用它来找到一些应用程序？https://github.com/portatiilshop/repoipa    由   提交  /u/juliousrobins   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fp2mwo/swaggyp36000_library_fork/</guid>
-      <pubDate>Wed, 25 Sep 2024 11:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供本地 iOS 应用签名服务</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fp1087/provide_local_ios_app_signing_services/</link>
-      <description><![CDATA[需要有关避免帐户标记的建议 大家好， 我正在考虑在我的国家/地区启动本地 iOS 应用签名服务，类似于 Signulous 或 AppDB 等服务所提供的服务，但我面临一些独特的挑战，希望得到一些建议。 在我的国家/地区，大多数人只能用现金支付，并且许多人不会说或使用英语，这让他们很难访问 Signulous 或 AppDB 等国际服务。 我想提供本地解决方案，但我担心 Signulous 和 AppDB 等服务如何设法保持他们的 Apple 开发者帐户运行而不会被 Apple 标记或禁止。据我所知，这些服务提供 UDID 注册和应用签名，而不会违反 Apple 的服务条款 - 或者至少不会被抓住。我见过他们中的一些人使用多个帐户、低容量注册和模仿合法 beta 测试等策略，但我不确定如何在不危及我的 Apple 开发者帐户的情况下自己实施这些策略。 这里有人尝试过设置本地应用签名服务吗？你使用了哪些策略来避免被发现并保持帐户平稳运行？有没有什么技巧可以让你在不被 Apple 发现的情况下仍然为无法访问更大平台的人提供有价值的服务？ 我很感激你能分享的任何建议或资源！ 提前致谢！    提交人    /u/YogurtclosetShot6527   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fp1087/provide_local_ios_app_signing_services/</guid>
-      <pubDate>Wed, 25 Sep 2024 10:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nabzclan Repo 付款了吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fozzqf/nabzclan_repo_is_paid/</link>
-      <description><![CDATA[👀    由   提交  /u/Prestigious-Guide-61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fozzqf/nabzclan_repo_is_paid/</guid>
-      <pubDate>Wed, 25 Sep 2024 09:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truecaller Premium？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fozpmi/truecaller_premium/</link>
-      <description><![CDATA[有没有办法获得 truecaller premium ipa？    提交人    /u/insanemaniac66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fozpmi/truecaller_premium/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Factime 和 iMessage 激活</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foykyy/factime_imessage_activation/</link>
-      <description><![CDATA[几周前我买了一张新 SIM 卡，但出于某种原因，我无法在上面激活 Facetime 和 iMessage。我想这可能是因为防撤销 DNS。    提交人    /u/No_Cryptographer122   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foykyy/factime_imessage_activation/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
