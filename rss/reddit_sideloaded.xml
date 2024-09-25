@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:11:09 GMT</lastBuildDate>
+    <item>
+      <title>ESign 和所有其他侧载应用程序不断崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp5uxu/esign_and_all_the_other_sideloaded_apps_keep/</link>
+      <description><![CDATA[我不知道是不是因为我一直在更换 DNS，因为我想修补 NextDNS 以免它在我学校被屏蔽，但没有成功，所以我不得不使用 Khodns。  但是当我醒来时，即使 DNS 处于活动状态，它也无法工作。我不知道它为什么会崩溃，它并没有说“无法验证应用程序”，它只是崩溃了。任何解决方案都很好    提交人    /u/CommercialAioli7453   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp5uxu/esign_and_all_the_other_sideloaded_apps_keep/</guid>
+      <pubDate>Wed, 25 Sep 2024 14:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Soundcloud SCMusic 已更新至 24.9.1-1</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp40v1/soundcloud_scmusic_got_updated_to_24911/</link>
+      <description><![CDATA[Soundcloud SCMusic 已更新至 24.9.1-1 https://github.com/Rov3r/scmusicplus 有人可以将 IPA 文件发送给我以供侧载吗  使用 feather 注入 DEB 后，APP 总是崩溃    提交人    /u/patariml   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp40v1/soundcloud_scmusic_got_updated_to_24911/</guid>
+      <pubDate>Wed, 25 Sep 2024 13:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iOS 18.1 的最佳签名应用程序是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fp3twy/whats_the_best_signing_app_for_ios_181/</link>
+      <description><![CDATA[根据标题，到目前为止，我已经在 iOS 18.1 Beta 5 上尝试了 ESign 和 Feather，但每个都有自己的小缺点。我只是想确认是否还有其他免费的签名应用程序可以使用。非常感谢！     提交人    /u/mainhathao   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fp3twy/whats_the_best_signing_app_for_ios_181/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>猩红操作系统</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fp2p0z/scarletos/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[在我尝试通过 sidestore 或 altstore 安装 Apollo 时，我不断收到一条消息，建议我删除七个应用程序，因为 Apollo 需要七个不同的 App ID。此问题是否也会影响其他人？    提交人    /u/shekyu01   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fot2u4/apollo_requires_7_app_ids/</guid>
       <pubDate>Wed, 25 Sep 2024 01:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Live Container 和网站的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foqs15/question_about_live_container_and_a_site/</link>
-      <description><![CDATA[有人能解释一下“Live Container”应用程序（ipa？）是如何工作的吗？ 在 cypwn ipa 上，它只是说“运行应用程序而不安装”。但是它如何处理应用程序 ID？ 还想知道 Cypwn 是否值得信赖。仍在尝试弄清楚 Sideloading。 如果这里不允许发帖，我很抱歉。不确定在哪里发布这个特定的问题。    提交人    /u/CurrentRisk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foqs15/question_about_live_container_and_a_site/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Altstore 进行侧载时遇到问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fopk1o/trouble_sideloading_with_altstore/</link>
-      <description><![CDATA[大家好，我有一些侧载经验，但最近遇到了麻烦。由于我不喜欢添加，因此使用 Altstore Beta/Dev 帐户侧载大型调整应用程序，例如 YTLitePlus、Instagram Regram、Apollo、BHTiktok 等。但是，即使我使用的是有线 USB-C 电缆，我也遇到了问题，在 Altstore 提示我批准应用程序侧载权限后，它说与 Altstore 的连接已丢失。另一个问题是，有时，侧载其中一个应用程序需要很长时间，最终会失败。 有人找到这个的确切原因吗？我在 Windows 11 上的 iCloud/iTunes 上是最新的 -iPhone 16 Pro Max 18.1 Beta 5 -正品 USB-C 线缆/硬连线 -iCloud 已更新 -高级数据保护已关闭 任何提示或技巧都值得赞赏。谢谢！    提交人    /u/codedapple   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fopk1o/trouble_sideloading_with_altstore/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uyou+ 应用程序正在下载视频 - 卡在下载中</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fop1f1/uyou_app_downloading_videos_stuck_on_downloading/</link>
-      <description><![CDATA[大家好，有谁在下载 uyou+ 视频时遇到过问题吗？视频和音频都下载到了 100%，但一直说正在下载，没有完成？有谁有解决办法吗，我已经重新下载了好几次了，如果这很重要的话，我运行的是 ios 15.6.1。谢谢     提交人    /u/Rj5525   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fop1f1/uyou_app_downloading_videos_stuck_on_downloading/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
