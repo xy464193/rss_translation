@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 25 Sep 2024 03:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:14:36 GMT</lastBuildDate>
+    <item>
+      <title>是不是只有我一个人觉得 iOS 18 破坏了 LiveContainer？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1foxfki/is_it_just_me_or_did_ios_18_break_livecontainer/</link>
+      <description><![CDATA[我已经使用 LiveContainer 大约 3 个月了，但是当我去刷新 Sidestore 上的所有应用程序时，它完全搞砸了 LiveContainer。我尝试重新安装，但没有成功，尝试降级 Sidestore 版本，也没有成功。此外，我甚至无法设置 jit less 证书，而这正是我一直用于 LiveContainer 的证书。在我看来，当我下载 iOS 18 时它开始出现问题，因为在此之前，它运行良好，没有任何问题。    提交人    /u/bananaboi123lol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1foxfki/is_it_just_me_or_did_ios_18_break_livecontainer/</guid>
+      <pubDate>Wed, 25 Sep 2024 05:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有最近的 MyFitnessPal Premium IPA 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fov8ln/anyone_have_a_recent_myfitnesspal_premium_ipa/</link>
+      <description><![CDATA[寻找 MyFitnessPal/MyFitnessPal++ 的修改版本。我能找到的所有版本都很旧，如果可能的话，寻找更新的版本。     由   提交  /u/michaelsp9   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fov8ln/anyone_have_a_recent_myfitnesspal_premium_ipa/</guid>
+      <pubDate>Wed, 25 Sep 2024 03:30:47 GMT</pubDate>
+    </item>
     <item>
       <title>获取单独设备和 Apple ID 以使用我的开发者帐户进行侧载的提示或指南</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1foty8d/tips_or_guide_to_get_a_separate_device_and_apple/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[第一次我的应用程序停止工作时，他们发了一封电子邮件说我的证书已被吊销，并要求重新安装所有应用程序。很简单，对吧？没问题。几天后，我的应用程序又无法正常工作，我只需重新下载 signulous 并花一点时间重新安装所有内容，但几天后一切又再次发生。我甚至最近两次收到电子邮件，我对每隔几天这样做不感兴趣，所以除非有人有任何建议，否则我可能会放弃 signulous。    提交人    /u/OpGotReddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1foeew4/3rd_time_signulous_has_stopped_working_in_a_week/</guid>
       <pubDate>Tue, 24 Sep 2024 14:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线签名</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1foe4do/esign_online/</link>
-      <description><![CDATA[esign online 和 esign 有什么区别 https://x.com/esignpatch/status/1838488092778598856?s=46    submitted by    /u/Agile_Floor_2045   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1foe4do/esign_online/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube 侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fod2d8/youtube_side_loading/</link>
-      <description><![CDATA[我尝试从许多不同的存储库下载许多 youtube plus 应用程序，但似乎都没有下载，任何帮助都会很棒    提交人    /u/thedankmemelord69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fod2d8/youtube_side_loading/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:54:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
