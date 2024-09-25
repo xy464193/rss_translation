@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Sep 2024 21:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:46:43 GMT</lastBuildDate>
+    <item>
+      <title>关于 Live Container 和网站的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1foqs15/question_about_live_container_and_a_site/</link>
+      <description><![CDATA[有人能解释一下“Live Container”应用程序（ipa？）是如何工作的吗？ 在 cypwn ipa 上，它只是说“运行应用程序而不安装”。但是它如何处理应用程序 ID？ 还想知道 Cypwn 是否值得信赖。仍在尝试弄清楚 Sideloading。 如果这里不允许发帖，我很抱歉。不确定在哪里发布这个特定的问题。    提交人    /u/CurrentRisk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1foqs15/question_about_live_container_and_a_site/</guid>
+      <pubDate>Tue, 24 Sep 2024 23:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Altstore 进行侧载时遇到问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fopk1o/trouble_sideloading_with_altstore/</link>
+      <description><![CDATA[大家好，我有一些侧载经验，但最近遇到了麻烦。由于我不喜欢添加，因此使用 Altstore Beta/Dev 帐户侧载大型调整应用程序，例如 YTLitePlus、Instagram Regram、Apollo、BHTiktok 等。但是，即使我使用的是有线 USB-C 电缆，我也遇到了问题，在 Altstore 提示我批准应用程序侧载权限后，它说与 Altstore 的连接已丢失。另一个问题是，有时，侧载其中一个应用程序需要很长时间，最终会失败。 有人找到这个的确切原因吗？我在 Windows 11 上的 iCloud/iTunes 上是最新的 -iPhone 16 Pro Max 18.1 Beta 5 -正品 USB-C 线缆/硬连线 -iCloud 已更新 -高级数据保护已关闭 任何提示或技巧都值得赞赏。谢谢！    提交人    /u/codedapple   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fopk1o/trouble_sideloading_with_altstore/</guid>
+      <pubDate>Tue, 24 Sep 2024 22:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uyou+ 应用程序正在下载视频 - 卡在下载中</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fop1f1/uyou_app_downloading_videos_stuck_on_downloading/</link>
+      <description><![CDATA[大家好，有谁在下载 uyou+ 视频时遇到过问题吗？视频和音频都下载到了 100%，但一直说正在下载，没有完成？有谁有解决办法吗，我已经重新下载了好几次了，如果这很重要的话，我运行的是 ios 15.6.1。谢谢     提交人    /u/Rj5525   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fop1f1/uyou_app_downloading_videos_stuck_on_downloading/</guid>
+      <pubDate>Tue, 24 Sep 2024 22:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有更新的 fallguys 版本吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fonxo7/does_anyone_have_the_updated_fallguys_version/</link>
+      <description><![CDATA[我一直在寻找更新的版本，但我找不到任何地方，如果您能给我发送一个链接，那么欧盟启用器在我的设备上运行不正常，因为我出于某种原因降级到了 ios 17，所以我想我不会以这种方式得到 fall guys。    提交人    /u/PRIK09   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fonxo7/does_anyone_have_the_updated_fallguys_version/</guid>
+      <pubDate>Tue, 24 Sep 2024 21:28:46 GMT</pubDate>
+    </item>
     <item>
       <title>使用 SideJITServer 时遇到问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fomb9x/trouble_using_sidejitserver/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好。我是侧载的新手。自从 Swaggy 的 repo 关闭以来，我发现很难找到 IPA。我遇到了 Apptesters Repo https://github.com/apptesters-org/Repo/releases/ 并找到了一些有用的 IPA，但每次我在 Sideloadly 上侧载时，我都会收到警告/错误消息。 有人知道如何度过这个阶段吗？这相当烦人，这几乎是我能找到最新版本的 Regram 的唯一网站。 任何帮助都将不胜感激。提前致谢。    提交人    /u/simdog8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fo9qig/unable_to_sideload_ipas_from_apptesters_repo/</guid>
       <pubDate>Tue, 24 Sep 2024 11:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新设计 Sierra/ithunder</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fo8v8l/redesigning_sierraithunder/</link>
-      <description><![CDATA[我想将 Sierra App 上的图片换成我自己的，该怎么做？    提交人    /u/Last-Ad-2006   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fo8v8l/redesigning_sierraithunder/</guid>
-      <pubDate>Tue, 24 Sep 2024 10:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个好的reddit ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fo8reb/a_good_reddit_ipa/</link>
-      <description><![CDATA[过去几天，我发现我的官方 reddit 账户打开帖子和探索其他社区的时间越来越长，它变得很卡，有时当我不小心打开它们时，应用程序会崩溃。我搜索了一些好的替代 ipa，但都没有用，它们都崩溃了。所以请有人帮我找一个可以正常工作的无广告 reddit 客户端。谢谢    提交人    /u/fololologrt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fo8reb/a_good_reddit_ipa/</guid>
-      <pubDate>Tue, 24 Sep 2024 09:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何强制出现开发者模式？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fo8big/how_to_force_developer_mode_appearing/</link>
-      <description><![CDATA[iOS 18 - iPhone 16 有没有办法在没有 Mac 的情况下强制切换开发者模式？ 通过 Signulous 安装了 2 个应用程序，一个应用程序运行正常。另一个应用程序打开并在 30 秒后强制关闭。根据我在 16 Pro 上的经验，我知道强制关闭是由于开发者模式造成的。  有没有办法强制提示开发者模式以便我可以启用它？ 它没有出现在“安全和隐私”选项中。     提交人    /u/MS814   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fo8big/how_to_force_developer_mode_appearing/</guid>
-      <pubDate>Tue, 24 Sep 2024 09:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从哪里获取 ipa 文件以进行侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fo6zjj/where_do_i_get_ipa_files_to_sideload/</link>
-      <description><![CDATA[因为我刚刚开始使用 Sideloading！    提交者    /u/CooledDrop   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fo6zjj/where_do_i_get_ipa_files_to_sideload/</guid>
-      <pubDate>Tue, 24 Sep 2024 07:38:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
