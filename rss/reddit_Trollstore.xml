@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:18:42 GMT</lastBuildDate>
+    <item>
+      <title>帮助解决 Mikasa 在 Apple TV 上崩溃的问题</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fprlpa/help_with_mikasa_crashing_on_apple_tv/</link>
+      <description><![CDATA[有人能帮我让 Mikasa 在 Apple TV 上运行吗？ 我有一台 15.3 版的 Apple TV HD。我已经安装了 Trollstore。为了安装它，我使用 Sideloadly 安装了 Mikasa 5.3。一切顺利（Mikasa 可以正常打开）。我删除了 Mikasa 5.3 的 Sideloadly 版本，以便使用 Trollstore 安装它（这是我遵循的指南所说的操作）。但现在当我启动 Mikasa 时，它崩溃了。有人能帮我让 Mikasa 使用 Trollstore 运行吗？使用 Trollstore 崩溃的版本也是 Mikasa 5.3。 我想要它，这样我就可以阻止 OTA。显然，使用 Sideloadly 版本时，您必须每 7 天重新安装一次（这有点违背了安装 Trollstore 的目的，我安装 Trollstore 是为了避免每 7 天重新安装应用程序）。 如能得到任何帮助，我们将不胜感激。    提交人    /u/HawkEyes984   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fprlpa/help_with_mikasa_crashing_on_apple_tv/</guid>
+      <pubDate>Thu, 26 Sep 2024 08:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>不通过越狱应用程序链接安装 trolliistaller，还有其他可用的链接吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fpocv4/não_instala_o_trolliistaller_pelo_link_jailbreakk/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ip8plus ios 14.5，当我重启手机时，trollstore 无法打开，在 trollstore 助手的帮助下，当我刷新应用程序注册后，它又开始工作了，但是当我再次重启手机时 📱 trollstore 无法打开，过程是一样的。请问我该怎么办，需要你的帮助和指导，谢谢🙏。    提交人    /u/Edward-fuse   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fm2lwo/trollstore_problem/</guid>
       <pubDate>Sat, 21 Sep 2024 13:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法从 WhatsApp (watusi) 恢复备份</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fm14jl/cant_restore_back_up_from_whatsapp_watusi/</link>
-      <description><![CDATA[嘿伙计们，我希望你们都很好，几个月前我真的很沮丧，我在同一台设备上将我的旧号码备份到了新号码，现在我错误地删除了 whatsapp，每当我尝试重新安装它时，都没有恢复选项，它说“未找到备份”，我确信我之前备份过，但是我使用 Watusi 进行 trollstore，它曾经在没有备份的情况下安装，我总是强制安装它，它与相同的聊天一起安装 如果以前有人遇到过同样的问题，请帮帮我    提交人    /u/thefukkinangel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fm14jl/cant_restore_back_up_from_whatsapp_watusi/</guid>
-      <pubDate>Sat, 21 Sep 2024 11:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
