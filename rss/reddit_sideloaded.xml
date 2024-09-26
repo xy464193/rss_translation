@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 18:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:08:33 GMT</lastBuildDate>
+    <item>
+      <title>如果 scarlet 说应用程序不再可用且我无法打开它，我该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq6ekf/what_do_i_do_if_scarlet_says_app_is_not_available/</link>
+      <description><![CDATA[帮助    由   提交  /u/Jim_boss_13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq6ekf/what_do_i_do_if_scarlet_says_app_is_not_available/</guid>
+      <pubDate>Thu, 26 Sep 2024 20:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用开发者账户登录设备</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq665q/how_to_sign_on_device_with_dev_account/</link>
+      <description><![CDATA[大家好，在厌倦了 signulous revokes 等之后，我已经去注册了一个开发账户。 有没有什么应用可以用来签署应用并使用我的开发账户安装在设备上？用户界面也很好？我喜欢 sidestore，但它总是说无法连接到 WiFi 或 vpn，即使我使用 WireGuard，但显然我现在有了开发账户就不需要这个技巧了，但是有没有类似的应用可以用开发账户登录设备？谢谢    提交人    /u/Fluffybunnyabc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq665q/how_to_sign_on_device_with_dev_account/</guid>
+      <pubDate>Thu, 26 Sep 2024 20:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用第三方应用程序在 iOS 18 上录制通话</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq5a9y/how_to_record_calls_on_ios_18_using_a_third_party/</link>
+      <description><![CDATA[我正在寻找一个可以在 iPhone 上录制通话的应用程序，但似乎找不到一个可以正常工作的应用程序    提交人    /u/Shoddy-Brief-1859   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq5a9y/how_to_record_calls_on_ios_18_using_a_third_party/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>终极 YouTube Music 音乐下载错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq4bh4/ultimate_youtube_music_music_download_error/</link>
+      <description><![CDATA[我无法使用 Ultimate YouTube Music 下载内容。我可以看到下载按钮，但无法下载内容。有什么办法可以解决这个问题吗？    提交人    /u/Latter_Cranberry_104   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq4bh4/ultimate_youtube_music_music_download_error/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>iCloud/UDID 永久封禁？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq4b8v/icloud_udid_permanent_ban/</link>
+      <description><![CDATA[嗨，我是新手， 我愿意在 maplesign/signoulus 上购买证书，但我有一个很大的担忧： 苹果会封禁我的 iCloud 账户吗？或者 UDID 会被永久封禁吗（30 天以上）？ 谢谢    提交人    /u/Klutzy-Tadpole-366   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq4b8v/icloud_udid_permanent_ban/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:12:33 GMT</pubDate>
+    </item>
     <item>
       <title>Scarlet（spotify）无法与 IOS 18 兼容？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fq2p27/scarlet_spotify_is_not_working_with_ios_18/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[      我最近又在这里发帖了，现在我启用了开发模式，但我仍然找不到信任证书的选项，有人能帮帮我吗？    由    /u/LunaticOnPixiv  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fpxzmo/cant_trust_certificates_on_ipad_os_180stable/</guid>
       <pubDate>Thu, 26 Sep 2024 14:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify IPA 帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpx35x/spotify_ipas_help/</link>
-      <description><![CDATA[因此，我对侧载功能还比较陌生，然后我遇到了 sideloadly 和 eveespotify。 我下载了它，并认为它会具有下载歌曲功能，但实际上没有。 我似乎找不到任何具有离线流媒体功能的 spotify ipa。 有谁知道其他具有此功能的替代品或其他 IPA 吗？    提交人    /u/Low_Influence_4196   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpx35x/spotify_ipas_help/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpws9l/problem_with_whatsapp/</link>
-      <description><![CDATA[从昨天开始，我的 WhatsApp 突然停止接收通知。我通过 Fouad Raheb 在 troll store 侧载中安装了 watusi。很长一段时间内一切都很好，但突然我不知道昨天发生了什么。我收到通知的唯一方法是让 WhatsApp 在后台运行并且永远不要关闭它。如果我关闭它，它们只会在我再次打开应用程序时显示，而且任何给我发送消息的人都会显示为一个复选标记，即使我的互联网工作正常。有人能帮我吗？我试过重启手机，但什么都没有。提前谢谢。    提交人    /u/JessyWolf100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpws9l/problem_with_whatsapp/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序数据库</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpvcr0/appdb/</link>
-      <description><![CDATA[嗨，我安装了 appdb，当我尝试下载某些内容时，它提示要将应用程序安装到此设备，您需要配置应用程序安装方法    提交人    /u/msiquu   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpvcr0/appdb/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 尽快提供帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpv9gs/spotify_help_asap/</link>
-      <description><![CDATA[Spotify 一直崩溃。就像，每个 IPA 都崩溃一样。Spotilife 无法工作，Eevee 无法工作，++ 无法工作，我使用的 IPA 都无法工作。为什么？有人可以发送详细的修复程序吗？ 我尝试查找的旧论坛都无法工作，我真的认为我是第一个遇到此问题的人。不幸的是，这不在机械工程中，所以我在这里完全无助    提交人    /u/JeirenJns   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpv9gs/spotify_help_asap/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想卸载 Flexstore！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fptl1a/i_want_to_uninstall_flekstore/</link>
-      <description><![CDATA[如何在 iPhone 14 上的 iOS 18 上卸载 flekstore。有很多视频说我可以在设置中访问配置文件，但在 iOS 18 中，我无法访问这些视频中显示的配置文件，请帮助我！    提交人    /u/Dr_strange-2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fptl1a/i_want_to_uninstall_flekstore/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:09:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
