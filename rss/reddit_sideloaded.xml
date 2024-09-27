@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 21:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 00:47:39 GMT</lastBuildDate>
+    <item>
+      <title>没有苹果开发者账户的情况下如何侧载 YouTube 音乐？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fqbi43/how_can_i_sideload_youtube_music_without_an_apple/</link>
+      <description><![CDATA[为此苦苦挣扎了一分钟。     由   提交  /u/unrealgfx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fqbi43/how_can_i_sideload_youtube_music_without_an_apple/</guid>
+      <pubDate>Fri, 27 Sep 2024 00:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要什么才能进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fqana5/what_do_i_need_for_sideloading/</link>
+      <description><![CDATA[我正在考虑获取 signulous，还有什么我应该获取的吗？我看到有人在谈论 UDID 注册，我需要它吗？    提交人    /u/Sensitive_Depth_8216   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fqana5/what_do_i_need_for_sideloading/</guid>
+      <pubDate>Thu, 26 Sep 2024 23:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Scarlet 无法在 IOS 18.1 Beta 5 上运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq9830/why_scarlet_isnt_working_on_ios_181_beta_5/</link>
+      <description><![CDATA[所以我有一部 iPhone 15，我一直在使用 scarlet 下载我的应用程序等，但现在它似乎不想下载或工作了，还有其他选择或其他解决方案吗？我应该说再次下载我被黑客入侵/调整过的应用程序吗？有效吗？     提交人    /u/Scammers_R_Us   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq9830/why_scarlet_isnt_working_on_ios_181_beta_5/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红不撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq8i97/scarlet_no_revoke/</link>
+      <description><![CDATA[从我的笔记本电脑安装会导致它无法被撤销吗？另外，你需要每 7 天重新安装一次吗？    由   提交  /u/Ill_Republic_7283   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq8i97/scarlet_no_revoke/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>证书吊销后我需要重新安装所有应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq89nx/do_i_need_to_reinstall_all_apps_after_revoked/</link>
+      <description><![CDATA[我使用的证书已被撤销，我设法使用其他证书安装了 ESign。我需要逐个重新安装所有应用程序吗？    提交人    /u/alpacanightmares   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq89nx/do_i_need_to_reinstall_all_apps_after_revoked/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于从 iOS17 Trollstore 转到 iOS18 开发者认证的想法？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fq7yll/thoughts_on_going_from_ios17_trollstore_to_ios18/</link>
+      <description><![CDATA[目前有 iOS 17.0 Trollstore，主要使用 uYou、Whatsapp 和 Apollo。我打算很快更新到 iOS 18，想知道使用 Apple 的付费开发者证书进行侧载是否会损失任何东西（除了现金）？我对 whatsapp 的通知是否有效感到困惑。我不介意每年支付 99 美元，更担心我会失去任何功能。    提交人    /u/nyknicks8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fq7yll/thoughts_on_going_from_ios17_trollstore_to_ios18/</guid>
+      <pubDate>Thu, 26 Sep 2024 21:48:49 GMT</pubDate>
+    </item>
     <item>
       <title>如果 scarlet 说应用程序不再可用且我无法打开它，我该怎么办？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fq6ekf/what_do_i_do_if_scarlet_says_app_is_not_available/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[所以前段时间我下载了 YOUTUBE oled ipa，因为 uyou+ 或 YTlite+ 对我来说不够用，整个 UI 和设置对于 youtube oled 来说都非常好，我遇到的唯一问题是我没有收到任何通知.. 这与我用来侧载（sideloadly）的软件有关还是与 ipa 本身有关？因为我确实在之前使用的 ipa 上收到了通知，但我不知道它是什么版本，所以如果能帮助我将不胜感激！谢谢！！    提交人    /u/StormShadow004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fq0py8/help_needed_choosing_the_best_youtube_ipa/</guid>
       <pubDate>Thu, 26 Sep 2024 16:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazing Slow Downer 或类似产品</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fq05wh/amazing_slow_downer_or_anything_similar/</link>
-      <description><![CDATA[有人知道这个应用程序是否有破解版下载吗？或者有没有类似的东西？该应用程序允许您减慢音频速度而不会产生失真。    提交人    /u/Goofhey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fq05wh/amazing_slow_downer_or_anything_similar/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有普通的 Snapchat 和 TikTok ipa 文件吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpzsui/anyone_have_just_a_regular_snapchat_and_tiktok/</link>
-      <description><![CDATA[我父母花了很多时间在我的手机上，我使用侧载来解决这个问题    提交人    /u/sheepsquad343   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpzsui/anyone_have_just_a_regular_snapchat_and_tiktok/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>哥们，我刚刚把手机恢复出厂设置了 12 次</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpzfjl/dude_what_the_heck_i_just_factory_reset_my_phone/</link>
-      <description><![CDATA[        提交人    /u/Illustrious-Bug-614   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpzfjl/dude_what_the_heck_i_just_factory_reset_my_phone/</guid>
-      <pubDate>Thu, 26 Sep 2024 15:48:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何启用开发者模式 IOS 17/18 Windows、MacOS（需要 PC）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpy7wr/how_to_enable_developer_mode_ios_1718_windows/</link>
-      <description><![CDATA[我最近在启用开发模式时遇到了问题，我找到了一个只花了 5 分钟的解决方案，我只是想与大家分享它。您只需搜索应用程序 tenorshare iCareFone 安装它，然后将您的设备连接到电脑，打开应用程序并单击其他选项，您将找到一个显示开发者模式的选项，您只需运行该选项，大约 5 秒钟后它会显示一条消息，提示现在显示开发者模式（或类似内容），然后您进入设备设置&gt;隐私和安全并启用开发模式应该在某个地方，然后启用它&gt;重新启动并启用，如果您以某种方式设法搞砸了它并且不启用它（就像我做的那样），开发模式切换将隐藏，您必须重新执行该过程（您可能需要在您的电脑上安装 iTunes，如果它不起作用，请先安装 iTunes 并确保您使用数据线）    提交人    /u/LunaticOnPixiv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpy7wr/how_to_enable_developer_mode_ios_1718_windows/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLite 谷歌无法确认该应用是否安全</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpy5dr/ytlite_google_cant_confirm_this_app_is_safe/</link>
-      <description><![CDATA[我正在帮助一个朋友侧载，我从 dayanch96 获得了最新的 YTLite 和最新的 YouTube 解密 IPA 并构建了它 当我使用我的 Apple ID 签名应用程序时，登录 YouTube 没有问题，但是当他使用他的 Apple ID 签名并尝试登录他的帐户时，它说 Google 无法确认这个应用程序是否安全。 使用 sideloadly    提交人    /u/djquik1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpy5dr/ytlite_google_cant_confirm_this_app_is_safe/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法信任 iPad OS 18.0（稳定版本）上的证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fpxzmo/cant_trust_certificates_on_ipad_os_180stable/</link>
-      <description><![CDATA[      我最近又在这里发帖了，现在我启用了开发模式，但我仍然找不到信任证书的选项，有人能帮帮我吗？    由    /u/LunaticOnPixiv  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fpxzmo/cant_trust_certificates_on_ipad_os_180stable/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:48:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
