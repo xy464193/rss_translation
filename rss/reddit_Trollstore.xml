@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
-    <description>TrollStore 是永久签名的 iPA 安装程序</description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:13:32 GMT</lastBuildDate>
+    <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
+    <lastBuildDate>Fri, 27 Sep 2024 21:08:55 GMT</lastBuildDate>
     <item>
       <title>trollstore ios 17.0.2</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fqq89m/trollstore_ios_1702/</link>
@@ -15,16 +15,9 @@
     <item>
       <title>我可以在 ios 17.5.1 上安装 trollstore 吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fqmodh/can_i_install_trollstore_on_ios_1751/</link>
-      <description><![CDATA[.    由    /u/HOgames 提交   [链接] [评论]]]></description>
+      <description><![CDATA[.    由    /u/HOgames  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fqmodh/can_i_install_trollstore_on_ios_1751/</guid>
       <pubDate>Fri, 27 Sep 2024 12:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat 问题</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fqeh4a/snapchat_question/</link>
-      <description><![CDATA[所以我的设备在 Snapchat 上被禁止了，但我的帐户没有被禁止，这是什么意思呢    提交人    /u/FunFaithlessness4943   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fqeh4a/snapchat_question/</guid>
-      <pubDate>Fri, 27 Sep 2024 03:18:53 GMT</pubDate>
     </item>
     <item>
       <title>帮助解决 Mikasa 在 Apple TV 上崩溃的问题</title>
@@ -71,7 +64,7 @@
     <item>
       <title>通过 TrollStore 安装的应用程序在七天没有互联网的情况下还能运行吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fogozn/will_apps_installed_with_trollstore_work_after/</link>
-      <description><![CDATA[大家好，我知道通过 TrollStore 安装的应用程序在七天后仍可继续工作。我只想澄清一些事情。如果超过七天没有互联网，我还可以使用通过 Trollstore 安装的应用程序吗？ 我之所以问这个问题，是因为我怀疑这些应用程序在七天后仍在工作，只是因为 Trollstore 会自动刷新它们，而这需要互联网。有人能帮我澄清一下吗？    提交人    /u/younamoe   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我知道通过 TrollStore 安装的应用程序在七天后仍可继续工作。我只想澄清一些事情。如果超过七天没有互联网，我还可以使用通过 Trollstore 安装的应用程序吗？ 我之所以问这个问题，是因为我怀疑这些应用程序在七天后仍在运行，只是因为 Trollstore 会自动刷新它们，而这需要互联网。有人能帮我澄清一下吗？    提交人    /u/younamoe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fogozn/will_apps_installed_with_trollstore_work_after/</guid>
       <pubDate>Tue, 24 Sep 2024 16:28:21 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[破解/JB/TrollStore 方面相对新手，我想要一个位置 GPS 欺骗器。我听说有付费证书？我可以在哪里购买一年并将其安装在手机上？有什么想法吗？我刚刚从 16.6 版的 iPhone 13 PM 升级到 iPhone 16 Plus 18.0    提交人    /u/jbowcoo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fmurcr/locsim_ios_18_or_alternative/</guid>
       <pubDate>Sun, 22 Sep 2024 14:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法更改键盘或语言设置</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fmolpp/cant_change_keyboard_or_language_settings/</link>
+      <description><![CDATA[您好，我已经安装了 Trollstore、Misaka 和 Cowabunga，现在我无法更改手机语言或键盘语言。由于我不确定这 3 个应用程序中的哪一个可能导致此问题，因此我将在所有 3 个子版块中发布此问题。我希望您能提供帮助，谢谢。    提交人    /u/fattyfatlol   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fmolpp/cant_change_keyboard_or_language_settings/</guid>
+      <pubDate>Sun, 22 Sep 2024 08:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
