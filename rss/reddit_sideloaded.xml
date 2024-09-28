@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 28 Sep 2024 06:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 09:09:27 GMT</lastBuildDate>
+    <item>
+      <title>Flekstore 应用程序更新问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fr99nc/flekstore_apps_update_question/</link>
+      <description><![CDATA[我是 sideload 新手，如果我从 flekstore 下载应用程序，然后应用程序有更新，我需要删除它并重新安装吗？或者我只需要再次签名？它会替换旧应用程序吗？    提交人    /u/almog6500   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fr99nc/flekstore_apps_update_question/</guid>
+      <pubDate>Sat, 28 Sep 2024 07:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从我的主屏幕删除 AppDB 书签？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fr92wt/how_to_remove_the_appdb_bookmark_from_my/</link>
+      <description><![CDATA[      有一天，AppDB 的设备链接配置文件毫无预警地从我的设备中消失了，留下了一个无法删除的孤立书签。我已经安装并删除了配置文件几次，但还是没用。它纹丝不动。 我首先关心的主要原因是，由于某些愚蠢的原因，AppDB 网站现在总是需要链接到你的设备才能下载应用程序，而以前只需要链接即可侧载。反正我有 Trollstore，所以我不关心侧载部分。Safari 总是忘记设备链接，要“重新链接”你的设备到 AppDB 来下载应用程序，你必须使用书签。但是书签会重定向到一个不存在的旧链接，因此我需要一个新的书签，而在以某种方式删除旧书签之前这是不可能的。 我使用的是 iOS 16.4，如果情况紧急，我也有越狱。任何帮助都值得赞赏😊    提交人    /u/theoccurrence   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fr92wt/how_to_remove_the_appdb_bookmark_from_my/</guid>
+      <pubDate>Sat, 28 Sep 2024 07:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>侮辱</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fr8odb/watusi/</link>
+      <description><![CDATA[我的手机上安装了最新的 Whatsapp（来自 appstore），如果我通过 roothide bootstrap 从官方 repo 注入 watusi .deb，它会起作用吗？ 欢迎提出建议。 Ps：我不是 17.0（安装了 trollstore）    提交人    /u/XafarKhanWazir   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fr8odb/watusi/</guid>
+      <pubDate>Sat, 28 Sep 2024 07:03:47 GMT</pubDate>
+    </item>
     <item>
       <title>明显欺骗了客户</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fr7hah/signulous_cheating_its_customers/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>ios 18 上的 scarlet</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fr67wc/scarlet_on_ios_18/</link>
-      <description><![CDATA[这里还有人通过电脑方法在手机上使用 scarlet 并且运行着 ios 18 吗？体验怎么样，还能用吗？我仍在使用 ios 17.4，计划使用一段时间直到它稳定下来（希望是 18.1） 我的设备是 iphone 13，如果有帮助的话    提交人    /u/Careless-Wing3761   [link] [评论]]]></description>
+      <description><![CDATA[这里还有人通过电脑方法在手机上使用 scarlet 并且运行着 ios 18 吗？体验怎么样，还能用吗？我还在使用 ios 17.4，计划使用一段时间直到它稳定下来（希望是 18.1） 我的设备是 iphone 13，如果有帮助的话    提交人    /u/Careless-Wing3761   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fr67wc/scarlet_on_ios_18/</guid>
       <pubDate>Sat, 28 Sep 2024 04:15:53 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>苹果开发账户值得吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fr150y/apple_dev_account_worth_it/</link>
-      <description><![CDATA[所以，我一直在考虑获取一个开发者帐户，这样我就不再有 3 个应用程序的限制了。这值得吗，还是有更好的选择？    提交人    /u/HourYoung5459   [链接] [评论]]]></description>
+      <description><![CDATA[所以，我一直在考虑获取一个开发者帐户，这样我就不再受 3 个应用程序的限制了。这值得吗，还是有更好的选择？    提交人    /u/HourYoung5459   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fr150y/apple_dev_account_worth_it/</guid>
       <pubDate>Fri, 27 Sep 2024 23:30:17 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[不要从 IOSRocket 购买证书，因为他们永远不会发送它  通过您的银行退款    提交人    /u/GregWanta   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fqyc9f/iosrocket_has_exit_scammed/</guid>
       <pubDate>Fri, 27 Sep 2024 21:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>iosrocket 未确认</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fqx560/iosrocket_no_confirmation/</link>
-      <description><![CDATA[我刚刚从 IOS rocket 购买了 Ultimate Lifetime（不小心选择了隐藏电子邮件并从苹果转发，但没想到这会影响它）。 30 分钟后我还没有收到确认电子邮件。 对于那些从 IOS rocket 购买即时产品的人，花了多长时间？ 支持 whatsapp 帐户显示最后一次活动是在 26 周前。    提交人    /u/ThreeLeafed   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fqx560/iosrocket_no_confirmation/</guid>
-      <pubDate>Fri, 27 Sep 2024 20:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚支付了 signulous 费用 — “无法安装应用程序，因为我们无法验证其完整性”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fqvmcc/just_paid_for_signulous_cant_install_app_because/</link>
-      <description><![CDATA[我是新手所以请耐心等待 - 我刚刚购买了 signulous，一个小时后我才知道我的设备被列入了黑名单或类似的问题...我该如何处理？付款有什么意义？ 我尝试下载 BHTiktok++ 并看到“无法安装此应用程序，因为无法验证其完整性” 真的很令人沮丧    提交人    /u/noraelwhora   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fqvmcc/just_paid_for_signulous_cant_install_app_because/</guid>
-      <pubDate>Fri, 27 Sep 2024 19:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用经过修改的侧载 Snapchat 会导致您被禁止吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fqu09o/does_using_modded_sideloaded_snapchat_gets_you/</link>
-      <description><![CDATA[我想切换到经过修改的 Snapchat，但我担心我的帐户会被禁止    提交人    /u/Shoddy-Brief-1859   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fqu09o/does_using_modded_sideloaded_snapchat_gets_you/</guid>
-      <pubDate>Fri, 27 Sep 2024 18:03:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
