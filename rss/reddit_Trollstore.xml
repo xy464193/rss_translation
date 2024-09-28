@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 28 Sep 2024 15:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 18:11:57 GMT</lastBuildDate>
+    <item>
+      <title>Linkedin 14.8 有什么简单的解决方案吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1frk8w0/linkedin_on_148_any_easy_solution/</link>
+      <description><![CDATA[我的 xsmax 仍然在 ios14.8 上（错过了延迟升级到 16.8 或 17.0 的机会，因为当时晚上 11 点，然后晚上 11 点坏了，我不得不回到这个 xsmax）。 我退出了 jb，因为 jb 检测（尤其是银行应用程序）太苛刻了，我仍然喜欢 14.8。然而有些应用程序，确切地说是 linkedin，如果不更新就拒绝让我再使用它，而我不能这样做，因为新版本需要 ios15。 那么有没有什么简单的方法可以欺骗 linkedin 版本并使其工作？谢谢你的帮助    提交人    /u/a29psx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1frk8w0/linkedin_on_148_any_easy_solution/</guid>
+      <pubDate>Sat, 28 Sep 2024 18:04:24 GMT</pubDate>
+    </item>
     <item>
       <title>我可以从 17.6.1 iphone 13 降级到 17.0 吗！？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fremug/can_i_downgrade_to_170_from_1761_iphone_13/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>通过 TrollStore 安装的应用程序在七天没有互联网的情况下还能运行吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fogozn/will_apps_installed_with_trollstore_work_after/</link>
-      <description><![CDATA[大家好，我知道通过 TrollStore 安装的应用程序在七天后仍可继续工作。我只想澄清一些事情。如果超过七天没有互联网，我还可以使用通过 Trollstore 安装的应用程序吗？ 我之所以问这个问题，是因为我怀疑这些应用程序在七天后仍在工作，只是因为 Trollstore 会自动刷新它们，而这需要互联网。有人能帮我澄清一下吗？    提交人    /u/younamoe   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我知道通过 TrollStore 安装的应用程序在七天后仍可继续工作。我只想澄清一些事情。如果超过七天没有互联网，我还可以使用通过 Trollstore 安装的应用程序吗？ 我之所以问这个问题，是因为我怀疑这些应用程序在七天后仍在运行，只是因为 Trollstore 会自动刷新它们，而这需要互联网。有人能帮我澄清一下吗？    提交人    /u/younamoe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fogozn/will_apps_installed_with_trollstore_work_after/</guid>
       <pubDate>Tue, 24 Sep 2024 16:28:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/ProfessionalPeach661   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fo97gn/tweaks_like_this_possible_with_trollstore_170/</guid>
       <pubDate>Tue, 24 Sep 2024 10:28:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrollStore 或适用于 iOS 17.4 至 iOS 18.1 的类似应用程序，可允许在非欧盟国家/地区分发替代应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fnvd8l/trollstore_or_similar_app_for_ios_174_to_ios_181/</link>
-      <description><![CDATA[因此，替代应用程序分发允许将第三方应用程序安装到在欧盟国家销售和使用的 iPhone 上，以遵守其法律。但是，我想知道是否有可能开发这样的应用程序，将非欧盟 iPhone 欺骗为欧盟 iPhone，允许使用替代应用程序分发在全球任何国家/地区将第三方 ipas 安装到 iPhone 而不受任何到期限制？    提交人    /u/JailbreakHat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fnvd8l/trollstore_or_similar_app_for_ios_174_to_ios_181/</guid>
-      <pubDate>Mon, 23 Sep 2024 21:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
