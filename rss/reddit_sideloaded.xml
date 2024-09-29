@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 29 Sep 2024 09:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 12:16:50 GMT</lastBuildDate>
+    <item>
+      <title>舒适的域名解析</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fs28mt/khomod_dns/</link>
+      <description><![CDATA[当我使用 khomod dns 时，我的蜂窝数据停止工作，它给我一个信号，但没有互联网连接，当我停止 dns 时，它又正常工作了，有人知道为什么会这样吗？    提交人    /u/odi4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fs28mt/khomod_dns/</guid>
+      <pubDate>Sun, 29 Sep 2024 11:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PicsArt++</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fs13if/picsart/</link>
+      <description><![CDATA[大家好， 我是新手，所以有人可以给我发送一个 picsart mod 的链接并快速指导如何在我的 iOS 18 设备上安装它吗？谢谢    由   提交  /u/alsndrfzio   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fs13if/picsart/</guid>
+      <pubDate>Sun, 29 Sep 2024 10:10:15 GMT</pubDate>
+    </item>
     <item>
       <title>游戏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1frzm67/games/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以，一年多前，我在一部旧手机上使用过 signulous，然后就完全忘记了，我可能不小心把它扔进了垃圾桶。我有什么办法可以取消订阅吗？我已经联系了 pay pal，但他们支持 signulous。任何帮助都值得感激     提交人    /u/Hour_Conference_2518   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1frrqiq/signulous_subscription/</guid>
       <pubDate>Sun, 29 Sep 2024 00:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>羽毛不能完成整个工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frqm1b/feather_dont_do_the_whole_working_thing/</link>
-      <description><![CDATA[我尝试使用 feather 侧载，我签名了应用程序并安装了它，它说无法验证应用程序，我在设置中查看，并且我的开发者帐户没有显示，所以我可以批准它，你知道有什么解决办法吗    提交人    /u/Ok-Purchase7898   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frqm1b/feather_dont_do_the_whole_working_thing/</guid>
-      <pubDate>Sat, 28 Sep 2024 23:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Wire Guard 实现具有防撤销 DNS 功能的 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frqfnw/how_to_use_a_vpn_with_anti_revoke_dns_using_wire/</link>
-      <description><![CDATA[步骤 1 - 使用任何提供 Wire Guard 配置的 VPN 提供商。我将使用 Proton VPN。 免责声明： 如果您像我一样使用 proton，则需要每周进行一次新配置。另一件需要注意的事情是，它会将 DNS 请求泄漏到 VPN 隧道之外。这样您就可以两全其美。我不知道您的 VPN 提供商是否为您提供了 Wire Guard 配置，因此请事先搜索。   登录 proton VPN 或任何 VPN，并找到下载 proton 的 Wire Guard 配置文件的位置https://account.protonvpn.com/downloads。  单击要启用的选项。如果启用 Net Shield，它将无法工作，因为它依赖于 DNS 服务器，就像 Next DNS 或反撤销方法一样。 完成配置后，将其保存为二维码。使用 Wire Guard 应用程序并进行设置。https://apps.apple.com/us/app/wireguard/id1441195209 如果您使用 Kohmod DNS 或任何其他预制 DNS，则可以跳过此步骤。但对于使用 Next DNS 的人，我不会跳过它。首先在 https://my.nextdns.io/login 创建一个 Next DNS 帐户。阻止苹果域名。如果您想要广告拦截，请启用过滤器或任何您想要的选项。接下来转到连接指南并选择下载配置文件。不要信任 Next DNS Root CA。不要启用 Bootstrap IP。不要启用 Sign Configuration Profile。（如果您不想要 doh3，可以忽略此步骤。如果您编辑配置并找到 apple.dns.nextdns.io 并将其替换为 doh3.nextdns.io，如果 doh3 不可用，这将回退到 doh。） 安装 DNS 配置文件。在下一步之前，我知道人们会说，为什么不直接将配置中的 DNS 服务器更改为 Next Dns 的服务器呢？这不会加密 DNS 解析。但是如果你用这种方法，它会加密它。   第 2 步 - 进入 Wire Guard 应用程序并添加配置文件  编辑 Wire Guard 配置 转到 DNS 并删除那里的内容并输入 0.0.0.0/32  接下来删除允许的 ip 中的内容并输入 0.0.0.1/32、0.0.0.2/31、0.0.0.4/30、0.0.0.8/29、0.0.0.16/28、0.0.0.32/27、0.0.0.64/26、0.0.0.128/25、0.0.1.0/24， 0.0.2.0/23、0.0.4.0/22、0.0.8.0/21、0.0.16.0/20、0.0.32.0/19、0.0.64.0/18、0.0.128.0/17、0.1.0.0/16、0.2.0.0/15、 4、0.8.0.0/13、0.16.0.0/12、0.32.0.0/11、0.64.0.0/10、0.128.0.0/9、1.0.0.0/8、2.0.0.0/7、4.0.0.0/6、8.0.0.0/5、 32.0.0.0/3、64.0.0.0/2、128.0.0.0/1。 （这样做会使您的 Wire Guard 隧道使用下一个 DNS 配置文件或任何其他配置文件，方法是将 DNS 服务器设置为 0.0.0.0/32，这与 IPv4 的 127.0.0.1/32 不同。这允许除我们提到的地址之外的所有 ipv4 地址）CIDR 范围是通过访问 WireGuard AllowedIPs Calculator 并在该页面上将允许的 IP 设置为 0.0.0.0/0 并将不允许的 IP 设置为 0.0.0.0/32 获得的。&gt; 保存包含更改后的编辑的配置文件。 接下来检查您是否连接到通过访问 https://ip.me 来检查 VPN 是否是您的 IP。接下来，转到 https://test.nextdns.io，查看它是否显示 ok 以及 doh 或 doh3（如果您将设置更改为指向 doh3，它也可能会显示 doh3，因为 Next DNS 仅对 doh3 提供基础支持）。要查看您是否正在拦截广告，请转到 https://d3ward.github.io/toolz/adblock。  现在您应该能够将 Anti Revoke DNS 与 VPN 一起使用。您可以禁用 VPN，但仍然具有防撤销功能。另一件需要注意的事情是，Next DNS 仅允许 300k DNS 查询，因此请记住这一点。此外，如果您想要多个 VPN 服务器，则必须对所需的每个服务器执行此操作。有任何疑问都可以随时问我。    提交人    /u/AsleepAd9208   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frqfnw/how_to_use_a_vpn_with_anti_revoke_dns_using_wire/</guid>
-      <pubDate>Sat, 28 Sep 2024 22:57:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
