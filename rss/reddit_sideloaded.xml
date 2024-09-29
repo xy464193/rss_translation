@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 29 Sep 2024 06:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 09:10:46 GMT</lastBuildDate>
+    <item>
+      <title>游戏</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1frzm67/games/</link>
+      <description><![CDATA[有人能推荐一个应用市场或者其他可以在 iOS 上下载破解游戏的地方吗？我有 iOS 17.7，想要一些破解的游戏。我在欧盟     提交人    /u/A_PUNISHER_R   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1frzm67/games/</guid>
+      <pubDate>Sun, 29 Sep 2024 08:17:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fryqeh/_/</link>
+      <description><![CDATA[有免费的羽毛标志证书吗     提交人    /u/Single-Afternoon-105   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fryqeh/_/</guid>
+      <pubDate>Sun, 29 Sep 2024 07:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Altstore 错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fryfcl/altstore_error/</link>
+      <description><![CDATA[      我在运行 iOS 18 的 iPad 上侧载了 altstore，但是当我打开 altstore 时，它​​说无法写入文件或其他东西？我将附上错误消息的屏幕截图，有人可以告诉我如何解决这个问题吗？ https://preview.redd.it/z19q368v3prd1.png?width=2160&amp;format=png&amp;auto=webp&amp;s=850f94595f674bc21f0b76071859cd339ba2a603    提交人    /u/Kaitowut   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fryfcl/altstore_error/</guid>
+      <pubDate>Sun, 29 Sep 2024 06:50:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>8球台球</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fry803/8_ball_pool/</link>
+      <description><![CDATA[是否有 8 ball pool ipa，因为 App Store 版本在 iOS 17.4 上不断崩溃    提交人    /u/LuckyCryptographer75   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fry803/8_ball_pool/</guid>
+      <pubDate>Sun, 29 Sep 2024 06:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1frx53w/spotify/</link>
@@ -71,44 +99,16 @@
     <item>
       <title>羽毛不能完成整个工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1frqm1b/feather_dont_do_the_whole_working_thing/</link>
-      <description><![CDATA[我尝试使用 feather 侧载，我签名了应用程序并安装了它，它说无法验证应用程序，我在设置中查看，并且我没有显示开发者帐户，所以我可以批准它，你知道有什么解决办法吗    提交人    /u/Ok-Purchase7898   [link] [评论]]]></description>
+      <description><![CDATA[我尝试使用 feather 侧载，我签名了应用程序并安装了它，它说无法验证应用程序，我在设置中查看，并且我的开发者帐户没有显示，所以我可以批准它，你知道有什么解决办法吗    提交人    /u/Ok-Purchase7898   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1frqm1b/feather_dont_do_the_whole_working_thing/</guid>
       <pubDate>Sat, 28 Sep 2024 23:06:24 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 Wire Guard 实现具有防撤销 DNS 功能的 VPN</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1frqfnw/how_to_use_a_vpn_with_anti_revoke_dns_using_wire/</link>
-      <description><![CDATA[步骤 1 - 使用任何提供 Wire Guard 配置的 VPN 提供商。我将使用 Proton VPN。 免责声明： 如果您像我一样使用 proton，则需要每周进行一次新配置。另一件需要注意的事情是，它会将 DNS 请求泄漏到 VPN 隧道之外。这样您就可以两全其美。我不知道您的 VPN 提供商是否为您提供了 Wire Guard 配置，因此请事先搜索。   登录 proton VPN 或任何 VPN，并找到下载 proton 的 Wire Guard 配置文件的位置https://account.protonvpn.com/downloads。  单击要启用的选项。如果启用 Net Shield，它将无法工作，因为它依赖于 DNS 服务器，就像 Next DNS 或反撤销方法一样。 完成配置后，将其保存为二维码。使用 Wire Guard 应用程序并进行设置。https://apps.apple.com/us/app/wireguard/id1441195209 如果您使用 Kohmod DNS 或任何其他预制 DNS，则可以跳过此步骤。但对于使用 Next DNS 的人，我不会跳过它。首先在 https://my.nextdns.io/login 创建一个 Next DNS 帐户。阻止苹果域名。如果您想要广告拦截，请启用过滤器或任何您想要的选项。接下来转到连接指南并选择下载配置文件。不要信任 Next DNS Root CA。不要启用 Bootstrap IP。不要启用 Sign Configuration Profile。（如果您不想要 doh3，可以忽略此步骤。如果您编辑配置并找到 apple.dns.nextdns.io 并将其替换为 doh3.nextdns.io，如果 doh3 不可用，这将回退到 doh。） 安装 DNS 配置文件。在下一步之前，我知道人们会说，为什么不将配置中的 DNS 服务器更改为 Next Dns 的服务器。这将不加密 DNS 解析。但是如果你用这种方法，它会加密它。   第 2 步 - 进入 Wire Guard 应用程序并添加配置文件  编辑 Wire Guard 配置 转到 DNS 并删除那里的内容并输入 0.0.0.0/32  接下来删除允许的 ip 中的内容并输入 0.0.0.1/32、0.0.0.2/31、0.0.0.4/30、0.0.0.8/29、0.0.0.16/28、0.0.0.32/27、0.0.0.64/26、0.0.0.128/25、0.0.1.0/24， 0.0.2.0/23、0.0.4.0/22、0.0.8.0/21、0.0.16.0/20、0.0.32.0/19、0.0.64.0/18、0.0.128.0/17、0.1.0.0/16、0.2.0.0/15、 4、0.8.0.0/13、0.16.0.0/12、0.32.0.0/11、0.64.0.0/10、0.128.0.0/9、1.0.0.0/8、2.0.0.0/7、4.0.0.0/6、8.0.0.0/5、 32.0.0.0/3、64.0.0.0/2、128.0.0.0/1。 （这样做会使您的 Wire Guard 隧道使用下一个 DNS 配置文件或任何其他配置文件，方法是将 DNS 服务器设置为 0.0.0.0/32，这与 IPv4 的 127.0.0.1/32 不同。这允许除我们提到的地址之外的所有 ipv4 地址）CIDR 范围是通过访问 WireGuard AllowedIPs Calculator 并在该页面上将允许的 IP 设置为 0.0.0.0/0 并将不允许的 IP 设置为 0.0.0.0/32 获得的&gt; 保存包含更改后的编辑的配置文件。 接下来检查您是否连接到通过访问 https://ip.me 来检查 VPN 是否是您的 IP。接下来，访问 https://test.nextdns.io，查看是否显示 ok 以及 doh 或 doh3（如果您将设置更改为指向 doh3，它也可能会显示 doh3，因为 Next DNS 仅对 doh3 提供基础支持）。要查看您是否正在拦截广告，请转到 https://d3ward.github.io/toolz/adblock。  现在您应该能够将 Anti Revoke DNS 与 VPN 一起使用。您可以禁用 VPN，但仍然具有防撤销功能。另一件需要注意的事情是，Next DNS 仅允许 300k DNS 查询，因此请记住这一点。此外，如果您想要多个 VPN 服务器，则必须对所需的每个服务器执行此操作。有任何疑问都可以随时问我。    提交人    /u/AsleepAd9208   [链接] [评论]]]></description>
+      <description><![CDATA[步骤 1 - 使用任何提供 Wire Guard 配置的 VPN 提供商。我将使用 Proton VPN。 免责声明： 如果您像我一样使用 proton，则需要每周进行一次新配置。另一件需要注意的事情是，它会将 DNS 请求泄漏到 VPN 隧道之外。这样您就可以两全其美。我不知道您的 VPN 提供商是否为您提供了 Wire Guard 配置，因此请事先搜索。   登录 proton VPN 或任何 VPN，并找到下载 proton 的 Wire Guard 配置文件的位置https://account.protonvpn.com/downloads。  单击要启用的选项。如果启用 Net Shield，它将无法工作，因为它依赖于 DNS 服务器，就像 Next DNS 或反撤销方法一样。 完成配置后，将其保存为二维码。使用 Wire Guard 应用程序并进行设置。https://apps.apple.com/us/app/wireguard/id1441195209 如果您使用 Kohmod DNS 或任何其他预制 DNS，则可以跳过此步骤。但对于使用 Next DNS 的人，我不会跳过它。首先在 https://my.nextdns.io/login 创建一个 Next DNS 帐户。阻止苹果域名。如果您想要广告拦截，请启用过滤器或任何您想要的选项。接下来转到连接指南并选择下载配置文件。不要信任 Next DNS Root CA。不要启用 Bootstrap IP。不要启用 Sign Configuration Profile。（如果您不想要 doh3，可以忽略此步骤。如果您编辑配置并找到 apple.dns.nextdns.io 并将其替换为 doh3.nextdns.io，如果 doh3 不可用，这将回退到 doh。） 安装 DNS 配置文件。在下一步之前，我知道人们会说，为什么不直接将配置中的 DNS 服务器更改为 Next Dns 的服务器呢？这不会加密 DNS 解析。但是如果你用这种方法，它会加密它。   第 2 步 - 进入 Wire Guard 应用程序并添加配置文件  编辑 Wire Guard 配置 转到 DNS 并删除那里的内容并输入 0.0.0.0/32  接下来删除允许的 ip 中的内容并输入 0.0.0.1/32、0.0.0.2/31、0.0.0.4/30、0.0.0.8/29、0.0.0.16/28、0.0.0.32/27、0.0.0.64/26、0.0.0.128/25、0.0.1.0/24， 0.0.2.0/23、0.0.4.0/22、0.0.8.0/21、0.0.16.0/20、0.0.32.0/19、0.0.64.0/18、0.0.128.0/17、0.1.0.0/16、0.2.0.0/15、 4、0.8.0.0/13、0.16.0.0/12、0.32.0.0/11、0.64.0.0/10、0.128.0.0/9、1.0.0.0/8、2.0.0.0/7、4.0.0.0/6、8.0.0.0/5、 32.0.0.0/3、64.0.0.0/2、128.0.0.0/1。 （这样做会使您的 Wire Guard 隧道使用下一个 DNS 配置文件或任何其他配置文件，方法是将 DNS 服务器设置为 0.0.0.0/32，这与 IPv4 的 127.0.0.1/32 不同。这允许除我们提到的地址之外的所有 ipv4 地址）CIDR 范围是通过访问 WireGuard AllowedIPs Calculator 并在该页面上将允许的 IP 设置为 0.0.0.0/0 并将不允许的 IP 设置为 0.0.0.0/32 获得的。&gt; 保存包含更改后的编辑的配置文件。 接下来检查您是否连接到通过访问 https://ip.me 来检查 VPN 是否是您的 IP。接下来，转到 https://test.nextdns.io，查看它是否显示 ok 以及 doh 或 doh3（如果您将设置更改为指向 doh3，它也可能会显示 doh3，因为 Next DNS 仅对 doh3 提供基础支持）。要查看您是否正在拦截广告，请转到 https://d3ward.github.io/toolz/adblock。  现在您应该能够将 Anti Revoke DNS 与 VPN 一起使用。您可以禁用 VPN，但仍然具有防撤销功能。另一件需要注意的事情是，Next DNS 仅允许 300k DNS 查询，因此请记住这一点。此外，如果您想要多个 VPN 服务器，则必须对所需的每个服务器执行此操作。有任何疑问都可以随时问我。    提交人    /u/AsleepAd9208   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1frqfnw/how_to_use_a_vpn_with_anti_revoke_dns_using_wire/</guid>
       <pubDate>Sat, 28 Sep 2024 22:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AppDB 订阅即将结束，可能是时候切换了，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frqa73/appdb_subscription_coming_to_an_end_might_be_time/</link>
-      <description><![CDATA[标题基本上说明了一切，我使用 appdb 作为我调整应用程序和存储库的主要来源，但是订阅今天结束了，通常我会利用这些机会来查看竞争对手的做法。 那么除了 appDB 之外，您会推荐其他哪个侧载中心？为什么？或者我应该坚持使用 appDB（听说社区的一部分人不太喜欢它们，但不知道为什么）。 准确地说，我主要使用存储库和调整应用程序来绕过订阅服务，避免 YouTube 和 instagram 上的广告等，仅此而已。    提交人    /u/Lietnus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frqa73/appdb_subscription_coming_to_an_end_might_be_time/</guid>
-      <pubDate>Sat, 28 Sep 2024 22:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以通过 reddit DM 一对一帮助我如何成功下载 YouTube 音乐吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frpkew/can_someone_please_help_me_one_to_one_in_reddit/</link>
-      <description><![CDATA[我从 appledb 侧载了它，一个星期以来运行良好。之前，出于某种原因，我无法打开应用程序。所以我干脆卸载了它，然后回到 appledb 重新安装它，现在它告诉我一些关于苹果开发者的信息。请注意，我有 appledb plus 因此，我尝试寻找侧载替代方案，我找到了 sideloadly，并在桌面上使用它在手机上下载 YouTube 音乐。一切顺利，但后来我打开了应用程序，却无法登录我的谷歌帐户。我想是因为谷歌注意到它不是正版的 YT 音乐。  所以现在我迷路了，不知道该怎么办。我是越狱/侧载领域的新手。不知道什么是证书或电子签名。  我需要的只是一对一的帮助。如果你不介意的话。我想我会提供一点补偿。只是一点。谢谢。音乐是我生活中很重要的一部分。我负担不起每月 15 英镑的费用。YouTube 音乐正在慢慢提高订阅价格。    提交人    /u/unrealgfx   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frpkew/can_someone_please_help_me_one_to_one_in_reddit/</guid>
-      <pubDate>Sat, 28 Sep 2024 22:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我每天使用 VPN 的时候还能使用 dns 方法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1froy0f/can_i_still_use_dns_method_even_while_daily_use/</link>
-      <description><![CDATA[嗨，我每个工作日都会使用 VPN 来上课，我听说过有关 DNS 方法的一些事情，如果使用 DNS，则无法连接到 VPN。现在我必须将 VPN 用于上课，因此与 DNS 方法一样，在连接和断开 VPN 时，我可以做些什么来使其保持活动状态？    提交人    /u/417jdxx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1froy0f/can_i_still_use_dns_method_even_while_daily_use/</guid>
-      <pubDate>Sat, 28 Sep 2024 21:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有最新的 UyouPlus 链接吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frmr66/does_anyone_have_link_for_the_latest_uyouplus/</link>
-      <description><![CDATA[我无法构建 ipa，它总是卡住，我也试图在链接中添加 0，以便直接下载，但我从来没有成功过。    提交人    /u/mraleximer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frmr66/does_anyone_have_link_for_the_latest_uyouplus/</guid>
-      <pubDate>Sat, 28 Sep 2024 19:59:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
