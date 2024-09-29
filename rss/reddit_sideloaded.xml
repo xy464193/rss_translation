@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 29 Sep 2024 03:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 06:13:05 GMT</lastBuildDate>
+    <item>
+      <title>Spotify</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1frx53w/spotify/</link>
+      <description><![CDATA[如何在没有 PC 的情况下在 iOS 上获取 Spotify Premium？我一直在使用 scarlet，但每两天就会被撤销一次，而且还没有恢复     由    /u/cryptwings  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1frx53w/spotify/</guid>
+      <pubDate>Sun, 29 Sep 2024 05:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有 icloud 的情况下如何进行侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1frwxe7/how_to_sideload_without_icloud/</link>
+      <description><![CDATA[Sideloadly 和 Scarlet 需要 iPhone 和 PC 上的 ICloud，但我没有 iCloud 帐户的密码    提交人    /u/glueinass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1frwxe7/how_to_sideload_without_icloud/</guid>
+      <pubDate>Sun, 29 Sep 2024 05:05:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feather 停止工作，但 esign 仍可正常工作。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1frwrsd/feather_stopped_working_while_esign_is_still/</link>
+      <description><![CDATA[我将 HDFC 保险配置文件与 NextDNS 结合使用。Esign 与 HDFC 保险配置文件和证书配合使用时没有任何问题。Feather 与 sunshine AppleP12 证书配合使用时也表现良好。然后突然间就停止工作了。我一直不明白 feather 如何处理设备管理中不受信任的证书。我尝试使用 Everything Sudeloading Shortcut 将 feather 替换为使用 HDFC 签名的证书。Feather 可以安装，但使用它安装的签名应用无法运行，因为它们无法通过完整性检查。 我很困惑。    提交人    /u/bashar_20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1frwrsd/feather_stopped_working_while_esign_is_still/</guid>
+      <pubDate>Sun, 29 Sep 2024 04:55:19 GMT</pubDate>
+    </item>
     <item>
       <title>巨魔商店或羽毛</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fru96r/trollstore_or_feather/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我无法构建 ipa，它总是卡住，我也试图在链接中添加 0，以便直接下载，但我从来没有成功过。    提交人    /u/mraleximer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1frmr66/does_anyone_have_link_for_the_latest_uyouplus/</guid>
       <pubDate>Sat, 28 Sep 2024 19:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>逻辑专业 iPad ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frm0od/logic_pro_ipad_ipa/</link>
-      <description><![CDATA[嘿，你们有人用过这个吗？我想设置一下，到目前为止在 starfiles 上找到了它，但似乎不起作用    提交人    /u/joe123steal   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frm0od/logic_pro_ipad_ipa/</guid>
-      <pubDate>Sat, 28 Sep 2024 19:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个免费签名者</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frlh4u/i_need_a_free_signer/</link>
-      <description><![CDATA[自从 maplesigner 从地球上消失后，我就一直没有签名者。还有人知道 Aldo 证书有效吗？    提交人    /u/ray_alalal   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frlh4u/i_need_a_free_signer/</guid>
-      <pubDate>Sat, 28 Sep 2024 19:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果有人有 iOSGods VIP，可以将这个文件发送给我吗🙏🙏🙏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1frl0jz/if_anybody_has_iosgods_vip_can_you_send_me_this/</link>
-      <description><![CDATA[        由    /u/Luhjusbetta 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1frl0jz/if_anybody_has_iosgods_vip_can_you_send_me_this/</guid>
-      <pubDate>Sat, 28 Sep 2024 18:39:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
