@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Mon, 30 Sep 2024 03:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 06:15:27 GMT</lastBuildDate>
+    <item>
+      <title>访问文件</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fsmvcb/access_files/</link>
+      <description><![CDATA[我通过 trollstore 安装了一个应用程序，该应用程序要求我从文件应用程序中选择要导入的文件。我以前使用签名服务对这个应用程序进行签名，并且可以毫无问题地导入文件，但现在使用 trollstore 安装后，我可以打开文件应用程序，但无法“打开”任何文件。我该如何解决这个问题？ 我只想能够在应用程序中打开文件。    提交人    /u/gucciliousgangious   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fsmvcb/access_files/</guid>
+      <pubDate>Mon, 30 Sep 2024 03:58:23 GMT</pubDate>
+    </item>
     <item>
       <title>政府应用程序崩溃</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fs0p82/government_app_crash/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      如何修复？   由    /u/Suspicious_Bread_201  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fp8kie/tips_is_downloaded_but_misaka_wont_recognize/</guid>
       <pubDate>Wed, 25 Sep 2024 16:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>小问题</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fp6jzw/small_question/</link>
-      <description><![CDATA[我一直试图通过 esign 安装 troll store，但它似乎导致我的手机崩溃，无法签署任何东西。我使用的手机是 12 mini，运行 18.1 beta 5    提交人    /u/Benjamin_YT_REAL   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fp6jzw/small_question/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
