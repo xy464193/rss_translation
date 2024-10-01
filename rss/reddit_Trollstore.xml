@@ -4,7 +4,7 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:13:22 GMT</lastBuildDate>
     <item>
       <title>如何使用 TrollStore 创建 .tipa 文件来修补 iOS 应用程序中的偏移？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ftdu8v/how_to_create_a_tipa_file_for_patching_offsets_in/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>使用 TS filza 的新主题方法</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1frc38j/new_theming_method_with_ts_filza/</link>
-      <description><![CDATA[您不能使用 bootstrap，因为它的访问权限较少。指南：首先转到 /var/containers/Bundle/Application/(您的应用程序名称)/(您的应用程序名称.app)/，然后编辑 info.plist 并删除 CFBundleIcons&gt;CFBundlePrimaryIcon(对名称也感到困惑)&gt;CFBundleIconFiles 中的所有项目，并将 CFBundleIconName(忘记了名称，但它是其中唯一的字符串)更改为 Icon，并在 CFBundleIcons&gt;CFBundlePrimaryIcon&gt;CFBundleIconFiles 中添加一个名为 Icon 的条目，然后删除任何 ~ipad 版本的 CFBundleIcons(即使您使用的是 ipad)，然后将图标添加到文件夹中，如果有像 AppIconYxX 或 Icon~ipad.png 这样的文件，然后转到 TrollStore 并重建图标缓存，然后您的设备将在一段时间后重新启动，你应该很棒！    由   提交  /u/doopy_dog   [链接] [评论]]]></description>
+      <description><![CDATA[您不能使用 bootstrap，因为它的访问权限较少。指南：首先转到 /var/containers/Bundle/Application/(您的应用程序名称)/(您的应用程序名称.app)/，然后编辑 info.plist 并删除 CFBundleIcons&gt;CFBundlePrimaryIcon（对名称也感到困惑）&gt;CFBundleIconFiles 中的所有项目，然后将 CFBundleIconName（忘记了名称，但它是其中唯一的字符串）更改为 Icon，并在 CFBundleIcons&gt;CFBundlePrimaryIcon&gt;CFBundleIconFiles 中添加一个名为 Icon 的条目，然后删除任何 ~ipad 版本的 CFBundleIcons（即使您使用的是 ipad），然后将图标添加到文件夹中，如果有像 AppIconYxX 或 Icon~ipad.png 这样的文件，然后转到 TrollStore 并重建图标缓存，然后您的设备将在一段时间后重新启动，你应该很棒！    由   提交  /u/doopy_dog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1frc38j/new_theming_method_with_ts_filza/</guid>
       <pubDate>Sat, 28 Sep 2024 11:20:26 GMT</pubDate>
     </item>
