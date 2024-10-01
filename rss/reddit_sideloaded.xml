@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 30 Sep 2024 21:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 00:52:19 GMT</lastBuildDate>
+    <item>
+      <title>使用 SideJITServer 时遇到问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ft9mi9/trouble_using_sidejitserver/</link>
+      <description><![CDATA[嗨，我正在尝试使用 SideJITSever 在运行 IOS18 的 iPhone 13 上启用 JIT。每当我运行 SideJIT 快捷方式时，它都会显示“网络连接丢失”。在我的手机上，在我的计算机上： 处理来自 (CENSORED) 的请求时发生异常回溯（最近一次调用最后一次）：文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\socketserver.py”，第 318 行，在 _handle_request_noblock self.process_request(request, client_address) 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\socketserver.py”，第 349 行，在 process_request self.finish_request(request, client_address) 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\socketserver.py”，第 362 行，在 finish_request self.RequestHandlerClass(request, client_address, self) 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\socketserver.py”，第 761 行，在 __init__ self.handle() 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\http\server.py”，第 436 行，在句柄 self.handle_one_request() 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\http\server.py”，第 424 行，在 handle_one_request method() 文件“C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\site-packages\SideJITServer\__init__.py”，第 176 行，在 do_GET result = device.enable_jit(action) ^^^^^^^^^^^^^^^^^^^^^^^^^^^ 文件 &quot;C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\site-packages\SideJITServer\__init__.py&quot;，第 88 行，在 enable_jit self.handle.service.address[0] 中，self.handle.get_service_port(&#39;com.apple.internal.dt.remote.debugproxy&#39;) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 文件&quot;C:\Users\Sam\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymobiledevice3\remote\remote_service_discovery.py&quot;，第 120 行，在 get_service_port 中引发 InvalidServiceError(f&#39;没有这样的服务：{name}&#39;) pymobiledevice3.exceptions.InvalidServiceError：没有这样的服务：com.apple.internal.dt.remote.debugproxy  有人可以帮我解决这个问题吗？    提交人    /u/sam100090   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ft9mi9/trouble_using_sidejitserver/</guid>
+      <pubDate>Mon, 30 Sep 2024 23:16:39 GMT</pubDate>
+    </item>
     <item>
       <title>一切侧载快捷方式上现在都在线的是哪些证书？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ft385o/what_certificate_is_online_now_on_the_everything/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有一个调整功能，您可以在提要上的任何轮播中添加照片？我问这个问题只是因为我不想删除某个帖子（原始日期很重要）我只想替换一张照片    由    /u/doomtekka 提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fsq5of/instagram_carousel/</guid>
       <pubDate>Mon, 30 Sep 2024 07:45:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在 iPad os 18 上免费获取 ipa 文件吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fspu7p/can_i_get_ipa_files_on_ipad_os_18_for_free/</link>
-      <description><![CDATA[我有一台运行 iOS 18 的 iPad 9，想要免费使用 Nomad Sculpt，我可以使用电脑或其他设备将 iPa 文件安装到我的设备上吗？    提交人    /u/OptimalName5044   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fspu7p/can_i_get_ipa_files_on_ipad_os_18_for_free/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:20:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
