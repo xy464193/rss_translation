@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 01 Oct 2024 00:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:24:31 GMT</lastBuildDate>
+    <item>
+      <title>请 Celeste 粉丝们注意！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ftdbcl/attention_celeste_fans/</link>
+      <description><![CDATA[现在，您可以使用 https://github.com/RoootTheFox/celeste-ios 将 Mac 版 Celeste 转换为 Ipa    提交人    /u/grandiloquence3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ftdbcl/attention_celeste_fans/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>重置后无法验证 esign revoke 绕过完整性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ftcd9d/esign_revoke_bypass_integrity_could_not_be/</link>
+      <description><![CDATA[我重置了手机以尝试绕过 esign，但仍然说无法验证完整性，有什么解决方法吗？    由    /u/fartmontser  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ftcd9d/esign_revoke_bypass_integrity_could_not_be/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>解密并破解 IPA 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ftbvcq/decrypting_and_cracking_ipa_files/</link>
+      <description><![CDATA[大家好。我有两个问题。首先，获取解密 ipa 文件的最佳方法是什么？Decrypt.day 对我来说真的不起作用，当我尝试使用 iOS gods 工具时，我的电脑上会得到一个 ⋅msi 文件。第二个问题是如何真正破解 ipa 中的应用内购买？有没有什么好的资源可以教你？谢谢你。    提交人    /u/Jbklan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ftbvcq/decrypting_and_cracking_ipa_files/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Streamer Pro 应用程序上的 Stremio 插件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ftbmm9/stremio_addons_on_streamer_pro_app/</link>
+      <description><![CDATA[如果有人有 Streamer Pro 应用程序，有人知道如何让 Stremio 插件工作吗？我按照 Streamer Pro 的说明获取 Torrentio，但当我尝试在应用程序上加载电影或节目时却找不到任何内容    提交人    /u/Pineapple_Forward   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ftbmm9/stremio_addons_on_streamer_pro_app/</guid>
+      <pubDate>Tue, 01 Oct 2024 00:52:18 GMT</pubDate>
+    </item>
     <item>
       <title>使用 SideJITServer 时遇到问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ft9mi9/trouble_using_sidejitserver/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我见过许多高级 sparkmail IPA，有人试过吗？我想确保它们在我弄乱我的 sparkmail 帐户之前能正常工作。 它们是否有被 spark 禁用的风险？    提交人    /u/napes22   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fsulul/sparkmail_app_sideload_question/</guid>
       <pubDate>Mon, 30 Sep 2024 12:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 tvOS 注入 ++ IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fsudgr/infuse_ipa_for_tvos/</link>
-      <description><![CDATA[有人知道是否有人制作过可以侧面加载到 Apple TV 上的 Infuse++ IPA 模块吗？    提交人    /u/Expert_Credit4205   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fsudgr/infuse_ipa_for_tvos/</guid>
-      <pubDate>Mon, 30 Sep 2024 12:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些有关侧载的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fstpyr/need_some_help_regarding_sideloading/</link>
-      <description><![CDATA[所以这是我第一次进行侧载，我想在我的 iphone 16 pro max 上进行侧载。我知道所有的指南，我也一直在尝试阅读所有内容，但我仍然对几件事不确定。 我想获得一个每年 100 美元的开发者账户，这样我就不必担心撤销问题了。 什么是简短的操作方法，让我能够使用 apple dev pro 帐户启用侧载？ 另外，我这样做是否 100% 安全？我需要阻止 DNS 吗？这样做有什么限制吗？我需要 esign feather 还是什么？ 谢谢你帮助我困惑的自己哈哈    提交人    /u/thisdoesntmatternow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fstpyr/need_some_help_regarding_sideloading/</guid>
-      <pubDate>Mon, 30 Sep 2024 11:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的支持 airplay 的动漫应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fsrxyi/any_good_anime_app_that_supports_airplay/</link>
-      <description><![CDATA[有支持 airplay 的好动漫应用程序吗？ 我正在使用 kravasign，所以我想下载 IPA 并对其进行签名    由   提交  /u/Lekowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fsrxyi/any_good_anime_app_that_supports_airplay/</guid>
-      <pubDate>Mon, 30 Sep 2024 10:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 旋转木马</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fsq5of/instagram_carousel/</link>
-      <description><![CDATA[是否有一个调整功能，您可以在提要上的任何轮播中添加照片？我问这个问题只是因为我不想删除某个帖子（原始日期很重要）我只想替换一张照片    由    /u/doomtekka 提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fsq5of/instagram_carousel/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:45:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

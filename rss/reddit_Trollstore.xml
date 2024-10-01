@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 01 Oct 2024 00:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:24:26 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 TrollStore 创建 .tipa 文件来修补 iOS 应用程序中的偏移？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ftdu8v/how_to_create_a_tipa_file_for_patching_offsets_in/</link>
+      <description><![CDATA[大家好， 我正在研究 iOS 应用程序修改的世界，尤其感兴趣的是如何创建一个 .tipa 文件，该文件可以修补通过 TrollStore 安装的其他应用程序中的偏移量。 我遇到了一些讨论，但还是希望听听任何有此过程经验的人的意见。具体来说，我很好奇：  您推荐的用于创建 .tipa 文件的工具和方法。 识别和修改另一个应用程序中的偏移量所涉及的步骤。 您认为有用的任何资源（教程、GitHub 存储库等）。  提前感谢您的见解！我渴望从您的经验中学习，并分享我在此过程中发现的东西。   由    /u/Professional_Cake344  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ftdu8v/how_to_create_a_tipa_file_for_patching_offsets_in/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:44:26 GMT</pubDate>
+    </item>
     <item>
       <title>访问文件</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fsmvcb/access_files/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>WhatsApp 问题</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fr20x7/problem_with_whatsapp/</link>
-      <description><![CDATA[从昨天开始，我的 WhatsApp 突然停止接收通知。我通过 Fouad Raheb 在 troll store 侧载安装了 watusi。很长一段时间内一切都很好，但突然我不知道昨天发生了什么。我收到通知的唯一方法是让 WhatsApp 在后台运行并且永远不要关闭它。如果我关闭它，它们只会在我再次打开应用程序时显示，而且任何给我发送消息的人都会显示为一个复选标记，即使我的互联网工作正常。有人能帮我吗？我试过重启手机，但什么都没有。提前谢谢。    提交人    /u/JessyWolf100   [链接] [评论]]]></description>
+      <description><![CDATA[从昨天开始，我的 WhatsApp 突然停止接收通知。我通过 Fouad Raheb 在 troll store 侧载中安装了 watusi。很长一段时间内一切都很好，但突然我不知道昨天发生了什么。我收到通知的唯一方法是让 WhatsApp 在后台运行并且永远不要关闭它。如果我关闭它，它们只会在我再次打开应用程序时显示，而且任何给我发送消息的人都会显示为一个复选标记，即使我的互联网工作正常。有人能帮我吗？我试过重启手机，但什么都没有。提前谢谢。    提交人    /u/JessyWolf100   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fr20x7/problem_with_whatsapp/</guid>
       <pubDate>Sat, 28 Sep 2024 00:15:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/Leading_Recover9326   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fpocv4/não_instala_o_trolliistaller_pelo_link_jailbreakk/</guid>
       <pubDate>Thu, 26 Sep 2024 04:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>提示已下载，但御坂无法识别</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fp8kie/tips_is_downloaded_but_misaka_wont_recognize/</link>
-      <description><![CDATA[      如何修复？   由    /u/Suspicious_Bread_201  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fp8kie/tips_is_downloaded_but_misaka_wont_recognize/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:23:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
