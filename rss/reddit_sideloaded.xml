@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 01 Oct 2024 09:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:19:09 GMT</lastBuildDate>
+    <item>
+      <title>AirVPN 有哪些免费替代品？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ftmn05/what_are_the_free_alternatives_to_airvpn/</link>
+      <description><![CDATA[我查看了 Google Doc 指南，了解如何使用 dns 方法将 VPN 与我的侧载应用程序一起使用。但那里使用的 VPN 是付费的空中 VPN。有哪些免费的替代品？    提交人    /u/CandleBeginning3653   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ftmn05/what_are_the_free_alternatives_to_airvpn/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>使用热点会导致我被 esign 列入黑名单吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fticwt/would_using_hotspot_get_me_blacklisted_from_esign/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我被列入黑名单后，重置手机后可以恢复吗？    提交人    /u/Gornik023   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fsz825/resetting/</guid>
       <pubDate>Mon, 30 Sep 2024 16:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>卸载时彻底清除应用程序数据</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fsyiz4/completely_wipe_apps_data_when_uninstalling/</link>
-      <description><![CDATA[大家好， 我遇到了一个侧载应用程序的问题。我知道这不是应用程序的问题，因为它之前可以正常工作，而且在另一台设备上运行良好。 因此，我尝试卸载它，然后重新启动我的设备，然后重新安装 ipa。但即便如此，我仍然登录到应用内帐户。似乎正常的 ios 卸载并不能捕获所有应用程序数据...有没有办法删除设备上仍然存在的所有应用程序数据，或者修改 ipa，以便可以将其作为全新的应用程序再次安装，并且 ios 不会将其识别为具有仍然可用的用户数据的同一应用程序？ 甚至尝试使用登录的另一个 icloud 帐户重新安装它，但没有任何效果     提交人    /u/Uberdriver_janis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fsyiz4/completely_wipe_apps_data_when_uninstalling/</guid>
-      <pubDate>Mon, 30 Sep 2024 15:37:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
