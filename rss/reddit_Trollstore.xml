@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:19:00 GMT</lastBuildDate>
+    <item>
+      <title>trollstores 离线 jit 启用器可以在 ios17 上运行吗</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fudmri/does_trollstores_offline_jit_enabler_work_on_ios17/</link>
+      <description><![CDATA[它在 ios17 上有效吗     提交人    /u/Unusual-Issue-6268   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fudmri/does_trollstores_offline_jit_enabler_work_on_ios17/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:13:36 GMT</pubDate>
+    </item>
     <item>
       <title>网络活动纺车</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fu0h6r/network_activity_spinning_wheel/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>使用 TS filza 的新主题方法</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1frc38j/new_theming_method_with_ts_filza/</link>
-      <description><![CDATA[您不能使用 bootstrap，因为它的访问权限较少。指南：首先转到 /var/containers/Bundle/Application/(您的应用程序名称)/(您的应用程序名称.app)/，然后编辑 info.plist 并删除 CFBundleIcons&gt;CFBundlePrimaryIcon（对名称也感到困惑）&gt;CFBundleIconFiles 中的所有项目，然后将 CFBundleIconName（忘记了名称，但它是其中唯一的字符串）更改为 Icon，并在 CFBundleIcons&gt;CFBundlePrimaryIcon&gt;CFBundleIconFiles 中添加一个名为 Icon 的条目，然后删除任何 ~ipad 版本的 CFBundleIcons（即使您使用的是 ipad），然后将图标添加到文件夹中，如果有像 AppIconYxX 或 Icon~ipad.png 这样的文件，然后转到 TrollStore 并重建图标缓存，然后您的设备将在一段时间后重新启动，你应该很棒！    由   提交  /u/doopy_dog   [链接] [评论]]]></description>
+      <description><![CDATA[您不能使用 bootstrap，因为它的访问权限较少。指南：首先转到 /var/containers/Bundle/Application/(您的应用程序名称)/(您的应用程序名称.app)/，然后编辑 info.plist 并删除 CFBundleIcons&gt;CFBundlePrimaryIcon(对名称也感到困惑)&gt;CFBundleIconFiles 中的所有项目，并将 CFBundleIconName(忘记了名称，但它是其中唯一的字符串)更改为 Icon，并在 CFBundleIcons&gt;CFBundlePrimaryIcon&gt;CFBundleIconFiles 中添加一个名为 Icon 的条目，然后删除任何 ~ipad 版本的 CFBundleIcons(即使您使用的是 ipad)，然后将图标添加到文件夹中，如果有像 AppIconYxX 或 Icon~ipad.png 这样的文件，然后转到 TrollStore 并重建图标缓存，然后您的设备将在一段时间后重新启动，你应该很棒！    由   提交  /u/doopy_dog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1frc38j/new_theming_method_with_ts_filza/</guid>
       <pubDate>Sat, 28 Sep 2024 11:20:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[.    由    /u/HOgames  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fqmodh/can_i_install_trollstore_on_ios_1751/</guid>
       <pubDate>Fri, 27 Sep 2024 12:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助解决 Mikasa 在 Apple TV 上崩溃的问题</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fprlpa/help_with_mikasa_crashing_on_apple_tv/</link>
-      <description><![CDATA[有人能帮我让 Mikasa 在 Apple TV 上运行吗？ 我有一台 15.3 版的 Apple TV HD。我已经安装了 Trollstore。为了安装它，我使用 Sideloadly 安装了 Mikasa 5.3。一切顺利（Mikasa 可以正常打开）。我删除了 Mikasa 5.3 的 Sideloadly 版本，以便使用 Trollstore 安装它（这是我遵循的指南所说的操作）。但现在当我启动 Mikasa 时，它崩溃了。有人能帮我让 Mikasa 使用 Trollstore 运行吗？使用 Trollstore 崩溃的版本也是 Mikasa 5.3。 我想要它，这样我就可以阻止 OTA。显然，使用 Sideloadly 版本时，您必须每 7 天重新安装一次（这有点违背了安装 Trollstore 的目的，我安装 Trollstore 是为了避免每 7 天重新安装应用程序）。 如能得到任何帮助，我们将不胜感激。    提交人    /u/HawkEyes984   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fprlpa/help_with_mikasa_crashing_on_apple_tv/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:48:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
