@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 02 Oct 2024 18:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:10:32 GMT</lastBuildDate>
+    <item>
+      <title>使用 CLI 工具自动安装 TrollStore 应用程序？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fun4fj/automating_trollstore_app_installations_with_a/</link>
+      <description><![CDATA[是否可以通过 SSH/CLI 在越狱的 iOS 设备上通过 TrollStore 自动安装应用程序？如果不行，我将重新使用 URL 方案，但我真的更喜欢使用命令行。    提交人    /u/CtrliPhones   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fun4fj/automating_trollstore_app_installations_with_a/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:18:52 GMT</pubDate>
+    </item>
     <item>
       <title>trollstores 离线 jit 启用器可以在 ios17 上运行吗</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fudmri/does_trollstores_offline_jit_enabler_work_on_ios17/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我在 los 17.1 上找到了一个使用 trollstore 的人，他说这对他有用（计算机方法）。但网站上没有提到高于 17.0 的版本，所以我想问一下是否有人知道 trollstore 是否可以在我的 17.0.2 上运行，或者只是解释一下这个人是如何在 17.1 上安装它的    提交人    /u/Willing-Travel5091   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fqq89m/trollstore_ios_1702/</guid>
       <pubDate>Fri, 27 Sep 2024 15:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在 ios 17.5.1 上安装 trollstore 吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fqmodh/can_i_install_trollstore_on_ios_1751/</link>
-      <description><![CDATA[.    由    /u/HOgames 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fqmodh/can_i_install_trollstore_on_ios_1751/</guid>
-      <pubDate>Fri, 27 Sep 2024 12:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
