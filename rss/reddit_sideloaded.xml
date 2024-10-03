@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 06:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 09:10:46 GMT</lastBuildDate>
+    <item>
+      <title>请帮助我（多个错误）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fv38yd/please_help_me_multiple_errors/</link>
+      <description><![CDATA[您好，我在尝试越狱我的一台设备时遇到了很多问题 我之前越狱过几部手机，但从未遇到过这些问题 首先，该设备运行的是 IOS 14.2 我已连接到 PC，并首先尝试安装我之前在另一台设备上使用过的 AltStore，在按下系统托盘中的安装 AltStore 后，它显示错误代码： “无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.Vo65m/extracted/Altstore.app 的代码签名：0xe800800d” 我尝试了几次，我卸载了 iTunes 并重新安装它，我还使用了单独的 Apple ID，因为我认为也许使用我在以前的设备用于 AltStore 可能会导致问题，我确保在尝试此操作时在设备上登录了相同的 Apple ID，但我仍然收到相同的错误 然后我尝试了 Sideloadly，我连接了设备并添加了 IPA，然后遇到错误：3892346893 它也无法通信 我也尝试了 3uTools，但出现错误：证书应用程序失败 xcodetoken 错误 makeCPD 错误：fork/exec c:\program files(086x)\3utoolsv3\x86\icloudDII\anisette.exe。系统找不到该文件 然后我直接在设备上尝试了 PandaHelper，我验证了下载的配置文件并尝试打开安装在设备上的应用程序，但由于服务器没有响应或类似原因，这使我打不开网页 然后我尝试了 iOSGods，这使我能够下载 Unc0ver 和 Taurine，但无法证明文件的完整性，所以我无法打开应用程序 我现在被卡住了，我发现的其他网站的证书似乎已被吊销，我只是在寻找任何替代方案或解决这些错误的方法，因为我迫切希望越狱我的设备 请帮我找到解决方案    提交人    /u/kyA-x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fv38yd/please_help_me_multiple_errors/</guid>
+      <pubDate>Thu, 03 Oct 2024 08:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法通过删除所有内容并从 iCloud 恢复来修复被列入黑名单的 iPhone</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fv2d7g/cant_fix_blacklisted_iphone_by_erase_all_content/</link>
+      <description><![CDATA[我从这个子版块知道了这个方法，即删除所有内容并从 icloud 备份中恢复。来自已被列入黑名单的 iPhone 的备份在恢复后无法使用。我该如何修复它！？    提交人    /u/sametsense95   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fv2d7g/cant_fix_blacklisted_iphone_by_erase_all_content/</guid>
+      <pubDate>Thu, 03 Oct 2024 07:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sideloadly 安装 Spotify 时出现无限循环</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fv2b67/infinite_loop_while_using_sideloadly_to_install/</link>
+      <description><![CDATA[      有人知道为什么会发生这种情况吗？想想看，我从 Altstore 转换过来了。 https://preview.redd.it/rwu6amz8vhsd1.png?width=615&amp;format=png&amp;auto=webp&amp;s=a214bcfc70b4dd6dcc538d7fecc6a074b02754a5    提交人    /u/PilotDown   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fv2b67/infinite_loop_while_using_sideloadly_to_install/</guid>
+      <pubDate>Thu, 03 Oct 2024 07:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYou+ 一直卡住</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fv1gqg/uyou_keeps_freezing/</link>
+      <description><![CDATA[我刚开始使用 uYou+，虽然它可以正常播放，但我无法与其交互。我无法暂停或退出全屏或任何其他操作，我只能完全退出应用程序，并且上次观看的标记与我上次观看的时间戳并不完全接近。我已启用 A/B，使用 mini6，请帮忙    提交人    /u/Milarvoz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fv1gqg/uyou_keeps_freezing/</guid>
+      <pubDate>Thu, 03 Oct 2024 06:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道 Swaggy 发生了什么事吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fuzdm2/does_anyone_know_what_happened_with_swaggy/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[标题    由   提交  /u/E_A-SPORTS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1futhcs/eveespotify_not_opening/</guid>
       <pubDate>Wed, 02 Oct 2024 22:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>trollstore 会出新版本吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1futdr7/will_trollstore_ever_come_to_newer_versions/</link>
-      <description><![CDATA[trollstore 会推出 17.5 及更高版本吗？    由   提交  /u/Pretty-Kiwi2054   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1futdr7/will_trollstore_ever_come_to_newer_versions/</guid>
-      <pubDate>Wed, 02 Oct 2024 22:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何免费的侧载程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1furho3/any_free_sideloaders/</link>
-      <description><![CDATA[不言自明     由    /u/K_1t 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1furho3/any_free_sideloaders/</guid>
-      <pubDate>Wed, 02 Oct 2024 21:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能给我一个梦想足球联盟 2019 ipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fur7m8/can_anyone_give_me_a_dream_league_soccer_2019_ipa/</link>
-      <description><![CDATA[我有一部运行 iOS 12.5.7 的 iPhone 5s，但我通过 Apple ID 购买的商品中没有 Dream League Soccer 2019    提交人    /u/tazy_gamer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fur7m8/can_anyone_give_me_a_dream_league_soccer_2019_ipa/</guid>
-      <pubDate>Wed, 02 Oct 2024 21:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被从黑名单中除名了，但第二天又被列入黑名单了，我能得到帮助吗，我不知道发生了什么事</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fuoxcj/i_got_unblacklisted_then_was_blacklisted_again/</link>
-      <description><![CDATA[或者有人可以帮我获得 flek store 的免费证书，或者给我一个羽毛标志的教程，因为羽毛标志很奇怪     提交人    /u/Single-Afternoon-105   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fuoxcj/i_got_unblacklisted_then_was_blacklisted_again/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:34:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
