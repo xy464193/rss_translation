@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 18:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 21:14:03 GMT</lastBuildDate>
+    <item>
+      <title>更新：Feather v1.0.3 已经发布！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</link>
+      <description><![CDATA[长期以来，人们一直要求能够在签名时删除 mobileprovison 文件，此更新允许这样做！ 更改的内容  能够在签名时跳过添加 embedded.mobileprovision，同时添加一些额外的检查以确保能够签名更多应用程序 使用自定义名称签名时，更改所有软件包名称本地化 添加签名后自动安装应用程序 如果使用移动数据，则添加另一个后备本地 URI，可能对用户有用，也可能没用 修复了一些设计不一致的问题 修复了向后滑动时签名按钮消失的问题 修复“使用自定义服务器”中的 URL 预测/正则表达式，最初不允许用户设置自定义服务器 修复一些 iPadOS 崩溃问题尝试通过共享表共享时 添加法语本地化并在项目中添加更多本地化 现在每个日志都应记录到文档目录内的文件中，一旦我重新组织设置选项卡，非捐赠者将可以更轻松地查看这些日志  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</guid>
+      <pubDate>Thu, 03 Oct 2024 20:56:27 GMT</pubDate>
+    </item>
     <item>
       <title>Altstore 与 signulous 有什么区别？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvdvja/altstore_vs_signulous/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 03 Oct 2024 16:11:58 GMT</pubDate>
     </item>
     <item>
-      <title>我在用 iPhone 5，有什么办法可以获得 spotify 吗？</title>
+      <title>我使用的是 iPhone 5，有什么办法可以获得 spotify 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvaw4i/im_on_my_iphone_5_is_there_any_way_to_get_spotify/</link>
       <description><![CDATA[我想在我的 iPhone 5 上使用 spotify 作为我的音乐播放器，但是没有任何 iPA 文件让我登录。如果你们有修复程序或可用的 IPA，请告诉我    提交人    /u/Mult1tasker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvaw4i/im_on_my_iphone_5_is_there_any_way_to_get_spotify/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>有人有 Truecaller premium ipa 的链接吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</link>
-      <description><![CDATA[如果有的话请分享...    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有，请分享...    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</guid>
       <pubDate>Thu, 03 Oct 2024 13:59:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[基本上就是标题，为什么没有原生的 iOS 多功能下载器应用程序？ 我知道 SW-DLT 快捷方式，但根据我的经验，它只有一半的时间有效，比我在 Android 上使用 Seal 时要少得多，尽管它们都只是 yt-dlp。 这是 iOS 应用程序设计固有的限制吗？我不是开发人员，所以如果这是一个愚蠢的问题，请原谅我。    提交人    /u/Soggy_Parfait_8869   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fv4cx0/why_are_there_no_native_ios_ytdlp_wrapper_apps/</guid>
       <pubDate>Thu, 03 Oct 2024 10:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用来自 UDID 注册的显式临时证书后没有推送通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv49kg/no_push_notification_after_using_explicit_adhoc/</link>
-      <description><![CDATA[有人遇到过类似的问题吗？有解决方案吗？    提交人    /u/EmperorDante   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv49kg/no_push_notification_after_using_explicit_adhoc/</guid>
-      <pubDate>Thu, 03 Oct 2024 10:09:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
