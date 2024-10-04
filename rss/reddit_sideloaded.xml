@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 04 Oct 2024 00:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 03:16:07 GMT</lastBuildDate>
+    <item>
+      <title>我的所有侧载应用程序都停止工作了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvnzw2/all_my_sideloaded_apps_stopped_working/</link>
+      <description><![CDATA[我的侧载应用突然停止工作了，我正在使用 signulous    提交人    /u/PopOutKev   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvnzw2/all_my_sideloaded_apps_stopped_working/</guid>
+      <pubDate>Fri, 04 Oct 2024 01:40:20 GMT</pubDate>
+    </item>
     <item>
       <title>如何构建UYouPlus 3.0.4</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvmqh5/how_to_build_uyouplus_304/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>更新：Feather v1.0.3 已经发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</link>
-      <description><![CDATA[长期以来，人们一直要求能够在签名时删除 mobileprovison 文件，此更新允许这样做！ 更改的内容  能够在签名时跳过添加 embedded.mobileprovision，同时添加一些额外的检查以确保能够签名更多应用程序 添加了从 URL 导入 ipa 的功能 使用自定义名称签名时，更改所有包名称本地化 添加签名后自动安装应用程序的功能 如果使用移动数据，则添加了另一个后备本地 URI，可能对用户有用，也可能没用 修复了一些设计不一致的问题 修复了向后滑动时签名按钮消失的问题 修复“使用自定义服务器”中的 URL 预测/正则表达式，最初不允许用户设置自定义服务器 尝试通过共享表共享时修复某些 iPadOS 崩溃问题 添加了法语本地化并在项目中添加了更多本地化 现在每个日志都应记录到文档目录内的文件中，一旦我重新组织设置选项卡，非捐赠者将可以更轻松地查看这些日志  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
+      <description><![CDATA[长期以来，人们一直要求能够在签名时删除 mobileprovison 文件，此更新允许这样做！ 更改的内容  能够在签名时跳过添加 embedded.mobileprovision，同时添加一些额外的检查以确保能够签名更多应用程序 添加了从 URL 导入 ipa 的功能 使用自定义名称签名时，更改所有包名称本地化 添加签名后自动安装应用程序的功能  报告为已损坏，将进一步调查  如果使用移动数据，则添加了另一个后备本地 URI，可能对用户有用，也可能没用 修复了一些设计不一致的问题 修复了向后滑动时签名按钮消失的问题 修复“使用自定义服务器”中的 URL 预测/正则表达式，最初不允许用户设置自定义服务器 修复尝试通过共享表共享时某些 iPadOS 崩溃的问题 添加了法语本地化并在项目中添加了更多本地化 现在每个日志都应该记录到文档目录内的文件中，一旦我重新组织设置选项卡，非捐赠者将有一种更简单的方式查看这些日志  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</guid>
       <pubDate>Thu, 03 Oct 2024 20:56:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的 iPhone 5 安装了 iOS 10.3.4，最近我下载了我童年最喜欢的游戏之一《愤怒的小鸟 Go！》。但遗憾的是，每次我尝试玩它时都会显示“需要更新”。仅供参考，我尝试过关闭网络，它确实有效，但我需要连接才能继续。此外，该应用程序是 32 位且兼容。基本上我需要一种使用该应用程序而不被迫更新或退出的方法。谢谢！    提交人    /u/Mult1tasker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvaumo/angry_birds_go_100_wants_me_to_update_it/</guid>
       <pubDate>Thu, 03 Oct 2024 15:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 Truecaller premium ipa 的链接吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</link>
-      <description><![CDATA[如果有的话请分享...    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:59:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
