@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 04 Oct 2024 12:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 15:10:40 GMT</lastBuildDate>
+    <item>
+      <title>将我的 Mac 更新至新版 os15.0.1 后，我的侧载应用程序无法再打开</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fw0m0i/updated_my_mac_to_the_new_os1501_and_my/</link>
+      <description><![CDATA[其他人的 Mac 也遇到问题了吗？    提交人    /u/accountname789   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fw0m0i/updated_my_mac_to_the_new_os1501_and_my/</guid>
+      <pubDate>Fri, 04 Oct 2024 14:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我看不到时钟的原因是什么？它只显示运营商（Trollstore，iOS 17.0）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvzk98/any_reason_why_i_cant_see_clock_its_just/</link>
+      <description><![CDATA[   我尝试安装 SecondHand，但没有成功。重启后仍然存在。    提交人    /u/aquablue22   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvzk98/any_reason_why_i_cant_see_clock_its_just/</guid>
+      <pubDate>Fri, 04 Oct 2024 13:47:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以获得适用于 iOS 的 iPad 版 FTL 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvyz4b/any_way_to_get_ipad_version_of_ftl_for_ios/</link>
+      <description><![CDATA[我有一部 max 手机，我认为它玩起来会很不错，我在 steam 上也有这款游戏，所以如果需要的话我可以将自己的文件提供到 ipa 文件中。 有人知道这是否可行，以及如何实现？    提交人    /u/donutio   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvyz4b/any_way_to_get_ipad_version_of_ftl_for_ios/</guid>
+      <pubDate>Fri, 04 Oct 2024 13:20:21 GMT</pubDate>
+    </item>
     <item>
       <title>不受欢迎的观点：Feather 不能正常工作。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvxm8s/unpopular_opinion_feather_doesnt_work_properly/</link>
-      <description><![CDATA[Feather 停止工作，而 esign 仍正常工作。  我正在将 HDFC 保险配置文件与 NextDNS 结合使用。Esign 使用 HDFC 保险配置文件和证书时没有任何问题。  Feather 可以使用 sunshine AppleP12 证书。然后突然停止工作。我一直不明白 feather 如何处理设备管理中不受信任的证书。  我尝试使用 Everything Sideloading Shortcut 将 feather 替换为使用 HDFC 签名的证书。Feather 可以安装，但使用它安装的签名应用无法运行，因为它们未通过完整性检查。  然后我尝试重置我的 iPad。添加了我的 nextdns 配置文件。安装了使用 HDFC 证书的 esign。安装了最新的 feather 1.0.3。添加了 HDFC AppleP12 证书。猜猜哪些使用 feather 安装的应用未经验证。    由    /u/bashar_20  提交  [链接] [评论]]]></description>
+      <description><![CDATA[Feather 停止工作，而 esign 仍正常工作。  我正在将 HDFC 保险配置文件与 NextDNS 结合使用。Esign 使用 HDFC 保险配置文件和证书时没有任何问题。  Feather 可以使用 sunshine AppleP12 证书。然后突然停止工作。我一直不明白 feather 如何处理设备管理中不受信任的证书。  我尝试使用 Everything Sideloading Shortcut 将 feather 替换为使用 HDFC 签名的证书。Feather 可以安装，但使用它安装的签名应用无法运行，因为它们未通过完整性检查。  然后我尝试重置我的 iPad。添加了我的 nextdns 配置文件。安装了使用 HDFC 证书的 esign。安装了最新的 feather 1.0.3。添加了 HDFC AppleP12 证书。猜猜使用 feather 安装的哪些应用未经验证。  编辑：今天发布的 1.0.4 也存在同样的问题。     由    /u/bashar_20  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvxm8s/unpopular_opinion_feather_doesnt_work_properly/</guid>
       <pubDate>Fri, 04 Oct 2024 12:11:10 GMT</pubDate>
     </item>
@@ -41,13 +62,6 @@
       <pubDate>Fri, 04 Oct 2024 08:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 m2 MacBook 上进行侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fvu6j0/how_can_i_side_load_on_a_m2_macbook/</link>
-      <description><![CDATA[我听说过 sideloadly，但确实需要像 esign、feather 等证书，那么“使用免费或付费的 Apple 开发者帐户侧载应用程序的能力”是什么意思？ 如果还有其他方法，请在这里分享    提交人    /u/odi4   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fvu6j0/how_can_i_side_load_on_a_m2_macbook/</guid>
-      <pubDate>Fri, 04 Oct 2024 08:18:13 GMT</pubDate>
-    </item>
-    <item>
       <title>证书和 DNS</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvu4k6/certificate_and_dns/</link>
       <description><![CDATA[我打算购买自己的 P12 证书和 mobileprovision 文件，以便使用 eSign 将应用程序侧载到我的 iPhone 上。有没有推荐的最佳网站来获取这些内容？此外，一旦我拥有了它们，我是否仍然需要 DNS 服务来进行侧载，或者我可以在没有它的情况下继续进行？    提交人    /u/Ok-Prompt4736   [link] [评论]]]></description>
@@ -57,7 +71,7 @@
     <item>
       <title>iOS 18 侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvu32a/ios_18_sideload/</link>
-      <description><![CDATA[大家好，希望这篇文章对您有所帮助， 有人可以分享一种简单且免费的方法来侧载运行 iOS 18 的 Iphone 15 Pro 吗？ 提前致谢。    提交人    /u/Accountant_01   [link] [评论]]]></description>
+      <description><![CDATA[大家好，希望这篇文章对你有帮助， 有人可以分享一种简单且免费的方法来侧载运行 iOS 18 的 Iphone 15 Pro 吗？ 提前致谢。    提交人    /u/Accountant_01   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvu32a/ios_18_sideload/</guid>
       <pubDate>Fri, 04 Oct 2024 08:10:41 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      我醒来时发现我的 YouTube 就是这样，我需要一些帮助来修复它    提交人    /u/Prince_Ace11037   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvl5jn/what_does_this_mean_and_how_to_fix_it/</guid>
       <pubDate>Thu, 03 Oct 2024 23:17:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 Singulous 注册应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fvl28i/cant_register_app_with_singulous/</link>
-      <description><![CDATA[因此，我正在尝试对一个应用程序进行签名，但签名时一直出现错误，任何愿意查看 ipa 并尝试帮助我解决问题的人都将不胜感激，谢谢    提交人    /u/masterhop1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fvl28i/cant_register_app_with_singulous/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密IPA文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</link>
-      <description><![CDATA[有人知道如何解密 IPA 文件吗？我在 eSIGN 上下载了一个游戏，但不幸的是我无法安装，因为它是加密的     提交人    /u/Arabiansword69   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:06:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
