@@ -4,11 +4,60 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 21:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:46:15 GMT</lastBuildDate>
+    <item>
+      <title>如何构建UYouPlus 3.0.4</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvmqh5/how_to_build_uyouplus_304/</link>
+      <description><![CDATA[因为我知道人们正在寻找 3.0.4 ipa，这里有 2 个链接，无论您喜欢在 YOUTUBE 上观看什么：https://youtu.be/MpWPBXda4YA?si=uY60kuYXSG4irS-g TIKTOK ：https://www.tiktok.com/t/ZP8RnkC5P/ 或者您可以下载我编译的版本，这取决于您：https://github.com/99999999-9/uYouPlus/releases/download/untagged-e48c5a3ad90c025c9a36/uYouPlus_19.39.1-3.0.4.ipa 我使用这个 GitHub 来构建它：https://github.com/qnblackcat/uYouPlus    提交人    /u/LegitimateRooster527   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvmqh5/how_to_build_uyouplus_304/</guid>
+      <pubDate>Fri, 04 Oct 2024 00:34:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是什么意思以及如何修复它</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvl5jn/what_does_this_mean_and_how_to_fix_it/</link>
+      <description><![CDATA[      我醒来时发现我的 YouTube 就是这样，我需要一些帮助来修复它    提交人    /u/Prince_Ace11037   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvl5jn/what_does_this_mean_and_how_to_fix_it/</guid>
+      <pubDate>Thu, 03 Oct 2024 23:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法使用 Singulous 注册应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvl28i/cant_register_app_with_singulous/</link>
+      <description><![CDATA[因此，我正在尝试对一个应用程序进行签名，但签名时一直出现错误，任何愿意查看 ipa 并尝试帮助我解决问题的人都将不胜感激，谢谢    提交人    /u/masterhop1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvl28i/cant_register_app_with_singulous/</guid>
+      <pubDate>Thu, 03 Oct 2024 23:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>解密 IPA 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</link>
+      <description><![CDATA[有人知道如何解密 IPA 文件吗？我在 eSIGN 上下载了一个游戏，但不幸的是我无法安装，因为它被加密了     提交人    /u/Arabiansword69   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</guid>
+      <pubDate>Thu, 03 Oct 2024 23:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>抖音ipa为什么不更新？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvko1w/why_is_no_one_updating_tiktok_ipa/</link>
+      <description><![CDATA[这是什么鬼... 我想要一个可以正常工作的，搜索效果不错，而且我实际上能够更改国家/地区的...    提交人    /u/AdorableFeedback297   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvko1w/why_is_no_one_updating_tiktok_ipa/</guid>
+      <pubDate>Thu, 03 Oct 2024 22:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有真正有效的 IPA 吗？我觉得我都试过了，但都没用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvk3pu/does_anyone_have_any_ipas_for_episode_that/</link>
+      <description><![CDATA[有人帮帮我吧    提交人    /u/EquivalentPaint1427   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvk3pu/does_anyone_have_any_ipas_for_episode_that/</guid>
+      <pubDate>Thu, 03 Oct 2024 22:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序不断重置</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvjc29/sideloaded_apps_keep_resetting/</link>
+      <description><![CDATA[这个东西让我抓狂，上个月一些侧载应用程序（尤其是 instagram regram 和 facebook wolf）开始每天随机重置 4/5 次（将我注销并重置为默认设置）。以前从来没有遇到过这个问题。我不确定，但我认为它可能是在吊销后从 udidreg 获得替换证书时启动的。我也在使用电子签名进行侧载和 DNS 阻止方法。我从某处读到这个问题是由坏证书引起的，我还读到启用 esign 选项“签名后删除 mobileprovision”应该可以解决问题，但不幸的是没有。有人知道到底发生了什么吗？iPhone 15 pro max 搭载 iOS 18.1 beta 5    提交人    /u/3Dave_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvjc29/sideloaded_apps_keep_resetting/</guid>
+      <pubDate>Thu, 03 Oct 2024 21:52:22 GMT</pubDate>
+    </item>
     <item>
       <title>更新：Feather v1.0.3 已经发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</link>
-      <description><![CDATA[长期以来，人们一直要求能够在签名时删除 mobileprovison 文件，此更新允许这样做！ 更改的内容  能够在签名时跳过添加 embedded.mobileprovision，同时添加一些额外的检查以确保能够签名更多应用程序 使用自定义名称签名时，更改所有软件包名称本地化 添加签名后自动安装应用程序 如果使用移动数据，则添加另一个后备本地 URI，可能对用户有用，也可能没用 修复了一些设计不一致的问题 修复了向后滑动时签名按钮消失的问题 修复“使用自定义服务器”中的 URL 预测/正则表达式，最初不允许用户设置自定义服务器 修复一些 iPadOS 崩溃问题尝试通过共享表共享时 添加法语本地化并在项目中添加更多本地化 现在每个日志都应记录到文档目录内的文件中，一旦我重新组织设置选项卡，非捐赠者将可以更轻松地查看这些日志  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
+      <description><![CDATA[长期以来，人们一直要求能够在签名时删除 mobileprovison 文件，此更新允许这样做！ 更改的内容  能够在签名时跳过添加 embedded.mobileprovision，同时添加一些额外的检查以确保能够签名更多应用程序 添加了从 URL 导入 ipa 的功能 使用自定义名称签名时，更改所有包名称本地化 添加签名后自动安装应用程序的功能 如果使用移动数据，则添加了另一个后备本地 URI，可能对用户有用，也可能没用 修复了一些设计不一致的问题 修复了向后滑动时签名按钮消失的问题 修复“使用自定义服务器”中的 URL 预测/正则表达式，最初不允许用户设置自定义服务器 尝试通过共享表共享时修复某些 iPadOS 崩溃问题 添加了法语本地化并在项目中添加了更多本地化 现在每个日志都应记录到文档目录内的文件中，一旦我重新组织设置选项卡，非捐赠者将可以更轻松地查看这些日志  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvi28b/update_feather_v103_is_out/</guid>
       <pubDate>Thu, 03 Oct 2024 20:56:27 GMT</pubDate>
     </item>
@@ -41,7 +90,7 @@
       <pubDate>Thu, 03 Oct 2024 16:11:58 GMT</pubDate>
     </item>
     <item>
-      <title>我使用的是 iPhone 5，有什么办法可以获得 spotify 吗？</title>
+      <title>我在用 iPhone 5，有什么办法可以获得 spotify 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvaw4i/im_on_my_iphone_5_is_there_any_way_to_get_spotify/</link>
       <description><![CDATA[我想在我的 iPhone 5 上使用 spotify 作为我的音乐播放器，但是没有任何 iPA 文件让我登录。如果你们有修复程序或可用的 IPA，请告诉我    提交人    /u/Mult1tasker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvaw4i/im_on_my_iphone_5_is_there_any_way_to_get_spotify/</guid>
@@ -57,58 +106,9 @@
     <item>
       <title>有人有 Truecaller premium ipa 的链接吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</link>
-      <description><![CDATA[如果您有，请分享...    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
+      <description><![CDATA[如果有的话请分享...    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fv8ery/can_someone_has_link_for_truecaller_premium_ipa/</guid>
       <pubDate>Thu, 03 Oct 2024 13:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv8bac/help/</link>
-      <description><![CDATA[我想我已经被列入使用免费证书的黑名单了 现在我的问题是，如果我为付费证书付费，我是否仍然无法使用付费证书安装应用程序，因为被列入了黑名单？或者我可以毫无问题地安装应用程序吗？    提交人    /u/kiingkid   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv8bac/help/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>D-异丙醇ID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv83bb/d_id_ipa/</link>
-      <description><![CDATA[有人有 d id ipa 来制作图像口型同步吗？如果有的话请 dm 谢谢。    提交人    /u/Famous_Sail_3347   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv83bb/d_id_ipa/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在不使用 IPA 文件的情况下调整应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv7bul/anyway_to_tweak_an_app_without_using_ipa_file/</link>
-      <description><![CDATA[尝试修改 BTD6，但我需要最新版本，而且我似乎找不到任何 IPA 文件来使用 Feather 添加调整。我已经购买了游戏，有什么办法可以调整它吗？    提交人    /u/DumNoobDoinStuff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv7bul/anyway_to_tweak_an_app_without_using_ipa_file/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际音标协会 (IPA)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv6nxz/ipa/</link>
-      <description><![CDATA[您好，我正在尝试查找 Motor World 汽车工厂游戏调整后的 ipa。有人可以帮我吗？    由   提交  /u/Alive-Foundation4254   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv6nxz/ipa/</guid>
-      <pubDate>Thu, 03 Oct 2024 12:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚创建了 r/scarletmobile！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv62c0/just_created_rscarletmobile/</link>
-      <description><![CDATA[立即接受修改    由   提交  /u/Maybethrow67   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv62c0/just_created_rscarletmobile/</guid>
-      <pubDate>Thu, 03 Oct 2024 12:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>UDIDRegistrations 和 Signulous 一样吗？合法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv4p66/is_udidregistrations_the_same_as_signulous_is_it/</link>
-      <description><![CDATA[大家好， 我正在研究 UDIDRegistrations，发现在提供的服务方面与 Signulous 有一些相似之处。有人知道他们是同一家公司还是有某种联系？此外，从 UDIDRegistrations 购买合法吗？我在网上看到了一些褒贬不一的评论，想在做出任何决定之前获得一些第一手的反馈。 提前谢谢！    提交人    /u/No_Personality389   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv4p66/is_udidregistrations_the_same_as_signulous_is_it/</guid>
-      <pubDate>Thu, 03 Oct 2024 10:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有像 Seal for Android 那样的原生 iOS yt-dlp 包装器应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fv4cx0/why_are_there_no_native_ios_ytdlp_wrapper_apps/</link>
-      <description><![CDATA[基本上就是标题，为什么没有原生的 iOS 多功能下载器应用程序？ 我知道 SW-DLT 快捷方式，但根据我的经验，它只有一半的时间有效，比我在 Android 上使用 Seal 时要少得多，尽管它们都只是 yt-dlp。 这是 iOS 应用程序设计固有的限制吗？我不是开发人员，所以如果这是一个愚蠢的问题，请原谅我。    提交人    /u/Soggy_Parfait_8869   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fv4cx0/why_are_there_no_native_ios_ytdlp_wrapper_apps/</guid>
-      <pubDate>Thu, 03 Oct 2024 10:16:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
