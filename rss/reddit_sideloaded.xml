@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 04 Oct 2024 09:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 12:18:14 GMT</lastBuildDate>
+    <item>
+      <title>不受欢迎的观点：Feather 不能正常工作。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvxm8s/unpopular_opinion_feather_doesnt_work_properly/</link>
+      <description><![CDATA[Feather 停止工作，而 esign 仍正常工作。  我正在将 HDFC 保险配置文件与 NextDNS 结合使用。Esign 使用 HDFC 保险配置文件和证书时没有任何问题。  Feather 可以使用 sunshine AppleP12 证书。然后突然停止工作。我一直不明白 feather 如何处理设备管理中不受信任的证书。  我尝试使用 Everything Sideloading Shortcut 将 feather 替换为使用 HDFC 签名的证书。Feather 可以安装，但使用它安装的签名应用无法运行，因为它们未通过完整性检查。  然后我尝试重置我的 iPad。添加了我的 nextdns 配置文件。安装了使用 HDFC 证书的 esign。安装了最新的 feather 1.0.3。添加了 HDFC AppleP12 证书。猜猜哪些使用 feather 安装的应用未经验证。    由    /u/bashar_20  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvxm8s/unpopular_opinion_feather_doesnt_work_properly/</guid>
+      <pubDate>Fri, 04 Oct 2024 12:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>altstore 的替代品</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fvx8vs/alternative_for_altstore/</link>
+      <description><![CDATA[我在 iPhone 15 上使用 altstore 来访问 uyouenhanced 和 Eeveespotify。我讨厌每 7 天就必须将其连接到笔记本电脑进行刷新，而且三个应用程序的限制非常烦人。我无法再获得像模拟器这样的应用程序。此外，我无法在 Windows 上启用 jit 这一事实很愚蠢。有什么可以解决这些问题吗？谢谢    提交人    /u/Great-Distribution33   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fvx8vs/alternative_for_altstore/</guid>
+      <pubDate>Fri, 04 Oct 2024 11:50:51 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法可以在没有苹果设备的情况下创建一个刻录机帐户？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvuno2/is_there_a_way_to_make_a_burner_account_without/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>iOS 18 侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvu32a/ios_18_sideload/</link>
-      <description><![CDATA[大家好，希望这篇文章对你有帮助， 有人可以分享一种简单且免费的方法来侧载运行 iOS 18 的 Iphone 15 Pro 吗？ 提前致谢。    提交人    /u/Accountant_01   [link] [评论]]]></description>
+      <description><![CDATA[大家好，希望这篇文章对您有所帮助， 有人可以分享一种简单且免费的方法来侧载运行 iOS 18 的 Iphone 15 Pro 吗？ 提前致谢。    提交人    /u/Accountant_01   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvu32a/ios_18_sideload/</guid>
       <pubDate>Fri, 04 Oct 2024 08:10:41 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 03 Oct 2024 23:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>解密 IPA 文件</title>
+      <title>解密IPA文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</link>
-      <description><![CDATA[有人知道如何解密 IPA 文件吗？我在 eSIGN 上下载了一个游戏，但不幸的是我无法安装，因为它被加密了     提交人    /u/Arabiansword69   [link] [comments]]]></description>
+      <description><![CDATA[有人知道如何解密 IPA 文件吗？我在 eSIGN 上下载了一个游戏，但不幸的是我无法安装，因为它是加密的     提交人    /u/Arabiansword69   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fvkxpd/decrypt_ipa_file/</guid>
       <pubDate>Thu, 03 Oct 2024 23:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>抖音ipa为什么不更新？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fvko1w/why_is_no_one_updating_tiktok_ipa/</link>
-      <description><![CDATA[这是什么鬼... 我想要一个可以正常工作的，搜索效果不错，而且我实际上能够更改国家/地区的...    提交人    /u/AdorableFeedback297   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fvko1w/why_is_no_one_updating_tiktok_ipa/</guid>
-      <pubDate>Thu, 03 Oct 2024 22:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有真正有效的 IPA 吗？我觉得我都试过了，但都没用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fvk3pu/does_anyone_have_any_ipas_for_episode_that/</link>
-      <description><![CDATA[有人帮帮我吧    提交人    /u/EquivalentPaint1427   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fvk3pu/does_anyone_have_any_ipas_for_episode_that/</guid>
-      <pubDate>Thu, 03 Oct 2024 22:27:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
