@@ -4,7 +4,63 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 05 Oct 2024 15:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 18:11:45 GMT</lastBuildDate>
+    <item>
+      <title>如何开始使用 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwvpyy/how_do_i_begin_using_ipa/</link>
+      <description><![CDATA[请大家告诉我标题，我是新来的，我该怎么做呢    提交人    /u/Same-Maintenance-986   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwvpyy/how_do_i_begin_using_ipa/</guid>
+      <pubDate>Sat, 05 Oct 2024 17:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做错什么了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwvm12/what_am_i_doing_wrong/</link>
+      <description><![CDATA[我安装了 NextDNS，放入了整个拒绝列表并且从未关闭它，使用了“Everything Sideloaded”快捷方式，遵循了所有指南，但我的应用程序/证书仍然被撤销，而且每当我打开它们时它们都会崩溃 我试过使用 esign scarlet feather，但我不能使用电脑，因为我没有电脑 我的 iOS 版本是 Iphone 14 上的 17.7    提交人    /u/Throwawayaccforray   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwvm12/what_am_i_doing_wrong/</guid>
+      <pubDate>Sat, 05 Oct 2024 17:28:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何安全地更新 Feather 应用程序？还有一个问题……</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwubnj/how_to_safely_update_feather_app_and_another/</link>
+      <description><![CDATA[大家好。 我看到 feather 应用程序有一个非常好的更新，但是如何在不丢失已加载的证书和 repo 的情况下进行更新？ 我也试着就此提出另外 2 个问题：  我可以更新到 ios 17.7（我在 17.6 上）而不会丢失证书和安装的侧载应用程序吗？ 有没有办法将免费的 proton VPN 与 nextDNS 一起使用？（只是好奇，当我需要连接酒店的免费 wifi 时，我很少使用它）  谢谢大家    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwubnj/how_to_safely_update_feather_app_and_another/</guid>
+      <pubDate>Sat, 05 Oct 2024 16:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>羽毛吊销证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwtdzx/feather_revoked_cert/</link>
+      <description><![CDATA[在我的 iPhone 15 上，我使用带有已撤销证书的 feather 和下一个 dns，过去一个月一切顺利，没有任何问题。但是，我正尝试为朋友的手机执行此操作，但该证书未被 feather 接受，有人知道我是否做错了什么，有人有任何具体的步骤吗    提交人    /u/MaazzYT   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwtdzx/feather_revoked_cert/</guid>
+      <pubDate>Sat, 05 Oct 2024 15:49:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>知道为什么 Feather 签名的应用程序默认启用/打开游戏模式吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwt8b4/any_idea_why_apps_signed_by_feather_is/</link>
+      <description><![CDATA[根据标题，几乎每个我使用 Feather 侧载的应用程序都默认启用了游戏模式：iOS 18.0.1 我该如何停止这种情况  更多信息：显然 Kravasign 也正在激活游戏模式    提交人    /u/giratina12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwt8b4/any_idea_why_apps_signed_by_feather_is/</guid>
+      <pubDate>Sat, 05 Oct 2024 15:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 App Store 中的应用程序更改为 ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwt84d/how_tf_do_i_change_an_app_in_the_app_store_to_an/</link>
+      <description><![CDATA[🆙    由   提交  /u/UseComfortable7275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwt84d/how_tf_do_i_change_an_app_in_the_app_store_to_an/</guid>
+      <pubDate>Sat, 05 Oct 2024 15:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Live Container 如何让应用程序运行？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwsuaw/live_container_how_to_get_the_apps_working/</link>
+      <description><![CDATA[因此，我安装了 Live Container 并在其中放入了 2 个应用程序。但是，当我点击“运行”时，什么都没有发生。然后我假设是因为我需要创建一个数据文件夹，我创建了一个，然后再次点击“运行”，什么都没有发生。尝试将其作为 JIT 运行，但结果相同，什么都没有发生。 我做错了什么？    提交人    /u/CurrentRisk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwsuaw/live_container_how_to_get_the_apps_working/</guid>
+      <pubDate>Sat, 05 Oct 2024 15:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SoundCloud ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwslga/soundcloud_ipa/</link>
+      <description><![CDATA[有人有适用于 AltStore 或 ipa 的 SoundCloud Premium 吗？    提交人    /u/Reverse_dragon152   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwslga/soundcloud_ipa/</guid>
+      <pubDate>Sat, 05 Oct 2024 15:13:09 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify Premium ipa ios 18 下载链接</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fwsimu/spotify_premium_ipa_download_link_for_ios_18/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[在 swaggy36000 github 关闭后，我无法在 Telegram 应用程序的任何备份中找到 ipa，我想知道是否有人有下载链接或 ipa 文件本身。     提交人    /u/ducksarepog0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fwn7u9/sendit_diamond_cracked/</guid>
       <pubDate>Sat, 05 Oct 2024 10:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eevee Spotify 无法使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwn4t1/eevee_spotify_not_working/</link>
-      <description><![CDATA[Spotify 似乎已修补？每次播放歌曲时，我都会收到一条消息“您发现了一项高级功能”。 https://imgur.com/a/XTViSRg 编辑：对于任何阅读此内容的人，您需要在必要时更改帐户区域后使用与帐户相同的区域的 vpn 登录    提交人    /u/Solo-Mario   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwn4t1/eevee_spotify_not_working/</guid>
-      <pubDate>Sat, 05 Oct 2024 10:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous 和 Flexstore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwmc0h/signulous_flekstore/</link>
-      <description><![CDATA[嘿，我只是想知道如果我从 Signulous 和 Flekstore 购买了证书，它们是否会相互冲突，因为我的 Signulous 帐户正在等待额外权利。如果我从 Flekstore 购买，这会影响我的额外权利的等待过程吗？    提交人    /u/FormerCranberry8119   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwmc0h/signulous_flekstore/</guid>
-      <pubDate>Sat, 05 Oct 2024 09:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以下载无日志的 ESign？没有预装证书的那种。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwlwkc/where_to_download_esign_no_logs_one_that_doesnt/</link>
-      <description><![CDATA[指南中的方法要求您先选择证书，然后才能下载，但我已经有 UDID 的证书了。 Swaggy repo 已经消失，我当前的 ESign 版本已停止打开。    提交人    /u/yellowroll   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwlwkc/where_to_download_esign_no_logs_one_that_doesnt/</guid>
-      <pubDate>Sat, 05 Oct 2024 08:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 调整后启用“动态岛”功能</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwlu8q/dynamic_island_turns_on_in_tweaked_spotify/</link>
-      <description><![CDATA[您好，我使用 Nugget for Windows 安装了 Dynamic Island，并且从 ESign 侧载了 Eevee Spotify，但是当我开始播放一首歌曲时，即使我仍在 Spotify 应用程序中，动态岛也会打开，侧载的 YouTube 短片也是一样，有人知道如何解决这个问题吗？也许更改签名文件？    提交人    /u/These-Shape7216   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwlu8q/dynamic_island_turns_on_in_tweaked_spotify/</guid>
-      <pubDate>Sat, 05 Oct 2024 08:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>在开发账户上出售位置有什么缺点吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwjvfj/any_downside_to_selling_spots_on_dev_account/</link>
-      <description><![CDATA[基本上就是标题，我只使用了 2 个位置，还剩下 98 个，哈哈，出售位置有什么缺点吗，比如我的账号会被封禁吗？🤔 如果没有，我会低调地以 10 美元 ez money 的价格卖掉它们，哈哈    提交人    /u/XxIIIBanIIIxX   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwjvfj/any_downside_to_selling_spots_on_dev_account/</guid>
-      <pubDate>Sat, 05 Oct 2024 06:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 sidestore 支付 ID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwiso6/paid_id_with_sidestore/</link>
-      <description><![CDATA[嗨，我刚从苹果为开发者 ID 购买了 99 美元的订阅。我已经收到苹果的确认电子邮件。我尝试在侧边商店登录和注销，但我的 ID 状态仍然保持为免费开发者。仍然不能超过 3 个应用程序的限制。我需要重新安装侧边商店吗？还是需要等待一段时间才能更改状态？提前致谢。  更新：我已重新安装侧边商店并删除了我的旧个人资料，我的帐户状态在侧边商店中仍然显示为免费版本。     提交人    /u/aizathisyam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwiso6/paid_id_with_sidestore/</guid>
-      <pubDate>Sat, 05 Oct 2024 04:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么要在旧设备上安装来自 nuggets 的调整？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwgp2k/why_install_tweaks_from_nuggets_on_older_devices/</link>
-      <description><![CDATA[我想知道，当您安装诸如始终显示、动态岛、充电限制等调整时，旧设备是否会受到影响。这些设备上没有这个功能，因为苹果知道这会引起问题吗？或者它没有引起问题，我注意到自从我安装了动态岛以来，我的电池变得非常热，很难同时执行通话和 YouTube 或通话和其他应用程序等双重任务。这样做值得保留所有功能吗？你的看法是什么？    提交人    /u/NoozPrime   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwgp2k/why_install_tweaks_from_nuggets_on_older_devices/</guid>
-      <pubDate>Sat, 05 Oct 2024 02:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法打开 uYouPlus 上的视频？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwfw5c/cant_open_videos_on_uyouplus/</link>
-      <description><![CDATA[目前在 iOS 17 上使用 sidestore。之前使用的是旧版本的 uYou，但最新版本仍然存在同样的问题。当我点击视频时，它就是打不开，还有其他人遇到过这个问题吗？也开始在 uYou 上看到广告。    提交人    /u/Lfaruqui   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwfw5c/cant_open_videos_on_uyouplus/</guid>
-      <pubDate>Sat, 05 Oct 2024 02:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
