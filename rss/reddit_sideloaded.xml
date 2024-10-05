@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 05 Oct 2024 06:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 09:12:23 GMT</lastBuildDate>
+    <item>
+      <title>Signulous 和 Flexstore</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwmc0h/signulous_flekstore/</link>
+      <description><![CDATA[嘿，我只是想知道如果我从 Signulous 和 Flekstore 购买了证书，它们是否会相互冲突，因为我的 Signulous 帐户正在等待额外权利。如果我从 Flekstore 购买，这会影响我的额外权利的等待过程吗？    提交人    /u/FormerCranberry8119   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwmc0h/signulous_flekstore/</guid>
+      <pubDate>Sat, 05 Oct 2024 09:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以下载无日志的 ESign？没有预装证书的那种。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwlwkc/where_to_download_esign_no_logs_one_that_doesnt/</link>
+      <description><![CDATA[指南中的方法要求您先选择证书，然后才能下载，但我已经有 UDID 的证书了。 Swaggy repo 已经消失，我当前的 ESign 版本已停止打开。    提交人    /u/yellowroll   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwlwkc/where_to_download_esign_no_logs_one_that_doesnt/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 调整后启用“动态岛”功能</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fwlu8q/dynamic_island_turns_on_in_tweaked_spotify/</link>
+      <description><![CDATA[您好，我使用 Nugget for Windows 安装了 Dynamic Island，并且从 ESign 侧载了 Eevee Spotify，但是当我开始播放一首歌曲时，即使我仍在 Spotify 应用程序中，动态岛也会打开，侧载的 YouTube 短片也是一样，有人知道如何解决这个问题吗？也许更改签名文件？    提交人    /u/These-Shape7216   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fwlu8q/dynamic_island_turns_on_in_tweaked_spotify/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:32:28 GMT</pubDate>
+    </item>
     <item>
       <title>在开发账户上出售位置有什么缺点吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fwjvfj/any_downside_to_selling_spots_on_dev_account/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[请发送链接或给我留言，我想要一个可以成功更改国家/地区的链接...    提交人    /u/AdorableFeedback297   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fw5y31/any_working_tiktok_ipa/</guid>
       <pubDate>Fri, 04 Oct 2024 18:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>在终于学会了如何在 IOS 设备上侧载 IPA 之后，我却找不到任何可以下载的 IPA。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fw5sol/after_finally_learning_how_to_sideload_ipas_on_an/</link>
-      <description><![CDATA[我花了几个月的时间才明白如何在我的 IOS 设备上侧载被破解/修改过的游戏（在喝了好几杯咖啡、流了好几滴眼泪、精神崩溃之后），现在我似乎找不到任何能用的 IPA。  （说清楚点：我对被破解/修改过的游戏很感兴趣） 而且 IPA 总是有问题。以下是我遇到的错误：  网站上显示的 IPA 与应用程序完全不同......（我下载了一款蜘蛛侠游戏，却得到了一款蜘蛛侠主题的地铁跑酷山寨版）。 应用程序安装成功，但需要付款/订阅才能“激活 mod”......（IOSGods 不会让您在没有支付 VIP 帐户的情况下使用他们的应用程序）。  该应用程序是很久以前的应用程序，它们不再运行，并要求您更新应用程序 - 这只会将我重定向到 App Store 下载合法游戏......（我安装的哈利波特：霍格沃茨之谜 IPA 拒绝让我玩，直到我将游戏“升级”到最新版本）。  有些应用程序安装成功，是免费的，并且不旧，所以它们运行良好。直到游戏开始约 5 分钟后，应用程序才会崩溃并在特定检查点强制退出......（在另一个我安装的哈利波特：霍格沃茨之谜 IPA 中，来自 Telegram - 因为我在浏览器上找不到免费的工作 IPA，所以这个游戏相对较新、免费并且可以运行。直到游戏开始后的 5 分钟，在我完成游戏的第一个任务（学习 Lumos 魅力）的那一刻，应用程序几乎是故意地不断崩溃并退出应用程序）。  如果您阅读了所有内容，谢谢（真诚地）🙇‍♂️。 我希望任何人都愿意分享任何免费的、仍在运行的、经过修改的游戏，因为出于我的爱，我甚至找不到一个！ 😁👍     提交人    /u/Intelligent-Park-699   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fw5sol/after_finally_learning_how_to_sideload_ipas_on_an/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>MisakaX 调整可以在 ios 18.0.1 上运行吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fw5147/misakax_tweak_work_on_ios_1801/</link>
-      <description><![CDATA[我想知道它是否适用于此更新？     提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fw5147/misakax_tweak_work_on_ios_1801/</guid>
-      <pubDate>Fri, 04 Oct 2024 17:39:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳付费证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fw4wnr/best_paid_certs/</link>
-      <description><![CDATA[我在哪里可以找到具有所有权利的最佳付费证书 VPN、通知等......保修是什么样的？    提交人    /u/Cjo_21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fw4wnr/best_paid_certs/</guid>
-      <pubDate>Fri, 04 Oct 2024 17:34:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
