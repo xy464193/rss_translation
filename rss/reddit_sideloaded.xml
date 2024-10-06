@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 06 Oct 2024 06:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 09:10:16 GMT</lastBuildDate>
+    <item>
+      <title>为什么人们在签署应用程序时要删除 mobileprovisioning 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fxb7b5/why_do_people_remove_the_mobileprovisioning_file/</link>
+      <description><![CDATA[我只是想知道为什么。    提交人    /u/Then_Medium_2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fxb7b5/why_do_people_remove_the_mobileprovisioning_file/</guid>
+      <pubDate>Sun, 06 Oct 2024 07:34:43 GMT</pubDate>
+    </item>
     <item>
       <title>有人能解释一下为什么我可以下载 eSign 但不能下载其他应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fx9gqr/can_someone_please_explain_why_i_can_download/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>我得到了 Flekstore，但一直显示“无法安装（应用程序名称）请验证应用程序的完整性”，请帮忙吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fwzs73/i_got_flekstore_but_kept_getting_unable_to/</link>
-      <description><![CDATA[我安装了 Flekstore，但是当我尝试下载应用程序时，系统会提示“请验证完整性”。我尝试了他们的支持，但尚未得到回复。有人能帮我吗？提前谢谢您！    提交人    /u/Nekoboi103   [link] [评论]]]></description>
+      <description><![CDATA[我安装了 Flekstore，但当我尝试下载应用程序时，系统会提示“请验证完整性”。我尝试了他们的支持，但尚未得到回复。有人能帮我吗？提前谢谢您！    提交人    /u/Nekoboi103   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fwzs73/i_got_flekstore_but_kept_getting_unable_to/</guid>
       <pubDate>Sat, 05 Oct 2024 20:38:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我用起来感觉不错。但我无法让 Krava 工作。什么都不会签名和安装。 iOS 18.1 不在乎是否要付费 谢谢    由   提交  /u/ConSemaforos   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fwz4nz/what_yall_using_thats_equivalent_to_maplesigner/</guid>
       <pubDate>Sat, 05 Oct 2024 20:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该升级到 iOS 18？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fwyw2s/should_i_upgrade_to_ios_18/</link>
-      <description><![CDATA[我使用的是 17.4.1 版本，我希望 TrollStore 能够出现在我的版本中，但似乎不可能，所以我应该这样做吗？     提交人    /u/Huge_Writing_7620   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fwyw2s/should_i_upgrade_to_ios_18/</guid>
-      <pubDate>Sat, 05 Oct 2024 19:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
