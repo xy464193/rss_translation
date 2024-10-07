@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 07 Oct 2024 12:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:10:52 GMT</lastBuildDate>
+    <item>
+      <title>家庭助理的 Altserver 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fy8r98/altserver_for_home_assistant/</link>
+      <description><![CDATA[大家好， 我想知道是否有人正在考虑这个想法：在 HomeAssistant OS 上运行 AltStore 服务器。 有些人可能会说：SideStore！是的，我正在运行它……但我也有 DNS Cloak 来阻止系统范围的广告。这阻止我加入 WireGuard VPN，而且我不想每次都手动切换。所以我猜自己……如果在 Home Assistant 上运行 AltServer 会怎么样？那可能很棒！    提交人    /u/Extension-Plum-5532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fy8r98/altserver_for_home_assistant/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:18:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Satella 和非 JB 设备</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fy7b20/satella_and_nonjb_devices/</link>
+      <description><![CDATA[Satella 让我感觉自己像个侧载菜鸟，主要是因为到处都是过时的信息。   我有一部非 JB iOS18 iPhone。使用 Satella 注入 iAP 绕过的应用程序可以工作吗？ 如果可以，使用 eSign，我需要在 Library injection 设置下做什么吗？  如果可以，做什么？将注入文件夹调整为 Frameworks/？  如果可以，使用 eSign，我需要安装 SatellaJailed.dylib 吗？  谢谢！    提交人    /u/captn1776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fy7b20/satella_and_nonjb_devices/</guid>
+      <pubDate>Mon, 07 Oct 2024 13:13:46 GMT</pubDate>
+    </item>
     <item>
       <title>埃根撞车</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fy5jyn/egern_crashing/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>哪个破解的 Instagram 应用程序在 iOS 18 中获得了暗模式图标？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fy0slb/which_cracked_instagram_app_gets_the_dark_mode/</link>
-      <description><![CDATA[似乎找不到任何可行的方法。  如果都不起作用，是否有暗模式 PNG，我可以使用它在安装应用程序时将其设为图标？    提交人    /u/Ajxtt   [link] [评论]]]></description>
+      <description><![CDATA[似乎找不到任何有效的方法。  如果都不起作用，是否有暗模式 PNG，我可以使用它在安装应用程序时将其设为图标？    提交人    /u/Ajxtt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fy0slb/which_cracked_instagram_app_gets_the_dark_mode/</guid>
       <pubDate>Mon, 07 Oct 2024 05:56:53 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>电影流媒体应用程序有多种语言吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fxt1kb/movie_streaming_apps_with_different_languages/</link>
-      <description><![CDATA[我不是一个以英语为母语的人，但我很喜欢看用我的母语意大利语制作的节目。  这可能吗？我搜索过了，但一无所获。    提交人    /u/Poggiolina   [link] [评论]]]></description>
+      <description><![CDATA[我不是一个以英语为母语的人，但我很喜欢看用我的母语意大利语播出的节目。  这可能吗？我搜索过了，但一无所获。    提交人    /u/Poggiolina   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fxt1kb/movie_streaming_apps_with_different_languages/</guid>
       <pubDate>Sun, 06 Oct 2024 22:44:07 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我在 eevvee Spotify 上，想将我的本地文件放入其中，但我不知道该怎么做。在普通的 Spotify 上，我只需将它们带到 ios 上文件应用程序的文件夹中，它就会出现在我的本地文件中，但现在我的文件中没有 Spotify 文件夹，因为我正在使用 eevvee。有没有办法将我的本地文件歌曲放入我的应用程序中，请帮忙。    提交人    /u/Kassra_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fxsnnl/eevvee_spotify_local_files_help/</guid>
       <pubDate>Sun, 06 Oct 2024 22:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频明星高级版的 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fxnxru/ipa_for_video_star_premium/</link>
-      <description><![CDATA[我想要一个真正有效的。我已经搜索了一段时间了。    提交人    /u/Worried_Impact3256   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fxnxru/ipa_for_video_star_premium/</guid>
-      <pubDate>Sun, 06 Oct 2024 18:58:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>随机 MacBook Pro 用于侧面存储后登录了我的苹果账户！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fxmu9h/random_macbook_pro_logged_in_my_apple_account/</link>
-      <description><![CDATA[昨天我获得了 sidestore 并使用我的苹果账户信息登录，它工作正常，我侧载了许多经过调整的应用程序，并且运行顺利，但是我昨天注意到一台新的 macbook pro 15 设备与我的 iphone 一起登录了我的苹果账户，我没多想就注销了，我今天再次检查，发现我的 macbook pro 15 和 13 都登录了，我应该担心吗？其他人也遇到过这种情况吗？我该怎么办？谢谢    提交人    /u/5irin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fxmu9h/random_macbook_pro_logged_in_my_apple_account/</guid>
-      <pubDate>Sun, 06 Oct 2024 18:11:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
