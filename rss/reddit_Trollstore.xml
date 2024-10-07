@@ -4,11 +4,18 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:09:31 GMT</lastBuildDate>
+    <item>
+      <title>无法安装 trollhelper</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1fyf0rm/cant_install_trollhelper/</link>
+      <description><![CDATA[      无法安装 trollhelper，因为无法验证完整性。有什么解决方法吗？  iOS 16.0.2，iPhone 14 pro max。     由   提交  /u/Palmonte88   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1fyf0rm/cant_install_trollhelper/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:36:48 GMT</pubDate>
+    </item>
     <item>
       <title>是否存在这样的功能？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fxov7u/does_a_feature_like_this_exist/</link>
-      <description><![CDATA[      有没有办法自动使用 jit 打开应用程序而无需启动 trollstore？    提交人    /u/BushySlumpedZzz   [链接] [评论] ]]></description>
+      <description><![CDATA[      有没有办法使用 jit 自动打开应用程序而无需启动 trollstore？    提交人    /u/BushySlumpedZzz   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fxov7u/does_a_feature_like_this_exist/</guid>
       <pubDate>Sun, 06 Oct 2024 19:38:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>政府应用程序崩溃</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1fs0p82/government_app_crash/</link>
-      <description><![CDATA[您好，我基本上是一个 Trollstore 用户，不太喜欢越狱，因为它没有很好的绕过调整来绕过银行或政府应用程序等。之前曾经是一个越狱者，但现在我已经一个半星期没有使用任何越狱了，我有一个政府应用程序在立即打开它时不断崩溃，这个事件从上周三开始发生。 我之前一直在使用血清素，并且知道它的文件散落在 Filza 中，因此删除了它们。服用血清素后，我使用了一段时间的 NathanLR，现在删除了它，只继续使用 trollstore 应用程序，如 instagram、snapchat 等等。 现在我的一个 Gov 应用程序不断崩溃，如果可能的话，我需要有人帮助我修复它的步骤🙏 Iphone 14PM IOS 16.6.1  编辑； 使用 trollstore 版本的 VarClean 解决了它，而不是 NathanLR 或 Bootstrap 版本    提交人    /u/Moist_Term7074   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我基本上是一个 Trollstore 用户，不太喜欢越狱，因为它没有很好的绕过调整来绕过银行或政府应用程序等。之前曾经是一个越狱者，但现在我已经一个半星期没有使用任何越狱了，我有一个政府应用程序在立即打开它时不断崩溃，这个事件从上周三开始发生。 我之前一直在使用血清素，并且知道它的文件散落在 Filza 中，因此删除了它们。服用血清素后，我使用了一段时间的 NathanLR，现在删除了它，只继续使用 trollstore 应用程序，如 instagram、snapchat 等等。 现在我的 one Gov 应用程序不断崩溃，如果可能的话，我需要有人帮助我修复它的步骤🙏 Iphone 14PM IOS 16.6.1  编辑； 使用 trollstore 版本的 VarClean 解决了它，而不是 NathanLR 或 Bootstrap 版本    提交人    /u/Moist_Term7074   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fs0p82/government_app_crash/</guid>
       <pubDate>Sun, 29 Sep 2024 09:41:10 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[请帮忙    由   提交  /u/The_MORNING-STAR-   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fremug/can_i_downgrade_to_170_from_1761_iphone_13/</guid>
       <pubDate>Sat, 28 Sep 2024 13:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何允许游戏手柄映射的应用程序吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1frd4ew/any_apps_that_allow_gamepad_mapping/</link>
-      <description><![CDATA[过去几天尝试寻找这样的东西，但真的一无所获。对 jb 的 2 个调整很久以前就停止了，就是这样。我在 iOS 16.6.1 上。    提交人    /u/shordie_shordie71   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1frd4ew/any_apps_that_allow_gamepad_mapping/</guid>
-      <pubDate>Sat, 28 Sep 2024 12:24:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
