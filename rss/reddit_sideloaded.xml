@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 12:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 15:10:30 GMT</lastBuildDate>
+    <item>
+      <title>替代商店 + 侧边商店</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz1mqe/altstore_sidestore/</link>
+      <description><![CDATA[你好！这可能是一个愚蠢的问题，但我刚刚在使用 altstore 一年多之后设置了 sidestore，因为它看起来非常有用。我想知道您是否需要不断刷新 altstore（通过 PC 插件）以确保 sidestore 保持功能正常，或者 sidestore 是否通过 vpn 自行处理？谢谢 :)    提交人    /u/dahliagoose   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz1mqe/altstore_sidestore/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧面装入 IPA 的自动游戏模式开启</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</link>
+      <description><![CDATA[购买了 Kravasign 开发者证书，下载了 Kravasign、E-sign、Feather。但是，我签名/安装的每个 IPA 都会打开游戏模式，每次打开侧载 IPA 时，我都会在顶部收到一个通知弹出窗口。所有侧载 IPA 都会发生这种情况，包括非游戏 IPA。例如 Youtube Music、Kravasign、Feather 等。  我刚刚更新到 iOS 18 Beta 6（之前是 iOS 18 Beta 2 和 3）。每个版本都存在此问题。 有什么想法可以解决此问题或禁用正在打开的游戏模式吗？    提交人    /u/pryde5abi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</guid>
+      <pubDate>Tue, 08 Oct 2024 13:26:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>.APP 文件 iOS 的文件管理器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyz1uv/file_manager_for_app_files_ios/</link>
+      <description><![CDATA[我可以使用任何侧载应用程序来修改 iOS 上的 .APP 文件吗？我想修改 iOS 版 KOTOR，虽然我可以看到 .APP 包中的 IPA 内容，但我无法提取它们或将它们上传到任何可以提取/修改的地方。我正在尝试修改 iOS 版 KOTOR 1。 谢谢。    提交人    /u/Old_Lie_91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyz1uv/file_manager_for_app_files_ios/</guid>
+      <pubDate>Tue, 08 Oct 2024 12:52:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>证书类型</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyyjzo/type_of_certificate/</link>
+      <description><![CDATA[所以我决定从 apptesters 购买证书， 我应该获得哪种证书，发行版还是开发版？ 我只想侧载很多应用程序。 提前谢谢您！    提交人    /u/lumename_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyyjzo/type_of_certificate/</guid>
+      <pubDate>Tue, 08 Oct 2024 12:27:23 GMT</pubDate>
+    </item>
     <item>
       <title>我需要你们的帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fyxotq/i_need_yall_help/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我能够通过隐私和安全在我的 iphone 13 上找到它，但它不在我的 ipad 上，我尝试将它插入我的电脑而不打开它，sideloadly 无法识别任何东西，但它在我的手机上运行良好     提交人    /u/Affectionate__Dog   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fynnft/where_is_developer_mode_on_my_ipad_pro_ios_18/</guid>
       <pubDate>Tue, 08 Oct 2024 00:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法从手机安装 ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fylzu0/is_there_a_way_to_install_ipa_from_your_phone/</link>
-      <description><![CDATA[嗨，我无法理解如何使用 github 存储库或如何获取它们，所以我最终直接在 iPhone 上下载我想要的应用程序 (Mangayomi) 的 ipa。 但是有没有应用程序可以直接从您的文件中安装 ipa ？我在这里问是因为我找不到任何有价值的东西    提交人    /u/WarAke51   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fylzu0/is_there_a_way_to_install_ipa_from_your_phone/</guid>
-      <pubDate>Mon, 07 Oct 2024 23:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 temu++ ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fykiz6/looking_for_a_temu_ipa/</link>
-      <description><![CDATA[我到处都找过了，请大家帮帮忙。    提交人    /u/Asleep-Flounder-4349   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fykiz6/looking_for_a_temu_ipa/</guid>
-      <pubDate>Mon, 07 Oct 2024 22:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>已更新至 iOS 18 Beta 6</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyjslw/updated_to_ios_18_beta_6/</link>
-      <description><![CDATA[我最近更新到了最新的测试版，现在我的侧载应用都无法正常运行。我尝试重新安装它们，但它们一直崩溃。我甚至尝试使用 Signulous，但也没用。我有一个 Apple 开发者帐户，但我仍然无法找出问题所在。有什么建议吗？    提交人    /u/ItsMeDarthVader   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyjslw/updated_to_ios_18_beta_6/</guid>
-      <pubDate>Mon, 07 Oct 2024 21:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以推荐没有短片的 YouTube 替代品吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyjgvs/can_someone_recommend_a_youtube_alternative_that/</link>
-      <description><![CDATA[我只想使用没有 Shorts 的 YouTube。 我不知道使用其他 YouTube 应用的体验如何，您还能登录您的帐户吗？ YouTube 供稿不再是算法的吗？我想知道我在这里遇到了什么。 我最大的恐惧是因使用其他 YouTube 应用而被禁止或类似的事情。 编辑：作为参考，我曾经侧载的唯一东西是几年前 Alt 商店问世时的 delta。 我不知道我应该在哪里获得 IPA(?)，以及我是否仍然可以使用 altstore 来保持一切正常。    提交人    /u/dr_sust   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyjgvs/can_someone_recommend_a_youtube_alternative_that/</guid>
-      <pubDate>Mon, 07 Oct 2024 21:40:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
