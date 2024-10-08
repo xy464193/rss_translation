@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 00:46:05 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法从手机安装 ipa？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fylzu0/is_there_a_way_to_install_ipa_from_your_phone/</link>
+      <description><![CDATA[嗨，我无法理解如何使用 github 存储库或如何获取它们，所以我最终直接在 iPhone 上下载我想要的应用程序 (Mangayomi) 的 ipa。 但是有没有应用程序可以直接从您的文件中安装 ipa ？我在这里问是因为我找不到任何有价值的东西    提交人    /u/WarAke51   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fylzu0/is_there_a_way_to_install_ipa_from_your_phone/</guid>
+      <pubDate>Mon, 07 Oct 2024 23:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 temu++ ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fykiz6/looking_for_a_temu_ipa/</link>
+      <description><![CDATA[我到处都找过了，请大家帮帮忙。    提交人    /u/Asleep-Flounder-4349   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fykiz6/looking_for_a_temu_ipa/</guid>
+      <pubDate>Mon, 07 Oct 2024 22:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>已更新至 iOS 18 Beta 6</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyjslw/updated_to_ios_18_beta_6/</link>
+      <description><![CDATA[我最近更新到了最新的测试版，现在我的侧载应用都无法正常运行。我尝试重新安装它们，但它们一直崩溃。我甚至尝试使用 Signulous，但也没用。我有一个 Apple 开发者帐户，但我仍然无法找出问题所在。有什么建议吗？    提交人    /u/ItsMeDarthVader   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyjslw/updated_to_ios_18_beta_6/</guid>
+      <pubDate>Mon, 07 Oct 2024 21:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以推荐没有短片的 YouTube 替代品吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyjgvs/can_someone_recommend_a_youtube_alternative_that/</link>
+      <description><![CDATA[我只想使用没有 Shorts 的 YouTube。 我不知道使用其他 YouTube 应用的体验如何，您还能登录您的帐户吗？ YouTube 供稿不再是算法的吗？我想知道我在这里遇到了什么。 我最大的恐惧是因使用其他 YouTube 应用而被禁止或类似的事情。 编辑：作为参考，我曾经侧载的唯一东西是几年前 Alt 商店问世时的 delta。 我不知道我应该在哪里获得 IPA(?)，以及我是否仍然可以使用 altstore 来保持事情正常进行。    提交人    /u/dr_sust   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyjgvs/can_someone_recommend_a_youtube_alternative_that/</guid>
+      <pubDate>Mon, 07 Oct 2024 21:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>替代方案二flext0re</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fyjeo7/alternative_to_flekst0re/</link>
+      <description><![CDATA[我已经使用 flekst0re 一年多了，一切都很好，直到我决定购买 iPhone 16，自从我升级并联系客服获取新证书后，我就一直没有人理我。他们不回复或回答任何问题。我正在寻找一种像 flekst0re 一样的替代品，看看有没有类似的东西。提前谢谢您。     提交人    /u/Cannasseur_nuglet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fyjeo7/alternative_to_flekst0re/</guid>
+      <pubDate>Mon, 07 Oct 2024 21:37:39 GMT</pubDate>
+    </item>
     <item>
       <title>有人听说过屏蔽广告的 Pinterest ipa 吗？还有希望吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fyiq75/has_anyone_heard_of_an_adblocked_pinterest_ipa_is/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[Satella 让我感觉自己像个侧载菜鸟，主要是因为到处都是过时的信息。    我有一部非 JB iOS18 iPhone。使用 Satella 注入 iAP 绕过的应用程序可以工作吗？  如果可以，使用 eSign，我需要在 Library injection 设置下做什么吗？  如果可以，做什么？将注入文件夹调整为 Frameworks/？   如果可以，使用 eSign，我需要安装 SatellaJailed.dylib 吗？  谢谢！ 显然我需要试一试。是的，我尝试了不同的安装方法。是的，我尝试了多个应用程序是的，所有带有 Satella 的应用程序仍然无法正常工作。  我只想问的是，侧载时我是否需要做任何特别的事情。    提交人    /u/captn1776   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fy7b20/satella_and_nonjb_devices/</guid>
       <pubDate>Mon, 07 Oct 2024 13:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃根撞车</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy5jyn/egern_crashing/</link>
-      <description><![CDATA[大家好，我需要有关 Egern 的帮助，为什么其他所有应用程序（例如 uYou、Adobe、TradingView 等）都可以运行，但当我打开 Egern 时它却一直崩溃？顺便说一下，我是通过 ESign 下载的它们     提交人    /u/Additional-War-837   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy5jyn/egern_crashing/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是最好的应用程序？？？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy4p9i/what_are_the_best_apps/</link>
-      <description><![CDATA[我最近刚开始在手机上进行侧载。我拥有所有基本应用程序，但在安装 1 个之后，我想知道您拥有的不同应用程序的最佳 ipa 版本是什么。那当然有效 😅    提交人    /u/ronn__lI   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy4p9i/what_are_the_best_apps/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的实时容器错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy2n0m/weird_live_container_error/</link>
-      <description><![CDATA[我安装了带有侧存储的实时容器并希望启用 Jitless 支持，但出现了一个奇怪的错误，内容类似：AFT 文件系统无法处理文件。我不记得确切的消息了。有人知道为什么会发生这种情况吗？    提交人    /u/Southern-File6554   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy2n0m/weird_live_container_error/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nextdns 方法为何泄露</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy1w23/why_did_nextdns_method_leaked/</link>
-      <description><![CDATA[我在学校的时候看到我的应用程序被撤销了，必须说我有 60/300k 个请求，所以不可能是那样，我一切都按照方法做了，那为什么它会随机撤销呢？它工作得很好很长一段时间？    提交人    /u/Revolutionary_Map916   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy1w23/why_did_nextdns_method_leaked/</guid>
-      <pubDate>Mon, 07 Oct 2024 07:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>重启后 E sign 无法启动？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy1pen/e_sign_wont_boot_after_restart/</link>
-      <description><![CDATA[我从加拿大搬到了美国，需要更改付费电话套餐，所以我重启了手机。我完全遵循了 E sign 指南，并使用下一个 DNS 创建了自己的 DNS。一切都运行正常，直到我重启，然后进入设置  VPN 和设备管理 &gt; E Sign 配置显示我需要验证我的应用程序。  我绝对不可能被列入黑名单，但如果我被列入了黑名单，有什么办法可以备份或保留我的游戏吗？我使用的是 iPhone 14 Pro iOS 18.0.1，大约 3 天前安装了 e sign。我也尝试过验证应用程序按钮，但显然它不起作用。 提前致谢    提交人    /u/Breh_________Moment   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy1pen/e_sign_wont_boot_after_restart/</guid>
-      <pubDate>Mon, 07 Oct 2024 07:03:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
