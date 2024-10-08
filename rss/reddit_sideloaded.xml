@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 00:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 03:18:47 GMT</lastBuildDate>
+    <item>
+      <title>侧载新手建议安装一些值得安装的应用/游戏</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fypy6f/new_to_sideloading_suggest_some_appsgames_worth/</link>
+      <description><![CDATA[大家好， 我最近用 esign 设置了我的 iphone，我可以侧载应用程序。我知道这取决于使用情况和偏好，但请推荐一些值得拥有的应用程序/游戏和值得信赖的 repo。 谢谢！    提交人    /u/Shiv9826   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fypy6f/new_to_sideloading_suggest_some_appsgames_worth/</guid>
+      <pubDate>Tue, 08 Oct 2024 02:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 iPad Pro 上的开发者模式在哪里（iOS 18）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fynnft/where_is_developer_mode_on_my_ipad_pro_ios_18/</link>
+      <description><![CDATA[我能够通过隐私和安全在我的 iphone 13 上找到它，但它不在我的 ipad 上，我尝试将它插入我的电脑而不打开它，sideloadly 无法识别任何东西，但它在我的手机上运行良好     提交人    /u/Affectionate__Dog   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fynnft/where_is_developer_mode_on_my_ipad_pro_ios_18/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:54:53 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法从手机安装 ipa？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fylzu0/is_there_a_way_to_install_ipa_from_your_phone/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有什么办法吗？    提交人    /u/Positive-Chef-8314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fyao07/how_do_i_get_apple_intelligence_on_my_iphone_12/</guid>
       <pubDate>Mon, 07 Oct 2024 15:38:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>家庭助理的 Altserver 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy8r98/altserver_for_home_assistant/</link>
-      <description><![CDATA[大家好， 我想知道是否有人正在考虑这个想法：在 HomeAssistant OS 上运行 AltStore 服务器。 有些人可能会说：SideStore！是的，我正在运行它……但我也有 DNS Cloak 来阻止系统范围的广告。这阻止我加入 WireGuard VPN，而且我不想每次都手动切换。所以我猜自己……如果在 Home Assistant 上运行 AltServer 会怎么样？那可能很棒！    提交人    /u/Extension-Plum-5532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy8r98/altserver_for_home_assistant/</guid>
-      <pubDate>Mon, 07 Oct 2024 14:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satella 和非 JB 设备</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fy7b20/satella_and_nonjb_devices/</link>
-      <description><![CDATA[Satella 让我感觉自己像个侧载菜鸟，主要是因为到处都是过时的信息。    我有一部非 JB iOS18 iPhone。使用 Satella 注入 iAP 绕过的应用程序可以工作吗？  如果可以，使用 eSign，我需要在 Library injection 设置下做什么吗？  如果可以，做什么？将注入文件夹调整为 Frameworks/？   如果可以，使用 eSign，我需要安装 SatellaJailed.dylib 吗？  谢谢！ 显然我需要试一试。是的，我尝试了不同的安装方法。是的，我尝试了多个应用程序是的，所有带有 Satella 的应用程序仍然无法正常工作。  我只想问的是，侧载时我是否需要做任何特别的事情。    提交人    /u/captn1776   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fy7b20/satella_and_nonjb_devices/</guid>
-      <pubDate>Mon, 07 Oct 2024 13:13:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
