@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 15:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 18:13:55 GMT</lastBuildDate>
+    <item>
+      <title>Esign 不会显示在设备管理中</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz57gw/esign_wont_show_up_in_device_management/</link>
+      <description><![CDATA[      试过很多次，就是不起作用     提交人    /u/3rdplace22   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz57gw/esign_wont_show_up_in_device_management/</guid>
+      <pubDate>Tue, 08 Oct 2024 17:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore 撤销 Altstore</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz4n7n/sidestore_revoke_altstore/</link>
+      <description><![CDATA[嗨！ 我按照说明安装了 SideStore，但每次想要刷新应用程序时都会收到这条消息： « 您想撤销以前的证书吗？ AltStore » 如果我单击“是”并刷新 SideStore，我无法重新打开应用程序，因为它会因 altstore 证书撤销和 SideStore 无法自行刷新而崩溃。 我不明白我做错了什么。 你能帮帮我吗？    提交人    /u/vincentfer66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz4n7n/sidestore_revoke_altstore/</guid>
+      <pubDate>Tue, 08 Oct 2024 16:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装 Esign 后证书没有显示？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz4kh2/certificate_not_showing_after_installing_esign/</link>
+      <description><![CDATA[您好！当我安装 Esign 时，我的“VPN 和设备管理”上没有显示任何内容。我无法打开 esign，因为它说它未经验证。我上个月已经尝试过了，它起作用了，但现在不行了。    提交人    /u/StaryNayt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz4kh2/certificate_not_showing_after_installing_esign/</guid>
+      <pubDate>Tue, 08 Oct 2024 16:52:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不更新至 16.7.8 的情况下恢复 iphone x？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz48zz/how_to_restore_iphone_x_without_updating_it_to/</link>
+      <description><![CDATA[我的 iphone x 大约两年前损坏了，今天修好了。3 个小时后，手机一直卡在“iphone 不可用，请重试”状态。我很确定它有一个与 trollstore 兼容的 ios 版本。我想在不将其更新到 16.7.8 的情况下恢复/还原/重置它。我没有备份或 blob 或任何东西。那么这可能吗？如何实现？    提交者    /u/2ca8vid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz48zz/how_to_restore_iphone_x_without_updating_it_to/</guid>
+      <pubDate>Tue, 08 Oct 2024 16:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有应用程序停止运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fz2s4v/all_apps_stoped_working/</link>
+      <description><![CDATA[一切都突然消失了。证书是否被撤销了，或者 DNS 是否需要更新    提交人    /u/fololologrt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fz2s4v/all_apps_stoped_working/</guid>
+      <pubDate>Tue, 08 Oct 2024 15:38:08 GMT</pubDate>
+    </item>
     <item>
       <title>替代商店 + 侧边商店</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fz1mqe/altstore_sidestore/</link>
@@ -13,7 +48,7 @@
       <pubDate>Tue, 08 Oct 2024 14:50:04 GMT</pubDate>
     </item>
     <item>
-      <title>侧面装入 IPA 的自动游戏模式开启</title>
+      <title>侧面装入的 IPA 自动开启游戏模式</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</link>
       <description><![CDATA[购买了 Kravasign 开发者证书，下载了 Kravasign、E-sign、Feather。但是，我签名/安装的每个 IPA 都会打开游戏模式，每次打开侧载 IPA 时，我都会在顶部收到一个通知弹出窗口。所有侧载 IPA 都会发生这种情况，包括非游戏 IPA。例如 Youtube Music、Kravasign、Feather 等。  我刚刚更新到 iOS 18 Beta 6（之前是 iOS 18 Beta 2 和 3）。每个版本都存在此问题。 有什么想法可以解决此问题或禁用正在打开的游戏模式吗？    提交人    /u/pryde5abi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[我被列入了 esign 的黑名单，而且没有电脑，我该如何使用它来进行侧载     提交人    /u/HabibGomez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fysbr7/need_help/</guid>
       <pubDate>Tue, 08 Oct 2024 05:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AltStore 和 AltStore 小部件 ID</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fysah8/altstore_and_altstore_widget_ids/</link>
-      <description><![CDATA[我需要它们吗？或者我可以让它们在侧边存储中过期吗？    提交人    /u/Hoversuits   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fysah8/altstore_and_altstore_widget_ids/</guid>
-      <pubDate>Tue, 08 Oct 2024 05:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需 PC 即可进行侧载，可以吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyrxuc/sideload_without_pc_possible/</link>
-      <description><![CDATA[我现在没有电脑，但我想使用 sideload 下载一些 ipa，有没有不用电脑的方法？    提交人    /u/Intelligent-Term2881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyrxuc/sideload_without_pc_possible/</guid>
-      <pubDate>Tue, 08 Oct 2024 04:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>调整门</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyr7dj/tweak_door/</link>
-      <description><![CDATA[我在哪里可以下载视频明星我遇到了问题    提交人    /u/Exact_Emu2834   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyr7dj/tweak_door/</guid>
-      <pubDate>Tue, 08 Oct 2024 04:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载新手建议安装一些值得安装的应用/游戏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fypy6f/new_to_sideloading_suggest_some_appsgames_worth/</link>
-      <description><![CDATA[大家好， 我最近用 esign 设置了我的 iphone，我可以侧载应用程序。我知道这取决于使用情况和偏好，但请推荐一些值得拥有的应用程序/游戏和值得信赖的 repo。 谢谢！    提交人    /u/Shiv9826   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fypy6f/new_to_sideloading_suggest_some_appsgames_worth/</guid>
-      <pubDate>Tue, 08 Oct 2024 02:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 iPad Pro 上的开发者模式在哪里（iOS 18）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fynnft/where_is_developer_mode_on_my_ipad_pro_ios_18/</link>
-      <description><![CDATA[我能够通过隐私和安全在我的 iphone 13 上找到它，但它不在我的 ipad 上，我尝试将它插入我的电脑而不打开它，sideloadly 无法识别任何东西，但它在我的手机上运行良好     提交人    /u/Affectionate__Dog   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fynnft/where_is_developer_mode_on_my_ipad_pro_ios_18/</guid>
-      <pubDate>Tue, 08 Oct 2024 00:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
