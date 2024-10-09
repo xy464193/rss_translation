@@ -4,7 +4,70 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 21:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:45:55 GMT</lastBuildDate>
+    <item>
+      <title>缓存提升下一个 DNS</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzf3ui/cache_boost_next_dns/</link>
+      <description><![CDATA[如果我使用缓存增强来减少查询，它会影响被阻止的域名的反撤销吗     提交人    /u/MaazzYT   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzf3ui/cache_boost_next_dns/</guid>
+      <pubDate>Wed, 09 Oct 2024 00:34:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>猩红撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzeqtc/scarlet_revoked/</link>
+      <description><![CDATA[几天来一直试图安装 scarlet，但好像它被撤销了，有人知道它什么时候会恢复吗？    提交人    /u/Jxss111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzeqtc/scarlet_revoked/</guid>
+      <pubDate>Wed, 09 Oct 2024 00:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证电子签名时遇到问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzdp8w/got_a_problem_with_verifying_e_sign/</link>
+      <description><![CDATA[因此，当我尝试验证电子签名时，它会加载大约半秒钟，然后就是无法验证，我的互联网很好，我正在使用 17.7 iOS 设备执行此操作，如果这有助于缩小我的问题范围，我只是尝试下载 scarlet    提交人    /u/HatEvery8437   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzdp8w/got_a_problem_with_verifying_e_sign/</guid>
+      <pubDate>Tue, 08 Oct 2024 23:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道问题是什么吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzczpu/anyone_know_what_the_problem_is/</link>
+      <description><![CDATA[我已经侧载了一段时间，我弟弟让我在他的手机上下载 ESign。我帮他做了这件事，它运行得很好，直到我尝试用我下载了 Esign 的另一个证书签署一个应用程序，但没有出现企业应用程序，然后他让我在他的手机上下载 GBox 来签署一个特定的应用程序，但没有出现企业应用程序，所以他只能在同一个证书上的 ESign 上下载东西。他下载了它，任何人都知道问题出在谁身上。    提交人    /u/Worried_Impact3256   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzczpu/anyone_know_what_the_problem_is/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>当证书被撤销时，是否有办法保护应用程序数据，就像 HDFC 的情况一样？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzcu6i/is_there_a_way_to_protect_app_data_when_a/</link>
+      <description><![CDATA[我是 iOS 18.0.0 上的 Esign 用户，我对基于 Esign 安装的应用程序的数据有疑问。 Q1。如何备份和恢复单个侧载应用程序？  这是指备份应用程序本身，而不是指南中提到的完整设备备份和恢复。  Q2。用于侧载的应用程序（如 Esign 或 Feathers）是否有计划为其安装的应用程序支持备份功能？ Q3。当证书被撤销时（就像今天一样），是否有办法在使用其他证书重新安装时保留以前的应用程序数据而无需备份？  如果我因自己的过错而被列入黑名单，那是我的错误，尽管这会很麻烦和令人沮丧，但我很乐意通过备份和恢复来尝试使情况正常化。 但是，当证书本身突然被撤销，导致应用程序停止运行时，我会非常痛苦。 特别是在今天这样的情况下，HDFC 证书被撤销，而我无法使用相同的证书重新认证，这让我发疯。 这是因为我有可能丢失所有数据，而我事先没有为这种情况做好准备。 当然，有些应用程序具有内部同步功能，但大多数应用程序缺乏这种功能或不完整，有些只在本地存储数据。举一个直接的例子，由于之前和今天的证书撤销，HashPhoto“再次”崩溃，导致内部存储的1700张照片和视频丢失。    submitted by    /u/Main-Necessary6161   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzcu6i/is_there_a_way_to_protect_app_data_when_a/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>监禁胡萝卜天气高级 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzcooe/jailed_carrot_weather_premium_ipa/</link>
+      <description><![CDATA[我找不到任何，我以前有一个，但随机停止工作了。我没有 trollstore，我从来没有    提交人    /u/Pretty-Kiwi2054   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzcooe/jailed_carrot_weather_premium_ipa/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助这个新手！Esign 停止工作了 :(</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzclni/help_this_newb_out_esign_stopped_working/</link>
+      <description><![CDATA[哟，所以我按照 PureEnvyUs 或 wtvr 的指南操作，一切都运行良好，直到大约几周后，我决定从电报组安装 appleP12 / 移动配置文件。我这样做是因为某些 Esign 应用程序根本无法安装，因为它们需要 P12 证书。但由于某种原因，我使用新的 P12 证书安装的应用程序仍然有效，但 Esign 应用程序本身和以前的应用程序被撤销了？请注意，我已经设置了自己的 DNS 并完成了整个拒绝列表并完美地遵循了所有内容。  我是否要从头开始并坚持使用常规应用程序（不需要 p12 证书）？你们是如何获得任何 Esign 应用程序而不被撤销的？    由    /u/masonx123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzclni/help_this_newb_out_esign_stopped_working/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:33:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>获取验证码按钮缺失</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzc6x3/get_verification_code_button_missing/</link>
+      <description><![CDATA[嗨，我知道这可能不是提问的最佳地点，但我不会联系 Apple 支持来询问为什么我在“设置 -&gt; 名称 -&gt; 登录和安全 -&gt; 双重身份验证”下看不到“获取验证码”选项，而我需要这个选项才能最终登录 SideStore。 由于 SideStore 似乎也不会通过短信或批准提示发送代码，所以我使用该功能来获取代码。我在 iOS 18.1 Beta 5 和 6 上遇到了这个问题（两个版本中都缺少该按钮）。但是，我记得曾经使用过此功能登录 SideStore，很可能是在我还在使用 iOS 17 的时候。 无论如何，我的问题是有人知道这个功能到底去哪儿了？ （安全密钥已关闭，因此不会导致按钮消失）    提交人    /u/r_ruesqC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzc6x3/get_verification_code_button_missing/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>一定要问如何验证文件完整性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzbbpi/must_ask_how_to_verify_file_integrity/</link>
+      <description><![CDATA[我正在使用电子签名，我下载的应用程序无法打开，因为苹果说“无法安装此应用程序，因为无法验证其完整性”。 我确实对它进行了签名，只是想知道我是否做错了什么或者有人可以帮助我    提交人    /u/HatEvery8437   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzbbpi/must_ask_how_to_verify_file_integrity/</guid>
+      <pubDate>Tue, 08 Oct 2024 21:36:26 GMT</pubDate>
+    </item>
     <item>
       <title>我知道我们无法链接到 IPA，但我想知道这是否可能？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fza59r/i_know_we_cant_link_to_ipas_but_i_want_to_know_if/</link>
@@ -13,23 +76,16 @@
       <pubDate>Tue, 08 Oct 2024 20:45:47 GMT</pubDate>
     </item>
     <item>
-      <title>传输流媒体应用程序专业版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz8w67/transfer_streamer_app_pro/</link>
-      <description><![CDATA[有没有办法将 streamer app pro 转移到新设备？想从 Apple TV 转移到 iPad，还想知道将来是否可以从旧 iPad 转移到新 iPad？    提交人    /u/HawkEyes984   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz8w67/transfer_streamer_app_pro/</guid>
-      <pubDate>Tue, 08 Oct 2024 19:52:40 GMT</pubDate>
-    </item>
-    <item>
       <title>可以提供丰富的通知吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fz8k0w/rich_notifications_possible/</link>
-      <description><![CDATA[侧载应用有没有办法发送丰富的通知？当 Messenger 等消息应用的个人资料头像在通知中缺失时，这尤其令人沮丧。我使用 Signulous 作为我的签名服务，如果这有区别的话。我已经在网上搜索过了，但没有找到任何有用的信息。    提交人    /u/Easygamer117   [link] [评论]]]></description>
+      <description><![CDATA[侧载应用有没有办法发送富文本通知（带有图片或交互元素的通知）？当 Messenger 等消息应用的通知中缺少个人资料头像时，这尤其令人沮丧。我使用 Signulous 作为我的签名服务，如果这有区别的话。我已经在网上搜索过了，但没有找到任何有用的信息。    提交人    /u/Easygamer117   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fz8k0w/rich_notifications_possible/</guid>
       <pubDate>Tue, 08 Oct 2024 19:38:26 GMT</pubDate>
     </item>
     <item>
       <title>AppleP12 电报上的下一个证书什么时候发布？或者你们有人有证书吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fz7d1x/when_is_next_cert_on_applep12_telegram_or_does/</link>
-      <description><![CDATA[我忘记打开我的 DNS 了，它被撤销了。电报已经有近 3 周没有提供新的 DNS 了。我该怎么办？我只想用我的设备进行侧载，不用电脑。    提交人    /u/TheSteveGuy123   [link] [评论]]]></description>
+      <description><![CDATA[我忘记打开我的 DNS 了，它被撤销了。电报近 3 周没有提供新的 DNS。我该怎么办？我只想用我的设备进行侧载，不用电脑。 编辑：仅免费！！！     提交人    /u/TheSteveGuy123   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fz7d1x/when_is_next_cert_on_applep12_telegram_or_does/</guid>
       <pubDate>Tue, 08 Oct 2024 18:48:29 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我下载了一个 dns 配置文件，然后从中下载了 esign，但它看起来像是一个骗局，因为它要求我重启手机并下载一些配置文件。下载 esign 的安全网站是什么？    提交人    /u/Jim_boss_13   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fz6vma/can_someone_help_me_download_esign/</guid>
       <pubDate>Tue, 08 Oct 2024 18:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 不会显示在设备管理中</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz57gw/esign_wont_show_up_in_device_management/</link>
-      <description><![CDATA[      试过很多次，就是不起作用     提交人    /u/3rdplace22   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz57gw/esign_wont_show_up_in_device_management/</guid>
-      <pubDate>Tue, 08 Oct 2024 17:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore 撤销 Altstore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz4n7n/sidestore_revoke_altstore/</link>
-      <description><![CDATA[嗨！ 我按照说明安装了 SideStore，但每次想要刷新应用程序时都会收到这条消息： « 您想撤销以前的证书吗？ AltStore » 如果我单击“是”并刷新 SideStore，我无法重新打开应用程序，因为它会因 altstore 证书撤销而崩溃，并且 SideStore 无法自行刷新。 我不明白我做错了什么。 你能帮帮我吗？    提交人    /u/vincentfer66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz4n7n/sidestore_revoke_altstore/</guid>
-      <pubDate>Tue, 08 Oct 2024 16:55:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装 Esign 后证书没有显示？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz4kh2/certificate_not_showing_after_installing_esign/</link>
-      <description><![CDATA[您好！当我安装 Esign 时，我的“VPN 和设备管理”上没有显示任何内容。我无法打开 esign，因为它说它未经验证。我上个月已经尝试过了，它起作用了，但现在不行了。    提交人    /u/StaryNayt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz4kh2/certificate_not_showing_after_installing_esign/</guid>
-      <pubDate>Tue, 08 Oct 2024 16:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不更新至 16.7.8 的情况下恢复 iphone x？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz48zz/how_to_restore_iphone_x_without_updating_it_to/</link>
-      <description><![CDATA[我的 iphone x 大约两年前损坏了，今天修好了。3 个小时后，手机一直卡在“iphone 不可用，请重试”状态。我很确定它有一个与 trollstore 兼容的 ios 版本。我想在不将其更新到 16.7.8 的情况下恢复/还原/重置它。我没有备份或 blob 或任何东西。那么这可能吗？如何实现？    提交者    /u/2ca8vid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz48zz/how_to_restore_iphone_x_without_updating_it_to/</guid>
-      <pubDate>Tue, 08 Oct 2024 16:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有应用程序停止运行</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz2s4v/all_apps_stoped_working/</link>
-      <description><![CDATA[一切都突然消失了。证书是否被撤销了，或者 DNS 是否需要更新    提交人    /u/fololologrt   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz2s4v/all_apps_stoped_working/</guid>
-      <pubDate>Tue, 08 Oct 2024 15:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>替代商店 + 侧边商店</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fz1mqe/altstore_sidestore/</link>
-      <description><![CDATA[你好！这可能是一个愚蠢的问题，但我刚刚在使用 altstore 一年多之后设置了 sidestore，因为它看起来非常有用。我想知道您是否需要不断刷新 altstore（通过 PC 插件）以确保 sidestore 保持功能正常，或者 sidestore 是否通过 vpn 自行处理？谢谢 :)    提交人    /u/dahliagoose   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fz1mqe/altstore_sidestore/</guid>
-      <pubDate>Tue, 08 Oct 2024 14:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧面装入 IPA 的自动游戏模式开启</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</link>
-      <description><![CDATA[购买了 Kravasign 开发者证书，下载了 Kravasign、E-sign、Feather。但是，我签名/安装的每个 IPA 都会打开游戏模式，每次打开侧载 IPA 时，我都会在顶部收到一个通知弹出窗口。所有侧载 IPA 都会发生这种情况，包括非游戏 IPA。例如 Youtube Music、Kravasign、Feather 等。  我刚刚更新到 iOS 18 Beta 6（之前是 iOS 18 Beta 2 和 3）。每个版本都存在此问题。 有什么想法可以解决此问题或禁用正在打开的游戏模式吗？    提交人    /u/pryde5abi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyzr2c/automatic_game_mode_on_for_side_loaded_ipas/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:26:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>.APP 文件 iOS 的文件管理器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fyz1uv/file_manager_for_app_files_ios/</link>
-      <description><![CDATA[我可以使用任何侧载应用程序来修改 iOS 上的 .APP 文件吗？我想修改 iOS 版 KOTOR，虽然我可以看到 .APP 包中的 IPA 内容，但我无法提取它们或将它们上传到任何可以提取/修改的地方。我正在尝试修改 iOS 版 KOTOR 1。 谢谢。    提交人    /u/Old_Lie_91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fyz1uv/file_manager_for_app_files_ios/</guid>
-      <pubDate>Tue, 08 Oct 2024 12:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
