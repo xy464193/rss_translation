@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 09 Oct 2024 09:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:19:02 GMT</lastBuildDate>
+    <item>
+      <title>我需要有关我的开发者证书的通知</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fzoif5/i_need_notifications_with_my_developer_certificate/</link>
+      <description><![CDATA[我有我的开发者证书（从 appdb 中提取），并且我通过 ESign 安装的应用程序没有任何通知。 文件的名称为： development.p12 development display provision.mobileprovision development wildcard provision.mobileprovision production.p12 production display provision.mobileprovision production wildcard provision.mobileprovision 我应该使用哪个 p12 文件以及哪个 mobileprovision 文件与其配对？ 您能u/appdb_official帮忙吗？    提交人    /u/gareebsag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fzoif5/i_need_notifications_with_my_developer_certificate/</guid>
+      <pubDate>Wed, 09 Oct 2024 10:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以以实惠的价格购买证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</link>
+      <description><![CDATA[我想在我的 iPhone 上安装多个 ipa。由于免费证书很容易被撤销，我打算从第三方购买私人证书和配置。  推荐一个以实惠价格出售的最佳证书提供商。     提交人    /u/jinumathers   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</guid>
+      <pubDate>Wed, 09 Oct 2024 10:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>标志性图书馆</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fznnyw/signulous_library/</link>
+      <description><![CDATA[从 Signulous 库下载应用程序安全吗？谢谢！    提交人    /u/rem1kd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fznnyw/signulous_library/</guid>
+      <pubDate>Wed, 09 Oct 2024 09:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以更新我的 iPhone 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1fznewt/can_i_update_my_iphone/</link>
+      <description><![CDATA[我目前使用的是 iOS 18.0，最近我开始使用 Signulious 获取经过修改的应用程序，如 YouTube、Spotify 等……我的问题是，如果我更新到 iOS 18.0.1 或更新版本（将来），这会撤销我的应用程序吗？还是我可以毫无顾虑地更新我的手机？ 我很感激每一个答案！谢谢！    提交人    /u/bruska_kh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1fznewt/can_i_update_my_iphone/</guid>
+      <pubDate>Wed, 09 Oct 2024 09:30:59 GMT</pubDate>
+    </item>
     <item>
       <title>在 iOS 18 上解锁免费 IAP 有什么选项吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fzlsrc/any_options_for_unlocking_free_iap_on_ios_18/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[几天来一直试图安装 scarlet，但好像它被撤销了，有人知道它什么时候会恢复吗？    提交人    /u/Jxss111   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fzeqtc/scarlet_revoked/</guid>
       <pubDate>Wed, 09 Oct 2024 00:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证电子签名时遇到问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzdp8w/got_a_problem_with_verifying_e_sign/</link>
-      <description><![CDATA[因此，当我尝试验证电子签名时，它会加载大约半秒钟，然后就是无法验证，我的互联网很好，我正在使用 17.7 iOS 设备执行此操作，如果这有助于缩小我的问题范围，我只是尝试下载 scarlet    提交人    /u/HatEvery8437   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzdp8w/got_a_problem_with_verifying_e_sign/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道问题是什么吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzczpu/anyone_know_what_the_problem_is/</link>
-      <description><![CDATA[我已经侧载了一段时间，我弟弟让我在他的手机上下载 ESign。我帮他做了这件事，它运行得很好，直到我尝试用我下载了 Esign 的另一个证书签署一个应用程序，但没有出现企业应用程序，然后他让我在他的手机上下载 GBox 来签署一个特定的应用程序，但没有出现企业应用程序，所以他只能在同一个证书上的 ESign 上下载东西。他下载了它，任何人都知道问题出在谁身上。    提交人    /u/Worried_Impact3256   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzczpu/anyone_know_what_the_problem_is/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>当证书被撤销时，是否有办法保护应用程序数据，就像 HDFC 的情况一样？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzcu6i/is_there_a_way_to_protect_app_data_when_a/</link>
-      <description><![CDATA[我是 iOS 18.0.0 上的 Esign 用户，我对基于 Esign 安装的应用程序的数据有疑问。 Q1。如何备份和恢复单个侧载应用程序？  这是指备份应用程序本身，而不是指南中提到的完整设备备份和恢复。  Q2。用于侧载的应用程序（如 Esign 或 Feathers）是否有计划为其安装的应用程序支持备份功能？ Q3。当证书被撤销时（就像今天一样），是否有办法在使用其他证书重新安装时保留以前的应用程序数据而无需备份？  如果我因自己的过错而被列入黑名单，那是我的错误，尽管这会很麻烦和令人沮丧，但我很乐意通过备份和恢复来尝试使情况正常化。 但是，当证书本身突然被撤销，导致应用程序停止运行时，我会非常痛苦。 特别是在今天这样的情况下，HDFC 证书被撤销，而我无法使用相同的证书重新认证，这让我发疯。 这是因为我有可能丢失所有数据，而我事先没有为这种情况做好准备。 当然，有些应用程序具有内部同步功能，但大多数应用程序缺乏这种功能或不完整，有些只在本地存储数据。举一个直接的例子，由于之前和今天的证书撤销，HashPhoto“再次”崩溃，导致内部存储的1700张照片和视频丢失。    submitted by    /u/Main-Necessary6161   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzcu6i/is_there_a_way_to_protect_app_data_when_a/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>监禁胡萝卜天气高级 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzcooe/jailed_carrot_weather_premium_ipa/</link>
-      <description><![CDATA[我找不到任何，我以前有一个，但随机停止工作了。我没有 trollstore，我从来没有    提交人    /u/Pretty-Kiwi2054   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzcooe/jailed_carrot_weather_premium_ipa/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:37:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
