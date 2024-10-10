@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 10 Oct 2024 09:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:18:26 GMT</lastBuildDate>
+    <item>
+      <title>我下载了 signulous 上的 bully，当按下“跳过”按钮时，它就崩溃了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g0gyn3/i_downloaded_bully_off_signulous_and_when_press/</link>
+      <description><![CDATA[有人有同样的问题吗？或者知道如何绕过它？    提交人    /u/RZOH69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g0gyn3/i_downloaded_bully_off_signulous_and_when_press/</guid>
+      <pubDate>Thu, 10 Oct 2024 11:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际到期前的新证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g0g6r7/a_new_certificate_before_actual_expired/</link>
+      <description><![CDATA[你好！ 在实际到期之前购买新证书是否安全或者可行？ 谢谢！    提交人    /u/morganland80   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g0g6r7/a_new_certificate_before_actual_expired/</guid>
+      <pubDate>Thu, 10 Oct 2024 11:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SponsorBlock 在所有 YouTube IPA 上都失效了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g0ftlc/is_sponsorblock_dead_on_all_youtube_ipas/</link>
+      <description><![CDATA[过去几周尝试了各种 YT IPA，但找不到一个在启用 SponsorBlock 后不会崩溃的。假设这是 Google 的工作，但很好奇是否有人找到了解决方法。    提交人    /u/InstinctHunter42   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g0ftlc/is_sponsorblock_dead_on_all_youtube_ipas/</guid>
+      <pubDate>Thu, 10 Oct 2024 10:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minecraft IPA 最新版本</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g0f22h/minecraft_ipa_latest_version/</link>
+      <description><![CDATA[有人能提供一个可以登录的 minecraft IPA 吗？我好像无法登录，它给出错误代码：Drowned    提交人    /u/setforsuccess_x12   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g0f22h/minecraft_ipa_latest_version/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:43:56 GMT</pubDate>
+    </item>
     <item>
       <title>通过 Feather 签名后没有收到 Instagram 通知？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g0e5gm/not_getting_instagram_notifications_after_signing/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨，我通过电脑将 spotify 侧载到手机上，运行了 2-3 天，现在显示无法使用。如果我重新安装，一段时间后会出现同样的问题。谢谢大家的帮助    提交人    /u/Trappy1k   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g0805j/spotify_is_no_longer_available/</guid>
       <pubDate>Thu, 10 Oct 2024 01:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 应用自动刷新问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g07dnl/sidestore_apps_auto_refresh_issue/</link>
-      <description><![CDATA[我已经安装了 Sidestore 和一些 iPA 文件，并在快捷方式中设置了自动刷新。当它自动更新应用程序时，我收到一条通知，提示“所有应用程序已成功更新”。但是，当我去检查应用程序时，它们尚未更新。有人可以帮我解决这个问题吗？我不想安装其他商店，因为我喜欢不需要电脑来刷新应用程序，而且这一切都可以在设备本身上完成。 我在 iPadOS 17.4 上使用 iPad Pro    提交人    /u/HawkEyes984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g07dnl/sidestore_apps_auto_refresh_issue/</guid>
-      <pubDate>Thu, 10 Oct 2024 01:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 Feather 安装</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g03mbu/cant_install_with_feather/</link>
-      <description><![CDATA[我的证书在 Esign 上被吊销后，我说去他妈的，然后去 feather 安装我的应用程序，因为我听说 esign 使用遥测（并且不想尝试无日志版本）。我做了所有事情：设置我的 dns（按照说明进行到第 2 步），转到快捷方式并选择中国评论银行，因为这是唯一可以毫无问题地下载的，转到电报并选择 sunconcentric，所有事情都做对了（除了我可能激活了 NextDNS 之外的另一个广告拦截器）。 问题是，我签署了应用程序（从 cypwn 的 repo 获得），安装了它们，他们说它们的完整性有问题。我做错什么了吗？我是否必须重复这些步骤，因为我首先选择了广告拦截器，然后尝试在启用它的情况下安装，然后将其删除并继续？我看到一条评论说我应该使用越南证书/repo。有人可以帮忙吗？    提交人    /u/KillerLeader   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g03mbu/cant_install_with_feather/</guid>
-      <pubDate>Wed, 09 Oct 2024 22:09:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>dxsign 好吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g01r57/is_dxsign_good/</link>
-      <description><![CDATA[大约每年 10 欧元即可获得全面撤销保护，这似乎非常不错    提交人    /u/Competitive-Ad-6570   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g01r57/is_dxsign_good/</guid>
-      <pubDate>Wed, 09 Oct 2024 20:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 开发人员</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g00qdt/apple_developer/</link>
-      <description><![CDATA[嗨，购买开发者账户并出售证书是否值得？    提交人    /u/Equivalent_Tailor443   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g00qdt/apple_developer/</guid>
-      <pubDate>Wed, 09 Oct 2024 20:05:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
