@@ -4,11 +4,18 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 09 Oct 2024 21:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:46:13 GMT</lastBuildDate>
+    <item>
+      <title>无法使用 Feather 安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g03mbu/cant_install_with_feather/</link>
+      <description><![CDATA[在我的证书在 Esign 上被吊销后，我说去他妈的，然后去 feather 安装我的应用程序，因为我听说 esign 使用遥测（并且不想尝试无日志版本）。我做了所有事情：设置我的 dns（按照说明进行到第 2 步），转到快捷方式并选择中国评论银行，因为这是唯一一个可以毫无问题地下载的，转到电报并选择 sunconcentric，所有事情都做对了（除了我可能激活了 NextDNS 之外的另一个广告拦截器）。 问题是，我签署了应用程序（从 cypwn 的 repo 获得），安装了它们，他们说它们的完整性有问题。我做错什么了吗？我是否必须重复这些步骤，因为我首先选择了广告拦截器，然后尝试在启用它的情况下安装，然后将其删除并继续？我看到一条评论说我应该使用越南证书/repo。有人可以帮忙吗？    提交人    /u/KillerLeader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g03mbu/cant_install_with_feather/</guid>
+      <pubDate>Wed, 09 Oct 2024 22:09:55 GMT</pubDate>
+    </item>
     <item>
       <title>dxsign 好吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g01r57/is_dxsign_good/</link>
-      <description><![CDATA[大约每年 10 欧元即可获得全面撤销保护，这似乎非常不错    提交人    /u/Competitive-Ad-6570   [链接] [评论]]]></description>
+      <description><![CDATA[每年大约 10 欧元即可获得全面撤销保护，这似乎非常不错    提交人    /u/Competitive-Ad-6570   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g01r57/is_dxsign_good/</guid>
       <pubDate>Wed, 09 Oct 2024 20:48:30 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 09 Oct 2024 16:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道我可以在哪里找到适用于 iPhone 的 Monopoly Here & Now (2015) 的有效版本吗？</title>
+      <title>有谁知道我可以在哪里找到适用于 iPhone 的 Monopoly Here & Now (2015) 的有效版本？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fzupwi/does_anyone_know_where_i_can_find_a_working/</link>
       <description><![CDATA[我以前经常玩这个游戏并且想重新玩一次，但是我找不到任何 IPA 文件。 （编辑：它也可能是 Android 独有的，因为我找到了一个 apk 文件。    提交人    /u/Jeffgordon95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fzupwi/does_anyone_know_where_i_can_find_a_working/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 09 Oct 2024 10:48:32 GMT</pubDate>
     </item>
     <item>
-      <title>在哪里可以以实惠的价格购买证书？</title>
+      <title>我可以在哪里以实惠的价格购买证书？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</link>
       <description><![CDATA[我想在我的 iPhone 上安装多个 ipa。由于免费证书很容易被撤销，我打算从第三方购买私人证书和配置。  推荐一个以实惠价格出售的最佳证书提供商。     提交人    /u/jinumathers   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[从 Signulous 库下载应用程序安全吗？谢谢！    提交人    /u/rem1kd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fznnyw/signulous_library/</guid>
       <pubDate>Wed, 09 Oct 2024 09:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以更新我的 iPhone 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fznewt/can_i_update_my_iphone/</link>
-      <description><![CDATA[我目前使用的是 iOS 18.0，最近我开始使用 Signulious 获取经过修改的应用程序，如 YouTube、Spotify 等……我的问题是，如果我更新到 iOS 18.0.1 或更新版本（将来），这会撤销我的应用程序吗？还是我可以毫无顾虑地更新我的手机？ 我很感激每一个答案！谢谢！    提交人    /u/bruska_kh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fznewt/can_i_update_my_iphone/</guid>
-      <pubDate>Wed, 09 Oct 2024 09:30:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
