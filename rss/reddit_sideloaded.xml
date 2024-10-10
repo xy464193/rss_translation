@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 10 Oct 2024 00:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 03:16:05 GMT</lastBuildDate>
+    <item>
+      <title>我找到的所有免费证书都被撤销了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g08yt0/every_single_free_certificate_i_could_find_is/</link>
+      <description><![CDATA[为什么……还有其他免费证书吗？    由   提交  /u/Lost-Day5029   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g08yt0/every_single_free_certificate_i_could_find_is/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>YT Lite Plus IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g08tjr/yt_lite_plus_ipa/</link>
+      <description><![CDATA[大家好！ 我正在寻找最新的 YT Lite Plus IPA。 如果有人可以链接我或 DM 我，请！ 提前谢谢 ✌🏼    提交人    /u/Marxman3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g08tjr/yt_lite_plus_ipa/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:29:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Spotify”不再可用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g0805j/spotify_is_no_longer_available/</link>
+      <description><![CDATA[嗨，我通过电脑将 spotify 侧载到手机上，运行了 2-3 天，现在显示无法使用。如果我重新安装，一段时间后会出现同样的问题。谢谢大家的帮助    提交人    /u/Trappy1k   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g0805j/spotify_is_no_longer_available/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 应用自动刷新问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g07dnl/sidestore_apps_auto_refresh_issue/</link>
+      <description><![CDATA[我已经安装了 Sidestore 和一些 iPA 文件，并在快捷方式中设置了自动刷新。当它自动更新应用程序时，我收到一条通知，提示“所有应用程序已成功更新”。但是，当我去检查应用程序时，它们尚未更新。有人可以帮我解决这个问题吗？我不想安装其他商店，因为我喜欢不需要电脑来刷新应用程序，而且这一切都可以在设备本身上完成。 我在 iPadOS 17.4 上使用 iPad Pro    提交人    /u/HawkEyes984   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g07dnl/sidestore_apps_auto_refresh_issue/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:12:48 GMT</pubDate>
+    </item>
     <item>
       <title>无法使用 Feather 安装</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g03mbu/cant_install_with_feather/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[.    由   提交  /u/BulletInTheHead21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1fzr2c6/is_it_possible_to_just_get_the_ipa_file_of_an_app/</guid>
       <pubDate>Wed, 09 Oct 2024 13:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Feather signer 安装弹窗没有弹出</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzqg08/feather_signer_popup_to_install_not_popping_up/</link>
-      <description><![CDATA[嘿，最近得到了 feather signer 并用它签名了一些 ipas 并下载了它们，但 2 小时前它就停止工作了，如果我想安装签名的应用程序，从苹果安装的弹出窗口不会弹出，听说这是一个已知问题，但有解决办法吗？    提交人    /u/juxt_haon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzqg08/feather_signer_popup_to_install_not_popping_up/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有关我的开发者证书的通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fzoif5/i_need_notifications_with_my_developer_certificate/</link>
-      <description><![CDATA[我有我的开发者证书（从 appdb 中提取），并且我通过 ESign 安装的应用程序没有任何通知。 文件的名称为： development.p12 development display provision.mobileprovision development wildcard provision.mobileprovision production.p12 production display provision.mobileprovision production wildcard provision.mobileprovision 我应该使用哪个 p12 文件以及哪个 mobileprovision 文件与其配对？ 您能u/appdb_official帮忙吗？    提交人    /u/gareebsag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fzoif5/i_need_notifications_with_my_developer_certificate/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:48:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里以实惠的价格购买证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</link>
-      <description><![CDATA[我想在我的 iPhone 上安装多个 ipa。由于免费证书很容易被撤销，我打算从第三方购买私人证书和配置。  推荐一个以实惠价格出售的最佳证书提供商。     提交人    /u/jinumathers   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fznugk/where_can_i_buy_certificate_on_affordable_price/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志性图书馆</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1fznnyw/signulous_library/</link>
-      <description><![CDATA[从 Signulous 库下载应用程序安全吗？谢谢！    提交人    /u/rem1kd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1fznnyw/signulous_library/</guid>
-      <pubDate>Wed, 09 Oct 2024 09:49:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
