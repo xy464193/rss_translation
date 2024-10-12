@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 06:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:10:52 GMT</lastBuildDate>
+    <item>
+      <title>Signulous 3 应用程序有限制吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1voha/signulous_3_app_limit/</link>
+      <description><![CDATA[大家好，在使用 signulous 之前我有一个问题，我有一段时间的应用程序数量限制为 3 个，我想问一下，如果我使用 signulous 每年 20 美元的 iOS 代码签名，我可以一次拥有超过 3 个吗？使用 signulous 和在计算机上使用 sideloadly 侧载 ipa 文件有什么区别？它不需要电脑吗？    提交人    /u/DiskPuzzleheaded7855   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1voha/signulous_3_app_limit/</guid>
+      <pubDate>Sat, 12 Oct 2024 08:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 18.0.1 上侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1vk76/sideloading_on_1801/</link>
+      <description><![CDATA[我正在考虑将我的手机从 iOS 17.2.1 升级到 iOS 18.0.1，我想知道我当前的设置是否可行。设置如下： NextDNS + 黑名单 + ESign 5.0.0     提交人    /u/Brilliant_Still_9605   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1vk76/sideloading_on_1801/</guid>
+      <pubDate>Sat, 12 Oct 2024 08:19:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>你究竟如何使用官方苹果开发许可证进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1vec2/how_exactly_do_you_use_an_official_apple_dev/</link>
+      <description><![CDATA[目前，我一直使用 Signulous 在我的 iPhone、iPad 和 Apple TV 上进行侧载，大部分情况下都很棒，但当你把它们加起来时，我基本上每年要为这三台设备支付大约 60 英镑，而且偶尔会撤销并重新侧载 Kodi 等应用程序，重新进行设置等，我想我只需花 84 英镑每年购买一个 Apple 开发者证书即可。 是的，我知道可能有比 Signulous 更便宜的方法，但我现在对研究其他黑客方法并不特别感兴趣，因为 signulous 已经很棒了，但我现在很乐意为官方方式付费。 在提交之前，我想知道的是，一旦我拥有 Apple 开发者许可证，将 IPA 文件侧载到我的设备所涉及的方法。 以 Kodi IPA 为例。  1) 如何使用我的开发证书对其进行签名，然后如何将其传输到我的设备 - 是通过 Apple Configurator 吗？通过 Test Flight 吗？ 2) 如上所述，但我可以类似地添加朋友设备的 UDID 并能够将 ipa 侧载到他们的 iPhone 吗（我猜是通过 Mac 的 wifi），这样他们就不会遇到撤销的问题？我不是要出售证书，只是想让我的家人和我能亲自见到的朋友获得侧载的 ipa。 感谢您的澄清    提交人    /u/Tranquillian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1vec2/how_exactly_do_you_use_an_official_apple_dev/</guid>
+      <pubDate>Sat, 12 Oct 2024 08:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[免费发布] OledKeyboard - iOS 系统键盘的 OLED 暗黑模式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1v437/free_release_oledkeyboard_oled_dark_mode_for_ios/</link>
+      <description><![CDATA[大家好！ 我很高兴宣布推出 OledKeyboard。此调整增强了 iOS 系统键盘，并针对 OLED 显示屏暗模式进行了优化。 兼容性：通过将 dylib 添加到您的侧载应用中，支持 Rootful、Rootless、Roothide 和 jailed 设备。 调整和源代码：您可以在我的 Github 页面上查看源代码。 如果您发现此调整有用并且愿意支持我的工作，请考虑捐款。链接可在 repo 中找到。 祝你好运 ❤️    提交人    /u/dayanch96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1v437/free_release_oledkeyboard_oled_dark_mode_for_ios/</guid>
+      <pubDate>Sat, 12 Oct 2024 07:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有侧载应用都会触发游戏模式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1uwk6/all_sideloaded_apps_is_triggering_game_mode/</link>
+      <description><![CDATA[正如标题所述，出于某些奇怪的原因，我所有侧载应用（游戏或其他）都触发了游戏模式。 我尝试了很多方法，包括通过 eSign 在 Info.plist 中将 GCSupportsGameMode 设置为 0/False/No，以及其他方法，但都无济于事。这个通知让我非常恼火，我已经束手无策了。如果有人知道如何删除这个愚蠢的通知，我会联系他们。TIA 我使用的是 ios 18.0.1（不是测试版 - 正式版）    提交人    /u/giratina12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1uwk6/all_sideloaded_apps_is_triggering_game_mode/</guid>
+      <pubDate>Sat, 12 Oct 2024 07:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>我可以在 IPAD 4 上侧载超过 3 个应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g1topz/can_i_sideload_more_than_3_apps_on_an_ipad_4/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[有没有人有 maplesing repos 给我     提交人    /u/Tomfanter1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g1ipy8/maplesign_repos/</guid>
       <pubDate>Fri, 11 Oct 2024 20:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个愚蠢的问题。在安装 youtube music IPA 时，我弹出一个窗口 - 要求保留扩展名或删除扩展名。我可以知道那是什么吗？保留和删除它们有什么用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1igmk/i_have_a_silly_question_while_installing_youtube/</link>
-      <description><![CDATA[新手开始使用 Sideload :)    提交人    /u/Proud-Pie-2731   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1igmk/i_have_a_silly_question_while_installing_youtube/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有关于如何更新羽毛的教程？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1hww2/is_there_a_tutorial_on_how_to_update_feather/</link>
-      <description><![CDATA[我正在努力解决如何在 ios 17.6 上更新 feather 应用程序的问题 我确信我无法通过 feather 本身进行签名然后在其上安装，所以我该怎么办？ 非常感谢    提交人    /u/TheDuck-Prince   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1hww2/is_there_a_tutorial_on_how_to_update_feather/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何 ChatGpt ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1gif3/are_there_any_chatgpt_ipas/</link>
-      <description><![CDATA[或者任何其他 LLM？    提交人    /u/88XJI6   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1gif3/are_there_any_chatgpt_ipas/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在侧载应用程序上安装 nerdy gpu 覆盖</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1g8af/having_nerdy_gpu_overlay_on_sideloaded_apps/</link>
-      <description><![CDATA[      为什么它总是出现在几个侧载应用中的右上角？我该如何禁用它？因为它有点烦人，而且我不需要那个信息，顺便说一下，我使用 sidestore    提交人    /u/PilotHaribo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1g8af/having_nerdy_gpu_overlay_on_sideloaded_apps/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 IPAS 更新到较新的应用程序版本？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1g04f/how_to_update_ipas_to_a_newer_app_version/</link>
-      <description><![CDATA[所以这很简单。我有一个游戏的 IPA，但它没有更新。我需要将 ipa 更新到较新的游戏版本，但我不知道该怎么做。请帮忙。     提交人    /u/Puzzled_Show_8747   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1g04f/how_to_update_ipas_to_a_newer_app_version/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:02:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
