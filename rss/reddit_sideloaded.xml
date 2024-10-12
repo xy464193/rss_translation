@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 12:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 15:09:28 GMT</lastBuildDate>
+    <item>
+      <title>关于 KravaSign 的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g20v8c/question_about_kravasign/</link>
+      <description><![CDATA[我希望我的措辞正确。我玩了一个游戏，想修改一下（不确定是否可以在这里写标题）。我以前使用 iOSgods 下载它，但最近我不断收到有关应用程序完整性的错误，并显示我被列入了黑名单。我尝试将设备恢复出厂设置，但仍然收到错误。从我的研究中，我发现我可以购买证书来获得它。我使用的是 iOS 18，已经在 FlekStore 中找到了我想要的东西，但它说我需要证书才能签名。如果我从 KravaSign 购买证书，这就是我所需要的一切吗？就像我不需要电脑，只需签署这样的应用程序就可以了？  抱歉，如果这是一个愚蠢的问题，但我对这一切都很陌生，而且有很多信息需要吸收哈哈     提交人    /u/CalligrapherClean894   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g20v8c/question_about_kravasign/</guid>
+      <pubDate>Sat, 12 Oct 2024 14:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法在 Minecraft iOS 中登录 Microsoft 帐户</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1zsh4/cant_log_in_to_microsoft_account_in_minecraft_ios/</link>
+      <description><![CDATA[我最近下载了一个 Minecraft IPA 文件，我安装了它，尝试登录然后它多次显示错误，我该如何修复它？    提交人    /u/ZmoBsie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1zsh4/cant_log_in_to_microsoft_account_in_minecraft_ios/</guid>
+      <pubDate>Sat, 12 Oct 2024 13:10:23 GMT</pubDate>
+    </item>
     <item>
       <title>回购的？？？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g1xb3n/repos/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我最近发现了使用 esign 进行侧载，它工作正常，大约一周后就停止工作了。尝试了另一个证书，大约 2 周后再次停止工作。有没有办法保留这个权限，还是我们真的需要每隔几周就重新执行一次这个过程？    提交人    /u/tomatosauce1238i   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g1phkk/esign_keeps_not_working/</guid>
       <pubDate>Sat, 12 Oct 2024 01:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 iPhone 11 上的 FaceID 问题后 Apple Intelligence 不再起作用（Nugget 和 MisakaX）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1oze0/apple_intelligence_dont_work_after_fixing_faceid/</link>
-      <description><![CDATA[我有一部运行 iOS 18.1 beta 4 的 iPhone 11。我使用 Nugget 应用程序（在 Mac 上）在我的 iPhone 上激活 Apple Intelligence。之后我使用了 MisakaX。我等待所有 Apple Intelligence 文件（2.56GB）下载到我的设备。确保所有文件都已下载后，我在 plist 文件中将 iPhone 版本从 iPhone16,2 更改为 iPhone12,1，以便 FaceID 可以再次工作。但是，执行此操作后，Apple Intelligence 停止工作，并且似乎仍在尝试将 Apple Intelligence 文件下载到我的设备。当我尝试使用 Apple Intelligence 时，我收到错误消息：“Siri 不可用，请连接到 Wi-Fi 以完成 Siri 下载。” 我该如何修复我的 FaceID 但仍使用 Apple Intelligence？谢谢。    提交人    /u/Smokiezzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1oze0/apple_intelligence_dont_work_after_fixing_faceid/</guid>
-      <pubDate>Sat, 12 Oct 2024 01:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 ios 12 以来还没有越狱/侧载。我应该从哪里开始？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1lzx0/havent_jailbrokensideloaded_since_ios_12_where/</link>
-      <description><![CDATA[我有一部搭载 iOS 17.1.1 的 iPhone 14，我一直在想办法如何侧载应用程序，但我所看到的所有地方都大不相同。我只想要用于 minecraft 的 PojavLauncher，以及用于 Delta 的 JIT。是否有我应该遵循的特定指南？我知道有很多选择，但我不知道哪种最适合我，或者我是否可以做我想做的事，有些地方说所有 iOS 版本（最高 18 版）都可以做到这一切，但也有一些地方在 2 个月前说你不能。 有人能给我指明正确的方向吗？    提交人    /u/Egg_Spoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1lzx0/havent_jailbrokensideloaded_since_ios_12_where/</guid>
-      <pubDate>Fri, 11 Oct 2024 22:33:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
