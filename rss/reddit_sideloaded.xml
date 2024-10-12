@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 18:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 21:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Sideload Anti Revoke {Adguard 版本}</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g29xrv/sideload_anti_revoke_adguard_version/</link>
+      <description><![CDATA[我创建了一个使用 adguard 进行侧载的文档并安装了 esign 这里    提交人    /u/NoozPrime   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g29xrv/sideload_anti_revoke_adguard_version/</guid>
+      <pubDate>Sat, 12 Oct 2024 21:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动源添加器快捷方式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g28aep/automatic_source_adder_shortcut/</link>
+      <description><![CDATA[一种快捷方式，可将我使用的一堆源自动添加到您使用的任何应用程序中 https://www.icloud.com/shortcuts/f5f3da65ece7421cb4d7283ead5f999a （gbox 不起作用，因为我找不到它的任何 irl 方案） 如果有任何问题请告诉我，我会尽力解决它们    提交人    /u/Aardvark-Fearless   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g28aep/automatic_source_adder_shortcut/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们推荐哪个网站来获取证书/开发者帐户？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g27i1s/what_site_do_people_recommended_to_get_a/</link>
+      <description><![CDATA[基本上，我有兴趣获取一个证书/开发者帐户，这样我就可以不受限制地侧载更多应用程序，并且想知道人们会推荐去哪里，因为我不想被骗，谢谢。     提交人    /u/tophiachuqueen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g27i1s/what_site_do_people_recommended_to_get_a/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g265y1/ios_18_sideloading/</link>
+      <description><![CDATA[自从升级到 iOS 18 以来，每 7 天当我再次侧载我的应用程序时，我必须信任我的设备，然后应用程序才能运行，以前从来没有遇到过这个问题，只有自从升级到 iOS 18 之后，在验证应用程序时有其他人遇到过这种情况吗？    提交人    /u/epochhh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g265y1/ios_18_sideloading/</guid>
+      <pubDate>Sat, 12 Oct 2024 18:12:58 GMT</pubDate>
+    </item>
     <item>
       <title>侧载应用程序随机重置，尤其是从 WiFi 切换到蜂窝网络时 - 救命！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g25on3/sideloaded_apps_resetting_randomly_especially/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在考虑将我的手机从 iOS 17.2.1 升级到 iOS 18.0.1，我想知道我当前的设置是否可行。设置如下： NextDNS + 黑名单 + ESign 5.0.0     提交人    /u/Brilliant_Still_9605   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g1vk76/sideloading_on_1801/</guid>
       <pubDate>Sat, 12 Oct 2024 08:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>你究竟如何使用官方苹果开发许可证进行侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1vec2/how_exactly_do_you_use_an_official_apple_dev/</link>
-      <description><![CDATA[目前，我一直使用 Signulous 在我的 iPhone、iPad 和 Apple TV 上进行侧载，大部分情况下都很棒，但当你把它们加起来时，我基本上每年要为这三台设备支付大约 60 英镑，而且偶尔会撤销并重新侧载 Kodi 等应用程序，重新进行设置等，我想我只需花 84 英镑每年购买一个 Apple 开发者证书即可。 是的，我知道可能有比 Signulous 更便宜的方法，但我现在对研究其他黑客方法并不特别感兴趣，因为 signulous 已经很棒了，但我现在很乐意为官方方式付费。 在提交之前，我想知道的是，一旦我拥有 Apple 开发者许可证，将 IPA 文件侧载到我的设备所涉及的方法。 以 Kodi IPA 为例。  1) 如何使用我的开发证书对其进行签名，然后如何将其传输到我的设备 - 是通过 Apple Configurator 吗？通过 Test Flight 吗？ 2) 如上所述，但我可以类似地添加朋友设备的 UDID 并能够将 ipa 侧载到他们的 iPhone 吗（我猜是通过 Mac 的 wifi），这样他们就不会遇到撤销的问题？我不是要出售证书，只是想让我的家人和我能亲自见到的朋友获得侧载的 ipa。 感谢您的澄清    提交人    /u/Tranquillian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1vec2/how_exactly_do_you_use_an_official_apple_dev/</guid>
-      <pubDate>Sat, 12 Oct 2024 08:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[免费发布] OledKeyboard - iOS 系统键盘的 OLED 暗黑模式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1v437/free_release_oledkeyboard_oled_dark_mode_for_ios/</link>
-      <description><![CDATA[大家好！ 我很高兴宣布推出 OledKeyboard。此调整增强了 iOS 系统键盘，并针对 OLED 显示屏暗模式进行了优化。 兼容性：通过将 dylib 添加到您的侧载应用中，支持 Rootful、Rootless、Roothide 和 jailed 设备。 调整和源代码：您可以在我的 Github 页面上查看源代码。 如果您发现此调整有用并且愿意支持我的工作，请考虑捐款。链接可在 repo 中找到。 祝你好运 ❤️    提交人    /u/dayanch96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1v437/free_release_oledkeyboard_oled_dark_mode_for_ios/</guid>
-      <pubDate>Sat, 12 Oct 2024 07:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有侧载应用都会触发游戏模式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1uwk6/all_sideloaded_apps_is_triggering_game_mode/</link>
-      <description><![CDATA[正如标题所述，出于某些奇怪的原因，我所有侧载应用（游戏或其他）都触发了游戏模式。 我尝试了很多方法，包括通过 eSign 在 Info.plist 中将 GCSupportsGameMode 设置为 0/False/No，以及其他方法，但都无济于事。这个通知让我非常恼火，我已经束手无策了。如果有人知道如何删除这个愚蠢的通知，我会联系他们。TIA 我使用的是 ios 18.0.1（不是测试版 - 正式版）    提交人    /u/giratina12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1uwk6/all_sideloaded_apps_is_triggering_game_mode/</guid>
-      <pubDate>Sat, 12 Oct 2024 07:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在 IPAD 4 上侧载超过 3 个应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g1topz/can_i_sideload_more_than_3_apps_on_an_ipad_4/</link>
-      <description><![CDATA[对这一切都不熟悉，我想知道支付开发帐户是否可行，因为我有一个较旧的 ios 设备    提交人    /u/Familiar_Place_5961   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g1topz/can_i_sideload_more_than_3_apps_on_an_ipad_4/</guid>
-      <pubDate>Sat, 12 Oct 2024 05:57:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
