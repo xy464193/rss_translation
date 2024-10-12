@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:44:51 GMT</lastBuildDate>
+    <item>
+      <title>uYouEnhanced 最新版本的 Google 登录错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1ny7l/google_sign_in_error_on_uyouenhanced_latest/</link>
+      <description><![CDATA[      我更改了 Google 帐户密码，不幸的是，这使我退出了 uYou。我遇到了错误“您无法登录此应用，因为 Google 无法确认它是否安全。”，重新安装后仍然存在。您认为我应该尝试做什么？我从 cypwn 获得了 IPA。（uYouEnhanced_19.39.1-3.0.4）。  https://preview.redd.it/p5fsdxnjw7ud1.png?width=280&amp;format=png&amp;auto=webp&amp;s=289322857a7090cb0fd89581639e989ac5132482    提交人    /u/sysoverdr1ve   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1ny7l/google_sign_in_error_on_uyouenhanced_latest/</guid>
+      <pubDate>Sat, 12 Oct 2024 00:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>自 ios 12 以来还没有越狱/侧载。我应该从哪里开始？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g1lzx0/havent_jailbrokensideloaded_since_ios_12_where/</link>
+      <description><![CDATA[我有一部搭载 iOS 17.1.1 的 iPhone 14，我一直在想办法如何侧载应用程序，但我所看到的所有地方都大不相同。我只想要用于 minecraft 的 PojavLauncher，以及用于 Delta 的 JIT。是否有我应该遵循的特定指南？我知道有很多选择，但我不知道哪种最适合我，或者我是否可以做我想做的事，有些地方说所有 iOS 版本（最高 18 版）都可以做到这一切，但也有一些地方在 2 个月前说你不能。 有人能给我指明正确的方向吗？    提交人    /u/Egg_Spoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g1lzx0/havent_jailbrokensideloaded_since_ios_12_where/</guid>
+      <pubDate>Fri, 11 Oct 2024 22:33:49 GMT</pubDate>
+    </item>
     <item>
       <title>如果我换了新手机，我从 signulous 下载的应用程序会转移到我的新手机上吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g1jjwb/if_i_get_a_new_phone_does_the_apps_i_downloaded/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我刚刚更新到 iOS 18.0.1，Esign 可以正常工作，我还修复了我被列入黑名单的问题。问题是，当我尝试登录侧载的 YouTube Plus 时，它不允许我输入我的凭据，我被阻止进入登录屏幕。 有人可以帮忙吗？谢谢大家。    提交人    /u/iVesuvian   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g1aebn/logging_into_youtube_plus_uyou_issues_on_ios_1801/</guid>
       <pubDate>Fri, 11 Oct 2024 13:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>ipa安装问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g19syb/ipa_installation_problem/</link>
-      <description><![CDATA[我尝试安装一个在网上找到的 ipa 文件，安装时它从主屏幕上消失，安装未完成，也没有任何错误消息，我再次尝试，结果相同。我可能安装了病毒吗？     提交人    /u/rem1kd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g19syb/ipa_installation_problem/</guid>
-      <pubDate>Fri, 11 Oct 2024 13:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新我的 IOS 是否会撤销我的侧载应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g17sy3/will_updating_my_ios_revoke_my_sideloaded_apps/</link>
-      <description><![CDATA[我在 iOS 18.0 上并使用 dns 方法进行侧载。如果我将 iOS 更新到 18.0.1，它会撤销我的应用程序吗？或者我仍然可以访问它们吗？    提交人    /u/Known-Ad5920   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g17sy3/will_updating_my_ios_revoke_my_sideloaded_apps/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
