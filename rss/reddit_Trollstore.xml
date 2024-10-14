@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:11:00 GMT</lastBuildDate>
+    <item>
+      <title>我可以像这样从一个应用程序切换多个个人资料帐户吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1g3eved/can_i_switch_multiple_profile_accounts_from_one/</link>
+      <description><![CDATA[      https://preview.redd.it/c0sx8natwpud1.jpg?width=811&amp;format=pjpg&amp;auto=webp&amp;s=779ba52d7ef3b98d23d5691206499f21e3c5a909 这个人是怎么操作的？   由    /u/ConclusionVivid8859  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1g3eved/can_i_switch_multiple_profile_accounts_from_one/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:45:41 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年有没有什么应用程序可以观看电影/节目/动漫，我喜欢看很多老节目和电影，也有一些新的，但是如果有人知道一些，你能告诉我在哪里可以得到它吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1g399ga/any_apps_in_2024_for_watching_movies_shows_animes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿伙计们，我只是想知道如果我更新到 ios18，我是否还能拥有 trollstore 及其功能？现在关闭了，我仍然在 16.1 并且正在使用 trollstore，主要用于侧载修改后的 youtube。谢谢！    提交人    /u/bigajih   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1fv0j62/updating_to_ios_18/</guid>
       <pubDate>Thu, 03 Oct 2024 05:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CLI 工具自动安装 TrollStore 应用程序？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1fun4fj/automating_trollstore_app_installations_with_a/</link>
-      <description><![CDATA[是否可以通过 SSH/CLI 在越狱的 iOS 设备上通过 TrollStore 自动安装应用程序？如果不行，我将重新使用 URL 方案，但我真的更喜欢使用命令行。    提交人    /u/CtrliPhones   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1fun4fj/automating_trollstore_app_installations_with_a/</guid>
-      <pubDate>Wed, 02 Oct 2024 18:18:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
