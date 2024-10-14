@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 14 Oct 2024 06:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 09:11:46 GMT</lastBuildDate>
+    <item>
+      <title>我有一个开发者账户，如何侧载已开启通知的 Instagram？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g3b5yq/i_have_a_dev_acc_how_do_i_sideload_instagram_that/</link>
+      <description><![CDATA[如标题所示。我搜索了一番，但找不到解决方案。我尝试使用 Sideloadly 将 rocket-instagram 和 regram 加载到我的手机上，但无济于事，两个应用程序的通知仍然处于静音状态。有没有办法利用我的 dev acc 来使通知正常工作？ 如果这是一个愚蠢的问题，请提前道歉。    提交人    /u/Meowseum-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g3b5yq/i_have_a_dev_acc_how_do_i_sideload_instagram_that/</guid>
+      <pubDate>Mon, 14 Oct 2024 08:36:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[KravaSigner] 无法安装应用程序。有人遇到过这个问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g3auj4/kravasigner_unable_to_install_apps_anyone_had/</link>
+      <description><![CDATA[我无法通过签名者应用或 Web 应用安装应用。选择安装后，无论我等待多长时间或尝试多少次，都没有任何反应。  常见问题解答中也提到了以下内容“确保您的 DNS 或路由器或 ISP 没有阻止 Apple 域，如果它们被阻止或您的 ISP 有限制，您需要使用 VPN，使用任何签名者，建议在应用签名后等待 5 秒钟再按下安装按钮，以下 URL 是最重要的，需要能够访问而不受任何类型的阻止”    提交人    /u/sardoa11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g3auj4/kravasigner_unable_to_install_apps_anyone_had/</guid>
+      <pubDate>Mon, 14 Oct 2024 08:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>大文件 ESign</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g3aht8/large_files_esign/</link>
+      <description><![CDATA[我无法侧载汽车 x 街道，因为它就像 4gigs。在羽毛被撤销之前，我可以在那里做    由   提交  /u/MaazzYT   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g3aht8/large_files_esign/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 arm64e 永久标志</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g3aed2/ios_18_arm64e_permasign/</link>
+      <description><![CDATA[大家好， 大约一个月前，我推测在 iOS 的新版本上可以进行永久签名。 已经完成了。 这将集成到 Omega 中，除非 Opa 抢先一步。我希望他能做到。 就像在 SideStore 上获得 3 个以上的应用程序一样，这是我的想法，但我没有发现该方法。直到我接近发布时才会分享详细信息。再次强调，这是可能的，并且已经实现。 对于之前批评过我并且将继续批评的所有人，请随意。 与此同时，我将致力于永久签名。    提交人    /u/LoquatMaleficent9781   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g3aed2/ios_18_arm64e_permasign/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>无论如何要将我已经安装的应用程序转换为 ipas 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g39nn4/anyway_to_convert_my_already_installed_apps_to/</link>
+      <description><![CDATA[我想将我从 swaggy repo 获得的已安装应用程序转换为 ipa，因为自从 swaggy repo 关闭以来，如果我需要重置我的 iphone 或者我意外删除了应用程序，我希望能够恢复我的应用程序。    提交人    /u/Neeeear   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g39nn4/anyway_to_convert_my_already_installed_apps_to/</guid>
+      <pubDate>Mon, 14 Oct 2024 06:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>苹果是否会使用 esign 来修补侧载方法？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g395gl/will_apple_ever_patch_the_sideloading_method_with/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在尝试获取 spotify 的破解版本，eeveespotify 似乎相当不错（尝试过 Spotlife 和 spotube，spotlife 不受 ios18 支持，而 spotube 则漏洞百出）。但是，当我尝试从 github 下载 eeveespotify 时，我没有得到 IPA 文件，我可以直接将其推入 sideloadly，我得到了这个文件夹？？抱歉，我是新手，所以我不知道我在做什么。    提交人    /u/Ok-Development-6514   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g33v5n/fairly_new_to_sideloading_not_really_sure_how_to/</guid>
       <pubDate>Mon, 14 Oct 2024 00:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有自定义 DNS 的 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g33i9y/vpn_with_custom_dns/</link>
-      <description><![CDATA[我正在寻找一个允许我使用 NextDNS 的 VPN，因为我不会在这里被列入黑名单。    提交人    /u/Wealist   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g33i9y/vpn_with_custom_dns/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者模式？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g33fuv/developer_mode/</link>
-      <description><![CDATA[我最近一直在使用 Signulous 和 feather 来签名一些应用程序，就在今天，每次我去签名和安装应用程序时，我都会收到以下消息。为什么我突然收到这个消息，而我以前从来没有收到过它？！。  “需要开发者模式，Spotify 需要开发者模式才能运行。在启用开发者模式之前，此应用程序将无法运行。”     提交人    /u/Cannasseur_nuglet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g33fuv/developer_mode/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用已撤销证书的 Esign 时侧载应用程序崩溃的解决方案</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g33007/solutions_for_sideloaded_application_crashes_when/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g33007/solutions_for_sideloaded_application_crashes_when/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 的所有调整均无效 😔</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g30qbi/no_reddit_tweaks_are_working/</link>
-      <description><![CDATA[我已经尝试过 Reddit-Filter 的 ipa 和预制的最新版本并注入了它 没有 reddit 调整让我使用任何登录方式登录，包括通过电子邮件发送链接登录，因为当我点击电子邮件中的链接时只会显示“找不到页面” 屏幕录制：https://catlitter.minoa.cat/api/view/08311ab579.mov    提交人    /u/Aardvark-Fearless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g30qbi/no_reddit_tweaks_are_working/</guid>
-      <pubDate>Sun, 13 Oct 2024 21:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们觉得欧米茄怎么样？它安全吗？购买前我应该了解一些信息吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g30mk2/what_do_you_guys_think_of_omega_is_it_safe_should/</link>
-      <description><![CDATA[我想买一个 omega 包，因为它有点便宜，但我不确定它是否安全。或者是否有更好的方法，所以我想问问也许更聪明、更有经验的人    提交人    /u/grzybu32152   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g30mk2/what_do_you_guys_think_of_omega_is_it_safe_should/</guid>
-      <pubDate>Sun, 13 Oct 2024 21:42:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
