@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:18:55 GMT</lastBuildDate>
+    <item>
+      <title>需要 WhatsApp ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g45jp7/need_whatsapp_ipa/</link>
+      <description><![CDATA[最好的 WhatsApp ipa 和安全吗？    由   提交  /u/0adxil8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g45jp7/need_whatsapp_ipa/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:36:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买签名证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g45agg/buying_signing_certificate/</link>
+      <description><![CDATA[我有一个来自 iosrocket 的 1 年签名证书，刚刚过期。联系了他们，但没有回复。我想知道如果我购买另一个证书，我是否需要在 iPhone 上重新安装应用程序或重新进行电子签名？此外，除了 iosrocket 之外还有其他建议吗，他们没有回应？谢谢    提交人    /u/rejang   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g45agg/buying_signing_certificate/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>从熊猫助手获取特定游戏</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g43h03/getting_specific_games_from_panda_helper/</link>
+      <description><![CDATA[有一些我想要的游戏（主要是 Max &amp; the Magic Marker）我只在 panda helper 上找到。我知道有些游戏在 2-3 年前就已经有了，但我觉得它们现在再也找不到了，尽管上面说要等 0.5-1 天。我可以通过什么方式获得他们的游戏的 .ipa，或者有人知道 pandahelper 在哪里可以找到它们吗？    提交人    /u/Bronzemannn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g43h03/getting_specific_games_from_panda_helper/</guid>
+      <pubDate>Tue, 15 Oct 2024 09:12:14 GMT</pubDate>
+    </item>
     <item>
       <title>如何阻止来自同一来源的同一应用程序的多个版本出现在 ESign 中？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g42o96/how_do_i_stop_multiple_versions_of_the_same_app/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>在哪里下载 tvOS ipa 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g3o76k/where_to_download_tvos_ipa_files/</link>
-      <description><![CDATA[您好，我想下载一些 tvOS ipa 文件，但我找不到任何方法。 我知道获取 iOS ipa 文件非常容易，但是这个 ipa 文件中不包含 tvOS 版本。 https://armconverter.com/decryptedappstore/us 有人知道如何下载 tvOS 的 ipa 文件吗？非常感谢！    提交人    /u/mx305   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我想下载一些 tvOS ipa 文件，但我找不到任何方法。 我知道获取 iOS ipa 文件很容易，但此 ipa 文件中不包含 tvOS 版本。 https://armconverter.com/decryptedappstore/us 有人知道如何下载 tvOS 的 ipa 文件吗？非常感谢！    提交人    /u/mx305   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g3o76k/where_to_download_tvos_ipa_files/</guid>
       <pubDate>Mon, 14 Oct 2024 19:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>多次安装应用程序而不共享数据</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3nzez/installing_an_app_multiple_times_without_data/</link>
-      <description><![CDATA[安装了 iOS 15.8 的 Iphone 7，安装了 Trollstore 来签署 IPA，也尝试了 eSign。 无论我做什么，这个该死的应用程序都能检测到我。 尝试了 LiveContainer，尝试了更改 Bundle ID，尝试了我能做到的一切……但这个应用程序仍然以某种方式识别出它正在安装在同一部手机上。 （使用代理、使用 3utools 作为 GPS 欺骗器以及 Geranium 和其他奇怪的 GPS 欺骗器等） 我希望能够让这个应用程序认为我是一部全新的手机（不知何故），我发誓我不知道如何做到这一点。我甚至买了一个钥匙串擦除工具，但问题仍然相同... 如果不同的 BundleID + LiveContainer + KeyChain 删除 = 应用程序仍然可以检测到我......我认为 Apple 与应用程序开发者分享的内容比我们之前想象的要多一些？ 我想远离 JB，因为他们可以检测到 JB（是的，我甚至尝试过 Crane）。 在这方面我非常非常需要帮助。 注意：这款手机不是“日常驾驶”，所以我可以对它做任何我需要做的事情来让它工作。   由    /u/2poor2die  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3nzez/installing_an_app_multiple_times_without_data/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 在刷新应用程序时添加应用程序 ID，这是正常的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3n3w4/sidestore_adds_app_ids_while_refreshing_apps_is/</link>
-      <description><![CDATA[即使我在安装 ipa 时提供了删除应用程序 ID，侧存储也会在刷新应用程序时创建新的 ID。 这是正常行为吗？    提交人    /u/navneethkrishna123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3n3w4/sidestore_adds_app_ids_while_refreshing_apps_is/</guid>
-      <pubDate>Mon, 14 Oct 2024 18:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLitePlus 视频广告不跳过</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3mso4/ytliteplus_in_video_ads_not_skipping/</link>
-      <description><![CDATA[在最新版本（9 月 3 日）上，无法跳过视频广告。还有其他人吗？谢谢    由    /u/mindfuck18  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3mso4/ytliteplus_in_video_ads_not_skipping/</guid>
-      <pubDate>Mon, 14 Oct 2024 18:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
