@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 15 Oct 2024 12:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:10:43 GMT</lastBuildDate>
+    <item>
+      <title>Netflix 账户被盗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g48huh/netflix_account_break_in/</link>
+      <description><![CDATA[      最近我与我的大家庭账户断开了连接，今天我发现他们并没有这样做（我不和他们住在一起）。显然有一个“黑客”入侵了该帐户，而我的叔叔对此一无所知，尽管他说他收到通知说有人从泰国连接到了该帐户。 无论如何，我们删除了用户和他们创建的新用户，但我担心帐户被盗可能是我的错，因为最近我在笔记本电脑上下载了 sideloadly，而且我也是唯一一个与 Netflix 断开连接的人…… sideloadly 可能是我大家庭的帐户被盗的原因吗？    提交人    /u/double_i24   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g48huh/netflix_account_break_in/</guid>
+      <pubDate>Tue, 15 Oct 2024 14:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 ESign 和签名应用程序的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g4840i/question_about_esign_and_signed_apps/</link>
+      <description><![CDATA[大家好，我刚刚安装了带有 CN 证书的 esign，该证书已被吊销，自定义 DNS 过滤器用于阻止 Apple URL。  Esign 运行良好，我的意思是，我可以毫无问题地打开它（安装后在设置中受信任的证书）。但没有一个应用程序通过 esign 安装：所有应用程序都警告完整性。 所以我的问题是……为什么我可以将此证书用于 esign，而不能用于应用程序？    提交人    /u/Extension-Plum-5532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g4840i/question_about_esign_and_signed_apps/</guid>
+      <pubDate>Tue, 15 Oct 2024 13:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您的 UDID 提供给他人是否安全？他们能用它做什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g47wru/is_it_safe_to_give_someone_your_udid_is_there/</link>
+      <description><![CDATA[.    由   提交  /u/BulletInTheHead21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g47wru/is_it_safe_to_give_someone_your_udid_is_there/</guid>
+      <pubDate>Tue, 15 Oct 2024 13:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新后无法打开 Sidestore</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g47viq/cant_get_sidestore_to_open_after_refresh/</link>
+      <description><![CDATA[大家好。一两个月前，我开始使用 Sidestore，它运行得非常好。有一次我忘了刷新它，出于某种原因它没有自动刷新，现在当我从我的 Mac 重新侧载它并完成所有步骤时，它就可以正常工作，直到我刷新侧载应用程序本身。我已经尝试解决这个问题好几天了，但没有成功。有人有什么建议吗？    提交人    /u/Scoorzia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g47viq/cant_get_sidestore_to_open_after_refresh/</guid>
+      <pubDate>Tue, 15 Oct 2024 13:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>破解游戏的最佳去处？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g46yhz/best_place_for_cracked_games/</link>
+      <description><![CDATA[获取破解游戏的最佳 repo 或网站等是什么？IOSgods 很讨厌，有一半的时间甚至无法工作（即使它是最新的），kamohacks 也是一样    提交人    /u/SaltyShxtt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g46yhz/best_place_for_cracked_games/</guid>
+      <pubDate>Tue, 15 Oct 2024 12:51:51 GMT</pubDate>
+    </item>
     <item>
       <title>需要 WhatsApp ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g45jp7/need_whatsapp_ipa/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[搜索功能已经坏了一个月了。就在今天，用户页面也坏了。有什么解决办法吗？    提交人    /u/N3crochancer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g3u36x/tiktok_search_and_user_page_slowly/</guid>
       <pubDate>Mon, 14 Oct 2024 23:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>ios 18 上有 CarTube 或其他选择吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3rhw1/cartube_or_alternative_on_ios_18/</link>
-      <description><![CDATA[是否可以在 ios 18 和 iPhone 15 pro 上安装 cartube？或者 cartube 有一些替代品吗？我想通过 carplay 在我的车上观看 YouTube 或 Netflix io​​s 18 是否存在越狱？    提交人    /u/Resident-Junket4217   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3rhw1/cartube_or_alternative_on_ios_18/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次侧载 - 全新 iPhone 16 Pro Max。我想要 uYouPlus，我有一个付费的 Apple 开发者帐户，最好的/最简单的方法是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3r1jp/fist_time_sideloading_brand_new_iphone_16_pro_max/</link>
-      <description><![CDATA[我在其他帖子中看到了 7 天撤销的事情。  任何指导都值得感激，因为我曾经在 Android 上使用过 YT vanced，但是现在我已切换到 iPhone，我错过了一些功能。    提交人    /u/Dsteng22   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3r1jp/fist_time_sideloading_brand_new_iphone_16_pro_max/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16 pro max 上有信号吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3orvy/signulous_on_iphone_16_pro_max/</link>
-      <description><![CDATA[有人在 iPhone 16 pro max 上安装了 signulous 吗？我想在我的新 iPhone 上安装它。我想知道是否有人已经安装了它？它的性能如何？它还值得购买吗？我在我的 14pro max 上安装了它，我很喜欢它。但我不知道它是否与 iPhone 16 pro max 兼容。     提交人    /u/rastavirgo1514   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3orvy/signulous_on_iphone_16_pro_max/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>每次我用 esign 侧载应用程序时，它总是说 intgerty 未经验证</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3o98e/everytime_i_sideload_a_app_with_esign_it_keeps/</link>
-      <description><![CDATA[帮助    由   提交  /u/Illustrious-Bug-614   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3o98e/everytime_i_sideload_a_app_with_esign_it_keeps/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里下载 tvOS ipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g3o76k/where_to_download_tvos_ipa_files/</link>
-      <description><![CDATA[您好，我想下载一些 tvOS ipa 文件，但我找不到任何方法。 我知道获取 iOS ipa 文件很容易，但此 ipa 文件中不包含 tvOS 版本。 https://armconverter.com/decryptedappstore/us 有人知道如何下载 tvOS 的 ipa 文件吗？非常感谢！    提交人    /u/mx305   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g3o76k/where_to_download_tvos_ipa_files/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:19:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
