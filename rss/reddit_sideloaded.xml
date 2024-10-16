@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 16 Oct 2024 03:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 06:14:16 GMT</lastBuildDate>
+    <item>
+      <title>有谁的应用程序也停止运行了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g4snbt/anyone_elses_app_just_stopped_working/</link>
+      <description><![CDATA[今天醒来，我从 altstore 下载的侧面加载的 Spotify 突然不可用了    提交人    /u/lxstinthedream   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g4snbt/anyone_elses_app_just_stopped_working/</guid>
+      <pubDate>Wed, 16 Oct 2024 06:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign 上缺少应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g4si8f/lack_of_applications_on_esign/</link>
+      <description><![CDATA[大家好，自 10 月 12 日起，我的 esign 仓库中没有添加任何应用程序，只有我一个人这样吗？只是想知道这是我这边的错误还是正常现象。谢谢 😁    提交人    /u/InternationalHat4344   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g4si8f/lack_of_applications_on_esign/</guid>
+      <pubDate>Wed, 16 Oct 2024 05:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>带 PiP 的电影/节目 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g4ql2u/movieshow_ipa_with_pip/</link>
+      <description><![CDATA[到目前为止，我用过的很多 ipas 都没有 PiP，我想知道它们是否有。     提交人    /u/creppprr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g4ql2u/movieshow_ipa_with_pip/</guid>
+      <pubDate>Wed, 16 Oct 2024 03:51:16 GMT</pubDate>
+    </item>
     <item>
       <title>我的应用一直未得到验证</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g4purq/my_apps_keep_getting_unverified/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>有任何自动仓库吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g4b69v/any_auto_repos/</link>
-      <description><![CDATA[喜欢自动将破解的应用程序添加到侧 lod 应用程序的存储库吗？    提交人    /u/fiddlemymiddle69   [链接] [评论]]]></description>
+      <description><![CDATA[喜欢将破解的应用程序自动添加到侧 lod 应用程序的存储库吗？    提交人    /u/fiddlemymiddle69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g4b69v/any_auto_repos/</guid>
       <pubDate>Tue, 15 Oct 2024 16:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 ESign 和签名应用程序的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g4840i/question_about_esign_and_signed_apps/</link>
-      <description><![CDATA[大家好，我刚刚安装了带有 CN 证书的 esign，该证书已被吊销，自定义 DNS 过滤器用于阻止 Apple URL。  Esign 运行良好，我的意思是，我可以毫无问题地打开它（安装后在设置中受信任的证书）。但没有一个应用程序通过 esign 安装：所有应用程序都警告完整性。 所以我的问题是……为什么我可以将此证书用于 esign，而不能用于应用程序？    提交人    /u/Extension-Plum-5532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g4840i/question_about_esign_and_signed_apps/</guid>
-      <pubDate>Tue, 15 Oct 2024 13:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>将您的 UDID 提供给他人是否安全？他们能用它做什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g47wru/is_it_safe_to_give_someone_your_udid_is_there/</link>
-      <description><![CDATA[.    由   提交  /u/BulletInTheHead21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g47wru/is_it_safe_to_give_someone_your_udid_is_there/</guid>
-      <pubDate>Tue, 15 Oct 2024 13:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>刷新后无法打开 Sidestore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g47viq/cant_get_sidestore_to_open_after_refresh/</link>
-      <description><![CDATA[大家好。一两个月前，我开始使用 Sidestore，它运行得非常好。有一次我忘了刷新它，出于某种原因它没有自动刷新，现在当我从我的 Mac 重新侧载它并完成所有步骤时，它就可以正常工作，直到我刷新侧载应用程序本身。我已经尝试解决这个问题好几天了，但没有成功。有人有什么建议吗？    提交人    /u/Scoorzia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g47viq/cant_get_sidestore_to_open_after_refresh/</guid>
-      <pubDate>Tue, 15 Oct 2024 13:35:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
