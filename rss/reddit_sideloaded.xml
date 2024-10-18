@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 18 Oct 2024 12:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 15:15:50 GMT</lastBuildDate>
+    <item>
+      <title>Signulous 不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g6k519/signulous_dont_work/</link>
+      <description><![CDATA[我有 signulous，当我签署应用程序时，它只是说稍后再试。有些应用程序可以签名，但当我尝试安装某些 ipas 时却不起作用。有人有修复程序吗？    提交人    /u/Leading_Arachnid_652   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g6k519/signulous_dont_work/</guid>
+      <pubDate>Fri, 18 Oct 2024 15:01:17 GMT</pubDate>
+    </item>
     <item>
       <title>Trollstore、Feather、eSign、Scarlet????</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g6eijl/trollstore_feather_esign_scarlet/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我需要这个应用来学习词汇   由    /u/quantumwebb  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g5tpkk/should_i_be_worried_that_this_ipa_might_be/</guid>
       <pubDate>Thu, 17 Oct 2024 15:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>gbox 是否收集遥测数据？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g5tl1p/does_gbox_collect_telemetry/</link>
-      <description><![CDATA[gbox 好用吗？它会收集遥测数据吗？如果是，有没有无日志版本？它在 iOS 18 上能用吗？    提交人    /u/Competitive-Ad-6570   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g5tl1p/does_gbox_collect_telemetry/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:29:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
