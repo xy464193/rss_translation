@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:46:34 GMT</lastBuildDate>
+    <item>
+      <title>无法检查更新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g65b6q/unable_to_check_for_update/</link>
+      <description><![CDATA[我使用 esign dns 方法，出于某种原因，它一直说无法检查更新。我之前遇到过这个问题，后来修复了，我可以更新了，但现在又出现了。如果我禁用 dns 更新然后再次启用它，我的应用程序会被撤销吗？如果您找到解决方案，请提供帮助    提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g65b6q/unable_to_check_for_update/</guid>
+      <pubDate>Fri, 18 Oct 2024 00:09:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Sideloadly 侧载 EeveeSpotify？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g64b0t/how_do_you_sideload_eeveespotify_using_sideloadly/</link>
+      <description><![CDATA[我正在尝试弄清楚如何在我的电脑上使用 Sideloadly 侧载 EeveeSpotify  我对 Github 几乎没有经验，所以当我查看 EeveeSpotify Github 页面 (https://github.com/whoeevee/EeveeSpotify) 时我感到很迷茫  我在哪里可以找到用于侧载 EeveeSpotify 的 API 文件？    提交人    /u/Terrible-Range-5319   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g64b0t/how_do_you_sideload_eeveespotify_using_sideloadly/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apollo iOS 14.3 问题。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g62wp7/apollo_ios_143_issues/</link>
+      <description><![CDATA[他们有办法侧载 Apollo 吗？过去几个月我一直在使用 apollopatcher 的 1.8.7 IPA，但是自上周以来它一直无法正常工作。我在 Reddit 上刷新了我的 API 密钥，但没有用。迫切需要解决方案。 我尝试使用 troll store 加载一些 IPA，但它们在启动时立即崩溃。    提交人    /u/Key-Pineapple-1245   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g62wp7/apollo_ios_143_issues/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobileprovision 和 P12 到 esigncert 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g62ciz/mobileprovision_p12_to_esigncert_file/</link>
+      <description><![CDATA[我最近购买了一个自定义证书，我想问一下，有没有办法将自定义证书与 ESign 一起使用？我已经习惯了使用免费的 .esigncert 文件，那么如何使用常规证书呢？谢谢！！    提交人    /u/Shaijyy1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g62ciz/mobileprovision_p12_to_esigncert_file/</guid>
+      <pubDate>Thu, 17 Oct 2024 21:46:55 GMT</pubDate>
+    </item>
     <item>
       <title>删除 YTMusicUltimate IPA 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g61d4s/dropping_ytmusicultimate_ipa_file/</link>
@@ -25,13 +53,6 @@
       <description><![CDATA[嘿，我正在尝试使用预付的 vanilla visa 礼品卡购买 ios 证书，但是不起作用，我猜这些服务不在美国，我尝试过 iosrocket 和 kravasign (maplesign)，但是不起作用，感谢大家的帮助！谢谢    提交人    /u/icouldent   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g5y30a/usa_based_paid_certs/</guid>
       <pubDate>Thu, 17 Oct 2024 18:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>以 35 美元的价格出售 Apple 开发者证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g5x79o/selling_apple_developer_certificate_for_35/</link>
-      <description><![CDATA[我出售它的原因是因为我现在需要钱，如果你从我这里购买它，我会提供免费的年度证书，你可以在任意数量的设备中使用，最多 100 个 如果你有兴趣，请直接发信息给我    提交人    /u/SolTheDeveloper   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g5x79o/selling_apple_developer_certificate_for_35/</guid>
-      <pubDate>Thu, 17 Oct 2024 18:03:17 GMT</pubDate>
     </item>
     <item>
       <title>侧载应用程序仅在一台设备上运行？</title>
@@ -85,30 +106,9 @@
     <item>
       <title>Mac 上的 Instagram</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g5oyt6/instagram_on_mac/</link>
-      <description><![CDATA[有什么办法可以在我的 m1 macbook air 上侧载 instagram 吗？我试过使用 playcover，但没有用。ig 图标只会冻结    由    /u/h6zou  提交  [链接] [评论]]]></description>
+      <description><![CDATA[有什么办法可以在我的 m1 macbook air 上侧载 instagram 吗？我试过使用 playcover，但没有用。ig 图标只会冻结    由    /u/h6zou  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g5oyt6/instagram_on_mac/</guid>
       <pubDate>Thu, 17 Oct 2024 11:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYou 上的黑屏问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g5l92r/black_screen_issue_on_uyou/</link>
-      <description><![CDATA[我最近买了 16 pro，Eeveespotify 和 YTMusicUltimate 运行得很好。不幸的是，我唯一能用于 Youtube 的 IPA 是 3.03 版，它有一个问题，就是主页选项卡上会显示黑屏。有人用过 3.04 版吗？或者知道这个版本是否修复了这个问题？此外，如果有人有 3.04 uYouEnhanced 的链接，我将不胜感激，因为 GitHub 已经被删除了。    提交人    /u/Longjumping-Math3998   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g5l92r/black_screen_issue_on_uyou/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>可侧载且非经过修改的应用商店应用列表</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g5kkt8/list_of_sideloadable_apps_that_arent_modded/</link>
-      <description><![CDATA[我们是否有一个应用程序列表，这些应用程序不仅仅是经过修改的应用商店应用程序，而是从头开始构建的可以侧载的应用程序？ 我说的是 iTorrent 和 Mangayomi 这样的应用程序。在 Android 上，我最喜欢的 FOSS 应用程序是 NewPipe 和 Seal。    提交人    /u/Soggy_Parfait_8869   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g5kkt8/list_of_sideloadable_apps_that_arent_modded/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Re4 将在 A16 芯片上重制吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g5k9d1/re4_remake_on_a16_chip/</link>
-      <description><![CDATA[在使用旧芯片 A16 的 iPhone 15 上，可以通过侧载运行生化危机 4 吗？我在 youtube 上看到有人通过侧载在 iPhone 12 上运行生化危机 4 重制版    提交人    /u/LowerEnvironment5581   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g5k9d1/re4_remake_on_a16_chip/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:05:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
