@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 18 Oct 2024 21:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 00:45:45 GMT</lastBuildDate>
+    <item>
+      <title>蜿蜒再度撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g6vip3/sinuous_revoked_again/</link>
+      <description><![CDATA[Signulous***** 真是令人沮丧。它已经稳定运行了一年多，但现在每隔几周就会被撤销。    由    /u/free_refil 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g6vip3/sinuous_revoked_again/</guid>
+      <pubDate>Fri, 18 Oct 2024 23:19:28 GMT</pubDate>
+    </item>
     <item>
       <title>尽管我输入了正确的密码，Sideloadly 仍不断要求我输入正确的密码</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g6q0mu/sideloadly_keeps_asking_me_to_enter_the_correct/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我最近购买了一个自定义证书，我想问一下，有没有办法将自定义证书与 ESign 一起使用？我已经习惯了使用免费的 .esigncert 文件，那么如何使用常规证书呢？谢谢！！    提交人    /u/Shaijyy1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g62ciz/mobileprovision_p12_to_esigncert_file/</guid>
       <pubDate>Thu, 17 Oct 2024 21:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify/YTpremium 下载？？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g6105c/spotifyytpremium_downloads/</link>
-      <description><![CDATA[有没有任何应用程序允许下载？据我所知，spotify 调整后的 ipa 不允许下载，YT premium 也是如此。  然而，Deezer 允许下载，但应用程序每分钟都会将我注销。deezer 上的离线模式可以工作，但不切实际。请推荐一个允许下载和离线收听的应用程序，而不会每分钟都将我注销。     提交人    /u/Under-Pressure301   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g6105c/spotifyytpremium_downloads/</guid>
-      <pubDate>Thu, 17 Oct 2024 20:47:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
