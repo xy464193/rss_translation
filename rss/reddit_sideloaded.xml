@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 20 Oct 2024 15:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 18:12:31 GMT</lastBuildDate>
+    <item>
+      <title>无法安装 esign。无法验证。尝试了所有选项。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g81o1d/cant_install_esign_getting_unable_to_verify_tried/</link>
+      <description><![CDATA[有什么帮助吗？我现在该怎么办？考虑换用 Feather。我会遇到同样的问题吗？    提交人    /u/YeOldeTreeStump   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g81o1d/cant_install_esign_getting_unable_to_verify_tried/</guid>
+      <pubDate>Sun, 20 Oct 2024 15:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>临时侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g818xy/ad_hoc_sideload/</link>
+      <description><![CDATA[嗨，我的朋友们。我最近在一款伊朗应用中购买了订阅，该应用在一些临时应用中提交了我的 udid，我可以直接从该应用将 ipa 应用安装到我的 iphone 上。我的问题是如何签名并安装我想要的 ipa 到我的手机上？我使用了 sideloudly 和临时签名模式，但一直出现错误。有人能帮帮我吗？    提交人    /u/AcrobaticComedian283   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g818xy/ad_hoc_sideload/</guid>
+      <pubDate>Sun, 20 Oct 2024 15:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您建议从哪里获取证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g816qm/where_do_you_recommend_to_get_certificates_from/</link>
+      <description><![CDATA[我听说 iOSrocket 是个骗局，所以我绝对不相信，而且 signolous 最近出了问题。我决定是选择 app testers 还是 dxsign。还有谁能给我解释一下撤销、黑名单等是如何工作的，因为我不太确定。    提交人    /u/CoolPaper8   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g816qm/where_do_you_recommend_to_get_certificates_from/</guid>
+      <pubDate>Sun, 20 Oct 2024 15:24:34 GMT</pubDate>
+    </item>
     <item>
       <title>Udid 注册已撤销</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g7xasq/udidregistration_revoked/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[iOS 17 发布已经一年多了，但到目前为止还没有越狱。如果 iOS 17 和更新的 iOS 版本没有越狱，并且应用程序不再支持 iOS 16，那么没有人能够解密应用程序，因为解密需要越狱的 iPhone。没有解密 = 没有修改 = 没有盗版。那么，应用程序盗版在不久的将来注定会在 iOS 上消亡吗？    提交人    /u/ubiquitousguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g7itgf/is_app_piracy_doomed_to_die_on_ios/</guid>
       <pubDate>Sat, 19 Oct 2024 21:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的信用卡被吊销了，我该怎么办？（我是新手）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g7ijl7/my_scarler_got_revoked_what_do_i_do_im_new_to_this/</link>
-      <description><![CDATA[.    由    /u/bobthestan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g7ijl7/my_scarler_got_revoked_what_do_i_do_im_new_to_this/</guid>
-      <pubDate>Sat, 19 Oct 2024 20:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>素描画图片大全</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g7ifzg/sketch_up_ipa/</link>
-      <description><![CDATA[有人能帮我找到不需要订阅或登录的 Sketch Up ipa 吗？我需要 iPad 的 ipa，因为我付不起订阅费。请帮帮我。    提交人    /u/the_ryuk_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g7ifzg/sketch_up_ipa/</guid>
-      <pubDate>Sat, 19 Oct 2024 20:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用加密货币购买 signulous？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g7hzhc/buy_signulous_with_crypto/</link>
-      <description><![CDATA[pp 不在我的国家/地区    由   提交  /u/kontenjer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g7hzhc/buy_signulous_with_crypto/</guid>
-      <pubDate>Sat, 19 Oct 2024 20:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
