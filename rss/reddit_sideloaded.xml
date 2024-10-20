@@ -4,9 +4,16 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 20 Oct 2024 03:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:13:58 GMT</lastBuildDate>
     <item>
-      <title>Kravasign 的清晰度</title>
+      <title>最佳 YouTube 和 SoundCloud</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g7pzej/best_youtube_and_soundcloud/</link>
+      <description><![CDATA[您好， 我从 2012 年开始在 iPod Touch 上越狱。  什么是适用于 YouTube 的最佳轻量级侧载应用程序或调整 dylib 注入。我只希望它能够屏蔽广告并在后台播放。 我还需要一个有效的 SoundCloud dylib 注入或侧载应用程序。如果有人对目前适用于 soundcloud 的内容有任何意见。  iOS 17.6.1 iPhone 14 Pro 谢谢。    提交人    /u/Toe_De   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g7pzej/best_youtube_and_soundcloud/</guid>
+      <pubDate>Sun, 20 Oct 2024 03:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kravasign 简介</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g7njrg/clarity_on_kravasign/</link>
       <description><![CDATA[我很难理解如何通过 Kravasign 在我的设备上签名和安装这些应用程序。我通常只使用 signulous，但他们在这里和那里遇到了一些问题，通常每当我被撤销时，我都会尝试通过 Krava 进行安装，但我永远无法让它安装任何应用程序。我在 iOS 18.1 beta 7 上，并且一直在更新。这就是它不起作用的原因吗？我也尝试过通过网站进行操作，但无济于事。有什么指示吗？谢谢    提交人    /u/superdiscodonni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g7njrg/clarity_on_kravasign/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>iOS 上的应用盗版是否注定会消亡？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g7itgf/is_app_piracy_doomed_to_die_on_ios/</link>
-      <description><![CDATA[iOS 17 发布已经一年多了，但到目前为止还没有越狱。如果 iOS 17 和更新的 iOS 版本没有越狱，并且应用程序不再支持 iOS 16，那么没有人能够解密应用程序，因为解密需要越狱的 iPhone。没有解密 = 没有修改 = 没有盗版。那么，应用程序盗版在不久的将来注定会在 iOS 上消亡吗？    提交人    /u/ubiquitousguy   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 17 发布已经一年多了，但到目前为止还没有越狱。如果 iOS 17 和更新的 iOS 版本没有越狱，并且应用程序不再支持 iOS 16，那么没有人能够解密应用程序，因为解密需要越狱的 iPhone。没有解密 = 没有修改 = 没有盗版。那么，应用程序盗版在不久的将来是否会在 iOS 上消亡？    提交人    /u/ubiquitousguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g7itgf/is_app_piracy_doomed_to_die_on_ios/</guid>
       <pubDate>Sat, 19 Oct 2024 21:11:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      有人知道为什么我无法签署任何应用程序吗？我不知道这只是我的问题还是服务器的问题，只需要等待？我不知道    提交人    /u/Shot_Muffin_4197   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g7h1zk/signulous_giving_me_problems/</guid>
       <pubDate>Sat, 19 Oct 2024 19:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以获得像 Grid Autosport 这样的高级游戏？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g7gzyl/where_can_i_get_premium_games_like_grid_autosport/</link>
-      <description><![CDATA[Telegram 频道、discord 服务器，任何东西。提前致谢。    由   提交  /u/hiderich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g7gzyl/where_can_i_get_premium_games_like_grid_autosport/</guid>
-      <pubDate>Sat, 19 Oct 2024 19:45:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
