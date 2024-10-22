@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 22 Oct 2024 12:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 15:10:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法用 TestFlight 安装.ipa 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9kf11/is_there_a_way_to_install_ipa_files_with/</link>
+      <description><![CDATA[我尝试使用 Testflight 安装一些应用程序，我想知道您是否可以安装和签名 .ipa 文件（无需 Apple 开发者帐户）。可能吗？    提交人    /u/Additional_Seesaw145   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9kf11/is_there_a_way_to_install_ipa_files_with/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自己的来源已发布:)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9i7s2/my_own_source_released/</link>
+      <description><![CDATA[我对于创建自己的存储库还比较陌生，但我还是尝试了一下。它目前只包含一个应用程序，但我想添加那些实际请求的应用程序。您可以在此处请求应用程序：https://strawpoll.com/XOgOVe36Gn3 可以通过以下链接添加存储库：https://raw.githubusercontent.com/KilianBackUp/IPATest/refs/heads/main/App.json 我不确定它是否适用于 AltStore/SideStore，但您绝对可以使用 ESign 添加它。   由    /u/Kilian6064756  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9i7s2/my_own_source_released/</guid>
+      <pubDate>Tue, 22 Oct 2024 13:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有删除对象的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9hl7r/app_with_removing_objects/</link>
+      <description><![CDATA[您好，由于 Apple Intelligence 和其他照片编辑等功能在欧洲不可用，您能分享一些具有此功能的应用程序吗？    提交人    /u/Exotic_Astronomer412   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9hl7r/app_with_removing_objects/</guid>
+      <pubDate>Tue, 22 Oct 2024 13:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify +++</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9h7dl/spotify/</link>
+      <description><![CDATA[任何无需电脑即可使用 spotify+++ 的方法    提交人    /u/Fluid_Vegetable3100   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9h7dl/spotify/</guid>
+      <pubDate>Tue, 22 Oct 2024 12:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何知道 Maple Sign/Krava Sign 帐户是否被撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9gs0l/how_do_i_know_if_maple_signkrava_sign_account_is/</link>
+      <description><![CDATA[我使用的是 iOS 18。我似乎无法在 VPN 和设备管理设置中找到信任选项。  我能够下载 Krava Sign 应用程序（最初在 Maple Sign 时代购买的证书）。能够安装 ESign。它甚至显示我支付的证书将于明年到期。 但我无法使用 ESign 安装应用程序。  任何帮助都值得赞赏。    提交人    /u/MichaelPitch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9gs0l/how_do_i_know_if_maple_signkrava_sign_account_is/</guid>
+      <pubDate>Tue, 22 Oct 2024 12:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>最新且有效的 Esign 无日志版本？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g9euix/latest_working_esign_no_logs_version/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我想知道我可以用 EU 安装哪些东西。我已经知道 Epic Games、Altstore、SetApp 和 aptoide。我正在尝试为欧盟寻找应用程序和不同的应用商店，这些是我能找到的唯一。你们有人知道更多信息吗？    提交人    /u/Luhjusbetta   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g91p40/eu_sideloading/</guid>
       <pubDate>Mon, 21 Oct 2024 21:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装 YTLitePlus 时出现“storeApp 无效”错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g90hcr/installing_ytliteplus_gives_storeapp_is_not_valid/</link>
-      <description><![CDATA[尝试使用 GitHub 上的源代码从 AltStore 安装 YTLitePlus。我有一个完全付费的开发帐户，更新 AltStore 没有任何问题。我在网上找不到有关此错误的任何信息，有人知道这是什么意思以及如何修复它吗？    提交人    /u/DaRealFNaFFan1987   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g90hcr/installing_ytliteplus_gives_storeapp_is_not_valid/</guid>
-      <pubDate>Mon, 21 Oct 2024 20:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>降级未签名的 ipados</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g8yptl/downgrade_unsigned_ipados/</link>
-      <description><![CDATA[你好 我有一台搭载 iOS 18 的 iPad Air 5，我想安装 Troll Store 我需要将我的 iPad 从 iOS 18 降级到 iOS 16.5 我该怎么做？ 帮帮我   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g8yptl/downgrade_unsigned_ipados/</guid>
-      <pubDate>Mon, 21 Oct 2024 19:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 iOS 16.7.1 的 Filza 替代品？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g8xfze/are_there_any_alternatives_to_filza_for_ios_1671/</link>
-      <description><![CDATA[我正在寻找一个可以查看和编辑普通文件应用程序无法显示的应用程序文件的应用程序 我能够安装 filza ipa 文件，但它在启动时崩溃了。似乎不起作用。我也尝试了 misaka，但似乎无法打开文件系统。（选项卡在那里，但没有文件）。 或者 Filza 是唯一可以做到这一点的应用程序，我只需要等到更新到来？    提交人    /u/unknown_slong   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g8xfze/are_there_any_alternatives_to_filza_for_ios_1671/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:49:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotilife 与特斯拉连接</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g8x5jo/spotilife_connecting_with_a_tesla/</link>
-      <description><![CDATA[大家好， 我想问一下，既然特斯拉现在从欧元的 prem 订阅中删除了免费的 spotify，是否有任何方法可以将 spotilife ios ap 与特斯拉连接，而不仅仅是通过蓝牙。 提前谢谢。    提交人    /u/No_Confidence94   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g8x5jo/spotilife_connecting_with_a_tesla/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何皇室战争服务器仍支持 ios 6？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g8ukdo/are_there_any_clash_royale_servers_still/</link>
-      <description><![CDATA[我最近看到一个人链接了一个网站，上面有些人已经建立了服务器，为 LegacyOS 设备托管部落冲突。我想知道皇室战争是否也在某个地方托管    提交人    /u/Jondebadboy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g8ukdo/are_there_any_clash_royale_servers_still/</guid>
-      <pubDate>Mon, 21 Oct 2024 16:54:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
