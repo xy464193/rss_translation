@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 22 Oct 2024 00:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 03:17:03 GMT</lastBuildDate>
+    <item>
+      <title>如何取消signulous自动续订订阅？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g96xnq/how_to_cancel_signulous_automatic_renewal/</link>
+      <description><![CDATA[您好，我是新手，看到很多人说 signulous 正在走下坡路，我只是想确保它不会续订，我不知道该怎么做，但只是联系支持人员    提交人    /u/inbox_123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g96xnq/how_to_cancel_signulous_automatic_renewal/</guid>
+      <pubDate>Tue, 22 Oct 2024 01:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个像uyouplus这样的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g94t8c/need_a_app_like_uyouplus/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>降级未签名的 ipados</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g8yptl/downgrade_unsigned_ipados/</link>
-      <description><![CDATA[你好 我有一台装有 iOS 18 的 iPad Air 5，我想安装 Troll Store 我需要将我的 iPad 从 iOS 18 降级到 iOS 16.5 我该怎么做？ 帮帮我    提交人    /u/Particular_Ad_5565   [link] [评论]]]></description>
+      <description><![CDATA[你好 我有一台搭载 iOS 18 的 iPad Air 5，我想安装 Troll Store 我需要将我的 iPad 从 iOS 18 降级到 iOS 16.5 我该怎么做？ 帮帮我   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g8yptl/downgrade_unsigned_ipados/</guid>
       <pubDate>Mon, 21 Oct 2024 19:41:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[首先，英语不是我的母语，所以如果拼写错误请见谅。 我只想在 IOS 上的一款游戏中使用两个账户，所以我需要克隆游戏。我偶然发现了不同的方法，但它们都太复杂了。 我认为可能的方法是使用 Scarlet，但我无法在我的 VPN 设置中验证它。 有没有什么有用的方法可以克隆应用程序而无需越狱或支付额外费用？感谢所有的帮助！    提交人    /u/ATTinST   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g8qthu/how_to_clone_apps/</guid>
       <pubDate>Mon, 21 Oct 2024 14:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 更新后应用程序关闭（signulous）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g8p8iq/apps_closing_after_ios_updatesignulous/</link>
-      <description><![CDATA[首先我必须声明我刚刚开始侧载。使用 Signulous 在 IOS 18 上侧载。 一切正常，但我的手机在晚上更新了。现在我使用的是 18.0.1。 但是我打开所有应用程序时它们都会关闭，我再次尝试使用 signulous，但它提示我重新登录我的设备并等待 72 小时后再试一次。 这是正常现象吗？每次更新后，我们是否都需要等待 72 小时才能重新登录每个应用程序？ 提前致谢。    提交人    /u/Pixelhouse18   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g8p8iq/apps_closing_after_ios_updatesignulous/</guid>
-      <pubDate>Mon, 21 Oct 2024 13:06:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
