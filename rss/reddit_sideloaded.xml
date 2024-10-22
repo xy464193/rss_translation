@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 18:13:56 GMT</lastBuildDate>
+    <item>
+      <title>邀请加入 MovieBoxPro</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9otmt/invite_to_movieboxpro/</link>
+      <description><![CDATA[有人可以给我发一个邀请码吗 :)    提交人    /u/Droseer22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9otmt/invite_to_movieboxpro/</guid>
+      <pubDate>Tue, 22 Oct 2024 18:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能分享一些 p12 证书吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1g9l5oz/would_anyone_share_some_p12_cert/</link>
+      <description><![CDATA[😔    由   提交  /u/rzqx7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1g9l5oz/would_anyone_share_some_p12_cert/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:39:18 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法用 TestFlight 安装.ipa 文件？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1g9kf11/is_there_a_way_to_install_ipa_files_with/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[什么证书适合终身使用？我听说 kravasign 不错，但我不知道该选哪个    提交人    /u/Nice-Star-2180   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1g92ego/cert_lifetime/</guid>
       <pubDate>Mon, 21 Oct 2024 22:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载 Youtube 问题-Airpod 耳朵检测不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g91zlu/sideloaded_youtube_issue_airpod_ear_detection_not/</link>
-      <description><![CDATA[我使用白金套餐下的 UDID 注册，我尝试过 YTlite 和 uyou+，但这两个 ipas 都无法在 airpods 上进行耳朵检测。因此，当我摘下一个 airpod 时，视频仍在播放。但当我尝试通过 altstore（来自官方来源）安装 ytlite 时，耳朵检测可以正常工作。有人知道为什么会这样吗？这是我在分发签名服务上使用的 ipa 的问题，还是我需要一个允许我设置应用程序权限的签名工具？我不知道该怎么办，这太烦人了。    提交人    /u/Draco905   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g91zlu/sideloaded_youtube_issue_airpod_ear_detection_not/</guid>
-      <pubDate>Mon, 21 Oct 2024 21:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g91p40/eu_sideloading/</link>
-      <description><![CDATA[我想知道我可以用 EU 安装哪些东西。我已经知道 Epic Games、Altstore、SetApp 和 aptoide。我正在尝试为欧盟寻找应用程序和不同的应用商店，这些是我能找到的唯一。你们有人知道更多信息吗？    提交人    /u/Luhjusbetta   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g91p40/eu_sideloading/</guid>
-      <pubDate>Mon, 21 Oct 2024 21:42:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

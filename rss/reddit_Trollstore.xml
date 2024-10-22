@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 18:13:51 GMT</lastBuildDate>
+    <item>
+      <title>每隔几个小时，Bootstrap 服务器就会停止工作</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1g9mwhq/bootstrap_server_stops_working_after_every_few/</link>
+      <description><![CDATA[我在 iOS 17.0 上使用 iPhone 13PM 和 TrollStore。我已经安装了 bootstrap 和一些插件，如 CopyLog、Trollrecorder 等。但 bootstrap 服务器每隔几个小时就会停止工作，我必须重新启动服务器并重新加载插件。这是正常的吗？有没有什么解决办法？    提交人    /u/dtstrk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1g9mwhq/bootstrap_server_stops_working_after_every_few/</guid>
+      <pubDate>Tue, 22 Oct 2024 16:51:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trollstore 正在开发 ipadOS 17.1</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1g9mewq/trollstore_working_on_ipados_171/</link>
+      <description><![CDATA[我以为它不受支持，但我只需在 misakaX 上安装 trollstore 就可以了……？ 怎么样？ 编辑：不起作用    提交人    /u/Hairy_Educator1918   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1g9mewq/trollstore_working_on_ipados_171/</guid>
+      <pubDate>Tue, 22 Oct 2024 16:31:02 GMT</pubDate>
+    </item>
     <item>
       <title>trollstore 的官方网站是什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1g8w1cs/whats_trollstores_official_site/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我看到一些应用程序使用 TrollStore 来伪造位置数据，但我想知道是否有任何应用程序或工具可以获取从 iPhone 共享的 GPS 数据（例如通过 WiFi 使用 NMEA 格式）并在仅限 WiFi 的 iPad 上使用这些数据来获得更准确的定位，甚至用于导航目的。 如果有人尝试过这样的事情或知道任何支持此功能的应用程序，我将不胜感激您的意见！ 谢谢！    提交人    /u/andyching168   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1g4q4t2/any_apps_that_can_let_ipad_use_iphones_nmea_gps/</guid>
       <pubDate>Wed, 16 Oct 2024 03:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序辞职</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g4jpc9/app_resign/</link>
-      <description><![CDATA[还有其他方法可以为 carplay 重新签名应用程序吗？Trollstore 对我来说不起作用    提交人    /u/Resident-Junket4217   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g4jpc9/app_resign/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watusi 为 Trollstore 创作</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g40ewv/watusi_for_trollstore/</link>
-      <description><![CDATA[      我以前都是从帖子里提供的链接下载 Watusi trollstore 版本，现在从此链接下载会将我带到互联网档案馆，我无法下载最新版本的 Watusi whatsapp。有人知道我如何获取最新的 Watusi WhatsApp 吗？    提交人    /u/EchoEnigma__   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g40ewv/watusi_for_trollstore/</guid>
-      <pubDate>Tue, 15 Oct 2024 05:16:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
