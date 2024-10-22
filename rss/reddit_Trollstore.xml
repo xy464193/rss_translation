@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 22 Oct 2024 03:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 06:14:25 GMT</lastBuildDate>
+    <item>
+      <title>Duolingo IPA 可以运行，但目前还没有任何语音测试可以注册。</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1g9ae1h/duolingo_ipa_that_works_at_the_moment_none_of_the/</link>
+      <description><![CDATA[CYPWN 商店（和其他商店）上的最新 IPA 口语测试总是失败。我已授予麦克风等访问权限，但不起作用。所有其他功能都正常工作。 我是否错过了解决方案？ 我也无法从 App Store 下载官方应用程序，每次都失败。我想也许可以下载官方应用程序，然后强制安装 TrollStore Duolingo Max IPA。    提交人    /u/Axl_Von_Urban   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1g9ae1h/duolingo_ipa_that_works_at_the_moment_none_of_the/</guid>
+      <pubDate>Tue, 22 Oct 2024 04:59:51 GMT</pubDate>
+    </item>
     <item>
       <title>trollstore 的官方网站是什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1g8w1cs/whats_trollstores_official_site/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[还有其他方法可以为 carplay 重新签名应用程序吗？Trollstore 对我来说不起作用    提交人    /u/Resident-Junket4217   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1g4jpc9/app_resign/</guid>
       <pubDate>Tue, 15 Oct 2024 22:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watusi 为 Trollstore 创作</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g40ewv/watusi_for_trollstore/</link>
-      <description><![CDATA[      我以前都是从帖子里提供的链接下载 Watusi trollstore 版本，现在从此链接下载会将我带到互联网档案馆，我无法下载最新版本的 Watusi whatsapp。有人知道我如何获取最新的 Watusi WhatsApp 吗？    提交人    /u/EchoEnigma__   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g40ewv/watusi_for_trollstore/</guid>
-      <pubDate>Tue, 15 Oct 2024 05:16:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
