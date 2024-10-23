@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:13:25 GMT</lastBuildDate>
+    <item>
+      <title>越狱检测</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gagrbt/jailbreak_detection/</link>
+      <description><![CDATA[我下载 Filza 时，我的体育博彩应用程序首先遇到了越狱检测，但后来我将其替换为无 URL 方案版本并清除应用程序，它又像魔法一样工作了。快进几周，我下载的唯一新东西是 ModMyIPA 和 TrollDecrypt，现在检测又回来了，即使我删除了 filza 中所有（我认为）它们的痕迹。  真的很令人沮丧，我希望功能恢复。有人知道我可能错过的所有位置都会导致检测吗？  我从未越狱过，我曾尝试卸载 filza 以防万一，甚至卸载了 TrollStore     提交人    /u/PeePeeTree   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gagrbt/jailbreak_detection/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:48:19 GMT</pubDate>
+    </item>
     <item>
       <title>请拨打此号码并发短信！我需要尽可能多的巨魔！</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ga04ks/please_call_and_text_this_number_i_need_as_many/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我要换 iPhone，从 iPhone se 32gb (2016) 换到 iPhone 126gb (2016)，我想确保以正确的方式传输我的数据。我通过 TrollApps 安装了 Trollstore 和一些应用程序。我会丢失它们吗？我应该直接卸载它们以免弄坏我的新 iPhone 吗？如果您知道保留我的应用程序的方法，请告诉我 :)    提交人    /u/dittu666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1g51477/changing_iphone_same_model_will_trollstore/</guid>
       <pubDate>Wed, 16 Oct 2024 14:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些应用程序可以让 iPad 使用 iPhone 的 NMEA GPS 数据来欺骗位置和导航？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g4q4t2/any_apps_that_can_let_ipad_use_iphones_nmea_gps/</link>
-      <description><![CDATA[大家好， 我看到一些应用程序使用 TrollStore 来伪造位置数据，但我想知道是否有任何应用程序或工具可以获取从 iPhone 共享的 GPS 数据（例如通过 WiFi 使用 NMEA 格式）并在仅限 WiFi 的 iPad 上使用这些数据来获得更准确的定位，甚至用于导航目的。 如果有人尝试过这样的事情或知道任何支持此功能的应用程序，我将不胜感激您的意见！ 谢谢！    提交人    /u/andyching168   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g4q4t2/any_apps_that_can_let_ipad_use_iphones_nmea_gps/</guid>
-      <pubDate>Wed, 16 Oct 2024 03:25:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

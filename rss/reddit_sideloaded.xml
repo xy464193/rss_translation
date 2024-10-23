@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:13:32 GMT</lastBuildDate>
+    <item>
+      <title>尝试羽化，但卡在开始处附近：</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gaf797/trying_to_feather_but_stuck_near_the_beginning/</link>
+      <description><![CDATA[长期粉丝，首次发帖： 因此，我尝试在 r/sideloaded 中关注一篇关于使用 feather 去除广告的帖子，但自动修改器在链接上发帖，所以这是我第二次尝试发布此帖子。 因此，我要让 feather 启动并运行（并最终屏蔽广告）。这是我的工作：  通过 sideloadly 安装 feather 1.0.5 通过 big deal 的链接免费获取 p12 和移动配置&lt; 下载（但未安装）防撤销 dns，因为像 outkast 的父母一样，我不知道该怎么做  接下来的两个步骤我遇到了困难： - 导入证书并使用不同的 bundle id 重新授予 feather - 删除旧的 feather 应用程序，以便所有应用程序都在同一个证书上  但是我遇到了困难。当我去安装新的 feather 时，我得到了 - 空白图标， - 云下载图标，和 - “无法安装 feather。无法安装此应用程序，因为无法验证其完整性。” 帮忙？ （标记 u/big-deal-5104。）我的谷歌功夫很弱。    由   提交  /u/dreadwesley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gaf797/trying_to_feather_but_stuck_near_the_beginning/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国大地财产保险股份有限公司</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gadkru/china_continent_property_casualty_insurance/</link>
+      <description><![CDATA[请有人将此企业证书的链接发送给我，另外我想知道这是否算作 ipa/app 请求，如果算作，您能告诉我吗，谢谢    提交人    /u/mrpoopoothe2nd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gadkru/china_continent_property_casualty_insurance/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>伙计们，你们能给我一个免费获得 Epic 游戏商店的网站吗（因为我想要 Fall Guys）？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gadao4/guys_can_u_give_me_a_website_to_get_the_epic/</link>
+      <description><![CDATA[兄弟，我在用 ipad，我试过的所有方法都说你需要 3 步验证    提交人    /u/ChairPsychological50   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gadao4/guys_can_u_give_me_a_website_to_get_the_epic/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:26:38 GMT</pubDate>
+    </item>
     <item>
       <title>有什么办法可以解决这个问题吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gac3nb/is_there_anyway_to_fix_this/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我不会进一步详细说明整个 Omega 情况，但请删除他们的 REPO，他们不值得信任，可能会在他们的应用中注入恶意调整！    提交人    /u/Competitive-Ad-6570   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ga2s9d/please_remove_the_by_omega_repo/</guid>
       <pubDate>Wed, 23 Oct 2024 05:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们知道 Omega 是个骗局</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga1gdr/we_know_omega_is_a_scam/</link>
-      <description><![CDATA[无需就此发表 50 条帖子    由   提交  /u/NefariousnessSad2551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga1gdr/we_know_omega_is_a_scam/</guid>
-      <pubDate>Wed, 23 Oct 2024 03:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>猩红色刷新错误“需要重新认证”-wiregaurd 方法</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g9zbbb/scarlet_refresh_error_reauth_required_wiregaurd/</link>
-      <description><![CDATA[嘿，每当我尝试刷新 Scarlet 应用程序时，我都会收到“需要重新认证”错误 我该如何解决这个问题？我正在使用 wiregaurd 方法。 此外，还有哪些其他方法像 wiregaurd 一样，安装后不需要 PC    提交人    /u/DarianDev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g9zbbb/scarlet_refresh_error_reauth_required_wiregaurd/</guid>
-      <pubDate>Wed, 23 Oct 2024 01:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>omega perma 签名者退出骗局</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1g9yrbh/omega_perma_signer_exit_scam/</link>
-      <description><![CDATA[      这全是胡说八道    提交人    /u/mikey7282   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1g9yrbh/omega_perma_signer_exit_scam/</guid>
-      <pubDate>Wed, 23 Oct 2024 01:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
