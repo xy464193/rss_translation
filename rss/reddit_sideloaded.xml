@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 23 Oct 2024 18:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:09:54 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法检查自己是否被列入黑名单？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gal6iy/is_there_a_way_to_check_if_youre_blacklisted/</link>
+      <description><![CDATA[我一直在想    提交人    /u/AdmirableBed8803   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gal6iy/is_there_a_way_to_check_if_youre_blacklisted/</guid>
+      <pubDate>Wed, 23 Oct 2024 20:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于侧载应用程序的新手来说，最安全的方法是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gal01c/new_to_sideloading_apps_what_the_safest_way_to_do/</link>
+      <description><![CDATA[我有几个应用程序想侧载，我想知道最安全的方法是什么。哪些方法安全，哪些方法不安全？    提交人    /u/Awayfrompeople   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gal01c/new_to_sideloading_apps_what_the_safest_way_to_do/</guid>
+      <pubDate>Wed, 23 Oct 2024 20:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18.1 beta 5 之后充电限制仍然存在</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gajdee/charge_limit_persisted_after_ios_181_beta_5/</link>
+      <description><![CDATA[因此，当我使用 iOS 18.1 beta 4 时，我使用 misakaX 在我的 14 Pro 上启用了充电限制功能。在更新到 18.1 beta 5 及更高版本后，该功能在设置中消失，但我的手机充电量不会超过 85%（之前设定的限制）。有人对如何让它恢复正常有什么建议吗？    提交人    /u/WealthCommercial5673   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gajdee/charge_limit_persisted_after_ios_181_beta_5/</guid>
+      <pubDate>Wed, 23 Oct 2024 19:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Omega Repo（菲律宾开发）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gajajo/new_omega_repo_filipino_development/</link>
+      <description><![CDATA[部分 omega 员工创建了与 Spyke 无关的 discord 服务器。他们还创建了一个 repo 来替换 omega github (https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/applist.md)。如果您想要他们的 repo 的更新，可以在此处加入：https://discord.gg/DmpSAQFTs7 他们目前除了维护 repo 之外没有做任何其他事情，希望它成为社区的主要内容。   由    /u/Smart-Ad-8635  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gajajo/new_omega_repo_filipino_development/</guid>
+      <pubDate>Wed, 23 Oct 2024 19:38:33 GMT</pubDate>
+    </item>
     <item>
       <title>尝试羽化，但卡在开始处附近：</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gaf797/trying_to_feather_but_stuck_near_the_beginning/</link>
@@ -25,6 +53,13 @@
       <description><![CDATA[兄弟，我在用 ipad，我试过的所有方法都说你需要 3 步验证    提交人    /u/ChairPsychological50   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gadao4/guys_can_u_give_me_a_website_to_get_the_epic/</guid>
       <pubDate>Wed, 23 Oct 2024 15:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLitePlus 更换新的迷你播放器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gad8ap/ytliteplus_change_new_miniplayer/</link>
+      <description><![CDATA[嘿，我刚刚获得了 YouTube 正在慢慢推出的新迷你播放器。  你们有人知道是否可以将其恢复为旧版本吗？也许通过 A/B 测试设置？    提交人    /u/Great-TeacherOnizuka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gad8ap/ytliteplus_change_new_miniplayer/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:23:55 GMT</pubDate>
     </item>
     <item>
       <title>有什么办法可以解决这个问题吗</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[所以我一直在使用 esign 来签名和侧载我的所有 IPA，到目前为止从未遇到任何问题。我发现有些 ipas 安装正常，但其他一些 ipas 总是在启动时崩溃（例如 Goodnotes 6）。由于其他一切都正常，我仍然可以签名和侧载其他应用程序，我猜这是 IPA 文件本身的问题。你们知道有没有办法解决这个问题？    提交人    /u/swagpanchina   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ga7lrb/some_sideloaded_apps_crashing_on_startup/</guid>
       <pubDate>Wed, 23 Oct 2024 10:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwaggyP36000 有替代品吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga6ax2/any_alternatives_for_swaggyp36000/</link>
-      <description><![CDATA[他曾经通过调整来更新 ipa，但现在他的 github 不可用。    提交人    /u/Uzairexy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga6ax2/any_alternatives_for_swaggyp36000/</guid>
-      <pubDate>Wed, 23 Oct 2024 09:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么，在经历了这次 Omega 骗局之后，什么对你最有效？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga3nho/so_after_this_omega_scam_what_works_for_you_the/</link>
-      <description><![CDATA[对我来说，它是 Esign fs     提交人    /u/ElkWonderful2808   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga3nho/so_after_this_omega_scam_what_works_for_you_the/</guid>
-      <pubDate>Wed, 23 Oct 2024 06:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omega Repo 档案</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga3mww/omega_repo_archive/</link>
-      <description><![CDATA[对于仍然需要“By Omega Repo”的人，我有来自包含所有最新应用程序的 repo 的 applist.md。我打算迟早更新它，但现在不行，因为我仍在删除 omega repo 的 omega 部分。 链接：https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/applist.md    提交人    /u/Filipino__Redittor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga3mww/omega_repo_archive/</guid>
-      <pubDate>Wed, 23 Oct 2024 06:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>18.1 侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga3lhz/181_sideload/</link>
-      <description><![CDATA[嗨！我是侧载新手，我想知道如何在 18.1 版本上进行侧载     提交人    /u/Extra-Cat-5185   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga3lhz/181_sideload/</guid>
-      <pubDate>Wed, 23 Oct 2024 06:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>请删除“By Omega” REPO！！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ga2s9d/please_remove_the_by_omega_repo/</link>
-      <description><![CDATA[我不会进一步详细说明整个 Omega 情况，但请删除他们的 REPO，他们不值得信任，可能会在他们的应用中注入恶意调整！    提交人    /u/Competitive-Ad-6570   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ga2s9d/please_remove_the_by_omega_repo/</guid>
-      <pubDate>Wed, 23 Oct 2024 05:13:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
