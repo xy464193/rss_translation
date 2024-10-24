@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 24 Oct 2024 12:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 15:10:45 GMT</lastBuildDate>
+    <item>
+      <title>在 iOS 17.4.1 15 Pro Max 上进行侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gb4hkr/sideloading_on_ios_1741_15_pro_max/</link>
+      <description><![CDATA[嘿伙计们，有没有办法在 ip15promax ios 17.4.1 上进行侧载？    提交人    /u/PatienceOk8325bsnsnd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gb4hkr/sideloading_on_ios_1741_15_pro_max/</guid>
+      <pubDate>Thu, 24 Oct 2024 14:52:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求一种侧载（或官方???）解决方案，以解决 YouTube 应用中 PiP/动态岛/后台播放跳过前进按钮的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gb3a0m/seeking_a_sideloaded_or_official_solution_to/</link>
+      <description><![CDATA[图片说明了我的意思。经过大量编辑以消除人们可能关注的干扰。https://i.imgur.com/C5pNf1n.jpeg 在图片中，动态岛显示为播放 YouTube 视频的背景。 问题：我需要将那些下一个/上一个按钮（可怕的 YouTube 设计......）更改为“跳过 10 秒”。这可以在全屏时在应用程序的主区域中完成。但是，在 YTLite（现在似乎是一个死项目？其中一个开发人员搞砸了，开始注入恶意的虚假警告屏幕……但无论如何）和 uYouEnhanced（名称可能错误，您明白我在说什么）中不知疲倦地搜索之后，我没有看到针对 PiP 或 Dynamic Island 更改此设置的选项。 原因：我希望使用“操作按钮”（Apple 的巧妙命名……）跳过 10 秒。这适用于播客应用程序和其他应用程序，例如 Spotify。YouTube 令人讨厌，愚蠢地使用这种手势系统，您双击即可在全屏中快进，而在 PiP/Dynamic Island 中，您只是被淘汰了。即使购买了付费高级版（顺便说一句，我有付费高级版，而且据我所知，官方应用程序中没有这个选项）。 如果有人知道这是否可以与现有项目一起使用，请链接或提供 repo 名称和/或具体说明如何实现我的要求。谢谢。 或者：如果有人知道使用快捷方式（应用程序）来做我想要做的事情的方法（当我按住操作按钮 1 秒钟左右/无论它的激活时间是多少时，后台快进 10 秒）也请提供链接或说明。再次感谢。    提交人    /u/Paranoia22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gb3a0m/seeking_a_sideloaded_or_official_solution_to/</guid>
+      <pubDate>Thu, 24 Oct 2024 13:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有 ipa 捆绑包？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gb2jja/is_there_any_bundles_of_ipas_out_there/</link>
+      <description><![CDATA[像 App Store 一样将一大堆 ipa 放在一个地方，但可以将其放在 ESign 或 feather 中吗？    提交人    /u/fiddlemymiddle69   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gb2jja/is_there_any_bundles_of_ipas_out_there/</guid>
+      <pubDate>Thu, 24 Oct 2024 13:24:03 GMT</pubDate>
+    </item>
     <item>
       <title>哟，所以我确实设计了解压失败</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gb125y/yo_so_i_did_esign_unzip_failed/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[有没有办法侧载旧版本的应用程序？有什么好的存储库推荐吗？    提交人    /u/Rouleaux1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gau0so/how_can_i_load_older_version_of_stock_ios_app/</guid>
       <pubDate>Thu, 24 Oct 2024 04:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似 Instagram 的侧载应用程序 + 关于 SideloadFixerLol、SideloadKeychainFix 和 MobileProvision 移除的说明</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gatc1t/sideloading_apps_like_instagram_clarification_on/</link>
-      <description><![CDATA[大家好， 我一直在研究如何使用 ESign 侧载一些应用，比如 Instagram 和其他一些应用，但我遇到了一些不确定的事情。在侧载应用中注入时，我不断看到有人提到 SideloadFixerLol 和 SideloadKeychainFix。有人能解释一下它们的用途吗？比如，我是否需要将它们注入应用才能正常工作或绕过某些限制？ 此外，我注意到一些说明谈到了删除 mobileprovision。这是怎么回事？删除 mobileprovision 实际上有什么作用，所有侧载应用都需要删除吗？ 任何帮助都将不胜感激！    提交人    /u/No_Personality389   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gatc1t/sideloading_apps_like_instagram_clarification_on/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费通知 ESign</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gashln/free_notifications_esign/</link>
-      <description><![CDATA[      我测试过了，它适用于几乎所有应用程序， 无论是 IG、rocket 还是其他。我建议使用 Cert Vietnam。    提交人    /u/Wealist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gashln/free_notifications_esign/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:40:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adguard 的 AntiRevoke 阻止列表</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gasgzn/antirevoke_blocklist_for_adguard/</link>
-      <description><![CDATA[我刚刚为 adguard 创建了一个 Dns 过滤，您可以在这里找到阻止列表。&gt; 该插件用于 ios 更新列表 *    提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gasgzn/antirevoke_blocklist_for_adguard/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:40:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
