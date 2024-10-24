@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:19:00 GMT</lastBuildDate>
+    <item>
+      <title>政府应用程序崩溃</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gaz5uc/government_app_crashing/</link>
+      <description><![CDATA[简单解释一下，我曾经用 dopamine 越狱过一部 iOS 16 版 iPhone，并且安装了 TrollStore，但这部手机最终漏洞百出，使用起来很麻烦。我卸载了越狱软件，以为我删除了所有越狱文件和所有内容。然后我更新到最新版本的 IOS，开始使用 KravaSigner，但发现政府应用程序仍然无法正常工作。  我确实看到一些帖子谈论 Varclean，但我认为那只适用于 trollstore 我被坑了吗？    提交人    /u/Ok_Purple_6557   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gaz5uc/government_app_crashing/</guid>
+      <pubDate>Thu, 24 Oct 2024 10:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>将 Nyx 注入 Instagram</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gaqujq/injecting_nyx_into_instagram/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我在 github 上看到了用于越狱设备的内容，但是 trollstore 有没有类似的东西？有人可以切换到 trollstore 或知道如何切换到 trollstore 吗？ https://github.com/34306/watched    提交人    /u/_Kot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1g54ib7/free_alternative_for_sync_new_watchos_with_old_ios/</guid>
       <pubDate>Wed, 16 Oct 2024 17:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何下载应用程序的降级版本？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g51poo/how_to_download_downgraded_version_of_an_app/</link>
-      <description><![CDATA[我是苹果新手。我女朋友买了一台新的 iPad air 2，她给了我，我重新初始化后，我无法下载任何东西，因为我无法上传 iOS 15，而大多数应用程序需要 iOS 16 才能运行。  我想也许我可以从一些档案中下载一些降级版本的应用程序，然后我偶然发现了这个 Reddit 子版块。trollstore 是这样做的正确方法吗？    提交人    /u/ItsFahrenheit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g51poo/how_to_download_downgraded_version_of_an_app/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
