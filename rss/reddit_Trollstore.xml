@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 24 Oct 2024 00:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 03:16:15 GMT</lastBuildDate>
+    <item>
+      <title>将 Nyx 注入 Instagram</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gaqujq/injecting_nyx_into_instagram/</link>
+      <description><![CDATA[      我从 .deb (1.4.0) 中提取了最新的 Nyx 版本，并将其注入到与其兼容的最新 instagram 版本中(354.0) 但打开时崩溃。我需要注入哪些其他 .dylib 来防止它崩溃，我可以从哪个 repo 下载它们？谢谢！iPhone 14 Pro 17.0 带 TrollStore 2    提交人    /u/WorkingSir9449   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gaqujq/injecting_nyx_into_instagram/</guid>
+      <pubDate>Thu, 24 Oct 2024 01:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>电池消耗🔋</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gaiz29/battery_consumption/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是苹果新手。我女朋友买了一台新的 iPad air 2，她给了我，我重新初始化它后，我无法下载任何东西，因为我无法上传 iOS 15，而大多数应用程序需要 iOS 16 才能运行。  我想也许我可以从一些档案中下载一些降级版本的应用程序，然后我偶然发现了这个 Reddit 子版块。trollstore 是这样做的正确方法吗？    提交人    /u/ItsFahrenheit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1g51poo/how_to_download_downgraded_version_of_an_app/</guid>
       <pubDate>Wed, 16 Oct 2024 15:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>换 iPhone，同型号，Trollstore 会消失吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1g51477/changing_iphone_same_model_will_trollstore/</link>
-      <description><![CDATA[我要换 iPhone，从 iPhone se 32gb (2016) 换到 iPhone 126gb (2016)，我想确保以正确的方式传输我的数据。我通过 TrollApps 安装了 Trollstore 和一些应用程序。我会丢失它们吗？我应该直接卸载它们以免弄坏我的新 iPhone 吗？如果您知道保留我的应用程序的方法，请告诉我 :)    提交人    /u/dittu666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1g51477/changing_iphone_same_model_will_trollstore/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:46:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
