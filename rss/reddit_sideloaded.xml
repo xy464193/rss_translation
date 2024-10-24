@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 24 Oct 2024 03:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:11:20 GMT</lastBuildDate>
+    <item>
+      <title>ESING 再次被撤销</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gawslo/esing_revoked_again/</link>
+      <description><![CDATA[伙计们，我们需要提高一下水平。如果 Feather 开发人员可以添加一种添加 esign 证书的方法，那么至少我们可以获得新证书，而不必从头开始重做整个事情。    提交人    /u/fololologrt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gawslo/esing_revoked_again/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子签名被撤销</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gawkwm/esign_revoked/</link>
+      <description><![CDATA[我目前有 Esign，但它今天被删除了。我目前正在使用 NextDNS，我想知道为什么它仍然被删除，应用程序显示“Esign 不再可用”。需要帮助请    由   提交  /u/Altruistic_Space6434   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gawkwm/esign_revoked/</guid>
+      <pubDate>Thu, 24 Oct 2024 06:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了侧载之外，我还能用 kravasign 做什么</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gavkzj/what_can_i_do_with_kravasign_other_than_side_load/</link>
+      <description><![CDATA[我知道 kravasign 在订阅中附带了许多其他内容。比如什么？我该如何访问它。谢谢    提交人    /u/DrTron1c   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gavkzj/what_can_i_do_with_kravasign_other_than_side_load/</guid>
+      <pubDate>Thu, 24 Oct 2024 05:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gavkaz/sideloading_recommendations/</link>
+      <description><![CDATA[刚刚成功将 feather 下载到我的 iPad 上。现在我不知道该下载什么，有没有推荐的 repos 或好玩的游戏或应用程序？谢谢！    提交人    /u/DrTron1c   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gavkaz/sideloading_recommendations/</guid>
+      <pubDate>Thu, 24 Oct 2024 05:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何加载旧版本的 iOS 应用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gau0so/how_can_i_load_older_version_of_stock_ios_app/</link>
+      <description><![CDATA[有没有办法侧载旧版本的应用程序？有什么好的存储库推荐吗？    提交人    /u/Rouleaux1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gau0so/how_can_i_load_older_version_of_stock_ios_app/</guid>
+      <pubDate>Thu, 24 Oct 2024 04:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似 Instagram 的侧载应用程序 + 关于 SideloadFixerLol、SideloadKeychainFix 和 MobileProvision 移除的说明</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gatc1t/sideloading_apps_like_instagram_clarification_on/</link>
+      <description><![CDATA[大家好， 我一直在研究如何使用 ESign 侧载一些应用，比如 Instagram 和其他一些应用，但我遇到了一些不确定的事情。在侧载应用中注入时，我不断看到有人提到 SideloadFixerLol 和 SideloadKeychainFix。有人能解释一下它们的用途吗？比如，我是否需要将它们注入应用才能正常工作或绕过某些限制？ 此外，我注意到一些说明谈到了删除 mobileprovision。这是怎么回事？删除 mobileprovision 实际上有什么作用，所有侧载应用都需要删除吗？ 任何帮助都将不胜感激！    提交人    /u/No_Personality389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gatc1t/sideloading_apps_like_instagram_clarification_on/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:27:14 GMT</pubDate>
+    </item>
     <item>
       <title>免费通知 ESign</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gashln/free_notifications_esign/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我有几个应用程序想侧载，我想知道最安全的方法是什么。哪些方法安全，哪些方法不安全？    提交人    /u/Awayfrompeople   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gal01c/new_to_sideloading_apps_what_the_safest_way_to_do/</guid>
       <pubDate>Wed, 23 Oct 2024 20:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.1 beta 5 之后充电限制仍然存在</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gajdee/charge_limit_persisted_after_ios_181_beta_5/</link>
-      <description><![CDATA[因此，当我使用 iOS 18.1 beta 4 时，我使用 misakaX 在我的 14 Pro 上启用了充电限制功能。在更新到 18.1 beta 5 及更高版本后，该功能在设置中消失，但我的手机充电量不会超过 85%（之前设定的限制）。有人对如何让它恢复正常有什么建议吗？    提交人    /u/WealthCommercial5673   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gajdee/charge_limit_persisted_after_ios_181_beta_5/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>New Omega Repo（菲律宾开发）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gajajo/new_omega_repo_filipino_development/</link>
-      <description><![CDATA[一些 omega 员工创建了一个与 Spyke 无关的 discord 服务器。他们还创建了一个 repo 来替换 omega github (https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/applist.md)。如果您想要他们的 repo 的更新，您可以在这里加入：https://discord.gg/DmpSAQFTs7 他们目前除了维护 repo 之外没有做任何其他事情，希望它成为社区的主要内容。   由    /u/Smart-Ad-8635  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gajajo/new_omega_repo_filipino_development/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试羽化，但卡在开始处附近：</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gaf797/trying_to_feather_but_stuck_near_the_beginning/</link>
-      <description><![CDATA[长期粉丝，首次发帖： 因此，我尝试在 r/sideloaded 中关注一篇关于使用 feather 去除广告的帖子，但自动修改器在链接上发帖，所以这是我第二次尝试发布此帖子。 因此，我要让 feather 启动并运行（并最终屏蔽广告）。这是我的工作：  通过 sideloadly 安装 feather 1.0.5 通过 big deal 的链接免费获取 p12 和移动配置&lt; 下载（但未安装）防撤销 dns，因为像 outkast 的父母一样，我不知道该怎么做  接下来的两个步骤我遇到了困难： - 导入证书并使用不同的 bundle id 重新授予 feather - 删除旧的 feather 应用程序，以便所有应用程序都在同一个证书上  但是我遇到了困难。当我去安装新的 feather 时，我得到了 - 空白图标， - 云下载图标，和 - “无法安装 feather。无法安装此应用程序，因为无法验证其完整性。” 帮忙？ （标记 u/big-deal-5104。）我的谷歌功夫很弱。    由   提交  /u/dreadwesley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gaf797/trying_to_feather_but_stuck_near_the_beginning/</guid>
-      <pubDate>Wed, 23 Oct 2024 16:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国大地财产保险股份有限公司</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gadkru/china_continent_property_casualty_insurance/</link>
-      <description><![CDATA[请有人将此企业证书的链接发送给我，另外我想知道这是否算作 ipa/app 请求，如果算作，您能告诉我吗，谢谢    提交人    /u/mrpoopoothe2nd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gadkru/china_continent_property_casualty_insurance/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:38:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，你们能给我一个免费获得 Epic 游戏商店的网站吗（因为我想要 Fall Guys）？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gadao4/guys_can_u_give_me_a_website_to_get_the_epic/</link>
-      <description><![CDATA[兄弟，我在用 ipad，我试过的所有方法都说你需要 3 步验证    提交人    /u/ChairPsychological50   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gadao4/guys_can_u_give_me_a_website_to_get_the_epic/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTLitePlus 更换新的迷你播放器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gad8ap/ytliteplus_change_new_miniplayer/</link>
-      <description><![CDATA[嘿，我刚刚获得了 YouTube 正在慢慢推出的新迷你播放器。  你们有人知道是否可以将其恢复为旧版本吗？也许通过 A/B 测试设置？    提交人    /u/Great-TeacherOnizuka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gad8ap/ytliteplus_change_new_miniplayer/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:23:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
