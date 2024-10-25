@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 21:09:05 GMT</lastBuildDate>
+    <item>
+      <title>通过更改 bundle id 来删除应用程序的钥匙串持久性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc4si5/remove_keychain_persistence_for_app_by_changing/</link>
+      <description><![CDATA[我有一个应用程序，我不希望在卸载并重新安装该应用程序后保留其钥匙串数据。 如果我每次想要重新安装该应用程序时都使用 singulous 用唯一标识符（bundle Id）对该应用程序进行签名，这是否有助于我绕过或不访问该应用程序以前安装的钥匙串数据？ （我没有越狱，因为它是 iOS 17.7）    提交人    /u/realZeal-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc4si5/remove_keychain_persistence_for_app_by_changing/</guid>
+      <pubDate>Fri, 25 Oct 2024 21:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>新旅行计划应用的反馈和测试人员</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc4461/feedbacks_and_tester_for_a_new_travel_planning_app/</link>
+      <description><![CDATA[      大家好， 过去几年我去过不少地方，在网站上规划和导航一直很麻烦：花费太多时间，与旅行伙伴分享信息很复杂，不得不使用多个应用程序和服务，而且大多数情况下手动完成所有操作。 我决定开发一款新的旅行规划应用，每年收费不会达到 50 美元。 这款应用名为 TapTrip。 主要功能包括（并将包括）：  一切尽在离线 搜索 1 亿个兴趣点 每天规划您的行程 与同行人员分享您的行程 存储文档并将其与位置关联，以便轻松跟踪 离线翻译 （即将推出）离线 AI 助手（用于搜索要做的事情、询问有关行程的问题、在行程中移动物品等...） （即将推出）货币转换器 （即将推出）费用管理器 （即将推出）闪回 （即将推出）导航（汽车、自行车、步行） (很快) 装箱单  这是应用程序的第一张屏幕截图。它已发送给 Apple 进行审核和发布。我稍后会尝试将其发布到其他商店 我希望得到一些反馈 :) PS：我需要一些 Android 上的 beta 测试人员，请发表评论或通过 DM 联系以添加 ;) 抱歉发了这么长的帖子，谢谢！    提交人    /u/cataklix   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc4461/feedbacks_and_tester_for_a_new_travel_planning_app/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[救命!!!] 我在哪里可以找到监狱生活角色扮演游戏 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc3vwf/help_where_can_i_find_the_prison_life_rpg_ipa/</link>
+      <description><![CDATA[  由    /u/DrTron1c  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc3vwf/help_where_can_i_find_the_prison_life_rpg_ipa/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 esign 安装.deb 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc3eix/how_to_install_a_deb_file_using_esign/</link>
+      <description><![CDATA[我有一个 .deb 文件，但我不知道如何使用 esign 安装它，我导入了它但仍然不起作用    由   提交  /u/Adikesh_techie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc3eix/how_to_install_a_deb_file_using_esign/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc35ks/youtube/</link>
+      <description><![CDATA[有任何可用的 YouTube Premium ipa 吗？    由    /u/Adikesh_techie 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc35ks/youtube/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果 ID</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc2hd5/apple_id/</link>
+      <description><![CDATA[谁愿意在土耳其以外为我创建一个苹果 ID？我正在尝试安装 roblox 和 discord。非常感谢。    提交人    /u/Not-Moha456   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc2hd5/apple_id/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 Game Center 识别问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gc1ft9/fixes_for_game_center_recognition/</link>
+      <description><![CDATA[嗨，在什么情况下可以从游戏中心识别游戏？我听说 appdb 是因为他们使用开发者帐户，但这似乎不起作用。它只是显示随机的 Bundle Id。    提交人    /u/Outrageous_Garden301   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gc1ft9/fixes_for_game_center_recognition/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:40:33 GMT</pubDate>
+    </item>
     <item>
       <title>无法登录 TikTok</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gc0sjb/cant_sign_into_tiktok/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我最近开始使用侧载。并安装了 Scarlet。但是当我尝试添加 IPA 文件时，弹出一条消息，提示“无法侧载”和“正在搜索 Wi-Fi 设备”。我该如何修复此问题？    提交人    /u/Fuzzy-Turn7037   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gbx3xg/how_to_fix/</guid>
       <pubDate>Fri, 25 Oct 2024 15:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 hdflix???</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbwlvz/what_is_hdflix/</link>
-      <description><![CDATA[      有人告诉我它类似于 stremio，但我看到的是这样的？我需要为 stremio 安装像 torrentio 这样的插件吗？或者有没有 stremio 的 ipa 替代品？    提交人    /u/Vektor801   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbwlvz/what_is_hdflix/</guid>
-      <pubDate>Fri, 25 Oct 2024 15:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有更多选择</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbwgcy/any_more_options/</link>
-      <description><![CDATA[我对侧载还不太熟悉，我真的不知道自己在做什么。我之前使用的是 scarlet，但已被撤销。Esign 一直在撤销我的权限，现在我认为我被列入了黑名单。还有其他选项可供我使用吗？    提交人    /u/Porkenmorgan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbwgcy/any_more_options/</guid>
-      <pubDate>Fri, 25 Oct 2024 15:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>签名</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbupws/esign/</link>
-      <description><![CDATA[有人知道我可以用 esign 下载一些有趣的应用程序或游戏吗？    提交人    /u/00jessai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbupws/esign/</guid>
-      <pubDate>Fri, 25 Oct 2024 13:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载应用中的链接</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbuiyi/links_in_sideloaded_app/</link>
-      <description><![CDATA[我有许多经过修改的应用程序，例如 ytenhanced、Bhinsta 等，我该怎么做才能在打开链接时打开应用程序而不是浏览器？    提交人    /u/Revolvenge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbuiyi/links_in_sideloaded_app/</guid>
-      <pubDate>Fri, 25 Oct 2024 13:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免街机崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbui51/how_can_i_bypass_arcade_crashes/</link>
-      <description><![CDATA[我了解 Apple Arcade 游戏在启动时会崩溃。我该如何避免这种情况？听说有一种方法可以欺骗它    提交人    /u/DrTron1c   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbui51/how_can_i_bypass_arcade_crashes/</guid>
-      <pubDate>Fri, 25 Oct 2024 13:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>传说之下 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbu4a4/undertale_ipa/</link>
-      <description><![CDATA[有人有 Undertale IPA 文件吗？我似乎找不到任何支持较新 IOS 版本的文件。（我很后悔更新了）    提交人    /u/Deep_Adeptness_3055   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbu4a4/undertale_ipa/</guid>
-      <pubDate>Fri, 25 Oct 2024 13:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>带扩展程序的浏览器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gbsij3/browser_with_extensions/</link>
-      <description><![CDATA[有没有可以下载的带有扩展功能的浏览器？（Chromium 扩展）    提交者    /u/ChocolateMedium4353   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gbsij3/browser_with_extensions/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:59:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
