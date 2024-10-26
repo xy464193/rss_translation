@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 26 Oct 2024 06:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 09:09:46 GMT</lastBuildDate>
+    <item>
+      <title>侧载能否帮助我从欧盟应用商店下载应用程序，而无需将我的 Apple 帐户更改为欧盟帐户？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gcg5pt/will_side_loading_help_me_download_app_from_the/</link>
+      <description><![CDATA[侧载是否能帮助我从欧盟应用商店下载应用程序，而无需将我的 Apple 帐户更改为欧盟，或者是否有其他方法可以访问来自不同地区的应用程序？    提交人    /u/gr4v1ty69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gcg5pt/will_side_loading_help_me_download_app_from_the/</guid>
+      <pubDate>Sat, 26 Oct 2024 08:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>绕过 3 个应用程序限制</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gccvm8/bypass_3_app_limit/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>游戏中心无法识别我在侧载游戏上的进度？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gc6sk6/game_center_not_recognizing_my_progress_on/</link>
-      <description><![CDATA[大家好， 我通过 esign 侧载了一款游戏，虽然它连接到 Game Center，但它一开始就像我是个新玩家一样。我的进度和成就都不见了。有人知道怎么解决这个问题吗？ 谢谢！    提交人    /u/No_Personality389   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我通过 esign 侧载了一款游戏，虽然它连接到 Game Center，但它一开始就像我是一名新玩家一样。我的进度和成就都不见了。有人知道怎么解决这个问题吗？ 谢谢！    提交人    /u/No_Personality389   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gc6sk6/game_center_not_recognizing_my_progress_on/</guid>
       <pubDate>Fri, 25 Oct 2024 22:40:17 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>哪里可以找到针对应用程序调整过的 ipas</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gc5dpt/where_can_i_find_tweaked_ipas_for_apps/</link>
-      <description><![CDATA[由于 appdb 现在有点糟糕，而且 github 上的 trollstore repo 也消失了，我发现很难为 instagram、tiktok 或 youtube 等内容获取经过调整的 IPA，所以哪里是我可以获得这些类型的 ipas 的最佳地方，而不用每次都到处去谷歌搜索    提交人    /u/Biinosaur   [link] [评论]]]></description>
+      <description><![CDATA[由于 appdb 现在有点糟糕，而且 github 上的 trollstore repo 也消失了，我发现很难获得针对 instagram、tiktok 或 youtube 等内容的经过调整的 IPA，所以哪里是我可以获得这些类型的 ipas 的最佳地点，而不用每次都到处去谷歌搜索    提交人    /u/Biinosaur   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gc5dpt/where_can_i_find_tweaked_ipas_for_apps/</guid>
       <pubDate>Fri, 25 Oct 2024 21:34:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/DrTron1c  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gc3vwf/help_where_can_i_find_the_prison_life_rpg_ipa/</guid>
       <pubDate>Fri, 25 Oct 2024 20:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 esign 安装.deb 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gc3eix/how_to_install_a_deb_file_using_esign/</link>
-      <description><![CDATA[我有一个 .deb 文件，但我不知道如何使用 esign 安装它，我导入了它但仍然不起作用    由   提交  /u/Adikesh_techie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gc3eix/how_to_install_a_deb_file_using_esign/</guid>
-      <pubDate>Fri, 25 Oct 2024 20:05:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
