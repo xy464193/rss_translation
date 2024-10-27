@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 27 Oct 2024 00:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 03:20:07 GMT</lastBuildDate>
+    <item>
+      <title>复制 ig</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gd0m2z/duplicating_ig/</link>
+      <description><![CDATA[我使用的是 iPhone X 版本 16.7.8，palera1n 无根 问题 - 我正在使用 Filza 安装 IPA 文件并收到消息：无法验证 /var/installid/library/caches/com.apple.mobile.installid.staging/temp.TG9mFa/extracted/Payload/instagram.app 的代码签名：0xe8008001（发生未知错误） 有什么建议吗？    提交人    /u/Medical_Astronomer99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gd0m2z/duplicating_ig/</guid>
+      <pubDate>Sun, 27 Oct 2024 02:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果运动 IPA？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gczxla/apple_sports_ipa/</link>
+      <description><![CDATA[有人知道我在哪里可以找到这个应用程序吗？虽然它有欧洲联赛和球队，但在我所在的国家/地区不可用。 提前致谢    提交人    /u/Pixelhouse18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gczxla/apple_sports_ipa/</guid>
+      <pubDate>Sun, 27 Oct 2024 01:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序安装不正确？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gczucb/side_loaded_app_not_installing_properly/</link>
+      <description><![CDATA[      因此，我尝试使用 E-sign 应用程序在 iPad 上侧载 Streamer。但是，每次尝试时，都会发生这种情况（见附图）。问题是，我认为我做对了所有事情。 E-sign 已正确安装，我使用的证书标记为“良好”，因此显然没有被撤销或其他问题。我可能做错了什么导致这种情况？    提交人    /u/Pineapple_Forward   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gczucb/side_loaded_app_not_installing_properly/</guid>
+      <pubDate>Sun, 27 Oct 2024 01:14:51 GMT</pubDate>
+    </item>
     <item>
       <title>已安装应用程序的 Bundle ID</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gcyd0w/bundle_id_of_installed_app/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[更新至 iOS 18.1 会破坏我的侧载应用吗？    提交人    /u/Jacket124   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gcoz2j/will_updating_break_esign/</guid>
       <pubDate>Sat, 26 Oct 2024 16:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被列入黑名单了</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gcogc2/i_got_blacklisted/</link>
-      <description><![CDATA[我该怎么办他们说我需要将手机恢复出厂设置但我想保留我的数据并保留我当前的 iOS 版本 17.4.1     提交人    /u/Adilix_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gcogc2/i_got_blacklisted/</guid>
-      <pubDate>Sat, 26 Oct 2024 16:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.2 beta 破坏了 Esigner</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gcmucp/ios_182_beta_broke_esigner/</link>
-      <description><![CDATA[iOS 18.2 beta 破坏了我的 Esign。现在我使用 Esign 安装的所有应用程序都显示应用程序不再可用。此外，Esign 应用程序在我的设备上不再可用。现在如何在没有 PC 和撤销的情况下直接在 iPhone 上侧载 IPA？ 提前致谢。    提交人    /u/Legitimate_Alarm_218   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gcmucp/ios_182_beta_broke_esigner/</guid>
-      <pubDate>Sat, 26 Oct 2024 14:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>流媒体应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gck56o/streaming_app/</link>
-      <description><![CDATA[请向我推荐一款流媒体应用，例如 HDflix 或 streamer。我试用了两个应用的几个版本，但都包含广告。     提交人    /u/tanzim31   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gck56o/streaming_app/</guid>
-      <pubDate>Sat, 26 Oct 2024 12:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
