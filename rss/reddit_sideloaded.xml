@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 30 Oct 2024 06:33:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 09:10:59 GMT</lastBuildDate>
+    <item>
+      <title>E 签名侧面加载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfhrq1/esigin_sideloading/</link>
+      <description><![CDATA[为什么我不能直接从 ESign 安装应用程序，而必须使用网络链接进行安装？ 现在我无法获得带有 pip 的 YouTube，就像它是猩红色的一样!!!    由   提交  /u/TheDealer__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfhrq1/esigin_sideloading/</guid>
+      <pubDate>Wed, 30 Oct 2024 08:31:14 GMT</pubDate>
+    </item>
     <item>
       <title>我可以使用 VPN 吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gffgld/can_i_use_a_vpn/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好。每当我尝试刷新 SideStore 时，系统都会提示我似乎未连接到 wifi 或 vpn。但是，我在尝试刷新应用程序时会确保已连接。有什么想法吗？谢谢。    提交人    /u/Jbklan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gf0e8a/sidestore_vpn_not_working/</guid>
       <pubDate>Tue, 29 Oct 2024 17:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 使用起来安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gezroq/dns_safe_to_use/</link>
-      <description><![CDATA[嗨！我对这类东西还不太熟悉，我想确定 khoindvn dns 是否真的可以安全使用？我按照指南使用 esign，但对使用 dns 产生了疑虑。     提交人    /u/Scryx07   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gezroq/dns_safe_to_use/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:08:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
