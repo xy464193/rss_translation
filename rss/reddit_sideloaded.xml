@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 30 Oct 2024 09:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 12:18:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么好用的流媒体应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfl126/there_is_a_good_streaming_app/</link>
+      <description><![CDATA[我正在寻找带有字幕选项的电影和连续剧应用程序……你们有什么可以推荐的吗？    提交人    /u/almog6500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfl126/there_is_a_good_streaming_app/</guid>
+      <pubDate>Wed, 30 Oct 2024 12:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>watusi ipa 是否安全 (ios18)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfknya/is_watusi_ipa_is_safe_ios18/</link>
+      <description><![CDATA[我想侧载 Watusi，但想知道它是否安全？    提交人    /u/0adxil8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfknya/is_watusi_ipa_is_safe_ios18/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>降级和UDID</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfk0vs/downgrade_udid/</link>
+      <description><![CDATA[当我的 UDID 在第三方证书卖家处注册时，降级是否安全？我需要重新购买吗？    提交人    /u/kayna76666   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfk0vs/downgrade_udid/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果应用程序更新，我们应该重新安装吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfjuy8/should_we_reinstall_if_app_updates/</link>
+      <description><![CDATA[如果应用程序更新，我认为 ipa 不会更新。那么每次更新时我们是否都应该重新安装新版本的 ipa ？    提交人    /u/hina_chan_jp   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfjuy8/should_we_reinstall_if_app_updates/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用开发证书进行电子签名的问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfjm1f/esign_with_dev_cert_question/</link>
+      <description><![CDATA[到目前为止，我只使用过 Signulous，对 Apple 开发证书这件事还很陌生。我已经设置了 Feather 并成功侧载了我的主要应用程序，但我尝试过的一些使用 Feather 的应用程序没有工作，我看到评论基本上说要尝试使用 eSign。 我已经安装了 eSign (v5.0.0) 并试图弄清楚。我已将 p12 和 mobileprovision 导入文件列表，但尚未点击它们进行完全导入。首先要检查 - mobileprovision 是否与我使用 Feather 的相同？)，其次在设置中我是否需要“获取 UDID”？我很谨慎，因为我知道共享 UDID 有点冒险，而且鉴于 eSign 本身似乎有点不稳定，我只是还没有让自己信任该配置文件并允许它。在应用程序的底部，它已经显示了我的名字和分发许可证。     由    /u/Tranquillian 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfjm1f/esign_with_dev_cert_question/</guid>
+      <pubDate>Wed, 30 Oct 2024 10:47:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要修改一个应用程序以供个人使用，但希望得到建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfj3j5/want_to_modify_an_app_for_personal_use_but_will/</link>
+      <description><![CDATA[大家好，我想自己修改 IPA，但不想有指导。多亏我找到的一个工具，我有办法从应用商店下载 IPA 应用程序。我打算使用 LiveContainer 注入一个调整，但是……我需要先对应用程序做些什么吗？我无法访问任何越狱设备，而且我的所有设备都太新了，无法做到这一点。有什么建议吗？    提交人    /u/runella-caralyn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfj3j5/want_to_modify_an_app_for_personal_use_but_will/</guid>
+      <pubDate>Wed, 30 Oct 2024 10:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁需要便宜的 da v4.5 文件和序列号</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gfiw0w/who_need_da_v45_file_and_serial_keys_for_cheap/</link>
+      <description><![CDATA[嗯    由   提交  /u/Key-Mission3131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gfiw0w/who_need_da_v45_file_and_serial_keys_for_cheap/</guid>
+      <pubDate>Wed, 30 Oct 2024 09:58:24 GMT</pubDate>
+    </item>
     <item>
       <title>E 签名侧面加载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gfhrq1/esigin_sideloading/</link>
@@ -41,13 +90,6 @@
       <pubDate>Wed, 30 Oct 2024 01:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>有人成功侧载 Simply Piano 应用程序吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf9dxz/has_anyone_successfully_sideloaded_the_simply/</link>
-      <description><![CDATA[有人成功侧载 Simply Piano 应用程序吗？我以前就这么做过，大约 2 年后我再次尝试。 安装后，我在应用程序中收到此消息，因为它尝试检查我是否是订阅者： &quot;产品不可用 - 无法从 App Store 检索产品详细信息。请确保您已连接到互联网，然后重试。如果此问题仍然存在，请联系 Simply？&quot;  你是怎么解决这个问题的？    提交人    /u/brucematthew92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf9dxz/has_anyone_successfully_sideloaded_the_simply/</guid>
-      <pubDate>Tue, 29 Oct 2024 23:59:51 GMT</pubDate>
-    </item>
-    <item>
       <title>AppDB - 付费开发者账户，使用辅助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gf8sy1/appdb_paid_for_developer_account_using_secondary/</link>
       <description><![CDATA[嗨。 我刚刚购买并获得了 Apple 开发者计划的批准，但是我是用我的常规 Apple ID 购买的，我不想用它登录 AppDB（原因很明显），所以我在我的帐户下创建了第二个具有完全管理员权限的用户。但是当我在 AppDB 上登录时，它显示“错误（此 Apple 帐户不是开发者。” 有人知道这是否可能吗？    提交人    /u/rabbidragon   [链接] [评论]]]></description>
@@ -67,48 +109,6 @@
       <description><![CDATA[最近又开始使用侧载，正在寻找比付费/官方版本更好的应用程序 现在我有 youtube，我喜欢集成的赞助商区块，我可以删除短裤 和 spotify，它可以将日语/韩语歌词翻译成罗马字（但不幸的是没有非常高质量的音频） 还有其他应用程序有类似的漂亮调整吗？    提交人    /u/Tenkinn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gf75kl/what_apps_are_worth_sideloading/</guid>
       <pubDate>Tue, 29 Oct 2024 22:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修复无法安装 Scarlet 错误？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf6bcq/how_to_fix_unable_to_install_scarlet_error/</link>
-      <description><![CDATA[这是我找到的有关修复安装 scarlet 时出现的错误的有用视频： https://www.youtube.com/watch?v=ccJo45gmjFw    提交人    /u/GotchYaBitchhhh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf6bcq/how_to_fix_unable_to_install_scarlet_error/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:40:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yam Display 破解IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf5rs7/yam_display_crack_ipa/</link>
-      <description><![CDATA[这里有人可以给我 yam display 付费版本 ipa 吗，我在互联网上搜索过但仍然没有结果，所以如果这里有 yam display 请提供 ipa 我真的需要它。    提交人    /u/Healthy-Bird-1619   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf5rs7/yam_display_crack_ipa/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我还能回到 ios 18.0.1 吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf5djo/can_i_still_go_back_to_ios_1801/</link>
-      <description><![CDATA[我可以回去吗？     提交人    /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf5djo/can_i_still_go_back_to_ios_1801/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore 是否已取消免费？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf3fay/is_sidestore_revoked_free/</link>
-      <description><![CDATA[当我使用 SideStore 或 AltStore 时，我的帐户会被撤销吗？    提交人    /u/Jacket124   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf3fay/is_sidestore_revoked_free/</guid>
-      <pubDate>Tue, 29 Oct 2024 19:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 对于 iOS 18.1 无效？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf0sv7/esign_dead_for_ios_181/</link>
-      <description><![CDATA[如果我    由   提交  /u/Prestigious-Guide-61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf0sv7/esign_dead_for_ios_181/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore vpn 不工作？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gf0e8a/sidestore_vpn_not_working/</link>
-      <description><![CDATA[您好。每当我尝试刷新 SideStore 时，系统都会提示我似乎未连接到 wifi 或 vpn。但是，我在尝试刷新应用程序时会确保已连接。有什么想法吗？谢谢。    提交人    /u/Jbklan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gf0e8a/sidestore_vpn_not_working/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
