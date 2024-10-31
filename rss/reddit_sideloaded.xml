@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 15:10:36 GMT</lastBuildDate>
+    <item>
+      <title>如何绕过 iPad 上的 VPN 限制</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gggm93/how_can_i_bypass_vpn_restriction_on_ipad/</link>
+      <description><![CDATA[我有自己的 iPad，用于学校。我上面有一个 MDM 配置文件，不允许创建 VPN 配置文件。 有什么方法可以绕过此限制或类似的东西吗？ 我有：iPad8 Wifi iPadOS 18.0.1  MDM：Jampf School MDM 配置文件    提交人    /u/Silver-Spot1183   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gggm93/how_can_i_bypass_vpn_restriction_on_ipad/</guid>
+      <pubDate>Thu, 31 Oct 2024 15:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序在启动时崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gggky4/apps_crashing_on_boot/</link>
+      <description><![CDATA[刚刚在我的 iPhone 11 上更新到 17.6，并尝试让 ESign 工作。应用程序确实安装并运行……但是，一旦我重新启动手机，每个使用 ESign 安装的应用程序（包括 ESign 本身）都会在我尝试打开时崩溃。 有没有办法阻止这种情况发生？我正在使用阻止撤销的 DNS。    提交人    /u/batouttahell24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gggky4/apps_crashing_on_boot/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我无法刷新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gggdyh/why_am_i_not_able_to_refresh/</link>
+      <description><![CDATA[      它显示“没有 WiFi 或 vpn”，即使这两项都已打开 :(    提交人    /u/Slow_Display9784   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gggdyh/why_am_i_not_able_to_refresh/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:51:19 GMT</pubDate>
+    </item>
     <item>
       <title>Omni Development 合并</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ggckvz/omni_development_merger/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      https://preview.redd.it/gdvkyf0ukzxd1.png?width=1288&amp;format=png&amp;auto=webp&amp;s=4ca3016ce93e653beb2e765a59bf978cf099d213 https://ipax.pw/#!/faq/ 第一张图片的来源   由    /u/No-Car-3073  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gg1vyw/fleckst0re_is_a_scam/</guid>
       <pubDate>Thu, 31 Oct 2024 00:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>重大转变</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gg1qas/a_big_switch/</link>
-      <description><![CDATA[我正在将我的 GitHub 个人资料更改为 Mrsheep561，因此如果您使用我的 repo 或类似的东西（不是 DNS），它将出现错误。项目在这里：https://github.com/usearcticsigner    提交人    /u/Frosty-Handle-6454   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gg1qas/a_big_switch/</guid>
-      <pubDate>Thu, 31 Oct 2024 00:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ios 17.7 (iPhone 13) 上有 Trollstore 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gg11n8/trollstore_on_ios_177_iphone_13/</link>
-      <description><![CDATA[      你好， 我有一部 iPhone 13，我可以使用 MisakaX 在 iOS 17.7 上安装 trollstore 吗？ 我问这个问题是因为我看到 iOS 17.7 今天总是有签名！ https://preview.redd.it/oqdglhmlezxd1.jpg?width=2364&amp;format=pjpg&amp;auto=webp&amp;s=1f061924bb82bb8f1bcd3ead4393d59883f4db9d    提交人    /u/okdac   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gg11n8/trollstore_on_ios_177_iphone_13/</guid>
-      <pubDate>Wed, 30 Oct 2024 23:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Sparebox 的 Sidestore</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gfz6yb/sidestore_with_sparebox/</link>
-      <description><![CDATA[它可以在 ios 18.0.1 上运行吗？     由    /u/NoozPrime  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gfz6yb/sidestore_with_sparebox/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:27:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
