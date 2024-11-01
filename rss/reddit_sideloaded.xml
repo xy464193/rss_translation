@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 01 Nov 2024 09:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 12:18:33 GMT</lastBuildDate>
+    <item>
+      <title>有人知道如何在新版 YouTube 上恢复旧版画中画功能吗？截图见评论</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gh3cp3/anyone_know_how_to_get_the_old_pip_back_on_the/</link>
+      <description><![CDATA[Al    由    /u/sardoa11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gh3cp3/anyone_know_how_to_get_the_old_pip_back_on_the/</guid>
+      <pubDate>Fri, 01 Nov 2024 11:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 DNS 刷新 SideStore</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gh2bvo/refresh_sidestore_with_a_dns/</link>
+      <description><![CDATA[你好！当我为电子签名启用 DNS 时，有一种方法可以刷新 Sidestore 吗？因为我必须激活 VPN 才能刷新 Sidestore，所以我不想被列入黑名单    提交人    /u/SeaInstruction872   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gh2bvo/refresh_sidestore_with_a_dns/</guid>
+      <pubDate>Fri, 01 Nov 2024 10:35:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>羽毛还是 Esign？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gh29xe/feather_or_esign/</link>
+      <description><![CDATA[伙计们，Feather 和 Esign 哪个更好？    提交人    /u/SeaInstruction872   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gh29xe/feather_or_esign/</guid>
+      <pubDate>Fri, 01 Nov 2024 10:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用我的开发证书侧载到朋友的设备？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gh1k7s/how_to_sideload_to_a_friends_device_with_my_dev/</link>
+      <description><![CDATA[我对使用 p12 和 mobileprovision 的过程还很陌生，很难理解，因此如果能得到一些指导就太好了。我购买了苹果开发证书，并成功设置了我的 iPhone 侧载，如下所示。 1) 在苹果开发网站上，将我的设备 UDID 添加到设备。2) 在 Mac 上，在钥匙串访问中创建分发证书，并保存到桌面。3) 在苹果开发网站上，我使用保存的证书创建了苹果分发证书，下载了它，将其导入钥匙串，然后导出为 p12。4) 在苹果开发网站上，我创建了一个新的标识符/应用程序 id，启用了推送通知，然后保存。 5) 在 apple dev 网站上，在 adhoc 分发下创建了新的配置文件，选择了应用程序 ID，并选择了我的设备以获取 mobileprovision。 现在，我找不到简单的答案（我无意出售证书，只是希望一些朋友和家人能够侧载），需要多少上述过程才能获取必要的文件以在别人的设备上启用侧载。除了显然最初将他们的设备 UDID 添加到我的设备列表中之外。 我可以使用我现有的 p12 文件吗？还是每次都需要为每个设备/用户生成一个唯一的文件？我尝试使用朋友的姓名和电子邮件创建一个（请求证书），并以我的电子邮件作为 CA，但在 apple dev 门户上，这个新证书上只有我的名字，无论如何都和我的一模一样。 关于 mobileprovision，这自然包含 UDID 信息，所以我很确定我会生成一个新的。但是，当它们似乎不需要与特定应用程序关联时，我必须指定“应用程序 ID”，这让我很困惑。 非常感谢任何帮助，感觉自己像个新手，只是无法在网上找到任何答案。    提交人    /u/Tranquillian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gh1k7s/how_to_sideload_to_a_friends_device_with_my_dev/</guid>
+      <pubDate>Fri, 01 Nov 2024 09:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>让我们结束 EsignNoLogs 与 Feather 的争论</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gh13m8/lets_end_esignnologs_vs_feather_debate/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>剩余 1 Ipa (侧载) 我应该侧载什么 :D</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gh0aef/1_ipa_remaining_sideloadly_what_schould_i/</link>
-      <description><![CDATA[Sideloadly 只剩下一个应用程序插槽，但我希望能够侧载更多应用程序。我知道有 AltStore 等替代方案，但它们的安装似乎有点复杂，即使我有一台可用的计算机。 有没有一种简单的方法可以安装 IPA（使用 Sideloadly）以便让我侧载其他应用程序？您会推荐什么方法或工具？    提交人    /u/South_Airline_2001   [链接] [评论]]]></description>
+      <description><![CDATA[Sideloadly 只剩下一个应用程序插槽，但我希望能够侧载更多应用程序。我知道有 AltStore 等替代方案，但它们的安装似乎有点复杂，即使我有一台可用的计算机。 有没有一种简单的方法可以安装 IPA（使用 Sideloadly）让我可以侧载其他应用程序？你会推荐什么方法或工具？   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gh0aef/1_ipa_remaining_sideloadly_what_schould_i/</guid>
       <pubDate>Fri, 01 Nov 2024 07:56:38 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>网站</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ggrsnm/websites/</link>
-      <description><![CDATA[有哪些可以安全地从 iOS 侧载应用程序的网站？    提交人    /u/Sufficient_Savings72   [链接] [评论]]]></description>
+      <description><![CDATA[有哪些可以安全从 iOS 侧载应用程序的网站？    提交人    /u/Sufficient_Savings72   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ggrsnm/websites/</guid>
       <pubDate>Thu, 31 Oct 2024 23:14:30 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[有哪些有用的应用程序可以侧载？     提交人    /u/Sufficient_Savings72   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ggoxrq/apps/</guid>
       <pubDate>Thu, 31 Oct 2024 20:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok IPA 可以在印度使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gglh9i/tiktok_ipa_that_works_in_india/</link>
-      <description><![CDATA[我为 TikTok 尝试了无数的 IPA。有些根本不起作用。有些工作了几分钟，然后停止工作并显示网络错误。具有更改国家/地区选项的 IPA 似乎也不起作用，即使在更改国家/地区后也是如此。有没有人有任何可用的 IPA 可以帮我解决这个问题，因为 TikTok 在印度被禁了。谢谢     提交人    /u/MAVERIK___   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gglh9i/tiktok_ipa_that_works_in_india/</guid>
-      <pubDate>Thu, 31 Oct 2024 18:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 诸神选择破解版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggke07/ios_gods_choices_hack/</link>
-      <description><![CDATA[嗨，我不知道这是否是合适的群组，但有人有 iOS Gods 版的选择吗？我现在甚至无法打开应用程序，它只是一直崩溃，有人知道如果我重新安装了它但没有用，该如何修复🙏    提交人    /u/Aggressive_Cod_4940   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggke07/ios_gods_choices_hack/</guid>
-      <pubDate>Thu, 31 Oct 2024 17:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪泽 (IPA)</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggiw5w/deezer_ipa/</link>
-      <description><![CDATA[您好，有人有可以使用的 Deezer IPA 链接吗？    提交人    /u/ReplacementJolly7939   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggiw5w/deezer_ipa/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有谁觉得最近缺少发布吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggigwa/anyone_else_feel_there_has_been_a_lack_of/</link>
-      <description><![CDATA[我以为我有一个非常广泛的来源列表，但显然不是。除非它们来自 Nabzclan（我拒绝使用），否则现在似乎没有网站有很多更新。 或者，我疯了，只是错过了好的来源？    由   提交  /u/captn1776   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggigwa/anyone_else_feel_there_has_been_a_lack_of/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:20:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
