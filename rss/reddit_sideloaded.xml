@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 01 Nov 2024 18:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 21:09:26 GMT</lastBuildDate>
+    <item>
+      <title>使用自动刷新快捷方式时，我收到 sidestore 的此错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ghdyq5/when_using_the_auto_refresh_shortcut_i_get_this/</link>
+      <description><![CDATA[无法运行“刷新所有应用” 发生未知错误。如何解决？    提交人    /u/NoozPrime   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ghdyq5/when_using_the_auto_refresh_shortcut_i_get_this/</guid>
+      <pubDate>Fri, 01 Nov 2024 19:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法在 esign 上验证完整性？发送帮助 💜</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ghdmzf/integrity_could_not_be_verified_on_esign_send_help/</link>
+      <description><![CDATA[我要调整 💜 我的电子签名显示“无法验证完整性” 我该怎么做 💜 我试图重新下载它，但显然我不能，因为我用来下载它的网站（https://beacons.ai/vietnamesericelord/home）不让我下载 💜 我也有 DNS 💜  我需要帮助 💜 我是新手 💜 我只想要苹果软件 😣 而且我在用紫心勋章开玩笑     提交人    /u/space-katz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ghdmzf/integrity_could_not_be_verified_on_esign_send_help/</guid>
+      <pubDate>Fri, 01 Nov 2024 19:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道是否有用于 sidestore 的 adguard dns</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ghcb0u/does_anyone_know_if_theres_a_adguard_dns_for/</link>
+      <description><![CDATA[因此，我想将我的 adguard 应用程序与自定义 dns 一起使用，以便能够进行侧载，而无需每次都切换到 wireguard，有没有办法将 sidestore 配置中的 dns 添加到我的 adguard 应用程序？    提交人    /u/NoozPrime   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ghcb0u/does_anyone_know_if_theres_a_adguard_dns_for/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮帮我</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ghbzbn/help_me_out_please/</link>
+      <description><![CDATA[想要为我女儿设置她的 iPhone，这是一份礼物。我只熟悉 Android 生态系统。我知道我需要侧载应用程序。她不需要太多。各种儿童游戏（最好是免费的）、修改过的 YouTube、修改过的 Spotify、修改过的 Instagram、TikTok。 我已经阅读了一整天，但我迷路了。我已在 flekstore 上安顿下来，但阅读了一些关于它是一个骗局的投诉。你们能帮助我吗。我的要求是：  没有技术麻烦。与 PC 等的交互很少。我不懂技术。 没有撤销的风险，也不需要手动刷新侧载应用程序。 没有设备被 Apple 列入黑名单的风险。 广泛且最新的存储库。   我不介意为上述内容付费。您建议我购买或使用什么？如果我购买 99 欧元的 Apple 证书，对我有什么好处？     提交人    /u/fms2754   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ghbzbn/help_me_out_please/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:13:55 GMT</pubDate>
+    </item>
     <item>
       <title>有人有适用于 wps office premium 的 ipa 吗？非常感谢</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ghbi2a/anyone_with_the_ipa_for_wps_office_premium_shall/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Sideloadly 只剩下一个应用程序插槽，但我希望能够侧载更多应用程序。我知道有 AltStore 等替代方案，但它们的安装似乎有点复杂，即使我有一台可用的计算机。 有没有一种简单的方法可以安装 IPA（使用 Sideloadly）让我可以侧载其他应用程序？你会推荐什么方法或工具？   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gh0aef/1_ipa_remaining_sideloadly_what_schould_i/</guid>
       <pubDate>Fri, 01 Nov 2024 07:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新：Feather v1.1.0 已经发布！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggyc3u/update_feather_v110_is_out/</link>
-      <description><![CDATA[我收到了很多反馈并实现了许多所要求的功能，例如默认签名选项、所有应用程序部分等等！还修复了许多与 reddit 等应用程序崩溃相关的问题。 感谢大家的支持！ 改变了什么  将赞助商添加到积分中，并感谢所有捐赠的人:) 添加 iOS 18 暗模式图标 为所有源应用程序添加部分（来自 Esign 的 App Store） 为证书、应用程序等添加重置选项。 改进的排序选项，现在包括升序和降序 在签名选项中自动替换捆绑包 ID 改进签名选项，可配置默认选项 重新组织设置 语言转换器 修复设计不一致、签名按钮可变模糊的问题 修复 iPad 上一些不正确的显示表格 修复了一些有关应用程序崩溃的问题，除非被告知，否则不会修改 `Info.plist` 改进日志记录 改进了服务器的一些代码  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggyc3u/update_feather_v110_is_out/</guid>
-      <pubDate>Fri, 01 Nov 2024 05:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>广告拦截器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggwucg/ad_blocker/</link>
-      <description><![CDATA[我已经安装了 ESign，它说你不能使用 VPN 和广告拦截器 DNS，它会撤销你的证书，有什么办法可以屏蔽手机上的广告吗？或者有什么变通方法让我可以使用 adguard DNS？    提交人    /u/Parang_2110   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggwucg/ad_blocker/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify Eq 不再工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggwu48/spotify_eq_not_working_anymore/</link>
-      <description><![CDATA[我不知道这是否是发布此内容的正确子版块，但我注意到在使用 sideloady 侧载 spotify 后，我的均衡器几乎不工作/不工作，我起初以为是均衡器设置问题，所以我检查了我的另一部手机，我在该手机上侧载了 trollstore spotify，我发现它在那里工作，设置完全相同，在我使用我姐姐的手机后，但从 appstore 安装了 spotify，使用完全相同的均衡器，它工作正常。我不知道我是否需要重置我的手机（我不想重置，因为我有重要的东西），另外要说的是，这也影响了 appstore 中的 spotify，所以我猜发生了什么事情。任何建议都谢谢，我现在需要帮助    提交人    /u/Josh_thefoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggwu48/spotify_eq_not_working_anymore/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guru Meditation f3d6c0@7:ad7080 导入 _ctypes 时 DLL 加载失败：%1 不是有效的 Win32 应用程序。Guru Meditation 问题。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggwdgf/guru_meditation_f3d6c07ad7080_dll_load_failed/</link>
-      <description><![CDATA[输入密码后，系统显示以下消息：Guru Meditation f3d6c0@7:ad7080 导入 _ctypes 时 DLL 加载失败：%1 不是有效的 Win32 应用程序。    提交人    /u/RemoveExtra2663   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggwdgf/guru_meditation_f3d6c07ad7080_dll_load_failed/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:18:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
