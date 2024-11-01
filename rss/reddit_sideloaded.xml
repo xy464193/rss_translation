@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 01 Nov 2024 03:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 06:15:07 GMT</lastBuildDate>
+    <item>
+      <title>更新：Feather v1.1.0 已经发布！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ggyc3u/update_feather_v110_is_out/</link>
+      <description><![CDATA[我收到了很多反馈并实现了许多所要求的功能，例如默认签名选项、所有应用程序部分等等！还修复了许多与 reddit 等应用程序崩溃相关的问题。 感谢大家的支持！ 改变了什么  将赞助商添加到积分中，并感谢所有捐赠的人:) 添加 iOS 18 暗模式图标 为所有源应用程序添加部分（来自 Esign 的 App Store） 为证书、应用程序等添加重置选项。 改进的排序选项，现在包括升序和降序 在签名选项中自动替换捆绑包 ID 改进签名选项，可配置默认选项 重新组织设置 语言转换器 修复设计不一致、签名按钮可变模糊的问题 修复 iPad 上一些不正确的显示表格 修复了一些有关应用程序崩溃的问题，除非被告知，否则不会修改 `Info.plist` 改进日志记录 改进了服务器的一些代码  Github https://github.com/khcrysalis/Feather    提交人    /u/Joastyy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ggyc3u/update_feather_v110_is_out/</guid>
+      <pubDate>Fri, 01 Nov 2024 05:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>广告拦截器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ggwucg/ad_blocker/</link>
+      <description><![CDATA[我已经安装了 ESign，它说你不能使用 VPN 和广告拦截器 DNS，它会撤销你的证书，有什么办法可以屏蔽手机上的广告吗？或者有什么变通方法让我可以使用 adguard DNS？    提交人    /u/Parang_2110   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ggwucg/ad_blocker/</guid>
+      <pubDate>Fri, 01 Nov 2024 03:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify Eq 不再工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ggwu48/spotify_eq_not_working_anymore/</link>
+      <description><![CDATA[我不知道这是否是发布此内容的正确子版块，但我注意到在使用 sideloady 侧载 spotify 后，我的均衡器几乎不工作/不工作，我起初以为是均衡器设置问题，所以我检查了我的另一部手机，我在该手机上侧载了 trollstore spotify，我发现它在那里工作，设置完全相同，在我使用我姐姐的手机后，但从 appstore 安装了 spotify，使用完全相同的均衡器，它工作正常。我不知道我是否需要重置我的手机（我不想重置，因为我有重要的东西），另外要说的是，这也影响了 appstore 中的 spotify，所以我猜发生了什么事情。任何建议都谢谢，我现在需要帮助    提交人    /u/Josh_thefoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ggwu48/spotify_eq_not_working_anymore/</guid>
+      <pubDate>Fri, 01 Nov 2024 03:46:03 GMT</pubDate>
+    </item>
     <item>
       <title>Guru Meditation f3d6c0@7:ad7080 导入 _ctypes 时 DLL 加载失败：%1 不是有效的 Win32 应用程序。Guru Meditation 问题。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ggwdgf/guru_meditation_f3d6c07ad7080_dll_load_failed/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有自己的 iPad，用于学校。我上面有一个 MDM 配置文件，不允许创建 VPN 配置文件。 有什么方法可以绕过此限制或类似的东西吗？ 我有：iPad8 Wifi iPadOS 18.0.1  MDM：Jampf School MDM 配置文件    提交人    /u/Silver-Spot1183   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gggm93/how_can_i_bypass_vpn_restriction_on_ipad/</guid>
       <pubDate>Thu, 31 Oct 2024 15:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序在启动时崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gggky4/apps_crashing_on_boot/</link>
-      <description><![CDATA[刚刚在我的 iPhone 11 上更新到 17.6，并尝试让 ESign 工作。应用程序确实安装并运行……但是，一旦我重新启动手机，每个使用 ESign 安装的应用程序（包括 ESign 本身）都会在我尝试打开时崩溃。 有没有办法阻止这种情况发生？我正在使用阻止撤销的 DNS。    提交人    /u/batouttahell24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gggky4/apps_crashing_on_boot/</guid>
-      <pubDate>Thu, 31 Oct 2024 14:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我无法刷新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gggdyh/why_am_i_not_able_to_refresh/</link>
-      <description><![CDATA[      它显示“没有 WiFi 或 vpn”，即使这两项都已打开 :(    提交人    /u/Slow_Display9784   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gggdyh/why_am_i_not_able_to_refresh/</guid>
-      <pubDate>Thu, 31 Oct 2024 14:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omni Development 合并</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ggckvz/omni_development_merger/</link>
-      <description><![CDATA[  由    /u/Realmye  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ggckvz/omni_development_merger/</guid>
-      <pubDate>Thu, 31 Oct 2024 11:49:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
