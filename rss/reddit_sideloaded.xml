@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 02 Nov 2024 18:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 21:09:21 GMT</lastBuildDate>
+    <item>
+      <title>Sidestore 已过期 | 故障排除</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gi4ieg/sidestore_expired_troubleshooting/</link>
+      <description><![CDATA[亲爱的社区 不幸的是，由于我没有在 7 天内借助 Wireguard VPN 刷新 Sidestore，因此它已过期。 重新安装 Sidestore 的任何尝试均无法正常工作。基本上，我最接近让它工作的是，我安装了 Sidestore，并且我还可以安装 Youtube+ 等应用程序。问题是，当我使用我的 Apple ID 登录 Sidestore 时，系统会询问我“是否要撤销以前的证书？Altstore” - 如果我确认“是”，我可以成功登录并使用 Sidestore，但只要我刷新 Sidestore 应用程序本身，它就会在打开时崩溃 - 如果我说“否”，登录将失败，我会收到消息“操作失败 - 您已经拥有当前的 iOS 开发证书或待处理的证书请求。 （7460）”。 我也尝试使用新的 Apple ID，但结果相同。 有人可以帮助我如何在过期后恢复正常吗？ 非常感谢！    提交人    /u/LP7XX   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gi4ieg/sidestore_expired_troubleshooting/</guid>
+      <pubDate>Sat, 02 Nov 2024 19:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助 ！！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gi2nog/help/</link>
+      <description><![CDATA[所以我通过 iPhone 上的 sideloadly 下载了一个应用程序，然后我打开了开发者模式.....重新启动后锁屏正常，但解锁后显示黑色壁纸...有什么解决办法吗？    提交人    /u/Itzshashank03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gi2nog/help/</guid>
+      <pubDate>Sat, 02 Nov 2024 18:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>标志性的</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gi2kpe/signulous/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有没有什么好的、值得信赖的、免费的网站可以安装付费游戏？    提交人    /u/BaseCold3137   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ghob4d/good_sites_to_install_games/</guid>
       <pubDate>Sat, 02 Nov 2024 04:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮忙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ghn3zb/help_pelase/</link>
-      <description><![CDATA[嗨，我是侧载新手，我需要帮助，我想安装几个应用程序，它们是在 ipa 中，我不知道如何安装，如果有说明或我可以观看的 yt 视频，那就太好了  注意：如果需要，我可以使用电脑  谢谢    提交人    /u/AsterBoy22   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ghn3zb/help_pelase/</guid>
-      <pubDate>Sat, 02 Nov 2024 02:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>刷新应用程序时为什么会出现此错误？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ghma5y/why_am_i_getting_this_error_when_refreshing_my/</link>
-      <description><![CDATA[      我尝试使用其他帐户，但也没有用    提交人    /u/TestFlightBeta   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ghma5y/why_am_i_getting_this_error_when_refreshing_my/</guid>
-      <pubDate>Sat, 02 Nov 2024 02:12:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
