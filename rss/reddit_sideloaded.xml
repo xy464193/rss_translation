@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 03 Nov 2024 03:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 06:14:49 GMT</lastBuildDate>
+    <item>
+      <title>tvOS - 推荐用于侧载的 .ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gig0pq/tvos_recommended_ipas_for_sideloading/</link>
+      <description><![CDATA[所以我只是在等待我的 Apple TV 4K 第三代明天到货，然后我将开始使用 KravaSign 进行该过程，这在 UDID 提交后大约需要 3 天才能由 Apple 处理。 与此同时，有人可以指出我正确的方向，以便将一些最好的应用程序侧载到 tvOS 上吗？您使用这种方法吗？ https://github.com/yattee/yattee 和 https://invidious.io/（我对设置这个完全陌生，我听到过关于 Yattee + Invidious 的不同看法。它现在稳定吗，还是有更好的替代品，或者可能正在开发一些新的东西？） https://github.com/StreamerApp/Streamer https://appdb.to/?compatibility=tvos &lt;-- 这是 tvOS 真正可用的全部吗？对于 tvOS 来说，选择似乎非常少，只有很少的可供选择 tvOS 没有 Spotify Premium ipa 吗？或者你只能使用 iPhone 将其投射到电视上？ 有什么适合 IPTV 的东西吗？还是只使用 IPTV Smarters Pro？（我们有 IPTV 的用户/密码，它可以直播电视、电影和电视节目，只是在寻找一个好的播放器，希望可以录制） 最后，在获得签名的 .ipa 文件后，这是推荐的侧载到 tvOS 的方式吗？  确保您的 Mac 和 Apple TV 在同一个 Wi-Fi 网络上或使用电缆连接您的 Apple TV。 在您的 Mac 上，打开 Xcode 并选择窗口 &gt; 设备和模拟器。或按 ⇧⌘ 2 在您的 Apple TV 上，转到设置 &gt; 遥控器和设备 &gt;远程应用程序和设备。 在 Xcode 设备管理器中，选择您的 Apple TV。 此步骤仅在您使用 Wi-Fi 配对时才执行 输入 Mac 上 Apple TV 上显示的六位数密码。 现在按下已安装的应用程序部分下的 + 图标，然后选择您之前签名的 ipa 该应用程序现在应该安装在您的 Apple TV 上，您可以重复这些步骤并安装任意数量的应用程序！     提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gig0pq/tvos_recommended_ipas_for_sideloading/</guid>
+      <pubDate>Sun, 03 Nov 2024 05:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁知道 IPA 的最佳电报来源</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gif2e8/who_knows_the_best_telegram_sources_for_ipas/</link>
+      <description><![CDATA[我知道有一些不错的，但我再也找不到了，如果有人知道，我将不胜感激     由   提交  /u/MorePropaganda   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gif2e8/who_knows_the_best_telegram_sources_for_ipas/</guid>
+      <pubDate>Sun, 03 Nov 2024 04:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需 PC 即可安全侧载“signum”应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gieno0/is_the_signum_app_safe_for_side_loading_without_pc/</link>
+      <description><![CDATA[您好，我想使用一款名为“Signum”的应用程序来侧载一款名为“Sonolus”的应用程序，而无需使用 PC（只需我的 iPhone）。这安全吗？甚至可行吗？如果不行，您能推荐我其他方法将此应用程序侧载到我的 iPhone 上吗？我已经准备好 IPA 文件了，谢谢！    提交人    /u/robinlmaooo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gieno0/is_the_signum_app_safe_for_side_loading_without_pc/</guid>
+      <pubDate>Sun, 03 Nov 2024 04:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 PC 的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gie4u7/best_method_with_a_pc/</link>
+      <description><![CDATA[有没有办法在 iPad 未越狱的情况下进行侧载以防止撤销？我有一台电脑和一条 USB 转苹果数据线，但我没有其他东西，而且我无法越狱。不断的撤销很烦人，我无法获得自己的开发者账户    提交人    /u/SpacebarUnderscore   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gie4u7/best_method_with_a_pc/</guid>
+      <pubDate>Sun, 03 Nov 2024 03:34:03 GMT</pubDate>
+    </item>
     <item>
       <title>快速提问</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gicp68/quick_question/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>Arctic 的 repo 不见了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gi6lqc/arctics_repo_is_gone/</link>
-      <description><![CDATA[检查链接 https://github.com/ArcticSigner/Arctic-Signer Github 给了我的家伙 Arctic Swaggy P 待遇，并将他 404 转到影子领域 😂😂😂😂😂😂。Github 不是在玩游戏。他们只是在到处耍赖 😂😂😂😂😂🦍🦍🦍    提交人    /u/Thick-Quiet-9982   [链接] [评论]]]></description>
+      <description><![CDATA[检查链接 https://github.com/ArcticSigner/Arctic-Signer Github 给了我的家伙 Arctic Swaggy P 待遇，并将他 404 转到影子领域 😂😂😂😂😂😂。Github 不玩游戏。他们只是到处找乐子 😂😂😂😂😂🦍🦍🦍    提交人    /u/Thick-Quiet-9982   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gi6lqc/arctics_repo_is_gone/</guid>
       <pubDate>Sat, 02 Nov 2024 21:14:04 GMT</pubDate>
     </item>
@@ -62,13 +90,6 @@
       <pubDate>Sat, 02 Nov 2024 18:15:02 GMT</pubDate>
     </item>
     <item>
-      <title>标志性的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gi2kpe/signulous/</link>
-      <description><![CDATA[Signulous 需要有自动更新功能。因为当我在玩游戏时，上床睡觉，第二天醒来却发现我必须更新游戏，所以我无法再玩它，直到创建调整的人更新调整为止，这真是太烦人了。真的需要有自动更新来处理这类事情    提交人    /u/Region-Tall   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gi2kpe/signulous/</guid>
-      <pubDate>Sat, 02 Nov 2024 18:11:21 GMT</pubDate>
-    </item>
-    <item>
       <title>有人有具有所有专业功能的 capcut ipa 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ghz22b/anyone_got_a_capcut_ipa_with_all_pro_features/</link>
       <description><![CDATA[我已经受够了所有这些 capcut pro 功能，所以我现在只需要求助于侧载 lol    由    /u/poopiefartdookie  提交  [链接] [评论]]]></description>
@@ -78,7 +99,7 @@
     <item>
       <title>买什么证书比较好？我没有赚到钱，所以我没有多少钱可以花，或者证书会在一两个月内被吊销。建议购买一些安全且长期有效的 Esign。只想侧载一些应用程序。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ghz1on/whats_a_good_cert_to_purchase_i_dont_earn_in_so_l/</link>
-      <description><![CDATA[与上文相同。如果适合我的情况，还有任何免费替代方案。     提交人    /u/kittioma   [link] [comments]]]></description>
+      <description><![CDATA[与上文相同。如果适合我的情况，还有任何免费替代方案。     由   提交  /u/kittioma   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ghz1on/whats_a_good_cert_to_purchase_i_dont_earn_in_so_l/</guid>
       <pubDate>Sat, 02 Nov 2024 15:32:03 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我不知道所有免费的 esign 证书是否都被撤销了，因为我认为它们对我都不起作用，如果有人可以告诉我，谢谢！    提交人    /u/Lyly_Havana   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ghylvy/are_all_of_the_the_esign_certs_revoked/</guid>
       <pubDate>Sat, 02 Nov 2024 15:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些电影应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ghy3u3/recommended_movie_app/</link>
-      <description><![CDATA[我的手机已重置，我用来看电影的大多数应用（例如 Play Diary）都已被删除，有没有其他可以在应用商店下载的替代应用来观看电影？     提交人    /u/SeatAggressive3826   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ghy3u3/recommended_movie_app/</guid>
-      <pubDate>Sat, 02 Nov 2024 14:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳通知证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ghxg50/best_cert_for_notification/</link>
-      <description><![CDATA[请告诉我     提交人    /u/Wealist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ghxg50/best_cert_for_notification/</guid>
-      <pubDate>Sat, 02 Nov 2024 14:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的侧载应用程序经常重置和退出。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ghwlv1/my_sideloaded_apps_reset_and_sign_me_out_pretty/</link>
-      <description><![CDATA[我有 2 个应用程序（instagram 和 YouTube），它们似乎每天都会重置，并提示我重新登录并设置设置。我正在使用从不同存储库安装的 YTliteplus 和 SCInsta，使用 feather。    提交人    /u/RazoRReeseR   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ghwlv1/my_sideloaded_apps_reset_and_sign_me_out_pretty/</guid>
-      <pubDate>Sat, 02 Nov 2024 13:37:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
