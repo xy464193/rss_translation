@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 04 Nov 2024 06:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 09:12:50 GMT</lastBuildDate>
+    <item>
+      <title>为什么要换用苹果呢？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</link>
+      <description><![CDATA[我正在考虑购买 iPhone 16 和 MacBook Pro，但我希望能够像在 Android 上一样安装经过调整的应用程序，以跳过 youtube、twitch 等中的广告。我知道有一种方法可以在 iPhone 上侧载应用程序，但如果没有订阅服务，它似乎只能使用 7 天。另外，我不确定在哪里可以找到要本地下载的应用程序。此外，有没有办法像在 Windows 上一样在 MacBook 上安装修改后的程序？请注意，我是欧洲公民。 另一个担忧是，Apple 设备（尤其是 iPhone）高度依赖互联网进行激活，并且需要连接到 Apple 服务器。 为什么我应该从 Android 和 Windows 切换到 Apple 生态系统？    提交人    /u/SuperCiao   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</guid>
+      <pubDate>Mon, 04 Nov 2024 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>tvOS .ipa 与 AndroidTV .apk 不一样</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gj8qb9/tvos_ipas_just_arent_the_same_as_androidtv_apks/</link>
+      <description><![CDATA[为什么我似乎总是听到每个人都说 Apple TV 4K 3rd Gen 2022 比 Shield TV Pro 2019 更好？我现在已经尝试了两者，一开始我很喜欢 Apple TV。iPhone 集成很棒。Netflix 对话音频增强很有用。系统很快……当然。相比之下，Shield Pro 2019 也不逊色。但是，当谈到为 YouTube 侧载一个好的 Adblock 和 Sponsorblock 时，这对我来说就是交易破坏者。  沙发上的大部分时间都在 YouTube 上，而 SmartTube apk 是目前最好的。此外，从 USB 闪存驱动器安装 .apk 非常容易。哦，Shield 遥控器太安静了！而且电池可以永久使用。直到我使用 Apple TV 遥控器时我才意识到这一点，每次按下按钮时我都会忍不住注意到响亮的咔嗒声。电池开箱时显示为 100%，但仅使用几个小时后就剩下 70%。寻找 USB-C 会很麻烦，在这种情况下，我认为我实际上更喜欢容量大的 AAA 充电电池。我最终退回了 Apple TV 并保留了 Shield Pro。 我希望明年 tvOS 的侧载功能会更好，和/或两家公司都会发布新的媒体盒。现在，tvOS 还没有侧载功能，所以目前对我来说不行。但愿事情会变得更好，因为总的来说我更喜欢 Apple。 您对 tvOS ipa 和 AndroidTV apk 有何看法？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gj8qb9/tvos_ipas_just_arent_the_same_as_androidtv_apks/</guid>
+      <pubDate>Mon, 04 Nov 2024 07:19:33 GMT</pubDate>
+    </item>
     <item>
       <title>有人有我可以使用且无需撤销的免费证书吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gj6ob9/anyone_have_a_free_certificate_i_can_use_with_no/</link>
@@ -62,13 +76,6 @@
       <pubDate>Sun, 03 Nov 2024 23:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>个人开发者帐户槽位</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1giw2dg/personal_developer_account_slots/</link>
-      <description><![CDATA[刚刚购买了一个开发者帐户，如果有人对一个位置感兴趣，请随时给我发私信，我们可以谈谈定价。您将无权访问 Apple 帐户，但我可以在帐户上创建一个签名证书，您可以使用该证书签署 IPA 的工具来签署应用程序。  这意味着 AltStore 等服务将无法使用，因为它使用 Apple ID 进行签名，但使用证书签名的任何内容都可以使用。 帐户将在 1 年后续订。 是的，与其他签名服务相比，完全没有理由相信我，但是我限制了可以使用此服务的人数（最多可能是 5 人），以避免帐户标记和被撤销，这就是其他签名服务被撤销的原因（或者因为他们使用企业签名证书）。    由    /u/jason_he54  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1giw2dg/personal_developer_account_slots/</guid>
-      <pubDate>Sun, 03 Nov 2024 20:14:14 GMT</pubDate>
-    </item>
-    <item>
       <title>金块帮助</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1givp04/nugget_help/</link>
       <description><![CDATA[我正在尝试向我的 iPad 10 添加调整，并在 Windows 11 上使用 Nugget，设备重启后没有任何变化。有什么想法吗？    提交人    /u/TadpoleBig2467   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[几年前我肯定在越狱时对我的手机做了些什么来欺骗 iOS 版本之类的。现在我有一部新的 iPhone 16promax 和一块全新的苹果手表，它无法配对，因为它认为我的手机的 iOS 版本太低了……有什么办法可以解决这个问题或者欺骗手表配对吗？    提交人    /u/polofreaks   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1girhzj/is_there_an_ipa_to_pair_my_apple_watch_to_my_phone/</guid>
       <pubDate>Sun, 03 Nov 2024 16:59:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 iPad 上玩 Fortnite 移动版，无法更新到 iPadOS 18，我住在欧盟</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1giq2w3/is_there_a_way_to_play_fortnite_mobile_on_an_ipad/</link>
-      <description><![CDATA[有没有办法在无法更新到 ipadOS 18 的 ipad 上玩 fortnite mobile，我住在欧盟，但无法“合法”侧载，因为我无法更新到 ipadOS 18     提交人    /u/Many-Measurement-441   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1giq2w3/is_there_a_way_to_play_fortnite_mobile_on_an_ipad/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:58:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
