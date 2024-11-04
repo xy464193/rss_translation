@@ -4,9 +4,16 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:19:41 GMT</lastBuildDate>
     <item>
-      <title>为什么要换用苹果呢？</title>
+      <title>如何使用 trollstore 上的 Streamer 上的下载功能？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjan5e/how_to_use_downloading_feature_on_streamer_w/</link>
+      <description><![CDATA[嘿，有人能让流媒体应用下载在 trollstore 中工作吗？流媒体应用会给出一个错误，基本上会引导您进入指南，然后您必须将应用程序包 ID 与您的签名证书进行匹配……为了让下载正常工作……显然使用 trollstore，所以没有地方可以编辑包 ID，而且我不知道要用什么证书替换，因为它是 trollstore。有点惊讶这个功能没有内置到应用程序中/这甚至是要求用户做的事情……我有以前的版本，没有这个功能也可以正常工作…… 有人知道如何让它在 trollstore 上运行吗？我刚刚为应用程序下载支付了终身通行证，现在意识到我可能无法使用……如果您有任何解决方案，请告诉我，谢谢！    提交人    /u/kwvkwv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjan5e/how_to_use_downloading_feature_on_streamer_w/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:51:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要换用苹果？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</link>
       <description><![CDATA[我正在考虑购买 iPhone 16 和 MacBook Pro，但我希望能够像在 Android 上一样安装经过调整的应用程序，以跳过 youtube、twitch 等中的广告。我知道有一种方法可以在 iPhone 上侧载应用程序，但如果没有订阅服务，它似乎只能使用 7 天。另外，我不确定在哪里可以找到要本地下载的应用程序。此外，有没有办法像在 Windows 上一样在 MacBook 上安装修改后的程序？请注意，我是欧洲公民。 另一个担忧是，Apple 设备（尤其是 iPhone）高度依赖互联网进行激活，并且需要连接到 Apple 服务器。 为什么我应该从 Android 和 Windows 切换到 Apple 生态系统？    提交人    /u/SuperCiao   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</guid>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 04 Nov 2024 07:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>有人有我可以使用且无需撤销的免费证书吗？</title>
+      <title>谁有我可以免费使用且无需撤销的证书？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gj6ob9/anyone_have_a_free_certificate_i_can_use_with_no/</link>
       <description><![CDATA[听起来就是这样    提交人    /u/OkSpecific3949   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gj6ob9/anyone_have_a_free_certificate_i_can_use_with_no/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>不要使用猩红色！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1givgal/dont_use_scarlet/</link>
-      <description><![CDATA[我过去使用 Scarlet 安装 ipa 文件，它工作得很好，但后来它停止工作了，我显然被列入了黑名单，现在我发现有一种方法可以在没有电脑的情况下轻松地进行侧载，但要做到这一点，需要明确的是，如果你使用 Scarlet 并且被列入了黑名单，它将无法工作，所以大家不要使用它，有很多更好的选择，Scarlet 会在一两周后停止工作。    提交人    /u/Redzzy0   [link] [评论]]]></description>
+      <description><![CDATA[我过去使用 Scarlet 安装 ipa 文件，它工作得很好，但后来它就停止工作了，我显然被列入了黑名单，现在我发现有一种方法可以在没有电脑的情况下轻松地进行侧载，但要做到这一点，需要明确的是，如果你使用 Scarlet 并且被列入了黑名单，它将无法工作，所以大家不要使用它，有很多更好的选择，Scarlet 会在一两周后停止工作。    提交人    /u/Redzzy0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1givgal/dont_use_scarlet/</guid>
       <pubDate>Sun, 03 Nov 2024 19:48:23 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我上周刚刚侧载了 UYouEnhanced 19.40.4 版，效果很好。但是，自从我的 YouTube Shorts 字幕和评论以来，有时会错位，并且是下一个短片而不是当前短片。有人遇到过类似的问题吗？    提交人    /u/drybone121   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1giskoi/uyouenhanced_shorts_misaligned/</guid>
       <pubDate>Sun, 03 Nov 2024 17:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 ipa 可以将我的 Apple Watch 与手机配对？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1girhzj/is_there_an_ipa_to_pair_my_apple_watch_to_my_phone/</link>
-      <description><![CDATA[几年前我肯定在越狱时对我的手机做了些什么来欺骗 iOS 版本之类的。现在我有一部新的 iPhone 16promax 和一块全新的苹果手表，它无法配对，因为它认为我的手机的 iOS 版本太低了……有什么办法可以解决这个问题或者欺骗手表配对吗？    提交人    /u/polofreaks   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1girhzj/is_there_an_ipa_to_pair_my_apple_watch_to_my_phone/</guid>
-      <pubDate>Sun, 03 Nov 2024 16:59:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
