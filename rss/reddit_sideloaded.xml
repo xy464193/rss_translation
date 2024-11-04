@@ -4,16 +4,51 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 04 Nov 2024 12:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:11:04 GMT</lastBuildDate>
+    <item>
+      <title>辩论结束“按金钱价值计算的最佳付费证书”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjgb3o/end_of_debate_best_paid_cert_per_money_value/</link>
+      <description><![CDATA[结束这场关于最佳付费证书提供商的无休止的争论，因为价格从 5 美元“因为我刚刚知道 dxsign，它们很诱人”到 25 美元“apptesters 的终身保修”不等，还有值得一提的 kravasign 和 nutilus 8 美元“我很想买，就像 dxsign 一样”。先生们，您考虑购买哪一个，为什么？“如果您已经拥有一个，请说明您为什么选择他们，以及到目前为止服务如何？”感谢您宝贵的时间。    提交人    /u/fololologrt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjgb3o/end_of_debate_best_paid_cert_per_money_value/</guid>
+      <pubDate>Mon, 04 Nov 2024 15:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧边存储不会刷新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjg7kj/sidestore_wont_refresh/</link>
+      <description><![CDATA[      我在 iPad 上使用 Sidestore 已经有一段时间了，没有任何问题，但是今天我去刷新它和我的应用程序，但它一直说“数据格式错误”。我没有更改 iPad 或 icloud 的任何设置，也没有卸载任何东西。我连接到了我一直在使用的同一个 Wi-Fi，并且连接到了 VPN。有人知道为什么会发生这种情况或有什么方法可以解决它吗？谢谢    提交人    /u/dahliagoose   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjg7kj/sidestore_wont_refresh/</guid>
+      <pubDate>Mon, 04 Nov 2024 14:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们仍然信任评价很差、通常被称为骗局的付费侧载/应用程序签名服务？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjg6e0/why_do_people_still_trust_paid_sideloadingapp/</link>
+      <description><![CDATA[嗨。 希望你一切都好。 经过研究，我不断看到 Signulous、KravaSign、AppDB 和大多数其他类似服务的评价很差，并且经常被称为骗局（至少在 Trustpilot 等地方是这样）。 为什么你要冒险将钱花在一种没有保证、客户服务差（包括在这里发布客户服务粗鲁截图的人）或撤销声誉的服务上？ 我真的很好奇。    提交人    /u/unitedfan6191   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjg6e0/why_do_people_still_trust_paid_sideloadingapp/</guid>
+      <pubDate>Mon, 04 Nov 2024 14:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使我再次侧载应用程序，“验证应用程序”也没有任何作用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjfwvw/verify_app_doesnt_do_anything_even_if_i_sideload/</link>
+      <description><![CDATA[我使用 Sideloadly 通过免费的 Apple ID 方法侧载应用程序近一年了，除了有时会调整 wifi 连接外，从来没有遇到过任何问题。现在进入正题： 通过侧载刷新应用程序后，设备管理显示应用程序未经验证，单击“验证应用程序”后，右上角的小加载图标旋转 0.0001 秒后停止，例如当证书被吊销时使用 Scarlet 侧载的应用程序，它就不会验证应用程序。 我尝试删除应用程序并再次侧载，我有 2 个苹果 ID，因此我也尝试使用第二个，但没有成功。 我也认为可能是因为 DNS 过滤器，关掉它但情况仍然一样，从 Wifi 切换到移动数据结果仍然一样，可能是什么问题？    提交人    /u/m1ghtyDemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjfwvw/verify_app_doesnt_do_anything_even_if_i_sideload/</guid>
+      <pubDate>Mon, 04 Nov 2024 14:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>可能被列入黑名单？如何确认以及下一步怎么做？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gjfqvd/possible_blacklisting_how_to_confirm_and_next/</link>
+      <description><![CDATA[因此，我使用了带 DNS 方法的 Esign，不幸的是，我意外打开了我的 VPN，我想它不是通过我的 DNS 配置的。之后，我所有的侧载应用程序都停止工作了。 我删除了与侧载相关的所有内容，并使用不同的证书重新安装了 Esign，Esign 本身工作正常。但是，在下载旧的侧载应用程序时，我遇到了错误。 我可以毫无问题地下载以前从未使用过的新侧载应用程序，但我设备上曾经安装过的一个应用程序却出现“无法安装 [X] 无法安装此应用程序，因为无法验证其完整性”。使用新证书签名时会发生这种情况。 所以我想知道两件事 1) 这是否意味着我被列入了黑名单？2) 如果我被列入了黑名单，唯一的出路是恢复出厂设置还是使用我的电脑？或者还有其他选择吗？  对我来说，我真正想要做的就是使用 itorrent 进行 torrent 下载，所以这就是所有这些麻烦的原因。它以前运行良好，直到我使用 VPN。    提交人    /u/YolkyBoii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gjfqvd/possible_blacklisting_how_to_confirm_and_next/</guid>
+      <pubDate>Mon, 04 Nov 2024 14:37:58 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 trollstore 上的 Streamer 上的下载功能？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gjan5e/how_to_use_downloading_feature_on_streamer_w/</link>
-      <description><![CDATA[嘿，有人能让流媒体应用下载在 trollstore 中工作吗？流媒体应用会给出一个错误，基本上会引导您进入指南，然后您必须将应用程序包 ID 与您的签名证书进行匹配……为了让下载正常工作……显然使用 trollstore，所以没有地方可以编辑包 ID，而且我不知道要用什么证书替换，因为它是 trollstore。有点惊讶这个功能没有内置到应用程序中/这甚至是要求用户做的事情……我有以前的版本，没有这个功能也可以正常工作…… 有人知道如何让它在 trollstore 上运行吗？我刚刚为应用程序下载支付了终身通行证，现在意识到我可能无法使用……如果您有任何解决方案，请告诉我，谢谢！    提交人    /u/kwvkwv   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，有人能让流媒体应用下载在 trollstore 中工作吗？流媒体应用会给出一个错误，基本上会引导您进入指南，然后您必须将应用程序包 ID 与您的签名证书进行匹配……为了让下载正常工作……显然使用 trollstore，所以没有地方编辑包 ID，而且我不知道要用什么证书替换，因为它是 trollstore。有点惊讶这个功能没有内置到应用程序中/这甚至是要求用户做的事情……我有以前的版本，没有这个功能也可以正常工作…… 有人知道如何让它在 trollstore 上运行吗？我刚刚为应用程序下载支付了终身通行证，现在意识到我可能无法使用……如果您有任何解决方案，请告诉我，谢谢！    提交人    /u/kwvkwv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gjan5e/how_to_use_downloading_feature_on_streamer_w/</guid>
       <pubDate>Mon, 04 Nov 2024 09:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>为什么要换用苹果？</title>
+      <title>为什么要换用苹果呢？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</link>
       <description><![CDATA[我正在考虑购买 iPhone 16 和 MacBook Pro，但我希望能够像在 Android 上一样安装经过调整的应用程序，以跳过 youtube、twitch 等中的广告。我知道有一种方法可以在 iPhone 上侧载应用程序，但如果没有订阅服务，它似乎只能使用 7 天。另外，我不确定在哪里可以找到要本地下载的应用程序。此外，有没有办法像在 Windows 上一样在 MacBook 上安装修改后的程序？请注意，我是欧洲公民。 另一个担忧是，Apple 设备（尤其是 iPhone）高度依赖互联网进行激活，并且需要连接到 Apple 服务器。 为什么我应该从 Android 和 Windows 切换到 Apple 生态系统？    提交人    /u/SuperCiao   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gj8ypa/why_switch_to_apple/</guid>
@@ -27,7 +62,7 @@
       <pubDate>Mon, 04 Nov 2024 07:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>谁有我可以免费使用且无需撤销的证书？</title>
+      <title>有人有我可以使用且无需撤销的免费证书吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gj6ob9/anyone_have_a_free_certificate_i_can_use_with_no/</link>
       <description><![CDATA[听起来就是这样    提交人    /u/OkSpecific3949   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gj6ob9/anyone_have_a_free_certificate_i_can_use_with_no/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[标题基本解释了这一点，但是是否有任何证书可以用于侧载并启用授权，或者我需要购买一个？     提交人    /u/Known-Ad5920   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gj3tx3/free_cert_with_entitlements/</guid>
       <pubDate>Mon, 04 Nov 2024 02:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Carrot 应用程序总是崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gj02wq/carrot_app_always_crashing/</link>
-      <description><![CDATA[我得到了 carrot，它过去总是能正常工作，但现在突然来自流行 repos app testers、cypwn 的每个 ipa（甚至是来自 swaggys 的备份）它们都崩溃了，为什么呢？    提交人    /u/Revolutionary_Map916   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gj02wq/carrot_app_always_crashing/</guid>
-      <pubDate>Sun, 03 Nov 2024 23:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>金块帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1givp04/nugget_help/</link>
-      <description><![CDATA[我正在尝试向我的 iPad 10 添加调整，并在 Windows 11 上使用 Nugget，设备重启后没有任何变化。有什么想法吗？    提交人    /u/TadpoleBig2467   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1givp04/nugget_help/</guid>
-      <pubDate>Sun, 03 Nov 2024 19:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要使用猩红色！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1givgal/dont_use_scarlet/</link>
-      <description><![CDATA[我过去使用 Scarlet 安装 ipa 文件，它工作得很好，但后来它就停止工作了，我显然被列入了黑名单，现在我发现有一种方法可以在没有电脑的情况下轻松地进行侧载，但要做到这一点，需要明确的是，如果你使用 Scarlet 并且被列入了黑名单，它将无法工作，所以大家不要使用它，有很多更好的选择，Scarlet 会在一两周后停止工作。    提交人    /u/Redzzy0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1givgal/dont_use_scarlet/</guid>
-      <pubDate>Sun, 03 Nov 2024 19:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有语音克隆 ai ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1givaxm/is_there_a_voice_cloning_ai_ipa/</link>
-      <description><![CDATA[用于在其他语言中创建自己的声音    提交人    /u/Rohrverleger44   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1givaxm/is_there_a_voice_cloning_ai_ipa/</guid>
-      <pubDate>Sun, 03 Nov 2024 19:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>UYouEnhanced 短裤错位了？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1giskoi/uyouenhanced_shorts_misaligned/</link>
-      <description><![CDATA[我上周刚刚侧载了 UYouEnhanced 19.40.4 版，效果很好。但是，自从我的 YouTube Shorts 字幕和评论以来，有时会错位，并且是下一个短片而不是当前短片。有人遇到过类似的问题吗？    提交人    /u/drybone121   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1giskoi/uyouenhanced_shorts_misaligned/</guid>
-      <pubDate>Sun, 03 Nov 2024 17:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
