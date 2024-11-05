@@ -4,13 +4,34 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 05 Nov 2024 15:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 18:13:33 GMT</lastBuildDate>
     <item>
-      <title>为什么应用程序在 iPhone 上无法验证？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gk7vr7/why_do_apps_fail_to_verify_on_iphone/</link>
-      <description><![CDATA[我已经使用免费的非开发人员 Apple ID 方法通过 Sideloadly（Windows）进行侧载一年了，昨天 Sideloadly 刷新应用程序后，突然间，我无法让手机验证应用程序，小加载图标在右上角旋转 0.0001 秒后停止，就像证书过期后一样。 我删除了应用程序，然后使用多年来一直使用的相同 Apple ID 和不同的 ID 再次进行侧载，但结果仍然相同。 可能出了什么问题？我 100% 确定我没有阻止服务器或任何东西，因为我也禁用了 DNS 过滤器。    提交人    /u/m1ghtyDemon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gk7vr7/why_do_apps_fail_to_verify_on_iphone/</guid>
-      <pubDate>Tue, 05 Nov 2024 14:25:21 GMT</pubDate>
+      <title>是否有不需要每周手动刷新的侧载程序。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gkcrwe/is_there_a_sideloader_that_doesnt_need_the_manual/</link>
+      <description><![CDATA[我厌倦了每周手动刷新，目前正在使用 trollstore，有没有更好的替代方案？    提交人    /u/Aliman04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gkcrwe/is_there_a_sideloader_that_doesnt_need_the_manual/</guid>
+      <pubDate>Tue, 05 Nov 2024 17:55:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vscode 应用程序/需要所有建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gkcmra/vscode_app_need_all_suggestions/</link>
+      <description><![CDATA[好的，1. 我正在创建一个网站，但我的电脑目前无法工作，而且一段时间内都不会工作，我刚刚做了 livecontainer 的事情，所以我想要应用程序建议，还需要知道是否有某种方法可以将 vscode 作为应用程序获取，因为代码空间是免费的，而且我想不出如何使用 vscode 其他方式。另外 2. 自从我得到了 live container 后，我正在接受应用程序的建议    提交人    /u/AcceptableBag1896   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gkcmra/vscode_app_need_all_suggestions/</guid>
+      <pubDate>Tue, 05 Nov 2024 17:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>说实话我不知道 Sideloader 错误或电话错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gkb8xu/sideloader_error_or_phone_error_idk_tbh/</link>
+      <description><![CDATA[所以如果你们想让我具体说一下，我使用的是 iPhone 8 Plus IOS 16.7.10。我不知道是我使用的证书还是侧加载器的问题。以下是实际发生的情况。因此，当我尝试使用任何工作的侧加载器安装 ipa 文件时，下载失败并显示无法验证其完整性且无法安装。请帮忙    提交人    /u/TengisAviation12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gkb8xu/sideloader_error_or_phone_error_idk_tbh/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑名单如何运作？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gkak63/how_does_blacklisting_work/</link>
+      <description><![CDATA[所以，我一直在使用 feather，它有一个计时器，还剩 1 天，我使用 dns 来查看防撤销功能是否会起作用，但是呃，它没有。无论如何，我想重新安装它，所以我继续去下载 esign 或其他签名器，它说“无法验证应用程序完整性”，根据我的理解，这意味着我被列入了黑名单，对吧？我怎么会被列入黑名单的？我的意思是我的 iphone 8 还没有被列入黑名单，但我的 13 pro max 已经列入了黑名单    提交人    /u/kilgrothmain2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gkak63/how_does_blacklisting_work/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:22:37 GMT</pubDate>
     </item>
     <item>
       <title>SideStore 来源？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[例如，我有   Esign   iTransmission  Netflix VIP  Ferrite  HD Flix     提交人    /u/dellmill85   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gjor0g/is_there_a_comprehensive_list_of_apps_you_can/</guid>
       <pubDate>Mon, 04 Nov 2024 20:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳无广告 Youtube 和文件资源管理器选项，我在哪里可以下载它们的 ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gjl444/best_adfree_youtube_and_file_explorer_option_and/</link>
-      <description><![CDATA[我真的需要这些，但是太多了，我不知道哪一个是最好的。你们能推荐一些好的东西给我吗，以及一个我可以下载的安全文件。    提交人    /u/KawaiiPhantasm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gjl444/best_adfree_youtube_and_file_explorer_option_and/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>趣味电话通话的替代方案</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gjkio8/alternative_for_fun_phone_call/</link>
-      <description><![CDATA[大家好， 有人用‘Fun Phone Call’ 应用程序来伪造来电显示吗？几天前它就一直无法使用。有人知道这个应用程序的替代品吗？ 应用程序链接 https://apps.apple.com/in/app/fun-phone-call-intcall/id576226288    提交人    /u/Timely_Stop2889   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gjkio8/alternative_for_fun_phone_call/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:53:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gjk5bl/certificate/</link>
-      <description><![CDATA[是否有适用于 ESign dns 方法的工作证书，如果有，您能否将 p.12 和移动配置的下载文件发送给我？    提交人    /u/RigidSteak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gjk5bl/certificate/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:38:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
