@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 05 Nov 2024 09:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 15:10:34 GMT</lastBuildDate>
+    <item>
+      <title>为什么应用程序在 iPhone 上无法验证？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gk7vr7/why_do_apps_fail_to_verify_on_iphone/</link>
+      <description><![CDATA[我已经使用免费的非开发人员 Apple ID 方法通过 Sideloadly（Windows）进行侧载一年了，昨天 Sideloadly 刷新应用程序后，突然间，我无法让手机验证应用程序，小加载图标在右上角旋转 0.0001 秒后停止，就像证书过期后一样。 我删除了应用程序，然后使用多年来一直使用的相同 Apple ID 和不同的 ID 再次进行侧载，但结果仍然相同。 可能出了什么问题？我 100% 确定我没有阻止服务器或任何东西，因为我也禁用了 DNS 过滤器。    提交人    /u/m1ghtyDemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gk7vr7/why_do_apps_fail_to_verify_on_iphone/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore 来源？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gk6ukj/sidestore_sources/</link>
+      <description><![CDATA[有人能推荐一些好的 SideStore 源吗？应用程序中默认的源似乎相当基础，许多应用程序甚至没有描述。对于 ++ 应用程序来说，什么比较好，并且通常比包含的商店包含更多内容？ 谢谢    由   提交  /u/Armitage2k   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gk6ukj/sidestore_sources/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:37:56 GMT</pubDate>
+    </item>
     <item>
       <title>我想在 iPad 上下载 goodnotse</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gk0nzs/i_want_to_download_goodnotse_on_the_ipad/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>3 应用程序限制绕过 - 请勿从 17.7 或 18.0.1 更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gjyj9v/3_app_limit_bypass_do_not_update_from_177_or_1801/</link>
-      <description><![CDATA[标题不言而喻。Sparsebox 可绕过 Sidestore 上的 3 个应用程序限制，适用于 MDC 漏洞。苹果在较新版本的 iOS 中修补了此漏洞。 请勿更新，因为苹果已停止签署 17.1 和 18.0.1。 上述版本是最后一个支持数十个应用程序侧载的版本，如果您升级到 18.1，这将是一个梦想。 Sidestore 社区团队已经发布了改进的夜间版本，以支持超过 3 个应用程序。 请勿更新。如果您不知道，您可以降级到 iOS18 beta 4，因为这是唯一允许此漏洞的签名版本。    提交人    /u/Ep1c1nCoGn1tO   [链接] [评论]]]></description>
+      <description><![CDATA[标题不言而喻。Sparsebox 可绕过 Sidestore 上的 3 个应用程序限制，适用于 MDC 漏洞。苹果在较新版本的 iOS 中修补了此漏洞。 请勿更新，因为苹果已停止签署 17.17 和 18.0.1。 上述版本是最后一个支持数十个应用程序侧载的版本，如果您升级到 18.1，这将是一个梦想。 Sidestore 社区团队已经发布了改进的夜间版本，以支持超过 3 个应用程序。 请勿更新。如果您不知道，您可以降级到 iOS18 beta 4，因为这是唯一允许此漏洞的签名版本。    提交人    /u/Ep1c1nCoGn1tO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gjyj9v/3_app_limit_bypass_do_not_update_from_177_or_1801/</guid>
       <pubDate>Tue, 05 Nov 2024 04:25:26 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>applep12 证书安全吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gjpbm9/are_applep12_certs_safe/</link>
-      <description><![CDATA[我对此感到疑惑，因为它表明您需要允许此证书才能安装任何应用程序。该证书可以远程安装恶意软件吗？顺便说一句，我使用的是来自免费电报频道的证书    提交人    /u/DisciplinePublic882   [link] [评论]]]></description>
+      <description><![CDATA[我对此感到疑惑，因为它显示您需要允许此证书才能安装任何应用程序。该证书可以远程安装恶意软件吗？顺便说一句，我使用的是来自免费电报频道的证书    提交人    /u/DisciplinePublic882   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gjpbm9/are_applep12_certs_safe/</guid>
       <pubDate>Mon, 04 Nov 2024 21:08:24 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[是否有适用于 ESign dns 方法的工作证书，如果有，您能否将 p.12 和移动配置的下载文件发送给我？    提交人    /u/RigidSteak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gjk5bl/certificate/</guid>
       <pubDate>Mon, 04 Nov 2024 17:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPA 开发者听我说🙏</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gjj618/ipa_devs_hear_me_out/</link>
-      <description><![CDATA[      如果有任何开发者成功做到这一点，这将是巨大的将不胜感激 摘要 - 这是谷歌照片 mod，它可以解锁无限量的原始质量视频和照片上传，以前只有使用 magisk 或 rom 开发人员才能将其嵌入到 android 上的 rom 中，这是因为重新发布的补丁程序对照片进行了修补，因为补丁程序发布了，所以也可以用于 iOS 平台，因为重新发布的补丁程序已经在各种调整应用程序中使用了  我分享了 android 平台的链接，因为我没有找到 ios 的链接，但如果我没记错的话，补丁程序也应该适用于 ios（我不擅长这个“github”）    提交人    /u/Prestigious-Guide-61   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gjj618/ipa_devs_hear_me_out/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个应用程序或快捷方式可以用来在没有电脑的情况下签署应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gjj2x2/is_there_an_app_or_shortcut_i_can_use_to_sign/</link>
-      <description><![CDATA[Scarlet 已被撤销，我看到的其他会员都需要付费，所以我可以使用其他应用程序或快捷方式吗？    提交人    /u/tacobelt1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gjj2x2/is_there_an_app_or_shortcut_i_can_use_to_sign/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
