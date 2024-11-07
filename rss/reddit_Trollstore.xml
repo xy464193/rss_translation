@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 07 Nov 2024 03:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 06:14:29 GMT</lastBuildDate>
+    <item>
+      <title>调整解密文件</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1glhdvd/tweaking_a_decrypted_file/</link>
+      <description><![CDATA[我有一个游戏想调整，如何在没有越狱的情况下进行调整    提交人    /u/ImportantAd5451   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1glhdvd/tweaking_a_decrypted_file/</guid>
+      <pubDate>Thu, 07 Nov 2024 03:35:42 GMT</pubDate>
+    </item>
     <item>
       <title>CarPlay Spotify</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gl72ub/carplay_spotify/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>我搞砸了，更新到了 ios 17，我很想念使用 troll store。Esign 让我很累。有没有办法可以减少麻烦的侧载？或者将 ios 降级到 15。我只需要侧载 alarmy、spotify 和 YouTube。</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ghivzd/i_messed_up_and_updated_to_ios_17_i_miss_using/</link>
-      <description><![CDATA[同上。     由    /u/kittioma 提交   [link] [comments]]]></description>
+      <description><![CDATA[与上相同。     由    /u/kittioma 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ghivzd/i_messed_up_and_updated_to_ios_17_i_miss_using/</guid>
       <pubDate>Fri, 01 Nov 2024 23:22:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我从 .deb (1.4.0) 中提取了最新的 Nyx 版本，并将其注入到与其兼容的最新 instagram 版本中(354.0) 但打开时崩溃。我需要注入哪些其他 .dylib 来防止它崩溃，我可以从哪个 repo 下载它们？谢谢！iPhone 14 Pro 17.0 带 TrollStore 2    提交人    /u/WorkingSir9449   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gaqujq/injecting_nyx_into_instagram/</guid>
       <pubDate>Thu, 24 Oct 2024 01:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池消耗🔋</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gaiz29/battery_consumption/</link>
-      <description><![CDATA[在 IOS 16 上使用 Trollstore 一段时间了，安装 Trollstore 后，电池消耗和电池健康状况有明显差异吗？    提交人    /u/alixhero   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gaiz29/battery_consumption/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:25:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
