@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 09:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:17:58 GMT</lastBuildDate>
+    <item>
+      <title>苹果通知已修复</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1glp0gw/apple_notifications_fixed/</link>
+      <description><![CDATA[我正在使用付费证书（1 年），但在通知方面遇到了问题，因为有时推送通知无法发送。我最近发现问题出在 NextDNS 阻止与 APN 相关的域。 这影响了未通过签名过程安装的应用程序，例如 SpX、Pinterest 和其他有时应该发送通知但没有发送的应用程序。我现在已经修复了它。 我允许了以下域： • api.push.apple.com • push.apple.com • appldnld.apple.com • mzstatic.com  之后，我重启了 iPhone，现在所有通知都恢复正常了。    提交人    /u/Wealist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1glp0gw/apple_notifications_fixed/</guid>
+      <pubDate>Thu, 07 Nov 2024 12:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，我是侧载选项的新手，任何见解都值得赞赏。现在我使用的是 14 和 18.2 测试版。最简单的方法是什么可以让应用程序在 7 天后不被撤销？这开始成为一种麻烦。开发者证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1glodpi/hi_im_new_to_sideloading_options_and_any_insight/</link>
+      <description><![CDATA[我看到开发证书只要 99 美元，据说可以使用一年。     提交人    /u/_Chris-P-Bacon-   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1glodpi/hi_im_new_to_sideloading_options_and_any_insight/</guid>
+      <pubDate>Thu, 07 Nov 2024 11:34:34 GMT</pubDate>
+    </item>
     <item>
       <title>我已经安装并配置了 Sideloadly，但说实话我甚至不知道为什么。我现在能用它做什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1glm3s4/ive_installed_and_configured_sideloadly_but/</link>
-      <description><![CDATA[我只知道可以下载 App Store 中没有的应用程序，但是例如？在哪里可以找到它们？    由    /u/armeliens  提交  [link] [comments]]]></description>
+      <description><![CDATA[我只知道可以下载 App Store 中没有的应用程序，但是例如？在哪里可以找到它们？    由   提交  /u/armeliens   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1glm3s4/ive_installed_and_configured_sideloadly_but/</guid>
       <pubDate>Thu, 07 Nov 2024 08:47:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[下载 Esign 并使其运行。有大量指南介绍如何操作。 要获取 soundcloud： - 访问 appdb 网站（在 google 上搜索） - 搜索 soundcloud。 - 找到名为“Soundcloud Music +, Rov3r”的图标，黑色版本 7.14.0 源 serious.xi - 它会提示您输入电子邮件以下载应用程序，这是为了在 appdb 中注册。照做。安装配置文件。 - 返回 appdb 和上面提到的 soundcloud music + 页面，然后按下载。 - 等待十五秒，然后按“单击此处下载”。 - 它将下载注入 rover 的 soundcloud+ 破解版 ipa。 - 返回 esign - 从文件应用程序导入您在 esign 中下载的 soundcloud ipa。 - 正常签名并安装。 **** 确保使用 gmail 登录，否则应用程序将崩溃，为此，您必须已将您的 soundcloud 配置文件链接到您的 gmail 帐户。您可以在 soundcloud 桌面网站上执行此操作。从今天起，此方法有效！ ******* 之后，您可以根据需要删除 appdb 配置文件，但保留它很方便，因为它是破解的预打包 ipas 的绝佳来源。 很高兴为您解答任何问题，但这肯定有效。为没有广告的 soundcloud 干杯 ;)    提交人    /u/Toe_De   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1glct3y/how_to_get_working_soundcloud_no_ads/</guid>
       <pubDate>Wed, 06 Nov 2024 23:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>33 天后不再有资格获得证书。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glb78r/ineligible_for_certificate_after_33_days/</link>
-      <description><![CDATA[33 天后仍然不符合资格， 添加于 03/10/24 并且仍然不符合资格，有人知道为什么吗？    由   提交  /u/Wowsez   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glb78r/ineligible_for_certificate_after_33_days/</guid>
-      <pubDate>Wed, 06 Nov 2024 22:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>稻米中心</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glayec/ricehub/</link>
-      <description><![CDATA[所以我发现了一个名为 RiceHub 的网站，它上面有免费证书和一些签名者。其中一些已被撤销，但大多数都没有。我不是这个网站的所有者。    提交人    /u/Ispendadayplayingmc1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glayec/ricehub/</guid>
-      <pubDate>Wed, 06 Nov 2024 22:23:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
