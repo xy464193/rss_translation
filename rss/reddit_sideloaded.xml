@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 08 Nov 2024 00:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 03:14:26 GMT</lastBuildDate>
+    <item>
+      <title>苹果系统应用程序库？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm7zgm/apple_system_app_repo/</link>
+      <description><![CDATA[我正在寻找一个包含系统应用程序（如海报板）和类似内容的 repo     提交人    /u/WhyLifeIs4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm7zgm/apple_system_app_repo/</guid>
+      <pubDate>Fri, 08 Nov 2024 02:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助在 UTM 上激活 Jit</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm77d2/need_help_with_activating_jit_on_utm/</link>
+      <description><![CDATA[因此，我尝试使用 2 部手机激活 jit，但每次我尝试激活 jit 并使用快捷方式时，它都会说“错误：服务器找不到设备”在 Alpine 上它说“501 未实现”我想当他们要求输入 UUID 时我输入了错误的东西，这可能是问题所在，但我不确定。    提交人    /u/I_Like_trains694203   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm77d2/need_help_with_activating_jit_on_utm/</guid>
+      <pubDate>Fri, 08 Nov 2024 01:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个非常</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm6ps8/need_a_very/</link>
+      <description><![CDATA[有人可以推荐我一个可以购买证书的 discord 频道/网站吗？这样我就可以侧载应用程序了，我更喜欢证书有效期为一年的，我的证书今天刚刚过期     提交人    /u/Heilige_Kreuzfahrer   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm6ps8/need_a_very/</guid>
+      <pubDate>Fri, 08 Nov 2024 01:18:34 GMT</pubDate>
+    </item>
     <item>
       <title>要求苹果登录的应用程序是骗局吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gm4alz/are_apps_asking_for_an_apple_login_a_scam/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[大家好， 我有一个 Apple 开发者帐户，并创建了我自己的 p12 和移动配置文件。 这些文件包含朋友和家人设备的 UDID，因此任何获得证书（甚至密码）并尝试使用证书进行侧载的人都会收到应用程序完整性错误消息。 所以想知道的是，如果有人设法获取了这两个文件甚至密码，他们是否可以以任何方式使用证书或从证书中获取其他任何东西？    提交人    /u/shanhanif1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gm2cpm/apple_developer_p12_and_mobile_provision_if/</guid>
       <pubDate>Thu, 07 Nov 2024 21:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助激活 jit</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gm2b0i/need_help_activating_jit/</link>
-      <description><![CDATA[所以我有两部手机，一部是 iPhone 11，一部是 iPhone 7 Plus。iPhone 11 运行 iOS 17.1，iPhone 7 Plus 运行 iOS 15.7.9。我想用我的 7 plus 在我的 11 上激活 jit。我和一个人聊天，他帮了我一点忙，但他不再回复我了，现在已经 2 周了，所以我想可以肯定地说他不会再帮助我了。但我现在的状况是，我的 7 plus 上有 UTM（使用 troll store 下载），有 alpine 和 alpine jit streamer，两部手机上都有 Tailscale。有人能帮我下一步该怎么做吗？我还想知道如果我使用实时容器，我还能激活 jit 吗？谢谢阅读    提交人    /u/I_Like_trains694203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gm2b0i/need_help_activating_jit/</guid>
-      <pubDate>Thu, 07 Nov 2024 21:55:39 GMT</pubDate>
     </item>
     <item>
       <title>在 iPadOS 上侧载</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[      正如您在图片中看到的那样，我的所有 id 都已过期，但我的活跃应用程序的 id 并没有得到新的。这些应用程序仍然有效。是因为 SparseBox 吗？还是这是正常的？    提交人    /u/Jacket124   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1glw6qv/app_ids_just_disappeared/</guid>
       <pubDate>Thu, 07 Nov 2024 17:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何新闻应用均可侧载，无需任何💰墙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glvvsr/any_news_app_to_sideload_without_any_wall/</link>
-      <description><![CDATA[有没有我可以不受💰墙限制侧载的新闻应用？ 找了很多地方，但是都没有运气。    提交人    /u/falsa_chikoo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glvvsr/any_news_app_to_sideload_without_any_wall/</guid>
-      <pubDate>Thu, 07 Nov 2024 17:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在怎么办？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gluubf/what_now/</link>
-      <description><![CDATA[SideStore 说不可用？    提交人    /u/Slow_Display9784   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gluubf/what_now/</guid>
-      <pubDate>Thu, 07 Nov 2024 16:43:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
