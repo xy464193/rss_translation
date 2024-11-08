@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 21:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 00:45:44 GMT</lastBuildDate>
+    <item>
+      <title>要求苹果登录的应用程序是骗局吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm4alz/are_apps_asking_for_an_apple_login_a_scam/</link>
+      <description><![CDATA[我从 AppTesters 侧面加载了最新的 Genie 更新，每次打开时都会提示我输入 Apple ID 信息。这对我来说是个骗局，但我还是再检查一下吧。r/    提交人    /u/captn1776   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm4alz/are_apps_asking_for_an_apple_login_a_scam/</guid>
+      <pubDate>Thu, 07 Nov 2024 23:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLite 后台播放</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm2wo4/ytlite_background_playback/</link>
+      <description><![CDATA[      https://github.com/dayanch96/YTLite  知道为什么 iPadOS 上后台播放不起作用吗？我在播放视频时单击主页按钮，然后继续听到声音，但什么也没有显示。 https://preview.redd.it/kh3a614a1kzd1.png?width=640&amp;format=png&amp;auto=webp&amp;s=7a6b0854195820f0005758407c6e28d3e717ce1a https://preview.redd.it/iqx9lty01kzd1.png?width=645&amp;format=png&amp;auto=webp&amp;s=2b6d5587f04fef67e82cf0c1d1635ff29d96ccb7    提交人    /u/avidrunner84   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm2wo4/ytlite_background_playback/</guid>
+      <pubDate>Thu, 07 Nov 2024 22:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果开发商 p12 及移动条款-如果泄露会有什么风险？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm2cpm/apple_developer_p12_and_mobile_provision_if/</link>
+      <description><![CDATA[大家好， 我有一个 Apple 开发者帐户，并创建了我自己的 p12 和移动配置文件。 这些文件包含朋友和家人设备的 UDID，因此任何获得证书（甚至密码）并尝试使用证书进行侧载的人都会收到应用程序完整性错误消息。 所以想知道的是，如果有人设法获取了这两个文件甚至密码，他们是否可以以任何方式使用证书或从证书中获取其他任何东西？    提交人    /u/shanhanif1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm2cpm/apple_developer_p12_and_mobile_provision_if/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助激活 jit</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm2b0i/need_help_activating_jit/</link>
+      <description><![CDATA[所以我有两部手机，一部是 iPhone 11，一部是 iPhone 7 Plus。iPhone 11 运行 iOS 17.1，iPhone 7 Plus 运行 iOS 15.7.9。我想用我的 7 plus 在我的 11 上激活 jit。我和一个人聊天，他帮了我一点忙，但他不再回复我了，现在已经 2 周了，所以我想可以肯定地说他不会再帮助我了。但我现在的状况是，我的 7 plus 上有 UTM（使用 troll store 下载），有 alpine 和 alpine jit streamer，两部手机上都有 Tailscale。有人能帮我下一步该怎么做吗？我还想知道如果我使用实时容器，我还能激活 jit 吗？谢谢阅读    提交人    /u/I_Like_trains694203   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm2b0i/need_help_activating_jit/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iPadOS 上侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm1sn1/sideloading_on_ipados/</link>
+      <description><![CDATA[我已经拥有来自 KravaSign 的证书 - 但如何在 iPad 上安装 Scarlet？ 我想安装以下 ipa： uYouPlus Spotify+ Duolingo+    提交人    /u/avidrunner84   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm1sn1/sideloading_on_ipados/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:33:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 高级版免费</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gm1hvp/spotify_prenium_for_free/</link>
+      <description><![CDATA[我只是想在我的 iPhone XR 上免费获得 Spotify 高级版，但我一直收到撤销通知，而且我不想越狱我的手机。我该怎么办？     提交人    /u/Kurai_Okami2285   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gm1hvp/spotify_prenium_for_free/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助寻找 ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gm16pr/need_help_finding_a_ipa/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[SideStore 说不可用？    提交人    /u/Slow_Display9784   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gluubf/what_now/</guid>
       <pubDate>Thu, 07 Nov 2024 16:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 iOS 18.01 的 alt 商店指南，不需要 Mac？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gltx2d/is_there_an_alt_store_guide_for_ios_1801_that/</link>
-      <description><![CDATA[它可以包含 Windows，但不能包含 Mac     由   提交  /u/That-Mountain6079   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gltx2d/is_there_an_alt_store_guide_for_ios_1801_that/</guid>
-      <pubDate>Thu, 07 Nov 2024 16:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈阿德</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gltvjk/haaaard/</link>
-      <description><![CDATA[为什么找游戏这么难？就像找到任何经过调整的应用程序都很容易，但找游戏却很难，我真的不想要任何 h@cK 或类似的东西，我只想玩游戏 😩    提交人    /u/SanguineLoki700   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gltvjk/haaaard/</guid>
-      <pubDate>Thu, 07 Nov 2024 16:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 14 版 iPad 的最佳 Youtube 调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gltnpk/best_youtube_tweak_actually_for_ipad_on_ios_14/</link>
-      <description><![CDATA[嗨，我正在尝试为 YouTube 寻找最佳插件，我已经尝试过 YTLitePlus、uYou+ 和 uYouEnhanced，但它们都无法在我的 iPad 上使用。唯一可以启动的是 uYou+，但它实际上不太好用，因为只要我播放视频，我就无法在不退出应用程序的情况下退出全屏模式（这很不方便）。我想知道要安装哪个插件，更重要的是，要安装哪个版本，因为对我来说没有一个插件起作用，我真的不明白为什么。 我有一台 12.9 英寸的 iPad Pro，装有 iOS 14，我正在用 Taurine 越狱。 请帮帮我。    提交人    /u/Xplit49   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gltnpk/best_youtube_tweak_actually_for_ipad_on_ios_14/</guid>
-      <pubDate>Thu, 07 Nov 2024 15:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于使用什么来进行侧载，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glsa26/any_recommendations_on_what_to_use_to_sideload/</link>
-      <description><![CDATA[我想侧载，但不知道用什么。有什么建议吗？    提交人    /u/toothpasteater71   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glsa26/any_recommendations_on_what_to_use_to_sideload/</guid>
-      <pubDate>Thu, 07 Nov 2024 14:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scarlet 下载 当我点击验证时，它只是退出并再次询问</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glqrjg/scarlet_downlaod_when_i_click_verify_it_just/</link>
-      <description><![CDATA[        提交人    /u/SeveralAfternoon2025   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glqrjg/scarlet_downlaod_when_i_click_verify_it_just/</guid>
-      <pubDate>Thu, 07 Nov 2024 13:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助 - 尽管证书有效，但仍无法安装应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1glqmh2/help_needed_unable_to_install_apps_despite_valid/</link>
-      <description><![CDATA[大家好， 我遇到了一个令人沮丧的问题。我最近购买了一个证书（大约一周前），Feather 和 eSign 中的一切都显示正常。但是，我无法安装任何新应用，例如“YouTube OLED”。我不断收到一条错误消息，提示“无法安装...无法安装此应用，因为无法验证其完整性。” 奇怪的是，我的其他应用仍然可以打开并正常工作，但我无法安装任何新应用。我尝试重新检查我的证书，结果显示正常，所以我真的很困惑。有人遇到过类似的事情吗？或者有关于如何修复此问题的任何提示吗？ 提前致谢！    提交人    /u/Mysterious-Law-5583   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1glqmh2/help_needed_unable_to_install_apps_despite_valid/</guid>
-      <pubDate>Thu, 07 Nov 2024 13:38:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
