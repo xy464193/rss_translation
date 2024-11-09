@@ -4,11 +4,39 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 09 Nov 2024 09:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 12:16:35 GMT</lastBuildDate>
+    <item>
+      <title>有谁知道 YouTube 音乐插件可以让你以高质量下载曲目吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gn7wv6/does_anyone_know_a_youtube_music_tweak_that_lets/</link>
+      <description><![CDATA[ytmusicultimate 下载的曲目声音太模糊，而且无法在 YouTube 音乐中下载，更不用说从现在开始你需要制作自己的侧载包，那么有没有其他选择或者最新的可用安全版本呢？提前谢谢了。    提交人    /u/ValuableSeesaw8199   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gn7wv6/does_anyone_know_a_youtube_music_tweak_that_lets/</guid>
+      <pubDate>Sat, 09 Nov 2024 11:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 SideStore 的几个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gn6s45/few_questions_about_sidestore/</link>
+      <description><![CDATA[我有一个可用的 App ID，正在考虑安装 SideStore。我只是想知道；   当我安装它时，如果一切都通过 AltStore 完成，我如何通过 SideStore 安装应用程序？  最好等到所有 App ID 都过期吗？  据我所知，SideStore 不会像 AltStore 那样自动刷新。此功能已经实现了吗？  Live Container 可以在 SideStore 上运行吗？（它在 AltStore 上对我来说不起作用，因此我想尝试 SideStore）     提交人    /u/CurrentRisk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gn6s45/few_questions_about_sidestore/</guid>
+      <pubDate>Sat, 09 Nov 2024 09:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>听起来可能很蠢但是......</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gn6nni/might_sound_stupid_but/</link>
+      <description><![CDATA[      我需要 GBox 方面的帮助。它说我需要设备 UDID 才能继续，但它不起作用，有人能帮忙吗？我对侧载还不太熟悉，所以是的     提交人    /u/chocoxcatt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gn6nni/might_sound_stupid_but/</guid>
+      <pubDate>Sat, 09 Nov 2024 09:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“解密的 ipas”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gn6clw/regarding_decryptd_ipas/</link>
+      <description><![CDATA[为什么在大多数关于使用 esign 或任何其他主流签名器注入 igamegod 的教程中，您需要解密的 ipa，普通 ipa 和解密 ipa 之间的主要区别是什么？（我是侧载新手，所以不要指望我能有什么聪明的见解😂）    提交人    /u/Alarming-Wheel-9253   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gn6clw/regarding_decryptd_ipas/</guid>
+      <pubDate>Sat, 09 Nov 2024 09:19:40 GMT</pubDate>
+    </item>
     <item>
       <title>侧载应用程序没有安装其手表配套应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gn676r/sideloaded_app_doesnt_install_its_watch_companion/</link>
-      <description><![CDATA[嗨 我使用 Feather 安装了特定的计步器应用，但 Apple Watches 的配套应用没有安装。我可以做哪些更改来使其正常工作？如果我再次重新安装 Appstore 版本，配套应用几乎会立即安装。 PS：我使用的是 AppTesters 的证书。 谢谢！    提交人    /u/sammyke007   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我使用 Feather 安装了特定的计步器应用，但 Apple Watches 的配套应用没有安装。我可以做哪些更改来使其正常工作？如果我重新安装 Appstore 版本，配套应用几乎会立即安装。 PS：我使用的是 AppTesters 的证书。 谢谢！    提交人    /u/sammyke007   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gn676r/sideloaded_app_doesnt_install_its_watch_companion/</guid>
       <pubDate>Sat, 09 Nov 2024 09:08:35 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>羽毛更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gn33ds/feather_update/</link>
-      <description><![CDATA[随着 Feather 的最新更新。如何更新并保留所有 repo/设置？在他们的网站上找不到任何东西。    提交人    /u/mickg72   [link] [comments]]]></description>
+      <description><![CDATA[随着 Feather 的最新更新。如何更新并保留所有 repo/设置？在他们的网站上找不到任何东西。     提交人    /u/mickg72   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gn33ds/feather_update/</guid>
       <pubDate>Sat, 09 Nov 2024 05:30:11 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨， 我正在使用 Facebook wolf IPA，它很棒。但是，市场页面不起作用。有人知道修复方法或替代 IPA 吗？ 干杯！    由    /u/mhamzas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gmzfl4/facebook_wolf_marketplace_issue/</guid>
       <pubDate>Sat, 09 Nov 2024 02:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳电影应用 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmyx1m/best_movie_app_ipa/</link>
-      <description><![CDATA[HDO play 是我最喜欢的电影应用程序，对于我能想到的任何电影，它拥有超过 1000000 部电影，并且仍有电影在影院上映！    提交人    /u/Electrical-Shine-131   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmyx1m/best_movie_app_ipa/</guid>
-      <pubDate>Sat, 09 Nov 2024 01:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satella 错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmy9ak/satella_error/</link>
-      <description><![CDATA[当我尝试在某个应用程序上使用 satella 时，特别是 swordy quest，我收到一条错误消息，提示无法删除框架。某些 ipa 文件是否无法使用 satella 破解，或者这里可能发生了什么？谢谢。    提交人    /u/Jbklan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmy9ak/satella_error/</guid>
-      <pubDate>Sat, 09 Nov 2024 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmxnp0/help/</link>
-      <description><![CDATA[刷新 Sidestore 或安装 Sidestore ipa 不起作用，我已经 -3 天了，但仍然可以刷新我的应用程序？我应该做些什么吗？    提交人    /u/erdeMxd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmxnp0/help/</guid>
-      <pubDate>Sat, 09 Nov 2024 00:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>保存应用数据</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmwn17/save_app_datas/</link>
-      <description><![CDATA[当电子签名被撤销时，如何保存应用程序的数据？    提交人    /u/ExcuseSpecialist5026   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmwn17/save_app_datas/</guid>
-      <pubDate>Fri, 08 Nov 2024 23:44:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
