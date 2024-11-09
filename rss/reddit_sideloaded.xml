@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 08 Nov 2024 21:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 00:45:04 GMT</lastBuildDate>
+    <item>
+      <title>帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gmxnp0/help/</link>
+      <description><![CDATA[刷新 Sidestore 或安装 Sidestore ipa 不起作用，我已经 -3 天了，但仍然可以刷新我的应用程序？我应该做些什么吗？    提交人    /u/erdeMxd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gmxnp0/help/</guid>
+      <pubDate>Sat, 09 Nov 2024 00:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>保存应用数据</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gmwn17/save_app_datas/</link>
+      <description><![CDATA[当电子签名被撤销时，如何保存应用程序的数据？    提交人    /u/ExcuseSpecialist5026   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gmwn17/save_app_datas/</guid>
+      <pubDate>Fri, 08 Nov 2024 23:44:35 GMT</pubDate>
+    </item>
     <item>
       <title>最佳签约服务</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gmrgfh/best_signing_service/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>苹果开发者账户被标记超过 20 台设备？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gmq4nc/apple_developer_account_flagged_for_more_than_20/</link>
-      <description><![CDATA[想要在某人的苹果开发者帐户上购买一个位置。有人告诉我，尽管从技术上讲，一个苹果开发者帐户允许 100 个不同的设备，但如果你使用的设备超过 20 个，苹果就会标记（甚至可能禁止）你的帐户？这是真的吗？ 如果不是，那么为什么每个人都要为一个帐户收取 7 美元或 12 美元，而他们可以收取 1 美元，让每个人都享受最便宜的价格。    提交人    /u/CreeperBoy283   [链接] [评论]]]></description>
+      <description><![CDATA[想要在某人的苹果开发者帐户上购买一个位置。有人告诉我，尽管从技术上讲，一个苹果开发者帐户允许 100 个不同的设备，但如果你使用的设备超过 20 个，苹果就会标记（甚至可能禁止）你的帐户？这是真的吗？ 如果不是，那么为什么每个人都要为一个帐户收取 7 美元或 12 美元，而他们可以收取 1 美元，让每个人都能享受最便宜的价格。    提交人    /u/CreeperBoy283   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gmq4nc/apple_developer_account_flagged_for_more_than_20/</guid>
       <pubDate>Fri, 08 Nov 2024 18:57:56 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>[问题] 有没有可以在 iOS 15.8 上运行的 messenger/reddit IPA？（iphone 7、palera1n）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gmhbob/question_any_messengerreddit_ipa_that_might_work/</link>
-      <description><![CDATA[我目前正在寻找此应用程序的任何工作版本。我无法登录 Apple ID（设备已被前任所有者绕过）。这两个应用程序是我唯一要找的应用程序。我将不胜感激任何帮助！    提交人    /u/paintedirondoor   [link] [评论]]]></description>
+      <description><![CDATA[我目前正在寻找此应用程序的任何工作版本。我无法登录 Apple ID（设备已被前任所有者绕过）。这两个应用程序是我唯一要找的。我将不胜感激任何帮助！    提交人    /u/paintedirondoor   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gmhbob/question_any_messengerreddit_ipa_that_might_work/</guid>
       <pubDate>Fri, 08 Nov 2024 12:26:21 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人知道如何在 iOS 上安装 HappyMod 吗？    提交人    /u/Dennexal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gmf8n9/how_do_i_install_happymod/</guid>
       <pubDate>Fri, 08 Nov 2024 10:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何安装 2017 年的 Android 游戏吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmf5cq/anybody_know_how_to_install_an_android_game_from/</link>
-      <description><![CDATA[我想安装我以前在旧三星手机上玩过的一款游戏（Driving School 2017）（现在非常卡），我想使用 Feather 或 E-Sign 将游戏的 APK 文件安装到我的 iPhone 上。我尝试使用 Unzip 更改文件扩展名，并尝试将文件命名为 Payload。但是，我遇到了麻烦。有人能帮我吗？    提交人    /u/Dennexal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmf5cq/anybody_know_how_to_install_an_android_game_from/</guid>
-      <pubDate>Fri, 08 Nov 2024 10:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmekl4/sidestore_crashes/</link>
-      <description><![CDATA[我已经快一个月了，每次都要用 altstore 手动刷新 sidestore，所以它完全失去了吸引力。自从我每次从 sidestore 刷新 sidestore 应用程序时都换了一部新 iPhone 以来，之后就无法再执行该应用程序，它会立即崩溃。有人知道如何解决这个问题吗？    提交人    /u/WalkZz932   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmekl4/sidestore_crashes/</guid>
-      <pubDate>Fri, 08 Nov 2024 09:17:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
