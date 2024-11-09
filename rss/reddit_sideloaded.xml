@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 09 Nov 2024 12:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 15:10:21 GMT</lastBuildDate>
+    <item>
+      <title>各位，我被列入黑名单了吗？（使用 Kravasign/maplesign 证书）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gna7ah/guys_am_i_blacklisted_using_kravasignmaplesign/</link>
+      <description><![CDATA[        提交人    /u/sKream01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gna7ah/guys_am_i_blacklisted_using_kravasignmaplesign/</guid>
+      <pubDate>Sat, 09 Nov 2024 13:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我被证书列入黑名单，我该重置我的 iPad 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gn9yqb/if_im_blacklisted_from_a_certificate_do_i_reset/</link>
+      <description><![CDATA[我基本上被所有免费证书列入了黑名单，我想取消这个黑名单，所以我想重置，没有其他办法了吗？    提交人    /u/R-d-8   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gn9yqb/if_im_blacklisted_from_a_certificate_do_i_reset/</guid>
+      <pubDate>Sat, 09 Nov 2024 13:20:51 GMT</pubDate>
+    </item>
     <item>
       <title>有谁知道 YouTube 音乐插件可以让你以高质量下载曲目吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gn7wv6/does_anyone_know_a_youtube_music_tweak_that_lets/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>侧载应用程序没有安装其手表配套应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gn676r/sideloaded_app_doesnt_install_its_watch_companion/</link>
-      <description><![CDATA[嗨 我使用 Feather 安装了特定的计步器应用，但 Apple Watches 的配套应用没有安装。我可以做哪些更改来使其正常工作？如果我重新安装 Appstore 版本，配套应用几乎会立即安装。 PS：我使用的是 AppTesters 的证书。 谢谢！    提交人    /u/sammyke007   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我使用 Feather 安装了特定的计步器应用，但 Apple Watches 的配套应用没有安装。我可以做哪些更改来使其正常工作？如果我再次重新安装 Appstore 版本，配套应用几乎会立即安装。 PS：我使用的是 AppTesters 的证书。 谢谢！    提交人    /u/sammyke007   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gn676r/sideloaded_app_doesnt_install_its_watch_companion/</guid>
       <pubDate>Sat, 09 Nov 2024 09:08:35 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>羽毛更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gn33ds/feather_update/</link>
-      <description><![CDATA[随着 Feather 的最新更新。如何更新并保留所有 repo/设置？在他们的网站上找不到任何东西。     提交人    /u/mickg72   [link] [comments]]]></description>
+      <description><![CDATA[随着 Feather 的最新更新。如何更新并保留所有 repo/设置？在他们的网站上找不到任何东西。    提交人    /u/mickg72   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gn33ds/feather_update/</guid>
       <pubDate>Sat, 09 Nov 2024 05:30:11 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我很确定我的证书被苹果禁止了，当我尝试侧载任何应用程序（例如 esign 或 ios gods 上的应用程序）时，它说它们无法下载，甚至不会在我的管理设置中弹出以进行验证。如果我购买了 udidregistrations 或 kravasign 等签名服务，是否可以解决禁令并允许我侧载？还是我必须重置我的设备才能在尝试任何侧载服务之前解除禁令？    提交人    /u/MediumDizzy7146   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gn10g1/cert_banned_from_apple/</guid>
       <pubDate>Sat, 09 Nov 2024 03:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录 YouTube 和 YTMusic Sideloaded 应用。Google 无法确认其是否安全</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gn0j77/cant_sign_into_youtube_and_ytmusic_sideloaded/</link>
-      <description><![CDATA[我有一部已越狱的 iPhone 14 Pro Max 16.4.1，我在手机上安装了 YTLitePlus（YouTube 版本 19.44.4）和 YTMusicUltimate（YouTube Music 7.25.4）。我使用 TrollDecrypt 解密了这两个应用。在使用 Sideloadly 将它们侧载到朋友的未越狱 iPhone 13 Pro 后，这两个应用都不允许他们使用 Google 帐户登录。系统显示“无法让您登录”。“您无法登录此应用，因为 Google 无法确认它是否安全。” 他们的手机上开启了开发者模式，我们从未使用过任何证书服务或其他任何东西。我该如何解决这个问题？    提交人    /u/kaykay919   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gn0j77/cant_sign_into_youtube_and_ytmusic_sideloaded/</guid>
-      <pubDate>Sat, 09 Nov 2024 03:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 狼市场问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gmzfl4/facebook_wolf_marketplace_issue/</link>
-      <description><![CDATA[嗨， 我正在使用 Facebook wolf IPA，它很棒。但是，市场页面不起作用。有人知道修复方法或替代 IPA 吗？ 干杯！    由    /u/mhamzas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gmzfl4/facebook_wolf_marketplace_issue/</guid>
-      <pubDate>Sat, 09 Nov 2024 02:01:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
