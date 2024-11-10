@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 10 Nov 2024 09:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 12:16:25 GMT</lastBuildDate>
+    <item>
+      <title>使用搭载 watchOS 11 的 Apple Watch S10 和搭载 iOS 15.6 的 iPhone 13</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gny28i/using_an_apple_watch_s10_on_watchos_11_with_an/</link>
+      <description><![CDATA[有没有办法将我的 Apple Watch S10 与运行 iOS 15.6 的 iPhone 13 配对？我不想通过更新丢失此版本。 任何帮助都将不胜感激。    提交人    /u/TrippinGod   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gny28i/using_an_apple_watch_s10_on_watchos_11_with_an/</guid>
+      <pubDate>Sun, 10 Nov 2024 10:48:18 GMT</pubDate>
+    </item>
     <item>
       <title>剧透</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gmpsww/spoiler/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我更换了电池，现在 Apple 要求 AASP 和 IRP 仅使用 iOS 18+ 执行更换组件的“校准” 由于这是不可能的，维修店理解并且没有碰 ​​iOS。 但是这给我留下了一个关于未经验证的电池的永久通知徽章。 是否有一些 plist 可以修改以永久永久地禁用主屏幕图标徽章到设置应用程序，我可以使用 Filza 来改变它？    提交人    /u/ffiresnake   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gbvb08/any_way_to_permanently_disable_badges_for/</guid>
       <pubDate>Fri, 25 Oct 2024 14:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府应用程序崩溃</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gaz5uc/government_app_crashing/</link>
-      <description><![CDATA[简单解释一下，我曾经用 dopamine 越狱过一部 iOS 16 版 iPhone，并且安装了 TrollStore，但这部手机最终漏洞百出，使用起来很麻烦。我卸载了越狱软件，以为我删除了所有越狱文件和所有内容。然后我更新到最新版本的 IOS，开始使用 KravaSigner，但发现政府应用程序仍然无法正常工作。  我确实看到一些帖子谈论 Varclean，但我认为那只适用于 trollstore 我被坑了吗？    提交人    /u/Ok_Purple_6557   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gaz5uc/government_app_crashing/</guid>
-      <pubDate>Thu, 24 Oct 2024 10:14:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
