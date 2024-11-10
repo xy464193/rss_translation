@@ -4,27 +4,34 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 10 Nov 2024 12:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 15:09:38 GMT</lastBuildDate>
+    <item>
+      <title>Esign 调整过的应用程序??</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1go1tbq/esign_tweaked_apps/</link>
+      <description><![CDATA[嘿，我有一个问题：我该如何安装 eSign 或其他经过调整的应用程序？我使用的是 iOS 18.1，我的设备没有越狱。    提交人    /u/luca-ks8   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1go1tbq/esign_tweaked_apps/</guid>
+      <pubDate>Sun, 10 Nov 2024 14:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳调整来源？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1go0o7l/best_tweak_sources/</link>
+      <description><![CDATA[有没有人有可用的已监禁调整 .dylib 或 .deb 文件的良好来源，我可以使用 Esign 注入？谢谢！    提交人    /u/YungPlagueGFiveNine   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1go0o7l/best_tweak_sources/</guid>
+      <pubDate>Sun, 10 Nov 2024 13:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助侧载 Snap Chat</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1go03eu/need_help_sideloading_snap_chat/</link>
+      <description><![CDATA[有人能帮我在 Signulous 上侧载 Snap Chat 吗？这样登录 Snap Chat 的调整版本时就不会被暂时禁止吗？    提交人    /u/Ashamed_Phrase_1778   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1go03eu/need_help_sideloading_snap_chat/</guid>
+      <pubDate>Sun, 10 Nov 2024 12:57:40 GMT</pubDate>
+    </item>
     <item>
       <title>将 Apple Watch S10 与运行 iOS 15.6 的 iPhone 配对？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gny2rh/pairing_apple_watch_s10_with_iphone_running_ios/</link>
       <description><![CDATA[有没有办法将我的 Apple Watch S10 与运行 iOS 15.6 的 iPhone 13 配对？我不想通过更新丢失此版本。 任何帮助都将不胜感激。    提交人    /u/TrippinGod   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gny2rh/pairing_apple_watch_s10_with_iphone_running_ios/</guid>
       <pubDate>Sun, 10 Nov 2024 10:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>MovieBoxPro 代码？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gnxgbt/movieboxpro_code/</link>
-      <description><![CDATA[有人可以给我发送 MovieBoxPro 的邀请码吗？    提交人    /u/malynxvskyi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gnxgbt/movieboxpro_code/</guid>
-      <pubDate>Sun, 10 Nov 2024 10:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合游戏的 adblock .dylib？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gnx3t5/best_adblock_dylib_for_games/</link>
-      <description><![CDATA[标题。     由   提交  /u/black_flame1700   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gnx3t5/best_adblock_dylib_for_games/</guid>
-      <pubDate>Sun, 10 Nov 2024 09:38:16 GMT</pubDate>
     </item>
     <item>
       <title>在 ios 17.3.1 上有任何应用程序可以访问核心或 /var 吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我尝试使用 DNS 的快捷方式，但几天后，我的所有应用程序都崩溃了，你们使用的任何有效的防撤销 DNS 配置文件吗？    提交人    /u/batouttahell24   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gngiwh/best_antirevoke_dns_for_ios_17/</guid>
       <pubDate>Sat, 09 Nov 2024 18:29:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SatellaJailed 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gnexmh/satellajailed_issues/</link>
-      <description><![CDATA[基本上我在使用 ios 17.6.1，我正在使用 esign 注入 satella 并签署这些应用程序。每当我将 satella 注入应用程序时，它都会工作一周左右，然后在打开它时崩溃。我想找到这个问题的根源     提交人    /u/SpookyXmorph   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gnexmh/satellajailed_issues/</guid>
-      <pubDate>Sat, 09 Nov 2024 17:18:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
