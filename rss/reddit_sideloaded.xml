@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 11 Nov 2024 03:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 06:15:11 GMT</lastBuildDate>
+    <item>
+      <title>设计后无法访问某些网站</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1goizzu/after_esign_cant_access_certain_websites/</link>
+      <description><![CDATA[安装 esign 后，无法访问由 google ads 重定向的网站。当由 Ad.doubleclick 重定向时，页面不会加载。  我很确定这是我在安装 esign 的说明中安装的 dns 配置 有人有这个问题吗？ 我可以删除名为 khóindvn 的 dns 配置吗？     提交人    /u/Mk3supraholic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1goizzu/after_esign_cant_access_certain_websites/</guid>
+      <pubDate>Mon, 11 Nov 2024 03:36:30 GMT</pubDate>
+    </item>
     <item>
       <title>Mullvad vpn 适合电子设计吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1goh9cz/is_mullvad_vpn_good_for_esign/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有没有人有可用的已监禁调整 .dylib 或 .deb 文件的良好来源，我可以使用 Esign 注入？谢谢！    提交人    /u/YungPlagueGFiveNine   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1go0o7l/best_tweak_sources/</guid>
       <pubDate>Sun, 10 Nov 2024 13:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助侧载 Snap Chat</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1go03eu/need_help_sideloading_snap_chat/</link>
-      <description><![CDATA[有人能帮我在 Signulous 上侧载 Snap Chat 吗？这样登录 Snap Chat 的调整版本时就不会被暂时禁止吗？    提交人    /u/Ashamed_Phrase_1778   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1go03eu/need_help_sideloading_snap_chat/</guid>
-      <pubDate>Sun, 10 Nov 2024 12:57:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
