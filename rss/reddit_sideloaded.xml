@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 12 Nov 2024 15:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 18:13:14 GMT</lastBuildDate>
+    <item>
+      <title>Snapchat 调整 IOS 18</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpr55p/snapchat_tweak_ios_18/</link>
+      <description><![CDATA[嘿，大家有没有 IPA 或一些可以正常工作的 Snapchat 调整程序.. ?? 非常需要这个  ?? 请提出建议..    由   提交  /u/YOURNIKKA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpr55p/snapchat_tweak_ios_18/</guid>
+      <pubDate>Tue, 12 Nov 2024 18:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iPhone 和 iPad 上使用 SideStore 安装侧载应用程序时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpqh5u/issue_installing_sideloaded_apps_with_sidestore/</link>
+      <description><![CDATA[我使用 AltServer 成功在 iPad 上安装了 SideStore，并且运行良好。但是当我尝试在 iPhone 上执行相同的步骤（包括设置新的配对文件）时，它却无法正常工作。我一直尝试重新安装 SideStore，但一直收到错误消息，提示 VPN 或 Wi-Fi 未连接。 现在，我的 iPad 上也出现了同样的错误。Wireguard 已打开，并且两台设备都使用 WiFi。 两台设备都使用同一个 Apple ID，我使用 AltServer 在两台设备上都设置了 SideStore。我是否遗漏了什么？如能得到任何帮助，我们将不胜感激！    提交人    /u/zifmaster1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpqh5u/issue_installing_sideloaded_apps_with_sidestore/</guid>
+      <pubDate>Tue, 12 Nov 2024 17:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>videostar ipa 可以工作吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpqgiz/videostar_ipa_working/</link>
+      <description><![CDATA[如果有人有可以正常使用且有高级版的 videostar ipa，请告诉我！    由    /u/jahaewa 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpqgiz/videostar_ipa_working/</guid>
+      <pubDate>Tue, 12 Nov 2024 17:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYouPlus [问题]</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpq6x5/uyouplus_question/</link>
+      <description><![CDATA[这个问题可能有点傻，但我一点头绪都没有。我看到有人说 uYou+ 的版本是 3.0.4。但我只看到 3.0.3 版本（我有），无法找到 3.0.4 本身的更新。我想用 3.0.4 版本构建另一个 ipa。 所以我想知道我是不是走错了 GitHub 页面，或者我做错了什么。我已经将我的 fork 与当前版本同步，也没有变化。 如果有人能帮助我，我将不胜感激。    提交人    /u/CurrentRisk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpq6x5/uyouplus_question/</guid>
+      <pubDate>Tue, 12 Nov 2024 17:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可与 CarPlay 配合使用的 YouTube ipa 模仿程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpp1jx/is_there_perhaps_a_youtube_ipa_spoof_that_works/</link>
+      <description><![CDATA[最近升级并丢失了我的越狱 iPhone，所以现在正在寻找在 CarPlay 上观看 YouTube 的替代方案。  我在运行 iOS 17.6.1 的 iPhone 14 Pro Max 上    提交人    /u/YoBrisky   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpp1jx/is_there_perhaps_a_youtube_ipa_spoof_that_works/</guid>
+      <pubDate>Tue, 12 Nov 2024 16:42:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以找到 Egret iap 脚本</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpmv76/where_to_find_egret_iap_script/</link>
+      <description><![CDATA[我找了好久都没找到。有什么帮助吗？    提交人    /u/juliousrobins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpmv76/where_to_find_egret_iap_script/</guid>
+      <pubDate>Tue, 12 Nov 2024 15:10:24 GMT</pubDate>
+    </item>
     <item>
       <title>侧载指南</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gpla14/sideloading_guide/</link>
@@ -13,7 +55,7 @@
       <pubDate>Tue, 12 Nov 2024 13:56:39 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 已终止了 Mac 上的侧载功能。</title>
+      <title>Apple 已终止 Mac 上的侧载功能。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gpjykw/apple_had_ended_sideloading_on_macs/</link>
       <description><![CDATA[https://hackaday.com/2024/11/01/apple-forces-the-signing-of-applications-in-macos-sequoia-15-1/    提交人    /u/nastyLake   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gpjykw/apple_had_ended_sideloading_on_macs/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[Snapchat 可以与 Livecontainer 配合使用吗？    提交人    /u/daddycool322   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gpfdaw/is_snapchat_can_work_with_livecontainer/</guid>
       <pubDate>Tue, 12 Nov 2024 07:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornett 浏览器 ++🔥🔥</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpdt74/ornett_browser/</link>
-      <description><![CDATA[2$ wor    由   提交  /u/AggressiveRadish5039   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpdt74/ornett_browser/</guid>
-      <pubDate>Tue, 12 Nov 2024 05:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚变得重要</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpbgmu/just_got_signilous/</link>
-      <description><![CDATA[有人能给我一个链接/号码吗？    提交人    /u/Chemical_Care9353   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpbgmu/just_got_signilous/</guid>
-      <pubDate>Tue, 12 Nov 2024 03:25:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>重命名 Arctic Repo</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp940y/renaming_arctic_repo/</link>
-      <description><![CDATA[我将它重命名为 Arctic-Repo 而不是 ESign-Repo，这样新的链接就会出现，我这样做是因为它现在支持 Altstore 和 Sidestore。链接在这里：https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/refs/heads/main/repo.json 警告：由于我正在更改所有链接，因此所有应用程序都无法运行    提交人    /u/Mrsheep571   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp940y/renaming_arctic_repo/</guid>
-      <pubDate>Tue, 12 Nov 2024 01:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify apk</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp8lyv/spotify_apk/</link>
-      <description><![CDATA[我知道你们经常被问到这个问题，但是哪个 apk 最适合 Spotify，我如何在 iOS 上下载它，我有一部 iPhone 11，谢谢     由   提交  /u/Brownbeholder   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp8lyv/spotify_apk/</guid>
-      <pubDate>Tue, 12 Nov 2024 01:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SIDEJIT 服务器不工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp8hzq/sidejit_server_not_working/</link>
-      <description><![CDATA[      大家好，我一直在尝试为我的 ipad 设置 sidejit 服务器，但是我卡在了以下错误... 尝试了很多方法但是都没有用。 有什么想法吗？ https://preview.redd.it/yjntoqnucd0e1.png?width=849&amp;format=png&amp;auto=webp&amp;s=c46d755cca35bedf646e5c11d5fdc432c1b4da58    提交人    /u/Agile_Citron4709   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp8hzq/sidejit_server_not_working/</guid>
-      <pubDate>Tue, 12 Nov 2024 00:57:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 苹果阻止会停止查找我的吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp7q3l/does_dns_apple_blocking_stop_find_my/</link>
-      <description><![CDATA[自从我设置了 DNS 并设置了所有这些地址后，我的 airpods 似乎就没有按预期显示在“查找我的”中，无法将它们标记为丢失等等，这是正常的吗？    提交人    /u/T0S_XLR8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp7q3l/does_dns_apple_blocking_stop_find_my/</guid>
-      <pubDate>Tue, 12 Nov 2024 00:20:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
