@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 15:10:37 GMT</lastBuildDate>
+    <item>
+      <title>侧载指南</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpla14/sideloading_guide/</link>
+      <description><![CDATA[如果您使用的是 iOS 17 以下版本或 iPad，请按照本指南检查是否可以越狱。它允许自定义和更好地控制您的系统。 您需要使用侧载方法在线安装应用程序。向下滚动以查看一些应用示例。 侧载方法取决于 iOS 版本： iOS 14.0 beta 1 及以下版本：越狱 + AppSync Unified 调整 14.0 beta 2 - 16.7 RC TrollStore 16.7 - 16.7.10 如果兼容，使用 palera1n 越狱并使用 TrollStore Lite 调整，否则SideStore + SparseBox（推荐）/ AltStore + Livecontainer 17.0 beta 1 - 17.0 TrollRestore 17.0.1 及以上版本 SideStore + SparseBox，最高支持 17.7 及 18.0-18.1 beta 4（推荐） / AltStore + Livecontainer 如果您不能使用 SparseBox，请尝试 Livecontainer！ 您可以侧载的一些应用程序 EeveeSpotify YTLitePlus/Youtube Reborn+ 您自己的责任，如果您通过 TrollStore 安装 IPA 并忽略黄色/橙色警告文本，您可能会获得间谍软件的可能性很小。 更多应用程序： https://github.com/Neoncat-OG/TrollStore-IPAs（检查 apps.json 并搜索）    提交人    /u/mkwlink   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpla14/sideloading_guide/</guid>
+      <pubDate>Tue, 12 Nov 2024 13:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 已终止了 Mac 上的侧载功能。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpjykw/apple_had_ended_sideloading_on_macs/</link>
+      <description><![CDATA[https://hackaday.com/2024/11/01/apple-forces-the-signing-of-applications-in-macos-sequoia-15-1/    提交人    /u/nastyLake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpjykw/apple_had_ended_sideloading_on_macs/</guid>
+      <pubDate>Tue, 12 Nov 2024 12:49:30 GMT</pubDate>
+    </item>
     <item>
       <title>ISO Reddit 和 Facebook</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gpijj2/iso_reddit_and_facebook/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[自从我设置了 DNS 并设置了所有这些地址后，我的 airpods 似乎就没有按预期显示在“查找我的”中，无法将它们标记为丢失等等，这是正常的吗？    提交人    /u/T0S_XLR8   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gp7q3l/does_dns_apple_blocking_stop_find_my/</guid>
       <pubDate>Tue, 12 Nov 2024 00:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.0.1 上无法侧载超过 3 个应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp6sae/cant_sideload_more_than_3_apps_on_ios_1801/</link>
-      <description><![CDATA[      大家好，我获得了 18.0.1 和 3 个应用程序限制绕过，但我无法添加超过 3 个应用程序？如能得到任何帮助，我们将不胜感激     提交人    /u/CoolAbies2968   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp6sae/cant_sideload_more_than_3_apps_on_ios_1801/</guid>
-      <pubDate>Mon, 11 Nov 2024 23:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧向装载有危险吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gp6c8f/can_side_loading_dangerous/</link>
-      <description><![CDATA[我已经使用侧载大约 2 个月了，但我想知道是否有可能对 Apple ID 或手机总体上造成影响。Ipa 可能带有恶意软件？    提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gp6c8f/can_side_loading_dangerous/</guid>
-      <pubDate>Mon, 11 Nov 2024 23:17:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

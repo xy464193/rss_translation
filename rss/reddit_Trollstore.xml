@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 15:10:30 GMT</lastBuildDate>
+    <item>
+      <title>使用相册而不是相机上传照片？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</link>
+      <description><![CDATA[iOS 上的某些应用不允许从相册上传照片。它们请求相机权限才能拍照，但由于缺乏优化或谨慎，这些应用只能拍摄出糟糕的照片。  出于隐私原因，我也不想授予它相机权限。  是否有针对此类应用的调整或解决方法？    提交人    /u/texplorer1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</guid>
+      <pubDate>Tue, 12 Nov 2024 13:59:24 GMT</pubDate>
+    </item>
     <item>
       <title>尝试在 iPhone 7 15.8.3 上安装 Trollstore，当我按下“安装”时，它崩溃了，并且没有要求选择应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gox8p7/trying_to_install_trollstore_on_iphone_7_1583/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>我搞砸了，更新到了 ios 17，我很想念使用 troll store。Esign 让我很累。有没有办法可以减少麻烦的侧载？或者将 ios 降级到 15。我只需要侧载 alarmy、spotify 和 YouTube。</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ghivzd/i_messed_up_and_updated_to_ios_17_i_miss_using/</link>
-      <description><![CDATA[与上相同。     由    /u/kittioma 提交   [link] [comments]]]></description>
+      <description><![CDATA[同上。     由    /u/kittioma 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ghivzd/i_messed_up_and_updated_to_ios_17_i_miss_using/</guid>
       <pubDate>Fri, 01 Nov 2024 23:22:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好，出于某种原因，我在使用 Trollstore 安装 IB2 时遇到了困难。IB1 和 IB3 安装正常。这是在 iOS 15.8.3 上越狱的 iPhone 7 Plus，由于 Appsync 不再工作，我无法使用 Filza 安装它。Sideloadly 安装正常，但只有 7 天，这让我很恼火，所以如果您知道如何修复 Trollstore 中的安装或以某种方式永久安装它，我将不胜感激。谢谢。    提交人    /u/Volo_Kin   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gfug22/install_error_181_help/</guid>
       <pubDate>Wed, 30 Oct 2024 19:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 TrollStore 隐藏特定应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gdlma3/hide_specific_apps_with_trollstore/</link>
-      <description><![CDATA[正如标题所述，我需要隐藏主屏幕和搜索结果中的特定应用程序， TrollStore 是否有任何可用选项，我在 iOS 16.1.2 上， 特别是来自 GF 的约会应用程序    提交人    /u/realtor_dubai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gdlma3/hide_specific_apps_with_trollstore/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:21:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
