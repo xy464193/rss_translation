@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 12 Nov 2024 21:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 00:46:39 GMT</lastBuildDate>
+    <item>
+      <title>无法在实时容器中选择文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpxzh4/cant_select_file_in_live_container/</link>
+      <description><![CDATA[      我需要帮助在 Live Container 中选择文件，因为它不让我这么做。有人知道怎么做吗？     提交人    /u/deluvxe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpxzh4/cant_select_file_in_live_container/</guid>
+      <pubDate>Tue, 12 Nov 2024 22:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法验证完整性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpwihw/integrity_could_not_be_verified/</link>
+      <description><![CDATA[所以我试图下载 scarlet，但每次我点击它时，它都说无法验证完整性，我已恢复出厂设置，我尝试使用不同的直接安装，但它们都一直给我相同的消息，当我这样做时，它旁边有重新下载云，请提供任何帮助    提交人    /u/Interesting_Big_8091   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpwihw/integrity_could_not_be_verified/</guid>
+      <pubDate>Tue, 12 Nov 2024 21:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLite Plus 最新消息</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gpwerl/ytlite_plus_breaking/</link>
+      <description><![CDATA[我想知道为什么 YTLite 每隔一天就会崩溃，当我签名并使用大约 2-3 天后，它不让我打开应用程序，它总是突然崩溃，其他所有应用程序都运行正常。我有一个 UDID 证书     提交人    /u/Square_Letterhead_63   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gpwerl/ytlite_plus_breaking/</guid>
+      <pubDate>Tue, 12 Nov 2024 21:44:24 GMT</pubDate>
+    </item>
     <item>
       <title>查找 bundleId 的快捷方式</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gpvewo/shortcut_for_finding_bundleid/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这个问题可能有点傻，但我一点头绪都没有。我看到有人说 uYou+ 的版本是 3.0.4。但我只看到 3.0.3 版本（我有），无法找到 3.0.4 本身的更新。我想用 3.0.4 版本构建另一个 ipa。 所以我想知道我是不是走错了 GitHub 页面，或者我做错了什么。我已经将我的 fork 与当前版本同步，也没有变化。 如果有人能帮助我，我将不胜感激。    提交人    /u/CurrentRisk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gpq6x5/uyouplus_question/</guid>
       <pubDate>Tue, 12 Nov 2024 17:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可与 CarPlay 配合使用的 YouTube ipa 模仿程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpp1jx/is_there_perhaps_a_youtube_ipa_spoof_that_works/</link>
-      <description><![CDATA[最近升级并丢失了我的越狱 iPhone，所以现在正在寻找在 CarPlay 上观看 YouTube 的替代方案。  我在运行 iOS 17.6.1 的 iPhone 14 Pro Max 上    提交人    /u/YoBrisky   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpp1jx/is_there_perhaps_a_youtube_ipa_spoof_that_works/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以找到 Egret iap 脚本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpmv76/where_to_find_egret_iap_script/</link>
-      <description><![CDATA[我找了好久都没找到。有什么帮助吗？ EDIT egern，不是 egret    提交人    /u/juliousrobins   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpmv76/where_to_find_egret_iap_script/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载指南</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpla14/sideloading_guide/</link>
-      <description><![CDATA[如果您使用的是 iOS 17 以下版本或 iPad，请按照本指南检查是否可以越狱。它允许自定义和更好地控制您的系统。 您需要使用侧载方法在线安装应用程序。向下滚动以查看一些应用示例。 侧载方法取决于 iOS 版本： iOS 14.0 beta 1 及以下版本：越狱 + AppSync Unified 调整 14.0 beta 2 - 16.7 RC TrollStore 16.7 - 16.7.10 如果兼容，使用 palera1n 越狱并使用 TrollStore Lite 调整，否则SideStore + SparseBox（推荐）/ AltStore + Livecontainer 17.0 beta 1 - 17.0 TrollRestore 17.0.1 及以上版本 SideStore + SparseBox，最高支持 17.7 及 18.0-18.1 beta 4（推荐） / AltStore + Livecontainer 如果您不能使用 SparseBox，请尝试 Livecontainer！ 您可以侧载的一些应用程序 EeveeSpotify YTLitePlus/Youtube Reborn+ 您自己的责任，如果您通过 TrollStore 安装 IPA 并忽略黄色/橙色警告文本，您可能会获得间谍软件的可能性很小。 更多应用程序： https://github.com/Neoncat-OG/TrollStore-IPAs（检查 apps.json 并搜索）    提交人    /u/mkwlink   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpla14/sideloading_guide/</guid>
-      <pubDate>Tue, 12 Nov 2024 13:56:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
