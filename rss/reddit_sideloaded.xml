@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 13 Nov 2024 18:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 21:09:49 GMT</lastBuildDate>
+    <item>
+      <title>Sideloadly v0.55.0 更新！更快的侧载、进度/应用程序 ID 指示器等！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gqmdff/sideloadly_v0550_update_faster_sideloading/</link>
+      <description><![CDATA[问候！ 自上次发布 Sideloadly 更新以来已经有一段时间了，但我们很高兴为您带来一些重要的变化和改进！ 请注意，虽然 Sideloadly 得到积极维护，但由于资金有限，新功能的开发速度有所放缓。如果您喜欢使用 Sideloadly 并希望支持进一步开发，请考虑成为 Patreon 的赞助人。 以下是 0.55.0 更新 中的新功能：  更快的 IPA 处理、签名和上传：我们已经提高了速度，使侧载过程比以往更快！ 应用程序 ID 跟踪：Sideloadly 现在将显示每个 Apple ID 剩余的可用（每周）应用程序 ID 数量。 进度指示器：签名、上传和安装进度现在将以百分比显示。 自动重试：Sideloadly 将在尝试失败时自动重试最多四次，然后如果问题仍然存在，则提示用户继续。 应用刷新显示：现在，您可以看到哪个应用在哪个设备上刷新了。 解决了由于多个插件和扩展导致某些 IPA 无法安装的问题。 修复了 IPA 处理时间过长时出现的重复 LOCKDOWN_E_MUX 错误。 更正了验证码弹出问题。 修复了旧版本 macOS 上的崩溃问题（需要重新安装 Sideloadly 才能解决）。 改进了安装日志，使之更加清晰。 修复了其他各种错误并进行了改进。  接下来，我们将致力于解决社区报告的问题，并添加对具有高级数据保护和 JIT 的 Apple ID 的支持！与往常一样，我们会在 Reddit 和 Twitter 上听取您的反馈和建议。 感谢大家使用 Sideloadly！ 😊 有关以前版本的详细信息，请参阅我们的 Reddit 帖子：Sideloadly v0.50.0 更新    提交人    /u/SideloadlyIO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gqmdff/sideloadly_v0550_update_faster_sideloading/</guid>
+      <pubDate>Wed, 13 Nov 2024 20:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>脸书狼</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gqlust/facebook_wolf/</link>
+      <description><![CDATA[我如何从 Facebook 下载卷轴？我认为这是 Wolf 的一项功能     由    /u/ey-jo 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gqlust/facebook_wolf/</guid>
+      <pubDate>Wed, 13 Nov 2024 19:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚获得 Krava 签名证书，但现在我正在使用 esign dns 方法。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gqku9c/just_got_krava_sign_cert_but_right_now_im_using/</link>
+      <description><![CDATA[标题。我只是想知道我还要等多久才能获得证书，如何使用付费证书并删除已撤销的证书，我是否需要删除用于已撤销证书的 DNS。此外，krava sign 证书是否可以与 vpn 一起使用    提交人    /u/Known-Ad5920   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gqku9c/just_got_krava_sign_cert_but_right_now_im_using/</guid>
+      <pubDate>Wed, 13 Nov 2024 19:11:43 GMT</pubDate>
+    </item>
     <item>
       <title>请灵活硬币</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gqjdxc/flekstore_coins_pls/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[帮助    由   提交  /u/NeighborhoodTight480   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gq461r/is_there_a_root_file_manager_for_ios_1801/</guid>
       <pubDate>Wed, 13 Nov 2024 03:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些会过期并从我的 Apple ID 中删除吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gq1d2x/will_these_ever_expire_and_be_removed_from_my/</link>
-      <description><![CDATA[      我只剩下 1 个 app id，但其他的已经过期了。     提交人    /u/Ok-Aside-8854   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gq1d2x/will_these_ever_expire_and_be_removed_from_my/</guid>
-      <pubDate>Wed, 13 Nov 2024 01:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在实时容器中选择文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpxzh4/cant_select_file_in_live_container/</link>
-      <description><![CDATA[      我需要帮助在 Live Container 中选择文件，因为它不让我这么做。有人知道怎么做吗？     提交人    /u/deluvxe   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpxzh4/cant_select_file_in_live_container/</guid>
-      <pubDate>Tue, 12 Nov 2024 22:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法验证完整性</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpwihw/integrity_could_not_be_verified/</link>
-      <description><![CDATA[所以我试图下载 scarlet，但每次我点击它时，它都说无法验证完整性，我已恢复出厂设置，我尝试使用不同的直接安装，但它们都一直给我相同的消息，当我这样做时，它旁边有重新下载云，请提供任何帮助    提交人    /u/Interesting_Big_8091   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpwihw/integrity_could_not_be_verified/</guid>
-      <pubDate>Tue, 12 Nov 2024 21:48:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
