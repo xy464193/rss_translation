@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 13 Nov 2024 00:46:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 03:15:14 GMT</lastBuildDate>
+    <item>
+      <title>这些会过期并从我的 Apple ID 中删除吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gq1d2x/will_these_ever_expire_and_be_removed_from_my/</link>
+      <description><![CDATA[      我只剩下 1 个 app id，但其他的已经过期了。     提交人    /u/Ok-Aside-8854   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gq1d2x/will_these_ever_expire_and_be_removed_from_my/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>无法在实时容器中选择文件？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gpxzh4/cant_select_file_in_live_container/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果有人有可以正常使用且有高级版的 videostar ipa，请告诉我！    由    /u/jahaewa 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gpqgiz/videostar_ipa_working/</guid>
       <pubDate>Tue, 12 Nov 2024 17:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouPlus [问题]</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gpq6x5/uyouplus_question/</link>
-      <description><![CDATA[这个问题可能有点傻，但我一点头绪都没有。我看到有人说 uYou+ 的版本是 3.0.4。但我只看到 3.0.3 版本（我有），无法找到 3.0.4 本身的更新。我想用 3.0.4 版本构建另一个 ipa。 所以我想知道我是不是走错了 GitHub 页面，或者我做错了什么。我已经将我的 fork 与当前版本同步，也没有变化。 如果有人能帮助我，我将不胜感激。    提交人    /u/CurrentRisk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gpq6x5/uyouplus_question/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:29:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
