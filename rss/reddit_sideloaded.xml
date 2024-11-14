@@ -4,18 +4,46 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 14 Nov 2024 15:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 18:13:55 GMT</lastBuildDate>
+    <item>
+      <title>活容器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</link>
+      <description><![CDATA[大家好，我在 iPhone 上安装了 sidestore 和 livecontainer，但启动时它崩溃了，有什么帮助或想法吗    提交人    /u/No-Custard-2466   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</guid>
+      <pubDate>Thu, 14 Nov 2024 17:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用证书进行电子签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gr9vj1/sign_esign_with_certificate/</link>
+      <description><![CDATA[所以我在 ESign 上完成了所有设置，一切运行良好。我的证书已加载，所有应用程序都已安装，等等。 我最初使用我的 Apple ID 通过 PC 上的 Sideloadly 将 ESign 安装到手机上。现在我已经安装并运行了 ESign，有没有办法以某种方式从 ESign 本身或 Feather 安装它，这样我就不必每 7 天从我的 PC 上签名一次？基本上，我希望它使用我购买的所有其他应用程序都在使用的 1 年证书。 TIA 寻求任何帮助。    提交人    /u/madrista1710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gr9vj1/sign_esign_with_certificate/</guid>
+      <pubDate>Thu, 14 Nov 2024 17:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iOS 18 的 Boomlings 破解版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gr9tt5/cracked_boomlings_for_ios_18/</link>
+      <description><![CDATA[我想玩这个游戏，但我没有文件    提交人    /u/Far-Cartographer-821   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gr9tt5/cracked_boomlings_for_ios_18/</guid>
+      <pubDate>Thu, 14 Nov 2024 17:15:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法安装配置文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gr7jvf/cant_install_profiles/</link>
+      <description><![CDATA[当我想安装任何证书时，它没有给我信任或下载该证书的选项。我做错了什么？    提交人    /u/00jessai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gr7jvf/cant_install_profiles/</guid>
+      <pubDate>Thu, 14 Nov 2024 15:38:55 GMT</pubDate>
+    </item>
     <item>
       <title>在 Mac 上侧载 IPA/应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gr64mb/sideloading_ipaapps_on_a_mac/</link>
-      <description><![CDATA[嗨，我有一台 Apple M2 PC，我想尝试在 Mac OSX 中运行我的一些 iOS IPA。 我购买的 IPA 中只有一小部分可在 OSX Appstore 下载。 是否可以在我的 Mac 上侧载这些 IPA？ 我应该为此使用特定的网站吗？ 这些 IPA 是否需要以某种方式签名后才能安装和运行它们？    提交人    /u/shlopotnik   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我有一台 Apple M2 PC，我想尝试在 Mac OSX 中运行一些 iOS IPA。 我购买的 IPA 中只有一小部分可在 OSX Appstore 下载。 是否可以在我的 Mac 上侧载这些 IPA？ 我应该为此使用特定的网站吗？ 这些 IPA 是否需要以某种方式签名后才能安装和运行它们？    提交人    /u/shlopotnik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr64mb/sideloading_ipaapps_on_a_mac/</guid>
       <pubDate>Thu, 14 Nov 2024 14:35:31 GMT</pubDate>
     </item>
     <item>
       <title>自 iOS 17 以来，应用程序自行重置/丢失数据</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</link>
-      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 几乎会丢失所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
+      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 就会丢失几乎所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</guid>
       <pubDate>Thu, 14 Nov 2024 14:22:44 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[想要尝试使用人工智能应用程序，如果有任何免费应用程序的提示或有人可以指导我正确的方向，我将不胜感激     提交人    /u/Beammerlife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gqrux6/ai_apps_for_free_or_hacked/</guid>
       <pubDate>Thu, 14 Nov 2024 00:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PC 安装 scarlet（无需撤销）值得吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqrsx5/installing_scarlet_using_pc_no_revoke_worth_it/</link>
-      <description><![CDATA[我有带免费开发者帐户的侧边商店，所以基本上我只使用 2 或 3 个应用程序！我不需要太多！无论如何，我听说使用 PC 安装 scarlet（无需撤销）非常好！但它需要安装 icloud（不是微软版本），问题是我不想卸载我的 iCloud 微软版本，因为我的 icloud 上有很多图片，我不想再次上传和下载它们到我的电脑！我的互联网慢得要命！  那么值得尝试 scarlet 吗？    提交人    /u/Have_ACigar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqrsx5/installing_scarlet_using_pc_no_revoke_worth_it/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>（问题）有没有办法在 iOS 18 或任何 iOS 版本上永久侧载 IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqq0a1/question_is_there_a_way_to_permanently_sideload/</link>
-      <description><![CDATA[我不知道，我很好奇。    由   提交  /u/jjpesky2009   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqq0a1/question_is_there_a_way_to_permanently_sideload/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装 ESign、Feather 或 Scarlet 时出现问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqo3iw/problems_installing_esign_feather_or_scarlet/</link>
-      <description><![CDATA[您好，我决定尝试 ESign，因为我现在懒得安装 SideStore。问题是我无法安装它，ESign 下载证书要么被撤销，要么根本不起作用。尝试使用 Feather，结果相同。Scarlet 可以安装，但提示我需要互联网连接进行验证（我已连接）。还有其他选择吗？    提交人    /u/mkwlink   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqo3iw/problems_installing_esign_feather_or_scarlet/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTlite 持续冻结</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqnv9x/ytlite_keep_freezing/</link>
-      <description><![CDATA[我的视频停止工作，我甚至无法播放它，就像冻结而不是加载一样，如何修复它？    由   提交  /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqnv9x/ytlite_keep_freezing/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:18:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
