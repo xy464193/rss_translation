@@ -4,11 +4,53 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 14 Nov 2024 18:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 21:09:44 GMT</lastBuildDate>
+    <item>
+      <title>ESign DNS 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grdnpb/esign_dns_problems/</link>
+      <description><![CDATA[如果某些功能无法与当前的 ESign DNS 兼容，我是否可以在使用完无法与 ESign DNS 兼容的应用程序后以某种方式暂停所有内容并重新安装，否则我会破坏 ESign 设置？     提交人    /u/chrisreddits   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grdnpb/esign_dns_problems/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧 iPad 问题（iOS 12）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grdli2/old_ipad_problem_ios_12/</link>
+      <description><![CDATA[所以我有一台越狱的 Ipad Air 1，里面装有 iOS 12.5.7。 此设备非常旧，似乎无法再安装任何应用程序。有人可以帮忙指出我可以在此设备上安装哪种侧载方法吗？    提交人    /u/bebeksquadron   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grdli2/old_ipad_problem_ios_12/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>SparseBox 在发布时受到严重影响</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grdg2d/sparsebox_crushing_on_launch/</link>
+      <description><![CDATA[      有人知道为什么会发生这种情况吗？我在 iOS 17.1.1 上使用了 SideStore 提前致谢     提交人    /u/jdycjx   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grdg2d/sparsebox_crushing_on_launch/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ipa 有建议吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grcrv6/ipa_suggestions/</link>
+      <description><![CDATA[我有 YTLitePlus 和 sonolus，但自从有了 livecontainer 之后，我需要更多应用程序。我并不需要现有应用程序的 mod，因为这是我的 iPad。    提交人    /u/AcceptableBag1896   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grcrv6/ipa_suggestions/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 问题：操作无法完成。无法安装应用：无法从“/private/var/containers/Bundle/Application/83C9BA53-1A2B-415F-9A7A-9C8404382713/App.app”获取 com.apple.installd.validatedByFreeProfile EA：没有此文件或目录</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grbx6w/sidestore_problem_the_operation_couldnt_be/</link>
+      <description><![CDATA[帮助    由    /u/shakejeet 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grbx6w/sidestore_problem_the_operation_couldnt_be/</guid>
+      <pubDate>Thu, 14 Nov 2024 18:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>zbrush 适用于 iPad 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grbb0e/zbrush_for_ipad/</link>
+      <description><![CDATA[有人已经有 zbrush 了吗？    提交人    /u/pjtango   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grbb0e/zbrush_for_ipad/</guid>
+      <pubDate>Thu, 14 Nov 2024 18:16:54 GMT</pubDate>
+    </item>
     <item>
       <title>活容器</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</link>
-      <description><![CDATA[大家好，我在 iPhone 上安装了 sidestore 和 livecontainer，但启动时它崩溃了，有什么帮助或想法吗    提交人    /u/No-Custard-2466   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我在 iPhone 上安装了 sidestore 和 livecontainer，但启动时崩溃了，有什么帮助或想法吗    提交人    /u/No-Custard-2466   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</guid>
       <pubDate>Thu, 14 Nov 2024 17:37:52 GMT</pubDate>
     </item>
@@ -36,14 +78,14 @@
     <item>
       <title>在 Mac 上侧载 IPA/应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gr64mb/sideloading_ipaapps_on_a_mac/</link>
-      <description><![CDATA[嗨，我有一台 Apple M2 PC，我想尝试在 Mac OSX 中运行一些 iOS IPA。 我购买的 IPA 中只有一小部分可在 OSX Appstore 下载。 是否可以在我的 Mac 上侧载这些 IPA？ 我应该为此使用特定的网站吗？ 这些 IPA 是否需要以某种方式签名后才能安装和运行它们？    提交人    /u/shlopotnik   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我有一台 Apple M2 PC，我想尝试在 Mac OSX 中运行我的一些 iOS IPA。 我购买的 IPA 中只有一小部分可在 OSX Appstore 下载。 是否可以在我的 Mac 上侧载这些 IPA？ 我应该为此使用特定的网站吗？ 这些 IPA 是否需要以某种方式签名后才能安装和运行它们？    提交人    /u/shlopotnik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr64mb/sideloading_ipaapps_on_a_mac/</guid>
       <pubDate>Thu, 14 Nov 2024 14:35:31 GMT</pubDate>
     </item>
     <item>
       <title>自 iOS 17 以来，应用程序自行重置/丢失数据</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</link>
-      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 就会丢失几乎所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
+      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 几乎会丢失所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</guid>
       <pubDate>Thu, 14 Nov 2024 14:22:44 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[使用下一个 dns 创建自己的 dns 和使用预建的 dns 之间有什么区别？因为我认为免费的下一个 dns 有限制，我不想为此烦恼，所以我可以使用预建的吗？    由    /u/Adilix_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr472s/dns_method_question/</guid>
       <pubDate>Thu, 14 Nov 2024 12:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alight Motion Premium (IPA) 安装指南！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gr3w6e/alight_motion_premium_ipa_installation_guide/</link>
-      <description><![CDATA[大家好！我注意到很多人都在寻找免费访问 Alight Motion Premium 的方法，所以我决定整理这份简单的指南来帮助您。 只需仔细按照以下步骤操作，即可获得 Alight Motion Premium，无需花一分钱。请务必通读所有详细信息，以确保正确无误。 您需要什么：  侧载软件 如果您没有，可以使用此处提供的指南下载 ESign。 基本英语技能 本指南写得很简单，但有助于理解说明，避免任何混淆。  下载 IPA 的步骤： 重要提示：仅单击我特别提到的下载按钮 - 忽略您可能看到的任何其他按钮。  访问链接的网站这里。向下滚动直到找到标有“下载 IPA 和 iOS 安装选项”的部分。 单击 IPA 版本（大小）。 您将被定向到一个新页面，倒计时将开始。只需等待它完成，然后您就会看到下载选项出现。点击按钮开始下载。  安装 IPA 的步骤： 注意：安装过程可能因您使用的侧加载程序而异。我将描述使用 ESign 的方法，但如果您使用其他方法，请随意应用您自己的方法。  打开 ESign 应用程序。 单击“文件”选项卡，然后点击右上角的三个点并选择“导入”。 查找并选择下载的 IPA 文件；它应该会导入到您的库中。如有必要，请在 ESign 中再次选择它并将其导入到库中。 现在导航到“应用程序”选项卡，选择 IPA，然后选择“签名”。 应用程序将开始修补并启动安装过程（您可以选择取消或安装）。  您的应用程序应该已经安装，但还不是高级版。按照以下步骤解锁高级功能。 获取高级版的步骤：  打开应用程序。 将弹出登录提示。不要使用您的 Apple ID 登录。相反，只需点击取消按钮或点击提示外部即可关闭它。 如果有高级订阅优惠，请点击关闭按钮或箭头取消。 点击 Alight Motion 主屏幕右上角的个人资料图标，转到“个人资料”选项卡。 点击登录按钮。如果没有出现，请点击上面的三个点，然后点击刷新。 仅使用您的 Google 帐户登录（我只能确认这种方法对我有效，但请随时检查是否有其他方法可用）。 登录后，您应该会在个人资料选项卡下看到年度订阅，并且所有高级功能都将被解锁！  享受使用您的应用吧！ 注意：每次关闭 Alight Motion 后打开它时，您可能会看到 Apple ID 登录提示。只需单击“取消”即可继续使用该应用程序而不会出现问题。    提交人    /u/lord_kixz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gr3w6e/alight_motion_premium_ipa_installation_guide/</guid>
-      <pubDate>Thu, 14 Nov 2024 12:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的 SoundCloud IPA 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gr2249/good_soundcloud_ipa/</link>
-      <description><![CDATA[大家好！👋 标题👆 有任何好的 SoundCloud IPA 吗？ 谢谢！❤️    由   提交  /u/enzo_ghll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gr2249/good_soundcloud_ipa/</guid>
-      <pubDate>Thu, 14 Nov 2024 10:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watusi 3 重复者无法分享图库中的视频。有解决办法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gr059n/watusi_3_duplicates_cant_share_videos_from_the/</link>
-      <description><![CDATA[嗨，我正在使用由 Feather 在 iOS 18.1 上安装的付费证书 Watusi 3 Duplicate 版本 24.22.82，并且已启用所有权限。当我进入照片并尝试分享视频时，该应用程序会从分享选项中消失，但当我尝试选择图像时，它没问题，并允许我通过复制应用程序分享它。有什么建议吗？或者这是 Watusi Duplicate 的常见问题？ 谢谢，祝您有美好的一天。    提交人    /u/harel013   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gr059n/watusi_3_duplicates_cant_share_videos_from_the/</guid>
-      <pubDate>Thu, 14 Nov 2024 08:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何绕过 iCloud 侧载 iPhone（SE 2016）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqwyvq/how_can_i_sideload_on_an_icloud_bypassed_iphone/</link>
-      <description><![CDATA[私人证书不起作用。    提交人    /u/fellas6969   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqwyvq/how_can_i_sideload_on_an_icloud_bypassed_iphone/</guid>
-      <pubDate>Thu, 14 Nov 2024 04:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱屏VIP ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqsj94/iscreen_vip_ipa/</link>
-      <description><![CDATA[有人有 Iscreen VIP 高级 ipa 吗？    提交人    /u/0adxil8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqsj94/iscreen_vip_ipa/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能应用程序免费或被破解</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gqrux6/ai_apps_for_free_or_hacked/</link>
-      <description><![CDATA[想要尝试使用人工智能应用程序，如果有任何免费应用程序的提示或有人可以指导我正确的方向，我将不胜感激     提交人    /u/Beammerlife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gqrux6/ai_apps_for_free_or_hacked/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
