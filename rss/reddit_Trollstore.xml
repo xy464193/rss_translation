@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 13 Nov 2024 21:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:46:33 GMT</lastBuildDate>
+    <item>
+      <title>崩溃</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gqrsf7/crashing/</link>
+      <description><![CDATA[在 iPhone X 15.6.1 上通过 TrollStore 下载 fn 时崩溃了，我很困惑兄弟    提交人    /u/Then-Promotion-9268   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gqrsf7/crashing/</guid>
+      <pubDate>Thu, 14 Nov 2024 00:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>我有一部 iPhone 12 Pro（16.1.2），下载 Trollstore 时设置中的个人资料未显示</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gprra6/i_have_an_iphone_12_pro_1612_and_profile_in/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[与上相同。     由    /u/kittioma 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ghivzd/i_messed_up_and_updated_to_ios_17_i_miss_using/</guid>
       <pubDate>Fri, 01 Nov 2024 23:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装错误181帮助</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gfug22/install_error_181_help/</link>
-      <description><![CDATA[      大家好，出于某种原因，我在使用 Trollstore 安装 IB2 时遇到了困难。IB1 和 IB3 安装正常。这是在 iOS 15.8.3 上越狱的 iPhone 7 Plus，由于 Appsync 不再工作，我无法使用 Filza 安装它。Sideloadly 安装正常，但只有 7 天，这让我很恼火，所以如果您知道如何修复 Trollstore 中的安装或以某种方式永久安装它，我将不胜感激。谢谢。    提交人    /u/Volo_Kin   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gfug22/install_error_181_help/</guid>
-      <pubDate>Wed, 30 Oct 2024 19:03:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
