@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 09:11:25 GMT</lastBuildDate>
+    <item>
+      <title>Esign 下载不起作用。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</link>
+      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用     提交人    /u/greysnowleopard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</guid>
+      <pubDate>Fri, 15 Nov 2024 07:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>iCloud 支持 ARM64 笔记本电脑</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1grqzdv/icloud_support_for_arm64_laptop/</link>
+      <description><![CDATA[我的 iPhone 已被列入黑名单，使用 Sidestore 是我唯一可行的方法，但到目前为止，我在使用笔记本电脑进行设置时遇到了一些问题。iTunes 已安装，altserver 无法运行但可以安装（因为没有 iCloud），jitterbug 已安装，但 iCloud 无法安装，因为我的笔记本电脑运行的是基于 Arm 的 Snapdragon X Elite 芯片。非微软商店版本的 iCloud 不支持 arm。有没有办法让 Sidestore 在没有 iCloud 的情况下工作？    提交人    /u/SouthStart3723   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1grqzdv/icloud_support_for_arm64_laptop/</guid>
+      <pubDate>Fri, 15 Nov 2024 07:22:41 GMT</pubDate>
+    </item>
     <item>
       <title>您能破解这两个应用程序并免费使用吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1groo4q/can_u_cracked_those_two_app_to_be_free/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我有一台 Apple M2 PC，我想尝试在 Mac OSX 中运行我的一些 iOS IPA。 我购买的 IPA 中只有一小部分可在 OSX Appstore 下载。 是否可以在我的 Mac 上侧载这些 IPA？ 我应该为此使用特定的网站吗？ 这些 IPA 是否需要以某种方式签名后才能安装和运行它们？    提交人    /u/shlopotnik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr64mb/sideloading_ipaapps_on_a_mac/</guid>
       <pubDate>Thu, 14 Nov 2024 14:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 iOS 17 以来，应用程序自行重置/丢失数据</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</link>
-      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 几乎会丢失所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何从 ipa 中提取图标文件并使用 Esign 应用的说明</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gr58d1/instructions_for_how_to_extract_icon_files_from/</link>
-      <description><![CDATA[        由    /u/dellmill85  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gr58d1/instructions_for_how_to_extract_icon_files_from/</guid>
-      <pubDate>Thu, 14 Nov 2024 13:52:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
