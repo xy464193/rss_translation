@@ -4,7 +4,7 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 15 Nov 2024 00:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 03:23:23 GMT</lastBuildDate>
     <item>
       <title>Sideloadly 警报上的 PUA 病毒</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1grgz2y/pua_virus_on_sideloadly_alert/</link>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 14 Nov 2024 19:19:01 GMT</pubDate>
     </item>
     <item>
-      <title>Sidestore 问题：操作无法完成。无法安装应用：无法从“/private/var/containers/Bundle/Application/83C9BA53-1A2B-415F-9A7A-9C8404382713/App.app”获取 com.apple.installd.validatedByFreeProfile EA：没有此文件或目录</title>
+      <title>Sidestore 问题：操作无法完成。无法安装应用程序：无法从“/private/var/containers/Bundle/Application/83C9BA53-1A2B-415F-9A7A-9C8404382713/App.app”获取 com.apple.installd.validatedByFreeProfile EA：没有这样的文件或目录</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1grbx6w/sidestore_problem_the_operation_couldnt_be/</link>
       <description><![CDATA[帮助    由    /u/shakejeet 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grbx6w/sidestore_problem_the_operation_couldnt_be/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>活容器</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</link>
-      <description><![CDATA[大家好，我在 iPhone 上安装了 sidestore 和 livecontainer，但启动时崩溃了，有什么帮助或想法吗    提交人    /u/No-Custard-2466   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我在 iPhone 上安装了 sidestore 和 livecontainer，但启动时它崩溃了，有什么帮助或想法吗    提交人    /u/No-Custard-2466   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gracv7/livecontainer/</guid>
       <pubDate>Thu, 14 Nov 2024 17:37:52 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>自 iOS 17 以来，应用程序自行重置/丢失数据</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</link>
-      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 几乎会丢失所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
+      <description><![CDATA[自从从 iOS 16 (Trollstore) 升级到 17.7 以来，我一直遇到一个奇怪的问题。大约每 2 天，我侧载的 Apollo 和 YouTube 就会丢失几乎所有数据。 当这种情况发生时，我必须重新输入我的 reddit API 密钥/Apollo 的常规设置。Youtube 的行为相同，只是在这种情况下它会说“Youtube 上次没有正确关闭”并丢失所有设置。 还有其他人有这个问题吗？使用 Signulous+Feather 或 AltStore+LiveContainer 时都会发生这种情况。    提交人    /u/xgreybaron   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gr5uuw/apps_resetting_themselveslosing_data_since_ios_17/</guid>
       <pubDate>Thu, 14 Nov 2024 14:22:44 GMT</pubDate>
     </item>
