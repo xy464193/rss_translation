@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 16 Nov 2024 15:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 18:12:21 GMT</lastBuildDate>
+    <item>
+      <title>无需撤销和无限证书？这是真的吗？还是会损坏我的手机</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gst1yk/no_revokes_and_unlimited_certificates_is_this/</link>
+      <description><![CDATA[https://youtu.be/OysjLfxNu_g?si=Um1p1S0WzWr9lJGR 在 yt 上发现这个，只有 1k 次观看，我不知道是否应该相信它。有人知道这是否合法吗？    提交人    /u/Elbowstan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gst1yk/no_revokes_and_unlimited_certificates_is_this/</guid>
+      <pubDate>Sat, 16 Nov 2024 18:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有 rarevision vhs ipa v1.5 - v1.6 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsri92/does_anyone_got_rarevision_vhs_ipa_v15_v16/</link>
+      <description><![CDATA[有人有 rarevision vhs ipa v1.5 - v1.6 吗？我哪儿也找不到。    提交人    /u/NoSkillIssue   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsri92/does_anyone_got_rarevision_vhs_ipa_v15_v16/</guid>
+      <pubDate>Sat, 16 Nov 2024 16:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动格式塔文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsqarh/mobilegestalt_file/</link>
+      <description><![CDATA[我需要通过 Nugget 应用从使用 iPhone 15 Pro 或更新版本的人那里获取 mobilegestalt.plist 文件来提取自定义按键。我的目标是识别控制控制中心中的静音开关和状态栏中的静音图标的按键。非常感谢您的帮助。    提交人    /u/noaheist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsqarh/mobilegestalt_file/</guid>
+      <pubDate>Sat, 16 Nov 2024 15:59:40 GMT</pubDate>
+    </item>
     <item>
       <title>标志性的更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gso10i/signulous_renewal/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>如何获取未被撤销的证书？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gsna6h/how_do_i_get_certificates_that_are_not_revoked/</link>
-      <description><![CDATA[我对 iOS 还很陌生，我正在尝试了解侧载，我已经获得了 esign 并尝试从中下载太鼓之达人，但由于我的证书被吊销而失败。我尝试了从教程中获取的 zip 文件中的所有证书，但它们也被吊销了。我如何获得未被吊销的证书？似乎也可以创建自己的证书，这很贵吗？创建起来容易吗？    提交人    /u/Relevant_Love222   [链接] [评论]]]></description>
+      <description><![CDATA[我对 iOS 还很陌生，我正在尝试了解侧载，我已经获得了 esign 并尝试从中下载太鼓之达人，但由于我的证书被吊销而失败。我尝试了从教程中获得的 zip 文件中的所有证书，但它们也被吊销了。我如何获得未被吊销的证书？似乎也可以创建自己的证书，这很贵吗？创建起来容易吗？    提交人    /u/Relevant_Love222   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gsna6h/how_do_i_get_certificates_that_are_not_revoked/</guid>
       <pubDate>Sat, 16 Nov 2024 13:29:25 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>IPAS 不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gshb0b/ipas_not_working/</link>
-      <description><![CDATA[为什么我所有的 ipas 都可以用，但只有一款特定的游戏，所有的 ipas 都无法下载，我试过使用 esign 和 feather，但都不起作用    提交人    /u/NeighborhoodTight480   [link] [comments]]]></description>
+      <description><![CDATA[为什么我所有的 ipas 都可以用，但只有一款特定的游戏，所有的 ipas 都无法下载，我试过使用 esign 和 feather，但都不起作用    提交人    /u/NeighborhoodTight480   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gshb0b/ipas_not_working/</guid>
       <pubDate>Sat, 16 Nov 2024 06:28:44 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我刚刚安装了 sidestore，它运行良好，我尝试安装 sparsebox，当我打开它时，它会崩溃并且无法工作。我按照这个视频的每个步骤操作：https://youtu.be/x4_WuewCjJg?si=dOZHYr6QbYwHdbf-有人可以帮帮我吗    提交人    /u/aatamino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gs70ce/sparsebox_crashing/</guid>
       <pubDate>Fri, 15 Nov 2024 21:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助安装被破解的 iOS 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gs6rm2/i_need_help_installing_hacked_ios_apps/</link>
-      <description><![CDATA[各位，我该如何在 iOS 上获取破解的应用程序，我可以获取 ipa 文件，但我不知道如何打开它们。我以前使用 scarlet，但现在当我尝试安装它时，它只是说无法验证完整性。我也无法越狱我的手机。我在 iPhone 16 pro max iOS 18.2 上，我无法在 App Store 上下载应用程序     提交者    /u/Money_Decision_9862   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gs6rm2/i_need_help_installing_hacked_ios_apps/</guid>
-      <pubDate>Fri, 15 Nov 2024 21:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SparseBox 与 LiveContainer</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gs56w2/sparsebox_vs_livecontainer/</link>
-      <description><![CDATA[我目前正在考虑安装 Sidestore，我想侧载超过 3 个应用程序，绕过 3 个应用程序限制的两种方法是使用 SparseBox 和 LiveContainer。我想知道哪一个更好。谢谢 🙏     提交人    /u/aatamino   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gs56w2/sparsebox_vs_livecontainer/</guid>
-      <pubDate>Fri, 15 Nov 2024 19:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 下载不起作用。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</link>
-      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用     提交人    /u/greysnowleopard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</guid>
-      <pubDate>Fri, 15 Nov 2024 07:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
