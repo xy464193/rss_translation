@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 16 Nov 2024 03:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 06:14:28 GMT</lastBuildDate>
+    <item>
+      <title>Feather 不起作用（即使开启在线安装方法）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsgy2z/feather_does_not_work_even_if_turn_on_the_online/</link>
+      <description><![CDATA[      我正在使用 dxsign 证书在 iPhone16（ios18.1）上安装并运行 feather。当我关闭在线安装方法时，它只显示准备安装。开机时，Safari 屏幕显示 192.0.0.2，且未连接互联网（我使用的是蜂窝网络）。如何修复？ https://preview.redd.it/jacqzz3fg71e1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=1ab0201329c9f97f171b9c361b93dc3bf581ca6a https://preview.redd.it/9fe37h6fg71e1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=4cce7eced88827e9854c8603ed3aa216423af72b https://preview.redd.it/08ij8v3fg71e1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=9a793475d7aaa589cfb5e4d4a87fe6edd0462f46 https://preview.redd.it/wt86ck6fg71e1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=b4a6138d008628c30252f8b4cb8afa38feef7b5f    提交人    /u/AdMost8686   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsgy2z/feather_does_not_work_even_if_turn_on_the_online/</guid>
+      <pubDate>Sat, 16 Nov 2024 06:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>解密 IPA 的最佳方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsfgw3/best_way_to_decrypt_ipas/</link>
+      <description><![CDATA[ARM 转换器需要一个帐户 decrypt.day 有反广告拦截功能，我已禁用它，它工作正常，但是 什么是最简单、最快的方法，不需要帐户或其他任何东西？ 无需越狱    提交人    /u/Secure_Gain_8287   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsfgw3/best_way_to_decrypt_ipas/</guid>
+      <pubDate>Sat, 16 Nov 2024 04:30:34 GMT</pubDate>
+    </item>
     <item>
       <title>MySign 进度更新</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gsds8e/mysign_progress_update/</link>
@@ -41,13 +55,6 @@
       <pubDate>Fri, 15 Nov 2024 22:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>[提示] 如何在手机上使用卡西欧计算器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gs7sex/tip_how_to_use_casio_calculator_on_your_phone/</link>
-      <description><![CDATA[https://edu.casio.com/assets/images/app/img_01_plus.png 您好， 前几天我不得不使用我的卡西欧计算器，然后意识到它和我的 iPhone Pro Max 大小相同， 所以我想如果我可以在我的 iPhone 上使用它不是很酷吗，结果发现有一个应用程序可以做到 那就是 ClassWiz Calc，您可以从以下位置获得：https://decrypt.day/app/id1577344066 它是免费的，不需要注册（提供不同型号的卡西欧计算器）。 尽情享受吧！    由    /u/phoenixlegend7 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gs7sex/tip_how_to_use_casio_calculator_on_your_phone/</guid>
-      <pubDate>Fri, 15 Nov 2024 21:53:12 GMT</pubDate>
-    </item>
-    <item>
       <title>SparseBox 崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gs70ce/sparsebox_crashing/</link>
       <description><![CDATA[我刚刚安装了 sidestore，它运行良好，我尝试安装 sparsebox，当我打开它时，它会崩溃并且无法工作。我按照这个视频的每个步骤操作：https://youtu.be/x4_WuewCjJg?si=dOZHYr6QbYwHdbf-有人可以帮帮我吗    提交人    /u/aatamino   [链接] [评论]]]></description>
@@ -57,7 +64,7 @@
     <item>
       <title>我需要帮助安装被破解的 iOS 应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gs6rm2/i_need_help_installing_hacked_ios_apps/</link>
-      <description><![CDATA[各位，我如何在 iOS 上获取破解应用程序，我可以获取 ipa 文件，但我不知道如何打开它们。我以前使用 scarlet，但现在当我尝试安装它时，它只是说无法验证完整性。我也无法越狱我的手机。我在 iPhone 16 pro max iOS 18.2 上，我无法在 App Store 上下载应用程序     提交者    /u/Money_Decision_9862   [链接] [评论]]]></description>
+      <description><![CDATA[各位，我该如何在 iOS 上获取破解的应用程序，我可以获取 ipa 文件，但我不知道如何打开它们。我以前使用 scarlet，但现在当我尝试安装它时，它只是说无法验证完整性。我也无法越狱我的手机。我在 iPhone 16 pro max iOS 18.2 上，我无法在 App Store 上下载应用程序     提交者    /u/Money_Decision_9862   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gs6rm2/i_need_help_installing_hacked_ios_apps/</guid>
       <pubDate>Fri, 15 Nov 2024 21:08:10 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Esign 下载不起作用。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</link>
-      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用    提交人    /u/greysnowleopard   [link] [评论]]]></description>
+      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用     提交人    /u/greysnowleopard   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</guid>
       <pubDate>Fri, 15 Nov 2024 07:37:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果某些功能无法与当前的 ESign DNS 兼容，我是否可以在使用完无法与 ESign DNS 兼容的应用程序后以某种方式暂停所有内容并重新安装，否则我会破坏 ESign 设置？     提交人    /u/chrisreddits   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grdnpb/esign_dns_problems/</guid>
       <pubDate>Thu, 14 Nov 2024 19:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧 iPad 问题（iOS 12）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1grdli2/old_ipad_problem_ios_12/</link>
-      <description><![CDATA[所以我有一台越狱的 Ipad Air 1，里面装有 iOS 12.5.7。 此设备非常旧，似乎无法再安装任何应用程序。有人可以帮忙指出我可以在此设备上安装哪种侧载方法吗？    提交人    /u/bebeksquadron   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1grdli2/old_ipad_problem_ios_12/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:54:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
