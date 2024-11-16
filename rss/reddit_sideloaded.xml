@@ -4,13 +4,20 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 16 Nov 2024 00:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 03:21:10 GMT</lastBuildDate>
     <item>
-      <title>通过 Signulous 更新应用程序不起作用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gsbfg1/updating_apps_through_signulous_not_working/</link>
-      <description><![CDATA[当我通过签名和安装新版本用更新版本覆盖应用程序时，它将替换我现有的侧载应用程序。但是，当我在完成后打开应用程序时，它仍然是旧版本。我必须在侧载新应用程序之前完全删除该应用程序才能获取更新。这有什么原因吗？或者有解决办法，这样我就不必在侧载之前删除应用程序了？    提交人    /u/icecoldcoke319   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gsbfg1/updating_apps_through_signulous_not_working/</guid>
-      <pubDate>Sat, 16 Nov 2024 00:45:09 GMT</pubDate>
+      <title>MySign 进度更新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsds8e/mysign_progress_update/</link>
+      <description><![CDATA[证书上传现已完成，我的下一个目标是开始证书选择下拉菜单。 本周某个时候我会发布一个 IPA 供大家试用，但它还不能签署应用程序，只能上传证书。 对于那些无法侧载 IPA 的人，我将在未来几天在我的个人资料上发布一些应用程序的截图。目标和功能的路线图也将在我的个人资料上。 我永远不会要求您为 IPA 付费，尝试出售证书或向您收费。请不要假设这会像 Omega 一样。    提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsds8e/mysign_progress_update/</guid>
+      <pubDate>Sat, 16 Nov 2024 02:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何查看我是否被列入黑名单</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsbuoh/how_do_i_see_if_im_blacklisted/</link>
+      <description><![CDATA[?    由   提交  /u/Money_Decision_9862   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsbuoh/how_do_i_see_if_im_blacklisted/</guid>
+      <pubDate>Sat, 16 Nov 2024 01:07:06 GMT</pubDate>
     </item>
     <item>
       <title>我可以在没有电脑的情况下下载/安装 YouTube++ 吗？</title>
@@ -64,7 +71,7 @@
     <item>
       <title>Esign 下载不起作用。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</link>
-      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用     提交人    /u/greysnowleopard   [link] [评论]]]></description>
+      <description><![CDATA[我正在使用 https://esign.yyyue.xyz 网站，只有最上面的一个会下载到我的主屏幕，然后它“变灰” 无法打开它在那里但实际上并没有下载我不能相信它我正在设置并且网站上的其余下载都不起作用    提交人    /u/greysnowleopard   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grr6tk/esign_download_wont_work/</guid>
       <pubDate>Fri, 15 Nov 2024 07:37:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我有一台越狱的 Ipad Air 1，里面装有 iOS 12.5.7。 此设备非常旧，似乎无法再安装任何应用程序。有人可以帮忙指出我可以在此设备上安装哪种侧载方法吗？    提交人    /u/bebeksquadron   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grdli2/old_ipad_problem_ios_12/</guid>
       <pubDate>Thu, 14 Nov 2024 19:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SparseBox 在发布时受到严重影响</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1grdg2d/sparsebox_crushing_on_launch/</link>
-      <description><![CDATA[      有人知道为什么会发生这种情况吗？我在 iOS 17.1.1 上使用了 SideStore 提前致谢     提交人    /u/jdycjx   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1grdg2d/sparsebox_crushing_on_launch/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:47:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
