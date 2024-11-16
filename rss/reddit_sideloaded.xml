@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 16 Nov 2024 06:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 09:09:51 GMT</lastBuildDate>
+    <item>
+      <title>YTMusicUltimate</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsjd7k/ytmusicultimate/</link>
+      <description><![CDATA[只是想知道是否所有经过 YouTube Music 调整的应用都没有下载功能？刚刚尝试了 YTMusicUltimate，当我选择下载视频时它不想下载任何视频。这是当前的限制还是我只是需要不同的 ipa？如果不可能，是否有任何方法可以通过文件手动添加下载的视频，以便它们显示在应用中？谢谢     提交人    /u/Tranquillian   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsjd7k/ytmusicultimate/</guid>
+      <pubDate>Sat, 16 Nov 2024 08:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SparseBox 崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gsj5z3/sparsebox_crashing/</link>
+      <description><![CDATA[我已经安装了 SideStore，它运行良好，但是当我尝试使用 SparseBox 绕过 3 个应用程序限制时，我无法做到这一点，因为当我打开 SparseBox 时，它就崩溃了。我在运行 iOS 18.0.1 的 iPhone 11 上    提交人    /u/aatamino   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gsj5z3/sparsebox_crashing/</guid>
+      <pubDate>Sat, 16 Nov 2024 08:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPAS 不工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gshb0b/ipas_not_working/</link>
+      <description><![CDATA[为什么我所有的 ipas 都可以用，但只有一款特定的游戏，所有的 ipas 都无法下载，我试过使用 esign 和 feather，但都不起作用    提交人    /u/NeighborhoodTight480   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gshb0b/ipas_not_working/</guid>
+      <pubDate>Sat, 16 Nov 2024 06:28:44 GMT</pubDate>
+    </item>
     <item>
       <title>Feather 不起作用（即使开启在线安装方法）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gsgy2z/feather_does_not_work_even_if_turn_on_the_online/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我的 iPhone 已被列入黑名单，使用 Sidestore 是我唯一可行的方法，但到目前为止，我在使用笔记本电脑进行设置时遇到了一些问题。iTunes 已安装，altserver 无法运行但可以安装（因为没有 iCloud），jitterbug 已安装，但 iCloud 无法安装，因为我的笔记本电脑运行的是基于 Arm 的 Snapdragon X Elite 芯片。非微软商店版本的 iCloud 不支持 arm。有没有办法让 Sidestore 在没有 iCloud 的情况下工作？    提交人    /u/SouthStart3723   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1grqzdv/icloud_support_for_arm64_laptop/</guid>
       <pubDate>Fri, 15 Nov 2024 07:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能破解这两个应用程序并免费使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1groo4q/can_u_cracked_those_two_app_to_be_free/</link>
-      <description><![CDATA[      🤙🏼    提交人    /u/thisisalahallam   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1groo4q/can_u_cracked_those_two_app_to_be_free/</guid>
-      <pubDate>Fri, 15 Nov 2024 04:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sideloadly 警报上的 PUA 病毒</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1grgz2y/pua_virus_on_sideloadly_alert/</link>
-      <description><![CDATA[      https://preview.redd.it/abcmzexgzx0e1.png?width=661&amp;format=png&amp;auto=webp&amp;s=5563384248545e09aabbaa765f83adef02ee2777 有人收到过这个警报吗？我不知道这是否是误报，我搜索了一下“PUA”，但连接到 SideLoadly 后什么也没找到。   由    /u/PercivallAkihiko  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1grgz2y/pua_virus_on_sideloadly_alert/</guid>
-      <pubDate>Thu, 14 Nov 2024 22:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign DNS 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1grdnpb/esign_dns_problems/</link>
-      <description><![CDATA[如果某些功能无法与当前的 ESign DNS 兼容，我是否可以在使用完无法与 ESign DNS 兼容的应用程序后以某种方式暂停所有内容并重新安装，否则我会破坏 ESign 设置？     提交人    /u/chrisreddits   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1grdnpb/esign_dns_problems/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:56:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
