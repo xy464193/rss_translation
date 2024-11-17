@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 15:09:30 GMT</lastBuildDate>
+    <item>
+      <title>莎黛拉</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gtffzj/satella/</link>
+      <description><![CDATA[我能否确认是否有任何 ipa“注入了 satella”，这是否意味着它们仅适用于越狱设备？通过一些网络搜索，似乎有一个“越狱的 satella”，但似乎只与 ios16 及以下版本兼容。只是好奇，因为我尝试了 Feather 上的 repo 中的 Homeworkout Premium .ipa，它表示已注入 satella，但在我使用时遇到了问题。我确实进入了主屏幕，那里有一个浮动图标，我点击了它，有“隐身”“0.00 价格”等选项可以启用，但它们只是意味着应用程序在启动时崩溃了。（未越狱，ios18,16 pro max）    提交人    /u/Tranquillian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gtffzj/satella/</guid>
+      <pubDate>Sun, 17 Nov 2024 15:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign 文件删除</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gtf1mq/esign_files_delete/</link>
+      <description><![CDATA[如果我从“应用程序库”/“未签名”/“签名”部分中删除应用程序，它们还能正常工作吗？    由    /u/chrisreddits  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gtf1mq/esign_files_delete/</guid>
+      <pubDate>Sun, 17 Nov 2024 14:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子签名问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gteqhf/esign_problems/</link>
+      <description><![CDATA[      大家好，几个小时前我安装了 esign，并获得了我的第一个“侧载”应用程序。我错误地删除了 Eevee Spotify 的 IPA，不确定如何恢复它，所以我卸载了它。现在我试图安装它，但我没有得到应用程序，而是得到了这个。有什么解决办法吗，还是我被列入了黑名单？如果有人知道如何下载羽毛，那就太酷了。我是新手，所以如果我做了任何愚蠢的决定，mb    提交人    /u/Ready_Initiative_366   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gteqhf/esign_problems/</guid>
+      <pubDate>Sun, 17 Nov 2024 14:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iOS 15.8.3 的 Outlook IPA 版本</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gte29g/outlook_ipa_version_for_ios_1583/</link>
+      <description><![CDATA[事情是这样的.. 我有一部 iPhone 7+，我无法用它下载 Outlook 应用程序，因为它需要 iOS 17+。我有几个应用程序，都是用 trollStore 安装的，例如 Brave（在 AppStore 上适用于 iOS 16+）、Word、PowerPoint 等。 所以我想问你们，哪个版本适用于我的 iOS 版本？我试过 4.20.0，但由于某种原因无法登录。我将不胜感激任何答案。干杯！    提交人    /u/KrizakAles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gte29g/outlook_ipa_version_for_ios_1583/</guid>
+      <pubDate>Sun, 17 Nov 2024 13:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么方法可以去除金块？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gtccmh/is_there_any_way_to_remove_nugget/</link>
+      <description><![CDATA[最近我发现了一种侧载我的应用等的新方法，发现 nugget 已经没有用了。出于某种原因，我找不到任何方法来禁用它。我使用的是 iPhone 11，如果这会带来任何变化，iOS 17.6+ 或类似的东西。    提交人    /u/Hot-Fisherman1317   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gtccmh/is_there_any_way_to_remove_nugget/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:18:33 GMT</pubDate>
+    </item>
     <item>
       <title>侧载的《文明 VI》不断崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gtc1tw/sideloaded_civilization_vi_keeps_crashing/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>关于 discord 的 ipa 文件的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gt59bw/question_about_ipa_files_for_discord/</link>
-      <description><![CDATA[我正尝试将 discord 作为 ipa 获取，因为我的 AppStore 无法使用。你们有有效的 ipa 网站链接吗？    提交人    /u/Fun_Local9614   [链接] [评论]]]></description>
+      <description><![CDATA[我试图将 discord 作为 ipa 获取，因为我的 AppStore 无法使用。你们有有效的 ipa 网站链接吗？    提交人    /u/Fun_Local9614   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gt59bw/question_about_ipa_files_for_discord/</guid>
       <pubDate>Sun, 17 Nov 2024 04:05:50 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[      我的 SideJITServer 给出了多个错误。请帮忙。 设备：iPhone 16 Pro Max iOS：18.2 Developer Beta 3 Windows 版本：11 23H2 cmd 以管理员身份运行 https://preview.redd.it/ywww772sdd1e1.png?width=2296&amp;format=png&amp;auto=webp&amp;s=6f9abc0b67617a99d53a27dab6f1bf6dea7d86f2    提交人    /u/BananeGHG01   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gt35hk/sidejitserver_not_working_on_windows/</guid>
       <pubDate>Sun, 17 Nov 2024 02:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 安装 ipas 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gt2os5/esign_problem_install_ipas/</link>
-      <description><![CDATA[大家好 直到几天前，我才能够在 iPhone 上安装 ipas。我这样做是：下载 ipa，然后用证书签名，之后我打算从设置、wifi 进行安装，将该 ip 复制到浏览器，然后安装应用程序。现在的问题是，当我尝试访问该 ip 时，它没有加载，有什么想法吗？ 谢谢     提交人    /u/LongjumpingTill2139   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gt2os5/esign_problem_install_ipas/</guid>
-      <pubDate>Sun, 17 Nov 2024 01:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Nugget 是否会有被列入黑名单的风险？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gt1ktv/would_using_nugget_risk_blacklisting/</link>
-      <description><![CDATA[由于应用 Nugget 或 Nugget mobile 的调整需要重启手机。我的手机有可能被列入黑名单吗？    提交人    /u/AwesomeBros132   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gt1ktv/would_using_nugget_risk_blacklisting/</guid>
-      <pubDate>Sun, 17 Nov 2024 00:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有 Amazon Alexa 的 ipa 文件吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gt17qk/does_anyone_have_an_ipa_file_of_amazon_alexa/</link>
-      <description><![CDATA[我无法从应用商店下载它，现在我唯一能用的就是侧载。    提交人    /u/Human_Cash_8418   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gt17qk/does_anyone_have_an_ipa_file_of_amazon_alexa/</guid>
-      <pubDate>Sun, 17 Nov 2024 00:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Khoindvn 方法不起作用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gsyznf/khoindvn_method_not_working/</link>
-      <description><![CDATA[当前在 iOS 18.1 上运行，使用 khoindvn 方法安装了 esign，但是当我使用与安装 esign 相同的证书安装 ipa 时，出现消息“无法安装应用程序，因为无法验证其完整性” 我检查了撤销日期并使用了尚未撤销的日期，但同样的问题仍然出现 有什么办法可以解决这个问题？    提交人    /u/Substantial_Laugh160   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gsyznf/khoindvn_method_not_working/</guid>
-      <pubDate>Sat, 16 Nov 2024 22:39:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>听着，我知道这听起来很蠢，但是你可以在没有电脑的情况下获得 AltStore 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gsyi3a/look_i_know_this_sounds_stupid_but_can_you_get/</link>
-      <description><![CDATA[我只想要 iOS Dolphin Emulator 端口和 AltStore，但我害怕越狱我的手机-    提交人    /u/Professional_Fox5631   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gsyi3a/look_i_know_this_sounds_stupid_but_can_you_get/</guid>
-      <pubDate>Sat, 16 Nov 2024 22:16:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
