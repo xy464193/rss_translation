@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 17 Nov 2024 00:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 03:26:10 GMT</lastBuildDate>
+    <item>
+      <title>停车场多人游戏2文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gt3e8h/car_parking_multiplayer_2_file/</link>
+      <description><![CDATA[有人有修改过的 cpm2 ipa 吗     提交人    /u/BboyEmi49   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gt3e8h/car_parking_multiplayer_2_file/</guid>
+      <pubDate>Sun, 17 Nov 2024 02:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideJITServer 在 Windows 上不起作用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gt35hk/sidejitserver_not_working_on_windows/</link>
+      <description><![CDATA[      我的 SideJITServer 给出了多个错误。请帮忙。 设备：iPhone 16 Pro Max iOS：18.2 Developer Beta 3 Windows 版本：11 23H2 cmd 以管理员身份运行 https://preview.redd.it/ywww772sdd1e1.png?width=2296&amp;format=png&amp;auto=webp&amp;s=6f9abc0b67617a99d53a27dab6f1bf6dea7d86f2    提交人    /u/BananeGHG01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gt35hk/sidejitserver_not_working_on_windows/</guid>
+      <pubDate>Sun, 17 Nov 2024 02:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESign 安装 ipas 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gt2os5/esign_problem_install_ipas/</link>
+      <description><![CDATA[大家好 直到几天前，我才能够在 iPhone 上安装 ipas。我这样做是：下载 ipa，然后用证书签名，之后我打算从设置、wifi 进行安装，将该 ip 复制到浏览器，然后安装应用程序。现在的问题是，当我尝试访问该 ip 时，它没有加载，有什么想法吗？ 谢谢     提交人    /u/LongjumpingTill2139   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gt2os5/esign_problem_install_ipas/</guid>
+      <pubDate>Sun, 17 Nov 2024 01:42:53 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Nugget 是否会有被列入黑名单的风险？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gt1ktv/would_using_nugget_risk_blacklisting/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我需要通过 Nugget 应用从使用 iPhone 15 Pro 或更新版本的人那里获取 mobilegestalt.plist 文件来提取自定义按键。我的目标是识别控制控制中心中的静音开关和状态栏中的静音图标的按键。非常感谢您的帮助。    提交人    /u/noaheist   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gsqarh/mobilegestalt_file/</guid>
       <pubDate>Sat, 16 Nov 2024 15:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志性的更新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gso10i/signulous_renewal/</link>
-      <description><![CDATA[你好 有人知道订阅此提供商一年后会发生什么吗？您是否需要因为证书过期而重新安装所有应用程序？    提交人    /u/robemvp   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gso10i/signulous_renewal/</guid>
-      <pubDate>Sat, 16 Nov 2024 14:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获取未被撤销的证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gsna6h/how_do_i_get_certificates_that_are_not_revoked/</link>
-      <description><![CDATA[我对 iOS 还很陌生，我正在尝试了解侧载，我已经获得了 esign 并尝试从中下载太鼓之达人，但由于我的证书被吊销而失败。我尝试了从教程中获得的 zip 文件中的所有证书，但它们也被吊销了。我如何获得未被吊销的证书？似乎也可以创建自己的证书，这很贵吗？创建起来容易吗？    提交人    /u/Relevant_Love222   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gsna6h/how_do_i_get_certificates_that_are_not_revoked/</guid>
-      <pubDate>Sat, 16 Nov 2024 13:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有带有 5 个 app id 的 Spotify ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gskcjh/is_there_a_spotify_ipa_with_5_app_id/</link>
-      <description><![CDATA[目前我使用 3 id 作为 youtube 和 2 id 作为 sidestore，所以我无法使用 6 id 来使用 spotify，有什么办法吗？    提交人    /u/Global_Chef_1090   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gskcjh/is_there_a_spotify_ipa_with_5_app_id/</guid>
-      <pubDate>Sat, 16 Nov 2024 10:12:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
