@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 18 Nov 2024 00:52:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 03:26:23 GMT</lastBuildDate>
+    <item>
+      <title>非越狱设备上的应用程序管理器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gtvf4q/apps_manager_on_a_nonjailbroken_device/</link>
+      <description><![CDATA[我知道 TiGi Software 制作了一个可与 Trollstore 配合使用的 Apps Manager 版本，但该应用程序是否可以与 ESign 之类的程序配合使用？    提交人    /u/batouttahell24   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gtvf4q/apps_manager_on_a_nonjailbroken_device/</guid>
+      <pubDate>Mon, 18 Nov 2024 03:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法可以在不使用配置文件的情况下使用 GBOX？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gtti0v/is_there_any_way_to_use_gbox_without_using_their/</link>
+      <description><![CDATA[我在 IOS 上     由   提交  /u/Hot-Fisherman1317   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gtti0v/is_there_any_way_to_use_gbox_without_using_their/</guid>
+      <pubDate>Mon, 18 Nov 2024 01:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore 登录问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gttahu/sidestore_login_issue/</link>
+      <description><![CDATA[有没有办法解决无法使用 Apple ID 登录 SideStore 应用的问题？ 我遇到的问题： 无法登录 配置时出错：%@ %@。请重试。如果问题仍然存在，请在 GitHub 问题上报告！ 此问题在 GitHub 问题中，但仍然没有实际修复。 重置 adi.pb 无法解决此问题。 谢谢。    提交人    /u/PogPig75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gttahu/sidestore_login_issue/</guid>
+      <pubDate>Mon, 18 Nov 2024 01:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>WSF 不是骗子</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gtsine/wsf_are_not_frauds/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>有谁有TVTime最新版的ipa吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gtiuye/does_anyone_have_the_ipa_of_the_latest_version_of/</link>
-      <description><![CDATA[该应用已从 App Store 中移除    提交人    /u/LucasPedrosa   [链接] [评论]]]></description>
+      <description><![CDATA[该应用已从 App Store 中移除    由    /u/LucasPedrosa 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gtiuye/does_anyone_have_the_ipa_of_the_latest_version_of/</guid>
       <pubDate>Sun, 17 Nov 2024 17:35:15 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我已经成功使用 signulous 将应用程序侧载到我的 iPhone 上，但我想知道我是否可以对 Mac 执行同样操作。    提交人    /u/International_Lime20   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gtfnnj/can_i_use_signulous_to_sideload_ios_ipa_onto_mac/</guid>
       <pubDate>Sun, 17 Nov 2024 15:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>付费证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gtfl8m/paid_certificates/</link>
-      <description><![CDATA[浏览 Reddit 时，我看到很多人在谈论付费证书比撤销证书或免费证书更好。我的主要问题是证书是什么以及它们如何工作？它们是否明显比免费证书好，我在哪里可以买到真正好的证书？ 编辑：感谢除 dr 之外的所有回复者    提交人    /u/Ready_Initiative_366   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gtfl8m/paid_certificates/</guid>
-      <pubDate>Sun, 17 Nov 2024 15:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>莎黛拉</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gtffzj/satella/</link>
-      <description><![CDATA[我能否确认是否有任何 ipa“注入了 satella”，这是否意味着它们仅适用于越狱设备？通过一些网络搜索，似乎有一个“越狱的 satella”，但似乎只与 ios16 及以下版本兼容。只是好奇，因为我尝试了 Feather 上的 repo 中的 Homeworkout Premium .ipa，它表示已注入 satella，但在我使用时遇到了问题。我确实进入了主屏幕，那里有一个浮动图标，我点击了它，有“隐身”“0.00 价格”等选项可以启用，但它们只是意味着应用程序在启动时崩溃了。（未越狱，ios18,16 pro max）    提交人    /u/Tranquillian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gtffzj/satella/</guid>
-      <pubDate>Sun, 17 Nov 2024 15:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESign 文件删除</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gtf1mq/esign_files_delete/</link>
-      <description><![CDATA[如果我从“应用程序库”/“未签名”/“签名”部分中删除应用程序，它们还能正常工作吗？    由    /u/chrisreddits  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gtf1mq/esign_files_delete/</guid>
-      <pubDate>Sun, 17 Nov 2024 14:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
