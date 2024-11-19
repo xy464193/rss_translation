@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 19 Nov 2024 09:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 12:19:46 GMT</lastBuildDate>
+    <item>
+      <title>安装了最新版本的 Trollfools (v2.5-15)，但无法注入 deb 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1guux1h/installed_latest_version_of_trollfools_v2515_but/</link>
+      <description><![CDATA[除 dylib 之外的任何文件都显示为灰色，无法注入。我使用 trollstore 从 GitHub 安装了最新的 tipa 文件。 我遗漏了什么？    提交人    /u/sbay   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1guux1h/installed_latest_version_of_trollfools_v2515_but/</guid>
+      <pubDate>Tue, 19 Nov 2024 11:22:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 HDO play ipa 上下载视频</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1guu6xe/how_to_download_videos_on_hdo_play_ipa/</link>
+      <description><![CDATA[前往 App Store 并下载所有免费的视频保存器，前往 HDO 播放并按住要复制的服务器，它会说链接已复制，然后将链接粘贴到所有视频保存器中，它会有一个下载按钮，单击它，然后等待，然后保存，然后单击侧面的 3 个点，然后单击共享并保存到视频！希望这对您有所帮助！    提交人    /u/Electrical-Shine-131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1guu6xe/how_to_download_videos_on_hdo_play_ipa/</guid>
+      <pubDate>Tue, 19 Nov 2024 10:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>能够安全使用已撤销的证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gutc4h/ability_to_safely_use_revoked_certificates/</link>
+      <description><![CDATA[大家好！ 正如你们许多人所要求的，我们已启用使用已撤销证书的应用安装。如果您能够阻止负责撤销开发者证书的 Apple 服务器，您可以转到功能配置页面并将“使用已撤销证书”选项设置为“是”，保存配置，然后您将能够选择其中一个已被 Apple 撤销（但如果禁用撤销检查，则仍然有效）的企业证书。此设置也适用于您将用于安装应用的其他证书 - Apple 的撤销检查将被禁用。 但是，您需要记住，您的设备的安全性可能会降低。它不适用于应用程序本身，因为苹果使用相同的证书签署应用商店中的任何应用程序，他们永远不会撤销该证书（即使是恶意软件），但其他证书可能会受到影响。 从我们的角度来看，appdb 会根据已知的恶意软件功能检查每个上传的应用程序，因此从 appdb 下载应用程序是安全的。对于安全研究人员，有一个特殊的切换“允许安装可能包含恶意软件的应用程序”，也可以打开。 此致，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gutc4h/ability_to_safely_use_revoked_certificates/</guid>
+      <pubDate>Tue, 19 Nov 2024 09:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>找到旧的改装版 insta IPA 了吗？它们当时存在吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1guprzr/find_old_modded_insta_ipas_did_they_exist_back/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>互联网上是否有 FIFA 14 IPA？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1guplz3/is_there_a_fifa_14_ipa_somewhere_in_the_internet/</link>
-      <description><![CDATA[我一直都很喜欢这个游戏，真的很想再玩一次，尤其是因为它是一款离线游戏。我使用的是 iPhone 11 IOS 17.6.1。如果有人能联系我，我会非常感激🙏    提交人    /u/Hot-Fisherman1317   [link] [评论]]]></description>
+      <description><![CDATA[我一直发自内心地喜欢这个游戏，真的很想再次玩它，尤其是因为它是一款离线游戏。我使用的是 iPhone 11 IOS 17.6.1。如果有人联系我，我会非常感激🙏    提交人    /u/Hot-Fisherman1317   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1guplz3/is_there_a_fifa_14_ipa_somewhere_in_the_internet/</guid>
       <pubDate>Tue, 19 Nov 2024 05:04:11 GMT</pubDate>
     </item>
@@ -29,19 +50,19 @@
     <item>
       <title>巴拉特罗IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1guklh4/balatro_ipa/</link>
-      <description><![CDATA[大家好，有人有适用于 balatro 的 ipa 吗？我试过很多不同的版本，包括 appcane 和 ipauniverse 等等，但是都没有用 我一打开应用程序就崩溃了，Slay the Spire 也是一样 如果有人有其中一个可以使用的文件，我将不胜感激     提交人    /u/HamimVahora   [link] [评论]]]></description>
+      <description><![CDATA[大家好，有人有适用于 balatro 的 ipa 吗？我试过很多不同的版本，包括 appcane 和 ipauniverse 等等，但是都没有用 我一打开应用程序就崩溃了，Slay the Spire 也是一样 如果有人有其中一个的有效文件，我将不胜感激     提交人    /u/HamimVahora   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1guklh4/balatro_ipa/</guid>
       <pubDate>Tue, 19 Nov 2024 00:44:54 GMT</pubDate>
     </item>
     <item>
       <title>MySign Beta 1 将于 2 天内发布</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1guilwn/mysign_beta_1_releasing_in_2_days/</link>
-      <description><![CDATA[明天我完成一些事情后会发布 UI     提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
+      <description><![CDATA[明天我完成一些事情后会发布 UI     提交人    /u/Smart-Ad-8635   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1guilwn/mysign_beta_1_releasing_in_2_days/</guid>
       <pubDate>Mon, 18 Nov 2024 23:14:49 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了 Omni/不管什么他妈的 repo 不断变动和不正当的做法</title>
+      <title>我厌倦了 Omni/不管那个他妈的仓库不断变动和不正当的做法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gugrd1/im_tired_of_omniwhatever_the_fuck_repo_constantly/</link>
       <description><![CDATA[我是否应该分叉当前的 repo（因为它实际上是一个很好的 repo）并继续扩展它？我不会出售证书和 DNS 或侧载方法或与其他服务合作，以免陷入困境，大家对此有什么看法？注意：我可能会破坏 repo 的 Altstore 兼容性    提交人    /u/Competitive-Ad-6570   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gugrd1/im_tired_of_omniwhatever_the_fuck_repo_constantly/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[由于 Omni Developent 内部和外部的一些不可预见的问题，Omni Development 现已关闭。Omni Repo 和证书（可能不会发布）将移回 Realmzer 的 Apple Development。请不要攻击 Realmzer 或任何其他人。感谢在 Omni Development 与你们共事的 19 个美妙日子。    提交人    /u/Filipino__Redittor   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gub1af/omni_development_is_closing/</guid>
       <pubDate>Mon, 18 Nov 2024 18:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以取消 3 个应用程序的限制吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gu9qx5/can_i_remove_the_3_app_limit/</link>
-      <description><![CDATA[我使用的是 ios 16.7.10，它越来越烦人了，除了 esign 之外我不知道如何绕过它，但它不可靠    提交人    /u/kilgrothmain2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gu9qx5/can_i_remove_the_3_app_limit/</guid>
-      <pubDate>Mon, 18 Nov 2024 17:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于Streamer应用程序的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gu76r2/question_about_streamer_app/</link>
-      <description><![CDATA[我知道流媒体应用程序允许您在外部播放器上播放，但它是否支持 SSA 和 ASS 字幕？主要用于动漫等，例如它是否按预期显示高级字幕？    提交人    /u/remottt07   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gu76r2/question_about_streamer_app/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，新来的</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gu2bbw/hi_new_here/</link>
-      <description><![CDATA[我想在模拟器上玩 Pokémon 系列。iOS 上有没有 Pokémon 系列？哪些 Pokémon 系列可以玩？    提交人    /u/boydoesyoga   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gu2bbw/hi_new_here/</guid>
-      <pubDate>Mon, 18 Nov 2024 11:06:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
