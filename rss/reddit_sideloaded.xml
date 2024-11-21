@@ -4,11 +4,39 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 21:09:59 GMT</lastBuildDate>
+    <item>
+      <title>apptester 合法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwpis8/is_apptesters_legit/</link>
+      <description><![CDATA[我查看了他们的电报组，他们的网站上写着交付需要 72 小时，但在电报组里每个人都在抱怨延迟了 5 天以上，也有多个客户在抱怨组内的撤销，而让他们感到奇怪的是，他们的退款政策规定无论发生什么情况都不退款，所以我不知道如果有人以前用过它，请告诉我    提交人    /u/rayyan-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwpis8/is_apptesters_legit/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>eSign ipa 服务器安装 - 修复?!?!</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwlm3e/esign_ipa_server_install_fix/</link>
+      <description><![CDATA[大家好！ 有人找到这个问题的明确解决方案了吗？最初，许多人认为 iOS 18.1 更新导致服务器安装出现问题。然后，有理论指出是 DNS 问题，但现在报告表明，即使是 DNS 解决方法也无法解决问题。我还听说有猜测说权利与 eSign 中的签名能力有关，但这似乎没有多大意义。 长话短说：有人知道 eSign 到底发生了什么，以及如何在不依赖这些解决方法的情况下使其按预期工作吗？ 非常感谢大家的帮助！    提交人    /u/anthonyb265   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwlm3e/esign_ipa_server_install_fix/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求 ESPN+</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwivv3/request_for_espn/</link>
+      <description><![CDATA[有人知道 espn+ 是否有可用的 ipa 吗？    提交人    /u/MKellz11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwivv3/request_for_espn/</guid>
+      <pubDate>Thu, 21 Nov 2024 16:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无论如何都要“取消黑名单”，无需重置或恢复手机。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwidyt/anyway_to_unblacklist_without_resetting_or/</link>
+      <description><![CDATA[我有一些重要数据，由于 iCloud 5Gb 限制而无法备份，我想将其列入黑名单。    提交人    /u/zooobiedooobie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwidyt/anyway_to_unblacklist_without_resetting_or/</guid>
+      <pubDate>Thu, 21 Nov 2024 15:46:24 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法从 alt 商店或侧面商店中删除应用程序 ID？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gwhgby/anyway_to_remove_app_ids_from_alt_store_or_side/</link>
-      <description><![CDATA[对所有这些程序都很陌生。我终于在 iPad 上安装并运行了 altstore 和 side store。唯一的问题是我剩余的 0APP IDS。我能够使用我的 Apple ID 在 side store 上登录。我也有一台 Windows 电脑。问题：有没有办法释放应用程序 ID？有无 Windows？我    提交人    /u/Double_Net_2369   [link] [评论]]]></description>
+      <description><![CDATA[对所有这些程序都很陌生。我终于在 iPad 上安装并运行了 altstore 和 side store。唯一的问题是我剩余的 0APP IDS。我能够使用我的 Apple ID 在 side store 上登录。我也有 Windows 电脑。问题：有没有办法释放应用程序 ID？有无 Windows？我    提交人    /u/Double_Net_2369   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gwhgby/anyway_to_remove_app_ids_from_alt_store_or_side/</guid>
       <pubDate>Thu, 21 Nov 2024 14:24:13 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>使用电报的新 IPA 方法</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gwbxod/new_ipa_method_using_telegram/</link>
-      <description><![CDATA[此方法需要付费认证供您参考……您可以下载 Feather、scarlet、Esign 等。 来自电报：A. 添加此用户 @ipa_ibot 要检查机器人中的证书，它会要求您添加 .p12 或移动配置文件，然后输入密码 B.添加此用户 @ipawind_bot 或者您可以访问此网站  https://samhub.lol.cloudns.ch/sites-to-install-ipas 单击风向标志  要检查机器人中的证书，它会要求您添加 .p12 和移动配置文件，然后输入密码  我使用此方法轻松下载 ESign 和 Feather。所以如果你想使用它，就用它吧！如果你不喜欢它，请保留你的评论，因为我的讽刺真的很尖锐。无论如何，我只是想带来一些新的东西。    提交人    /u/Cultural_Echidna180   [链接] [评论]]]></description>
+      <description><![CDATA[此方法需要付费认证仅供参考…….（我试过做撤销认证，但没有成功） 您可以下载 Feather、scarlet、Esign 等。 来自电报：A. 添加此用户 @ipa_ibot 要检查机器人中的证书，它会要求您添加.p12 或移动配置文件，然后输入密码 B.添加此用户 @ipawind_bot 或者您可以访问此网站  https://samhub.lol.cloudns.ch/sites-to-install-ipas 单击风向标志  要检查机器人中的证书，它会要求您添加 .p12 和移动配置文件，然后输入密码  我使用此方法轻松下载 ESign 和 Feather。所以如果你想使用它，就用它吧！如果你不喜欢它，请保留你的评论，因为我的讽刺真的很尖锐。无论如何，我只是想带来一些新东西。 PSA：首先，对于你们这些分析一切、喜欢证明信息的聪明人来说……我不知道该用什么作为标题，所以我只说了“新”，我从来没有说过我创造了它。我发现了它，并打算与那些不知道它的人分享它，因为最近的麻烦或频繁的新人加入。如果我说了一些你不喜欢的话，请不要感到惊讶，因为我不会抑制任何消极情绪。我只是想通过分享来提供帮助。如果你想把我撕碎，那就这样吧；然而我的能量很匹配，所以不要忘记这一点。     提交人    /u/Cultural_Echidna180   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gwbxod/new_ipa_method_using_telegram/</guid>
       <pubDate>Thu, 21 Nov 2024 08:54:30 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好，如果您遇到任何仍在发送通知的证书，这里只是一个分享的地方。我们都知道 HDFC 此时已经基本死了，它是少数几个真正发出通知的证书之一。我不是想推广什么。只是想让生活更轻松。如果出现了提供通知的新证书（祈祷好运），请随时将其放在这里，以便其他人可以找到它并随时了解最新情况。    提交人    /u/glitchgameplays   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gw605t/certs_with_notifications/</guid>
       <pubDate>Thu, 21 Nov 2024 02:48:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密的 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gw50xv/decrypted_ipa/</link>
-      <description><![CDATA[为什么我从 eeveedecrypterbot 安装解密的 ipa 时音频不起作用？    提交人    /u/NoTune88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gw50xv/decrypted_ipa/</guid>
-      <pubDate>Thu, 21 Nov 2024 02:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以下载 TikTok 2022-2020 版本？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gw0tyg/any_way_to_download_20222020_versions_of_tiktok/</link>
-      <description><![CDATA[我想重温 TikTok 的旧用户界面，有任何网站或下载吗？    提交人    /u/nightdreamz1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gw0tyg/any_way_to_download_20222020_versions_of_tiktok/</guid>
-      <pubDate>Wed, 20 Nov 2024 22:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Modded Youtube 设为默认应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gvxog6/make_modded_youtube_default_app/</link>
-      <description><![CDATA[有没有办法让 mod youtbe 成为链接的默认应用程序？如果我禁用原始 youtube，它只会在浏览器中打开链接。    提交人    /u/Cpt_Soaps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gvxog6/make_modded_youtube_default_app/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全站点？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gvxb1i/safe_site/</link>
-      <description><![CDATA[spotifyinfo.app 是否安全？    提交人    /u/whyisitstillraining   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gvxb1i/safe_site/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:04:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
