@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 21 Nov 2024 06:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 09:11:39 GMT</lastBuildDate>
+    <item>
+      <title>使用电报的新 IPA 方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwbxod/new_ipa_method_using_telegram/</link>
+      <description><![CDATA[此方法需要付费认证供您参考……您可以下载 Feather、scarlet、Esign 等。 来自电报：A. 添加此用户 @ipa_ibot 要检查机器人中的证书，它会要求您添加 .p12 或移动配置文件，然后输入密码 B.添加此用户 @ipawind_bot 或者您可以访问此网站  https://samhub.lol.cloudns.ch/sites-to-install-ipas 单击风向标志  要检查机器人中的证书，它会要求您添加 .p12 和移动配置文件，然后输入密码  我使用此方法轻松下载 ESign 和 Feather。所以如果你想使用它，就用它吧！如果你不喜欢它，请保留你的评论，因为我的讽刺真的很尖锐。无论如何，我只是想带来一些新的东西。    提交人    /u/Cultural_Echidna180   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwbxod/new_ipa_method_using_telegram/</guid>
+      <pubDate>Thu, 21 Nov 2024 08:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从哪里获取 Windows Phone 应用程序文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gwa5yq/where_do_i_get_windows_phone_app_files/</link>
+      <description><![CDATA[?    由   提交  /u/Independent_Feed_617   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gwa5yq/where_do_i_get_windows_phone_app_files/</guid>
+      <pubDate>Thu, 21 Nov 2024 06:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有笔记本电脑，登录后，让 Sidestore 使用某人的笔记本电脑……求助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gw9uyt/no_laptop_on_esign_have_sidestore_using_someones/</link>
+      <description><![CDATA[我已经设置了 sidestore，还有 7 天 最近也设置了 esign，运行良好，但担心它的撤销可能会或可能不会非常接近 由于设置了 nextdns，我无法刷新 Sidestore，并且由于没有笔记本电脑，永远无法再次安装它……我该怎么办？信任 esign 并让 sideatore 过期或删除 esign 并仅将 sidestore 与 sparsebox 一起使用？ 帮助无法使用 nextdns 密钥设置 wireguard，因为配置生成器都是付费的    提交人    /u/shakejeet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gw9uyt/no_laptop_on_esign_have_sidestore_using_someones/</guid>
+      <pubDate>Thu, 21 Nov 2024 06:24:49 GMT</pubDate>
+    </item>
     <item>
       <title>为什么橙子是橙色的？ffbh</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gw8hef/why_are_oranges_orangeffbh/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好， 我为 Signalous 付费，当我尝试链接我的设备时，出现一条错误消息：“Safari 无法安装配置文件。” 你知道如何解决这个问题吗？    提交人    /u/Samucele   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gvut1j/signalous_safari_couldnt_install_profile/</guid>
       <pubDate>Wed, 20 Nov 2024 17:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动电报频道</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gvtix8/starting_a_telegram_channel/</link>
-      <description><![CDATA[我正在考虑创建一个电报频道，其中发布与 ios 相关的所有内容，例如最新消息、技巧和窍门、IPA、教程、快捷方式和壁纸。但要实现它，我需要一些合作伙伴或者你们。有兴趣的人可以聊天、邀请我或给我留言    提交人    /u/manavgupta123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gvtix8/starting_a_telegram_channel/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Carrot Weather IPA v6.1.3“Snark”小部件似乎有问题？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gvtf31/carrot_weather_ipa_v613_snark_widgets_seem_to_be/</link>
-      <description><![CDATA[大家好，我一直在通过 Scarlet 测试来自 cypwn repo 的 Carrot Weather IPA，它运行良好，除了当我的主屏幕或锁定屏幕上有一个小部件时，即使小部件特定设置设置为讽刺，文本也不是&quot;snarky&quot;。 我知道这可能只会困扰少数人，但我觉得这是该应用程序最有趣的方面之一，所以我想知道是否有其他人遇到过这个问题，如果遇到了，有什么解决办法吗？    提交人    /u/abbottheonlybobo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gvtf31/carrot_weather_ipa_v613_snark_widgets_seem_to_be/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:26:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 改变了 iPhone 12</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gvswpc/ios_18_changed_iphone_12/</link>
-      <description><![CDATA[嘿， 因此，我使用 AltStore（非欧盟），并注意到在 iPhone 12 Pro 上，如果我安装 ipa，其中 12 是最新支持的版本，它会说：ipa 与设备不兼容（iphone 13,3）如果有人知道原因，请回复。 ipa 在 GDPSHub 上：https://gdpshub.com/gdps/1159    提交人    /u/LucasThings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gvswpc/ios_18_changed_iphone_12/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
