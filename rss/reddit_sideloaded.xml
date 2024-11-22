@@ -4,7 +4,63 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 22 Nov 2024 06:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 12:19:30 GMT</lastBuildDate>
+    <item>
+      <title>使用新证书重新安装 ESign</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx5a53/reinstalling_esign_with_new_cert/</link>
+      <description><![CDATA[我的证书（或 khoindvn 的证书）昨天刚过期，所以我决定获取新证书。但问题是：重新安装应用程序不会将其更新为新证书（仍然显示“应用程序不再可用”），签名后删除 mobileprovision 文件也无济于事。我该怎么办？（我正在使用 khoind 网站提供的 ESign）。    提交人    /u/sonphantrung   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx5a53/reinstalling_esign_with_new_cert/</guid>
+      <pubDate>Fri, 22 Nov 2024 11:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>羽毛问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx48x7/issue_with_feather/</link>
+      <description><![CDATA[每当我尝试使用 Feather 安装 IPA 时，它都会显示“无法安装”。 有解决这个问题的方法吗？ 使用具有相同证书和 ipa 的 esign 可以正常工作。    提交人    /u/E1EE   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx48x7/issue_with_feather/</guid>
+      <pubDate>Fri, 22 Nov 2024 09:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS Rocket 在购买 18 天后向我发送了我的密钥</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx42qj/ios_rocket_sent_me_my_secret_key_18_days_after/</link>
+      <description><![CDATA[      https://preview.redd.it/5zacqjyg9f2e1.png?width=1218&amp;format=png&amp;auto=webp&amp;s=03888f36f655d0f960640dd24667b7b655e9001b 过去几周，我听说 iOS Rocket 欺骗买家，因为他们没有提供购买后获取证书的密钥。我也是支付证书费用后才学到这个教训的。 今天，购买 18 天后，他们给我发了一封电子邮件，里面有检索密钥的链接。这到底是什么鬼？ 现在，我已经接受了这个骗局，并从 KravaSign 购买了一个新证书，它提供了更好的支持体验，我打算向 iOS Rocket 申请退款。你认为有可能获得退款吗？还有其他人收到他们的密钥吗？ 更新：我决定只下载证书并存储它，以防我拥有的另一个证书被撤销，但 iOS Rocket 现在说我的密钥不存在。这他妈到底是什么鬼？ https://preview.redd.it/2mm73h8hof2e1.png?width=2382&amp;format=png&amp;auto=webp&amp;s=789291677d20b2ff73247d1b8eed1c16168499d0    提交人    /u/mainhathao   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx42qj/ios_rocket_sent_me_my_secret_key_18_days_after/</guid>
+      <pubDate>Fri, 22 Nov 2024 09:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我会被列入黑名单并需要使用开发证书恢复出厂设置吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx3vzt/can_i_be_blacklisted_and_need_to_factory_reset/</link>
+      <description><![CDATA[我确信这是一个愚蠢的问题，但我已经使用 Apple 的开发证书大约两个月了。几天前，我意识到 Feather 的两种安装方法都失败了。  现在我甚至无法通过 AltStore 安装 Feather 以外的任何东西（我猜是因为它没有扩展？？）当我尝试通过 AltStore 安装 regram 之类的东西时，它会在安装过程中失败。sideloadly 也是一样。  现在我终于让 feather 在安装过程中不会失败，但我的应用程序未通过完整性检查。我想我搞砸了什么，但在我能用 feather 安装和不能用 feather 安装之间，我没有改变任何东西。     提交人    /u/Pcriz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx3vzt/can_i_be_blacklisted_and_need_to_factory_reset/</guid>
+      <pubDate>Fri, 22 Nov 2024 09:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 Watusi 加载到 AltStore，但现在在手机上看不到应用程序本身。我该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx3p2s/i_loaded_watusi_into_altstore_but_now_i_cant_see/</link>
+      <description><![CDATA[我已将 App ID 放入 AltStore，所以我想它应该可以工作？    提交人    /u/armeliens   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx3p2s/i_loaded_watusi_into_altstore_but_now_i_cant_see/</guid>
+      <pubDate>Fri, 22 Nov 2024 09:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于实时容器和时间的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx3ieq/live_container_time_based_apps/</link>
+      <description><![CDATA[还有谁在使用 Live Container 和需要设置计时器（稍后可以关闭）的应用程序时遇到了麻烦？ 我正在尝试使用“Drops”，但由于必须设置提醒（我稍后会关闭它），它不允许我继续。  有解决办法吗？    提交人    /u/CurrentRisk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx3ieq/live_container_time_based_apps/</guid>
+      <pubDate>Fri, 22 Nov 2024 08:50:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iPhone 上安装 trollstore？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx3e9x/how_to_install_trollstore_on_iphone/</link>
+      <description><![CDATA[这是我找到的有关如何在 iPhone 上安装 trollstore 的有用视频： https://www.youtube.com/watch?v=Y0Q60ZMFojY     由   提交  /u/GotchYaBitchhhh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx3e9x/how_to_install_trollstore_on_iphone/</guid>
+      <pubDate>Fri, 22 Nov 2024 08:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载器问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gx2rir/downloader_issues/</link>
+      <description><![CDATA[好的，我已按照 dev opt 中的说明操作，安装了 downldr。但是当我查看 dwnldr 是否已打开时，我没有看到该选项，也没有看到任何已安装的应用程序。还有那些我以为我已安装的应用程序，当我去管理应用程序时，新安装的唯一内容是强制停止、清除数据和缓存。没有启动应用程序。这里是第二代。    提交人    /u/Impossible-Mix-8334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gx2rir/downloader_issues/</guid>
+      <pubDate>Fri, 22 Nov 2024 07:53:18 GMT</pubDate>
+    </item>
     <item>
       <title>如何在不将自己列入黑名单的情况下删除 esign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gx0ick/how_to_remove_esign_without_blacklisting_myself/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好！ 有人找到这个问题的明确解决方案了吗？最初，许多人认为 iOS 18.1 更新导致服务器安装出现问题。然后，有理论指出是 DNS 问题，但现在报告表明，即使是 DNS 解决方法也无法解决问题。我还听说有猜测说权利与 eSign 中的签名能力有关，但这似乎没有多大意义。 长话短说：有人知道 eSign 到底发生了什么，以及如何在不依赖这些解决方法的情况下使其按预期工作吗？ 非常感谢大家的帮助！    提交人    /u/anthonyb265   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gwlm3e/esign_ipa_server_install_fix/</guid>
       <pubDate>Thu, 21 Nov 2024 17:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求 ESPN+</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwivv3/request_for_espn/</link>
-      <description><![CDATA[有人知道 espn+ 是否有可用的 ipa 吗？    提交人    /u/MKellz11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwivv3/request_for_espn/</guid>
-      <pubDate>Thu, 21 Nov 2024 16:11:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论如何都要“取消黑名单”，无需重置或恢复手机。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwidyt/anyway_to_unblacklist_without_resetting_or/</link>
-      <description><![CDATA[我有一些重要数据，由于 iCloud 5Gb 限制而无法备份，我想将其列入黑名单。    提交人    /u/zooobiedooobie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwidyt/anyway_to_unblacklist_without_resetting_or/</guid>
-      <pubDate>Thu, 21 Nov 2024 15:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法从 alt 商店或侧面商店中删除应用程序 ID？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwhgby/anyway_to_remove_app_ids_from_alt_store_or_side/</link>
-      <description><![CDATA[对所有这些程序都很陌生。我终于在 iPad 上安装并运行了 altstore 和 side store。唯一的问题是我剩余的 0APP IDS。我能够使用我的 Apple ID 在 side store 上登录。我也有一台 Windows 电脑。问题：有没有办法释放应用程序 ID？有无 Windows？我    提交人    /u/Double_Net_2369   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwhgby/anyway_to_remove_app_ids_from_alt_store_or_side/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮忙？iOS 17.6.1</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwddky/please_help_ios_1761/</link>
-      <description><![CDATA[当我尝试使用电子签名安装我的应用程序时，系统提示无法安装此应用程序，因为无法验证其完整性。无论如何，在进入设置以打开它之后，它由于某种原因就是不会出现。有什么帮助吗？    提交人    /u/YXTRX3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwddky/please_help_ios_1761/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 Farming Sim 2020 的 IPA 吗？请</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwc784/anyone_have_ipa_for_farming_sim_2020_please/</link>
-      <description><![CDATA[23 太烂了，所以我想要一个适用于 2020 的破解程序，我找到了一个带有 igamegod 调整的程序，但无法通过付费更改数据。请帮帮我。    提交人    /u/A_MasteR_at_WorK   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwc784/anyone_have_ipa_for_farming_sim_2020_please/</guid>
-      <pubDate>Thu, 21 Nov 2024 09:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从哪里获取 Windows Phone 应用程序文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwa5yq/where_do_i_get_windows_phone_app_files/</link>
-      <description><![CDATA[?    由   提交  /u/Independent_Feed_617   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwa5yq/where_do_i_get_windows_phone_app_files/</guid>
-      <pubDate>Thu, 21 Nov 2024 06:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有笔记本电脑，登录后，让 Sidestore 使用某人的笔记本电脑……求助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gw9uyt/no_laptop_on_esign_have_sidestore_using_someones/</link>
-      <description><![CDATA[我已经设置了 sidestore，还有 7 天 最近也设置了 esign，运行良好，但担心它的撤销可能会或可能不会非常接近 由于设置了 nextdns，我无法刷新 Sidestore，并且由于没有笔记本电脑，永远无法再次安装它……我该怎么办？信任 esign 并让 sideatore 过期或删除 esign 并仅将 sidestore 与 sparsebox 一起使用？ 帮助无法使用 nextdns 密钥设置 wireguard，因为配置生成器都是付费的    提交人    /u/shakejeet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gw9uyt/no_laptop_on_esign_have_sidestore_using_someones/</guid>
-      <pubDate>Thu, 21 Nov 2024 06:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么橙子是橙色的？ffbh</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gw8hef/why_are_oranges_orangeffbh/</link>
-      <description><![CDATA[Bhhh    由   提交  /u/_Phoon_d   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gw8hef/why_are_oranges_orangeffbh/</guid>
-      <pubDate>Thu, 21 Nov 2024 05:01:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
