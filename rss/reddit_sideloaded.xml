@@ -4,11 +4,39 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:10:43 GMT</lastBuildDate>
+    <item>
+      <title>侧载的好方法是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gxgr30/whats_a_good_method_for_sideloading/</link>
+      <description><![CDATA[大家好。我刚从三星 A32 换到 iPhone 15，我想尝试一下侧载。我听说过很多不同的方法，但我不知道该用哪一种。我一直听说 SideStore、Scarlet、AltStore、eSign 等，但我不知道该用哪一种，我只是在寻找免费且可靠的东西。    提交人    /u/HufferBread   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gxgr30/whats_a_good_method_for_sideloading/</guid>
+      <pubDate>Fri, 22 Nov 2024 19:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>新版 Siri 无法在侧载应用中运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gxg4n6/new_siri_not_working_inside_sideloaded_apps/</link>
+      <description><![CDATA[新推出的 Siri 在 iOS 18.1 中似乎无法在侧载应用中使用。Siri 在主屏幕和从 AppStore 安装的应用上运行良好。顺便说一句，我使用了付费证书。尝试使用 ESign 和 Feather 签名，但似乎不起作用。任何修复都值得赞赏。    提交人    /u/AvanishOfficial   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gxg4n6/new_siri_not_working_inside_sideloaded_apps/</guid>
+      <pubDate>Fri, 22 Nov 2024 19:28:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法验证侧载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gxfi7q/cant_verify_sideloaded_apps/</link>
+      <description><![CDATA[应用程序安装完美，但我可以打开它们，它说我需要验证，但是当我进行设置以验证它们时什么也没有发生，我单击了验证按钮，什么也没有发生，我该如何解决这个问题？    提交人    /u/No_Acanthaceae956   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gxfi7q/cant_verify_sideloaded_apps/</guid>
+      <pubDate>Fri, 22 Nov 2024 19:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>它一直说无法列出文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gxeppd/it_keeps_saying_cant_listdir_a_file/</link>
+      <description><![CDATA[帮助     由   提交  /u/NoPackage5049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gxeppd/it_keeps_saying_cant_listdir_a_file/</guid>
+      <pubDate>Fri, 22 Nov 2024 18:29:23 GMT</pubDate>
+    </item>
     <item>
       <title>有谁能帮帮我（iphone 7 iOS 15.8 没有电脑）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gxbr91/can_anyone_help_me_out_iphone_7_ios_158_no_pc/</link>
-      <description><![CDATA[      我试过很多次下载 trollstore、scarlet 和 esign，但感觉好像无法验证应用程序的完整性，有人能帮我吗出去！！    由    /u/Decent_Bug_2412   [链接] [评论] ]]></description>
+      <description><![CDATA[      我试过很多次下载 trollstore、scarlet 和 esign，但感觉应用程序完整性无法验证，有人能帮我吗出！！    由    /u/Decent_Bug_2412   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gxbr91/can_anyone_help_me_out_iphone_7_ios_158_no_pc/</guid>
       <pubDate>Fri, 22 Nov 2024 16:26:17 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>iOS Rocket 在购买 18 天后向我发送了我的密钥</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gx42qj/ios_rocket_sent_me_my_secret_key_18_days_after/</link>
-      <description><![CDATA[      https://preview.redd.it/5zacqjyg9f2e1.png?width=1218&amp;format=png&amp;auto=webp&amp;s=03888f36f655d0f960640dd24667b7b655e9001b 过去几周，我听说 iOS Rocket 欺骗买家，因为他们没有提供购买后获取证书的密钥。我也是支付证书费用后才学到这个教训的。 今天，购买 18 天后，他们给我发了一封电子邮件，里面有检索密钥的链接。这到底是什么鬼？ 现在，我已经接受了这个骗局，并从 KravaSign 购买了一个新证书，它提供了更好的支持体验，我打算向 iOS Rocket 申请退款。你认为有可能获得退款吗？还有其他人收到他们的密钥吗？ 更新：我决定只下载证书并存储它，以防我拥有的另一个证书被撤销，但 iOS Rocket 现在说我的密钥不存在。这他妈到底是什么鬼？ https://preview.redd.it/2mm73h8hof2e1.png?width=2382&amp;format=png&amp;auto=webp&amp;s=789291677d20b2ff73247d1b8eed1c16168499d0    提交人    /u/mainhathao   [链接] [评论] ]]></description>
+      <description><![CDATA[      https://preview.redd.it/5zacqjyg9f2e1.png?width=1218&amp;format=png&amp;auto=webp&amp;s=03888f36f655d0f960640dd24667b7b655e9001b 过去几周，我听说 iOS Rocket 欺骗买家，因为他们没有提供购买后获取证书的密钥。我也是支付证书费用后才学到这个教训的。 今天，购买 18 天后，他们给我发了一封电子邮件，里面有检索密钥的链接。这到底是什么鬼？ 现在，我已经接受了这个骗局，并从 KravaSign 购买了一个新证书，它提供了更好的支持体验，我打算向 iOS Rocket 申请退款。你认为有可能获得退款吗？还有其他人收到他们的密钥吗？ 更新：我决定只下载证书并存储它，以防我拥有的另一个证书被撤销，但 iOS Rocket 现在说我的密钥不存在。这到底是什么鬼？ https://preview.redd.it/2mm73h8hof2e1.png?width=2382&amp;format=png&amp;auto=webp&amp;s=789291677d20b2ff73247d1b8eed1c16168499d0 更新 2：我通过 Whatsapp 联系了他们，他们确认已经为我处理了退款。    由    /u/mainhathao  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gx42qj/ios_rocket_sent_me_my_secret_key_18_days_after/</guid>
       <pubDate>Fri, 22 Nov 2024 09:33:35 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[还有谁在使用 Live Container 和需要设置计时器（稍后可以关闭）的应用程序时遇到了麻烦？ 我正在尝试使用“Drops”，但由于必须设置提醒（我稍后会关闭它），它不允许我继续。  有解决办法吗？    提交人    /u/CurrentRisk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gx3ieq/live_container_time_based_apps/</guid>
       <pubDate>Fri, 22 Nov 2024 08:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iPhone 上安装 trollstore？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gx3e9x/how_to_install_trollstore_on_iphone/</link>
-      <description><![CDATA[这是我找到的有关如何在 iPhone 上安装 trollstore 的有用视频： https://www.youtube.com/watch?v=Y0Q60ZMFojY     由   提交  /u/GotchYaBitchhhh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gx3e9x/how_to_install_trollstore_on_iphone/</guid>
-      <pubDate>Fri, 22 Nov 2024 08:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载器问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gx2rir/downloader_issues/</link>
-      <description><![CDATA[好的，我已按照 dev opt 中的说明操作，安装了 downldr。但是当我查看 dwnldr 是否已打开时，我没有看到该选项，也没有看到任何已安装的应用程序。还有那些我以为我已安装的应用程序，当我去管理应用程序时，新安装的唯一内容是强制停止、清除数据和缓存。没有启动应用程序。这里是第二代。    提交人    /u/Impossible-Mix-8334   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gx2rir/downloader_issues/</guid>
-      <pubDate>Fri, 22 Nov 2024 07:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不将自己列入黑名单的情况下删除 esign？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gx0ick/how_to_remove_esign_without_blacklisting_myself/</link>
-      <description><![CDATA[帮助    由    /u/shakejeet  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gx0ick/how_to_remove_esign_without_blacklisting_myself/</guid>
-      <pubDate>Fri, 22 Nov 2024 05:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在未越狱的情况下加载 ipa 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gwv0kt/how_to_load_ipa_files_without_jailbreak/</link>
-      <description><![CDATA[我需要一个可以播放 ipa 文件而不会损坏我手机的侧加载器，我有一个最喜欢的童年游戏 nba jam，但它不再出售了    提交人    /u/Successful-Dinner-65   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gwv0kt/how_to_load_ipa_files_without_jailbreak/</guid>
-      <pubDate>Fri, 22 Nov 2024 00:33:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
