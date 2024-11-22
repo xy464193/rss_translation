@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 21 Nov 2024 21:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 00:50:44 GMT</lastBuildDate>
+    <item>
+      <title>为什么 TrollStore 在 iOS 14.0-16.6.1 和 17.0 中可以运行，但在 iOS 12 或 13 中却不行？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gwuyim/why_is_trollstore_possible_in_ios_1401661_and_170/</link>
+      <description><![CDATA[TrollStore 有什么功能使其无法支持 iOS 12-13？    提交人    /u/FlappyDunkPlusIOS   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gwuyim/why_is_trollstore_possible_in_ios_1401661_and_170/</guid>
+      <pubDate>Fri, 22 Nov 2024 00:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>显然，我曾尝试在运行 iOS 15.8.2 的 7 Plus 上安装 TrollStore，但每当它到达“physpuppet_run”时它就会崩溃。有什么解决方案吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gwcvb3/apparently_ive_tried_installing_trollstore_on_a_7/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我该如何修复这个问题？如何阻止应用程序识别我正在使用同一部 iPhone 创建更多帐户？   由    /u/Jdzepeda  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gk73bh/how_can_i_fix_this/</guid>
       <pubDate>Tue, 05 Nov 2024 13:49:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新或等待</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gk3oa2/update_or_wait/</link>
-      <description><![CDATA[        提交人    /u/tmfirdaus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gk3oa2/update_or_wait/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
