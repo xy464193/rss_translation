@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 23 Nov 2024 00:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 03:21:21 GMT</lastBuildDate>
+    <item>
+      <title>如何删除在 VPN 和设备管理中未显示的配置文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gxo7ql/how_do_i_get_rid_of_a_config_profile_that_doesnt/</link>
+      <description><![CDATA[      我下载了这个 DNS 配置文件，但我试图将其从手机中删除，但它实际上并没有显示在设置，但我的主屏幕上仍然有徽标，并且 DNS 配置永久保持打开状态。     提交人    /u/arcthecarc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gxo7ql/how_do_i_get_rid_of_a_config_profile_that_doesnt/</guid>
+      <pubDate>Sat, 23 Nov 2024 01:34:58 GMT</pubDate>
+    </item>
     <item>
       <title>制作 repo 并需要回答问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gxkngr/making_a_repo_and_need_a_question_answered/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[好吧，我已经筋疲力尽了，试图获得正确的 IPad 电子签名证书。是的，我按照所有教程下载了电子签名和 DNS 等等，但我如何获得正确的证书，而不是 IPhone 发行版？而且证书也被撤销了。请帮帮我，我已经忍无可忍了，我真的不想支付订阅费来使用艺术软件。谢谢    提交人    /u/CreepyViolinist3303   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gx8gzj/how_to_get_the_right_esign_cert_for_ios_18_ipad/</guid>
       <pubDate>Fri, 22 Nov 2024 14:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用新证书重新安装 ESign</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gx5a53/reinstalling_esign_with_new_cert/</link>
-      <description><![CDATA[我的证书（或 khoindvn 的证书）昨天刚过期，所以我决定获取新证书。但问题是：重新安装应用程序不会将其更新为新证书（仍然显示“应用程序不再可用”），签名后删除 mobileprovision 文件也无济于事。我该怎么办？（我正在使用 khoind 网站提供的 ESign）。    提交人    /u/sonphantrung   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gx5a53/reinstalling_esign_with_new_cert/</guid>
-      <pubDate>Fri, 22 Nov 2024 11:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
