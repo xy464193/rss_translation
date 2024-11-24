@@ -4,7 +4,7 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 24 Nov 2024 03:28:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 09:10:37 GMT</lastBuildDate>
     <item>
       <title>巨魔商店</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gycepk/trollstore/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[阅读标题    由    /u/felix_thor  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gy46f4/how_to_dump_any_application_pls_recomment_any/</guid>
       <pubDate>Sat, 23 Nov 2024 16:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Filza 节省电池</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gxwmns/battery_saving_through_filza/</link>
-      <description><![CDATA[大家好， 我想知道我们是否能够通过 Filza 或 TrollStore 复制一些省电调整的功能，例如 Powercuff。 我们已经有一个名为 ChargeLimiter 的 decenet TS 应用程序，但它专门用于充电。 但是实际的省电应用程序或通过 Filza 来限制 CPU 或电池使用量以及限制后台活动呢？ 我们可以通过 Filza 在 iOS 16+ 等版本上做什么最好的事情呢？ 谢谢转发    提交人    /u/JacksonGGs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gxwmns/battery_saving_through_filza/</guid>
-      <pubDate>Sat, 23 Nov 2024 10:22:21 GMT</pubDate>
     </item>
     <item>
       <title>请帮帮我 (iphone 7 ios 15.8.3)</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我知道继续使用 TrollStore 支持的 iOS 版本有很多好处，但随着时间的推移，由于没有升级我的 IOS 版本，越来越多的问题开始出现，因为它越来越老旧和过时。无法配对我的新手表，无法配对我的新 EarPods 等……这让我想到更新版本。 如果我更新，如果我想继续侧载应用程序，我接下来还可以关注什么？    提交人    /u/james-isreal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gprkbw/what_to_do_if_i_update_ios_and_trollstore_is_no/</guid>
       <pubDate>Tue, 12 Nov 2024 18:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用相册而不是相机上传照片？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</link>
+      <description><![CDATA[iOS 上的某些应用不允许从相册上传照片。它要求获得相机权限才能拍照，但由于缺乏优化或谨慎，这些应用只能拍摄出糟糕的照片。  出于隐私原因，我也不想授予它相机权限。  是否有针对此类应用的调整或解决方法？    提交人    /u/texplorer1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</guid>
+      <pubDate>Tue, 12 Nov 2024 13:59:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
