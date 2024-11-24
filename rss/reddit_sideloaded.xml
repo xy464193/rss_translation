@@ -4,7 +4,63 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 24 Nov 2024 03:28:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 12:17:50 GMT</lastBuildDate>
+    <item>
+      <title>Youtube 音乐 / 类似 Ravanced 的 iOS 应用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gyo3ou/youtube_music_similar_apps_like_ravanced_for_ios/</link>
+      <description><![CDATA[大家好  我目前有一部 Pixel 4a，需要买一部新手机。通常我会再买一部安卓手机，但我不喜欢目前的安卓版本，太笨重、太大、太重等等，随便你怎么说。 所以我想换苹果。iPhone 15 Pro 的尺寸与我现在的 Pixel 4a 几乎相同。我想要和需要的是一款带有像样相机的小巧手机。老实说，我不关心应用程序等。除了一个应用程序：Youtube 音乐  我已经使用 Vanced Youtube Music 多年了，我不能再回去了。这是阻止我购买 iPhone 的唯一原因。所以我想问你是否有 Revanced for YT Music 的替代品。 我经常阅读像 VideoLite、Baking Soda 和Vinegar Safari Extensions 等，但它们只能在 Safari 浏览器或类似“app”的浏览器中工作，而不是我习惯的 YT Music 应用程序。  我的问题是：您知道其他解决方案吗？提前谢谢大家！    提交人    /u/Can227   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gyo3ou/youtube_music_similar_apps_like_ravanced_for_ios/</guid>
+      <pubDate>Sun, 24 Nov 2024 10:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Regram 时没有通知？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gyo1fk/no_notifications_while_using_regram/</link>
+      <description><![CDATA[基本上就像标题所说的那样。即使我的通知在应用内和设置中都已打开，似乎也无法收到任何通知。有什么解决办法吗？    提交人    /u/evilboy123   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gyo1fk/no_notifications_while_using_regram/</guid>
+      <pubDate>Sun, 24 Nov 2024 10:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以让 tboi 侧载工作吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gynv09/any_way_to_make_tboi_work_sideloaded/</link>
+      <description><![CDATA[1.1 可以运行，但我想要 dlc，而 1.4 只会崩溃，我已经在 PC 上拥有带所有 dlc 的 tboi，并且 cba 可以为移动设备再次购买    提交人    /u/Competitive-Ad-6570   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gynv09/any_way_to_make_tboi_work_sideloaded/</guid>
+      <pubDate>Sun, 24 Nov 2024 10:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新后 SideStore 无法启动 - 我该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gynjeg/sidestore_does_not_start_after_refresh_what/</link>
+      <description><![CDATA[我已经安装了 SideStore 并手动刷新了应用程序。但此后 SideStore 不再启动。但应用程序是可见的。有人知道我该怎么办吗？我也刷新了其他应用程序，它们会定期启动。     提交人    /u/danielblogo55   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gynjeg/sidestore_does_not_start_after_refresh_what/</guid>
+      <pubDate>Sun, 24 Nov 2024 09:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我断开 Wi-Fi 连接并连接到蜂窝网络时，应用程序被撤销。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gyn9cf/apps_revoked_when_i_disconnect_from_wifi_to/</link>
+      <description><![CDATA[  iOS 17.4.1 iPhone 13 mini  Shadowrocket 2.2.58 (2441)  自托管 adguardhome DNS（DoH 配置文件与 NextDNS、khoindvn DNS 类似）  Esign No log v5.0.2  越南邮电证书  我使用 u/PuReEnvyus 方法，当我从 Wi-Fi 切换到蜂窝网络时，证书被撤销了好几次。我正在使用 shadowrocket。我有一些问题。   我制定了 7 个证书域被拒绝的规则，但它们到达了我的 DNS 服务器。 （并且它们被我的 DNS 服务器阻止）  我制定了快捷方式自动化规则。    当我连接到 Wi-Fi 时  关闭蜂窝数据   打开飞行模式 等待 5 秒  关闭飞行模式     当我断开与 Wi-Fi 的连接时  打开飞行模式 等待 5 秒  打开飞行模式  打开蜂窝数据   我对证书服务器的了解有限，因此我不知道如何在从 Wi-Fi 断开到蜂窝网络时不泄露证书 DNS 请求。这里有任何解决方法吗？感谢您的阅读。    提交人    /u/kabereddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gyn9cf/apps_revoked_when_i_disconnect_from_wifi_to/</guid>
+      <pubDate>Sun, 24 Nov 2024 09:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>羽毛标志</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gyloxn/feather_sign/</link>
+      <description><![CDATA[出于某种原因，每次我尝试安装应用程序时，我都会卡在这里：（评论中的图片） 重新安装应用程序曾经是个诀窍，但是现在，它一直在发生，而且我已经更新了。 在线安装方法已打开，我有一个有效的证书。 我正在尝试下载一个 49 mb 的应用程序。    提交人    /u/latchlog   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gyloxn/feather_sign/</guid>
+      <pubDate>Sun, 24 Nov 2024 07:43:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载 YouTube 现在坏了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gykivw/is_sideloading_youtube_broken_now/</link>
+      <description><![CDATA[ 我像往常一样尝试侧载它，但它从未下载并弹出错误 我自己制作了它，但它“失败了”，因为我无法下载 youtube。  到目前为止有任何修复吗？    提交人    /u/qEndocytosis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gykivw/is_sideloading_youtube_broken_now/</guid>
+      <pubDate>Sun, 24 Nov 2024 06:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳侧载应用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gyiebm/best_side_load_app/</link>
+      <description><![CDATA[目前最好的侧载应用是 Signulous。每年只需 20 美元，您就可以上传自己的应用、自定义应用的标题和图标，甚至可以为商店中没有的应用签名。与其他服务不同，您无需担心修改后的应用会在 7 天内过期或不断被撤销。我已经使用它一年多了，它从未被撤销过 — 在我看来，这是一项可靠的投资。    提交者    /u/Icy_Combination_7619   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gyiebm/best_side_load_app/</guid>
+      <pubDate>Sun, 24 Nov 2024 04:10:04 GMT</pubDate>
+    </item>
     <item>
       <title>关于猩红</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gyft25/regardin_scarlet/</link>
@@ -13,7 +69,7 @@
       <pubDate>Sun, 24 Nov 2024 01:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>新手，侧载是否可以访问 App Store 上当前存在的任何应用程序？</title>
+      <title>新手，侧载可以让你访问 App Store 上当前存在的任何应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gydt00/newb_to_side_loading_does_it_let_you_access_any/</link>
       <description><![CDATA[App Store 上有一款我喜欢的应用。我是侧载的新手。几年前，我会越狱我的 iPhone。使用侧载，您可以访问 iOS App Store 上目前所有付费应用吗？还是只有某些特定的应用可用？    提交人    /u/beantown945   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gydt00/newb_to_side_loading_does_it_let_you_access_any/</guid>
@@ -50,65 +106,9 @@
     <item>
       <title>WSF 的侧载方法到底是什么？请解释一下</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gy86j4/the_heck_is_wsf_method_to_sideload_explain_us/</link>
-      <description><![CDATA[有人说最好签名    由   提交  /u/Prestigious-Guide-61   [链接] [评论]]]></description>
+      <description><![CDATA[有人说得比 esign 好    由   提交  /u/Prestigious-Guide-61   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gy86j4/the_heck_is_wsf_method_to_sideload_explain_us/</guid>
       <pubDate>Sat, 23 Nov 2024 19:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试在 iPhone 8+ (16.3.1) 上侧载 TrollInstallerX，但似乎找不到方法。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy81k5/im_trying_to_sideload_trollinstallerx_on_my/</link>
-      <description><![CDATA[就像标题所说的那样，我试图将 trollinstallerx 的 IPA 侧载到我的旧 iPhone 上，但我的所有选项都不起作用。它的充电/数据端口坏了，所以任何 PC 方法（如 Altstore 或 Sidestore）都行不通。Scarlet 仍然被吊销，所以这是行不通的，我试过所有的 Esign，它们都显示被吊销了。几天前，这部手机刚刚被彻底清除，并设置为新的，所以我知道这不是黑名单问题。所以伙计们，还有其他我没有想到的选项吗？我似乎记得很久以前，当我第一次将 Trollstore 放在这部手机上时，它来自一个只需单击安装类型的交易的网站，它会将应用程序放在你的手机上，它已经准备好了，但那是几年前的事了。    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy81k5/im_trying_to_sideload_trollinstallerx_on_my/</guid>
-      <pubDate>Sat, 23 Nov 2024 19:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何知道我的电子签名是否是无长版本？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy5jik/how_to_know_if_my_esign_is_the_no_longs_version/</link>
-      <description><![CDATA[帮助    由    /u/shakejeet  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy5jik/how_to_know_if_my_esign_is_the_no_longs_version/</guid>
-      <pubDate>Sat, 23 Nov 2024 17:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要安装 emuthreeds</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy5jhi/need_to_install_emuthreeds/</link>
-      <description><![CDATA[所以，我想安装 emuthreeds，但是我在 ios 上，所以我必须侧载它，问题是我没有电脑，所以我无法从 altstore 侧载它，那么有没有不需要电脑的 altstore 替代品呢？    提交人    /u/Ill-Row-4551   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy5jhi/need_to_install_emuthreeds/</guid>
-      <pubDate>Sat, 23 Nov 2024 17:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏海鸥</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy5ja7/gameseagull/</link>
-      <description><![CDATA[有人有最新版本的 GameSeagull (gamePidgeon tweak) .ipa 文件吗？我正在看 github，但他们只有 .deb 文件，而且我不知道如何从未越狱的手机上编译或添加它。  我使用 eSign。     提交人    /u/SpringVisible   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy5ja7/gameseagull/</guid>
-      <pubDate>Sat, 23 Nov 2024 17:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃根问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy4pm5/egern_issues/</link>
-      <description><![CDATA[一直在使用 Egern 删除一些烦人的 IAP，是否有人有与 Egern 兼容的应用程序的完整列表，或者是否有人知道帮助它与其他应用程序配合使用的指南？    提交人    /u/ClassyNClassic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy4pm5/egern_issues/</guid>
-      <pubDate>Sat, 23 Nov 2024 17:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴拉特罗裂缝</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy3alr/balatro_crack/</link>
-      <description><![CDATA[有人找到可用的了吗？    提交人    /u/Glittering_Egg2150   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy3alr/balatro_crack/</guid>
-      <pubDate>Sat, 23 Nov 2024 16:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚下载了 sidestore，打开应用程序时它会随机停止接收输入并在 10 秒后崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gy2fw9/just_downloaded_sidestore_when_opening_the_app_it/</link>
-      <description><![CDATA[有办法解决这个问题吗？或者我可以尝试其他方法吗？这很烦人，甚至无法刷新应用程序，ios 15.8 iphone 7    提交人    /u/yeyryr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gy2fw9/just_downloaded_sidestore_when_opening_the_app_it/</guid>
-      <pubDate>Sat, 23 Nov 2024 15:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>找不到可用的电子签名应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gxzqak/cant_find_a_working_esign_app/</link>
-      <description><![CDATA[大家好。我刚从安卓系统换了一部新的 iPhone 15，我想尝试一下侧载。有人建议我使用 eSign，但我就是找不到可用的下载链接。我下载的所有软件都无法安装。我读到这可能是由于被列入黑名单，但手机和我的苹果账户都是全新的。是不是因为我用的是 iOS 18？任何帮助都将不胜感激。    提交人    /u/HufferBread   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gxzqak/cant_find_a_working_esign_app/</guid>
-      <pubDate>Sat, 23 Nov 2024 13:34:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
