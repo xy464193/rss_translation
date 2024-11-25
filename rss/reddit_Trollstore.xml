@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:26:15 GMT</lastBuildDate>
+    <item>
+      <title>iOS 帮助</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1gz8yt9/ios_help/</link>
+      <description><![CDATA[我现在是iPhone8P，系统是ios16.7.10，所以上不了TrollStore，尝试降级到16.1，但是没有证书备份，无法升级到iOS17.1beta，有谁能帮我解决一下吗？    submitted by    /u/nitang   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1gz8yt9/ios_help/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:56:25 GMT</pubDate>
+    </item>
     <item>
       <title>巨魔商店</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1gycepk/trollstore/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道继续使用 TrollStore 支持的 iOS 版本有很多好处，但随着时间的推移，由于没有升级我的 IOS 版本，越来越多的问题开始出现，因为它越来越老旧和过时。无法配对我的新手表，无法配对我的新 EarPods 等……这让我想到更新版本。 如果我更新，如果我想继续侧载应用程序，我接下来还可以关注什么？    提交人    /u/james-isreal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gprkbw/what_to_do_if_i_update_ios_and_trollstore_is_no/</guid>
       <pubDate>Tue, 12 Nov 2024 18:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用相册而不是相机上传照片？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</link>
-      <description><![CDATA[iOS 上的某些应用不允许从相册上传照片。它要求获得相机权限才能拍照，但由于缺乏优化或谨慎，这些应用只能拍摄出糟糕的照片。  出于隐私原因，我也不想授予它相机权限。  是否有针对此类应用的调整或解决方法？    提交人    /u/texplorer1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gplbye/use_photo_album_to_upload_photos_instead_of_camera/</guid>
-      <pubDate>Tue, 12 Nov 2024 13:59:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

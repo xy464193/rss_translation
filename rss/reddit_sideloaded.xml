@@ -4,20 +4,27 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:26:23 GMT</lastBuildDate>
+    <item>
+      <title>IPAUniverse 一直在窃取我的存储库</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gz8tkq/ipauniverse_has_been_stealing_from_my_repository/</link>
+      <description><![CDATA[      我刚刚发现 IPAUniverse 已经开始逐行从我的存储库中窃取。我在 Discord 上通过 dm 了解到了这一点。 FNAF 3 FNAF 2 FNAF 2 的代码 Swiftgram 代码 Swiftgram    提交人    /u/Realmye   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gz8tkq/ipauniverse_has_been_stealing_from_my_repository/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 3-6 个人来帮助我管理服务器</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gz8pwl/need_36_people_who_can_help_me_with_my_server/</link>
+      <description><![CDATA[大家好，这是 Tweaks On Deck， 我正在寻找 3-6 位知识渊博的侧载爱好者，他们很乐意伸出援手并回答我在 Discord 中提出的问题。如果您有兴趣，请给我发送 DM，我会进行快速面试，看看您是否适合我的服务器。😁    提交人    /u/Tweaks_On_Deck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gz8pwl/need_36_people_who_can_help_me_with_my_server/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:42:52 GMT</pubDate>
+    </item>
     <item>
       <title>刷新了 SideStore，现在它在启动时崩溃了</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gz5hka/refreshed_sidestore_and_now_it_crashes_on_launch/</link>
       <description><![CDATA[今天开始使用 SideStore 的全新功能。使用它来侧载 Apollo reddit 客户端，到目前为止一切顺利。Apollo 运行良好。 但是，我在侧载的应用程序列表中（在 SideStore 应用程序内）意外点击了 SideStore 本身的“刷新”。应用程序必须重新安装，因此它中止了，我看到它刷新了自己（小饼状擦除动画）。 但是现在呢？我根本无法运行它，它每次启动时都会崩溃。与此同时，Apollo 仍然运行良好。 有什么方法可以让 SideStore 再次运行，而无需卸载并从头开始重新安装它？安装起来相当麻烦。 如果相关的话，在新 Apollo 安装（我可能愚蠢地决定保留所有默认扩展）、旧 Apollo 安装（一天后过期）和两个 SideStore 应用程序（安装时存在）之间，我处于 ​​10 个应用程序 ID 的限制。这可能是问题所在吗？ 欢迎提供任何提示。    提交人    /u/damp_circus   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gz5hka/refreshed_sidestore_and_now_it_crashes_on_launch/</guid>
       <pubDate>Mon, 25 Nov 2024 00:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助谁愿意加入我的服务器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gz312b/need_help_and_who_would_join_my_server/</link>
-      <description><![CDATA[大家好，我是 Jovani！ 我正在为侧载社区创建一个新的 Discord 服务器。它将包括以下内容：• 侧载和故障排除帮助• 避免被撤销的提示• 回购共享渠道• 友好且乐于助人的成员• 有关侧载的新闻和更新 我还在寻找 3-6 名版主来帮助管理服务器。如果您有兴趣，请告诉我！ 如果您想加入或有想法，请发表评论！让我们把这里打造成终极侧载中心！    提交人    /u/Tweaks_On_Deck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gz312b/need_help_and_who_would_join_my_server/</guid>
-      <pubDate>Sun, 24 Nov 2024 22:10:25 GMT</pubDate>
     </item>
     <item>
       <title>iOSRocket.com 回来了！</title>
@@ -36,7 +43,7 @@
     <item>
       <title>重复/克隆的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gyz878/duplicatecloned_apps/</link>
-      <description><![CDATA[我不确定在哪里可以问这个问题，但我很好奇我是否可以拥有 2 个相同的应用程序？比如，如果我侧面加载一些经过修改或调整的应用程序，然后从 AppStore 安装原始应用程序，是否可行？两者就像不同的应用程序，但却是同一件事，两者上的数据不同？    提交人    /u/Ready_Initiative_366   [link] [评论]]]></description>
+      <description><![CDATA[我不确定在哪里可以问这个问题，但我很好奇我是否可以拥有 2 个相同的应用程序？比如，如果我侧面加载一些经过修改或调整的应用程序，然后从 AppStore 安装原始应用程序，是否可行？两者会像不同的应用程序一样，但却是同一件事，两者上的数据不同？    提交人    /u/Ready_Initiative_366   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gyz878/duplicatecloned_apps/</guid>
       <pubDate>Sun, 24 Nov 2024 19:28:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      看一下图片，请告诉我我做错了什么？    提交人    /u/moonrise14   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gyr9fs/cant_sideload_a_single_app/</guid>
       <pubDate>Sun, 24 Nov 2024 13:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube 音乐 / 类似 Ravanced 的 iOS 应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gyo3ou/youtube_music_similar_apps_like_ravanced_for_ios/</link>
-      <description><![CDATA[大家好  我目前有一部 Pixel 4a，需要买一部新手机。通常我会再买一部安卓手机，但我不喜欢目前的安卓版本，太笨重、太大、太重等等，随便你怎么说。 所以我想换苹果。iPhone 15 Pro 的尺寸与我现在的 Pixel 4a 几乎相同。我想要和需要的是一款带有像样相机的小巧手机。老实说，我不关心应用程序等。除了一个应用程序：Youtube 音乐  我已经使用 Vanced Youtube Music 多年了，我不能再回去了。这是阻止我购买 iPhone 的唯一原因。所以我想问你是否有 Revanced for YT Music 的替代品。 我经常阅读像 VideoLite、Baking Soda 和Vinegar Safari Extensions 等，但它们只能在 Safari 浏览器或类似“app”的浏览器中工作，而不是我习惯的 YT Music 应用程序。  我的问题是：您知道其他解决方案吗？提前谢谢大家！    提交人    /u/Can227   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gyo3ou/youtube_music_similar_apps_like_ravanced_for_ios/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:33:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
