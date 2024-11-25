@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:10:00 GMT</lastBuildDate>
+    <item>
+      <title>请求 toca Boca 世界的一切解锁包括家具和/或烹饪狂热无限货币</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gztz6i/request_toca_boca_world_everything_unlocked/</link>
+      <description><![CDATA[实际上我到处都找不到那两个😭😭    提交人    /u/whosluciaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gztz6i/request_toca_boca_world_everything_unlocked/</guid>
+      <pubDate>Mon, 25 Nov 2024 21:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载我想要的应用程序后，我还需要使用 DNS 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gzt26p/do_i_still_need_to_use_the_dns_after_ive/</link>
+      <description><![CDATA[大家好！ 我对这类事情完全不了解，所以如果我的问题答案很明显而我完全没有注意到，我深表歉意。 我使用 ESign 侧载了 YTLitePlus，然后删除了 ESign，因为这就是我想要的。在使用 YTLitePlus 时，我是否仍需要使用 DNS，还是我已经准备好了？    提交人    /u/Diviup_Main   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gzt26p/do_i_still_need_to_use_the_dns_after_ive/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign DNS 崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gzq34q/esign_dns_crashing/</link>
+      <description><![CDATA[您好，基本上，我为 ESign 执行了 DNS 方法，我确实有效，但是当我关闭 wifi 并使用数据时，它就崩溃了，之后我尝试安装越南版的 ESign 应用程序，现在当我按下它时，它说无法验证完整性。我现在需要做什么？ • iOS 17.6.1 iPhone 15 promax • 自托管 adguardhome DNS（DoH 配置文件与 NextDNS、khoindvn DNS 类似）• Esign No log v5.0.2 • 越南邮电证书我使用 u/PuReEnvyus 方法，当我从 Wi-Fi 切换到蜂窝网络时，我被撤销了几次。我正在使用 shadowrocket。我有一些问题。1. 我制定了 7 个证书域被拒绝的规则，但它们到达了我的 DNS 服务器。 （并且它们被我的 DNS 服务器阻止） 2. 我制定了快捷方式自动化规则。 • 当我连接到 Wi-Fi 时， • 关闭蜂窝数据 • 开启飞行模式 • 等待 5 秒 • 关闭飞行模式 • 当我断开与 Wi-Fi 的连接时 • 开启飞行模式 • 等待 5 秒 • 开启飞行模式 • 开启蜂窝数据 我对证书服务器的了解，所以我不知道如何在断开与 wifi 的连接时不泄露证书 DNS 请求    提交人    /u/RigidSteak   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gzq34q/esign_dns_crashing/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:33:48 GMT</pubDate>
+    </item>
     <item>
       <title>如何解密ipa？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gzp7ej/how_to_decrypt_ipa/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[大家好，我在 iOS 18 上使用 Feather（最新更新版本）的服务器/在线方法，但我遇到了一个非常令人沮丧且看似随机的问题。有时，我可以正常安装应用程序（我收到 iTunes 安装提示），但有时应用程序会在应用程序内的 Safari 弹出窗口中无缘无故地冻结。 然而，在过去的两天里，无论我关闭并重新打开应用程序多少次，它都根本不起作用。我搞不清楚是什么原因造成的，也不知道为什么它有时有效，有时无效，完全是随机的。 有没有人遇到过这种情况？是否有我可能遗漏的解决方法或解决方案？ 提前致谢！    提交人    /u/RaduRadu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gzm18v/feather_on_ios_18_app_installation_issues_with/</guid>
       <pubDate>Mon, 25 Nov 2024 15:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gzkwq1/esign_crashing/</link>
-      <description><![CDATA[您好，我刚刚首次下载了 esign，但当我尝试打开它时，它在 1 秒内崩溃了。为什么会发生这种情况？我该如何修复它？    由    /u/jumperbutnot  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gzkwq1/esign_crashing/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:06:28 GMT</pubDate>
     </item>
     <item>
       <title>您能从 ESign 中删除 repo 源吗？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好，  我刚刚设置完服务器，但仍在添加机器人。所以，它还没有完全准备好。我很想听听你们的反馈。有人有兴趣加入吗？另外，我还需要添加或做什么吗？我不确定所有类别和频道是否看起来都不错。请告诉我你的想法！    提交人    /u/Tweaks_On_Deck   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gzaajg/new_sideloading_discord_server/</guid>
       <pubDate>Mon, 25 Nov 2024 04:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPAUniverse 一直在窃取我的存储库</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gz8tkq/ipauniverse_has_been_stealing_from_my_repository/</link>
-      <description><![CDATA[      我刚刚发现 IPAUniverse 已经开始逐行从我的存储库中窃取。我在 Discord 上通过 dm 了解到了这一点。 FNAF 3 FNAF 2 FNAF 2 的代码 Swiftgram 代码 Swiftgram    提交人    /u/Realmye   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gz8tkq/ipauniverse_has_been_stealing_from_my_repository/</guid>
-      <pubDate>Mon, 25 Nov 2024 02:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 3-6 个人来帮助我管理服务器</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gz8pwl/need_36_people_who_can_help_me_with_my_server/</link>
-      <description><![CDATA[大家好，这是 Tweaks On Deck， 我正在寻找 3-6 位知识渊博的侧载爱好者，他们很乐意伸出援手并回答我在 Discord 中提出的问题。如果您有兴趣，请给我发送 DM，我会进行快速面试，看看您是否适合我的服务器。😁    提交人    /u/Tweaks_On_Deck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gz8pwl/need_36_people_who_can_help_me_with_my_server/</guid>
-      <pubDate>Mon, 25 Nov 2024 02:42:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
