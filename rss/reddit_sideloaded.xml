@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 26 Nov 2024 00:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 03:25:08 GMT</lastBuildDate>
+    <item>
+      <title>还有谁遇到了 Spotilife 的问题？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h007ds/anyone_else_having_problems_with_spotilife/</link>
+      <description><![CDATA[最近，我一直尝试在后台播放音乐，但每隔 15-30 秒，应用程序就会崩溃。还有人遇到这个问题吗？    提交人    /u/NTXSirens   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h007ds/anyone_else_having_problems_with_spotilife/</guid>
+      <pubDate>Tue, 26 Nov 2024 01:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有经过调整的 Reddit ipa 可以让我隐藏热门、新闻、观看和除我个人订阅之外的所有内容？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gzztp1/is_there_a_tweaked_reddit_ipa_that_allows_me_to/</link>
+      <description><![CDATA[就像标题所说的那样。我想简化 Reddit，这样我就可以忽略所有噪音，除了我选择的舒适社区。 当然，这不会剥夺通过搜索功能搜索新内容的能力。    提交人    /u/luis-mercado   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gzztp1/is_there_a_tweaked_reddit_ipa_that_allows_me_to/</guid>
+      <pubDate>Tue, 26 Nov 2024 01:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚进行了侧载，这是什么意思？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1gzzavn/i_have_sideloaded_in_a_while_what_does_this_mean/</link>
+      <description><![CDATA[我试图侧载某些内容，但它说它缺乏完整性？这是什么鬼？ 编辑标题：有一段时间没有侧载了*    提交人    /u/Jaaacccooob   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1gzzavn/i_have_sideloaded_in_a_while_what_does_this_mean/</guid>
+      <pubDate>Tue, 26 Nov 2024 00:58:58 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 iPad 上获取 apk？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gzz4on/how_to_get_apks_on_ipads/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我不知道如何使用 egern 获得免费应用购买（iOS）    提交人    /u/Fit_Adagio_820   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gzouai/help_using_egern/</guid>
       <pubDate>Mon, 25 Nov 2024 17:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>uyou 增强了 sideloadly 中的侧载问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gznceh/uyou_enhanced_sideloading_trouble_in_sideloadly/</link>
-      <description><![CDATA[这种情况已经发生一个多星期了，每当我尝试通过 sideloadly 侧载 Uyou 增强版时，它都会花费异常长的时间并最终失败。我尝试过其他应用程序，它们都运行正常，所以一定是 ipa 本身的问题。我今天刚从 github 创建了一个新的，但问题仍然出现。有什么帮助吗？以前 ipa 没问题。    提交人    /u/Shit_commenter_69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gznceh/uyou_enhanced_sideloading_trouble_in_sideloadly/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:47:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>绕过撤销的最佳 DNS 方法</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gzn5v4/best_dns_method_for_bypassing_revokes/</link>
-      <description><![CDATA[https://youtu.be/OysjLfxNu_g?si=k8lld7AwyPVXr_-V    由   提交  /u/Ok_Name529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gzn5v4/best_dns_method_for_bypassing_revokes/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 上的 Feather：在线安装方法的应用安装问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gzm18v/feather_on_ios_18_app_installation_issues_with/</link>
-      <description><![CDATA[大家好，我在 iOS 18 上使用 Feather（最新更新版本）的服务器/在线方法，但我遇到了一个非常令人沮丧且看似随机的问题。有时，我可以正常安装应用程序（我收到 iTunes 安装提示），但有时应用程序会在应用程序内的 Safari 弹出窗口中无缘无故地冻结。 然而，在过去的两天里，无论我关闭并重新打开应用程序多少次，它都根本不起作用。我搞不清楚是什么原因造成的，也不知道为什么它有时有效，有时无效，完全是随机的。 有没有人遇到过这种情况？是否有我可能遗漏的解决方法或解决方案？ 提前致谢！    提交人    /u/RaduRadu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gzm18v/feather_on_ios_18_app_installation_issues_with/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:54:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
