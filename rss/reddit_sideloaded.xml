@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 26 Nov 2024 06:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 09:11:53 GMT</lastBuildDate>
+    <item>
+      <title>signulous 又被撤销了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h07136/signulous_revoked_again/</link>
+      <description><![CDATA[或者只有我..    由    /u/ghostintacobell 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h07136/signulous_revoked_again/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>是否可以免费侧载 re4 的完整游戏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h029yj/is_is_possible_to_sideload_re4_with_full_game_for/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>Esign 后台刷新是起什么作用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1gzvvi4/esign_background_refresh_what_does_it_do/</link>
-      <description><![CDATA[您好，我是电子签名和侧载的新手，我想知道“保持在后台运行”选项有什么用，我应该保持打开还是关闭它？是不是在安装应用程序时，我可以退出应用程序并在安装应用程序时做其他事情？    提交人    /u/KenankillerYT   [link] [评论]]]></description>
+      <description><![CDATA[您好，我是电子签名和侧载的新手，我想知道“保持在后台运行”选项有什么用，我应该保持其打开还是关闭？是不是因为在安装应用程序时我可以退出应用程序并在安装应用程序时做其他事情？    提交人    /u/KenankillerYT   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gzvvi4/esign_background_refresh_what_does_it_do/</guid>
       <pubDate>Mon, 25 Nov 2024 22:25:48 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，基本上，我为 ESign 执行了 DNS 方法，我确实有效，但是当我关闭 wifi 并使用数据时，它就崩溃了，之后我尝试安装越南版的 ESign 应用程序，现在当我按下它时，它说无法验证完整性。我现在需要做什么？ • iOS 17.6.1 iPhone 15 promax • 自托管 adguardhome DNS（DoH 配置文件与 NextDNS、khoindvn DNS 类似）• Esign No log v5.0.2 • 越南邮电证书我使用 u/PuReEnvyus 方法，当我从 Wi-Fi 切换到蜂窝网络时，我被撤销了几次。我正在使用 shadowrocket。我有一些问题。1. 我制定了 7 个证书域被拒绝的规则，但它们到达了我的 DNS 服务器。 （并且它们被我的 DNS 服务器阻止） 2. 我制定了快捷方式自动化规则。 • 当我连接到 Wi-Fi 时， • 关闭蜂窝数据 • 开启飞行模式 • 等待 5 秒 • 关闭飞行模式 • 当我断开与 Wi-Fi 的连接时 • 开启飞行模式 • 等待 5 秒 • 开启飞行模式 • 开启蜂窝数据 我对证书服务器的了解，所以我不知道如何在断开与 wifi 的连接时不泄露证书 DNS 请求    提交人    /u/RigidSteak   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1gzq34q/esign_dns_crashing/</guid>
       <pubDate>Mon, 25 Nov 2024 18:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解密ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1gzp7ej/how_to_decrypt_ipa/</link>
-      <description><![CDATA[我有 farm simulator 20 iPA 文件，我想尝试在其上启用 IAP。    提交人    /u/A_MasteR_at_WorK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1gzp7ej/how_to_decrypt_ipa/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:59:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
