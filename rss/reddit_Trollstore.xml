@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 27 Nov 2024 09:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 12:20:12 GMT</lastBuildDate>
+    <item>
+      <title>这意味着什么？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</link>
+      <description><![CDATA[      我从 decrypt.day 安装了一个 ipa，安装时出现此错误  调试日志： 2024-11-27 13:20:23.805 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Deny -&gt; 0 2024-11-27 13:20:23.817 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Initialize -&gt; com.opa334.TrollStore、trollstorehelper、/var/containers/Bundle/Application/DF92B85F-E562-4645-8309-EDE93042B729/TrollStore.app/trollstorehelper、LynxRootless.xm 2024-11-27 13:20:24.182 trollstorehelper[73263:6208100] [SnowBoard Launcher] 加载程序检查已通过。正在加载 SnowBoard... 2024-11-27 13:20:24.188 trollstorehelper[73263:6208100] 正在初始化 Snowboard（版本：1.5.37-Beta4-rootless 编译时间：2024 年 7 月 9 日：00:24:46）在应用程序中：trollstorehelper... 2024-11-27 13:20:24.757 trollstorehelper[73263:6208100] trollstorehelper 使用参数调用：（install、custom、“/private/var/mobile/Containers/Shared/AppGroup/FCF24F1D-EF61-40FB-87DC-18A6CA69FDD0/File Provider” Storage/Downloads/com.noodlecake.superliminal_1.14_und3fined.ipa&quot; ) (null) 2024-11-27 13:20:30.731 trollstorehelper[73263:6208100] trollstorehelper 返回 168    提交人    /u/MKTAB_   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</guid>
+      <pubDate>Wed, 27 Nov 2024 11:26:50 GMT</pubDate>
+    </item>
     <item>
       <title>使用 trollstore 安装了 fortnite，没想到它可以在 ios 16.1 上运行</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 iPhone X 15.6.1 上通过 TrollStore 下载 fn 时崩溃了，我很困惑兄弟    提交人    /u/Then-Promotion-9268   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gqrsf7/crashing/</guid>
       <pubDate>Thu, 14 Nov 2024 00:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一部 iPhone 12 Pro（16.1.2），下载 Trollstore 时设置中的个人资料未显示</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gprra6/i_have_an_iphone_12_pro_1612_and_profile_in/</link>
-      <description><![CDATA[所以我下载了 Trollstore，但它不允许我在设置/设备管理中安装/允许配置文件。 它根本就没有显示出来。如果我要安装 VPN 配置文件或任何其他配置文件，它会显示出来，但 Trollstore 不会显示。有人能帮我吗？    提交人    /u/CharlieSheed   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gprra6/i_have_an_iphone_12_pro_1612_and_profile_in/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
