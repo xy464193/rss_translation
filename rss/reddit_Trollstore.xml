@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 28 Nov 2024 03:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:15:15 GMT</lastBuildDate>
+    <item>
+      <title>TrollStore 之后不再自动锁屏</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1h1p8xq/no_auto_screen_lock_after_trollstore/</link>
+      <description><![CDATA[iPhone 11 ProMax IOS 16.6.1 安装 TrollStore 后，iPhone 停止了自动屏幕变暗或锁定设置的设置时间。我试着记住按下侧面按钮来锁定它，但显然我时​​不时会忘记。有时电池会因此耗尽，如果丢失和找到也会出现隐私问题。 我已经在 Google 上搜索并遵循了几乎所有我发现的方法，甚至认为我解决了它。但它在一两天后又回来了。现在，如果我忘记按下屏幕锁定，手机永远不会锁定，尽管设置中设置了 30 秒的时间。  有人遇到过这个问题吗？有解决办法吗？    提交人    /u/robi_750   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1h1p8xq/no_auto_screen_lock_after_trollstore/</guid>
+      <pubDate>Thu, 28 Nov 2024 05:55:03 GMT</pubDate>
+    </item>
     <item>
       <title>这意味着什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道存在类似 adguard DNS 的东西，但我不想在所有应用上都屏蔽添加内容，因为这会导致某些应用无法正常工作，但有没有办法只在特定的应用上这样做呢？    提交人    /u/stressedig   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gta15r/is_there_a_way_to_inject_some_kind_of_adblocker/</guid>
       <pubDate>Sun, 17 Nov 2024 09:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>崩溃</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gqrsf7/crashing/</link>
-      <description><![CDATA[在 iPhone X 15.6.1 上通过 TrollStore 下载 fn 时崩溃了，我很困惑兄弟    提交人    /u/Then-Promotion-9268   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gqrsf7/crashing/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

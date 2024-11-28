@@ -4,9 +4,16 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 28 Nov 2024 03:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:15:20 GMT</lastBuildDate>
     <item>
-      <title>值得信赖的 IPA 网站</title>
+      <title>有没有什么app可以实现ipad和android之间的文件共享？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1nsta/is_there_any_app_for_file_sharing_between_ipad/</link>
+      <description><![CDATA[我所说的文件是指 35-40 GB 这样的大文件。我尝试过的各种应用程序和网站的速度都非常慢。所以我想知道是否有任何应用程序的专业版 ipa 可以高速传输。  请告诉我是否还有其他方法可以在 ipad 和 android 之间传输文件。（我想要的速度接近 10mb/s）。  我使用的设备是 Ipad Air4 和三星 Galaxy S21。     提交人    /u/Neta03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1nsta/is_there_any_app_for_file_sharing_between_ipad/</guid>
+      <pubDate>Thu, 28 Nov 2024 04:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPA 的可信网站</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h1loy0/trusted_websites_for_ipas/</link>
       <description><![CDATA[拜托，我不想感染病毒，而且我使用的存储库没有我想要的所有应用程序    提交人    /u/Careful_Date_2424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1loy0/trusted_websites_for_ipas/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 27 Nov 2024 23:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>除 Feather 外，所有侧载应用程序均可正常工作，我该怎么办？</title>
+      <title>除 Feather 外，所有侧载应用程序均可正常运行，我该怎么办？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</link>
       <description><![CDATA[嗨，我在使用 ios 17，我正在使用 dns 方法进行侧向定位。 自 9 月以来一切都很好，所有应用程序都在运行（yt 和 apollo），但今天我打算添加一个 repo，但我发现 feather 不可用。 我现在能做什么？你能建议我一种再次安装它的方法吗？谢谢    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人有 VIP 吗？可以送我最新的游戏下载吗？😩🙏🏻    提交人    /u/YungPlagueGFiveNine   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1av8c/iosgods_vip_app_request/</guid>
       <pubDate>Wed, 27 Nov 2024 18:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SultanMods 现在有一个 Repo</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1afjq/sultanmods_has_a_repo_now/</link>
-      <description><![CDATA[https://repo.sultanmods.fyi 请注意，由于该仓库是昨天创建的，因此并非所有应用程序都已在那里填充。    提交人    /u/angkitbharadwaj   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1afjq/sultanmods_has_a_repo_now/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:57:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
