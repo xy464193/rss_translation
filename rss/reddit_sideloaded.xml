@@ -4,16 +4,30 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 28 Nov 2024 18:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 21:10:00 GMT</lastBuildDate>
     <item>
-      <title>ppq 检查是否存在问题？我是否会因为与常规应用程序具有相同的 bundle id 的侧载而受到困扰？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h221tw/is_ppq_check_a_problem_and_can_i_get_screwed_for/</link>
-      <description><![CDATA[我知道 instagram 和许多应用程序一样，会检查自己的 bundle id “burbn”。所以这就是为什么它不能有不同的 bundle id。 但我读过 feather 的文档，上面说禁用 ppq 检查意味着你可能会被屏蔽。这是否意味着我的设备也将被列入签名证书黑名单？这真的是个问题还是只是一个警告？撤销是一种保证还是只是一种“记住”？ 那么人们如何在侧载时安全地使用像 modded instagram 和 watusi 这样的应用程序？ 正如你所看到的，我最近从越狱和 ts 切换过来；并且对当前的侧载场景没有任何了解。所以请不要介意我的愚蠢问题哈哈。    提交人    /u/Shitda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h221tw/is_ppq_check_a_problem_and_can_i_get_screwed_for/</guid>
-      <pubDate>Thu, 28 Nov 2024 18:12:00 GMT</pubDate>
+      <title>如何获得 ESign？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2464h/how_do_i_get_esign/</link>
+      <description><![CDATA[不是免费的，是真正的，需要证书的    提交人    /u/Careful_Date_2424   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2464h/how_do_i_get_esign/</guid>
+      <pubDate>Thu, 28 Nov 2024 19:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>我是这个板块的新手。如何下载 esign？</title>
+      <title>帮我安装 Snapchat falcon</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h23x93/help_me_how_to_install_snapchat_falcon/</link>
+      <description><![CDATA[帮我安装 snapchat falcon    提交人    /u/Limp-Home418   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h23x93/help_me_how_to_install_snapchat_falcon/</guid>
+      <pubDate>Thu, 28 Nov 2024 19:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore Wireguard 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h226uk/sidestore_wireguard_problem/</link>
+      <description><![CDATA[嗨， 我已经安装了 SideStore 和 Wireguard，但无法将任何应用程序加载到其中。Sidestore 显示我未连接，但我已通过 VPN 连接。 有人知道吗？使用我的其他设备一切正常……    提交人    /u/danielblogo55   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h226uk/sidestore_wireguard_problem/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是这个子版块的新手。如何下载 esign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</link>
       <description><![CDATA[正文     由   提交  /u/realatd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</guid>
@@ -62,7 +76,7 @@
       <pubDate>Thu, 28 Nov 2024 04:27:30 GMT</pubDate>
     </item>
     <item>
-      <title>IPA 的可信网站</title>
+      <title>值得信赖的 IPA 网站</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h1loy0/trusted_websites_for_ipas/</link>
       <description><![CDATA[拜托，我不想感染病毒，而且我使用的存储库没有我想要的所有应用程序    提交人    /u/Careful_Date_2424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1loy0/trusted_websites_for_ipas/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我在使用 ios 17，我正在使用 dns 方法进行侧向定位。 自 9 月以来一切都很好，所有应用程序都在运行（yt 和 apollo），但今天我打算添加一个 repo，但我发现 feather 不可用。 我现在能做什么？你能建议我一种再次安装它的方法吗？谢谢    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</guid>
       <pubDate>Wed, 27 Nov 2024 22:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Runna App 已破解</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1hbzk/runna_app_cracked/</link>
-      <description><![CDATA[我尝试过 Egern VPN 和 SatellaJailed，但都没用。 我有“Runna”的普通 ipa，但我想要一个可以免费获得高级版的。 有两个月前的一个，但它不起作用，因为它要求你更新到最新版本。 有人能破解这个吗？    提交人    /u/CreeperBoy283   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hbzk/runna_app_cracked/</guid>
-      <pubDate>Wed, 27 Nov 2024 22:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Egern 恢复购买 - Runna</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1ggj3/egern_restore_purchase_runna/</link>
-      <description><![CDATA[      我购买了 Egern，正在尝试使用免费的 iAP（指南附在本帖中），根据他们的指南，Runna 可以正常工作。 当我单击恢复时，它显示成功，但是当我单击完成时，它仍然告诉我购买，并且所有高级功能都不起作用。 有人知道为什么吗？    提交人    /u/CreeperBoy283   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1ggj3/egern_restore_purchase_runna/</guid>
-      <pubDate>Wed, 27 Nov 2024 22:12:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
