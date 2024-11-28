@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 27 Nov 2024 21:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 00:51:24 GMT</lastBuildDate>
+    <item>
+      <title>如何在 SideLoaded Apps 中打开链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1is2h/how_to_have_links_open_in_sideloaded_apps/</link>
+      <description><![CDATA[超级简单，安装此 Safari 浏览器扩展程序，链接将在侧载应用中打开！不支持所有应用，但对于大多数应用来说，它非常棒。  https://apps.apple.com/app/id1591585819    提交人    /u/palboeskabor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1is2h/how_to_have_links_open_in_sideloaded_apps/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何开始破解应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1hts7/how_to_start_cracking_apps/</link>
+      <description><![CDATA[      学习如何破解应用程序有多难？ 没有人更新我想要一个名为“Runna”的应用程序，那么学习如何做类似 IPAUniverse 在链接中所做的事情有多难呢？ 我说的不仅仅是将 Satella 注入 ipa，而是像 IPAUniverse、CyPwn 和 AppTesters 那样破解它们。 他们如何破解它并在其中注入 premium。    提交人    /u/CreeperBoy283   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hts7/how_to_start_cracking_apps/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>除 Feather 外，所有侧载应用程序均可正常运行，我该怎么办？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</link>
+      <description><![CDATA[嗨，我在使用 ios 17，我正在使用 dns 方法进行侧向定位。 自 9 月以来一切都很好，所有应用程序都在运行（yt 和 apollo），但今天我打算添加一个 repo，但我发现 feather 不可用。 我现在能做什么？你能建议我一种再次安装它的方法吗？谢谢    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</guid>
+      <pubDate>Wed, 27 Nov 2024 22:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Runna App 已破解</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1hbzk/runna_app_cracked/</link>
+      <description><![CDATA[我尝试过 Egern VPN 和 SatellaJailed，但都没用。 我有“Runna”的普通 ipa，但我想要一个可以免费获得高级版的。 有两个月前的一个，但它不起作用，因为它要求你更新到最新版本。 有人能破解这个吗？    提交人    /u/CreeperBoy283   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hbzk/runna_app_cracked/</guid>
+      <pubDate>Wed, 27 Nov 2024 22:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Egern 恢复购买 - Runna</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1ggj3/egern_restore_purchase_runna/</link>
+      <description><![CDATA[      我购买了 Egern，正在尝试使用免费的 iAP（指南附在本帖中），根据他们的指南，Runna 可以正常工作。 当我单击恢复时，它显示成功，但是当我单击完成时，它仍然告诉我购买，并且所有高级功能都不起作用。 有人知道为什么吗？    提交人    /u/CreeperBoy283   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1ggj3/egern_restore_purchase_runna/</guid>
+      <pubDate>Wed, 27 Nov 2024 22:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前最好的免费侧载方式是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1f5pw/whats_the_best_free_way_to_sideload_rn/</link>
+      <description><![CDATA[我是新手，请不要投反对票    提交人    /u/Silver-Spot1183   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1f5pw/whats_the_best_free_way_to_sideload_rn/</guid>
+      <pubDate>Wed, 27 Nov 2024 21:15:22 GMT</pubDate>
+    </item>
     <item>
       <title>签名随机停止工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h1e40e/signings_stop_working_randomly/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我有一个付费开发者帐户，我有一台 PC 但没有 MacBook。通过侧载访问我自己的开发者帐户的最佳方法是什么？    提交人    /u/bryceisonline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h19av6/best_method_for_apple_developer_account/</guid>
       <pubDate>Wed, 27 Nov 2024 17:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h17l2l/help/</link>
-      <description><![CDATA[      我该如何安装 scarlet？我已经安装了，但它一直说无法安装，因为无法验证它的完整性，当我进入 VPN 和设备管理时，那里什么都没有    提交人    /u/Just_Zack3816   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h17l2l/help/</guid>
-      <pubDate>Wed, 27 Nov 2024 15:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 修改版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h16jk8/instagram_modded_versions/</link>
-      <description><![CDATA[我可以用 YTLite 和 uYouEnhanced 跟踪 Yotube 之类的东西，但有人能不能帮我简化一下 Instagram 上看似种类繁多的调整和修改之间的区别？我们有 InstaRocket、InstaRocketBH、InstaRocketPlus、InstagramElite、Instagram LRD，然后还有 Theta 和 Nyx？目前，我刚刚在官方 Instagram 上试用过 Rocket，在我之前的 iPhone 上试用过，但如果能得到关于目前最佳选择的反馈就好了。     提交人    /u/Tranquillian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h16jk8/instagram_modded_versions/</guid>
-      <pubDate>Wed, 27 Nov 2024 15:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有已知的开发证书提供商</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h157jv/all_known_dev_certificate_providers/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h157jv/all_known_dev_certificate_providers/</guid>
-      <pubDate>Wed, 27 Nov 2024 14:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SideStore 未刷新</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h14yuy/sidestore_not_refreshing/</link>
-      <description><![CDATA[当我尝试刷新 SideStore 时，它​​会正常关闭，并且会出现加载动画，但 SideStore 不会刷新。我尝试了所有方法。请帮帮我，我只剩下 2 天的时间了    提交人    /u/Jacket124   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h14yuy/sidestore_not_refreshing/</guid>
-      <pubDate>Wed, 27 Nov 2024 14:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以在 kravasign 上使用 Paypal 付款吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h14ixl/can_you_pay_with_paypal_on_kravasign/</link>
-      <description><![CDATA[请告诉我    由   提交  /u/Last-Ad-2006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h14ixl/can_you_pay_with_paypal_on_kravasign/</guid>
-      <pubDate>Wed, 27 Nov 2024 13:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp WATUSI 重复破解</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h146ge/whatsapp_watusi_duplicate_crack/</link>
-      <description><![CDATA[有人有破解版的 ipa 吗？？？    提交人    /u/TheDealer__   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h146ge/whatsapp_watusi_duplicate_crack/</guid>
-      <pubDate>Wed, 27 Nov 2024 13:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
