@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 28 Nov 2024 15:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 18:14:00 GMT</lastBuildDate>
+    <item>
+      <title>ppq 检查是否存在问题？我是否会因为与常规应用程序具有相同的 bundle id 的侧载而受到困扰？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h221tw/is_ppq_check_a_problem_and_can_i_get_screwed_for/</link>
+      <description><![CDATA[我知道 instagram 和许多应用程序一样，会检查自己的 bundle id “burbn”。所以这就是为什么它不能有不同的 bundle id。 但我读过 feather 的文档，上面说禁用 ppq 检查意味着你可能会被屏蔽。这是否意味着我的设备也将被列入签名证书黑名单？这真的是个问题还是只是一个警告？撤销是一种保证还是只是一种“记住”？ 那么人们如何在侧载时安全地使用像 modded instagram 和 watusi 这样的应用程序？ 正如你所看到的，我最近从越狱和 ts 切换过来；并且对当前的侧载场景没有任何了解。所以请不要介意我的愚蠢问题哈哈。    提交人    /u/Shitda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h221tw/is_ppq_check_a_problem_and_can_i_get_screwed_for/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是这个板块的新手。如何下载 esign？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</link>
+      <description><![CDATA[正文     由   提交  /u/realatd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>找不到开发者模式（iOS）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1yvxc/cant_find_developer_mode_ios/</link>
+      <description><![CDATA[我在用 Iphone。我有 Signulous，我想模仿 Pokémon go。它说我安装了软件，并告诉我打开开发模式，但我进入安全中的隐私，却找不到开发模式。我在 iOS 18 上，并且完全是最新的。 救命！    提交人    /u/grego9907   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1yvxc/cant_find_developer_mode_ios/</guid>
+      <pubDate>Thu, 28 Nov 2024 15:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 调整以屏蔽所有信息流</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h1ydc0/instagram_tweak_that_blocks_all_the_feed/</link>
+      <description><![CDATA[大家好，是否有任何 Instagram 调整仍在维护并支持“阻止所有 feed 内容”功能？     由   提交  /u/CHASUS33   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h1ydc0/instagram_tweak_that_blocks_all_the_feed/</guid>
+      <pubDate>Thu, 28 Nov 2024 15:27:39 GMT</pubDate>
+    </item>
     <item>
       <title>为什么没人能够调整 TuneIn Pro？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h1x1u7/why_nobody_is_able_to_tweak_tunein_pro/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      我购买了 Egern，正在尝试使用免费的 iAP（指南附在本帖中），根据他们的指南，Runna 可以正常工作。 当我单击恢复时，它显示成功，但是当我单击完成时，它仍然告诉我购买，并且所有高级功能都不起作用。 有人知道为什么吗？    提交人    /u/CreeperBoy283   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1ggj3/egern_restore_purchase_runna/</guid>
       <pubDate>Wed, 27 Nov 2024 22:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最好的免费侧载方式是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1f5pw/whats_the_best_free_way_to_sideload_rn/</link>
-      <description><![CDATA[我是新手，请不要投反对票 编辑：我已经安装了 E-Sign，它运行良好 感谢大家的帮助！    提交人    /u/Silver-Spot1183   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1f5pw/whats_the_best_free_way_to_sideload_rn/</guid>
-      <pubDate>Wed, 27 Nov 2024 21:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>签名随机停止工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1e40e/signings_stop_working_randomly/</link>
-      <description><![CDATA[我的 signulous 签名会在一段时间后自动停止工作，并且 vpn 和管理目录中的验证也会消失。有解决这个问题的方法吗？    提交人    /u/Iamazamkhan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1e40e/signings_stop_working_randomly/</guid>
-      <pubDate>Wed, 27 Nov 2024 20:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iOS 上直接显示包内容</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1e2cp/show_package_contents_directly_on_ios/</link>
-      <description><![CDATA[嘿！有谁知道一个好的 iOS 文件管理器（应用商店或侧载，我不在乎）可以让我打开 .app 包？我希望能够像在 macOS 上一样在 iOS 上访问 .app 包的内容。可能吗？（不是指已安装的应用程序，只是单纯的包文件）    提交人    /u/Isacucho   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1e2cp/show_package_contents_directly_on_ios/</guid>
-      <pubDate>Wed, 27 Nov 2024 20:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>MH 现在</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1d51o/mh_now/</link>
-      <description><![CDATA[只是想知道 MH Now 是否会更新？上一次是在 7 月。    由   提交  /u/Joshyv123   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1d51o/mh_now/</guid>
-      <pubDate>Wed, 27 Nov 2024 19:48:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
