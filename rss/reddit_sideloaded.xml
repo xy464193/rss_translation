@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 29 Nov 2024 09:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:19:56 GMT</lastBuildDate>
+    <item>
+      <title>如何通过 esign 使用 misaka</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2ja9i/how_to_use_misaka_via_esign/</link>
+      <description><![CDATA[我尝试通过 esign 安装 misaka，应用程序安装正常。但是大多数调整都说不支持，我该怎么办？ iphone 13 ios 18    提交人    /u/Icy_Reception2918   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2ja9i/how_to_use_misaka_via_esign/</guid>
+      <pubDate>Fri, 29 Nov 2024 10:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>Strava 优质工作 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2gdul/strava_premium_working_ipa/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Live Container 打开错误的应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2flux/live_container_opening_the_wrong_app/</link>
-      <description><![CDATA[我已通过在 SideStore 上切换 Apple ID 然后刷新它安装了多个 SideStore，出现了一个新的 SideStore 实例。我已经使用 SideStore 安装了 SideStore，当我单击更新无 jit 证书时，它会打开错误的 SideStore 并显示应用程序 LiveContainer 不存在。有没有什么解决办法？我不知道该怎么办    提交人    /u/Jacket124   [link] [评论]]]></description>
+      <description><![CDATA[我通过在 SideStore 上切换 Apple ID 然后刷新它安装了多个 Sidestore，出现了一个新的 SideStore 实例。我已经安装了带有 SideStore 的 LiveContainer，当我单击更新无 jit 证书时，它会打开错误的 SideStore 并显示应用程序 LiveContainer 不存在。有没有什么解决办法？我不知道该怎么办    提交人    /u/Jacket124   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h2flux/live_container_opening_the_wrong_app/</guid>
       <pubDate>Fri, 29 Nov 2024 06:29:18 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，是否有任何 Instagram 调整仍在维护并支持“阻止所有 feed 内容”功能？     由   提交  /u/CHASUS33   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1ydc0/instagram_tweak_that_blocks_all_the_feed/</guid>
       <pubDate>Thu, 28 Nov 2024 15:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没人能够调整 TuneIn Pro？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1x1u7/why_nobody_is_able_to_tweak_tunein_pro/</link>
-      <description><![CDATA[为什么没人能调整 TuneIn Pro？ 我几乎尝试了所有可用的 TuneIn Pro IPA，但它们都不支持 Pro 功能。 如果您有 IPA，请分享链接。    提交人    /u/falsa_chikoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1x1u7/why_nobody_is_able_to_tweak_tunein_pro/</guid>
-      <pubDate>Thu, 28 Nov 2024 14:24:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
