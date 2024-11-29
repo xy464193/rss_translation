@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 29 Nov 2024 18:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 21:09:30 GMT</lastBuildDate>
+    <item>
+      <title>更新后如何备份游戏数据？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2v6sk/how_to_backup_game_data_after_updating/</link>
+      <description><![CDATA[我不得不更新我的手机，有一款游戏我想继续玩，后来才意识到这是一款侧载游戏。我怎样才能重新安装游戏而不丢失进度？如果我保留游戏，我就无法安装相同的副本。我必须重命名它，但至少我不会丢失数据，或者我删除游戏并丢失数据，然后重新安装。  我差点就完成了，重新开始游戏是不可能的 对不起。我对游戏进度有点情绪化，这源于 1997 年的一次事件。我不知道我是否可以说出游戏的名字，但它是一个经过修改的开放世界僵尸游戏。    提交人    /u/jayandare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2v6sk/how_to_backup_game_data_after_updating/</guid>
+      <pubDate>Fri, 29 Nov 2024 20:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使我已正确完成所有操作，应用程序仍然无法安装 (ESign)</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2tne5/apps_still_cant_be_installed_even_after_ive_done/</link>
+      <description><![CDATA[      我不知道如何解决这个问题。我确定我遵循了指南提供的所有内容    由    /u/Infinite_Report5644  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2tne5/apps_still_cant_be_installed_even_after_ive_done/</guid>
+      <pubDate>Fri, 29 Nov 2024 19:26:12 GMT</pubDate>
+    </item>
     <item>
       <title>Flipper Zero 1.8.1 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2quco/flipper_zero_181_ipa/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我一直在 iOS 上使用 uYouplus 和 sideloadly。突然我意识到右下角的帐户选项卡不见了。无法返回我的帐户页面并查看我喜欢的视频、历史记录等。我的 yt 帐户仍然登录，但我无法查看它。我该怎么办？    提交人    /u/gawik21   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h2ffvx/uyouplus_account_tab_gone/</guid>
       <pubDate>Fri, 29 Nov 2024 06:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>确认如何取消黑名单，我可以同时恢复到 SHSH2 blob 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h29sg5/confirmation_on_how_to_get_unblacklisted_and_can/</link>
-      <description><![CDATA[我试图将 iPad Air 3 从黑名单中移除，sideloading.vercel.app 表示“如果以上链接均不起作用，则您很可能已被列入黑名单。您需要备份 &gt; 清除所有内容和设置 &gt; 恢复。这是取消黑名单的唯一方法。”，另一个网站表示“备份后，将您的设备连接到 macOS 或 Windows 设备，并在恢复模式下启动您的设备。您的设备应该会被自动检测到，然后单击“更新”，不要单击“恢复！”是否可以使用 SHSH2 blob 转到 18.0.1 来执行第二个操作（我在签名时使用了 BlobSaver），如果不行，可以使用“查找我的”重置设备（以避免更新）来删除黑名单吗？ 注意：我不在家，2 天内无法访问 Windows，我的 Macbook 只有 USB C，我没有适配器可以连接 iPad    提交人    /u/Kalphalus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h29sg5/confirmation_on_how_to_get_unblacklisted_and_can/</guid>
-      <pubDate>Fri, 29 Nov 2024 00:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Duolingo Max IPA，但不是 iosgods</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h297n5/duolingo_max_ipa_but_not_iosgods/</link>
-      <description><![CDATA[是否有另一个 iOS 16 duolingo max ipa 不是 iosgods，因为它给我带来大量广告，如果有帮助的话我也是越狱的    提交人    /u/FroGmaSToLOL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h297n5/duolingo_max_ipa_but_not_iosgods/</guid>
-      <pubDate>Fri, 29 Nov 2024 00:07:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
