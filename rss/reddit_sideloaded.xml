@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 28 Nov 2024 21:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 00:51:46 GMT</lastBuildDate>
+    <item>
+      <title>确认如何取消黑名单，我可以同时恢复到 SHSH2 blob 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h29sg5/confirmation_on_how_to_get_unblacklisted_and_can/</link>
+      <description><![CDATA[我试图将 iPad Air 3 从黑名单中移除，sideloading.vercel.app 表示“如果以上链接均不起作用，则您很可能已被列入黑名单。您需要备份 &gt; 清除所有内容和设置 &gt; 恢复。这是取消黑名单的唯一方法。”，另一个网站表示“备份后，将您的设备连接到 macOS 或 Windows 设备，并在恢复模式下启动您的设备。您的设备应该会被自动检测到，然后单击“更新”，不要单击“恢复！”是否可以使用 SHSH2 blob 转到 18.0.1 来执行第二个操作（我在签名时使用了 BlobSaver），如果不行，可以使用“查找我的”重置设备（以避免更新）来删除黑名单吗？ 注意：我不在家，2 天内无法访问 Windows，我的 Macbook 只有 USB C，我没有适配器可以连接 iPad    提交人    /u/Kalphalus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h29sg5/confirmation_on_how_to_get_unblacklisted_and_can/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:40:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duolingo Max IPA，但不是 iosgods</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h297n5/duolingo_max_ipa_but_not_iosgods/</link>
+      <description><![CDATA[是否有另一个 iOS 16 duolingo max ipa 不是 iosgods，因为它给我带来大量广告，如果有帮助的话我也是越狱的    提交人    /u/FroGmaSToLOL   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h297n5/duolingo_max_ipa_but_not_iosgods/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能在 IPAD 上下载电子签名吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2961g/can_you_download_esign_on_ipad/</link>
+      <description><![CDATA[我正在观看有关如何下载电子签名的教程，我想知道您是否只能在 iPhone 上下载它，以及您是否必须始终将 iPhone/iPad 保持在飞行模式？    提交人    /u/FrequentNeck6941   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2961g/can_you_download_esign_on_ipad/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYou+ 崩溃了，但仅在我下载视频时发生</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2843h/uyou_is_crashing_but_only_when_im_downloading_a/</link>
+      <description><![CDATA[每当我设置下载视频时，它都会在完成之前崩溃。我已关闭赞助商屏蔽，并在 A/B 设置中关闭了模块化播放器栏控制器。我已经没有其他选择，找不到解决方法。如果有人知道如何解决这个问题，请告诉我    提交人    /u/TheFury_YT   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2843h/uyou_is_crashing_but_only_when_im_downloading_a/</guid>
+      <pubDate>Thu, 28 Nov 2024 23:06:38 GMT</pubDate>
+    </item>
     <item>
       <title>如何获得 ESign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2464h/how_do_i_get_esign/</link>
@@ -27,7 +55,7 @@
       <pubDate>Thu, 28 Nov 2024 18:18:27 GMT</pubDate>
     </item>
     <item>
-      <title>我是这个子版块的新手。如何下载 esign？</title>
+      <title>我是这个板块的新手。如何下载 esign？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</link>
       <description><![CDATA[正文     由   提交  /u/realatd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h200no/im_new_to_this_sub_how_do_i_download_esign/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[拜托，我不想感染病毒，而且我使用的存储库没有我想要的所有应用程序    提交人    /u/Careful_Date_2424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h1loy0/trusted_websites_for_ipas/</guid>
       <pubDate>Thu, 28 Nov 2024 02:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我侧载的每一个经过调整的 Instagram IPA 都会导致我的手机亮度在观看具有白色背景的订阅源视频时变得非常亮？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1k2dl/why_does_every_tweaked_instagram_ipa_that_i/</link>
-      <description><![CDATA[其他任何侧载应用均未出现此问题，因此不可能是屏幕或软件问题。     提交人    /u/yellowroll   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1k2dl/why_does_every_tweaked_instagram_ipa_that_i/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 SideLoaded Apps 中打开链接</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1is2h/how_to_have_links_open_in_sideloaded_apps/</link>
-      <description><![CDATA[超级简单，安装此 Safari 浏览器扩展程序，链接将在侧载应用中打开！不支持所有应用，但对于大多数应用来说，它非常棒。  https://apps.apple.com/app/id1591585819    提交人    /u/palboeskabor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1is2h/how_to_have_links_open_in_sideloaded_apps/</guid>
-      <pubDate>Wed, 27 Nov 2024 23:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始破解应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1hts7/how_to_start_cracking_apps/</link>
-      <description><![CDATA[      学习如何破解应用程序有多难？ 没有人更新我想要一个名为“Runna”的应用程序，那么学习如何做类似 IPAUniverse 在链接中所做的事情有多难呢？ 我说的不仅仅是将 Satella 注入 ipa，而是像 IPAUniverse、CyPwn 和 AppTesters 那样破解它们。 他们如何破解它并在其中注入 premium。    提交人    /u/CreeperBoy283   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hts7/how_to_start_cracking_apps/</guid>
-      <pubDate>Wed, 27 Nov 2024 23:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>除 Feather 外，所有侧载应用程序均可正常运行，我该怎么办？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</link>
-      <description><![CDATA[嗨，我在使用 ios 17，我正在使用 dns 方法进行侧向定位。 自 9 月以来一切都很好，所有应用程序都在运行（yt 和 apollo），但今天我打算添加一个 repo，但我发现 feather 不可用。 我现在能做什么？你能建议我一种再次安装它的方法吗？谢谢    提交人    /u/TheDuck-Prince   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h1hf0v/all_sideloaded_apps_works_except_for_feather_what/</guid>
-      <pubDate>Wed, 27 Nov 2024 22:55:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
