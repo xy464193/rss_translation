@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 30 Nov 2024 06:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 09:10:06 GMT</lastBuildDate>
+    <item>
+      <title>Dylib 可以绕过手机游戏的“无互联网连接”问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h38hca/dylib_for_bypassing_no_internet_connection_for/</link>
+      <description><![CDATA[标题     由   提交  /u/black_flame1700   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h38hca/dylib_for_bypassing_no_internet_connection_for/</guid>
+      <pubDate>Sat, 30 Nov 2024 08:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以为我解释一下 PPQCheck 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h384ou/can_someone_clarify_ppqcheck_for_me/</link>
+      <description><![CDATA[您好，经过多日的研究，我终于放弃了，决定在这里问：我有一个苹果开发者帐户，我使用 feather 为我的应用签署了临时证书。如果我在安装修补/修改后的应用时使用原始 bundleid，我的开发者帐户会被禁止吗？我目前只使用随机 bundle id 保护，没有通知也没问题，但我一直发现相互矛盾的信息，比如只有使用免费开发者帐户才会被禁止。另外，我不明白我的 appleid 会被禁止吗？我的开发者帐户？我的实际设备？此外，违反 EULA 和服务条款是否不会使我有权获得退款？这也有点奇怪，因为有些国家即使 tos/eula 被破坏也会强制退款。我对这些问题都没有答案。    提交人    /u/ihatenamehoggers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h384ou/can_someone_clarify_ppqcheck_for_me/</guid>
+      <pubDate>Sat, 30 Nov 2024 08:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序重置 - 请分享您的经验和解决方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h3823n/sideloaded_apps_reset_please_share_your/</link>
+      <description><![CDATA[你好 Reddit！ 自从我升级手机并购买了新证书（来自 Signulous）后，我就遇到了应用程序重置的情况。我认为这是在强制关闭我已侧载的应用程序时发生的。Facebook、Instagram、Apollo 和所有其他侧载应用程序都会发生这种情况。有人知道解决办法吗？我尝试过使用 signulous 签名器、Feather 和 ESIGN。我尝试过删除应用程序上的 mobileprovision。 谢谢你的帮助。    提交人    /u/piraterawrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h3823n/sideloaded_apps_reset_please_share_your/</guid>
+      <pubDate>Sat, 30 Nov 2024 08:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何让 ESign 停止每次打开应用程序时自动下载某些文件吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h37d26/does_anybody_know_how_i_can_make_esign_to_stop/</link>
+      <description><![CDATA[我之前已经尝试过发这个帖子，但出于某种原因，机器人自动删除了帖子，我相信这是因为我在同一帖子中提供了屏幕截图。我需要帮助，因为每次打开应用程序时都必须删除一些文件，这真的很烦人。我不知道如何才能摆脱下载，这样它们就不会在每次打开应用程序时自动启动，所以如果有人能帮助我解决这个问题，我将不胜感激。    提交人    /u/SkateBird2027   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h37d26/does_anybody_know_how_i_can_make_esign_to_stop/</guid>
+      <pubDate>Sat, 30 Nov 2024 07:26:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>卸载侧载版本后再下载普通版 Spotify 应用程序会有什么影响吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h36y71/will_downloading_the_normal_spotify_app_after/</link>
+      <description><![CDATA[我想下载普通版 Spotify 以在今年内结束，但我不知道他们是否有返回普通版的流程。我猜想这只是卸载侧载版并在 App Store 上安装普通版，但我不知道这是否会让我被禁止使用证书之类的东西，我不知道。我是新手，所以他们是否有某种方式来处理这个问题。我将不胜感激任何帮助    提交人    /u/Nonsiy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h36y71/will_downloading_the_normal_spotify_app_after/</guid>
+      <pubDate>Sat, 30 Nov 2024 06:57:43 GMT</pubDate>
+    </item>
     <item>
       <title>IPA/用于阅读报纸和杂志的应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2zz52/ipaapp_for_reading_newspapers_and_magazines/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[?    由   提交  /u/JesseB342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h2o5hr/im_on_ios_14_but_some_of_my_apps_are_telling_me/</guid>
       <pubDate>Fri, 29 Nov 2024 15:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人有 spark renpy 小说的 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2nqvh/does_anyone_have_a_working_ipa_of_spark_renpy/</link>
-      <description><![CDATA[AppStore 上的应用 Spark-Ren’Py 小说    由   提交  /u/Severe_Ad_8451   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2nqvh/does_anyone_have_a_working_ipa_of_spark_renpy/</guid>
-      <pubDate>Fri, 29 Nov 2024 15:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>带历史记录的侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2np5f/sideload_app_whistory/</link>
-      <description><![CDATA[有没有侧载软件可以包含应用历史记录？背景：猫爪游戏玩家，10 多年来在应用中建立照片档案和积分。去年之前，iPhone 之间的传输一直很顺畅：积分和更新的猫名已转移，但所有相册都是空白的。这让我很沮丧。有人告诉我代码不包含历史记录，但以前可以用，为什么现在不行？有没有侧载软件可以解决我的困境？    提交人    /u/annyhanny   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2np5f/sideload_app_whistory/</guid>
-      <pubDate>Fri, 29 Nov 2024 15:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找类似熊猫助手但不太适用于安卓的程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2mn85/looking_for_something_like_panda_helper_but_less/</link>
-      <description><![CDATA[我知道这应该更多适用于 iOS，但我不知道在哪里可以问这个问题。我主要只是在寻找具有 Pocket mortys 或 shadow warrior 2 等游戏 mod 的应用程序。我记得 panda helper 或类似的东西看起来还不错，但当我尝试 panda helper 时，它一直要求获得对我的文件等内容的权限并帮助拨打电话？我删除了它并运行了扫描，所以一切都应该很好，但我很好奇这类 Android 应用程序的侧载情况如何    提交人    /u/MidnightJ1200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2mn85/looking_for_something_like_panda_helper_but_less/</guid>
-      <pubDate>Fri, 29 Nov 2024 14:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人有初学者指南</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2lu0e/does_anyone_have_a_beginners_guide/</link>
-      <description><![CDATA[IPA、电子签名、不同类型的侧载程序……我需要一些适合完全初学者的东西     提交人    /u/Prestigious-Net7453   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2lu0e/does_anyone_have_a_beginners_guide/</guid>
-      <pubDate>Fri, 29 Nov 2024 13:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过 esign 使用 misaka</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2ja9i/how_to_use_misaka_via_esign/</link>
-      <description><![CDATA[我尝试通过 esign 安装 misaka，应用程序安装正常。但是大多数调整都说不支持，我该怎么办？ iphone 13 ios 18    提交人    /u/Icy_Reception2918   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2ja9i/how_to_use_misaka_via_esign/</guid>
-      <pubDate>Fri, 29 Nov 2024 10:53:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
