@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 29 Nov 2024 21:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 00:49:52 GMT</lastBuildDate>
+    <item>
+      <title>IPA/用于阅读报纸和杂志的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2zz52/ipaapp_for_reading_newspapers_and_magazines/</link>
+      <description><![CDATA[另外，是否有 AppStore++ 的替代品（与我的 iOS 版本不兼容），我可以使用它来下载旧版本的应用程序？  许多报纸和杂志应用程序与我的旧版 iOS（15.7.2）不兼容。Fwiw，我的设备已越狱。    提交人    /u/avid7701   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2zz52/ipaapp_for_reading_newspapers_and_magazines/</guid>
+      <pubDate>Sat, 30 Nov 2024 00:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>YTLite 崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2zkua/ytlite_crashing/</link>
+      <description><![CDATA[我按照 YTLite github 上的说明构建应用程序并使用 Sideloadly 进行安装。但是每次我尝试使用它时，应用程序都会崩溃。有人知道如何解决这个问题吗？还是我做错了什么？ https://github.com/dayanch96/YTLite    提交人    /u/n33d0n3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2zkua/ytlite_crashing/</guid>
+      <pubDate>Sat, 30 Nov 2024 00:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不使用 sparsebox 的情况下绕过 3 个应用程序的限制？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2z40l/how_to_bypass_3_apps_limit_without_sparsebox/</link>
+      <description><![CDATA[SparseRestore 可用于绕过 3 个应用程序限制，但我想使用我的电脑来绕过，而不是通过 sparsebox 在设备上运行它。 我的英语很糟糕，真是抱歉 :)    提交人    /u/grandiloquence3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2z40l/how_to_bypass_3_apps_limit_without_sparsebox/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 LiveContainer 上收到错误“无法加载包“OpenSSL”。”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h2y1r3/getting_the_error_the_bundle_openssl_couldnt_be/</link>
+      <description><![CDATA[有没有人遇到过这种情况？目前使用的是 18.1.1，以前从未使用过 LiveContainer。在网上找不到有关此问题的其他帖子。我尝试运行的任何应用程序都会发生这种情况。希望有人能帮助我。    提交人    /u/c_anderson21   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h2y1r3/getting_the_error_the_bundle_openssl_couldnt_be/</guid>
+      <pubDate>Fri, 29 Nov 2024 22:48:14 GMT</pubDate>
+    </item>
     <item>
       <title>更新后如何备份游戏数据？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h2v6sk/how_to_backup_game_data_after_updating/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我尝试通过 esign 安装 misaka，应用程序安装正常。但是大多数调整都说不支持，我该怎么办？ iphone 13 ios 18    提交人    /u/Icy_Reception2918   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h2ja9i/how_to_use_misaka_via_esign/</guid>
       <pubDate>Fri, 29 Nov 2024 10:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strava 优质工作 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2gdul/strava_premium_working_ipa/</link>
-      <description><![CDATA[是否有人拥有适用于 Strava 的 IPA，可免费为您提供高级版？  当我尝试使用现在可以找到的 IPA 时，我在尝试做很多涉及高级会员资格的事情时会遇到大量错误，即使它说我拥有它。    提交人    /u/CreeperBoy283   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2gdul/strava_premium_working_ipa/</guid>
-      <pubDate>Fri, 29 Nov 2024 07:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序来源</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2ftjc/app_sources/</link>
-      <description><![CDATA[我有证书，也有一些可以下载应用程序的来源，但我觉得我需要另一个。 你能告诉我你的来源是什么吗？    提交人    /u/lunavoke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2ftjc/app_sources/</guid>
-      <pubDate>Fri, 29 Nov 2024 06:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Live Container 打开错误的应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2flux/live_container_opening_the_wrong_app/</link>
-      <description><![CDATA[我通过在 SideStore 上切换 Apple ID 然后刷新它安装了多个 Sidestore，出现了一个新的 SideStore 实例。我已经安装了带有 SideStore 的 LiveContainer，当我单击更新无 jit 证书时，它会打开错误的 SideStore 并显示应用程序 LiveContainer 不存在。有没有什么解决办法？我不知道该怎么办    提交人    /u/Jacket124   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2flux/live_container_opening_the_wrong_app/</guid>
-      <pubDate>Fri, 29 Nov 2024 06:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>uYouplus 帐户标签消失了</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h2ffvx/uyouplus_account_tab_gone/</link>
-      <description><![CDATA[我一直在 iOS 上使用 uYouplus 和 sideloadly。突然我意识到右下角的帐户选项卡不见了。无法返回我的帐户页面并查看我喜欢的视频、历史记录等。我的 yt 帐户仍然登录，但我无法查看它。我该怎么办？    提交人    /u/gawik21   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h2ffvx/uyouplus_account_tab_gone/</guid>
-      <pubDate>Fri, 29 Nov 2024 06:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
