@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 01 Dec 2024 03:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 06:14:38 GMT</lastBuildDate>
+    <item>
+      <title>YouTube Plus v5.1 公开发布</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h3w1ro/youtube_plus_v51_public_release/</link>
+      <description><![CDATA[嗨，r/sideloaded！ 希望你一切顺利。YouTube Plus v5.1 终于发布了，希望你会喜欢它 完整的变更日志可在我的 Github 存储库上获取 感谢大家的支持。我很感激。❤️    提交人    /u/dayanch96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h3w1ro/youtube_plus_v51_public_release/</guid>
+      <pubDate>Sun, 01 Dec 2024 05:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部服务器错误？？？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h3v7ie/internal_server_error/</link>
+      <description><![CDATA[当我从 repo 下载应用程序时，有些程序提示“下载失败：请求失败：内部服务器错误（500）”，我不知道该如何修复。 有解决办法吗？    提交人    /u/Available_Subject897   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h3v7ie/internal_server_error/</guid>
+      <pubDate>Sun, 01 Dec 2024 04:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>UDID 签名者是否值得？重置设备后我是否会失去对 SparseRestore 的访问权限？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h3t72s/are_udid_signers_worth_it_and_do_i_loose_access/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿伙计们，有人可以邀请我加入 krava discord 吗？主页上的链接似乎已过期 https://discord.com/invite/kravasign    提交人    /u/cornymikey   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h3hknj/kravasign_discord_invite_expired/</guid>
       <pubDate>Sat, 30 Nov 2024 17:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>放弃 iOS 14 后的新体验</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h3fpgx/new_here_after_giving_up_on_ios_14/</link>
-      <description><![CDATA[您好，我决定摆脱 iOS 14 上过期应用程序和白色加载页面的痛苦。我即将升级，但想知道是否有任何第三方应用程序可以代替 JB 进行细微调整。我知道它永远不会一样了，但希望有像 Lynx 的 KillBackground 或时间下的日期这样的东西    提交人    /u/CilicianCrusader   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h3fpgx/new_here_after_giving_up_on_ios_14/</guid>
-      <pubDate>Sat, 30 Nov 2024 16:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你想要带有 DNS 转发功能的免费 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h3dnx9/if_you_want_free_vpn_with_dns_forwading_feature/</link>
-      <description><![CDATA[https://apps.apple.com/at/app/hide-me-vpn/id953040671 试试这个，你不必注册，转到设置 DNS 配置，将其更改为手动，并在下一次 DNS 仔细检查中添加你在 DNS 服务器中找到的 2 个 ip，然后你就可以使用 vpn 而不会泄漏了    提交人    /u/Revolutionary_Map916   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h3dnx9/if_you_want_free_vpn_with_dns_forwading_feature/</guid>
-      <pubDate>Sat, 30 Nov 2024 14:27:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
