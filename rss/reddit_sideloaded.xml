@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 01 Dec 2024 01:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 03:39:09 GMT</lastBuildDate>
+    <item>
+      <title>UDID 签名者是否值得？重置设备后我是否会失去对 SparseRestore 的访问权限？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h3t72s/are_udid_signers_worth_it_and_do_i_loose_access/</link>
+      <description><![CDATA[我有一台辅助设备，它是运行 iOS 17.4.1 的 iPad Air 3，我以前有一台运行 troll store 的 15.2 版 iPad，但它坏了。像 UDIDRegistrations 这样的服务值得吗？通过重置我的设备以取消黑名单，我会失去对 Stage Manager 的访问权限吗（我使用 SparseBox 来启用它）？我会失去对 SparseRestore 漏洞的访问权限吗？我目前使用 SideStore，但想要更好的解决方案。    提交人    /u/Kalphalus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h3t72s/are_udid_signers_worth_it_and_do_i_loose_access/</guid>
+      <pubDate>Sun, 01 Dec 2024 02:40:41 GMT</pubDate>
+    </item>
     <item>
       <title>任何用于重启的自动飞行模式</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h3r5dj/any_automated_airplane_mode_for_reboots/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[嘿伙计们，有人可以邀请我加入 krava discord 吗？主页上的链接似乎已过期 https://discord.com/invite/kravasign    提交人    /u/cornymikey   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h3hknj/kravasign_discord_invite_expired/</guid>
       <pubDate>Sat, 30 Nov 2024 17:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有 Spotify 定制 ipa（非高级版），类似于 PerfectSpotify 调整？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h3g5sd/is_there_a_spotify_customisation_ipanot_premium/</link>
-      <description><![CDATA[我曾经使用 perfectSpotify 让整个应用程序在任何地方都变成深色模式，包括越狱后的正在播放和歌词。有没有类似的可以用于侧载的东西？ 我看到的只有 evee Spotify，它是 spotifle，但这不是我需要的，因为我已经获得了 premium。    提交人    /u/Shitda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h3g5sd/is_there_a_spotify_customisation_ipanot_premium/</guid>
-      <pubDate>Sat, 30 Nov 2024 16:25:45 GMT</pubDate>
     </item>
     <item>
       <title>放弃 iOS 14 后的新体验</title>
