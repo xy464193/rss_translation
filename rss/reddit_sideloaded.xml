@@ -4,11 +4,32 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 02 Dec 2024 21:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:53:17 GMT</lastBuildDate>
+    <item>
+      <title>电子签名帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h5am8m/esign_help/</link>
+      <description><![CDATA[当网站停止工作时，我一直在尝试使用 repo apptesters 下载 Esign。我尝试了 Diawi，但 ipa 已过期，有没有像 apptesters 或 diawi 这样的其他网站可以使用。有没有没有过期的 ipa。我真的很感激你的帮助 🫶🏽    提交人    /u/Appleskywalker   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h5am8m/esign_help/</guid>
+      <pubDate>Tue, 03 Dec 2024 00:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持离线的 YouTube</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h56ypj/youtube_with_offline_support/</link>
+      <description><![CDATA[嗨，有人可以提供一个用于 youtube premieum 的编辑过的 ipa 并支持离线吗？我已经有一个了，但我无法下载所有的歌曲，提前谢谢 🙏🏼。    提交人    /u/Valuable_Dig1906   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h56ypj/youtube_with_offline_support/</guid>
+      <pubDate>Mon, 02 Dec 2024 21:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sideloadly、AltStore、甚至 Scarlet，都不起作用！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h566ha/sideloadly_altstore_even_scarlet_nothing_works/</link>
+      <description><![CDATA[你好！ 我现在获得了 15 pro max 和 18.1.1 更新。 大约一个月前（甚至可能是 2 个月前），在 Scarlet 被撤销后，我又开始通过我的个人 Apple ID 使用 Sideloadly（Windows），一切运行正常，就像使用 Sideloadly 或任何其他类似应用程序（例如 AltStore）一样。 但是在从 Sideloadly 安装应用程序后，在需要刷新应用程序之前的 7 天内，我的应用程序切换为“未验证”状态。 大约 2 到 3 周过去了，我仍然无法从任何来源侧载应用程序，无论是 Sideloadly、AltStore 还是任何其他替代方案，甚至今天当我尝试安装 Scarlet（因为它再次签名，我想检查一下）时，该应用程序仍保持“未验证”状态。 起初我以为这可能与我的 Apple ID 有关（我有 2 个），但我在旧的生锈的 6s plus 上进行了测试，一切正常，所以我得出结论，我的设备有问题。 我读过各种各样的主题，这些主题都表明手机可能被列入黑名单（不确定黑名单除了意味着侧载不起作用之外还意味着什么），后续建议是擦除手机并重新启动，但我无法做到这一点，因为我的手机盒子留在当铺，并被允许使用手机，所以如果我重置它（不确定其他地方是否有这个功能，但在我的国家有 :D），所以我继续尝试其他提到的方法，如重置网络设置、默认 DNS 过滤器、谷歌、Couldflare、清除 Safari 历史记录（不知道为什么，因为这与 Scarlet 无关）、移动网络、Wi-Fi、通过 iTunes 或 3utools 重新应用 ios 更新，但没有任何效果！ 我只想知道这个黑名单是永久性的还是可以通过其他方式修复，即使有付费服务，我愿意为此付费，如果没有，验证应用程序功能需要多长时间才能再次运行 我可能问了一个被问过无数次的问题，但就像我说的，我发布这个是因为我找不到足够的信息。 感谢阅读这一切！    提交人    /u/m1ghtyDemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h566ha/sideloadly_altstore_even_scarlet_nothing_works/</guid>
+      <pubDate>Mon, 02 Dec 2024 21:22:13 GMT</pubDate>
+    </item>
     <item>
       <title>AppleTV 版 YouTube 应用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h53rd5/youtube_app_for_appletv/</link>
-      <description><![CDATA[一直在寻找 AppleTV 应用，但什么也没看到。考虑使用类似 YouPlusLite 的应用，但专门用于 AppleTV。    由    /u/duckbill-shoptalk  提交  [link] [comments]]]></description>
+      <description><![CDATA[一直在寻找 AppleTV 应用，但什么也没看到。考虑开发类似 YouPlusLite 的应用，但专门用于 AppleTV。    由    /u/duckbill-shoptalk  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h53rd5/youtube_app_for_appletv/</guid>
       <pubDate>Mon, 02 Dec 2024 19:43:42 GMT</pubDate>
     </item>
@@ -48,7 +69,7 @@
       <pubDate>Mon, 02 Dec 2024 15:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 e-sing 或 scarlet 安装 fortnite 移动版？我下载了 ipa 文件并正在安装。但当我打开它时它不起作用。我没有自己的证书，我只是使用随机的。</title>
+      <title>如何使用 e-sing 或 scarlet 安装 fortnite 移动版？我下载了 ipa 文件并正在安装。但当我打开它时它不起作用。我没有自己的证书，我只是使用随机证书。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h4vo4r/how_can_i_install_fortnite_mobile_with_esing_or/</link>
       <description><![CDATA[Fortnite ipa 安装    由   提交  /u/mathilda0072   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h4vo4r/how_can_i_install_fortnite_mobile_with_esing_or/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[我是侧载新手，我一直在尝试获取 Esign，我遵循了所有链接和认证，甚至重启了我的 iPad，因为我以为我被列入了黑名单，但应用程序从未出现过。当我尝试 khoindvn.io.vn 时，它只是说无效，我没有电脑，也买不起，所以我真的不知道该怎么办，我将不胜感激任何帮助 :)    提交人    /u/Appleskywalker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h4mxrj/help/</guid>
       <pubDate>Mon, 02 Dec 2024 04:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>basvtdevelopments 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h4lmme/is_basvtdevelopments_safe/</link>
-      <description><![CDATA[我想将 FilzaEscaped 安装到我的设备上，为了省去测试的麻烦，有人可以确认该网站/ipas 是否安全可靠吗？我知道 Bas van Turnhout 是该网站和 ipa 的创建者，但我还是想小心一点，因为我见过的其他带有 filza 的网站似乎并不安全    提交人    /u/Geology051   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h4lmme/is_basvtdevelopments_safe/</guid>
-      <pubDate>Mon, 02 Dec 2024 03:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>证书添加器发布！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h4k2yd/certificate_adder_release/</link>
-      <description><![CDATA[https://www.icloud.com/shortcuts/618a5c4eae0a464c96d5103dcb5ed013 我制作了一个证书添加器，可让您从列表中选择一个证书，然后将其保存在快捷方式文件夹中，尽情享受吧！    提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h4k2yd/certificate_adder_release/</guid>
-      <pubDate>Mon, 02 Dec 2024 02:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了 Repo Adder</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h4j1jj/updated_repo_adder/</link>
-      <description><![CDATA[https://icloud.com/shortcuts/1be150c44f184a649da3bbc1ec1db1b8 原始快捷方式由 Minoa 提供，我对其进行了编辑，使其具有不同的 URL，因为 AltStore/SideStore 不支持某些较旧的存储库。这意味着您不必处理任何错误。我还添加了一个电子签名的迷你教程，组织了小众的存储库，并设置了 2 秒延迟，以便显示每个存储库。尽情享受吧！！！    提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h4j1jj/updated_repo_adder/</guid>
-      <pubDate>Mon, 02 Dec 2024 01:13:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
