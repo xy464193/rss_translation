@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 04 Dec 2024 00:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 03:29:18 GMT</lastBuildDate>
+    <item>
+      <title>恢复备份后无法安装预装的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h65iju/preinstalled_apps_doesnt_install_after_restoring/</link>
+      <description><![CDATA[所以我最近备份了我的 iPad，并使用我的电脑恢复了它，因为我的 esign 证书出现了一些问题。之后，我使用了另一个证书，它工作得很好。但问题是我的预装应用程序（如快捷方式和时钟）显示“无法安装，请稍后重试”。我做了一些研究，我认为这是因为我的 iPad 操作系统运行的是 17.6.1，这不是最新版本，但有没有其他方法可以在不更新操作系统版本的情况下恢复这些应用程序？    提交人    /u/IW_S1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h65iju/preinstalled_apps_doesnt_install_after_restoring/</guid>
+      <pubDate>Wed, 04 Dec 2024 02:33:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>esign 可以在 18.1.1 上运行吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h659ok/does_esign_work_on_1811/</link>
+      <description><![CDATA[希望将装有 esign（和 khoindvn dns）的手机升级到 18.1.1。有人知道它是否还能正常工作吗？    由    /u/subbywubbb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h659ok/does_esign_work_on_1811/</guid>
+      <pubDate>Wed, 04 Dec 2024 02:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装 ESIGN 的完整指南！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h63rp8/full_guide_to_installing_esign/</link>
+      <description><![CDATA[https://docs.google.com/document/d/11JZjIv4DJkL7ePgB8rvYrng2bibrPos8Gsn1uYzE0-s/edit 所有说明都包含在此文档中，您可以回复此帖子以添加更多详细信息或寻求帮助！    提交人    /u/kat_268   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h63rp8/full_guide_to_installing_esign/</guid>
+      <pubDate>Wed, 04 Dec 2024 01:08:17 GMT</pubDate>
+    </item>
     <item>
       <title>您可以为已下架的游戏侧载已下架的应用内购买吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h5zldm/can_you_sideload_delisted_inapp_purchases_for/</link>
@@ -55,7 +76,7 @@
       <pubDate>Tue, 03 Dec 2024 20:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>我被 Scarlet 列入了黑名单</title>
+      <title>我被 Scarlet 列入黑名单</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h5vium/i_got_blacklisted_from_scarlet/</link>
       <description><![CDATA[有人能帮我吗？    提交人    /u/DarkTales123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h5vium/i_got_blacklisted_from_scarlet/</guid>
@@ -69,7 +90,7 @@
       <pubDate>Tue, 03 Dec 2024 19:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>Scarlet 签名后没有安装吗？</title>
+      <title>Scarlet 在签名后没有安装吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h5vbwy/scarlet_not_installing_while_its_signed/</link>
       <description><![CDATA[        提交人    /u/Jim_boss_13   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h5vbwy/scarlet_not_installing_while_its_signed/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[如何在 iOS 17 上获取 YouTube Premium。理想情况下，我希望尽可能避免重新使用 ++ 应用程序。    提交人    /u/Bants0001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h5uurw/youtube_premium_ios_17/</guid>
       <pubDate>Tue, 03 Dec 2024 18:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些无需证书即可使用的高级 VPN？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h5urr1/any_premium_vpns_that_work_without_certs/</link>
-      <description><![CDATA[我有 altstore，有没有可以与之配合的 VPN 应用？ 我只见过需要付费证书或 trollstore 或两者兼有的    提交人    /u/Future_Turnover5638   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h5urr1/any_premium_vpns_that_work_without_certs/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法在公共证书上安装应用程序，但 esign 仍然可用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h5uqqz/i_cant_install_apps_on_a_public_cert_but_esign_is/</link>
-      <description><![CDATA[帮助    由   提交  /u/kilgrothmain2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h5uqqz/i_cant_install_apps_on_a_public_cert_but_esign_is/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道部长证书已经被撤销了吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h5tsuq/did_the_knew_ministere_cert_already_get_revoked/</link>
-      <description><![CDATA[尽管我已激活防撤销证书，但我的 ESign 仍处于“不可用”状态。我无法再安装 Portal、ESign、Feather、Scarlet 或类似的东西。它已被撤销还是我的手机行为异常？    提交人    /u/Kilian6064756   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h5tsuq/did_the_knew_ministere_cert_already_get_revoked/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:08:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
