@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 04 Dec 2024 03:29:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 06:15:51 GMT</lastBuildDate>
+    <item>
+      <title>从源代码构建 TrollFools 成功运行，但注入 dylib 失败</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1h67bz5/building_trollfools_from_source_code_runs/</link>
+      <description><![CDATA[执行命令make package，成功打包了tipa文件，但是注入dylib失败。 github操作执行打包没有问题。 为什么会出现这种情况？    submitted by    /u/ToQuery   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1h67bz5/building_trollfools_from_source_code_runs/</guid>
+      <pubDate>Wed, 04 Dec 2024 04:07:23 GMT</pubDate>
+    </item>
     <item>
       <title>苹果试图通过更新 iCloud 条款和条件来消灭 trollstore？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h562ol/apple_trying_to_kill_trollstore_with_icloud_terms/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>使用 trollstore 安装了 fortnite，没想到它可以在 ios 16.1 上运行</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</link>
-      <description><![CDATA[      它有效！我也在我的 15 pro 18.1 beta 3 上将它与 Signolous 一起侧载。从我读到和听到的内容来看，我认为我必须更新到 ios 17 才能运行它，但为了安全起见，我不会在多巴胺越狱上玩它。我吸取了教训，因为在越狱手机上玩游戏而被 cod 禁止了 3 次 😅    提交人    /u/ContentSituation4983   [link] [评论] ]]></description>
+      <description><![CDATA[      它有效！我也在我的 15 pro 18.1 beta 3 上用 Signolous 侧载了它。从我读到和听到的内容来看，我认为我必须更新到 ios 17 才能运行它，但为了安全起见，我不会在多巴胺越狱上玩它。我吸取了教训，因为在越狱手机上玩游戏而被 cod 封禁了 3 次 😅    提交人    /u/ContentSituation4983   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</guid>
       <pubDate>Tue, 26 Nov 2024 22:16:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我试了很多次，但它仍然说无法验证完整性，我试过 scarlet 和 esign，我试着让 trollstore 完成，所以它很容易，有人能帮忙吗请把我赶出去    提交人    /u/Decent_Bug_2412   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gxbm1z/can_anyone_please_help_iphone_7_ios_158_no_pc/</guid>
       <pubDate>Fri, 22 Nov 2024 16:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 TrollStore 在 iOS 14.0-16.6.1 和 17.0 中可以运行，但在 iOS 12 或 13 中却不行？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gwuyim/why_is_trollstore_possible_in_ios_1401661_and_170/</link>
-      <description><![CDATA[TrollStore 有什么功能使其无法支持 iOS 12-13？    提交人    /u/FlappyDunkPlusIOS   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gwuyim/why_is_trollstore_possible_in_ios_1401661_and_170/</guid>
-      <pubDate>Fri, 22 Nov 2024 00:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
