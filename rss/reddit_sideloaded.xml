@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 12:20:17 GMT</lastBuildDate>
+    <item>
+      <title>您最喜欢的在 iOS 18+ 上免费侧载的方式是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h77wse/whats_your_favorite_free_way_to_sideload_on_ios_18/</link>
+      <description><![CDATA[我现在正在使用 Sideloadly，但最多只能侧载 3 个应用。最好的替代方案是什么？AltStore、SideStore……？    提交人    /u/armeliens   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h77wse/whats_your_favorite_free_way_to_sideload_on_ios_18/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>eeveespotify 链接在 App Store 中打开</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h76u3k/eeveespotify_links_open_in_app_store/</link>
+      <description><![CDATA[大家好 我正在尝试解决 EeveeSpotify 无法在 Spotify 应用中打开链接的问题，这限制了我从二维码加入 jam（根据 EeveeSpotify GitHub 的说法，这应该可以工作）。我知道这个问题是六个月前发布的，但我仍然无法使此功能正常工作。到目前为止，我所做的如下： 我正在 ESign 上运行最新版本的 EeveeSpotify（来自 GitHub）。我允许在 Safari &gt; 扩展上访问我允许屏幕时间关闭内容阻止功能以确保扩展处于活动状态我解压缩了 EeveeSpotify IPA，删除了 OpenSafari Web Extension 附件文件，从六个月前的帖子中链接的 GitHub 下载了一个全新的文件，重新压缩了 IPA，然后使用 ESign 对其进行了签名 如能提供任何帮助，我们将不胜感激！   由    /u/MintGeoduck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h76u3k/eeveespotify_links_open_in_app_store/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以使用 Sideloadly 侧载 3 个以上的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h76sy1/is_it_possible_to_sideload_more_than_3_apps_with/</link>
+      <description><![CDATA[当我尝试下载第四个应用程序时，它告诉我这个： 安装过程中出现问题：3892346913：ApplicationVerificationFailed（此设备使用免费开发人员配置文件安装的应用程序数量已达到最大限制：({ &quot;8A8BKNMVA9.net.whatsapp.WhatsApp.8A8BKNMVA9&quot;, &quot;8A8BKNMVA9.com.google.ios.youtube.8A8BKNMVA9&quot;, &quot;8A8BKNMVA9.com.hd.oplayer33.8A8BKNMVA9&quot; }))    提交人    /u/armeliens   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h76sy1/is_it_possible_to_sideload_more_than_3_apps_with/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>AppTesters——11月24日付款，仍然没有收到。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h756dv/apptesters_paid_1124_still_nothing/</link>
+      <description><![CDATA[三天过去了。几天前发了一封电子邮件后，支持人员没有回复。电报上没有回复。 Maplesign 是我最后使用的（现在是 Kravasign），它完全不是这样的。付款、等待和联系支持人员后，我是不是错过了什么步骤？一年中的 2 周时间一无所获，这太疯狂了。 编辑：刚刚给他们发了 DM，问题解决了。几天后应该就能拿到证书。不知道为什么电报支持没有回复，我敢肯定有很多消息，但 Reddit 似乎已经回复了。非常有帮助，回复很快。    提交人    /u/alockbox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h756dv/apptesters_paid_1124_still_nothing/</guid>
+      <pubDate>Thu, 05 Dec 2024 09:13:11 GMT</pubDate>
+    </item>
     <item>
       <title>最受推荐的应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h74wio/most_recommended_apps/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[有人知道我可以在哪里获得爸爸游戏的 ipa 文件吗？    提交人    /u/maupskoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h6r3uv/papas_games/</guid>
       <pubDate>Wed, 04 Dec 2024 21:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以在 iOS 18 上侧载任何东西？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6qsrf/any_ways_to_sideload_anything_on_ios_18/</link>
-      <description><![CDATA[自从我更新到 iOS 18 后，Scarlet 或 Esign 链接都无法正常工作    提交人    /u/Agitated_Heat_4820   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6qsrf/any_ways_to_sideload_anything_on_ios_18/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>撤销证书添加器 V2 已发布！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6qq0r/revoked_certificate_adder_v2_released/</link>
-      <description><![CDATA[https://www.icloud.com/shortcuts/edbea4705d26470f9062226198356541 尽情享受吧！！向我报告任何问题/问题    提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6qq0r/revoked_certificate_adder_v2_released/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法打开 ESign 应用程序或任何我侧面加载的应用程序。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6pfaw/cant_open_esign_app_or_any_of_my_side_loaded_apps/</link>
-      <description><![CDATA[大家好。我已经使用 iPhone 大约一周了，我真的很喜欢它。我使用 ESign 侧面加载了 2 个应用程序，因为这是推荐的，它们在过去一周内运行良好。但现在我似乎无法打开它们或 ESign 应用程序本身。有人能帮我解决这个问题吗？    提交人    /u/HufferBread   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6pfaw/cant_open_esign_app_or_any_of_my_side_loaded_apps/</guid>
-      <pubDate>Wed, 04 Dec 2024 19:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何获得电子签名？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6paqm/how_do_i_get_esign/</link>
-      <description><![CDATA[. 我看的每件事都告诉我使用 scarlet 来下载它，但是 scarlet 被撤销了？？？    由   提交  /u/Aggressive_Trick_906   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6paqm/how_do_i_get_esign/</guid>
-      <pubDate>Wed, 04 Dec 2024 19:49:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
