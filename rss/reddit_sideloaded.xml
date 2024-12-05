@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 04 Dec 2024 21:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:52:36 GMT</lastBuildDate>
+    <item>
+      <title>一个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h6vs1h/a_question/</link>
+      <description><![CDATA[是否有任何 Spotify 应用程序既有免费的高级版，又有新的人工智能功能，如人工智能 DJ    提交人    /u/Itoshi4u   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h6vs1h/a_question/</guid>
+      <pubDate>Thu, 05 Dec 2024 00:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何避免 DNS 泄漏？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h6sc7x/how_to_avoid_dns_leaking/</link>
+      <description><![CDATA[大家好。最近我被列入了黑名单，有人告诉我这是因为 DNS 泄漏。有什么办法可以避免这种情况发生吗？我听说你可以购买证书，但还有其他方法吗？    提交人    /u/HufferBread   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h6sc7x/how_to_avoid_dns_leaking/</guid>
+      <pubDate>Wed, 04 Dec 2024 21:53:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些适合侧载的 VPN？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h6rfqi/whats_a_good_vpn_to_sideload/</link>
+      <description><![CDATA[谢谢。只需要它来使用推特和 Whatsapp，它们在我的国家有时会被屏蔽，哈哈。     由   提交  /u/kittioma   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h6rfqi/whats_a_good_vpn_to_sideload/</guid>
+      <pubDate>Wed, 04 Dec 2024 21:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>爸爸的游戏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h6r3uv/papas_games/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[本质上，在某些情况下我需要关闭 DNS 过滤器，并且我想防止我的设备因使用 ESign 撤销的证书而被列入黑名单。  请勿关闭 DNS，即使是为了更新 iOS。如果您无法更新 iOS，则需要设置自己的 DNS。  PuReEnVyUs 指南说永远不要关闭 DNS 过滤，但没有考虑到我需要关闭 DNS 过滤的情况，例如在飞机网络上，需要使用飞行中 DNS 来访问 WiFi 启用门户。 我应该采取哪些确切的步骤和预防措施来确保我不会被撤销？唯一的解决方案是卸载所有侧面加载的应用程序吗？    提交人    /u/DarthAV1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h6lupp/how_to_avoid_blacklisting_when_turning_off_dns/</guid>
       <pubDate>Wed, 04 Dec 2024 17:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法验证应用程序的完整性</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6kmnw/cant_verify_the_integrity_of_the_app/</link>
-      <description><![CDATA[自从我尝试侧载一些应用程序以来已经有一段时间了，但不幸的是，它们都没有起作用，我总是收到的消息是“无法安装此应用程序，因为无法验证其完整性”    提交人    /u/My-balls-itch-6969   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6kmnw/cant_verify_the_integrity_of_the_app/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whatsapp</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6jwqh/whatsapp/</link>
-      <description><![CDATA[我需要一个无需付费即可保存已删除消息的 whatsapp 版本。    提交者    /u/Old_Block_5419   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6jwqh/whatsapp/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPA操作系统</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h6j8u2/ipados_ipa/</link>
-      <description><![CDATA[仅寻找娱乐，未经调整的 iPad Ipa（Youtube、Netflix 等） 任何帮助都将不胜感激 :)    由   提交  /u/Lavfish23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h6j8u2/ipados_ipa/</guid>
-      <pubDate>Wed, 04 Dec 2024 15:49:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
