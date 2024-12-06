@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 06 Dec 2024 15:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 18:14:42 GMT</lastBuildDate>
+    <item>
+      <title>迪泽IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h85mta/deezer_ipa/</link>
+      <description><![CDATA[请问您有来自 Deezer 的 IPA 链接吗？    提交人    /u/ReplacementJolly7939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h85mta/deezer_ipa/</guid>
+      <pubDate>Fri, 06 Dec 2024 16:43:57 GMT</pubDate>
+    </item>
     <item>
       <title>为什么下一个 DNS 配置文件会泄露</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h81v51/why_did_next_dns_profile_leak/</link>
@@ -90,9 +97,9 @@
       <pubDate>Fri, 06 Dec 2024 05:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>您能侧载新的 Apple TV 4K 吗？</title>
+      <title>您可以侧载新的 Apple TV 4K 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h7tqgs/can_you_sideload_the_new_apple_tv_4k/</link>
-      <description><![CDATA[只是想知道您是否可以侧载新的 Apple Tv 4K？    由   提交  /u/Awkward226   [链接] [评论]]]></description>
+      <description><![CDATA[只是想知道您是否可以侧载新的 Apple Tv 4K？    提交人    /u/Awkward226   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h7tqgs/can_you_sideload_the_new_apple_tv_4k/</guid>
       <pubDate>Fri, 06 Dec 2024 05:02:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我使用 ESign 和 DNS 拦截器进行侧载至 18.0.1。最近被列入黑名单，所以不得不重新安装所有应用程序和存储库（恢复之前忘记保存这些），但无论我做什么，我似乎都找不到包含 Citrus IPA 的存储库。     提交人    /u/--Z3R0-   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h7tp8x/repo_with_citrus_ipa/</guid>
       <pubDate>Fri, 06 Dec 2024 05:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kravasign-通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h7ppl8/kravasign_notifications/</link>
-      <description><![CDATA[它是否支持使用其证书进行通知？    提交人    /u/Valdularo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h7ppl8/kravasign_notifications/</guid>
-      <pubDate>Fri, 06 Dec 2024 01:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
