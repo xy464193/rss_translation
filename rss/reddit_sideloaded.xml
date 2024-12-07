@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 07 Dec 2024 06:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 12:18:08 GMT</lastBuildDate>
+    <item>
+      <title>中国移动山东有限公司对于 SIGNOLOUS 安全吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h8otcs/china_mobile_group_shandong_co_ltd_è_sicuro_per/</link>
+      <description><![CDATA[早上好！中国移动山东公司对 SIGNOLOUS 安全吗？   由   提交 /u/NoPersimmon1367   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h8otcs/china_mobile_group_shandong_co_ltd_è_sicuro_per/</guid>
+      <pubDate>Sat, 07 Dec 2024 09:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[教程] 在 Apollo 中打开 Reddit 链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h8nmf9/tutorial_open_reddit_links_in_apollo/</link>
+      <description><![CDATA[由于 automod 在更新后删除了此帖子，因此重新发布。  在 Apollo 中打开 用于在 iPhone 上的 Apollo 应用程序中打开 Reddit 链接的用户脚本。 也适用于经过调整/侧载的 Apollo 应用程序。所有代码都是免费和开源的。 下载 用于运行用户脚本的 Safari 扩展（免费）：https://apps.apple.com/us/app/userscripts/id1463298887 用户脚本代码：Open In Apollo Userscript 如何安装 安装免费开源应用程序Userscripts 启动应用程序并选择路径脚本 在 iPhone 的“设置”&gt;“Safari”&gt;“扩展”中启用用户脚本 在 iPhone/iPad 上点击以查看打开代码 在 Apollo 用户脚本中打开 在 Safari 中点击 Aa，然后点击用户脚本 安装检测到的用户脚本。 使用 在 Safari 中打开任何 reddit 链接，您应该会看到一个弹出窗口，询问您是否要“在 Apollo 中打开此页面”  ​ 在 iOS 16.7.2、iOS 17.6.1 上测试    提交人    /u/Unified-Field   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h8nmf9/tutorial_open_reddit_links_in_apollo/</guid>
+      <pubDate>Sat, 07 Dec 2024 07:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>它什么时候会生效并删除我的应用程序哈哈</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h8mqn6/when_will_it_take_affect_and_remove_my_apps_lol/</link>
+      <description><![CDATA[      （顺便说一下，在视频加载之前截取了屏幕截图）老实说，不确定应用程序在未经验证后重新打开是否正常，但也不确定这种情况会持续多久，因为我以前从未见过    由    /u/ScreamingFlip  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h8mqn6/when_will_it_take_affect_and_remove_my_apps_lol/</guid>
+      <pubDate>Sat, 07 Dec 2024 06:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何重置 spotify 应用程序数据？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h8lm29/how_to_reset_spotify_app_data/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好， 我尝试了两天在 feather 上下载 esign，但下载失败。快捷方式不起作用，而且我可以安装的每个应用程序都没有图标图像和/或告诉我无法安装。 我已经重置了手机，但它不起作用。 是我的问题还是大家的问题 我使用的是 IOS 18.1.1 我不会说英语，所以很抱歉我的语法错误。    提交人    /u/Outrageous_Series_35   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h8byw3/cant_sideload_anything/</guid>
       <pubDate>Fri, 06 Dec 2024 21:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>最长的电子签名连续性，无撤销，带 DNS？有人知道吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h8ae4r/longest_esign_streak_without_revoke_with_dns/</link>
-      <description><![CDATA[只是想知道有多少人即使使用 DNS 也面临撤销     提交人    /u/Prestigious-Guide-61   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h8ae4r/longest_esign_streak_without_revoke_with_dns/</guid>
-      <pubDate>Fri, 06 Dec 2024 20:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 Linux 上自行托管类似 sideloadly 的东西来自动刷新 iPhone 上的应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h89jr5/any_way_of_selfhosting_something_like_sideloadly/</link>
-      <description><![CDATA[我目前在 iOS 17 上使用 trollstore，但我正在考虑购买一部新手机，而且目前我使用 trollstore 的唯一用途就是不带广告的 Spotify，所以我将开始使用侧载路线。 我的服务器上运行着 ATVLoadly，它可以稳定地让我的应用程序在 Apple TV 上保持签名，所以我希望在 iPhone 上有类似的东西。    提交人    /u/ThePixlPirate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h89jr5/any_way_of_selfhosting_something_like_sideloadly/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装/卸载实际的 spotify 后，ipa spotify 将无法正常工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h89a2f/ipa_spotify_wont_work_properly_after/</link>
-      <description><![CDATA[前几天，我卸载了破解的 spotify（使用 altstore 和 ipa 文件，它一直运行良好），并安装了普通的免费 spotify，因为我看不到包装，但是当我卸载它并尝试重新安装 ipa 版本时，它仍然是免费版本。问题是，它还弹出消息“感谢您安装”和类似电报链接，这意味着它确实安装了 ipa 版本。为什么会这样，我该如何解决这个问题？    提交人    /u/proelefsiis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h89a2f/ipa_spotify_wont_work_properly_after/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:17:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
