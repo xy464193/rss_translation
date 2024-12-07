@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 07 Dec 2024 12:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 15:09:26 GMT</lastBuildDate>
+    <item>
+      <title>iOS 17.5.1 上的 Trollstore</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1h8rccl/trollstore_on_ios_1751/</link>
+      <description><![CDATA[      所以..我找到了一种在 ios 17.5.1 上侧载 trollstore 的方法，但每次我想要侧载某些东西时，它都会给我一条错误消息。我没有任何剩余的应用程序 ID，所以这可能是原因。有什么帮助吗？是什么原因造成的？    提交人    /u/Personal-Teaching-19   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1h8rccl/trollstore_on_ios_1751/</guid>
+      <pubDate>Sat, 07 Dec 2024 12:21:14 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iOS 15 的 airpods pro 2</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h72as2/airpods_pro_2_on_ios_15/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一部运行 iOS 14.3 的 iPhone SE 嘿，我在运行 eevee spotify 时遇到了问题。 （当我打开 eeveespotify 时它就崩溃了） 我尝试了以下版本的 eevee： 8.8.92 8.9.94 8.9.86 8.9.50（调试版本） 我安装了 TrollHelperOTA，因为我很确定 iPhone SE 有 A15。 我尝试过 eevee 的调试版本，但它们都崩溃了。  我做错了什么？    提交人    /u/All__fun   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1gy5nat/iphone_se_on_ios_143_eevee_spotify_crashes_on/</guid>
       <pubDate>Sat, 23 Nov 2024 18:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何转储任何应用程序？请推荐任何我想下载的应用程序 TrollStore</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gy46f4/how_to_dump_any_application_pls_recomment_any/</link>
-      <description><![CDATA[阅读标题    由    /u/felix_thor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gy46f4/how_to_dump_any_application_pls_recomment_any/</guid>
-      <pubDate>Sat, 23 Nov 2024 16:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
