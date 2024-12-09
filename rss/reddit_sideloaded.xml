@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 09 Dec 2024 00:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 06:16:47 GMT</lastBuildDate>
+    <item>
+      <title>kravasign 等服务如何运作？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1h9xt9y/how_do_services_like_kravasign_work/</link>
+      <description><![CDATA[我的理解是，他们正在向我出售一个证书文件，我可以使用它来为我的确切设备 UUID 签署 IPA。  他们从哪里获得证书文件？我知道你可以从 Apple 开发者那里得到一个，但为什么通过 kravasign 比 Apple 直接购买更便宜？他们说获取证书可能需要长达 72 小时，所以他们显然在一定程度上与 Apple 合作。  我是一名工程师，从技术角度来说非常好奇。我想他们不会分享所有的秘密武器，但至少希望有一个高层次的概述     提交人    /u/FactoryReboot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1h9xt9y/how_do_services_like_kravasign_work/</guid>
+      <pubDate>Mon, 09 Dec 2024 01:01:09 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1h9xmu9/spotiff/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[只需在 iPhone 上，无需电脑或笔记本电脑。我尝试过一些像 tweakbox、scarlet 和 apptdb 之类的东西，但它们不起作用。有人有什么建议吗？    提交人    /u/jrg_jurgen   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1h9ggno/does_anyone_know_how_to_get_spotify_premium_ipa/</guid>
       <pubDate>Sun, 08 Dec 2024 10:56:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有实际工作的 DNS 来撤销兄弟，我厌倦了</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1h9f72g/any_actually_working_dns_for_revokes_bro_im_tired/</link>
-      <description><![CDATA[我试图永远阻止他们撤销，这让我很生气，我看到他们说你必须创建自己的 DNS 或其他东西，我不明白我该从哪里开始😭    提交人    /u/KUJTA012   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1h9f72g/any_actually_working_dns_for_revokes_bro_im_tired/</guid>
-      <pubDate>Sun, 08 Dec 2024 09:24:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
