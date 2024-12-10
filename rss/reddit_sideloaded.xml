@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Dec 2024 12:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:15:30 GMT</lastBuildDate>
+    <item>
+      <title>DNS 不允许我使用 Chat-GPT</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hb78z7/dns_wont_let_me_use_chatgpt/</link>
+      <description><![CDATA[      因此 DNS 方法不允许我使用 Chat-GPT，请问有人有解决方案吗     提交人    /u/CriticalSignature757   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hb78z7/dns_wont_let_me_use_chatgpt/</guid>
+      <pubDate>Tue, 10 Dec 2024 17:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的存储库？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hb7790/best_repos/</link>
+      <description><![CDATA[嘿！哪些 repos 最适合 ESign？ Ps，抱歉今天第二次发帖。    提交人    /u/mrjimshim   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hb7790/best_repos/</guid>
+      <pubDate>Tue, 10 Dec 2024 17:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideStore 的 Webstore 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hb3a3q/webbstore_for_sidestore/</link>
+      <description><![CDATA[我不知道这是否有意义，但是否有某种（可信的）网站允许人们上传不同的软件通过 SideStore 安装？    提交人    /u/wobledob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hb3a3q/webbstore_for_sidestore/</guid>
+      <pubDate>Tue, 10 Dec 2024 14:43:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 是否已修改 UI 定制或替代版本？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hb2cy4/spotify_modded_with_ui_customisation_or/</link>
+      <description><![CDATA[嘿！我正在寻找一款可以有主题或 UI 调整的自定义 Spotify，当然还有无广告和下载功能，哈哈，或者它的替代品。我目前安装了 spotube，它没有广告，可以下载音乐，但我不太喜欢它没有手势，而且音乐播放也很慢。我也听说过 Sposify 和 Spotilife，但我不确定它们是否安全或者是否有 UI 自定义。所以给我一些建议吧！ 编辑：我之前的帖子也提到过 EeveeSpotify，但它没有下载选项，我也不知道主题。    提交人    /u/mrjimshim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hb2cy4/spotify_modded_with_ui_customisation_or/</guid>
+      <pubDate>Tue, 10 Dec 2024 13:59:45 GMT</pubDate>
+    </item>
     <item>
       <title>在 iPad 上安装 ipa 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hayx99/installing_an_ipa_file_on_ipad/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好， 尝试通过网络浏览器访问 iosgods 应用商店，但无法加载。它现在关闭了吗？从昨晚开始就一直在尝试。我尝试了 2 个不同的设备仍然没有成功。    提交人    /u/Iampanday   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1halgs1/appiosgodscom_down/</guid>
       <pubDate>Mon, 09 Dec 2024 21:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我侧载的每个应用程序在启动时都会崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haj2l7/every_app_i_sideloaded_crashes_on_launch/</link>
-      <description><![CDATA[我从来没有遇到过这样的问题（只有一些 ipas 曾经崩溃过），现在我拥有的每一个 ipas 在启动时都会崩溃，甚至 esign 本身我该怎么办    提交人    /u/whosluciaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haj2l7/every_app_i_sideloaded_crashes_on_launch/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取文件选择器以及带有 dev cert 和 esign 的通知</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haj12e/getting_file_picker_along_notifications_with_dev/</link>
-      <description><![CDATA[所以我最近为开发帐户支付了 99 美元并制作了一个证书来使用 esign 签署应用程序，这很好，我可以收到通知，但无论我做什么，我都无法让文件选择器工作，使用 sidestore 并登录我的帐户是唯一一次我可以让文件选择器工作，但我没有收到通知，有人知道在使用 esign 时让通知和文件选择器同时工作的方法吗？    提交人    /u/Timski777   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haj12e/getting_file_picker_along_notifications_with_dev/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Royal Match IPA（无限助推器、星星、金币）iOS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haikb7/royal_match_ipa_unlimited_boosters_stars_coins_ios/</link>
-      <description><![CDATA[Royal Match IPA 是一款令人上瘾且具有挑战性的益智游戏，席卷了移动游戏世界。由 Playrix 开发，LINK https://ipaomtk.com/royal-match-ipa/    提交人    /u/OM-TK   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haikb7/royal_match_ipa_unlimited_boosters_stars_coins_ios/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑暗之剑 - 崛起 IPA（伤害倍增器 - 永不死亡）iOS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haijcr/dark_sword_the_rising_ipa_damage_multiplier_never/</link>
-      <description><![CDATA[Dark Sword - The Rising IPA (Damage Multiplier - Never Die) iOS 是一款创新的空闲动作角色扮演游戏，由 DAERI SOFT Inc. 开发，建立在其前身 Link https://ipaomtk.com/dark-sword-the-rising/ 的成功基础之上    提交人    /u/OM-TK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haijcr/dark_sword_the_rising_ipa_damage_multiplier_never/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:49:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 10 Dec 2024 12:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:15:24 GMT</lastBuildDate>
+    <item>
+      <title>当我从包含 Trollstore 应用程序的备份中恢复时会发生什么？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hb12wx/what_happens_when_i_restore_from_a_backup_that/</link>
+      <description><![CDATA[假设我想通过恢复出厂设置，然后恢复备份文件来减少 iPhone 上的系统数据。备份文件是在恢复出厂设置之前在我的手机上制作的，其中包含 trollstore 应用程序。当我尝试从中恢复时会发生什么？我的所有 trollstore 应用程序都会保留下来吗？数据呢？    提交人    /u/Nanoporous   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hb12wx/what_happens_when_i_restore_from_a_backup_that/</guid>
+      <pubDate>Tue, 10 Dec 2024 12:53:28 GMT</pubDate>
+    </item>
     <item>
       <title>需要仿冒更高版本的iOS</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hazqfm/need_to_spoof_a_higher_ios_version/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我从 decrypt.day 安装了一个 ipa，安装时出现此错误  调试日志： 2024-11-27 13:20:23.805 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Deny -&gt; 0 2024-11-27 13:20:23.817 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Initialize -&gt; com.opa334.TrollStore、trollstorehelper、/var/containers/Bundle/Application/DF92B85F-E562-4645-8309-EDE93042B729/TrollStore.app/trollstorehelper、LynxRootless.xm 2024-11-27 13:20:24.182 trollstorehelper[73263:6208100] [SnowBoard Launcher] 加载程序检查已通过。正在加载 SnowBoard... 2024-11-27 13:20:24.188 trollstorehelper[73263:6208100] 正在初始化 Snowboard（版本：1.5.37-Beta4-rootless 编译时间：2024 年 7 月 9 日：00:24:46）在应用程序中：trollstorehelper... 2024-11-27 13:20:24.757 trollstorehelper[73263:6208100] trollstorehelper 使用参数调用：（install、custom、“/private/var/mobile/Containers/Shared/AppGroup/FCF24F1D-EF61-40FB-87DC-18A6CA69FDD0/File Provider” Storage/Downloads/com.noodlecake.superliminal_1.14_und3fined.ipa&quot; ) (null) 2024-11-27 13:20:30.731 trollstorehelper[73263:6208100] trollstorehelper 返回 168    提交人    /u/MKTAB_   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</guid>
       <pubDate>Wed, 27 Nov 2024 11:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 trollstore 安装了 fortnite，没想到它可以在 ios 16.1 上运行</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</link>
-      <description><![CDATA[      它有效！我也在我的 15 pro 18.1 beta 3 上将它与 Signolous 一起侧载。从我读到和听到的内容来看，我认为我必须更新到 ios 17 才能运行它，但为了安全起见，我不会在多巴胺越狱上玩它。我吸取了教训，因为在越狱手机上玩游戏而被 cod 禁止了 3 次 😅    提交人    /u/ContentSituation4983   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</guid>
-      <pubDate>Tue, 26 Nov 2024 22:16:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
