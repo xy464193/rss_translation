@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 10 Dec 2024 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 21:10:08 GMT</lastBuildDate>
+    <item>
+      <title>解密IPA</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hb97eq/decrypt_ipa/</link>
+      <description><![CDATA[您好，有人能解密我的 IPA 吗？这是 NordVPN 版本 8.10.0 - 最后一个支持 IKEv2 协议的版本，因此可以与其他 VPN（如 Adguard）一起使用。我有 IPA 文件，但它是加密的。我可以在私下提供一个链接...    提交人    /u/b3ton1991   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hb97eq/decrypt_ipa/</guid>
+      <pubDate>Tue, 10 Dec 2024 18:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>当我从包含 Trollstore 应用程序的备份中恢复时会发生什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hb12wx/what_happens_when_i_restore_from_a_backup_that/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>苹果试图通过更新 iCloud 条款和条件来消灭 trollstore？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h562ol/apple_trying_to_kill_trollstore_with_icloud_terms/</link>
-      <description><![CDATA[      我使用的是 iOS 16.2（iPhone 12 Pro Max）。自从几个月前安装了 trollstore 以来，我就不想更新了。  我的一些联系人说我的消息没有发送出去，有些人没有收到我的通知。  唯一的解决方案是更新到 iOS 18 吗？    提交人    /u/notplayinwithherbut   [link] [评论] ]]></description>
+      <description><![CDATA[      我使用的是 iOS 16.2（iPhone 12 Pro Max）。自从几个月前安装了 trollstore 以来，我就不想更新了。  我的一些联系人说我的消息没有发送出去，有些联系人没有收到我的通知。  唯一的解决方案是更新到 iOS 18 吗？    提交人    /u/notplayinwithherbut   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h562ol/apple_trying_to_kill_trollstore_with_icloud_terms/</guid>
       <pubDate>Mon, 02 Dec 2024 21:17:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[iPhone 11 ProMax IOS 16.6.1 安装 TrollStore 后，iPhone 停止了自动屏幕变暗或锁定设置的设置时间。我试着记住按下侧面按钮来锁定它，但显然我时​​不时会忘记。有时电池会因此耗尽，如果丢失和找到也会出现隐私问题。 我已经在 Google 上搜索并遵循了几乎所有我发现的方法，甚至认为我解决了它。但它在一两天后又回来了。现在，如果我忘记按下屏幕锁定，手机永远不会锁定，尽管设置中设置了 30 秒的时间。  有人遇到过这个问题吗？有解决办法吗？    提交人    /u/robi_750   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h1p8xq/no_auto_screen_lock_after_trollstore/</guid>
       <pubDate>Thu, 28 Nov 2024 05:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这意味着什么？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</link>
-      <description><![CDATA[      我从 decrypt.day 安装了一个 ipa，安装时出现此错误  调试日志： 2024-11-27 13:20:23.805 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Deny -&gt; 0 2024-11-27 13:20:23.817 trollstorehelper[73263:6208100] [+] LYNX DEBUG: Initialize -&gt; com.opa334.TrollStore、trollstorehelper、/var/containers/Bundle/Application/DF92B85F-E562-4645-8309-EDE93042B729/TrollStore.app/trollstorehelper、LynxRootless.xm 2024-11-27 13:20:24.182 trollstorehelper[73263:6208100] [SnowBoard Launcher] 加载程序检查已通过。正在加载 SnowBoard... 2024-11-27 13:20:24.188 trollstorehelper[73263:6208100] 正在初始化 Snowboard（版本：1.5.37-Beta4-rootless 编译时间：2024 年 7 月 9 日：00:24:46）在应用程序中：trollstorehelper... 2024-11-27 13:20:24.757 trollstorehelper[73263:6208100] trollstorehelper 使用参数调用：（install、custom、“/private/var/mobile/Containers/Shared/AppGroup/FCF24F1D-EF61-40FB-87DC-18A6CA69FDD0/File Provider” Storage/Downloads/com.noodlecake.superliminal_1.14_und3fined.ipa&quot; ) (null) 2024-11-27 13:20:30.731 trollstorehelper[73263:6208100] trollstorehelper 返回 168    提交人    /u/MKTAB_   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h125vu/what_does_this_mean/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:26:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
