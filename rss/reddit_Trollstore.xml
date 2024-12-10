@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:20:35 GMT</lastBuildDate>
+    <item>
+      <title>需要仿冒更高版本的iOS</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hazqfm/need_to_spoof_a_higher_ios_version/</link>
+      <description><![CDATA[越来越多的应用告诉我无法安装，因为我需要 17.xx 等。我使用的是 15.1.1 我知道我可以越狱，但我不想为大多数 JB 检测应用越狱，而我需要的所有应用目前都可以在 TS 中使用。 我有一种方法可以让 AppStore 认为我在使用 iOS 17 并允许安装这些应用。 我想要的应用无法通过 TS 作为 iOS 找到以进行安装。    提交人    /u/jarvi-ss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hazqfm/need_to_spoof_a_higher_ios_version/</guid>
+      <pubDate>Tue, 10 Dec 2024 11:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>Trollstore 上有没有美化状态栏的应用？运行 iOS 16.6</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1havmru/is_there_any_app_on_trollstore_that_beautifies/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Trollstore 安装的许多应用程序在加载标题屏幕后会崩溃。这是怎么回事？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h6yrvw/many_apps_installed_by_trollstore_load_the_title/</link>
-      <description><![CDATA[大约有一半的应用程序只是加载了标题屏幕然后就崩溃了；我真的很想知道那里发生了什么。是不是因为我在错误的 IOS 上？是不是因为我在 iPad 上运行它们？是不是因为我用的是 Trollstore 而不是其他的？如果我越狱，它们还能工作吗？还有其他解决方案吗？我很想了解这个过程。    提交人    /u/J00ls   [link] [评论]]]></description>
+      <description><![CDATA[大约有一半的应用程序只是加载了标题屏幕然后就崩溃了；我真的很想知道那里发生了什么。是不是因为我用的 IOS 不对？是不是因为我在 iPad 上运行它们？是不是因为我用的是 Trollstore 而不是别的？如果我越狱，它们还能用吗？还有其他解决方案吗？我很想了解这个过程。    提交人    /u/J00ls   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h6yrvw/many_apps_installed_by_trollstore_load_the_title/</guid>
       <pubDate>Thu, 05 Dec 2024 02:43:43 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>苹果试图通过更新 iCloud 条款和条件来消灭 trollstore？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1h562ol/apple_trying_to_kill_trollstore_with_icloud_terms/</link>
-      <description><![CDATA[      我使用的是 iOS 16.2（iPhone 12 Pro Max）。自从几个月前安装了 trollstore 以来，我就不想更新了。  我的一些联系人说我的消息没有发送出去，有些联系人没有收到我的通知。  唯一的解决方案是更新到 iOS 18 吗？    提交人    /u/notplayinwithherbut   [link] [评论] ]]></description>
+      <description><![CDATA[      我使用的是 iOS 16.2（iPhone 12 Pro Max）。自从几个月前安装了 trollstore 以来，我就不想更新了。  我的一些联系人说我的消息没有发送出去，有些人没有收到我的通知。  唯一的解决方案是更新到 iOS 18 吗？    提交人    /u/notplayinwithherbut   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h562ol/apple_trying_to_kill_trollstore_with_icloud_terms/</guid>
       <pubDate>Mon, 02 Dec 2024 21:17:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      它有效！我也在我的 15 pro 18.1 beta 3 上将它与 Signolous 一起侧载。从我读到和听到的内容来看，我认为我必须更新到 ios 17 才能运行它，但为了安全起见，我不会在多巴胺越狱上玩它。我吸取了教训，因为在越狱手机上玩游戏而被 cod 禁止了 3 次 😅    提交人    /u/ContentSituation4983   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h0ohuf/installed_fortnite_with_trollstore_didnt_expect/</guid>
       <pubDate>Tue, 26 Nov 2024 22:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 帮助</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1gz8yt9/ios_help/</link>
-      <description><![CDATA[我现在是iPhone8P，系统是ios16.7.10，所以上不了TrollStore，尝试降级到16.1，但是没有证书备份，无法升级到iOS17.1beta，有谁能帮我解决一下吗？    submitted by    /u/nitang   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1gz8yt9/ios_help/</guid>
-      <pubDate>Mon, 25 Nov 2024 02:56:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

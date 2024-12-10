@@ -4,11 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:20:43 GMT</lastBuildDate>
+    <item>
+      <title>在 iPad 上安装 ipa 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hayx99/installing_an_ipa_file_on_ipad/</link>
+      <description><![CDATA[正如标题所示，我必须在我的 ipad 上安装一个 ipa 文件作为应用程序，如果我不想越狱，安装该应用程序最简单的方法是什么？    提交人    /u/Own-Excuse4879   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hayx99/installing_an_ipa_file_on_ipad/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很生气。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hayaev/i_am_mad/</link>
+      <description><![CDATA[我决定尝试侧载一些应用程序，但我犯了一个严重的错误，点击了“清除受信任的计算机”。现在，有两个问题： 1) 我的闪电端口可能坏了。我有 2 根电缆，我 100% 确定它们可以使用。但它们不能给手机充电，也不能连接手机，实际上什么都没有发生。而且我还彻底仔细地清洁了端口。（我使用无线充电器，所以我仍然可以使用手机） 2) 没有方法可以完全无线地将 iPhone 连接到 PC。我搜索了整个互联网，但我还没有找到一个纯粹的无线解决方案，所有这些解决方案都需要你将手机直接连接到 PC。 在这种情况下，我是不是完全没救了？我应该把手机送去维修吗？我还能自己做些什么吗？ 我有一台 iPhone X（iOS 16.7.10）和一台 Windows 10 笔记本电脑，我以前曾成功运行过 AltStore 和一些应用程序。    提交人    /u/r33k0lol   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hayaev/i_am_mad/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:48:02 GMT</pubDate>
+    </item>
     <item>
       <title>引入公平的应用内购买和订阅</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1haxqbi/introducing_fair_inapp_purchases_and_subscriptions/</link>
-      <description><![CDATA[大家好！ 我们很高兴地宣布一个期待已久的版本。今天，我们很高兴地介绍市场上 appdb 最公平的应用货币化解决方案！ 推出零佣金应用内购买和订阅 对于您正式发布的应用，appdb 提供：  零佣金：Appdb 不会对您在应用内进行的购买和订阅收取任何佣金。 直接付款：款项通过任何受支持的付款提供商直接支付给您。 用户所有权：您的应用用户属于您；我们不会把持您的客户。 税务控制：您管理销售税。 按月计费：API 使用按月计费，后付款。 透明交易：享受清晰的资金流，可通过您的支付网关轻松验证。  最好的部分是：第一年，API 使用是免费的！ 我们增强了我们的发布商区域，引入了更新手册，并且SDK，并扩展了我们的LTS API v1.7以支持这些新功能。您可以使用虚拟卡 4242 4242 4242 4242 11/40 111 在我们的示例应用中实时探索这些功能。源代码可在GitHub上找到。 此外，我们完善了应用和应用内购买的法律文本配置，现在支持 markdown 语法。 对于 appdb 用户  结算区域更新：您现在可以找到所有订阅和购买，必要时申请退款或取消，并更有效地与应用开发者沟通。 增强的应用页面：轻松访问法律文本，包括条款和条件、隐私政策和许可证。 捆绑的应用内产品：在应用页面上轻松查看捆绑的应用内产品。  查看此处的示例。 这是 appdb 历史上最重要的更新之一。欢迎开发者探索我们的独立市场！ 即将推出的功能 今年冬秋，我们计划推出：  付费应用 应用使用情况、客户和销售的统计数据 免费套餐和一般 API 使用定价  请放心，在 appdb 上发布应用将保持免费。 此致敬意，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我们很高兴地宣布一个期待已久的版本。今天，我们很高兴地介绍市场上 appdb 最公平的应用货币化解决方案！ 推出零佣金应用内购买和订阅 对于您正式发布的应用，appdb 提供：  零佣金：Appdb 不会对您在应用内进行的购买和订阅收取任何佣金。 直接付款：款项通过任何受支持的付款提供商直接支付给您。 用户所有权：您的应用用户属于您；我们不会把持您的客户。 税务控制：您管理销售税。 按月计费：API 使用按月计费，后付款。 透明交易：享受清晰的资金流，可通过您的支付网关轻松验证。  最好的部分是：第一年，API 使用是免费的！ 我们增强了我们的发布商区域，引入了更新手册，并且SDK，并扩展了我们的LTS API v1.7以支持这些新功能。您可以使用虚拟卡 4242 4242 4242 4242 11/40 111 在我们的示例应用中实时探索这些功能。源代码可在GitHub上找到。 此外，我们完善了应用和应用内购买的法律文本配置，现在支持 markdown 语法。 对于 appdb 用户  结算区域更新：您现在可以找到所有订阅和购买，必要时申请退款或取消，并更有效地与应用开发者沟通。 增强的应用页面：轻松访问法律文本，包括条款和条件、隐私政策和许可证。 捆绑的应用内产品：在应用页面上轻松查看捆绑的应用内产品。  查看此处的示例。 这是 appdb 历史上最重要的更新之一。欢迎开发者探索我们的独立市场！ 即将推出的功能 今年冬季和春季，我们计划推出：  付费应用 应用使用情况、客户和销售的统计数据 免费套餐和一般 API 使用定价  请放心，在 appdb 上发布应用将保持免费。 此致敬意，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1haxqbi/introducing_fair_inapp_purchases_and_subscriptions/</guid>
       <pubDate>Tue, 10 Dec 2024 09:03:38 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Mon, 09 Dec 2024 23:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道 iOS 18 越狱什么时候发布</title>
+      <title>有谁知道 iOS 18 越狱什么时候出来</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hao2yk/does_anyone_know_when_the_ios_18_jailbreak_will/</link>
       <description><![CDATA[我在 iOS 18 上安装 Snapchat plus 时遇到了问题，听说我必须等待越狱，是真的吗？我可以不越狱就使用它吗     提交人    /u/Younestouahri   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hao2yk/does_anyone_know_when_the_ios_18_jailbreak_will/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[Dark Sword - The Rising IPA (Damage Multiplier - Never Die) iOS 是一款创新的空闲动作角色扮演游戏，由 DAERI SOFT Inc. 开发，建立在其前身 Link https://ipaomtk.com/dark-sword-the-rising/ 的成功基础之上    提交人    /u/OM-TK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1haijcr/dark_sword_the_rising_ipa_damage_multiplier_never/</guid>
       <pubDate>Mon, 09 Dec 2024 19:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚开始</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hag0pg/just_starting/</link>
-      <description><![CDATA[我希望能够朝着正确的方向发展。我正在尝试寻找一款专门用于游戏且带有应用内购买功能的应用。我刚刚开始研究这方面的问题，如果有人能提供帮助，我希望能尽快开始。    由    /u/Puzzled-Ad4024  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hag0pg/just_starting/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>前熔铜？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hafusp/luma_fusion_ipa/</link>
-      <description><![CDATA[我不想为此支付二十美元。    由    /u/_cs3rimark_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hafusp/luma_fusion_ipa/</guid>
-      <pubDate>Mon, 09 Dec 2024 17:59:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
