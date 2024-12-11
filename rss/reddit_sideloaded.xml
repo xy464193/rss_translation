@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 11 Dec 2024 15:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 18:15:05 GMT</lastBuildDate>
+    <item>
+      <title>我被 kamo hack 骗了</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbzn87/i_got_scammed_my_kamo_hack_hacks/</link>
+      <description><![CDATA[大家好，有个所谓的管理员/骗子 (Ravand Bajlory)，要在 2024 年 11 月 11 日获得新证书，我需要 72 小时，这是上诉政策，所以 3 天后他告诉我要等 14 天，因为我的 udid 被限制了，所以 20 天后我联系他获取我的证书，他告诉我 5 小时后他就可以工作了，你应该给我发消息 (2024 年 12 月 8 日)，现在是 2024 年 11 月 12 日，但仍然没有回复我，大家要小心     提交人    /u/Constant-Fortune3310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbzn87/i_got_scammed_my_kamo_hack_hacks/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eevee spotify 无法使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hby2qk/eevee_spotify_not_working/</link>
+      <description><![CDATA[我下载了 Eevee Spotify，它仍然显示广告，我尝试重新安装并注销，但无济于事，它仍然显示广告并告诉我购买高级版 请帮忙修复它    提交人    /u/Klazerix   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hby2qk/eevee_spotify_not_working/</guid>
+      <pubDate>Wed, 11 Dec 2024 16:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Balackburn Apollo - Safari Extension Open 无法与 KravaSigner 配合使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbwrya/balackburn_apollo_safari_extension_open_not/</link>
+      <description><![CDATA[使用 Balackburn Apollo GitHub ipa。使用 Sideloadly 加载时，扩展程序从未出现过问题。最近使用 Kravasigner 进行了安装，在 Safari Extensions 中切换了开关，不起作用。只想重定向到 Reddit 应用程序。reddit 应用程序未安装，因此不存在冲突。 替代签名者存在已知问题？该应用程序安装简单，除此以外运行正常。    提交人    /u/alockbox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbwrya/balackburn_apollo_safari_extension_open_not/</guid>
+      <pubDate>Wed, 11 Dec 2024 16:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>困惑</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbvqys/confusion/</link>
+      <description><![CDATA[所以我昨天刚刚进入 sideloadly（我知道有一个不同的 reddit 可以做到这一点）但我很好奇，想知道如果我错了是否有人可以纠正我，但是如果我下载 Ipa 并使用 sideloadly 安装它，它会是高级版本吗？具体来说，从网站 decrypt.day 下载 任何澄清都将不胜感激谢谢    提交人    /u/Yungjdx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbvqys/confusion/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:17:42 GMT</pubDate>
+    </item>
     <item>
       <title>此刻我不敢问</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hburcm/at_this_point_i_am_too_afraid_to_ask/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>Apple Dev - 如何使用而不被撤销</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hbs2xd/apple_dev_how_to_use_without_getting_revoked/</link>
-      <description><![CDATA[大家好 我的朋友有一个苹果开发者帐户，并添加了我的 2 台设备 (UDID)。设备 1（手机）似乎工作正常，我使用 flekstore 中的 p8 文件生成 p12（在 esign 中使用）。 但是，当我使用设备 2（并使用现有密钥 - p8 创建 p12）时，我在第一个设备上获得撤销。 我在这里做错了什么 - 努力查看证书、标识符和 p8 文件如何链接以及为什么我会被撤销。 还有没有更好的方法来制作 p12 文件而不必通过 flekstore（导入 dev 证书） 谢谢    提交人    /u/roll_me_some   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我的朋友有一个苹果开发者帐户，并添加了我的 2 个设备 (UDID)。设备 1（手机）似乎运行正常，我使用 flekstore 中的 p8 文件生成 p12（在 esign 中使用）。  但是，当我使用设备 2（并使用现有密钥 - p8 创建 p12）时，我在第一个设备上被撤销。 我在这里做错了什么 - 努力查看证书、标识符和 p8 文件如何链接以及为什么我会被撤销。 还有没有更好的方法来制作 p12 文件而不必通过 flekstore（导入开发证书） 谢谢 编辑：弄清楚了（我想......） 按照此操作创建 p12 和配置文件。 https://youtu.be/4Q4tip0cDsM? 然后使用 IPA Sign 安装 ESign。   由    /u/roll_me_some  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbs2xd/apple_dev_how_to_use_without_getting_revoked/</guid>
       <pubDate>Wed, 11 Dec 2024 12:11:18 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>我想获得一个适用于 goodnotes 5 或 6 的 ipa，任何一个都可以，尽管我更喜欢 6，如果有人能帮我侧载，请帮忙</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hbqs0z/i_want_to_get_a_working_ipa_for_goodnotes_5_or_6/</link>
-      <description><![CDATA[设备是 ipad air 6th gen m2，最近格式化了它并且我知道 altstore 和 esign 方法    提交人    /u/sidhik_jain   [link] [评论]]]></description>
+      <description><![CDATA[设备是 ipad air 6th gen m2，最近格式化了它，我知道 altstore 和 esign 方法    提交人    /u/sidhik_jain   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbqs0z/i_want_to_get_a_working_ipa_for_goodnotes_5_or_6/</guid>
       <pubDate>Wed, 11 Dec 2024 10:43:55 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[https://www.icloud.com/shortcuts/f901dc0352814e549f688b7f6712aa5c  评论组织 更新的存储库 侧载教程链接 证书添加器链接  尽情享受吧！！     提交人    /u/Smart-Ad-8635   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbgz3k/repo_adder_v4_released/</guid>
       <pubDate>Wed, 11 Dec 2024 00:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在新 iPad Mini 上侧载应用吗？考虑买一个</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbbl7i/can_i_sideload_apps_on_the_new_ipad_mini_thinking/</link>
-      <description><![CDATA[嗨，我正在考虑购买新的 iPad mini，但我不确定我是否可以在美国侧载应用程序。我想侧载 Pomelo（一种交换机模拟器），但我不确定我是否可以侧载。如果可以，你能解释一下吗？谢谢！    提交人    /u/danpro12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbbl7i/can_i_sideload_apps_on_the_new_ipad_mini_thinking/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous： 中国移动通信集团山东有限公司？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbaxbi/signulous_china_mobile_group_shandong_co_ltd/</link>
-      <description><![CDATA[我的应用程序停止工作，当我尝试重新启用我的证书时，它要求我批准以下企业应用程序：“中国移动集团山东有限公司”。  这样做安全吗？或者 Kravasign 是更好的选择？ 我只用它来闲逛阿波罗。     提交人    /u/amputatedtable   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbaxbi/signulous_china_mobile_group_shandong_co_ltd/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我被列入黑名单该怎么办</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbagrw/what_to_do_if_im_black_listed/</link>
-      <description><![CDATA[当我使用 jork the pork 方法被列入 esign 黑名单时，我不确定该怎么办。我应该怎么做才能在不重启手机的情况下获得 esign     提交人    /u/Logical_Treat2010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbagrw/what_to_do_if_im_black_listed/</guid>
-      <pubDate>Tue, 10 Dec 2024 19:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hb960v/decrypt_ipa/</link>
-      <description><![CDATA[您好，有人可以解密我的 IPA 吗？这是 NordVPN 版本 8.10.0 - 最后一个支持 IKEv2 协议的版本，因此可以与其他 VPN（如 Adguard）一起使用。我有 IPA 文件，但它是加密的。我可以在私下提供一个链接... 基本上我可以得到这个应用程序，但我现在面临的问题是登录。NordVPN 使用 url 方案启动 nordvpn 网站，提示我使用我的凭据登录，但我猜用 Esign 签名的应用程序不支持该选项。我收到一个错误：我们现在无法让您登录。我们这边出现意外错误。请稍后再试...    提交人    /u/b3ton1991   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hb960v/decrypt_ipa/</guid>
-      <pubDate>Tue, 10 Dec 2024 18:54:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
