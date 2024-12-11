@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 11 Dec 2024 00:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 06:16:26 GMT</lastBuildDate>
+    <item>
+      <title>其他人的 ESign 崩溃了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbjvp1/anyone_elses_esign_crashing/</link>
+      <description><![CDATA[今天才开始发生这种情况，每次我尝试打开我加载的应用程序或 ESign 本身时，它都会崩溃，有什么提示吗？我有一个 DNS 阻止程序，所以不知道为什么它突然被撤销了。如果有任何关于如何取回我的东西的指南（不擦除我的手机）我将不胜感激。    提交人    /u/Major_Union_9943   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbjvp1/anyone_elses_esign_crashing/</guid>
+      <pubDate>Wed, 11 Dec 2024 03:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国何时能推出 iPhone 侧载功能？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbj2l3/when_will_side_loading_be_available_in_the_us_for/</link>
+      <description><![CDATA[何时在美国为 iPhone 提供侧载功能？    提交人    /u/idkhjrhe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbj2l3/when_will_side_loading_be_available_in_the_us_for/</guid>
+      <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新后 Sidestore 崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbivfi/sidestore_crashes_after_refresh/</link>
+      <description><![CDATA[      大家好，我已经开始使用 Sidestore 作为侧载解决方案，但一直存在问题，每次我必须刷新应用程序时，侧边存储都会拒绝再次打开，除非我重新安装，这违背了我所追求的“无 PC 刷新”的整个目的。我只在配置 vpn 开启的情况下进入侧边存储，我不知道我还做错了什么。我在 iOS 18.1.1 上    提交人    /u/hesmatttt   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbivfi/sidestore_crashes_after_refresh/</guid>
+      <pubDate>Wed, 11 Dec 2024 02:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iOS 上安装 Spottube？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hbhkyc/how_to_install_spotube_on_ios/</link>
+      <description><![CDATA[如何在 iOS 上安装 Spotube？    提交人    /u/Realistic-Sky-7858   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hbhkyc/how_to_install_spotube_on_ios/</guid>
+      <pubDate>Wed, 11 Dec 2024 01:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>Repo Adder V4 发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hbgz3k/repo_adder_v4_released/</link>
@@ -13,7 +41,7 @@
       <pubDate>Wed, 11 Dec 2024 00:35:53 GMT</pubDate>
     </item>
     <item>
-      <title>我可以在新 iPad Mini 上侧载应用吗？考虑买一个</title>
+      <title>我可以在新 iPad Mini 上侧载应用吗？考虑买一台</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hbbl7i/can_i_sideload_apps_on_the_new_ipad_mini_thinking/</link>
       <description><![CDATA[嗨，我正在考虑购买新的 iPad mini，但我不确定我是否可以在美国侧载应用程序。我想侧载 Pomelo（一种交换机模拟器），但我不确定我是否可以侧载。如果可以，你能解释一下吗？谢谢！    提交人    /u/danpro12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbbl7i/can_i_sideload_apps_on_the_new_ipad_mini_thinking/</guid>
@@ -36,7 +64,7 @@
     <item>
       <title>解密IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hb960v/decrypt_ipa/</link>
-      <description><![CDATA[您好，有人可以解密我的 IPA 吗？这是 NordVPN 版本 8.10.0 - 最后一个支持 IKEv2 协议的版本，因此可以与其他 VPN（如 Adguard）一起使用。我有 IPA 文件，但它是加密的。我可以在私下提供一个链接... 基本上我可以得到这个应用程序，但我现在面临的问题是登录。NordVPN 使用 url 方案启动 nordvpn 网站，提示我使用我的凭据登录，但我猜用 Esign 签名的应用程序不支持该选项。我收到一个错误：我们现在无法让您登录。我们这边出现意外错误。请稍后再试...    提交人    /u/b3ton1991   [链接] [评论]]]></description>
+      <description><![CDATA[您好，有人能解密我的 IPA 吗？这是 NordVPN 版本 8.10.0 - 最后一个支持 IKEv2 协议的版本，因此可以与其他 VPN（如 Adguard）一起使用。我有 IPA 文件，但它是加密的。我可以在私下提供一个链接... 基本上我可以得到这个应用程序，但我现在面临的问题是登录。NordVPN 使用 url 方案启动 nordvpn 网站，提示我使用我的凭据登录，但我猜用 Esign 签名的应用程序不支持该选项。我收到一个错误：我们现在无法让您登录。我们这边出现意外错误。请稍后再试...    提交人    /u/b3ton1991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hb960v/decrypt_ipa/</guid>
       <pubDate>Tue, 10 Dec 2024 18:54:49 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我决定尝试侧载一些应用程序，但我犯了一个严重的错误，点击了“清除受信任的计算机”。现在，有两个问题： 1) 我的闪电端口可能坏了。我有 2 根电缆，我 100% 确定它们可以使用。但它们不能给手机充电，也不能连接手机，实际上什么都没有发生。而且我还彻底仔细地清洁了端口。（我使用无线充电器，所以我仍然可以使用手机） 2) 没有方法可以完全无线地将 iPhone 连接到 PC。我搜索了整个互联网，但我还没有找到一个纯粹的无线解决方案，所有这些解决方案都需要你将手机直接连接到 PC。 在这种情况下，我是不是完全没救了？我应该把手机送去维修吗？我还能自己做些什么吗？ 我有一台 iPhone X（iOS 16.7.10）和一台 Windows 10 笔记本电脑，我以前曾成功运行过 AltStore 和一些应用程序。    提交人    /u/r33k0lol   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hayaev/i_am_mad/</guid>
       <pubDate>Tue, 10 Dec 2024 09:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入公平的应用内购买和订阅</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haxqbi/introducing_fair_inapp_purchases_and_subscriptions/</link>
-      <description><![CDATA[大家好！ 我们很高兴地宣布一个期待已久的版本。今天，我们很高兴地介绍市场上 appdb 最公平的应用货币化解决方案！ 推出零佣金应用内购买和订阅 对于您正式发布的应用，appdb 提供：  零佣金：Appdb 不会对您在应用内进行的购买和订阅收取任何佣金。 直接付款：款项通过任何受支持的付款提供商直接支付给您。 用户所有权：您的应用用户属于您；我们不会把持您的客户。 税务控制：您管理销售税。 按月计费：API 使用按月计费，后付款。 透明交易：享受清晰的资金流，可通过您的支付网关轻松验证。  最好的部分是：第一年，API 使用是免费的！ 我们增强了我们的发布商区域，引入了更新手册，并且SDK，并扩展了我们的LTS API v1.7以支持这些新功能。您可以使用虚拟卡 4242 4242 4242 4242 11/40 111 在我们的示例应用中实时探索这些功能。源代码可在GitHub上找到。 此外，我们完善了应用和应用内购买的法律文本配置，现在支持 markdown 语法。 对于 appdb 用户  结算区域更新：您现在可以找到所有订阅和购买，必要时申请退款或取消，并更有效地与应用开发者沟通。 增强的应用页面：轻松访问法律文本，包括条款和条件、隐私政策和许可证。 捆绑的应用内产品：在应用页面上轻松查看捆绑的应用内产品。  查看此处的示例。 这是 appdb 历史上最重要的更新之一。欢迎开发者探索我们的独立市场！ 即将推出的功能 今年冬季和春季，我们计划推出：  付费应用 应用使用情况、客户和销售的统计数据 免费套餐和一般 API 使用定价  请放心，在 appdb 上发布应用将保持免费。 此致敬意，appdb 团队。    提交人    /u/appdb_official   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haxqbi/introducing_fair_inapp_purchases_and_subscriptions/</guid>
-      <pubDate>Tue, 10 Dec 2024 09:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有适用于 iPhone 的新的 brezzy/typical encient/Tudeos 盗版电影系列应用程序的新链接吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1haxegj/anyone_have_new_brezzytypical_encienttudeos/</link>
-      <description><![CDATA[有人有适用于 iPhone 的新 brezzy/typical encient/Tudeos 盗版电影系列应用程序的新链接吗？    由   提交  /u/Unlucky_County_9378   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1haxegj/anyone_have_new_brezzytypical_encienttudeos/</guid>
-      <pubDate>Tue, 10 Dec 2024 08:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法安装 E-Sign。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1havjcv/cant_install_esign/</link>
-      <description><![CDATA[按照本指南，我尝试从本网站下载 E-Sign，系统提示“无法验证完整性”；我尝试了不同的手机，结果相同。仔细检查了 DNS。    提交人    /u/SoccerCoderMarc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1havjcv/cant_install_esign/</guid>
-      <pubDate>Tue, 10 Dec 2024 06:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitch 苹果版</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hapo9q/twitch_ipa/</link>
-      <description><![CDATA[有人有可以移除 twitch 广告的软件吗？非常感谢     提交人    /u/9_iq   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hapo9q/twitch_ipa/</guid>
-      <pubDate>Tue, 10 Dec 2024 01:02:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
