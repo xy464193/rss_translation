@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 12 Dec 2024 03:29:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 06:16:09 GMT</lastBuildDate>
+    <item>
+      <title>有人能帮我解密这些应用程序吗？！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hcetmx/can_anyone_decrypt_these_apps_for_me/</link>
+      <description><![CDATA[我是一个人工智能迷。每天都在用，但现在没钱每个月支付费用。我最喜欢的两个，也是我非常想拥有高级功能的是 Monica AI 和 Merlin AI。我都有 iOS 应用程序。提前谢谢大家！    提交人    /u/Fuzzy_Ad_6468   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hcetmx/can_anyone_decrypt_these_apps_for_me/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:13:37 GMT</pubDate>
+    </item>
     <item>
       <title>好的 TTS ipa 侧载</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hcbrwc/good_tts_ipa_sideloaded/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好 我的朋友有一个苹果开发者帐户，并添加了我的 2 个设备 (UDID)。设备 1（手机）似乎运行正常，我使用 flekstore 中的 p8 文件生成 p12（在 esign 中使用）。  但是，当我使用设备 2（并使用现有密钥 - p8 创建 p12）时，我在第一个设备上被撤销。 我在这里做错了什么 - 努力查看证书、标识符和 p8 文件如何链接以及为什么我会被撤销。 还有没有更好的方法来制作 p12 文件而不必通过 flekstore（导入开发证书） 谢谢 编辑：弄清楚了（我想......） 按照此操作创建 p12 和配置文件。 https://youtu.be/4Q4tip0cDsM? 然后使用 IPA Sign 安装 ESign。   由    /u/roll_me_some  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbs2xd/apple_dev_how_to_use_without_getting_revoked/</guid>
       <pubDate>Wed, 11 Dec 2024 12:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>iTunes 查询</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbryzi/itunes_inquiry/</link>
-      <description><![CDATA[大家好！我不得不降级到 iTunes 12.6.5.3（App Store 版本）来下载一个过时的应用程序。我当前的 SideLoaded 应用程序是否仍可以通过 wifi 与旧版 iTunes 同步，特别是因为我无法再通过 USB 连接到它（似乎手机无法使用旧版本进行连接？） 编辑：我刚刚在我的 Windows 笔记本电脑上创建了 2 个本地帐户：一个专门用于提取过时的应用程序，另一个（我当前的帐户）用于侧载    提交人    /u/mischevious0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbryzi/itunes_inquiry/</guid>
-      <pubDate>Wed, 11 Dec 2024 12:04:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
