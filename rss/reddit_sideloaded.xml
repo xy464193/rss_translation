@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 12 Dec 2024 06:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 12:20:36 GMT</lastBuildDate>
+    <item>
+      <title>有没有可靠的方法可以在 iOS 18 上侧载应用程序而无需 7 天辞职或证书？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hciw8d/any_reliable_way_to_sideload_apps_on_ios_18/</link>
+      <description><![CDATA[大家好， 我使用的是 iOS 18，正在寻找一种可靠的方法来侧载应用程序，而无需 7 天重新注册或依赖证书的麻烦。我将介绍到目前为止我尝试过的方法以及我对每种方法的看法： • Scarlet：我真的认为 Scarlet 总体来说是一款很棒的工具！但是，它每隔几天就会被撤销，并且网站上充斥着不适当内容的广告，这让人用起来很沮丧。 • AppleP12 和 Feather：我喜欢这些选项，但 AppleP12 证书几乎立即被阻止并且似乎无法使用。 • AltStore/Sideloadly 之类的：工作正常，但持续 7 天的辞职过程对我来说太麻烦了。 我知道这对开发人员来说不是一个容易解决的问题，我非常感谢这些工具的所有工作。我的学校也阻止了大多数基于 DNS 的方法，所以这些不是一个选择。我可以使用一次 PC 进行初始设置，但我更喜欢不需要持续维护的东西。理想情况下，它也应该是免费的。 有没有人有可靠的、低维护的解决方案来在 iOS 18 上侧载应用程序？如有任何建议或想法，我们将不胜感激。 提前感谢您的帮助！ Fletchi    提交人    /u/Fletchilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hciw8d/any_reliable_way_to_sideload_apps_on_ios_18/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:15:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18：检测到侧载应用程序时 CPU 使用率飙升至 100%</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hchmko/ios_18_cpu_usage_spikes_to_100_when_sideloaded/</link>
+      <description><![CDATA[      还有人注意到这一点吗？在运行 iOS 18 的设备上，如果检测到侧载应用，CPU 使用率会飙升至 100%，导致设备发热并大幅缩短电池寿命。 我使用以下应用进行了测试：  AltStore.ipa YTMusicUltimate.ipa（使用 GitHub 的最新版本构建） uYouPlus-19.08.2-3.0.3.ipa  所有这些应用的行为都是一致的。无论应用是在前台还是后台运行，CPU 使用率都会保持很高，直到应用被删除。 为了验证，我使用设备监视器应用监视了 CPU 使用率。我附上了安装侧载应用程序之前和之后 CPU 使用率的屏幕截图。 这是一个错误，还是 Apple 故意采取的措施来阻止侧载？有没有人找到了解决方法或其他见解？ 期待听到您的想法和经验！ https://preview.redd.it/s35k9ba02e6e1.jpg?width=590&amp;format=pjpg&amp;auto=webp&amp;s=e6632325fa63bef69ad702f45cde93c2040fe3c0 https://preview.redd.it/3x64snd12e6e1.jpg?width=590&amp;format=pjpg&amp;auto=webp&amp;s=fd55d302e6bfaf3be845a11998b2a6221c18c95b    提交人    /u/RaceUnited2309   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hchmko/ios_18_cpu_usage_spikes_to_100_when_sideloaded/</guid>
+      <pubDate>Thu, 12 Dec 2024 09:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Sidestore 及其服务器开启时，Appstore 中的应用程序会停止工作吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hcgna5/do_apps_from_appstore_stop_working_when_sidestore/</link>
+      <description><![CDATA[当你的手机越狱时，喜欢银行/政府应用程序    提交人    /u/YasseRed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hcgna5/do_apps_from_appstore_stop_working_when_sidestore/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPA 建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hcfdvv/suggestion_for_an_ipa/</link>
+      <description><![CDATA[寻找一个可以直播足球、板球、曲棍球、棒球等体育赛事的 IPA。    提交人    /u/Tricky-Act-794   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hcfdvv/suggestion_for_an_ipa/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>esign 与 esign 无日志</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hcexrg/esign_vs_esign_no_logs/</link>
+      <description><![CDATA[有人能告诉我 esign 和 esign no logs 之间的实际区别吗？ 人们一直说“esign no logs”更好，但它到底怎么更好呢？ 此外，我如何用我当前的 esign 替换它？    提交人    /u/moonrise14   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hcexrg/esign_vs_esign_no_logs/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:21:12 GMT</pubDate>
+    </item>
     <item>
       <title>有人能帮我解密这些应用程序吗？！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hcetmx/can_anyone_decrypt_these_apps_for_me/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好，有个所谓的管理员/骗子 (Ravand Bajlory)，要在 2024 年 11 月 11 日获得新证书，我需要 72 小时，这是上诉政策，所以 3 天后他告诉我要等 14 天，因为我的 udid 被限制了，所以 20 天后我联系他获取我的证书，他告诉我 5 小时后他就可以工作了，你应该给我发消息 (2024 年 12 月 8 日)，现在是 2024 年 11 月 12 日，但仍然没有回复我，大家要小心     提交人    /u/Constant-Fortune3310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hbzn87/i_got_scammed_my_kamo_hack_hacks/</guid>
       <pubDate>Wed, 11 Dec 2024 18:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eevee spotify 无法使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hby2qk/eevee_spotify_not_working/</link>
-      <description><![CDATA[我下载了 Eevee Spotify，它仍然显示广告，我尝试重新安装并注销，但无济于事，它仍然显示广告并告诉我购买高级版 请帮忙修复它    提交人    /u/Klazerix   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hby2qk/eevee_spotify_not_working/</guid>
-      <pubDate>Wed, 11 Dec 2024 16:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Balackburn Apollo - Safari Extension Open 无法与 KravaSigner 配合使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbwrya/balackburn_apollo_safari_extension_open_not/</link>
-      <description><![CDATA[使用 Balackburn Apollo GitHub ipa。使用 Sideloadly 加载时，扩展程序从未出现过问题。最近使用 Kravasigner 进行了安装，在 Safari Extensions 中切换了开关，不起作用。只想重定向到 Reddit 应用程序。reddit 应用程序未安装，因此不存在冲突。 替代签名者存在已知问题？该应用程序安装简单，除此以外运行正常。    提交人    /u/alockbox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbwrya/balackburn_apollo_safari_extension_open_not/</guid>
-      <pubDate>Wed, 11 Dec 2024 16:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbvqys/confusion/</link>
-      <description><![CDATA[所以我昨天刚刚进入 sideloadly（我知道有一个不同的 reddit 可以做到这一点）但我很好奇，想知道如果我错了是否有人可以纠正我，但是如果我下载 Ipa 并使用 sideloadly 安装它，它会是高级版本吗？具体来说，从网站 decrypt.day 下载 任何澄清都将不胜感激谢谢    提交人    /u/Yungjdx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbvqys/confusion/</guid>
-      <pubDate>Wed, 11 Dec 2024 15:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>此刻我不敢问</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hburcm/at_this_point_i_am_too_afraid_to_ask/</link>
-      <description><![CDATA[我知道如何使用 sideloadly，其实很简单，只需找到一个 IPA 并通过 sideloadly 安装它即可 但是 JIT 是什么！ 我知道 UncoverOs 用于越狱，不适用于较新的型号（我在 18.2 上） 但是 Esign App and Repos 是什么  有没有办法突破 3 个安装限制？ 漏洞实际上是什么？    提交人    /u/wowitisreallyhard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hburcm/at_this_point_i_am_too_afraid_to_ask/</guid>
-      <pubDate>Wed, 11 Dec 2024 14:32:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Dev - 如何使用而不被撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hbs2xd/apple_dev_how_to_use_without_getting_revoked/</link>
-      <description><![CDATA[大家好 我的朋友有一个苹果开发者帐户，并添加了我的 2 个设备 (UDID)。设备 1（手机）似乎运行正常，我使用 flekstore 中的 p8 文件生成 p12（在 esign 中使用）。  但是，当我使用设备 2（并使用现有密钥 - p8 创建 p12）时，我在第一个设备上被撤销。 我在这里做错了什么 - 努力查看证书、标识符和 p8 文件如何链接以及为什么我会被撤销。 还有没有更好的方法来制作 p12 文件而不必通过 flekstore（导入开发证书） 谢谢 编辑：弄清楚了（我想......） 按照此操作创建 p12 和配置文件。 https://youtu.be/4Q4tip0cDsM? 然后使用 IPA Sign 安装 ESign。   由    /u/roll_me_some  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hbs2xd/apple_dev_how_to_use_without_getting_revoked/</guid>
-      <pubDate>Wed, 11 Dec 2024 12:11:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
