@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Fri, 13 Dec 2024 09:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:19:58 GMT</lastBuildDate>
+    <item>
+      <title>Xsmax iOS 17 Bootloop 禁用守护进程</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hd9xae/xsmax_ios_17_bootloop_disable_deamons/</link>
+      <description><![CDATA[reddit 上有人给出了禁用守护进程的列表，我已经使用 xsmax Filza 上的 filza 禁用了一些守护进程......现在我的手机处于 Bootloop 状态......有人有解决这个问题的方法吗？将不胜感激......它卡在苹果标志上......只能强制重启，但不会消失苹果标志    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hd9xae/xsmax_ios_17_bootloop_disable_deamons/</guid>
+      <pubDate>Fri, 13 Dec 2024 11:07:04 GMT</pubDate>
+    </item>
     <item>
       <title>我们如何获取 Helium App 的天气 API？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hd5cqx/how_do_we_get_weather_api_for_helium_app/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      有什么解决办法吗？我试了很多次，但还是一样……    提交人    /u/Decent_Bug_2412   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h52c29/verify_not_working_iphone_7_1582/</guid>
       <pubDate>Mon, 02 Dec 2024 18:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将 Apple Watch Series 10 连接到 17.0 版的 iPhone 14</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h3zhop/is_it_possible_to_connect_apple_watch_series_10/</link>
-      <description><![CDATA[大家好，我打算购买 Apple Watch Series 10，我目前在 trollstore 上使用 io17.0。有什么方法可以将 Apple Watch Series 10 与 17.0 上的 iPhone 连接起来吗？    提交人    /u/Timely_Stop2889   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h3zhop/is_it_possible_to_connect_apple_watch_series_10/</guid>
-      <pubDate>Sun, 01 Dec 2024 09:14:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
