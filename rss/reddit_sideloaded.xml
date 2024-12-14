@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 14 Dec 2024 15:09:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 18:13:17 GMT</lastBuildDate>
+    <item>
+      <title>侧载应用程序会耗尽你的电池吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1he5wnp/is_it_possible_for_sideloaded_apps_to_drain_your/</link>
+      <description><![CDATA[我通过 sideloadly 下载了 eevespotify，感觉电池耗电更快了。这可能是真的吗，还是安慰剂效应？    提交人    /u/karageorgiou1600   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1he5wnp/is_it_possible_for_sideloaded_apps_to_drain_your/</guid>
+      <pubDate>Sat, 14 Dec 2024 16:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>签署应用程序时出现 Live Container 错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1he5us0/live_container_error_while_signing_app/</link>
+      <description><![CDATA[应用程序名称：Mangayomi 版本 3.8 Ios 17.7（我相信）（这是发布的最后一个版本的 ios 17） Live Container：版本 3.1.0 我收到此错误： /Users/runner/Library/Developer/Xcode/DerivedData/AltStore-dunvejkuqerofjghtqolpzgexuyv/SourcePackages/checkouts/AltSign/Sources/ldid/../ldid-core/ldid.cpp(1368): _assert(): end &gt;= size - 0x10 有任何修复吗？    提交人    /u/South-Goat2722   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1he5us0/live_container_error_while_signing_app/</guid>
+      <pubDate>Sat, 14 Dec 2024 15:57:36 GMT</pubDate>
+    </item>
     <item>
       <title>有没有允许对视频进行排队的 YouTube 应用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1he4nkz/any_youtube_app_that_allows_you_to_queue_videos/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>域名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1he1xxy/khoindvn_dns/</link>
-      <description><![CDATA[我有一个游戏，其中某些内容需要广告，而 Khoin dns 阻止了广告，但我不想撤销企业应用程序，我该怎么办？    提交人    /u/Narrow_Rough_4503   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个游戏，有些内容需要广告，而 Khoin dns 阻止了广告，但我不想撤销企业应用程序，我该怎么办？    提交人    /u/Narrow_Rough_4503   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1he1xxy/khoindvn_dns/</guid>
       <pubDate>Sat, 14 Dec 2024 12:33:53 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Sat, 14 Dec 2024 09:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>乐队有ipa演奏吗？</title>
+      <title>乐队有ipa演奏吗？！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hdwd62/toca_band_ipa/</link>
       <description><![CDATA[有人知道哪里可以下载这个游戏的 Ipa 文件吗，任何版本都可以，最好是 1.0.8。    提交人    /u/Jealous_Address_5167   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hdwd62/toca_band_ipa/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我不知道关于侧载的任何信息，所以我只是来这里寻求帮助，哈哈，我在 altstore 上使用霍格沃茨之谜 ipa，它有无限的宝石、能量和金币，但最近的更新失去了无限的宝石和金币功能。我一直在寻找，但找不到另一个最新的/非越狱的/不花钱的 ipa 等等。所以如果有人知道 ipa 或我可以在哪里找到一个那就太好了    提交人    /u/hands-mcgee-Sr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hdqf5b/hogwarts_mystery_ipa/</guid>
       <pubDate>Sat, 14 Dec 2024 00:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>小小噩梦 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hdpoeu/little_nightmares_ipa/</link>
-      <description><![CDATA[我已经找了 2 个月了，但是一直没有找到     提交人    /u/MKTAB_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hdpoeu/little_nightmares_ipa/</guid>
-      <pubDate>Fri, 13 Dec 2024 23:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我更新到 IOS 18.2，这会弄乱我的执行器和 DNS 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hdn9ud/if_i_update_to_ios_182_will_that_mess_up_my/</link>
-      <description><![CDATA[我正在考虑，但我不想冒被列入黑名单的风险，也不想经历获取新证书的麻烦（我使用 ESign）    提交人    /u/Major_Union_9943   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hdn9ud/if_i_update_to_ios_182_will_that_mess_up_my/</guid>
-      <pubDate>Fri, 13 Dec 2024 21:49:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
