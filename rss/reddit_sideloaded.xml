@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 14 Dec 2024 00:50:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 03:24:23 GMT</lastBuildDate>
+    <item>
+      <title>Sidestore 应用多次未通过验证</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hdtsaa/sidestore_apps_getting_unverified_multiple_times/</link>
+      <description><![CDATA[我使用 sidestore 侧载了 youtube 和 spotify 应用。使用一两天后，这些应用无法打开，检查后发现它们已自动未验证。单击验证后没有任何反应。尝试重新安装应用，重新安装 Sidestore，还尝试更改配对文件。  第三次受够了这个问题后，终于切换回了侧载。  这个问题在 sidestore 中很常见吗？如何解决？    提交人    /u/h3m4nt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hdtsaa/sidestore_apps_getting_unverified_multiple_times/</guid>
+      <pubDate>Sat, 14 Dec 2024 03:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>霍格沃茨之谜 ipa？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hdqf5b/hogwarts_mystery_ipa/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用 krava 安装了 feather。没有问题。 向 feather 添加了 repos 并签署了一些应用程序，但它们无法签署并且主屏幕上的图标为白色。 有什么想法吗？ 应用程序安装失败，feather 卡在“发送清单”上    提交人    /u/helloyournameis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hdc6a2/feather_help/</guid>
       <pubDate>Fri, 13 Dec 2024 13:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有 Wi-Fi 或 VPN</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hd7nid/no_wifi_or_vpn/</link>
-      <description><![CDATA[嘿，每当我尝试在 sidestore 上刷新我的应用程序时，我总是收到无 Wifi 或 VPN 错误，我觉得我已经尝试了一切，但就是无法让它工作。 谢谢你的帮助！    提交人    /u/Scarlet_Onion   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hd7nid/no_wifi_or_vpn/</guid>
-      <pubDate>Fri, 13 Dec 2024 08:09:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
