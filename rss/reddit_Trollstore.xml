@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 15 Dec 2024 09:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 12:18:05 GMT</lastBuildDate>
+    <item>
+      <title>删除钥匙串 Windows 计算机中的应用程序条目</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1heqws0/delete_app_entries_in_keychain_windows_computer/</link>
+      <description><![CDATA[      我刚刚在 iTunes 数据中看到了 keychain-2 db 文件...有人知道我们可以编辑它吗或者它与删除有关钥匙串中的应用程序条目？    提交人    /u/Able_Championship_73   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1heqws0/delete_app_entries_in_keychain_windows_computer/</guid>
+      <pubDate>Sun, 15 Dec 2024 11:41:41 GMT</pubDate>
+    </item>
     <item>
       <title>重置钥匙串上的应用程序条目</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hej7j0/reset_app_entries_on_keychain/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>为什么我的 iPhone 当前未使用，却会向另一个 iPhone 用户发送通知说“您已开始与某人共享位置”？我真的很困惑这些东西是如何工作的。任何帮助都将不胜感激！</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hdi881/what_would_be_the_reason_why_my_iphone_which_is/</link>
-      <description><![CDATA[在损坏的 iPhone 上向其他人共享位置通知     提交人    /u/EmuIndividual4164   [链接] [评论]]]></description>
+      <description><![CDATA[在损坏的 iPhone 上向其他人分享位置通知     提交人    /u/EmuIndividual4164   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hdi881/what_would_be_the_reason_why_my_iphone_which_is/</guid>
       <pubDate>Fri, 13 Dec 2024 18:04:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，有人知道如何在状态栏图标内添加电池百分比吗？我的 iOS 15.6 带有 trollstore 和 Cowabunga    提交人    /u/ZEpexera   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hamqod/battery_percentage/</guid>
       <pubDate>Mon, 09 Dec 2024 22:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.5.1 上的 Trollstore</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h8rccl/trollstore_on_ios_1751/</link>
-      <description><![CDATA[      所以..我找到了一种在 ios 17.5.1 上侧载 trollstore 的方法，但每次我想要侧载某些东西时，它都会给我一条错误消息。我没有任何剩余的应用程序 ID，所以这可能是原因。有什么帮助吗？是什么原因造成的？    提交人    /u/Personal-Teaching-19   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h8rccl/trollstore_on_ios_1751/</guid>
-      <pubDate>Sat, 07 Dec 2024 12:21:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
