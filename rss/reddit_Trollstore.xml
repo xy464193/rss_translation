@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 14 Dec 2024 18:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 00:56:39 GMT</lastBuildDate>
+    <item>
+      <title>iOS 18.2 或 iOS 18.1.1 xsmax</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hebelm/ios_182_or_ios_1811_xsmax/</link>
+      <description><![CDATA[我已经将我的 xsmax 更新到 ios 18.2，但刚才有朋友告诉我 ios 18.1.1 仍然有签名，我可以降级，他告诉我 nugget 和 sparserestore 等正在运行，所以越狱或类似 trollstore 的替代品已经到货...你们有什么建议，我应该降级吗？    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hebelm/ios_182_or_ios_1811_xsmax/</guid>
+      <pubDate>Sat, 14 Dec 2024 20:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需越狱即可访问钥匙串数据库</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hearwr/access_keychain_db_without_jailbreak/</link>
+      <description><![CDATA[我错误地将我的 ios 17 更新到了 ios 18，并且我丢失了 trollstore......我一个月内最需要的唯一功能是购物网站，一些社交应用程序阻止了我的帐户，然后我不得不通过编辑钥匙串表重置该应用程序....这里有专业人士可以帮我吗，如果我可以通过电脑上的某些工具访问钥匙串，或者我是否通过 altstore 安装 filza 等？     提交人    /u/Able_Championship_73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hearwr/access_keychain_db_without_jailbreak/</guid>
+      <pubDate>Sat, 14 Dec 2024 19:45:55 GMT</pubDate>
+    </item>
     <item>
       <title>使用 novulntools2 后，应用分享按钮不起作用 [帮助]</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hduo4n/an_app_share_button_dont_work_after_novulntools2/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>为什么我的 iPhone 当前未使用，却会向另一个 iPhone 用户发送通知说“您已开始与某人共享位置”？我真的很困惑这些东西是如何工作的。任何帮助都将不胜感激！</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hdi881/what_would_be_the_reason_why_my_iphone_which_is/</link>
-      <description><![CDATA[在损坏的 iPhone 上向其他人分享位置通知     提交人    /u/EmuIndividual4164   [link] [comments]]]></description>
+      <description><![CDATA[在损坏的 iPhone 上向其他人共享位置通知     提交人    /u/EmuIndividual4164   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hdi881/what_would_be_the_reason_why_my_iphone_which_is/</guid>
       <pubDate>Fri, 13 Dec 2024 18:04:49 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Tue, 10 Dec 2024 12:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>需要仿冒更高版本的iOS</title>
+      <title>需要模仿更高的 iOS 版本</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hazqfm/need_to_spoof_a_higher_ios_version/</link>
       <description><![CDATA[越来越多的应用告诉我无法安装，因为我需要 17.xx 等。我使用的是 15.1.1 我知道我可以越狱，但我不想为大多数 JB 检测应用越狱，而我需要的所有应用目前都可以在 TS 中使用。 我有一种方法可以让 AppStore 认为我在使用 iOS 17 并允许安装这些应用。 我想要的应用无法通过 TS 作为 iOS 找到以进行安装。    提交人    /u/jarvi-ss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hazqfm/need_to_spoof_a_higher_ios_version/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[上周刚买了一些 pro 2，但发现它们需要 ios 16，而我使用的是 15.4.1。有什么我可以做的吗，或者我是不是被坑了    提交人    /u/AndresG731   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1h72as2/airpods_pro_2_on_ios_15/</guid>
       <pubDate>Thu, 05 Dec 2024 05:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trollstore 安装的许多应用程序在加载标题屏幕后会崩溃。这是怎么回事？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h6yrvw/many_apps_installed_by_trollstore_load_the_title/</link>
-      <description><![CDATA[大约有一半的应用程序只是加载了标题屏幕然后就崩溃了；我真的很想知道那里发生了什么。是不是因为我在错误的 IOS 上？是不是因为我在 iPad 上运行它们？是不是因为我用的是 Trollstore 而不是其他的？如果我越狱，它们还能工作吗？还有其他解决方案吗？我很想了解这个过程。    提交人    /u/J00ls   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h6yrvw/many_apps_installed_by_trollstore_load_the_title/</guid>
-      <pubDate>Thu, 05 Dec 2024 02:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>从源代码构建 TrollFools 成功运行，但注入 dylib 失败</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1h67bz5/building_trollfools_from_source_code_runs/</link>
-      <description><![CDATA[执行命令make package，成功打包了tipa文件，但是注入dylib失败。 github操作执行打包没有问题。 为什么会出现这种情况？    submitted by    /u/ToQuery   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1h67bz5/building_trollfools_from_source_code_runs/</guid>
-      <pubDate>Wed, 04 Dec 2024 04:07:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
