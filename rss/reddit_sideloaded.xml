@@ -4,13 +4,27 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 18 Dec 2024 00:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 06:15:01 GMT</lastBuildDate>
     <item>
-      <title>我应该分享我的 repo 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hgplup/should_i_share_my_repo/</link>
-      <description><![CDATA[      几个月前我创建了一个仓库供个人使用，里面有几个应用程序（没有破解补丁，也没有那些💩，我是 100% 的开发者支持者）。   由    /u/SneakyGhozt  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hgplup/should_i_share_my_repo/</guid>
-      <pubDate>Wed, 18 Dec 2024 00:47:38 GMT</pubDate>
+      <title>侧载应用程序在启动时不断崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hgui6q/sideloaded_app_keeps_crashing_on_startup/</link>
+      <description><![CDATA[所以我最近从 Kamohacks 的电报中下载了“小小噩梦”的移动端口（链接：https://apps.apple.com/us/app/little-nightmares/id1620883955）。我通过 scarlet 将其下载，但每次打开它时，它都会显示开始屏幕一秒钟，然后变黑并崩溃。    提交人    /u/Prudent-Sun-6640   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hgui6q/sideloaded_app_keeps_crashing_on_startup/</guid>
+      <pubDate>Wed, 18 Dec 2024 05:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以用我的开发者账号在别人的手机上加载吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hgqkpj/can_i_use_my_developer_account_to_load_on_someone/</link>
+      <description><![CDATA[我想知道我是否可以在其他人的手机上使用我的开发者帐户。我可以直接登录 sideloadly 然后推送它们吗？还是我需要使用我的 iCloud 登录手机才能添加应用程序。寻求一些关于如何工作的建议。    提交人    /u/fa1tle   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hgqkpj/can_i_use_my_developer_account_to_load_on_someone/</guid>
+      <pubDate>Wed, 18 Dec 2024 01:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repo Viewer V1（Discord）发布！！！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hgq5kr/repo_viewer_v1_discord_released/</link>
+      <description><![CDATA[特点  无需签名即可浏览存储库 直接从 discord 下载 IPA 过滤和隐藏存储库 浏览 IPAS 数量不受限制 可以在大多数您不拥有的服务器上使用 # 限制 部分支持 SideStore（即将全面支持） 无法在某些不允许用户应用程序的服务器上使用 # 下载  https://discord.com/oauth2/authorize?client_id=1317620206125973554  报告请在 reddit 上或 discord 上向 @glidd6 报告错误！尽情享受吧！！！     提交人    /u/Smart-Ad-8635   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hgq5kr/repo_viewer_v1_discord_released/</guid>
+      <pubDate>Wed, 18 Dec 2024 01:14:55 GMT</pubDate>
     </item>
     <item>
       <title>侧载</title>
@@ -57,7 +71,7 @@
     <item>
       <title>删除潜在恶意的侧载应用程序后，如何确保我的设备是安全的？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hge44h/how_to_ensure_my_device_is_safe_after_removing_a/</link>
-      <description><![CDATA[如果我从 iOSGods 下载了一个应用程序并假设它感染了病毒，我会立即从设备管理部分删除侧载权限并禁用开发者模式。但是，尽管采取了这些步骤，应用程序中的恶意组件是否仍会留在设备上？我们如何确认应用程序是否真的被感染了？请注意，我并不关心网站本身的安全性；我只是用它作为这种情况的示例。     提交人    /u/Express6410   [链接] [评论]]]></description>
+      <description><![CDATA[如果我从 iOSGods 下载了一个应用程序并假设它感染了病毒，我会立即从设备管理部分删除侧载权限并禁用开发者模式。但是，尽管采取了这些步骤，应用程序中的恶意组件是否仍会保留在设备上？我们如何确认应用程序是否真的被感染了？请注意，我并不关心网站本身的安全性；我只是用它作为这种情况的示例。     提交人    /u/Express6410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hge44h/how_to_ensure_my_device_is_safe_after_removing_a/</guid>
       <pubDate>Tue, 17 Dec 2024 16:14:56 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，有一个名为“调整”的选项。我已经使用侧载 3 个月了，但我不知道这是什么以及如何使用它们    提交人    /u/No-Interaction-5779   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hg4j99/how_can_i_inject_tweaks_and_how_i_can_get_them/</guid>
       <pubDate>Tue, 17 Dec 2024 06:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>旁加载的 Watusi ipa 继续随机注销。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hg0mau/sideloaded_watusi_ipa_continues_to_log_out/</link>
-      <description><![CDATA[我购买了开发者证书，花了 19 美元，我使用 Esign 侧载了许多修改过的 ipas，没有任何问题，但 Watusi 每次都会随机登录，我不知道为什么。 有人遇到过这个问题吗？我也尝试过使用不同的应用程序（如 Scarlet 或 Gbox）进行侧载。 我有一部运行 iOS 18.2 的 iPhone 15 Pro，如果有人能帮助我解决这个问题，我会很高兴的。    提交人    /u/IaN_ChErNoByL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hg0mau/sideloaded_watusi_ipa_continues_to_log_out/</guid>
-      <pubDate>Tue, 17 Dec 2024 02:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[请求] 有没有包含专业订阅的 Shapr3d 破解版 ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hg00ng/request_is_there_a_shapr3d_cracked_ipa_that/</link>
-      <description><![CDATA[我一直在寻找具有专业版的 shapr3d CAD 软件的破解 ipa，但一直没找到。订阅费用为 300 美元，太贵了，所以非常需要一个免费的破解 Ipa。    提交人    /u/MBIRKE   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hg00ng/request_is_there_a_shapr3d_cracked_ipa_that/</guid>
-      <pubDate>Tue, 17 Dec 2024 02:02:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
