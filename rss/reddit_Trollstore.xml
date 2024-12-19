@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:50:53 GMT</lastBuildDate>
+    <item>
+      <title>有些应用程序不再起作用</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hhcmnv/some_apps_dont_work_anymore/</link>
+      <description><![CDATA[嗨！！ 几个月前安装了 trollstore 后，使用它没有任何问题，今天我注意到一些应用程序不再工作了。到目前为止，我注意到的应用程序是 BeReal 和 Deliveroo。当我打开这些应用程序时，它们几乎立即崩溃。 我尝试卸载并重新安装它们，重新启动手机，正如一些 reddit 用户在这个 subreddit 中所说，我还尝试重建图标缓存并重新启动，但这些都无法解决问题。 我安装了带有 trollstore 的 Dopamine，有时使用越狱的手机，有时不越狱，但问题似乎在两种情况下都会发生。 我通过 trollstore 安装的所有应用程序都运行良好。 有人可以帮我解决这个问题吗？ 我有一台搭载 iOS 16.0 的 iPhone 13 mini   由    /u/rickyvici  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hhcmnv/some_apps_dont_work_anymore/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:43:20 GMT</pubDate>
+    </item>
     <item>
       <title>如何在未越狱的情况下将 trollstore 下载到手机上？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hh1oh9/how_can_i_download_trollstore_to_a_phone_without/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>iOS 18.2 或 iOS 18.1.1 xsmax</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hebelm/ios_182_or_ios_1811_xsmax/</link>
-      <description><![CDATA[我已经将我的 xsmax 更新到 ios 18.2，但刚才有朋友告诉我 ios 18.1.1 仍然有签名，我可以降级，他告诉我 nugget 和 sparserestore 等正在运行，所以越狱或类似 trollstore 的替代品到了...你们有什么建议，我应该降级吗？    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
+      <description><![CDATA[我已经将我的 xsmax 更新到 ios 18.2，但刚才有朋友告诉我 ios 18.1.1 仍然有签名，我可以降级，他告诉我 nugget 和 sparserestore 等正在运行，所以越狱或类似 trollstore 的替代品已经到货...你们有什么建议，我应该降级吗？    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hebelm/ios_182_or_ios_1811_xsmax/</guid>
       <pubDate>Sat, 14 Dec 2024 20:14:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，有人能解密我的 IPA 吗？这是 NordVPN 版本 8.10.0 - 最后一个支持 IKEv2 协议的版本，因此可以与其他 VPN（如 Adguard）一起使用。我有 IPA 文件，但它是加密的。我可以在私人网站上提供一个链接...    提交人    /u/b3ton1991   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hb97eq/decrypt_ipa/</guid>
       <pubDate>Tue, 10 Dec 2024 18:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我从包含 Trollstore 应用程序的备份中恢复时会发生什么？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hb12wx/what_happens_when_i_restore_from_a_backup_that/</link>
-      <description><![CDATA[假设我想通过恢复出厂设置，然后恢复备份文件来减少 iPhone 上的系统数据。备份文件是在恢复出厂设置之前在我的手机上制作的，其中包含 trollstore 应用程序。当我尝试从中恢复时会发生什么？我的所有 trollstore 应用程序都会保留下来吗？数据呢？    提交人    /u/Nanoporous   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hb12wx/what_happens_when_i_restore_from_a_backup_that/</guid>
-      <pubDate>Tue, 10 Dec 2024 12:53:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
