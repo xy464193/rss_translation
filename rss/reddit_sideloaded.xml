@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 19 Dec 2024 00:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 03:23:52 GMT</lastBuildDate>
+    <item>
+      <title>如何设置应用程序以获取通知和健康/Apple Watch 支持</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hhjmwq/how_to_setup_apps_for_notifications_and/</link>
+      <description><![CDATA[大家好， 我拥有付费开发者证书，并且已使用 SideStore 加载了一些应用程序。我刚刚切换到 Feather，我可以安装应用程序，但 WhatsApp 不会向我显示聊天的 iCloud 备份，并且我在通知以及健康支持和 Apple Watch 功能方面遇到问题。  有人能帮我看看我哪里做错了吗？    提交人    /u/Anthokne   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hhjmwq/how_to_setup_apps_for_notifications_and/</guid>
+      <pubDate>Thu, 19 Dec 2024 03:23:35 GMT</pubDate>
+    </item>
     <item>
       <title>侧载游戏</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hhfyku/side_loaded_games/</link>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 18 Dec 2024 01:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>Repo Viewer V1（Discord）发布！！！</title>
+      <title>Repo Viewer V1 (Discord) 发布！！！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hgq5kr/repo_viewer_v1_discord_released/</link>
       <description><![CDATA[特点  无需签名即可浏览存储库 直接从 discord 下载 IPA 过滤和隐藏存储库 浏览 IPAS 数量不受限制 可以在大多数您不拥有的服务器上使用 # 限制 部分支持 SideStore（即将全面支持） 无法在某些不允许用户应用程序的服务器上使用 # 下载  https://discord.com/oauth2/authorize?client_id=1317620206125973554  报告请在 reddit 上或 discord 上向 @glidd6 报告错误！尽情享受吧！！！     提交人    /u/Smart-Ad-8635   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hgq5kr/repo_viewer_v1_discord_released/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[现在最新的方法是什么    提交人    /u/Calm-Pen-1275   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hglyun/how_do_i_download_esign/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有 3d atlas ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hgik5w/any_3d_atlas_ipa/</link>
-      <description><![CDATA[我正在尝试寻找任何 3D 解剖图谱的免费版本以进行侧载，但没有钱购买高级版本    提交人    /u/justmyaccount624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hgik5w/any_3d_atlas_ipa/</guid>
-      <pubDate>Tue, 17 Dec 2024 19:25:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
