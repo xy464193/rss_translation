@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Dec 2024 03:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 09:09:32 GMT</lastBuildDate>
+    <item>
+      <title>Livecontainer 未打开</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hju3yl/livecontainer_not_opening/</link>
+      <description><![CDATA[所以我通过 SideStore 安装了 Livecontainer，直到今天早上它都运行良好。我通过它安装了另一个 ipa 文件，就在安装时 livecontainer 崩溃了，然后它就打不开了。我试过重新安装所有东西，甚至 SideStore 和重新安装 LC，但还是没用。我试过它的替代品，叫做稀疏盒，然后虽然它可以打开，但当我尝试将配对文件放入其中（与 SideStore 相同）时，它崩溃了，然后也无法打开！这到底是啥巫术？有人能帮我解决这个问题吗？💀    提交人    /u/Frosty-Ad8370   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hju3yl/livecontainer_not_opening/</guid>
+      <pubDate>Sun, 22 Dec 2024 07:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何下载 Ipa 文件？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hjtqrm/how_do_i_download_ipa_files/</link>
+      <description><![CDATA[我正在做另一个，有人可以告诉我如何下载 ipa 文件，如 scarlet、esign 和 feather，我在 IOS 18.2 上，并确保详细解释如何安装它！    提交人    /u/Top-Address59   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hjtqrm/how_do_i_download_ipa_files/</guid>
+      <pubDate>Sun, 22 Dec 2024 07:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法在 Linux 上进行侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hjrf88/is_there_a_way_to_sideload_on_linux/</link>
+      <description><![CDATA[我使用 Kubuntu，想知道是否有任何与 Linux 兼容的软件可供使用。我还想避免使用 wine 做任何事情，并让这成为 Linux 上 Sideload 的指南。    提交人    /u/dauntlessArtist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hjrf88/is_there_a_way_to_sideload_on_linux/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:44:33 GMT</pubDate>
+    </item>
     <item>
       <title>MyHub V1 发布</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hjokls/myhub_v1_released/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>我应该用什么（请帮帮我）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hjequ9/what_should_i_use_please_help_me/</link>
-      <description><![CDATA[我要切换到 iOS，在 Android 上，我利用了 mod 应用程序、TikTok、insta、youtube、twitter，手机带有 adguard dns，没有广告。  但在 iPhone 上，这是另一回事，我听说你可以花 20 美元安装 ipa 并与苹果开发者签约一年？使用像 signolous、esign 或其他应用程序？  我无法对这些信息进行排序，如果有人可以向我解释，或者将我引荐到线程/超级线程，我将不胜感激     提交人    /u/wirrti   [链接] [评论]]]></description>
+      <description><![CDATA[我要切换到 iOS，在 Android 上，我利用了 mod 应用程序、TikTok、insta、youtube、twitter，手机带有 adguard dns，没有广告。  但在 iPhone 上，这是另一回事，我听说你可以花 20 美元安装 ipa 并与苹果开发者签约一年？使用像 signolous、esign 或其他应用程序？  我无法对这些信息进行排序，如果有人可以向我解释，或者将我引荐到主题/超级主题，我将不胜感激     提交人    /u/wirrti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hjequ9/what_should_i_use_please_help_me/</guid>
       <pubDate>Sat, 21 Dec 2024 17:35:37 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在使用最新版本的 YouTube Plus（前身为 YTLite），并且注意到最近有时会在视频开始播放之前甚至在视频播放过程中显示广告。 我不确定这是错误还是我需要更改的内容？    提交人    /u/n33d0n3   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hj9oxx/latest_youtube_plus_ytlite_seeing_adverts/</guid>
       <pubDate>Sat, 21 Dec 2024 13:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找最新的 BHTikTok 版本？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hj8nf6/finding_latest_bhtiktok_version/</link>
-      <description><![CDATA[正在寻找经过修改的 tiktok 的可靠来源，我目前使用的是 v36，但很难找到 v37    提交人    /u/noraelwhora   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hj8nf6/finding_latest_bhtiktok_version/</guid>
-      <pubDate>Sat, 21 Dec 2024 12:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有真正有效的 Instagram 越狱方法？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hj83bj/any_instagram_jailbreaks_that_actually_work/</link>
-      <description><![CDATA[尝试了所有方法，但似乎都不起作用。没有设置或任何其他方法。     由   提交  /u/AMAZINGCHICO305   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hj83bj/any_instagram_jailbreaks_that_actually_work/</guid>
-      <pubDate>Sat, 21 Dec 2024 11:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于侧载而导致的恶意软件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hj7yxf/malware_due_to_sideloading/</link>
-      <description><![CDATA[因此，尽管我自己不编译应用程序，但我只从官方 GitHub 存储库下载应用程序。最近，我看到我的手机连接到域名 kudxuzagvdry.com，我内心的偏执让我怀疑我是否从这些 ipas 中感染了恶意软件，或者它是否是一个托管广告或跟踪器的网站。有人有什么见解吗？     提交人    /u/kaybee_bugfreak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hj7yxf/malware_due_to_sideloading/</guid>
-      <pubDate>Sat, 21 Dec 2024 11:24:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
