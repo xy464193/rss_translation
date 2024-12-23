@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 23 Dec 2024 03:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 06:15:25 GMT</lastBuildDate>
+    <item>
+      <title>侧边存储帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hkfgw0/help_with_sidestore/</link>
+      <description><![CDATA[我刚刚尝试了 10 分钟点击 ➕mark 来安装应用程序...。但出现错误（没有 Wifi 或 VPN！）请帮忙，我已经打开了 vpn 和 wifi...）    提交人    /u/0adxil8   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hkfgw0/help_with_sidestore/</guid>
+      <pubDate>Mon, 23 Dec 2024 03:54:46 GMT</pubDate>
+    </item>
     <item>
       <title>使用真实的 Apple ID</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hkd0bv/using_actual_apple_id/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>iOS 版</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hkc2qj/ios_aptoide/</link>
-      <description><![CDATA[大家好，我无法在欧洲的 iPhone 15 Pro 上安装 aptoide，我加入了等候名单并收到了代码，但是当我按下“安装”按钮时什么也没有发生，我不知道如何解决这个问题，有人遇到过同样的事情吗？你解决问题了吗？谢谢     提交人    /u/yyttgpihhdd_   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我无法在欧洲的 iPhone 15 Pro 上安装 aptoide，我加入了等候名单并收到了代码，但是当我按下“安装”按钮时什么也没有发生，我不知道如何解决这个问题，有人遇到过同样的事情吗？你设法解决了这个问题吗？谢谢     提交人    /u/yyttgpihhdd_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hkc2qj/ios_aptoide/</guid>
       <pubDate>Mon, 23 Dec 2024 00:43:07 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>我冒险使用了修改版的应用程序，现在我的设备被禁用了，有没有办法通过 Trollstore 解除设备禁用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hk6yms/took_the_risk_of_using_a_tweaked_version_of_an/</link>
-      <description><![CDATA[或者设备禁令是永久的？请告诉我你的想法    提交人    /u/laryiza   [链接] [评论]]]></description>
+      <description><![CDATA[或者设备禁令是永久的？请告诉我你的想法    提交人    /u/laryiza   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hk6yms/took_the_risk_of_using_a_tweaked_version_of_an/</guid>
       <pubDate>Sun, 22 Dec 2024 20:29:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我通过 SideStore 安装了 Livecontainer，直到今天早上它都运行良好。我通过它安装了另一个 ipa 文件，就在安装时 livecontainer 崩溃了，然后它就打不开了。我试过重新安装所有东西，甚至 SideStore 和重新安装 LC，但还是没用。我试过它的替代品，叫做稀疏盒，然后虽然它可以打开，但当我尝试将配对文件放入其中（与 SideStore 相同）时，它崩溃了，然后也无法打开！这到底是啥巫术？有人能帮我解决这个问题吗？💀    提交人    /u/Frosty-Ad8370   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hju3yl/livecontainer_not_opening/</guid>
       <pubDate>Sun, 22 Dec 2024 07:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何下载 Ipa 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hjtqrm/how_do_i_download_ipa_files/</link>
-      <description><![CDATA[我正在做另一个，有人可以告诉我如何下载 ipa 文件，如 scarlet、esign 和 feather，我在 IOS 18.2 上，并确保详细解释如何安装它！    提交人    /u/Top-Address59   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hjtqrm/how_do_i_download_ipa_files/</guid>
-      <pubDate>Sun, 22 Dec 2024 07:28:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
