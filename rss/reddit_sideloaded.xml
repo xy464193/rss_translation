@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 22 Dec 2024 21:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 03:16:58 GMT</lastBuildDate>
+    <item>
+      <title>使用真实的 Apple ID</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hkd0bv/using_actual_apple_id/</link>
+      <description><![CDATA[因此，我正在尝试在运行 iOS 18.0.1 的 iPad (m4) 上安装 Sidestore，从我看过的教程来看，他们说要使用刻录机 Apple ID，我无法使用刻录机帐户登录 Windows 上的 iTunes，如果我只是使用我的个人 Apple ID，会有什么风险？    提交人    /u/Bob_Champ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hkd0bv/using_actual_apple_id/</guid>
+      <pubDate>Mon, 23 Dec 2024 01:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>漫画</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hkc8fy/manga/</link>
+      <description><![CDATA[有人知道像 tapas 这样的漫画应用的免费调整吗    提交人    /u/Routine_Laugh331   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hkc8fy/manga/</guid>
+      <pubDate>Mon, 23 Dec 2024 00:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hkc2qj/ios_aptoide/</link>
+      <description><![CDATA[大家好，我无法在欧洲的 iPhone 15 Pro 上安装 aptoide，我加入了等候名单并收到了代码，但是当我按下“安装”按钮时什么也没有发生，我不知道如何解决这个问题，有人遇到过同样的事情吗？你解决问题了吗？谢谢     提交人    /u/yyttgpihhdd_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hkc2qj/ios_aptoide/</guid>
+      <pubDate>Mon, 23 Dec 2024 00:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 侧载应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hk8tkt/instagram_sideload_app/</link>
+      <description><![CDATA[有哪些侧载应用不会在我上传到 Story 或 Post 时压缩我的视频？我见过很多名人和我的一些朋友，他们可以上传高比特率的 1080p 60fps HDR，但对我来说，我甚至同时拍摄 4K60 和 1080p60，但 Insta 总是将我的视频质量降低到 720p30，比特率极低。 所以，有哪些侧载应用不会降低我的视频质量？    提交人    /u/Sufficient-Alarm-219   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hk8tkt/instagram_sideload_app/</guid>
+      <pubDate>Sun, 22 Dec 2024 21:58:25 GMT</pubDate>
+    </item>
     <item>
       <title>哪里是获取旧版本 ipas 的最佳地点？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hk7nbe/best_place_to_get_old_versions_of_ipas/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在做另一个，有人可以告诉我如何下载 ipa 文件，如 scarlet、esign 和 feather，我在 IOS 18.2 上，并确保详细解释如何安装它！    提交人    /u/Top-Address59   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hjtqrm/how_do_i_download_ipa_files/</guid>
       <pubDate>Sun, 22 Dec 2024 07:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 Linux 上进行侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hjrf88/is_there_a_way_to_sideload_on_linux/</link>
-      <description><![CDATA[我使用 Kubuntu，想知道是否有任何与 Linux 兼容的软件可供使用。我还想避免使用 wine 做任何事情，并让这成为 Linux 上 Sideloading 的指南。    提交人    /u/dauntlessArtist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hjrf88/is_there_a_way_to_sideload_on_linux/</guid>
-      <pubDate>Sun, 22 Dec 2024 04:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyHub V1 发布</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hjokls/myhub_v1_released/</link>
-      <description><![CDATA[重大更新  合并 Repo 查看器和证书浏览器 添加了测试版 IPA 浏览器 添加了禁用撤销和禁用撤销 + 广告 添加了禁用听写 添加了移动格式塔保护程序 添加了信用选项卡 添加了 PC 侧载选项卡 更新了证书浏览器以更易于使用 更新了移动格式塔和证书浏览器的文件管理 # 下载 V1 https://www.icloud.com/shortcuts/c890c4edced24bb490c686cc18f447b8 IPA 侧载即将推出😉     提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hjokls/myhub_v1_released/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近我的 uyou 在我的 feed 中发布了 plsys 视频。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hjn308/lately_my_uyou_emhamced_plsys_videos_in_my_feed/</link>
-      <description><![CDATA[尝试寻找解决方案，但设置不存在。有任何解决方案吗？    由   提交  /u/FloKro   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hjn308/lately_my_uyou_emhamced_plsys_videos_in_my_feed/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iOS 18.1.1 上不使用快捷方式更改我的应用程序图标</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hjmp1f/how_to_change_my_apps_icon_without_shortcut_on/</link>
-      <description><![CDATA[我无法使用 cawabunga 执行此操作，没有显示任何应用程序    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hjmp1f/how_to_change_my_apps_icon_without_shortcut_on/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:04:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
