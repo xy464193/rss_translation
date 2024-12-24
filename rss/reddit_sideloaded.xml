@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 24 Dec 2024 06:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 09:10:50 GMT</lastBuildDate>
+    <item>
+      <title>Nugget 移除动态岛</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hl88wy/nugget_remove_dynamic_island/</link>
+      <description><![CDATA[因为我在 iphone se 2 上安装了很多来自 nugget 的调整（苹果智能、点击唤醒、动态岛），但后来我意识到动态岛对 iphone se 来说很糟糕。我确实删除了调整，但当我重新添加旧的调整并将动态岛保留为“无”时，它又恢复了动态岛调整。如何在不删除其他调整的情况下删除动态岛？我在 ios 18.2 b2 上    提交人    /u/HypixelEnjoyer411   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hl88wy/nugget_remove_dynamic_island/</guid>
+      <pubDate>Tue, 24 Dec 2024 07:11:28 GMT</pubDate>
+    </item>
     <item>
       <title>在 SideStore 中应用程序限制仅为 3 个</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hl79a3/in_sidestore_the_app_limit_is_3_only/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于最近我们的 GitHub 存储库遭到攻击，我们将我们的存储库移至 https://myapps.realmzer.xyz/ 我们将继续更新 GitHub 存储库，直至另行通知。 干杯！    提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hksbyx/mysign_ipa_repo_has_moved/</guid>
       <pubDate>Mon, 23 Dec 2024 17:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有电子签名的屏幕使用时间应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hkr39f/screen_time_app_with_esign/</link>
-      <description><![CDATA[是否有任何经过修改的（高级）屏幕时间应用程序（例如 opal、refocus）可以使用电子签名和证书方法？    提交人    /u/wowitisreallyhard   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hkr39f/screen_time_app_with_esign/</guid>
-      <pubDate>Mon, 23 Dec 2024 16:14:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
