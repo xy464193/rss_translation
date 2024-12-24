@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 24 Dec 2024 00:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:14:36 GMT</lastBuildDate>
+    <item>
+      <title>Trollstore 不可见（未被监禁）</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hl5tkq/trollstore_not_visible_not_jailed/</link>
+      <description><![CDATA[那么，我安装了一些应用程序，但我想大概一个月后，Trollstore 就消失了？顺便说一下，我是使用 TrollinstallerX 安装了 trollstore 的， 使用 trollstore 安装的应用程序似乎运行正常，但 trollstore 本身似乎不在我的主页或应用程序库中， 持久性帮助程序仍在那里，它说我可以卸载 trollstore，即使它不在这里。帮忙吗？    提交人    /u/TheHalfIntrovert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hl5tkq/trollstore_not_visible_not_jailed/</guid>
+      <pubDate>Tue, 24 Dec 2024 04:33:16 GMT</pubDate>
+    </item>
     <item>
       <title>trollstore 的 Appdata/缓存清理器</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hkwudl/appdatacache_cleaner_for_trollstore/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我已经将我的 xsmax 更新到 ios 18.2，但刚才有朋友告诉我 ios 18.1.1 仍然有签名，我可以降级，他告诉我 nugget 和 sparserestore 等正在运行，所以越狱或类似 trollstore 的替代品已经到货...你们有什么建议，我应该降级吗？    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hebelm/ios_182_or_ios_1811_xsmax/</guid>
       <pubDate>Sat, 14 Dec 2024 20:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需越狱即可访问钥匙串数据库</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hearwr/access_keychain_db_without_jailbreak/</link>
-      <description><![CDATA[我错误地将我的 ios 17 更新到了 ios 18，并且我丢失了 trollstore......我一个月内最需要的唯一功能是购物网站，一些社交应用程序阻止了我的帐户，然后我不得不通过编辑钥匙串表重置该应用程序....这里有专业人士可以帮我吗，如果我可以通过电脑上的某些工具访问钥匙串，或者我是否通过 altstore 安装 filza 等？     提交人    /u/Able_Championship_73   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hearwr/access_keychain_db_without_jailbreak/</guid>
-      <pubDate>Sat, 14 Dec 2024 19:45:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
