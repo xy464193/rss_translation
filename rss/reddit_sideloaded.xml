@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 26 Dec 2024 06:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 12:18:37 GMT</lastBuildDate>
+    <item>
+      <title>有没有适用于 CarX Street 的 ipa 可以与 ESign 配合使用？？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmljfc/there_is_a_ipa_for_carx_street_that_function_with/</link>
+      <description><![CDATA[.    由   提交  /u/DOGEMEME012   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmljfc/there_is_a_ipa_for_carx_street_that_function_with/</guid>
+      <pubDate>Thu, 26 Dec 2024 10:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18.3 稳定版</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hml411/ios_183_stable/</link>
+      <description><![CDATA[有人知道 iOS 18.3 稳定版什么时候发布吗？    提交人    /u/Kaveer_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hml411/ios_183_stable/</guid>
+      <pubDate>Thu, 26 Dec 2024 09:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳 Instagram 调整（免费、稳定）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmkbrm/best_tweak_for_instagram_free_stable/</link>
+      <description><![CDATA[谢谢 ❤️    由   提交  /u/_solly1402   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmkbrm/best_tweak_for_instagram_free_stable/</guid>
+      <pubDate>Thu, 26 Dec 2024 08:37:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何 repos 或 fl mobile 链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmipfe/any_repos_or_links_to_fl_mobile/</link>
+      <description><![CDATA[我找不到可以向 fl mobile 提供 ipa 的 repo 或网站，如果你能帮助我，那将会很有帮助     提交人    /u/Lost-Day5029   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmipfe/any_repos_or_links_to_fl_mobile/</guid>
+      <pubDate>Thu, 26 Dec 2024 06:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>奇怪的问题</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hmhe1a/weird_issue/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>我很困惑</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hmf3bo/im_so_confused/</link>
-      <description><![CDATA[我正在尝试下载这个应用程序，它是一个名为 folium 的 3ds 模拟器，我只是感到很困惑，我下载了它，但我不知道如何在手机上获取它    提交人    /u/Grouchy-East6812   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试侧面下载此应用程序，它是一个名为 folium 的 3ds 模拟器，我只是感到很困惑，我下载了它，但我不知道如何在手机上获取它    提交人    /u/Grouchy-East6812   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hmf3bo/im_so_confused/</guid>
       <pubDate>Thu, 26 Dec 2024 02:44:36 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>需要帮助使用 uYouPlus 应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hmbwns/help_with_uyouplus_application/</link>
-      <description><![CDATA[这里可能不是询问这个问题的正确地方，但我没有看到 uYou 或 uYouPlus 的直接位置。如果需要，我可以在其他地方发布此信息。  通过 TrollStore 2 使用 uYouPlus 很长时间了，没有出现问题。突然，应用程序可以正常打开并加载所有内容，但单击视频会使屏幕变灰，并显示错误“出现问题 - 重试”。您可以随意重试，但它永远不会修复或工作。  我想，好吧，也许我只需要更新。我使用的是 18.14.1 版本，并尝试升级到更适中的 18.29.1。这个版本从来都“不起作用”，也不会给视频带来同样的错误，但我无法登录谷歌帐户来使用我保存的 YouTube 帐户。无法通过这种方式获取我的任何提要或订阅。  我想，好吧，也许我真的需要更新一下，所以在寻找我能找到的最新 .ipa 的过程中，我在开发人员的 GitHub 页面上看到类似 Google 的东西删除了 uYou 更新的 .ipa 的托管，所以你必须自己重新编译应用程序。  我花了一段时间才找到答案。我使用了开发人员解密的应用程序列表，上面有一个解密版本的 YouTube &gt; “qnblackcat/Decrypted-IPAs”。我使用的是版本 19.47.7-3.0.4。我执行了必要的步骤，比如在 GitHub 上分叉 repo 来创建我自己的 uYou 副本，并成功通过 TrollStore 2 下载和安装 uYouPlus v19.47.7-3.0.4。它安装正常，我可以正常登录，但我再次无法播放视频，因为它出错了，说“出了点问题，请重试”。  我是不是漏掉了什么？版本太新了？我知道在旧版本中我无法登录我的帐户，但从技术上讲它确实可以工作。我尝试了所有能找到的建议修复方法，例如关闭 SponserBlock、设置为 2 倍播放速度、按照建议关闭某些 A/B 设置，但这些建议都不起作用。  我使用的是 iOS 16.1.2、iPhone XS Max，使用 TrollStore 2 进行安装。如果需要，我可以提供更多信息，但我只希望能够找到解决这个问题的方法。  我记得以前有一种方法可以绕过或欺骗谷歌登录问题，即在 iOS 上使用原生的快捷方式绕过，但我甚至不确定这是否仍然有效，或者我是否会在旧版本上遇到更多问题，而不仅仅是尝试修复新版本。     提交人    /u/xXSuperMarioGamingXx   [链接] [评论]]]></description>
+      <description><![CDATA[问题证明  通过 TrollStore 2 使用 uYouPlus 很长一段时间都没有问题。突然间，应用程序可以正常打开并加载所有内容，但点击视频时屏幕会变灰，并显示错误“出错了 - 重试”。您可以随意重试，但它永远不会修复或工作。  我想，好吧，也许我只需要更新。我使用的是 18.14.1 版本，并尝试升级到更适中的 18.29.1。这个版本从来都“不起作用”，也不会给视频带来同样的错误，但我无法登录谷歌账户来使用我保存的 YouTube 账户。无法通过这种方式获取我的任何订阅或订阅。  我想，好吧，也许我真的需要更新一下，所以在寻找我能找到的最新 .ipa 的过程中，我在开发人员的 GitHub 页面上看到类似 Google 的东西删除了 uYou 更新的 .ipa 的托管，所以你必须自己重新编译应用程序。  我花了一段时间才找到答案。我使用了开发人员解密的应用程序列表，上面有一个解密版本的 YouTube &gt; “qnblackcat/Decrypted-IPAs”。我使用的是版本 19.47.7-3.0.4。我执行了必要的步骤，比如在 GitHub 上分叉 repo 来创建我自己的 uYou 副本，并成功通过 TrollStore 2 下载和安装 uYouPlus v19.47.7-3.0.4。它安装正常，我可以正常登录，但我再次无法播放视频，因为它出错了，说“出了点问题，请重试”。  我是不是漏掉了什么？版本太新了？我知道在旧版本中我无法登录我的帐户，但从技术上讲它确实可以工作。我尝试了所有能找到的建议修复方法，例如关闭 SponserBlock、设置为 2 倍播放速度、按照建议关闭某些 A/B 设置，但这些建议都不起作用。  我使用的是 iOS 16.1.2、iPhone XS Max，使用 TrollStore 2 进行安装。如果需要，我可以提供更多信息，但我只希望能够找到解决这个问题的方法。  我记得以前有一种方法可以绕过或欺骗谷歌登录问题，即在 iOS 上使用原生的快捷方式绕过，但我甚至不确定这是否仍然有效，或者我是否会在旧版本上遇到更多问题，而不仅仅是尝试修复新版本。     提交人    /u/xXSuperMarioGamingXx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hmbwns/help_with_uyouplus_application/</guid>
       <pubDate>Wed, 25 Dec 2024 23:44:13 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>sparsebox 是否支持 ios 18.3 beta？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hm28f5/does_sparsebox_support_ios_183_beta/</link>
-      <description><![CDATA[或者它支持哪个 iOS 版本？    提交人    /u/Kaveer_   [link] [comments]]]></description>
+      <description><![CDATA[或者它支持哪个 iOS 版本？    提交者    /u/Kaveer_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hm28f5/does_sparsebox_support_ios_183_beta/</guid>
       <pubDate>Wed, 25 Dec 2024 15:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infuse Pro 与 tvOS 兼容 - 我在哪里可以找到它？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hm1rqe/infuse_pro_compatible_with_tvos_where_can_i_find/</link>
-      <description><![CDATA[标题不言自明，但我似乎找不到任何 IPA。我在 tvOS 18.1 上，我需要更多音频编解码器支持。我也接受另一个与 Plex 兼容的应用程序    提交人    /u/slayersucks2006   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hm1rqe/infuse_pro_compatible_with_tvos_where_can_i_find/</guid>
-      <pubDate>Wed, 25 Dec 2024 14:34:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 YTLitePlus 中启用后台播放</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hm0zgs/how_to_enable_background_play_in_ytliteplus/</link>
-      <description><![CDATA[如何在 YTLitePlus 中启用后台播放    提交人    /u/Employer_Western   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hm0zgs/how_to_enable_background_play_in_ytliteplus/</guid>
-      <pubDate>Wed, 25 Dec 2024 13:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些可以侧载的游戏吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hm0kdg/recommend_any_games_to_sideload/</link>
-      <description><![CDATA[圣诞快乐！我正在运行 iOS 7.1.2，我需要一些关于侧载的 ipas 的推荐！    提交人    /u/AntiWarPropaganda   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hm0kdg/recommend_any_games_to_sideload/</guid>
-      <pubDate>Wed, 25 Dec 2024 13:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>“链接” appdb 是什么意思？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlyamw/what_does_it_mean_to_link_appdb/</link>
-      <description><![CDATA[1 - 安装他们的个人资料并自动获取该 appdb 图标究竟是什么意思？ 2 - 必须使用在我的 Apple 帐户中注册的相同电子邮件 ID？ 3 - 我已经安装了 Sidestore。有冲突吗？（其中只安装了 Apollo） 我已经使用链接到 Apple 帐户的电子邮件地址完成了“链接”，但我不知道我刚才到底做了什么。我这样做是因为我打算从 Appdb 网站安装 PDF Expert。    提交人    /u/DM_Me_Summits_In_UAE   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlyamw/what_does_it_mean_to_link_appdb/</guid>
-      <pubDate>Wed, 25 Dec 2024 10:24:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
