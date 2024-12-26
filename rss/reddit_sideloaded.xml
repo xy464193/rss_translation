@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 25 Dec 2024 21:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 03:15:27 GMT</lastBuildDate>
+    <item>
+      <title>对北极的最终建议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmf4yg/final_suggestions_for_arctic/</link>
+      <description><![CDATA[Arctic Development 将于明天开始，因此我请求对 ipa 签名者提出最终建议。    提交人    /u/Mrsheep571   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmf4yg/final_suggestions_for_arctic/</guid>
+      <pubDate>Thu, 26 Dec 2024 02:47:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很困惑</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmf3bo/im_so_confused/</link>
+      <description><![CDATA[我正在尝试下载这个应用程序，它是一个名为 folium 的 3ds 模拟器，我只是感到很困惑，我下载了它，但我不知道如何在手机上获取它    提交人    /u/Grouchy-East6812   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmf3bo/im_so_confused/</guid>
+      <pubDate>Thu, 26 Dec 2024 02:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iOS 18 中使用 Satella 或类似产品？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmcu1i/how_to_use_satella_or_similar_in_ios_18/</link>
+      <description><![CDATA[嗨，我需要破解 Fonts 应用程序。我已经解密了它，我应该可以注入 Satella 和 Sideload 旁路器，但当我尝试登录时它崩溃了。我做错了什么？    提交人    /u/sam1sami   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmcu1i/how_to_use_satella_or_similar_in_ios_18/</guid>
+      <pubDate>Thu, 26 Dec 2024 00:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助使用 uYouPlus 应用程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmbwns/help_with_uyouplus_application/</link>
+      <description><![CDATA[这里可能不是询问这个问题的正确地方，但我没有看到 uYou 或 uYouPlus 的直接位置。如果需要，我可以在其他地方发布此信息。  通过 TrollStore 2 使用 uYouPlus 很长时间了，没有出现问题。突然，应用程序可以正常打开并加载所有内容，但单击视频会使屏幕变灰，并显示错误“出现问题 - 重试”。您可以随意重试，但它永远不会修复或工作。  我想，好吧，也许我只需要更新。我使用的是 18.14.1 版本，并尝试升级到更适中的 18.29.1。这个版本从来都“不起作用”，也不会给视频带来同样的错误，但我无法登录谷歌帐户来使用我保存的 YouTube 帐户。无法通过这种方式获取我的任何提要或订阅。  我想，好吧，也许我真的需要更新一下，所以在寻找我能找到的最新 .ipa 的过程中，我在开发人员的 GitHub 页面上看到类似 Google 的东西删除了 uYou 更新的 .ipa 的托管，所以你必须自己重新编译应用程序。  我花了一段时间才找到答案。我使用了开发人员解密的应用程序列表，上面有一个解密版本的 YouTube &gt; “qnblackcat/Decrypted-IPAs”。我使用的是版本 19.47.7-3.0.4。我执行了必要的步骤，比如在 GitHub 上分叉 repo 来创建我自己的 uYou 副本，并成功通过 TrollStore 2 下载和安装 uYouPlus v19.47.7-3.0.4。它安装正常，我可以正常登录，但我再次无法播放视频，因为它出错了，说“出了点问题，请重试”。  我是不是漏掉了什么？版本太新了？我知道在旧版本中我无法登录我的帐户，但从技术上讲它确实可以工作。我尝试了所有能找到的建议修复方法，例如关闭 SponserBlock、设置为 2 倍播放速度、按照建议关闭某些 A/B 设置，但这些建议都不起作用。  我使用的是 iOS 16.1.2、iPhone XS Max，使用 TrollStore 2 进行安装。如果需要，我可以提供更多信息，但我只希望能够找到解决这个问题的方法。  我记得以前有一种方法可以绕过或欺骗谷歌登录问题，即在 iOS 上使用原生的快捷方式绕过，但我甚至不确定这是否仍然有效，或者我是否会在旧版本上遇到更多问题，而不仅仅是尝试修复新版本。     提交人    /u/xXSuperMarioGamingXx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmbwns/help_with_uyouplus_application/</guid>
+      <pubDate>Wed, 25 Dec 2024 23:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全使用 Trollstore</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hmaxoy/using_trollstore_safely/</link>
+      <description><![CDATA[当信息部分显示应用程序在沙盒中运行时，它安全吗？我害怕信息窃取者、恶意软件     提交人    /u/quantumwebb   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hmaxoy/using_trollstore_safely/</guid>
+      <pubDate>Wed, 25 Dec 2024 22:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我没有从服务中手动重启 Apple Mobile Device Service，Altstore 将不会刷新</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hm93c8/altstore_will_not_refresh_if_i_dont_restart_the/</link>
+      <description><![CDATA[  由    /u/abir116  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hm93c8/altstore_will_not_refresh_if_i_dont_restart_the/</guid>
+      <pubDate>Wed, 25 Dec 2024 21:09:13 GMT</pubDate>
+    </item>
     <item>
       <title>ipaomtk.com 安全吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hm2oym/is_ipaomtkcom_safe/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>sparsebox 是否支持 ios 18.3 beta？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hm28f5/does_sparsebox_support_ios_183_beta/</link>
-      <description><![CDATA[或者它支持哪个 iOS 版本？    提交者    /u/Kaveer_   [link] [comments]]]></description>
+      <description><![CDATA[或者它支持哪个 iOS 版本？    提交人    /u/Kaveer_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hm28f5/does_sparsebox_support_ios_183_beta/</guid>
       <pubDate>Wed, 25 Dec 2024 15:02:27 GMT</pubDate>
     </item>
@@ -55,9 +97,9 @@
       <pubDate>Wed, 25 Dec 2024 10:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>最佳游戏 Repo</title>
+      <title>最佳游戏回购</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hly4qt/best_repo_for_games/</link>
-      <description><![CDATA[大家好，圣诞快乐，有人知道我可以在哪里找到最新版本的 Final Fantasy Pixel 重制版游戏和雷顿游戏的 IPA 吗？如果能提供一个电报频道就更好了！谢谢期待    提交人    /u/Alg0r1tm0   [link] [评论]]]></description>
+      <description><![CDATA[大家好，圣诞快乐，有人知道我可以在哪里找到最新版本的最终幻想 Pixel 重制版游戏和雷顿游戏的 IPA 吗？如果能提供一个电报频道，我将不胜感激！谢谢期待    提交人    /u/Alg0r1tm0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hly4qt/best_repo_for_games/</guid>
       <pubDate>Wed, 25 Dec 2024 10:10:39 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我之前曾侧载过 spotify，现在当我侧载它或从应用商店安装它时，spotify 中的 eq 根本不起作用，即使我重置手机或使用其他 icloud 帐户也是如此。有什么解决办法吗？    提交人    /u/Josh_thefoo   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hlx5so/phone_acting_weird/</guid>
       <pubDate>Wed, 25 Dec 2024 08:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>关闭 WiFi 门户的 DNS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hltwov/turn_dns_off_for_wifi_portals/</link>
-      <description><![CDATA[嗨， 我正在使用 Esign DNS 方法侧载我的应用程序。之前，我注意到我的手机无法连接到机上门户来访问互联网，我认为这是因为 DNS。有没有什么办法可以在飞行途中禁用它而不撤销我的应用程序？我明天要飞，拥有 WiFi 连接对我来说很重要。如果没有，我只需花钱购买 kravasign 即可  谢谢    提交人    /u/ahlberhtthranh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hltwov/turn_dns_off_for_wifi_portals/</guid>
-      <pubDate>Wed, 25 Dec 2024 04:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何盗版电视节目？github 上有什么东西？我该如何处理该文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlsz3f/how_to_pirate_tv_shows_anything_on_github_what/</link>
-      <description><![CDATA[所以我想看这个节目 superwog，在 dailymotion 上看完了第一季，第二季在 dailymotion 上质量很差，在 fmovies 和 cinego 等热门网站上找不到任何东西，有人知道盗版 superwog s2 的方法吗？我对盗版还不熟悉，我不知道如何下载种子或任何这种奇怪的东西。    提交人    /u/sstrangerleo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlsz3f/how_to_pirate_tv_shows_anything_on_github_what/</guid>
-      <pubDate>Wed, 25 Dec 2024 03:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使证书已过期，是否有办法在 iPhone 16.1.1（Sileo）上通过直接链接安装应用程序？我不想使用 IPA 文件。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlru18/is_there_a_way_to_install_apps_from_direct_links/</link>
-      <description><![CDATA[我使用的是搭载 iOS 16.1.1 的 iPhone，并使用 Sileo 进行了越狱。有没有一种方法可以直接从链接安装应用程序，即使证书已过期？我不想使用 IPA 文件，只想直接安装应用程序。谢谢！    提交人    /u/cbedtn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlru18/is_there_a_way_to_install_apps_from_direct_links/</guid>
-      <pubDate>Wed, 25 Dec 2024 02:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能得到 Delta 呢？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlrls1/how_the_flip_do_i_get_delta/</link>
-      <description><![CDATA[我已经尝试获得 Delta 一个星期了，我不想获得玩其他游戏的任务（反正它们都是假的）。    提交人    /u/mametchi-_-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlrls1/how_the_flip_do_i_get_delta/</guid>
-      <pubDate>Wed, 25 Dec 2024 02:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>电脑侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlr6ic/pc_sideload/</link>
-      <description><![CDATA[我是侧载新手，曾使用过 Scarlet 和 eSign，但现在我被列入了黑名单。我有一台 PC，那么即使我被列入了黑名单并且没有越狱，我还能从它进行侧载吗？    提交人    /u/RoiXD   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlr6ic/pc_sideload/</guid>
-      <pubDate>Wed, 25 Dec 2024 01:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里请求应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hlqzll/where_can_i_request_an_app/</link>
-      <description><![CDATA[有一个应用程序我想要它的高级版本，我该如何或在哪里请求别人帮忙。另外我如何获得它的 ipa？（应用程序是照片舞蹈应用程序）    由   提交  /u/ChocolateMedium4353   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hlqzll/where_can_i_request_an_app/</guid>
-      <pubDate>Wed, 25 Dec 2024 01:24:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
