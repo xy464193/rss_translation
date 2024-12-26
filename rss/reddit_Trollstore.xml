@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 26 Dec 2024 03:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 06:14:48 GMT</lastBuildDate>
+    <item>
+      <title>有什么调整可以禁用截图声音吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hmi263/any_tweak_to_disable_screenshot_sound/</link>
+      <description><![CDATA[有没有可靠的插件/应用可以禁用截图声音？ 我一直在使用 cowabunga，但它一直在恢复。给了“始终”位置权限，但仍然有问题，一直在恢复。 有没有其他应用程序可以使截图声音静音？    提交人    /u/NichoMarpaunkYT   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hmi263/any_tweak_to_disable_screenshot_sound/</guid>
+      <pubDate>Thu, 26 Dec 2024 05:48:42 GMT</pubDate>
+    </item>
     <item>
       <title>ios 18 上有 trollstore 吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hlyedg/trollstore_on_ios_18/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我刚刚在 iTunes 数据中看到了 keychain-2 db 文件...有人知道我们可以编辑它吗或者它与删除有关钥匙串中的应用程序条目？    提交人    /u/Able_Championship_73   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1heqws0/delete_app_entries_in_keychain_windows_computer/</guid>
       <pubDate>Sun, 15 Dec 2024 11:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>重置钥匙串上的应用程序条目</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hej7j0/reset_app_entries_on_keychain/</link>
-      <description><![CDATA[请有人帮我重置我的钥匙串数据......我认为它保存在手机中，因为我退出并且没有存储副本并删除了 icloud 数据，然后使用另一个帐户登录，但应用程序仍然存在数据问题    提交人    /u/Able_Championship_73   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hej7j0/reset_app_entries_on_keychain/</guid>
-      <pubDate>Sun, 15 Dec 2024 02:48:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
