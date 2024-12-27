@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:10:26 GMT</lastBuildDate>
+    <item>
+      <title>苹果电视 4k 128gb</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hn9jtb/apple_tv_4k_128gb/</link>
+      <description><![CDATA[我昨天刚买的，可以侧载到这个设备上吗？它没有 USB C 端口     提交人    /u/Klippa135   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hn9jtb/apple_tv_4k_128gb/</guid>
+      <pubDate>Fri, 27 Dec 2024 07:17:04 GMT</pubDate>
+    </item>
     <item>
       <title>MySign 1.0 终于来了！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hn6bol/mysign_10_is_finally_here/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以在我下载 esign、下载应用程序和我的 dns 工作之前，我可以毫无问题地使用我的应用程序。今天我的应用程序突然开始立即崩溃，它说它们没有经过验证，所以我把它们全部删除了，我尝试重新安装 esign，但由于完整性验证错误，我无法让它工作。我甚至尝试重置我的手机，以防我被列入黑名单，但这并没有解决问题。我的 dns 配置正确，我尝试了无数不同的 esign 链接。知道为什么会发生这种情况或如何修复它吗？    提交人    /u/takingkeys   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hmhe1a/weird_issue/</guid>
       <pubDate>Thu, 26 Dec 2024 05:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[需要支持] SideStore 出错，无法登录或刷新应用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hmfzqq/support_needed_error_with_sidestore_cant_sign_in/</link>
-      <description><![CDATA[我最近遇到了 SideStore 问题，它不让我刷新。我通过在配对文件 48 次后切换配对文件解决了这个问题。（实际上。） 一个星期以来，它一直很好，直到今天它又出现了同样的问题。我关闭了应用程序并重新打开，它就正常工作了。但是当它再次发生时，我重复了这个过程，它给了我这个错误： 无法 [执行操作]。 未找到有效的服务器。 然后我退出并尝试重新登录，它给了我同样的错误。 您可以在此处查看此事件的视频。  SideStore 版本：0.5.9 设备：iPhone SE 第二代    提交人    /u/legolooper   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hmfzqq/support_needed_error_with_sidestore_cant_sign_in/</guid>
-      <pubDate>Thu, 26 Dec 2024 03:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
