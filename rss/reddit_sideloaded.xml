@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 29 Dec 2024 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:16:36 GMT</lastBuildDate>
+    <item>
+      <title>Kravasign 回购协议</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hotxnw/kravasign_repo/</link>
+      <description><![CDATA[嗨。由于我们的 discord 服务器禁止共享 repo，我可以请求在这里发帖吗？谢谢！  我输入了一个有效的 repo，但问题是，全部无法安装。  Repo：  https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/refs/    提交人    /u/Majestic-Ad9667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hotxnw/kravasign_repo/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:10:41 GMT</pubDate>
+    </item>
     <item>
       <title>如果你有一个不安全的仓库会发生什么</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hos01z/what_happens_if_u_have_a_unsafe_repo/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>需要有关侧载的真正详细指南</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hoqrhd/need_a_really_detailed_guide_regarding_sideloading/</link>
-      <description><![CDATA[详细信息：小时候在 iPhone 4s 时代曾经使用过侧载（似乎很容易），现在我来到了 r/sideloaded，7 天后进行所有这些签名/续订，电子签名猩红，这一切让我感到非常不知所措，超出了我的理解范围。有没有关于所有选项的详细指南，涵盖基础知识，或者你们能指导我吗？提前谢谢！     提交人    /u/tyagifr   [链接] [评论]]]></description>
+      <description><![CDATA[详细信息：小时候在 iPhone 4s 时代曾经使用过 sideload（似乎很容易），现在我来到了 r/sideloaded，7 天后进行所有这些签名/续订，电子签名 scarlet，这一切让我感到不知所措，难以理解。有没有关于所有选项的详细指南，涵盖基础知识，或者你们能指导我吗？提前谢谢！     提交人    /u/tyagifr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hoqrhd/need_a_really_detailed_guide_regarding_sideloading/</guid>
       <pubDate>Sun, 29 Dec 2024 07:16:46 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Sidestore minimuxer 错误 0 instagram。如何修复？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1holn9s/sidestore_minimuxer_error_0_instagram_how_to_fix/</link>
-      <description><![CDATA[      嘿，我在 ios 17.4 上，为什么无法安装 344 以上的 instagram 版本？比如 350 或 361？它总是给我 minimuxererror0 但我可以安装版本 344    提交人    /u/Calle_Olegarius   [链接] [评论] ]]></description>
+      <description><![CDATA[      嘿，我在 ios 17.4 上，为什么无法安装 344 以上的 instagram 版本？比如 350 或 361？它总是给我 minimuxererror0 但是我可以安装版本 344    提交人    /u/Calle_Olegarius   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1holn9s/sidestore_minimuxer_error_0_instagram_how_to_fix/</guid>
       <pubDate>Sun, 29 Dec 2024 02:13:12 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我最近在 iPhone 和 iPad 上使用 ESign 后，又为我的 iPad 安装了 YouTube+，我尝试了一些，但我能得到的最佳质量是 1080p，有没有支持 2160p 的，谢谢  忘了添加 AppStore 的普通 YouTube 支持 2160，只有 ipa 的不支持     提交人    /u/Tomfanter   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ho7lbf/looking_for_help_about_youtube/</guid>
       <pubDate>Sat, 28 Dec 2024 15:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁对 Regram 和卷轴有疑问吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ho72ks/does_anyone_have_a_problem_with_regram_and_reels/</link>
-      <description><![CDATA[如果我让视频完整播放/关闭应用程序并重新进入/滚动然后回滚，下一次同一卷轴最多只能达到 15-20% 的进度，然后开始出现故障并停止/陷入循环，就像没有 Wi-Fi 一样。如果我用手指按住以获取即时下载器，然后离开应用程序并重新进入，它只能解决一次重播的问题。 我该如何解决这个问题？    提交人    /u/RaresVladescu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ho72ks/does_anyone_have_a_problem_with_regram_and_reels/</guid>
-      <pubDate>Sat, 28 Dec 2024 14:46:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
