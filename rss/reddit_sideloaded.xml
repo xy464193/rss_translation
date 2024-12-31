@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 31 Dec 2024 12:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 18:12:56 GMT</lastBuildDate>
+    <item>
+      <title>使用 ESign 添加 Signulous 应用程序组授权</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hqgb6k/add_signulous_app_group_entitlement_with_esign/</link>
+      <description><![CDATA[如果我的证书来自 Signulous，是否可以在 ESign 中添加应用组权利？我可以从 UUID 注册访问我的证书和配置文件，但我还没有找到添加“额外”权利的方法。    提交人    /u/captn1776   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hqgb6k/add_signulous_app_group_entitlement_with_esign/</guid>
+      <pubDate>Tue, 31 Dec 2024 14:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign下载器快捷方式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hqdsu4/esign_downloader_shortcut/</link>
+      <description><![CDATA[https://www.icloud.com/shortcuts/e3a7336f93f84e268682c83ce452a6b3 我自己构建了所有内容。您可以根据需要修改代码。快捷方式本身中有更多说明。尽情享受吧！    提交人    /u/jt1h   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hqdsu4/esign_downloader_shortcut/</guid>
+      <pubDate>Tue, 31 Dec 2024 12:33:33 GMT</pubDate>
+    </item>
     <item>
       <title>我需要一个应用程序在 iPhone/iPad 上安装 ipa 文件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hqd1b5/i_need_an_app_to_install_ipa_files_on_iphoneipad/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>最佳/有用的侧载应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hpzgsb/best_useful_apps_to_sideload/</link>
-      <description><![CDATA[我有一个开发证书，我想侧载一些我已经拥有的应用程序，比如 youtube、hdo play、streamer、zinitevi 等 我想找到一个好的电影应用程序，可以让我下载电影（抱歉我的英语不好😭）    提交人    /u/kanye_s0uth   [link] [评论]]]></description>
+      <description><![CDATA[我有一个开发证书，我想侧载一些我已经拥有的应用程序，如 youtube、hdo play、streamer、zinitevi 等 我想找到一个好的电影应用程序，可以让我下载电影（抱歉我的英语不好😭）    提交人    /u/kanye_s0uth   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hpzgsb/best_useful_apps_to_sideload/</guid>
       <pubDate>Mon, 30 Dec 2024 22:31:43 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我尝试下载了几个不同的 YouTube 应用，但每个应用都无法登录。它会正常弹出应用内的 safari 浏览器，但会显示“safari 无法打开此页面，因为找不到服务器”错误。 谁来帮帮我吧！！！！！    提交人    /u/aspiringNoob   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hpuhcv/cannot_log_into_youtube/</guid>
       <pubDate>Mon, 30 Dec 2024 18:56:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>声音地图调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hpry14/soundmap_tweak/</link>
-      <description><![CDATA[这也太酷了，即使只是走路/传送来收集歌曲。也许以后会引入闪亮或史诗收集。拜托我们需要这个😔🙏    提交人    /u/flying_goriIIa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hpry14/soundmap_tweak/</guid>
-      <pubDate>Mon, 30 Dec 2024 17:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>请大家帮帮我！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hprbjq/plz_help_me_guys/</link>
-      <description><![CDATA[      https://preview.redd.it/fc30okpnk0ae1.jpg?width=1440&amp;format=pjpg&amp;auto=webp&amp;s=14897f9f99171cae1e241bf94bfa9dfc473bd2ac “您已经拥有当前的 ios 开发证书或待处理的证书请求” 我明白了登录时出错，该怎么办？    提交者    /u/Weary_Detective_3770   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hprbjq/plz_help_me_guys/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:42:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
