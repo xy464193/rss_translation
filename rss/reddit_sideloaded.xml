@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 01 Jan 2025 09:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:18:22 GMT</lastBuildDate>
+    <item>
+      <title>电子签名 DNS 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr1q3t/esign_dns_question/</link>
+      <description><![CDATA[那么，如果我更新 IOS，是否意味着我设置的 DNS 已关闭并且我被列入黑名单？我按照 Pureenvyus 提供的 vercel.app 指南进行操作，并想知道如何避免被列入黑名单    提交人    /u/sylam2008   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr1q3t/esign_dns_question/</guid>
+      <pubDate>Wed, 01 Jan 2025 12:06:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪里找到 dylibs？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr0t8r/anywhere_i_can_find_dylibs/</link>
+      <description><![CDATA[是否有任何来源或 GitHub repo 可以让我找到有用的 dylib（Adblock、satella、内存编辑器……）我不知道它是否有用，但我使用 feather。    提交人    /u/TNT_addict   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr0t8r/anywhere_i_can_find_dylibs/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:59:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将免费为你提供任何 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr0pln/i_will_get_any_ipa_for_you_free/</link>
+      <description><![CDATA[标题！ 只需在这里回复，然后我会回复您，说我已经解密了它，并在您给我发送私信后通过私信发送给您    提交人    /u/BreadApprehensive139   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr0pln/i_will_get_any_ipa_for_you_free/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dylib 强制 120hz 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr05em/dylib_to_force_120hz/</link>
+      <description><![CDATA[有人知道是否有可以注入 ipas（例如使用 esign 或 feather）的 .dylib，可以强制应用程序达到 120hz 吗？我认为如果存在这样的东西会很棒    提交人    /u/DistrictSea9944   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr05em/dylib_to_force_120hz/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:06:32 GMT</pubDate>
+    </item>
     <item>
       <title>“无法安装____”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[在 PC 端显示 404，在设备端显示“路径无效或找不到设备”    提交人    /u/australian31   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hqlto4/sidejitserver_not_working_why/</guid>
       <pubDate>Tue, 31 Dec 2024 19:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqltjt/movie_ipa/</link>
-      <description><![CDATA[寻找一个支持电影下载的电影流媒体 ipa，因为我很快就要休假了，想在飞机上看电影，但找不到，有谁知道吗，谢谢     提交人    /u/Tomfanter1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqltjt/movie_ipa/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:15:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ESign 添加 Signulous 应用程序组授权</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqgb6k/add_signulous_app_group_entitlement_with_esign/</link>
-      <description><![CDATA[如果我的证书来自 Signulous，是否可以在 ESign 中添加应用组权利？我可以从 UUID 注册访问我的证书和配置文件，但我还没有找到添加“额外”权利的方法。    提交人    /u/captn1776   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqgb6k/add_signulous_app_group_entitlement_with_esign/</guid>
-      <pubDate>Tue, 31 Dec 2024 14:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign下载器快捷方式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqdsu4/esign_downloader_shortcut/</link>
-      <description><![CDATA[https://www.icloud.com/shortcuts/e3a7336f93f84e268682c83ce452a6b3 我自己构建了所有内容。您可以根据需要修改代码。快捷方式本身中有更多说明。尽情享受吧！    提交人    /u/jt1h   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqdsu4/esign_downloader_shortcut/</guid>
-      <pubDate>Tue, 31 Dec 2024 12:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个应用程序在 iPhone/iPad 上安装 ipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqd1b5/i_need_an_app_to_install_ipa_files_on_iphoneipad/</link>
-      <description><![CDATA[我会购买付费证书。我不想使用 PC，只想使用 iPhone/iPad。 我发现了 2 个应用程序：Esign 和 Scarlet 每个人都说 Esign 将您的所有数据出售给中国服务器。 至于 Scarlet，他们说它有很多错误，它会将您列入黑名单，并吊销您的证书。 还有其他应用程序吗？也许是 FlekSt0re？但我对 FlekSt0re 不太了解。如果有人在使用它，请告诉我它怎么样。    提交人    /u/Valorant_Steve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqd1b5/i_need_an_app_to_install_ipa_files_on_iphoneipad/</guid>
-      <pubDate>Tue, 31 Dec 2024 11:41:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
