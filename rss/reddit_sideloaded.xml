@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 01 Jan 2025 06:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 09:10:45 GMT</lastBuildDate>
+    <item>
+      <title>“无法安装____”</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</link>
+      <description><![CDATA[最近（今天早些时候）我从 Esign 侧面加载的应用程序立即崩溃了，所以我一直在尝试重新下载它们，但由于某种原因，它仍然无法验证。 目前的情况： - 刚刚重置并备份了 iPhone - 使用自定义 NextDNS 配置文件 - 使用具有匹配证书的 Esign - 当前使用的是 IOS 18 值得注意的行为 - 能够安装 Esign，但没有后续应用程序 - 即使使用同名证书，下载的 ups 也不会出现在“VPN 和设备管理”设置中的“企业应用程序”中的证书下 如果有人有任何信息，请帮忙    提交人    /u/Qyutatara   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</guid>
+      <pubDate>Wed, 01 Jan 2025 08:29:53 GMT</pubDate>
+    </item>
     <item>
       <title>[请求] 有人有“finity”的可侧载版本吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hqvg3h/request_anyone_have_a_sideloadable_version_of/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>.ipa 的其他方法？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hqpysn/other_methods_for_ipas/</link>
-      <description><![CDATA[嗨， 我来自 Android，下载 apk 非常简单。我相对精通技术，但很难理解 iOS 上的侧载。我已经准备好使用 SideStore（如果 SideStore 不是“最佳”方法，我很抱歉，Reddit 上有很多方法，每个人都声称另一种方法是“最佳”的），我只需要 .ipa。 不幸的是，这里推荐的网站或 github 存储库都没有我要找的应用程序，这是一个付费应用程序。似乎有一些方法可以从下载的应用程序中提取未签名的 .ipa，但要下载应用程序，我必须为此付费，在我看来，这完全违背了目的。 我是否缺少任何方法来获取相对较小的应用程序或甚至接受请求的网站的 .ipa？提前致谢！    由    /u/clashbabyyy  提交  [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我来自 Android，下载 apk 非常简单。我相对精通技术，但很难理解 iOS 上的侧载。我已经准备好使用 SideStore（如果 SideStore 不是“最佳”方法，我很抱歉，Reddit 上有很多方法，每个人都声称另一种方法是“最佳”的），我只需要 .ipa。 不幸的是，这里推荐的网站或 github 存储库都没有我要找的应用程序，这是一个付费应用程序。似乎有一些方法可以从下载的应用程序中提取未签名的 .ipa，但要下载应用程序，我必须为此付费，在我看来，这似乎完全违背了目的。 我是否缺少任何方法来获取相对较小的应用程序或甚至接受请求的网站的 .ipa？提前致谢！    由    /u/clashbabyyy 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hqpysn/other_methods_for_ipas/</guid>
       <pubDate>Tue, 31 Dec 2024 22:47:32 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我会购买付费证书。我不想使用 PC，只想使用 iPhone/iPad。 我发现了 2 个应用程序：Esign 和 Scarlet 每个人都说 Esign 将您的所有数据出售给中国服务器。 至于 Scarlet，他们说它有很多错误，它会将您列入黑名单，并吊销您的证书。 还有其他应用程序吗？也许是 FlekSt0re？但我对 FlekSt0re 不太了解。如果有人在使用它，请告诉我它怎么样。    提交人    /u/Valorant_Steve   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hqd1b5/i_need_an_app_to_install_ipa_files_on_iphoneipad/</guid>
       <pubDate>Tue, 31 Dec 2024 11:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装标志时遇到问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqbflv/having_trouble_installing_esign/</link>
-      <description><![CDATA[即使我安装了 DNS，它仍说无法验证应用程序完整性    提交人    /u/malik05051   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqbflv/having_trouble_installing_esign/</guid>
-      <pubDate>Tue, 31 Dec 2024 09:42:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
