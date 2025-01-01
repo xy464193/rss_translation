@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 01 Jan 2025 15:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 18:13:27 GMT</lastBuildDate>
+    <item>
+      <title>是否有可供我侧载的 iOS 安卓模拟器？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr8e01/is_there_an_android_emulator_for_ios_that_i_can/</link>
+      <description><![CDATA[我只是想问一下 iOS 是否有类似 BlueStacks 的模拟器     提交人    /u/WarmSeaworthiness625   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr8e01/is_there_an_android_emulator_for_ios_that_i_can/</guid>
+      <pubDate>Wed, 01 Jan 2025 18:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>回到 iOS，我有哪些侧载选项？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr7pbp/back_to_ios_what_are_my_options_to_sideload/</link>
+      <description><![CDATA[大家好，用了几年 Android 之后，明天我要买一部 iPhone，回归 iOS。上次我用 Scarlet 安装应用，现在我不再有 PC 了，很遗憾 Altstore 不再是一个选项。有什么新东西吗？现在有什么选择？我在欧洲，我不知道这是否与第三方商店法有关。谢谢     提交人    /u/Florimix   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr7pbp/back_to_ios_what_are_my_options_to_sideload/</guid>
+      <pubDate>Wed, 01 Jan 2025 17:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 iOS 侧载的几个问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr79bz/few_questions_about_sideloading_on_ios/</link>
+      <description><![CDATA[由于我的地区屏蔽了我想要使用的某些应用程序，我决定使用侧载程序将应用程序上传到我的 iPhone 上。但我对可能发生的事情有一些担忧，想问一下。 如果您问我使用 WSF DNS 配置和 ESign 进行侧载。我听说 ESign 发送了大量遥测数据，所以我在安装应用程序后卸载了它。 -&gt; 所以我的第一个问题是，安装应用程序后可以卸载侧载程序吗？ 然后我担心的是 DNS， -&gt; 保持 DNS 配置启用是否安全？ 还有应用程序更新的可能性， -&gt; 如果我正在使用的应用程序稍后获得更新，会发生什么？ 最后， -&gt; “撤销”到底是什么？我的猜测是，如果我的行为被发现，Apple 会选择退出应用商店或删除我安装的应用程序？ 这些是我所关注的一些问题和担忧。我很高兴听到您的回答。提前谢谢您！    提交人    /u/S5j8eros360   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr79bz/few_questions_about_sideloading_on_ios/</guid>
+      <pubDate>Wed, 01 Jan 2025 17:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我确实购买了证书，当我下载后尝试使用 esign 签署 ipa 时（esign）不起作用，所以我要做什么，它说无法安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr6b81/hi_guys_pls_i_did_buy_a_cert_and_when_i_did_try/</link>
+      <description><![CDATA[        由    /u/Constant-Fortune3310   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr6b81/hi_guys_pls_i_did_buy_a_cert_and_when_i_did_try/</guid>
+      <pubDate>Wed, 01 Jan 2025 16:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序加密错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr5n23/the_app_is_encryption_error/</link>
+      <description><![CDATA[我从存档中获取了一个 ipa，但是每当我尝试通过 ESign 安装它时，它都会显示“该应用程序已加密，签名后可能无法安装。建议解​​密并重新签名！！！”。我该怎么办？    提交人    /u/Beef_Testostrome   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr5n23/the_app_is_encryption_error/</guid>
+      <pubDate>Wed, 01 Jan 2025 15:57:35 GMT</pubDate>
+    </item>
     <item>
       <title>无法安装多个 WhatsApp</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hr3xxn/unable_to_install_multiple_whatsapp/</link>
@@ -27,18 +62,11 @@
       <pubDate>Wed, 01 Jan 2025 12:06:49 GMT</pubDate>
     </item>
     <item>
-      <title>我可以在哪里找到 dylib？</title>
+      <title>我可以在哪里找到 dylibs？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hr0t8r/anywhere_i_can_find_dylibs/</link>
       <description><![CDATA[是否有任何来源或 GitHub repo 可以让我找到有用的 dylib（Adblock、satella、内存编辑器……）我不知道它是否有用，但我使用 feather。    提交人    /u/TNT_addict   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hr0t8r/anywhere_i_can_find_dylibs/</guid>
       <pubDate>Wed, 01 Jan 2025 10:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将免费为你提供任何 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hr0pln/i_will_get_any_ipa_for_you_free/</link>
-      <description><![CDATA[标题！ 只需在这里回复，然后我会回复您，说我已经解密了它，并在您给我发送私信后通过私信发送给您    提交人    /u/BreadApprehensive139   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hr0pln/i_will_get_any_ipa_for_you_free/</guid>
-      <pubDate>Wed, 01 Jan 2025 10:51:36 GMT</pubDate>
     </item>
     <item>
       <title>Dylib 强制 120hz 吗？</title>
@@ -50,7 +78,7 @@
     <item>
       <title>“无法安装____”</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</link>
-      <description><![CDATA[最近（今天早些时候）我从 Esign 侧面加载的应用程序立即崩溃了，所以我一直在尝试重新下载它们，但由于某种原因，它仍然无法验证。 目前情况： - 刚刚重置并备份了 iPhone - 使用自定义 NextDNS 配置文件 - 使用具有匹配证书的 Esign - 当前使用的是 IOS 18 值得注意的行为 - 能够安装 Esign，但没有后续应用程序 - 即使使用同名证书，下载的 ups 也不会出现在“VPN 和设备管理”设置中的“企业应用程序”中的证书下 如果有人有任何信息，请帮忙    提交人    /u/Qyutatara   [链接] [评论]]]></description>
+      <description><![CDATA[最近（今天早些时候）我从 Esign 侧面加载的应用程序立即崩溃了，所以我一直在尝试重新下载它们，但由于某种原因，它仍然无法验证。 目前的情况： - 刚刚重置并备份了 iPhone - 使用自定义 NextDNS 配置文件 - 使用具有匹配证书的 Esign - 当前使用的是 IOS 18 值得注意的行为 - 能够安装 Esign，但没有后续应用程序 - 即使使用同名证书，下载的 ups 也不会出现在“VPN 和设备管理”设置中的“企业应用程序”中的证书下 如果有人有任何信息，请帮忙    提交人    /u/Qyutatara   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</guid>
       <pubDate>Wed, 01 Jan 2025 08:29:53 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我已经拥有这款想要玩一个星期的游戏了  我甚至尝试学习如何修改 ipa 文件，但是它太复杂了，而且我在网上找不到任何有用的东西  我不知道如何解密文件或注入调整  所以我的请求是有人帮我做这件事因为我放弃了 😅  https://apps.apple.com/tr/app/%D8%B3%D9%8A%D9%86-%D8%AC%D9%8A%D9%85-seen-jeem/id6479301314 这是该应用程序的链接 这是一款阿拉伯团体游戏，就像史蒂夫哈维的“家庭世仇”那个节目一样 但每轮费用约为 12 美元 如果我要玩很多的话，那就太多了 希望有人可以帮助我 ..    提交人    /u/Parking-Peanut7364   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hqs2q4/request_for_hacking_ipa_file/</guid>
       <pubDate>Wed, 01 Jan 2025 00:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>.ipa 的其他方法？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqpysn/other_methods_for_ipas/</link>
-      <description><![CDATA[嗨， 我来自 Android，下载 apk 非常简单。我相对精通技术，但很难理解 iOS 上的侧载。我已经准备好使用 SideStore（如果 SideStore 不是“最佳”方法，我很抱歉，Reddit 上有很多方法，每个人都声称另一种方法是“最佳”的），我只需要 .ipa。 不幸的是，这里推荐的网站或 github 存储库都没有我要找的应用程序，这是一个付费应用程序。似乎有一些方法可以从下载的应用程序中提取未签名的 .ipa，但要下载应用程序，我必须为此付费，在我看来，这完全违背了目的。 我是否缺少任何方法来获取相对较小的应用程序或甚至接受请求的网站的 .ipa？提前致谢！    由    /u/clashbabyyy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqpysn/other_methods_for_ipas/</guid>
-      <pubDate>Tue, 31 Dec 2024 22:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我打不开猩红？？？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqp2gh/i_cant_open_scarlet/</link>
-      <description><![CDATA[每次我访问该网站时，它都说地址无效。有什么解决办法吗？    提交人    /u/itzjustalex_716   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqp2gh/i_cant_open_scarlet/</guid>
-      <pubDate>Tue, 31 Dec 2024 21:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速提问</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqo7v9/quick_question/</link>
-      <description><![CDATA[使用付费 Apple 开发者帐户通过 AltStore 服务器侧载应用程序是否安全？这个过程是否没有风险，或者 Apple 是否有可能检测到此活动并撤销订阅？    提交人    /u/Such-Gas6311   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqo7v9/quick_question/</guid>
-      <pubDate>Tue, 31 Dec 2024 21:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪贴板 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqo32c/clipboard_ipa/</link>
-      <description><![CDATA[是否有 ipa 可以为 iPhone/iPad 提供类似三星的剪贴板功能？    提交人    /u/Valorant_Steve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqo32c/clipboard_ipa/</guid>
-      <pubDate>Tue, 31 Dec 2024 21:08:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
