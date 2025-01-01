@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:09:02 GMT</lastBuildDate>
+    <item>
+      <title>sideloading musi</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hrbz33/sideloading_musi/</link>
+      <description><![CDATA[是否有可以正常运行的 musi ipa？我到处找了，但找到的都崩溃了     提交人    /u/Josh_thefoo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hrbz33/sideloading_musi/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiveContainer 上的 Notability 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hrbepq/notability_on_livecontainer/</link>
+      <description><![CDATA[由于某种原因，notability 无法在 Live Container 上运行。其中一位破解开发人员告诉我，这与权利有关？有什么办法可以解决这个问题吗？我又不是想为笔记应用程序付费订阅，呵呵。 ETA：显然它确实可以在侧载上运行，但占用了一个插槽。如果有人能用 live 容器解决这个问题，请告诉我！    提交人    /u/MonkeyNuts449   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hrbepq/notability_on_livecontainer/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign 阿拉伯语</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hrb1gk/esign_arabic_language/</link>
+      <description><![CDATA[我刚刚下载了 E-Sign，它似乎有阿拉伯语。我该如何将语言设置为英语？    提交人    /u/Just-A-Snowfox   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hrb1gk/esign_arabic_language/</guid>
+      <pubDate>Wed, 01 Jan 2025 19:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以给我提出建议吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hrayjr/anyone_have_suggestions_for_me_to_make/</link>
+      <description><![CDATA[我是编码方面的新手，当然在 iOS 开发方面也算是新手，但如果你们对我制作的应用程序有任何建议，我会采纳并看看我能做些什么，显然它们需要时间来开发，但我愿意尝试。我还想远离免费的电影/电视前端，以避免收到来自那里的任何 DMCA 通知，哈哈。     提交人    /u/op747728   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hrayjr/anyone_have_suggestions_for_me_to_make/</guid>
+      <pubDate>Wed, 01 Jan 2025 19:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>请解释</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hramsl/please_explain/</link>
+      <description><![CDATA[提前为这个愚蠢的问题道歉。我正在使用安卓系统，正在考虑换用 16 pro。我主要担心的是，到目前为止，我一直在使用 mod yt 和 spotify，所以换用 iPhone 对我来说很可怕。今天才知道侧载，但我不明白它是如何工作的。如果有人能给我解释一下，我会很高兴的😭    提交人    /u/Background-Door-8428   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hramsl/please_explain/</guid>
+      <pubDate>Wed, 01 Jan 2025 19:41:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 无法在我的 Linux iPhone 上运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hr97ps/sidestore_not_working_on_my_iphone_with_linux/</link>
+      <description><![CDATA[大家好。也许我错过了什么，但 SideStore 无法在我的设备上运行。我能够通过 SideStore 网站上的指南成功安装它。但是当我打开应用程序并单击“我的应用程序”并尝试刷新它时，它显示“没有 WIFI 或 VPN 连接”。我不确定这里的问题是什么，因为我启用了 Wireguard 配置文件。 重现步骤：  安装 WG 并添加配置文件 在 Linux 上创建配对文件并对其进行压缩，然后将其复制到 iCloud 运行 Docker 命令。我能够使用   /AltServer -u UID -a APPLEACCOUNT -p Password SideStore.ipa  之后，我拔下手机、关闭电脑，并在 Wireguard 配置文件处于活动状态时尝试刷新应用程序，但仍然出现同样的问题。有什么想法吗？    提交人    /u/ThatrandomGuyxoxo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hr97ps/sidestore_not_working_on_my_iphone_with_linux/</guid>
+      <pubDate>Wed, 01 Jan 2025 18:39:43 GMT</pubDate>
+    </item>
     <item>
       <title>是否有可供我侧载的 iOS 安卓模拟器？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hr8e01/is_there_an_android_emulator_for_ios_that_i_can/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[是否有任何来源或 GitHub repo 可以让我找到有用的 dylib（Adblock、satella、内存编辑器……）我不知道它是否有用，但我使用 feather。    提交人    /u/TNT_addict   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hr0t8r/anywhere_i_can_find_dylibs/</guid>
       <pubDate>Wed, 01 Jan 2025 10:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dylib 强制 120hz 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hr05em/dylib_to_force_120hz/</link>
-      <description><![CDATA[有人知道是否有可以注入 ipas（例如使用 esign 或 feather）的 .dylib，可以强制应用程序达到 120hz 吗？我认为如果存在这样的东西会很棒    提交人    /u/DistrictSea9944   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hr05em/dylib_to_force_120hz/</guid>
-      <pubDate>Wed, 01 Jan 2025 10:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>“无法安装____”</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</link>
-      <description><![CDATA[最近（今天早些时候）我从 Esign 侧面加载的应用程序立即崩溃了，所以我一直在尝试重新下载它们，但由于某种原因，它仍然无法验证。 目前的情况： - 刚刚重置并备份了 iPhone - 使用自定义 NextDNS 配置文件 - 使用具有匹配证书的 Esign - 当前使用的是 IOS 18 值得注意的行为 - 能够安装 Esign，但没有后续应用程序 - 即使使用同名证书，下载的 ups 也不会出现在“VPN 和设备管理”设置中的“企业应用程序”中的证书下 如果有人有任何信息，请帮忙    提交人    /u/Qyutatara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqyxv5/unable_to_install/</guid>
-      <pubDate>Wed, 01 Jan 2025 08:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[请求] 有人有“finity”的可侧载版本吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqvg3h/request_anyone_have_a_sideloadable_version_of/</link>
-      <description><![CDATA[我已经在互联网上搜索了大约两个星期，寻找任何可以运行的 finity 版本，但它们都没有用或被加密了。 任何帮助都值得赞赏。    提交人    /u/PaceReady7607   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqvg3h/request_anyone_have_a_sideloadable_version_of/</guid>
-      <pubDate>Wed, 01 Jan 2025 04:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 iTunes 上没有设备按钮</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hquzoc/theres_no_devices_button_on_my_itunes/</link>
-      <description><![CDATA[我下载了 altstore，但现在我实际上正在尝试安装东西，而我的 iTunes 上没有设备按钮。我有 Apple 的 iTunes，而不是 Microsoft 商店。    提交人    /u/WarmSeaworthiness625   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hquzoc/theres_no_devices_button_on_my_itunes/</guid>
-      <pubDate>Wed, 01 Jan 2025 03:47:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何用于 Instagram 统计信息的侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hquf0d/any_sideload_app_for_instagram_stats/</link>
-      <description><![CDATA[我正在寻找一款适用于我的 Instagram 的统计应用     由   提交  /u/NoozPrime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hquf0d/any_sideload_app_for_instagram_stats/</guid>
-      <pubDate>Wed, 01 Jan 2025 03:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求“hacking”ipa 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hqs2q4/request_for_hacking_ipa_file/</link>
-      <description><![CDATA[我已经拥有这款想要玩一个星期的游戏了  我甚至尝试学习如何修改 ipa 文件，但是它太复杂了，而且我在网上找不到任何有用的东西  我不知道如何解密文件或注入调整  所以我的请求是有人帮我做这件事因为我放弃了 😅  https://apps.apple.com/tr/app/%D8%B3%D9%8A%D9%86-%D8%AC%D9%8A%D9%85-seen-jeem/id6479301314 这是该应用程序的链接 这是一款阿拉伯团体游戏，就像史蒂夫哈维的“家庭世仇”那个节目一样 但每轮费用约为 12 美元 如果我要玩很多的话，那就太多了 希望有人可以帮助我 ..    提交人    /u/Parking-Peanut7364   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hqs2q4/request_for_hacking_ipa_file/</guid>
-      <pubDate>Wed, 01 Jan 2025 00:46:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
