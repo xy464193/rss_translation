@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 03 Jan 2025 06:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 09:10:51 GMT</lastBuildDate>
+    <item>
+      <title>更高的应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hsiaiq/taller_app/</link>
+      <description><![CDATA[有人有更高的 ipa 并且有免费的 premium 吗？     提交人    /u/odi4   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hsiaiq/taller_app/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法安装此应用程序，因为无法验证其完整性</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hsgq9t/this_app_cannot_be_installed_because_its/</link>
+      <description><![CDATA[我尝试了所有方法，但每次我尝试打开 Esign 时，它都不允许我进入 IOS。18.2    提交人    /u/UziGlockz544   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hsgq9t/this_app_cannot_be_installed_because_its/</guid>
+      <pubDate>Fri, 03 Jan 2025 07:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法自动化侧载程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hsfzgy/is_there_way_to_automate_sideloader/</link>
+      <description><![CDATA[有没有办法保存电子邮件地址和密码，或者有没有可以做类似事情的脚本示例？ 用于自动化 sideloader cli    提交人    /u/Telmit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hsfzgy/is_there_way_to_automate_sideloader/</guid>
+      <pubDate>Fri, 03 Jan 2025 06:19:17 GMT</pubDate>
+    </item>
     <item>
       <title>我正在尝试登录到 sidestore，但它显示“您已经拥有当前的 iOS 开发证书或待处理的证书请求 (7460)”。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hsflll/i_am_trying_to_sign_in_to_sidestore_but_is_says/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>需要付费证书的最终建议</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hscfxj/final_suggestion_needed_for_a_paid_cert/</link>
-      <description><![CDATA[每次问到这个问题，人们都会举出 kravasign、dxsign、apptesters 等数百个名字。 我只想发表一个点赞帖子，希望大家投票选出他们最喜欢的服务。只需点赞评论即可。 我请求大家不要分享他们的经验。这样，它就只是一个干净的投票，将来其他人更容易跟进。太多的评论会掩盖重要信息    提交人    /u/Hamster-Diligent   [链接] [评论]]]></description>
+      <description><![CDATA[每次问到这个问题，人们都会举出 kravasign、dxsign、apptesters 等数百个名字。 我只想发表一个点赞帖子，希望人们投票选出他们最喜欢的服务。只需点赞评论即可。 我请求大家不要分享他们的经验。这样，它将只是一个干净的投票，将来其他人将更容易跟进。太多的评论会掩盖重要信息    提交人    /u/Hamster-Diligent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hscfxj/final_suggestion_needed_for_a_paid_cert/</guid>
       <pubDate>Fri, 03 Jan 2025 03:01:29 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[在 Android 上，侧载更容易。你只需下载 apk 文件，用默认应用程序“Package Installer”打开它，按“安装”即可安装。 但只有 IOS，它更复杂。 你必须使用 PC 和第三方应用程序（如 AltStore、Sideloadly、SideStore）进行侧载。这种方法很糟糕，因为它有最大应用程序限制，你必须每 7 天刷新一次。 正因为如此，每个人都使用证书和其他第三方应用程序（如 Scarlet、Esign、Feather）进行侧载。免费证书总是被撤销。最好付费购买。 但为什么会这样呢？为什么我们不能用“Package Installer”这样的应用程序打开 ipa 文件呢？在 Android 上，只需安装它而无需其他废话？    提交人    /u/Valorant_Steve   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hrsgsn/why_sideloading_on_ios_isnt_like_android/</guid>
       <pubDate>Thu, 02 Jan 2025 12:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hrrrbl/esign_problem/</link>
-      <description><![CDATA[说到这些东西，我绝对是个菜鸟，但我会解释一下我到目前为止所做的事情。请有人帮帮我🙏。可能有一个非常简单的解决方法，但我已经下载了一个 Duolingo 的插件，使用 ESign 和 ipa 获得无限爱心。应用程序下载了，但当我尝试运行它时，它就是不起作用，并给了我一个错误“无法安装应用程序，因为无法验证其完整性”。我搜索了一下，但据我所知，没有人真正知道如何绕过这个问题。有什么想法吗？    提交人    /u/UncorkedTree650   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hrrrbl/esign_problem/</guid>
-      <pubDate>Thu, 02 Jan 2025 11:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何猩红色的替代品吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hrqwhp/any_scarlet_alternatives/</link>
-      <description><![CDATA[我必须使用侧载应用程序，但 scarlet 不想安装。我的 iPhone 8 运行的是 iOS 16.7.10     提交人    /u/Swiezaczek   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hrqwhp/any_scarlet_alternatives/</guid>
-      <pubDate>Thu, 02 Jan 2025 10:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hrptj6/sideloaded_apps_in_china/</link>
-      <description><![CDATA[这可能是一个相当愚蠢的问题，所以提前道歉，由于 Youtube、Spotify、Instagram 等应用程序在中国被屏蔽，侧载应用程序会面临同样的问题吗？或者是否有某个设置我可以更改，例如我的 Youtube 侧载应用程序有一个更改位置的设置，或者所有这些仍然无法在基于服务器的情况下工作？11 月访问一个月，所以试着提前计划，谢谢😊    提交人    /u/Rhysr1999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hrptj6/sideloaded_apps_in_china/</guid>
-      <pubDate>Thu, 02 Jan 2025 09:12:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
