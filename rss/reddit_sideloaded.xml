@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 04 Jan 2025 03:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 09:09:37 GMT</lastBuildDate>
+    <item>
+      <title>侧载的危险吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1htak6p/dangers_of_sideloading/</link>
+      <description><![CDATA[想将自定义 Spotify 侧载到我的 iPhone 上。我在上面放了银行应用程序、文档等。侧载是否存在潜在/可能的危险？    提交人    /u/whatever5231   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1htak6p/dangers_of_sideloading/</guid>
+      <pubDate>Sat, 04 Jan 2025 09:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义 iOS 调整以仅显示 TikTok 广告</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1htac7w/custom_ios_tweak_to_show_only_tiktok_ads/</link>
+      <description><![CDATA[我最近加入了 iOS 调整和 IPA 侧载社区，我对可能发生的事情非常着迷。我有一个非常小众的调整想法，希望有人能给我指明正确的方向。 我希望创建（或让别人帮我创建）一个 TikTok 调整，过滤掉所有普通帖子，只显示广告 — — 比如 Spark Ads 或任何标有“赞助”的内容。基本上，我想要一个完全由广告组成的自定义 feed。 我知道有更大的 TikTok 模组，其中包含大量功能，例如完全删除广告，但我特别想找一个相反的功能。我只想要广告，不要普通帖子。 这种事情可行吗？如果是这样，这里有人提供付费服务来创建自定义调整，或者认识提供该服务的人吗？ 任何建议或指点都将不胜感激！    提交人    /u/Relentless-Laz-477   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1htac7w/custom_ios_tweak_to_show_only_tiktok_ads/</guid>
+      <pubDate>Sat, 04 Jan 2025 08:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>swaggy repo 回来了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ht9ocg/is_swaggy_repo_back/</link>
+      <description><![CDATA[我目前正在使用 swagy repo，发生了什么？它不久前关闭了，我能够轻松添加 repo     提交人    /u/Neeeear   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ht9ocg/is_swaggy_repo_back/</guid>
+      <pubDate>Sat, 04 Jan 2025 08:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>叶子</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ht8dit/folium/</link>
+      <description><![CDATA[我正在尝试学习如何将 folium 侧载到运行 iOS 18 的 iPhone 上，这可能吗？有谁愿意指导我完成它     提交人    /u/Low_Student_7085   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ht8dit/folium/</guid>
+      <pubDate>Sat, 04 Jan 2025 06:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube Lite Plus</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ht7r89/yt_lite_plus/</link>
+      <description><![CDATA[我已经使用这个 ipa 几个星期了。想知道是否有其他人在使用移动数据而不是 wifi 时遇到加载缓慢的问题？（使用 wifi 时可以正常工作）    提交人    /u/Weak-Train4342   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ht7r89/yt_lite_plus/</guid>
+      <pubDate>Sat, 04 Jan 2025 05:49:31 GMT</pubDate>
+    </item>
     <item>
       <title>Egern 可以与自定义 DNS（NextDNS）一起使用吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ht2kz3/can_egern_work_with_custom_dns_nextdns/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿伙计们，我正在使用 EeveeSpotify，但每隔约 10 天它就会说 Spotify 不再可用，我使用 sideloadly 来安装它，有没有办法永远获得该应用程序而不必每次都重新安装它？    提交人    /u/skanderdza   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hsob2g/eeveespotify_problem/</guid>
       <pubDate>Fri, 03 Jan 2025 14:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需 eSign 即可侧载 iOSRocket 证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hsm7k2/side_load_iosrocket_certificate_without_esign/</link>
-      <description><![CDATA[我从 iOS Rocket 购买了证书以避免 7 天刷新麻烦  说明显示使用 eSign，但由于中国出处和更改设备上的 DNS，我不想使用它。 有什么其他方法可以使用证书签署 IPA 并使其有效期为一年？    提交人    /u/twd000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hsm7k2/side_load_iosrocket_certificate_without_esign/</guid>
-      <pubDate>Fri, 03 Jan 2025 13:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我从 kamo hacks 购买了个人证书（体验和服务非常糟糕），所以我按照卖家（kamo hacks）发来的所有说明和教程操作，但还是无法使用，如屏幕截图所示，请帮忙</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hslgbn/hey_guys_i_bought_a_personal_cert_from_kamo_hacks/</link>
-      <description><![CDATA[    /u/Constant-Fortune3310   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hslgbn/hey_guys_i_bought_a_personal_cert_from_kamo_hacks/</guid>
-      <pubDate>Fri, 03 Jan 2025 12:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法安装此应用程序，因为无法验证其完整性</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hsgq9t/this_app_cannot_be_installed_because_its/</link>
-      <description><![CDATA[我尝试了所有方法，但每次我尝试打开 Esign 时，它都不允许我进入 IOS。18.2    提交人    /u/UziGlockz544   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hsgq9t/this_app_cannot_be_installed_because_its/</guid>
-      <pubDate>Fri, 03 Jan 2025 07:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法自动化侧载程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hsfzgy/is_there_way_to_automate_sideloader/</link>
-      <description><![CDATA[有没有办法保存电子邮件地址和密码，或者有没有可以做类似事情的脚本示例？ 用于自动化 sideloader cli    提交人    /u/Telmit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hsfzgy/is_there_way_to_automate_sideloader/</guid>
-      <pubDate>Fri, 03 Jan 2025 06:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试登录到 sidestore，但它显示“您已经拥有当前的 iOS 开发证书或待处理的证书请求 (7460)”。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hsflll/i_am_trying_to_sign_in_to_sidestore_but_is_says/</link>
-      <description><![CDATA[      嗨，我想登录 sidestore，但 ig 说“您已经有一个当前的 iOS 开发证书或一个待处理的证书请求 (7460)”，有人能帮忙吗 https://preview.redd.it/012mavkrxpae1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=fc7573b53ef1489fe6828e2e7d3a6e3346da597c    提交人    /u/AceGames13   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hsflll/i_am_trying_to_sign_in_to_sidestore_but_is_says/</guid>
-      <pubDate>Fri, 03 Jan 2025 05:55:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
