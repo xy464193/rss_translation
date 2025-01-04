@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 04 Jan 2025 00:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 03:13:47 GMT</lastBuildDate>
+    <item>
+      <title>Egern 可以与自定义 DNS（NextDNS）一起使用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ht2kz3/can_egern_work_with_custom_dns_nextdns/</link>
+      <description><![CDATA[我已经尝试在 Bootstrap 工具下在 Egern 中设置 NextDNS 服务器，但是没有成功（nextdns.io 无法识别该 DNS 服务器是他们的）。还有其他想法吗？ 谢谢大家！    提交人    /u/BalancingEdge   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ht2kz3/can_egern_work_with_custom_dns_nextdns/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:10:58 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道有带有 IPA 的 repos 链接吗，或者知道在哪里可以找到这些破解/专业的应用程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ht00wb/anyone_know_have_links_to_repos_with_ipas_or_know/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      嗨，我想登录 sidestore，但 ig 说“您已经有一个当前的 iOS 开发证书或一个待处理的证书请求 (7460)”，有人能帮忙吗 https://preview.redd.it/012mavkrxpae1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=fc7573b53ef1489fe6828e2e7d3a6e3346da597c    提交人    /u/AceGames13   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hsflll/i_am_trying_to_sign_in_to_sidestore_but_is_says/</guid>
       <pubDate>Fri, 03 Jan 2025 05:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载新手 | 问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hscl3c/beginner_in_sideloading_questions/</link>
-      <description><![CDATA[我是侧载新手，下载 Spotify Premuim 或 Capcut Premium 难道这么复杂吗？ 有人可以简化我如何使用侧载在 IO 上获取应用程序吗？    提交人    /u/UziGlockz544   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hscl3c/beginner_in_sideloading_questions/</guid>
-      <pubDate>Fri, 03 Jan 2025 03:08:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

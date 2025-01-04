@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 04 Jan 2025 00:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 03:13:38 GMT</lastBuildDate>
+    <item>
+      <title>！帮助 - TrollFools”</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ht4qxt/help_trollfools/</link>
+      <description><![CDATA[      大家好，我希望这里有人遇到过这个问题并且已经有了解决方案。 我正在使用 TrollStore 并尝试使用 TrollFools 注入一些dylib 调整。我看过一些 YouTube 视频，他们选择 .dylib 文件没有任何问题，但使用我最新的 TrollFool，.dylib 文件显示为灰色且不可选择。 有人可以帮忙吗？ 此外，是否可以将 .deb 文件转换为 .dylib 并注入它？ 提前致谢！ 2 张屏幕截图合并在一起     提交人    /u/robi_750   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ht4qxt/help_trollfools/</guid>
+      <pubDate>Sat, 04 Jan 2025 03:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 8 16.7.10</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ht2k6y/iphone_8_16710/</link>
+      <description><![CDATA[      我可以在此安装 trollstore 吗？    提交人    /u/Aggravating-Cup-7447   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ht2k6y/iphone_8_16710/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>瓦图西巨魔商店</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hrafmr/watusi_trollstore/</link>
@@ -71,14 +85,14 @@
     <item>
       <title>Trollstore 不可见（未被监禁）</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hl5tkq/trollstore_not_visible_not_jailed/</link>
-      <description><![CDATA[[已解决，] 那么，我安装了一些应用程序，我想大概一个月后，Trollstore 就消失了？顺便说一下，我是使用 TrollinstallerX 安装了 trollstore 的， 使用 trollstore 安装的应用程序似乎运行良好，但 trollstore 本身似乎不在我的主页或应用程序库中， 持久性帮助程序仍在那里，它说我可以卸载 trollstore，即使它不在这里。帮忙吗？    提交人    /u/TheHalfIntrovert   [链接] [评论]]]></description>
+      <description><![CDATA[[已解决，] 那么，我安装了一些应用程序，我想大概一个月后，Trollstore 就消失了？顺便说一下，我使用 TrollinstallerX 安装了 trollstore， 使用 trollstore 安装的应用程序似乎运行良好，但 trollstore 本身似乎不在我的主页或应用程序库中， 持久性帮助程序仍在那里，它说我可以卸载 trollstore，即使它不在这里。帮忙吗？    提交人    /u/TheHalfIntrovert   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hl5tkq/trollstore_not_visible_not_jailed/</guid>
       <pubDate>Tue, 24 Dec 2024 04:33:16 GMT</pubDate>
     </item>
     <item>
       <title>trollstore 的 Appdata/缓存清理器</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hkwudl/appdatacache_cleaner_for_trollstore/</link>
-      <description><![CDATA[      有一个调整（我不知道它是如何工作的），但你知道如何或任何其他方法来清理/清除缓存和应用程序数据？    由   提交  /u/ChinoAntrax605   [链接] [评论] ]]></description>
+      <description><![CDATA[      有一个调整（我不知道它是如何工作的），但你知道如何或任何其他方法来清理/清除缓存和应用程序数据？    由    /u/ChinoAntrax605   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hkwudl/appdatacache_cleaner_for_trollstore/</guid>
       <pubDate>Mon, 23 Dec 2024 20:38:47 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      有人用过吗？它真的能加快 ui 速度吗？  这是原始网址：https://www.123684.com/s/z3x7Td-Hm0KA 以防万一，仅供分享。    提交人    /u/sayed_000   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hk6k7k/ui_speed_trollstore_tweak/</guid>
       <pubDate>Sun, 22 Dec 2024 20:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trollstore iOS 16.0.2 升级了吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hjiuoq/trollstore_ios_1602_upgrade/</link>
-      <description><![CDATA[大家好！希望你们一切都好。我会很快回复，我有一部 iPhone 11，版本号为 16.0.2，一些应用程序需要 16.5+ ChatGPT 等。但是我确实关心 sidelod 中的“应用程序管理器” “LocSim” 应用程序，这些应用程序很重要，因为我知道它们必须通过 trollstore 安装，如果签名的应用程序无法正常工作！你们有什么建议？我可以更新到 16.5 吗？或者有什么技巧想法？     提交人    /u/Any_Start_4487   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hjiuoq/trollstore_ios_1602_upgrade/</guid>
-      <pubDate>Sat, 21 Dec 2024 20:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>添加银行卡以申请支付 iOS 17.0</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hjhvdw/add_card_to_apply_pay_ios_170/</link>
-      <description><![CDATA[我无法在 iOS 17 上向 Apple Pay 添加卡，需要我更新到 18，有什么方法可以在不越狱的情况下进行欺骗吗？ 我在 iOS 17.0 上使用 trollstore https://imgur.com/a/KJTgUlR    提交人    /u/ASsKickEr020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hjhvdw/add_card_to_apply_pay_ios_170/</guid>
-      <pubDate>Sat, 21 Dec 2024 20:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
