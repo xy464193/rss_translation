@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 05 Jan 2025 15:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 18:12:30 GMT</lastBuildDate>
+    <item>
+      <title>Sparsebox 和 TikTok</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hubfmy/sparsebox_and_tiktok/</link>
+      <description><![CDATA[iPhone 14 Pro，iOS 17.7 我已经设法安装了 Sparsebox 并尝试安装 BHTikTok++，但一直收到此错误： minimuxer.MinimuxerError 0 错误描述操作无法完成。无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.kOc25V/extracted/Payload/App.app 的代码签名：0xe8008016（该可执行文件使用了无效的授权进行签名。） 失败原因无法安装应用程序：无法验证 /var/installd/Library/Caches/com.apple.mobile.installd.staging/temp.kOc25V/extracted/Payload/App.app 的代码签名：0xe8008016（该可执行文件使用了无效的授权进行签名。） 有人知道这是为什么吗？    提交人    /u/n33d0n3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hubfmy/sparsebox_and_tiktok/</guid>
+      <pubDate>Sun, 05 Jan 2025 16:58:27 GMT</pubDate>
+    </item>
     <item>
       <title>伙计们，有没有什么方法可以让我使用 sidejitserver 而不影响 sidestore 应用程序，当我启动 sidejitserver 时它只会损坏 sidestore 配对文件，这太烦人了？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hu81va/guys_is_there_anyway_i_can_use_sidejitserver/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>歌曲</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1htm0vc/songs/</link>
-      <description><![CDATA[大家好，由于各种原因，我需要在手机上下载一些歌曲（所以没有 spotify 流媒体）。你推荐什么应用程序？    由    /u/PaulRib 提交   [link] [comments]]]></description>
+      <description><![CDATA[大家好，由于各种原因，我需要在手机上下载一些歌曲（所以没有 spotify 流媒体）。你推荐什么应用程序？    由   提交  /u/PaulRib   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1htm0vc/songs/</guid>
       <pubDate>Sat, 04 Jan 2025 19:21:45 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Instagram 是否有任何 IPA/tweak 可让您导出与某人的 DM 历史记录？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hth296/is_there_any_instagram_ipatweak_that_let_you/</link>
-      <description><![CDATA[我知道你可以使用 Instagram 请求你的数据，其中一个下载内容是你与某人的聊天/DM 历史记录（HTML 格式），我想我可以将其转换为 PDF。但我只是好奇 Instagram 调整/IPA 是否有该功能。提前致谢！    由   提交  /u/Responsible-Spite275   [link] [评论]]]></description>
+      <description><![CDATA[我知道你可以使用 Instagram 请求你的数据，其中一个下载内容是你与某人的聊天/DM 历史记录（HTML 格式），我想我可以将其转换为 PDF。但我只是好奇 Instagram 调整/IPA 是否有该功能。提前致谢！    提交人    /u/Responsible-Spite275   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hth296/is_there_any_instagram_ipatweak_that_let_you/</guid>
       <pubDate>Sat, 04 Jan 2025 15:44:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这款应用是一款昂贵的记忆训练应用，显然是合法的。每月费用约为 15-25 美元。如果有人可以为 iOS 提交修改后的 ipa，请告诉我，网上找不到任何东西。（或者如果您知道如何免费获得它）。    由   提交  /u/Sv1LL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1htgc1c/anyone_can_find_memoryos/</guid>
       <pubDate>Sat, 04 Jan 2025 15:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有适用于 iOS/iPadOS 的 Twitter 客户端吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1htg7b7/any_twitter_client_for_iosipados/</link>
-      <description><![CDATA[正在寻找类似 uYou / YTLite for Twitter/X 的东西，基本上只是用来屏蔽广告的东西，最好返回旧的图标和布局。我知道它适用于 Android，但有没有与 iOS/iPadOS 兼容的东西？    提交人    /u/yeahhhhhhhhhhhh2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1htg7b7/any_twitter_client_for_iosipados/</guid>
-      <pubDate>Sat, 04 Jan 2025 15:03:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
