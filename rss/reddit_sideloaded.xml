@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 05 Jan 2025 12:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 15:08:56 GMT</lastBuildDate>
+    <item>
+      <title>伙计们，有没有什么方法可以让我使用 sidejitserver 而不影响 sidestore 应用程序，当我启动 sidejitserver 时它只会损坏 sidestore 配对文件，这太烦人了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hu81va/guys_is_there_anyway_i_can_use_sidejitserver/</link>
+      <description><![CDATA[所以我使用了 sidejitserver 和 sidestore，但是当我启动 sidejitserver 的服务器时，它只会损坏 sidestore 的配对文件，所以每次我使用 sidejitserver 时，我都必须将手机连接到电脑才能再次获取 sidestore 的配对文件，这太烦人了    提交人    /u/kotenuk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hu81va/guys_is_there_anyway_i_can_use_sidejitserver/</guid>
+      <pubDate>Sun, 05 Jan 2025 14:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>Esign 和 feather 停止工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hu4evx/esign_and_feather_stop_working/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>歌曲</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1htm0vc/songs/</link>
-      <description><![CDATA[大家好，由于各种原因，我需要在手机上下载一些歌曲（所以没有 spotify 流媒体）。你推荐什么应用程序？    由   提交  /u/PaulRib   [link] [comments]]]></description>
+      <description><![CDATA[大家好，由于各种原因，我需要在手机上下载一些歌曲（所以没有 spotify 流媒体）。你推荐什么应用程序？    由    /u/PaulRib 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1htm0vc/songs/</guid>
       <pubDate>Sat, 04 Jan 2025 19:21:45 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Instagram 是否有任何 IPA/tweak 可让您导出与某人的 DM 历史记录？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hth296/is_there_any_instagram_ipatweak_that_let_you/</link>
-      <description><![CDATA[我知道你可以使用 Instagram 请求你的数据，其中一个下载内容是你与某人的聊天/DM 历史记录（HTML 格式），我想我可以将其转换为 PDF。但我只是好奇 Instagram 调整/IPA 是否有该功能。提前致谢！    提交人    /u/Responsible-Spite275   [link] [评论]]]></description>
+      <description><![CDATA[我知道你可以使用 Instagram 请求你的数据，其中一个下载内容是你与某人的聊天/DM 历史记录（HTML 格式），我想我可以将其转换为 PDF。但我只是好奇 Instagram 调整/IPA 是否有该功能。提前致谢！    由   提交  /u/Responsible-Spite275   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hth296/is_there_any_instagram_ipatweak_that_let_you/</guid>
       <pubDate>Sat, 04 Jan 2025 15:44:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找类似 uYou / YTLite for Twitter/X 的东西，基本上只是用来屏蔽广告的东西，最好返回旧的图标和布局。我知道它适用于 Android，但有没有与 iOS/iPadOS 兼容的东西？    提交人    /u/yeahhhhhhhhhhhh2   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1htg7b7/any_twitter_client_for_iosipados/</guid>
       <pubDate>Sat, 04 Jan 2025 15:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>每七天将手机插入电脑，使用 AltStore 刷新应用程序似乎比人们一直遇到问题的其他解决方法更方便。实时容器似乎是绕过三个应用程序限制的最佳解决方案。无需 SideStore 即可完成。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1htdwaj/plugging_your_phone_to_your_computer_to_refresh/</link>
-      <description><![CDATA[        由    /u/Apprehensive_Mind777 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1htdwaj/plugging_your_phone_to_your_computer_to_refresh/</guid>
-      <pubDate>Sat, 04 Jan 2025 13:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
