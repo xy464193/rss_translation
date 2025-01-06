@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 06 Jan 2025 12:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 15:10:25 GMT</lastBuildDate>
+    <item>
+      <title>为什么 ipaomtk 不起作用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1huzc3y/why_does_ipaomtk_not_work/</link>
+      <description><![CDATA[我一直习惯从这个网站直接下载，但突然它不让我下载了？我可以下载 ipa 版本，但我想下载直接版本（如果可能的话，不用电脑）    提交人    /u/Puzzled_Belt_5790   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1huzc3y/why_does_ipaomtk_not_work/</guid>
+      <pubDate>Mon, 06 Jan 2025 13:44:55 GMT</pubDate>
+    </item>
     <item>
       <title>电报上的 IPA 频道</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1huxnry/ipa_channels_on_telegram/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>哈基尼安 iOS 移植版的飞船？（《塞尔达传说：时之笛》）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hulbnn/ship_of_harkinian_ios_port_zelda_ocarina_of_time/</link>
-      <description><![CDATA[我最近发现了原生的 Mario 64 iOS 端口，想知道是否有人移植了 Ship of Harkinian？（Ship of Harkinian 是 Zelda Ocarina of Time 的原生开源 PC 端口 - 类似于 Mario64ex） 有可能这样做吗？不幸的是，RetroArch 只能以原生的 20fps 运行游戏 谢谢！    提交人    /u/CertifiedElite   [链接] [评论]]]></description>
+      <description><![CDATA[我最近发现了原生的 Mario 64 iOS 端口，想知道是否有人移植了 Ship of Harkinian？（Ship of Harkinian 是 Zelda Ocarina of Time 的原生开源 PC 端口 - 类似于 Mario64ex） 这样做有可能吗？不幸的是，RetroArch 只能以原生的 20fps 运行游戏 谢谢！    提交人    /u/CertifiedElite   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hulbnn/ship_of_harkinian_ios_port_zelda_ocarina_of_time/</guid>
       <pubDate>Sun, 05 Jan 2025 23:58:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>如何更改应用程序和捆绑包标识符来匹配您的配置文件？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hugz86/how_change_the_app_and_bundle_identifiers_to/</link>
-      <description><![CDATA[您好！我已经通过 esign 下载了 eeveespotify，但诸如点击动态岛或主屏幕、移除 airpod 停止音乐等功能都不起作用。所以我在 eeveespotify 的 github 页面的问题选项卡中看到人们问了同样的问题，开发人员说要更改应用程序和包标识符以使用 SignTools 匹配您的配置文件，但在查看了 SignTools 30 分钟后，我不知道如何使用它。所以有人能帮帮我，告诉我如何更改应用程序和包标识符以匹配您的配置文件吗？    提交人    /u/Kr1m4eto   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我已通过 esign 下载了 eeveespotify，但诸如点击动态岛或主屏幕、移除 airpod 停止音乐等功能均无法使用。因此，我看到在 eeveespotify 的 github 页面的问题选项卡中，人们问了同样的问题，开发人员说要更改应用程序和包标识符以使用 SignTools 匹配您的配置文件，但在查看了 SignTools 30 分钟后，我不知道如何使用它。所以有人能帮助我并告诉我如何更改应用程序和包标识符以匹配您的配置文件吗？    提交人    /u/Kr1m4eto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hugz86/how_change_the_app_and_bundle_identifiers_to/</guid>
       <pubDate>Sun, 05 Jan 2025 20:52:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我自 2024 年 9 月以来一直在使用 signulous 应用，从未要求以其他公司的名义进行“第二次信任”。这次当我尝试更新我的游戏时，我收到了这些警告。有人能告诉我它是否安全吗？    提交人    /u/-v1C_   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hufkt0/signulous_untrusted_enterprice_developer/</guid>
       <pubDate>Sun, 05 Jan 2025 19:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找新的侧装机</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1huexr4/looking_for_a_new_side_loader/</link>
-      <description><![CDATA[我目前在 iPhone 12 上使用 signulous 作为侧载程序。我最近买了一部 16 pro，正在寻找新的侧载程序。我读到 signulous 遇到了一些问题，尽管我没有遇到任何我不想在未来遇到的问题。有哪些不错的侧载选项可能比 signulous 更便宜？    提交人    /u/Content-Lack3611   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1huexr4/looking_for_a_new_side_loader/</guid>
-      <pubDate>Sun, 05 Jan 2025 19:27:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
