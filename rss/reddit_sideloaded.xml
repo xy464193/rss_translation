@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:11:11 GMT</lastBuildDate>
+    <item>
+      <title>Windows 7 上的 UTM 运行良好</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hvml7s/windows_7_on_utm_kinda_works_well/</link>
+      <description><![CDATA[        提交人    /u/__Jonathan0827__   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hvml7s/windows_7_on_utm_kinda_works_well/</guid>
+      <pubDate>Tue, 07 Jan 2025 07:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>18.2.1 侧载安全吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hvlbro/1821_safe_for_sideloading/</link>
+      <description><![CDATA[我今天收到了 15plus 的更新通知，我应该升级到 18.2.1 吗？    提交人    /u/Apprehensive_Car7511   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hvlbro/1821_safe_for_sideloading/</guid>
+      <pubDate>Tue, 07 Jan 2025 06:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>我正在尝试让 Minecraft 1.13 在我的 iPhone 14 上运行</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hvkjgi/im_trying_to_get_minecraft_113_working_on_my/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我今天来这里是因为我无法在 iOS 18.0.1 上使用 Feather 或 Esign。我购买了 signulous。我去了 UDID 注册网站并找到了我的 p12 和 mobileprovision 文件。我通过他们网站上的 signulous ipa 上传部分分别安装了 feather 和 esign。在 feather 上，我设置了一切，甚至启用了在线安装。安装时，它给了我一个通用的无应用程序图标，当我点击它时，它显示“无法安装 xxx。请稍后再试”。我使用的是 wifi，没有 VPN 或类似的东西。在 esign 上，我还导入了我的 p12 和 mobileprovisioning 文件，甚至尝试使用 janky safari 方法进行安装，但遇到了同样的无法安装消息。  一些注意事项 - Feather/Esign 可以毫无问题地导入应用程序 - Feather/Esign 可以毫无问题地签署应用程序 - Feather/Esign 无法在线/离线安装任何应用程序    提交人    /u/nate_w2020   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hv2aoy/feather_and_esign_cant_install_apps_1801/</guid>
       <pubDate>Mon, 06 Jan 2025 15:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hv1re6/need_help/</link>
-      <description><![CDATA[除了 kravasign，还有其他网站提供内存增加且价格实惠的证书吗？（&lt;$10）我正在尝试寻找一个，非常感谢您的帮助。    提交人    /u/BetterWeekend6389   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hv1re6/need_help/</guid>
-      <pubDate>Mon, 06 Jan 2025 15:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 ipaomtk 不起作用？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1huzc3y/why_does_ipaomtk_not_work/</link>
-      <description><![CDATA[我一直习惯从这个网站直接下载，但突然它不让我下载了？我可以下载 ipa 版本，但我想下载直接版本（如果可能的话，不用电脑）    提交人    /u/Puzzled_Belt_5790   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1huzc3y/why_does_ipaomtk_not_work/</guid>
-      <pubDate>Mon, 06 Jan 2025 13:44:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
