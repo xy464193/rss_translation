@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 07 Jan 2025 15:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:13:57 GMT</lastBuildDate>
+    <item>
+      <title>使用自己的开发者证书进行侧载指南？优点和缺点是什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hvwkz2/sideload_guide_using_own_developer_cert_pros_cons/</link>
+      <description><![CDATA[嘿呀，我打算购买自己的 Apple 开发者证书（不通过第三方）。有没有关于如何使用该证书签署 IPA 的指南？此外，与其他方法相比，这样做的优缺点是什么？    提交人    /u/s7mbre   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hvwkz2/sideload_guide_using_own_developer_cert_pros_cons/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hvwj3g/how_to_sideload/</link>
+      <description><![CDATA[嗨，我最近才学会了如何侧载，所以我想问一下有什么技巧或者我应该知道的，谢谢    提交人    /u/FlamingVoiddy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hvwj3g/how_to_sideload/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esign 无法安装应用程序 18.2</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hvvze8/esign_cant_install_apps_182/</link>
+      <description><![CDATA[      使用从 dxsign 购买的证书，我在 iOS 18.2 上使用 Esign 时遇到了一个奇怪的问题。 我在“LAN HTTP 地址”处收到以下信息：“请连接到 WiFi” （中文），即使启用了 WiFi 也是如此。 我从 sideload.wiki/guides/esign 下载了 Esign，并在 ipa.ipasign.cc/ 上在线签名，所以我无法继续。 奇怪的是，我设法让 Esign 工作了。怎么做到的？通过激活手机热点。然后，在 Esign 中，信息确实出现在“个人热点 HTTP 地址”中。我复制了 URL，我可以通过该 URL 安装。但是，我不知道为什么 Esign 检测不到我的 LAN HTTP 地址。  有人遇到过同样的问题吗？ https://preview.redd.it/xgr2548frlbe1.png?width=287&amp;format=png&amp;auto=webp&amp;s=f2535b772472c5f4693b9c391cbaf8d9ffb2443c    提交人    /u/Successful-Rice-7517   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hvvze8/esign_cant_install_apps_182/</guid>
+      <pubDate>Tue, 07 Jan 2025 16:58:18 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚购买了开发者账号 - 下一步该做什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hvugr6/just_bought_a_developer_account_what_to_do_next/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>付费证书 25-30 个名额</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hvse3y/paid_cert_2530_slots/</link>
-      <description><![CDATA[嘿，我想购买自己的开发帐户，并附带 100 个证书，但由于频繁撤销，我只想填补 25 个空缺，最多 30 个，包括我自己。有人感兴趣吗？我知道我以前没有销售证书的记录，但我只是想问一下是否有人对此感兴趣？ 编辑：1. 证书最高 10 美元 2. discord 上将有一个小组供所有人交流 3. 这将附带撤销保护 编辑 2：1. 这些不会是终身证书    提交人    /u/Hexter_   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我想购买自己的开发帐户，并附带 100 个证书，但由于频繁撤销，我只希望填补 25 个位置，最多 30 个，包括我自己。有人感兴趣吗？我知道我以前没有销售证书的记录，但我只是想问一下是否有人对此感兴趣？ 编辑：  证书最高价格为 10 美元 在 discord 上将有一个小组用于所有交流 这将附带撤销保护  编辑 2：  这些不会是终身证书  编辑 3：权利：到目前为止，经过一番研究，我了解到 CarPlay 和 HealthKit 权利必须得到 Apple 的明确批准，因此我无法提供这些权利，但除此之外，我认为所有权利都会在那里，如果您需要特定的权利，请直接发信息给我，我会调查的。  编辑 4：成本明细：   我到处都看到（基本上包括 reddit），人们建议每个帐户只花 20 元 我不是美国人，将使用其他货币，会有兑换率 我想将剩余的钱加到撤销保护中 如果更多人感兴趣，剩余金额将用于购买单独帐户。     提交人    /u/Hexter_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hvse3y/paid_cert_2530_slots/</guid>
       <pubDate>Tue, 07 Jan 2025 14:18:02 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我今天收到了 15plus 的更新通知，我应该升级到 18.2.1 吗？    提交人    /u/Apprehensive_Car7511   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hvlbro/1821_safe_for_sideloading/</guid>
       <pubDate>Tue, 07 Jan 2025 06:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试让 Minecraft 1.13 在我的 iPhone 14 上运行</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvkjgi/im_trying_to_get_minecraft_113_working_on_my/</link>
-      <description><![CDATA[我有一部运行 iOS 18 的基本型号 iPhone 14，我尝试使用 alt store 安装 Minecraft 1.13 或更低版本，但它们一直崩溃。我不知道该怎么办。我不知道如何解决这样的问题。    提交人    /u/WarmSeaworthiness625   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvkjgi/im_trying_to_get_minecraft_113_working_on_my/</guid>
-      <pubDate>Tue, 07 Jan 2025 05:36:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>WIZZ IPA问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvih8w/wizz_ipa_issue/</link>
-      <description><![CDATA[我尝试下载 wizz，因为它在我的国家不可用，所以我登录了 altstore 并获得了我能找到的适用于 wizz 的最新 IPA，大约 25 天前。我下载后一切都很顺利，直到我必须验证我的脸，它每次都会自动拒绝我。我该如何解决这个问题？    提交人    /u/Aggravating_Radio689   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvih8w/wizz_ipa_issue/</guid>
-      <pubDate>Tue, 07 Jan 2025 03:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序不断要求我输入 Apple ID。如何解决？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvfye5/app_keeps_asking_me_for_apple_id_how_to_fix/</link>
-      <description><![CDATA[我正在使用 ESign + DNS 服务器来阻止应用程序撤销，以便在我的手机上侧载应用程序。它们都有效，但有些每次打开应用程序时都会提示我输入我的 Apple ID。  有什么方法可以停止/修复这个问题吗？  Apple ID 提示    提交人    /u/CoolstarLikesHentai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvfye5/app_keeps_asking_me_for_apple_id_how_to_fix/</guid>
-      <pubDate>Tue, 07 Jan 2025 01:33:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
