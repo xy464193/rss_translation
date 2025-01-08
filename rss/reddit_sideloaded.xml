@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:13:41 GMT</lastBuildDate>
+    <item>
+      <title>首次侧载</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hwouzb/first_time_sideloading/</link>
+      <description><![CDATA[正如标题所说，这是我第一次侧载，不知道从哪里开始或使用什么，我真的只想要免费的 spotify premium 和 youtube，没有广告，这就是全部。我可以使用电脑，所以那里不会有问题。请告诉我，谢谢 :) 编辑：虽然我会补充说我在 ios 18.2.1 上    提交人    /u/alyffff46   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hwouzb/first_time_sideloading/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装/卸载实际的 spotify 后 spotify ipa 将无法使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hwokgz/spotify_ipa_wont_work_after/</link>
+      <description><![CDATA[前几天，我卸载了破解的 spotify（使用 altstore 和 ipa 文件，它一直运行良好），并安装了普通的免费 spotify，但当我卸载它并尝试重新安装 ipa 版本时，它仍然是免费版本。问题是，它还弹出消息“感谢您安装”和类似电报链接，这意味着它确实安装了 ipa 版本。为什么会这样，我该如何解决这个问题？    提交人    /u/proelefsiis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hwokgz/spotify_ipa_wont_work_after/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载应用程序时“版本”设置有什么意义</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hwnwzc/what_is_the_point_of_the_version_setting_while/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但每次我看到它时都不知道它是做什么用的，你不可能用它来更新应用程序（你能吗，我不知道😭）    由   提交  /u/kanye_s0uth   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hwnwzc/what_is_the_point_of_the_version_setting_while/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideJIt 服务器问题 (IOS 18+MacOS 15.3</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hwn2vm/issues_with_sidejit_server_ios_18macos_153/</link>
+      <description><![CDATA[我正在遵循 SideJIT Server 的指南。我已经安装了所有内容，但在启动服务器的步骤中我看到了这些错误： /Users/hernan/Downloads/SideJITServer-1.4.2/venv/lib/python3.10/site-packages/websockets/legacy/init.py:6: DeprecationWarning: websockets.legacy 已弃用；有关升级说明，请参阅 https://websockets.readthedocs.io/en/stable/howto/upgrade.html warnings.warn( # 在 14.0 - 2024-11-09 中已弃用 /Users/hernan/Downloads/SideJITServer-1.4.2/venv/lib/python3.10/site-packages/uvicorn/protocols/websockets/websockets_impl.py:17: DeprecationWarning: websockets.server.WebSocketServerProtocol 已弃用 from websockets.server import WebSocketServerProtocol INFO: 已启动服务器进程 [47687] INFO: 正在等待应用程序启动。INFO: 应用程序启动完成。INFO: Uvicorn 正在运行 http://127.0.0.1:49151（按 CTRL+C 退出）尝试配对设备！（按 Ctrl+C 停止）[MuxDevice(devid=3662, serial=&#39;00008140-000C719A0C0B001C&#39;, connection_type=&#39;USB&#39;)] 继续吗？[y/N]: (venv) MacBookPro:SideJITServer-1.4.2 hernan$  在继续命令之后，它跳转得太快，我无法按“y” 我之前也看到一些关于 websockets 的警告，我尝试使用 chatgpt 来帮助我更新这些，但它仍然不允许我启动服务器，有什么帮助吗？   由    /u/hernan078  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hwn2vm/issues_with_sidejit_server_ios_18macos_153/</guid>
+      <pubDate>Wed, 08 Jan 2025 15:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我（尝试安装 sidestore）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hwmsl9/help_me_try_to_install_sidestore/</link>
+      <description><![CDATA[      😭😭    由   提交  /u/_solly1402   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hwmsl9/help_me_try_to_install_sidestore/</guid>
+      <pubDate>Wed, 08 Jan 2025 15:30:18 GMT</pubDate>
+    </item>
     <item>
       <title>SwaggyP3600 ALT 商店网址</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hwek8w/swaggyp3600_alt_store_url/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿 r/sideloaded 我和我的朋友目前正在运行一个证书服务，并且以几美元的价格出售开发证书。 几天前我们开始了这项服务，因为我的朋友为一个苹果开发者账户付费，想要拿回钱，因为它有点贵，我同意帮助他销售证书，因为我会得到分成，这将是我唯一的赚钱方式（我 15 岁，他 25 岁） 我们的价格是 10 美元（开发证书 &lt;48 小时交付）和 12 美元（开发证书 &lt;18 小时交付） 如果您有任何疑问，请在 reddit 或 discord 上给我留言：aatam1。 祝你有美好的一天！ 编辑：我忘了说一下，在写这篇文章之前我们已经有 2 位客户了，两位客户都对我们的服务非常满意。    提交人    /u/aatamino   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hvz4th/selling_certs/</guid>
       <pubDate>Tue, 07 Jan 2025 19:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Movieboxpro 应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvyxw8/movieboxpro_app/</link>
-      <description><![CDATA[有人能帮我提供代码吗？ 谢谢     提交人    /u/International_Bed152   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvyxw8/movieboxpro_app/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>越狱后解密的 ipas 会过时吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvy2mm/decrypted_ipas_once_jailbreak_becomes_obsolete/</link>
-      <description><![CDATA[一旦最后一个越狱的 iOS 过时，侧载社区究竟会做什么？据我所知，唯一可以越狱且稍微更新的设备是第 7 代 iPad。而且由于解密 ipas 只能在越狱设备上进行，这是否意味着整个修补过的 ipa 经济在某个时候将不复存在或只包含过时的应用程序？    提交人    /u/ihatenamehoggers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvy2mm/decrypted_ipas_once_jailbreak_becomes_obsolete/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>收到付费证书后该怎么办？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvy2g6/what_to_do_after_got_my_paid_certificate/</link>
-      <description><![CDATA[大家好，我是这个社区的新成员，我对侧载很感兴趣。我收到了付费证书。所以，请问一下，我需要一些答案：我需要使用 DNS 吗？启用开发者模式是强制性的吗？使用 Fleckstore 等实时签名工具好还是下载 ESIGN 或 FEATHER 更好？再次感谢您的帮助。    提交人    /u/Sizzeryousifw   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvy2g6/what_to_do_after_got_my_paid_certificate/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kravasign 和来源</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvxv6a/kravasign_and_sources/</link>
-      <description><![CDATA[嗨，我有 kravasign，但添加源非常困难，我尝试了 feather，但我永远无法安装 Notting     提交人    /u/Gongassrochaa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvxv6a/kravasign_and_sources/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用自己的开发者证书进行侧载指南？优点和缺点是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hvwkz2/sideload_guide_using_own_developer_cert_pros_cons/</link>
-      <description><![CDATA[嘿呀，我打算购买自己的 Apple 开发者证书（不通过第三方）。有没有关于如何使用该证书签署 IPA 的指南？此外，与其他方法相比，这样做的优缺点是什么？    提交人    /u/s7mbre   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hvwkz2/sideload_guide_using_own_developer_cert_pros_cons/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:22:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
