@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 09 Jan 2025 06:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 12:19:20 GMT</lastBuildDate>
+    <item>
+      <title>我的设备只有 TrollStore，并且我关闭了 URL 方案</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</link>
+      <description><![CDATA[        提交人    /u/Tuchelsunderwear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</guid>
+      <pubDate>Thu, 09 Jan 2025 11:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不受支持的设备上玩 Tropico？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</link>
+      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。” 因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:33:40 GMT</pubDate>
+    </item>
     <item>
       <title>如何伪造 iOS 版本从 Appstore 下载应用程序</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hwb2se/how_to_spoof_ios_version_to_download_app_from/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>有地方对 troll 安装程序进行签名吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</link>
-      <description><![CDATA[有没有地方可以在没有电脑的情况下对 tix（troll installer x）进行签名？    提交人    /u/Dry-Association-387   [link] [comments]]]></description>
+      <description><![CDATA[有没有地方可以在没有电脑的情况下对 tix（troll installer x）进行签名？    提交人    /u/Dry-Association-387   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</guid>
       <pubDate>Mon, 06 Jan 2025 23:36:01 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>TrollStore Lite 如何在 IOS/IPADOS 17.0+ 上使用？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hucchb/how_is_trollstore_lite_available_on_iosipados_170/</link>
-      <description><![CDATA[      TrollStore 可以安装的最新版本是 IOS/IPADOS 17.0。 但是对于 TrollStore Lite，您可以将其安装到 IOS/IPADOS 17.6.1 为止？ 这怎么可能呢？TrollStore Lite 不是也基于 CoreTrust 漏洞吗？ CoreTrust 漏洞不是在 IOS/IPADOS 17.0+ 上不可用吗？ 甚至在网站上也说 TrollStore 永远不会在 IOS/IPADOS 17.0.1 或更新版本上受支持。    提交人    /u/Valorant_Steve   [链接] [评论] ]]></description>
+      <description><![CDATA[      TrollStore 可以安装的最新版本是 IOS/IPADOS 17.0。 但是对于 TrollStore Lite，您可以将其安装到 IOS/IPADOS 17.6.1 为止？ 这怎么可能呢？TrollStore Lite 不是也基于 CoreTrust 漏洞吗？ CoreTrust 漏洞不是在 IOS/IPADOS 17.0+ 上不可用吗？ 甚至在网站上也说 TrollStore 永远不会支持 IOS/IPADOS 17.0.1 或更新版本。    提交人    /u/Valorant_Steve   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hucchb/how_is_trollstore_lite_available_on_iosipados_170/</guid>
       <pubDate>Sun, 05 Jan 2025 17:37:39 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      我使用的是 iOS 16.3.1，我想在 Apple Pay 中添加一张卡，然后收到一条消息，提示我需要更新我的设备。使用 trollbox 欺骗我的 iOS 版本安全吗？    由    /u/Key-Research9751  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hqm9du/ios_version_spoofing/</guid>
       <pubDate>Tue, 31 Dec 2024 19:37:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试侧载安装程序时不断出现此问题</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hqjek0/keep_getting_this_while_trying_to_sideload_the/</link>
-      <description><![CDATA[      我使用的是 16.61    由   提交  /u/Ok_Refrigerator343   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hqjek0/keep_getting_this_while_trying_to_sideload_the/</guid>
-      <pubDate>Tue, 31 Dec 2024 17:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>羽毛</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hor2yb/feather/</link>
-      <description><![CDATA[      没有证书可以使用feather吗？我想试试feather，但是因为没有证书而出现这个错误。使用 esign 我可以将任何 dylib 放入应用程序中，然后分享到 trollstore。    提交人    /u/ltsscoop   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hor2yb/feather/</guid>
-      <pubDate>Sun, 29 Dec 2024 07:39:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
