@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:49:19 GMT</lastBuildDate>
+    <item>
+      <title>有关已修改 .ipa 文件的帮助</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</link>
+      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复此问题？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>我的设备只有 TrollStore，并且我关闭了 URL 方案</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>如何在不受支持的设备上玩 Tropico？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</link>
-      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。” 因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。”因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</guid>
       <pubDate>Thu, 09 Jan 2025 07:33:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我使用的是 iOS 15.4 iPhone 12 Pro。我通过 trollstore 安装的许多应用程序都崩溃了。我从 iOSgods 下载了所有应用程序。我没有启用开发者模式的选项。有什么解决办法吗？    提交人    /u/jyjy33   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hr4wop/apps_crash/</guid>
       <pubDate>Wed, 01 Jan 2025 15:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 版本欺骗</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hqm9du/ios_version_spoofing/</link>
-      <description><![CDATA[      我使用的是 iOS 16.3.1，我想在 Apple Pay 中添加一张卡，然后收到一条消息，提示我需要更新我的设备。使用 trollbox 欺骗我的 iOS 版本安全吗？    由    /u/Key-Research9751  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hqm9du/ios_version_spoofing/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,27 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:49:27 GMT</lastBuildDate>
     <item>
-      <title>E 标志被取下来了？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxnbt6/e_sign_taken_down/</link>
-      <description><![CDATA[无法打开任何应用程序，网站已被删除     由    /u/juxt_haon 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxnbt6/e_sign_taken_down/</guid>
-      <pubDate>Thu, 09 Jan 2025 21:08:49 GMT</pubDate>
+      <title>新回购！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hxrpy0/new_repo/</link>
+      <description><![CDATA[大家好，这是我的 repo。 复制链接并将其粘贴到 feather/esign/scarlet/altstore！ 我会尽可能多地更新它。 谢谢大家。    提交人    /u/black_flame1700   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hxrpy0/new_repo/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装 YTlitePlus 时出现问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hxqh4w/problems_installing_ytliteplus/</link>
+      <description><![CDATA[我从 https://github.com/YTLitePlus/YTLitePlus 下载了 ipa，所以我没有自己编译它。我在 LiveContainer 中安装了 ipa。一切顺利。当我尝试打开它时，YTliteplus 似乎启动了（黑屏），但随后 LiveContainer 再次打开。LiveContainer 中的其他程序运行正常。  当我第一次安装 ipa 时，原始 YT 应用程序仍安装在那里。我删除了原始应用程序和 YTLiteplus。我重启了手机并再次安装了 ipa，但结果还是一样。即使使用新下载的 ipa，我也遇到了同样的问题。  有人能帮帮我吗？    提交人    /u/XvederX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hxqh4w/problems_installing_ytliteplus/</guid>
+      <pubDate>Thu, 09 Jan 2025 23:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，需要帮助！Scarlet</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hxpl4x/hi_need_help_scarlet/</link>
+      <description><![CDATA[今天我通过电脑（我朋友的电脑，因为我没有）安装了 scarlet，现在尝试安装 ipa 文件 scarlet 弹出消息无法侧载搜索 wifi 设备有没有办法在没有 CPU 的情况下修复？请    提交人    /u/Exact-Temperature747   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hxpl4x/hi_need_help_scarlet/</guid>
+      <pubDate>Thu, 09 Jan 2025 22:47:37 GMT</pubDate>
     </item>
     <item>
       <title>MyHub 1.5 现已推出！</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[有人真的可以制作一个像 Town of us 一样带有额外角色的 Among us 模组吗……或者制作一个包含 7 个以上选项的主机模组菜单。亲自解锁所有内容很无聊，skeld.net 已经过时了。    由    /u/SeanOnReddit_  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hxl46a/request_to_the_developers/</guid>
       <pubDate>Thu, 09 Jan 2025 19:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序无法安装</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxiyj7/apps_wont_install/</link>
-      <description><![CDATA[几个月前我购买了一个证书，几周前一直在 esign 上签名。签署应用程序后，我单击“安装”，但什么也没发生。大约 20 秒后，我收到一个弹出窗口，告诉我通过蜂窝网络下载，或者稍后通过 WiFi 下载。无论是在蜂窝网络上还是在使用 WiFi 时，都会发生这种情况。如果我选​​择下载，我的应用程序库中就会出现一个空的黑框    提交人    /u/Senior_Ad_6070   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxiyj7/apps_wont_install/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:04:44 GMT</pubDate>
     </item>
     <item>
       <title>iPhoneX 上的 uYouEnhanced</title>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 09 Jan 2025 12:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 提供下载功能</title>
+      <title>Spotify 提供下载服务</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hx6j3h/spotify_with_downloads/</link>
       <description><![CDATA[有没有 ipa 或者 spotify、eevee spotify、spotube 等的替代品可以下载歌曲？我知道 spotube 可以，但是它有很多 bug，我甚至无法下载一首歌曲。    提交人    /u/AdOne5148   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hx6j3h/spotify_with_downloads/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[为什么 Instagram 链接无法在修改后的 IPA 版本应用程序中打开？我认为这是因为 BundleID，对吗？有什么办法可以解决这个问题吗？    提交人    /u/Wendell_S   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hwvplv/instagram_link_open/</guid>
       <pubDate>Wed, 08 Jan 2025 21:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoundCloud Google 登录错误？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hwvm0h/soundcloud_google_login_error/</link>
-      <description><![CDATA[        提交人    /u/aspiringNoob   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hwvm0h/soundcloud_google_login_error/</guid>
-      <pubDate>Wed, 08 Jan 2025 21:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
