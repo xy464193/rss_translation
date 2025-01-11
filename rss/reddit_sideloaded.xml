@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 10 Jan 2025 18:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:47:47 GMT</lastBuildDate>
+    <item>
+      <title>帮助查找 IPA 文件</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hyjfdv/help_finding_an_ipa_file/</link>
+      <description><![CDATA[      嗨，我知道这是一个遥远的猜测，但我想还是问一下，以防有人能帮忙。我最近找到了我的旧 iphone 4s，但它被抹掉了，我想重玩一些我小时候玩过的老游戏。我找不到《警察与强盗》，有一款现代游戏，是一款 3D 像素游戏，但这不是我要找的，我要找的是这个（见附图）。它更像是一款老游戏，比我现在找到的更接近《地铁跑酷》。任何有关寻找可在 ios 9 上运行的 ipa 的帮助都将不胜感激。 https://preview.redd.it/w5yrhabwd9ce1.png?width=100&amp;format=png&amp;auto=webp&amp;s=08ffd243a5b26be84a8061454ff337ebadfcf09e https://preview.redd.it/2zd6vzjxd9ce1.png?width=320&amp;format=png&amp;auto=webp&amp;s=4897c254eb9c16b4720b280e586f99d3fc97df8d    提交人    /u/Ritvikisalive   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hyjfdv/help_finding_an_ipa_file/</guid>
+      <pubDate>Sat, 11 Jan 2025 00:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何开始？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hyhhgf/how_do_i_start/</link>
+      <description><![CDATA[我通常不使用 iPhone，但我读到 Xcom2 在 iPhone 上运行得很好。我手头有一部 iPhone 10，我想试试，但我不确定是否要侧载或越狱，我是否必须在 X 段时间后定期重做这个过程？    提交人    /u/SDG2008   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hyhhgf/how_do_i_start/</guid>
+      <pubDate>Fri, 10 Jan 2025 22:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Md 乙烯基</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hygytn/md_vinyl/</link>
+      <description><![CDATA[有人找到适用于 iOS 18 的 Md 乙烯基高级版本吗？    提交人    /u/RecognitionThin912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hygytn/md_vinyl/</guid>
+      <pubDate>Fri, 10 Jan 2025 22:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，我是新来的</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hygbb8/hey_so_im_new/</link>
+      <description><![CDATA[我想在我的 IOS 上修改 Archero 2，但之前从未这样做过，尝试用谷歌搜索，但我得到的只是“在谷歌上搜索我们，然后从 AppStore 下载一些游戏，然后你就没事了”我搜索了一下，找到了一个叫 altstore 的东西，但它真的很复杂，我不知道如何安装它。我可以得到一些关于如何操作的帮助吗？PS 我的 iPhone 是最新更新的 14，如果这有区别的话     提交人    /u/Safe-Gate-8779   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hygbb8/hey_so_im_new/</guid>
+      <pubDate>Fri, 10 Jan 2025 22:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>SideJITServer for Windows 操作方法，已测试并正常运行！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hyg18j/sidejitserver_for_windows_howto_tested_and_working/</link>
+      <description><![CDATA[https://pastebin.com/raw/aa13b7Jw 适用于 Windows 的 SideJITServer 1.4.2 指南 按照这些分步说明在 Windows 上设置和使用 SideJITServer 1.4.2。 1. 安装 Python 从官方网站下载并安装 Python： https://www.python.org/downloads/ 2.安装 PIP 打开命令提示符并运行以下命令以确保 PIP 已安装： python -m Ensurepip --upgrade 3. 下载 SideJITServer https://github.com/nythepegasus/SideJITServer/releases/tag/1.4.2 下载 SideJITServer 的最新源代码 zip 文件。 4. 解压缩下载的 SideJITServer zip 文件 解压缩下载的 zip 文件。它将创建一个名为 SideJITServer-1.4.2 的目录。 将此目录放在您喜欢的任何位置（例如，C:\Temp\）。 5. 切换到目录 打开命令提示符并导航到目录： cd C:\Temp\SideJITServer-1.4.2 6. 设置虚拟环境 逐个运行以下命令： python -m venv venv .\venv\Scripts\Activate.bat pip3 install -r requirements.txt pip3 install SideJITServer 7.配对您的 iPhone 通过 USB 将您的 iPhone 连接到 PC 并确保它已解锁。 在命令提示符中，键入以下内容： SideJITServer --pair 出现提示时： 选择“y”并按 Enter 配对您的 iPhone。 在您的 iPhone 上，点击“信任”以允许配对。 当您的 UUID 出现在屏幕上时，记下它 8.安装快捷方式 安装此 iCloud 快捷方式： https://www.icloud.com/shortcuts/b0ffc9c3f0e74e7a8f8052c89fa322cf 在快捷方式设置中，提供： SideJITServer IP 和端口：使用 http://ipofsidejitserver:8080 UUID：输入之前记下的 UUID。 9.配置完成后再次运行 SideJITServer 设置后启动 SideJITServer： 打开命令提示符并切换到目录： cd C:\Temp\SideJITServer-1.4.2 使用以下命令激活虚拟环境并运行服务器： python -m venv venv .\venv\Scripts\Activate.bat SideJITServer 故障排除 ================ 有时，当您尝试启动应用程序以激活 JIT 时，您可能会收到连接错误 试试这个。在 safari 中导航至 http://ipofsidejitserver:8080 确认服务器正在运行。 如果已刷新，请尝试访问 http://ipofsidejitserver:8080/re 应该显示已刷新 然后尝试通过快捷方式启动应用程序。    提交人    /u/MightyWolf39   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hyg18j/sidejitserver_for_windows_howto_tested_and_working/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有mb代码吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hydwic/any_yns_got_mb_codes/</link>
+      <description><![CDATA[查看标题    提交人    /u/BeanBurritoNetwork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hydwic/any_yns_got_mb_codes/</guid>
+      <pubDate>Fri, 10 Jan 2025 20:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何删除这个 DNS？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hybch5/how_do_i_delete_this_dns/</link>
+      <description><![CDATA[      我的侧载应用程序今天停止工作（侧载应用程序说它们不再可用），我认为这是因为我的 dns。但是我无法删除我的 dns 以再次安装，并且我尝试的每个证书都给我“无法验证完整性”弹出窗口    由   提交  /u/burner_acc1509   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hybch5/how_do_i_delete_this_dns/</guid>
+      <pubDate>Fri, 10 Jan 2025 18:34:42 GMT</pubDate>
+    </item>
     <item>
       <title>Ticktick 不工作</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hy68ws/ticktick_not_working/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>被 Kamo 黑客骗走</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hy4vkk/scammed_by_kamo_hacks/</link>
-      <description><![CDATA[我于 11 月 16 日从 Kamo Hacks（据说由名为 Ravand Bajlory 的模组制作者运营的一个组织）购买了付费证书。我于 11 月 20 日收到了证书，但该证书于 11 月 21 日被撤销。在与他联系 5 天后，他声称 Apple 撤销了所有证书。我按照建议等了 15-20 天，但之后没有收到任何回复。现在已经过去一个多月了，尽管我尝试联系 Ravand 和页面所有者 Hex，但我没有收到任何更新或帮助。  在从他们那里购买之前要小心——一旦他们拿到了你的钱，他们就不会费心去帮助或更新你了。    提交人    /u/iamemoguy   [链接] [评论]]]></description>
+      <description><![CDATA[我于 11 月 16 日从 Kamo Hacks（据说由名为 Ravand Bajlory 的模组制作者运营的一个组织）购买了付费证书。我于 11 月 20 日收到了证书，但该证书于 11 月 21 日被撤销。在与他联系 5 天后，他声称 Apple 撤销了所有证书。我按照建议等了 15-20 天，但之后没有收到任何回复。现在已经过去了一个多月，尽管我尝试联系 Ravand 和页面所有者 Hex，但我没有收到任何更新或帮助。  在从他们那里购买之前要小心——一旦他们拿到了你的钱，他们就不会费心去帮助或更新你了。    提交人    /u/iamemoguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hy4vkk/scammed_by_kamo_hacks/</guid>
       <pubDate>Fri, 10 Jan 2025 13:53:53 GMT</pubDate>
     </item>
@@ -48,7 +97,7 @@
       <pubDate>Fri, 10 Jan 2025 12:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>请提供 MovieBoxPro 邀请码？</title>
+      <title>请提供 MovieBoxPro 邀请码吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hy334k/movieboxpro_invitation_code_please/</link>
       <description><![CDATA[有人能给我 MovieBoxPro 邀请码吗？    提交人    /u/LopsidedInterest8473   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hy334k/movieboxpro_invitation_code_please/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[基本上就是标题。我尝试安装的每个包含音乐的游戏或应用程序（Spotify 和 Deezer 除外）实际上在每次使用该应用程序时都不会播放。这是正常的吗？    由   提交  /u/MomTales   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hy2kye/sound_not_working_in_livecointainer/</guid>
       <pubDate>Fri, 10 Jan 2025 11:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>禁用 iPhone 侧载游戏模式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hy1w78/disable_gaming_mode_iphone_sideload/</link>
-      <description><![CDATA[伙计们，你们知道如何解决这个问题吗？在 iOS 18 上，所有侧载应用总是以游戏模式启动，总是会出现烦人的 GM 弹出窗口……谢谢     提交人    /u/chillhouse007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hy1w78/disable_gaming_mode_iphone_sideload/</guid>
-      <pubDate>Fri, 10 Jan 2025 10:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将侧载应用程序“转换”为正常的 App Store 安装？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hy0sg6/is_it_possible_to_convert_sideloaded_apps_to/</link>
-      <description><![CDATA[我目前在这里侧载了 Shadow Fight 2（未修改版）。由于我找不到合适的作弊方法 + 缺少用于 Raids 等内容的 Game Center 功能，所以我想以合法方式重新安装它。问题是，是否可以在保持游戏保存完好的情况下这样做？    提交人    /u/sonphantrung   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hy0sg6/is_it_possible_to_convert_sideloaded_apps_to/</guid>
-      <pubDate>Fri, 10 Jan 2025 09:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将侧载应用程序“转换”为正常的 App Store 安装？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hy0sfp/is_it_possible_to_convert_sideloaded_apps_to/</link>
-      <description><![CDATA[我目前在这里侧载了 Shadow Fight 2（未修改版）。由于我找不到合适的作弊方法 + 缺少用于 Raids 等内容的 Game Center 功能，所以我想以合法方式重新安装它。问题是，是否可以在保持游戏保存完好的情况下这样做？    提交人    /u/sonphantrung   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hy0sfp/is_it_possible_to_convert_sideloaded_apps_to/</guid>
-      <pubDate>Fri, 10 Jan 2025 09:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧面装载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxznta/side_loading/</link>
-      <description><![CDATA[我需要帮助寻找一款优质侧载程序，无需付费，也不需要电脑，因为我感到无聊，需要做一些新鲜有趣的事情来做     提交人    /u/SharpCelebration7321   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxznta/side_loading/</guid>
-      <pubDate>Fri, 10 Jan 2025 08:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以我有了一个想法，可以实现无限免费 Apple Arcade</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxziez/so_i_had_an_idea_for_unlimited_free_apple_arcade/</link>
-      <description><![CDATA[因此，对于那些要说侧载的人来说，一些应用程序只能离线工作，在我看来，这是愚蠢的。所以你知道如何阻止苹果服务器，这样他们就不能把你列入黑名单，如果我们对街机订阅这样做，它会起作用吗？    提交人    /u/TypicalLab7370   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxziez/so_i_had_an_idea_for_unlimited_free_apple_arcade/</guid>
-      <pubDate>Fri, 10 Jan 2025 07:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是两天内第二次 Esign 被撤销</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxz3lf/thats_2nd_time_esign_got_revoked_in_2_days/</link>
-      <description><![CDATA[请注意，我已经设置了拒绝列表，并且我是移动数据用户，从未使用过 wifi 或 vpn，因为从不需要，错误在哪里？我遗漏了什么吗？救命！！    提交人    /u/Prestigious-Guide-61   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxz3lf/thats_2nd_time_esign_got_revoked_in_2_days/</guid>
-      <pubDate>Fri, 10 Jan 2025 07:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>禁令解除后，侧载的 Tiktok 修改版本还能使用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hxxmnh/will_sideloaded_modded_versions_of_tiktok_still/</link>
-      <description><![CDATA[所以从现在开始，我认为 Tiktok 将在 1 月 19 日左右在美国被禁止。我的问题是，禁令之后，我通过 Esign 下载到手机上的 tiktok 修改版是否还能用，还是我必须为此获取 vpn？    提交人    /u/Delilahh12345   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hxxmnh/will_sideloaded_modded_versions_of_tiktok_still/</guid>
-      <pubDate>Fri, 10 Jan 2025 05:45:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
