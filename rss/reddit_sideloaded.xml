@@ -4,20 +4,41 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:08:30 GMT</lastBuildDate>
+    <item>
+      <title>使用 Apollo 打开 Reddit 链接</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hz5kwc/open_reddit_links_with_apollo/</link>
+      <description><![CDATA[花了一些时间解决这个问题，想分享我的解决方案 点击链接后直接打开（需要越狱）  安装 Evil Scheme（https://0xkuj.yourepo.com/）。 查找 Tweak Bundle ID（可以使用 Filza 或其他方式） 转到设置中的 Evil Scheme 首选项 添加新 --&gt; 选择 Apollo 预设 更改“新 Bundle ID”到您正在使用的 Apollo IPA 的 Bundle ID（如果您自行注入了 ICA，请保留默认值） 在 Evil Scheme 的主要首选项中，单击右上角的应用 下载常规 Reddit 应用程序，只需安装即可，不必使用它。  想要选择留在 Safari 或转到 Apollo https://github.com/AnthonyGress/Open-In-Apollo    提交人    /u/WhatTheOnEarth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hz5kwc/open_reddit_links_with_apollo/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>SwaggyP36000 重新上线了吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hz5dig/swaggyp36000_back_online/</link>
+      <description><![CDATA[https://github.com/swaggyP36000/TrollStore-IPAs    由   提交  /u/quantumwebb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hz5dig/swaggyp36000_back_online/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uyou已停止工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hz51wa/uyou_stopped_working/</link>
+      <description><![CDATA[有人有链接吗？    提交人    /u/HalfBoyHalfGhost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hz51wa/uyou_stopped_working/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有 Minecraft 1.0.0 的破解版 32 位 ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hz3v4h/does_anyone_have_a_cracked_32bit_ipa_for/</link>
+      <description><![CDATA[我有一部旧的 iPhone 5，我想在上面玩 Minecraft 并通关，但是我目前拥有的版本是 alpha 0.16.1，没有结局。    提交人    /u/VIVAAN-98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hz3v4h/does_anyone_have_a_cracked_32bit_ipa_for/</guid>
+      <pubDate>Sat, 11 Jan 2025 19:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>游戏 ipas 的安全网站吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hz0x2j/safe_sites_for_game_ipas/</link>
       <description><![CDATA[我不确定要使用哪一个。顺便问一下，不安全的网站在 iOS 还是 Android 上更危险？    提交人    /u/SDG2008   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hz0x2j/safe_sites_for_game_ipas/</guid>
       <pubDate>Sat, 11 Jan 2025 17:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 minecraft 1.0 的破解版 32 位 ipa 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hz0har/does_anyone_have_a_cracked_32bit_ipa_for/</link>
-      <description><![CDATA[我有一部旧的 iPhone 5，我想安装 Minecraft，但我能找到的唯一破解的 32 位 ipa 是 Minecraft alpha 0.14。    提交人    /u/VIVAAN-98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hz0har/does_anyone_have_a_cracked_32bit_ipa_for/</guid>
-      <pubDate>Sat, 11 Jan 2025 17:08:38 GMT</pubDate>
     </item>
     <item>
       <title>还有人有 vsco Lion 吗？不幸的是，github 上的 mega 下载已关闭。</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[发现实际上不允许下载我自己的播放列表中的歌曲(?) 但不知何故我下载了一个播放列表中的 95 首歌曲和另一个播放列表中的 12 首歌曲，而昨天它们竟然不见了。是的，我可以下载播客，那么发生了什么？    提交人    /u/Masp4444   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hypzta/eevee_spotify_downloaded_songs_not_working_anymore/</guid>
       <pubDate>Sat, 11 Jan 2025 06:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子签名已停止工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hyo32h/esign_stopped_working/</link>
-      <description><![CDATA[我按照 pureenvious 的指南安装了 esign，并且成功了，所以我昨天安装了 balatro 并玩了一会儿。 今天当我再次尝试打开它时，它没有打开，所以当我检查时，应用程序再次未经验证。我尝试通过电子签名再次导入相同的证书，我仍然可以打开。我曾在这个 subreddit 的某处读到，如果发生这种情况，可以通过强制重启来修复，但现在我也无法打开电子签名。我正在像教程中一样使用 NextDNS。有什么修复方法吗？    提交人    /u/alan_028   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hyo32h/esign_stopped_working/</guid>
-      <pubDate>Sat, 11 Jan 2025 04:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助查找 IPA 文件</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hyjfdv/help_finding_an_ipa_file/</link>
-      <description><![CDATA[      嗨，我知道这是一个遥远的猜测，但我想还是问一下，以防有人能帮忙。我最近找到了我的旧 iphone 4s，但它被抹掉了，我想重玩一些我小时候玩过的老游戏。我找不到《警察与强盗》，有一款现代游戏，是一款 3D 像素游戏，但这不是我要找的，我要找的是这个（见附图）。它更像是一款老游戏，比我现在找到的更接近《地铁跑酷》。任何有关寻找可在 ios 9 上运行的 ipa 的帮助都将不胜感激。 https://preview.redd.it/w5yrhabwd9ce1.png?width=100&amp;format=png&amp;auto=webp&amp;s=08ffd243a5b26be84a8061454ff337ebadfcf09e https://preview.redd.it/2zd6vzjxd9ce1.png?width=320&amp;format=png&amp;auto=webp&amp;s=4897c254eb9c16b4720b280e586f99d3fc97df8d    提交人    /u/Ritvikisalive   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hyjfdv/help_finding_an_ipa_file/</guid>
-      <pubDate>Sat, 11 Jan 2025 00:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何开始？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hyhhgf/how_do_i_start/</link>
-      <description><![CDATA[我通常不使用 iPhone，但我读到 Xcom2 在 iPhone 上运行得很好。我手头有一部 iPhone 10，我想试试，但我不确定是否要侧载或越狱，我是否必须定期在 X 段时间后重做这个过程？    提交人    /u/SDG2008   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hyhhgf/how_do_i_start/</guid>
-      <pubDate>Fri, 10 Jan 2025 22:56:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
