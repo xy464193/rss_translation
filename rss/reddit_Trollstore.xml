@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 12 Jan 2025 12:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 15:08:44 GMT</lastBuildDate>
+    <item>
+      <title>Whatsapp 收不到验证码或短信</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hzoa3t/whatsapp_not_receiving_verification_code_or_sms/</link>
+      <description><![CDATA[我尝试了几个步骤来解决这个问题，包括从 TrollStore 卸载 Watusi、从 App Store 重新安装 WhatsApp、移除并重新插入 SIM 卡、关闭 iMessage 以及将短信过滤设置为“无”。不幸的是，这些方法都不起作用。即使我接到语音电话，接听后也会自动断开连接。WhatsApp 对我来说是必不可少的，我急需帮助。 设备：iPhone 14 Pro Max iOS 版本：17.0 请帮忙！    提交人    /u/ahmedghosi7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hzoa3t/whatsapp_not_receiving_verification_code_or_sms/</guid>
+      <pubDate>Sun, 12 Jan 2025 14:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法（无论是否越狱）在 15.6.1 上安装最新版本的 notability？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hyrfnf/is_there_a_way_with_or_without_jailbreak_to/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>有关已修改 .ipa 文件的帮助</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</link>
-      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复此问题？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
+      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
       <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>有地方对 troll 安装程序进行签名吗？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</link>
-      <description><![CDATA[有没有地方可以在没有电脑的情况下对 tix（troll installer x）进行签名？    提交人    /u/Dry-Association-387   [link] [comments]]]></description>
+      <description><![CDATA[有没有地方可以在没有电脑的情况下对 tix（troll installer x）进行签名？    提交人    /u/Dry-Association-387   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</guid>
       <pubDate>Mon, 06 Jan 2025 23:36:01 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>TrollStore Lite 如何在 IOS/IPADOS 17.0+ 上使用？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hucchb/how_is_trollstore_lite_available_on_iosipados_170/</link>
-      <description><![CDATA[      TrollStore 可以安装的最新版本是 IOS/IPADOS 17.0。 但是对于 TrollStore Lite，您可以将其安装到 IOS/IPADOS 17.6.1 为止？ 这怎么可能呢？TrollStore Lite 不是也基于 CoreTrust 漏洞吗？ CoreTrust 漏洞不是在 IOS/IPADOS 17.0+ 上不可用吗？ 甚至在网站上也说 TrollStore 永远不会在 IOS/IPADOS 17.0.1 或更新版本上受支持。    提交人    /u/Valorant_Steve   [链接] [评论] ]]></description>
+      <description><![CDATA[      TrollStore 可以安装的最新版本是 IOS/IPADOS 17.0。 但是对于 TrollStore Lite，您可以将其安装到 IOS/IPADOS 17.6.1 为止？ 这怎么可能呢？TrollStore Lite 不是也基于 CoreTrust 漏洞吗？ CoreTrust 漏洞不是在 IOS/IPADOS 17.0+ 上不可用吗？ 甚至在网站上也说 TrollStore 永远不会支持 IOS/IPADOS 17.0.1 或更新版本。    提交人    /u/Valorant_Steve   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hucchb/how_is_trollstore_lite_available_on_iosipados_170/</guid>
       <pubDate>Sun, 05 Jan 2025 17:37:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好，我希望这里有人遇到过这个问题并且已经有了解决方案。 我正在使用 TrollStore 并尝试使用 TrollFools 注入一些dylib 调整。我看过一些 YouTube 视频，他们选择 .dylib 文件没有任何问题，但使用我最新的 TrollFool，.dylib 文件显示为灰色且不可选择。 有人可以帮忙吗？ 此外，是否可以将 .deb 文件转换为 .dylib 并注入它？ 提前致谢！ 2 张屏幕截图合并在一起     提交人    /u/robi_750   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1ht4qxt/help_trollfools/</guid>
       <pubDate>Sat, 04 Jan 2025 03:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 8 16.7.10</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ht2k6y/iphone_8_16710/</link>
-      <description><![CDATA[      我可以在此安装 trollstore 吗？    提交人    /u/Aggravating-Cup-7447   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ht2k6y/iphone_8_16710/</guid>
-      <pubDate>Sat, 04 Jan 2025 01:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
