@@ -4,7 +4,63 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 12 Jan 2025 21:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 03:20:23 GMT</lastBuildDate>
+    <item>
+      <title>我是否可以通过侧载 TikTok 更新来绕过禁令？如果可以，我可以在哪里执行此操作？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i01jf0/will_i_be_able_to_sideload_updates_for_tiktok_in/</link>
+      <description><![CDATA[无需正文     由   提交  /u/MoonPython   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i01jf0/will_i_be_able_to_sideload_updates_for_tiktok_in/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>sideloadly 有 mac 的替代品吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i01e1z/sideloadly_for_mac_alternatives/</link>
+      <description><![CDATA[嗨，想知道在 Mac 上尝试侧载某些内容时是否有 sideloadly 的替代方案。具体来说，我试图将某些内容侧载到特定于用户的应用程序文件夹中。如果有人可以帮忙，请帮忙！任何帮助都将不胜感激 :)    提交人    /u/mr_sharkyyy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i01e1z/sideloadly_for_mac_alternatives/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道是否有 TREBEL ipa 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i011rk/anyone_know_if_there_is_a_trebel_ipa/</link>
+      <description><![CDATA[我只需要一个拥有无限金币的 Trebel ipa。    提交人    /u/Beef_Testostrome   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i011rk/anyone_know_if_there_is_a_trebel_ipa/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁有 remini 破解版 ipa 的链接？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i00qc8/anyone_have_link_for_remini_cracked_ipa/</link>
+      <description><![CDATA[有人可以分享 remini 破解版 ipa 链接吗？    提交人    /u/Dry-Revenue-9778   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i00qc8/anyone_have_link_for_remini_cracked_ipa/</guid>
+      <pubDate>Sun, 12 Jan 2025 23:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 摘要应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hzzkul/reddit_summarization_app/</link>
+      <description><![CDATA[我开发了这个简单、轻量级的 reddit 应用程序，其主要目的是获取评论摘要，谁有时间阅读我们很多人每天关注的如此多 subreddit 上的数百条评论？ 此代码针对 iPhone 进行了优化，尽管我正在寻找针对 Ipad / Mac 优化的版本 https://github.com/Joaov41/redapp 受到 https://lo.cafe 团队的出色工作的启发，特别是他们出色的应用程序 OpenArtemis，我开始增强这个使用 Reddit 的免费个人 API 的应用程序概念，旨在添加评论摘要和问答功能 该应用程序不允许发布或评论，它只是一个阅读应用程序，尽管它包含一个简单的手势在浏览器上快速打开该帖子进行评论。 主要目的是用于 reddit 阅读，具有摘要和问答功能。 在开发应用程序时，我使用的是 4o mini，但决定换成 Gemini 2.0 flash，因为它速度更快，在长上下文总结方面比 4o mini 做得更好，而且...目前是免费的。 对于大多数没有付费开发者账户的人来说，您需要在 Xcode 上创建 iPad 以通过其中一种方式进行侧载。    提交人    /u/John_val   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hzzkul/reddit_summarization_app/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dylib/Deb 文件兔子洞</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</link>
+      <description><![CDATA[好吧，我一直在关注有关使用 Dylib 文件和一些 Deb 文件的大量指南。一个指南说将 Dylib 文件注入应用程序库并使解密的应用程序运行，但是否真的像另一个指南所说的那样，我需要一个单独的越狱设备？其他人说我可以使用 sideloadly、ESign 或 Trollstore 做同样的事情，这是否可行，或者我是否缺少任何信息来真正使这些侧载应用程序运行？ 附注：我正在记录。iOS 18.2 || 未越狱 TLDR：如何在未越狱的设备上有效使用 dylib 文件？    提交人    /u/SkyyezSD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在下载 esign，但我能信任它吗（阅读说明）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hzys4w/i_was_downloading_esign_but_can_i_trust_it_read/</link>
+      <description><![CDATA[我本来要下载 esign，因为它又被屏蔽了，但是当我按下信任 dns 配置文件进行 esign 时，我的屏幕重新启动并显示信任 dns 配置文件，但这从未发生过，所以我可以信任它吗？还是不可以？它说了一些关于数据的事情，我需要帮助    提交人    /u/ZZZ-YoursTruly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hzys4w/i_was_downloading_esign_but_can_i_trust_it_read/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:24:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sidestore 和 Sparsebox 错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1hzyl66/sidestore_and_sparsebox_error/</link>
+      <description><![CDATA[      我在 Sidestore 上安装了 Sparsebox。我使用相同的配对文件，当我点击“绕过 3 个应用限制”时在 Sparsebox 中，我收到以下错误消息：  https://preview.redd.it/vfhujkti0nce1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=9ece00b258b8abfc46174ab6c5662a851327b21e 有什么办法可以解决这个问题？我打开了 Sideguard VPN，并且在运行 Sparsebox 时关闭了 SideStore。    由    /u/n33d0n3  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1hzyl66/sidestore_and_sparsebox_error/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:15:38 GMT</pubDate>
+    </item>
     <item>
       <title>如何去除信号</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hzvlvx/how_to_remove_signulous/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我尝试了 2 个不同的 iPAS，它们都显示相同的错误：在游戏过程中，每隔 30 或 40 秒地图就会自行打开，有人知道发生了什么吗？    提交人    /u/Wendell_S   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hzljey/i_have_problems_with_gta_sa_de_on_my_iphone/</guid>
       <pubDate>Sun, 12 Jan 2025 12:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 ipa 数据库？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzjdif/best_ipa_db/</link>
-      <description><![CDATA[嗨 最安全、维护最好的 ipa 资源来下载应用程序？我正在使用 krava    由    /u/unknown_cats  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzjdif/best_ipa_db/</guid>
-      <pubDate>Sun, 12 Jan 2025 09:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinterest 侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzjaef/pinterest_sideload_app/</link>
-      <description><![CDATA[我听说过几次 Pinterest 侧载应用可以删除广告。但是 - 遗憾的是，我找不到它。 知道在哪里可以得到它吗？    提交人    /u/CurrentRisk   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzjaef/pinterest_sideload_app/</guid>
-      <pubDate>Sun, 12 Jan 2025 09:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何降级应用程序并获取其.ipa 文件？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzic7t/how_to_downgrade_apps_and_get_ipa_files_of_them/</link>
-      <description><![CDATA[我想降级游戏并将其安装在 LiveContainer 中（这样我就可以拥有旧版本和来自 App Store 的新版本） 我该怎么做？    提交人    /u/Additional_Seesaw145   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzic7t/how_to_downgrade_apps_and_get_ipa_files_of_them/</guid>
-      <pubDate>Sun, 12 Jan 2025 08:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡普卡特</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzgza7/capcut/</link>
-      <description><![CDATA[有人知道我在哪里可以下载最新版本的 capcut ipa。已使用 premium 进行修改    提交人    /u/AyamPenyet27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzgza7/capcut/</guid>
-      <pubDate>Sun, 12 Jan 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 Facebook 无广告 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzgmxq/best_facebook_no_ads_ipa/</link>
-      <description><![CDATA[我一直在使用 Facebook wolf ipa，但主要问题是通知只显示“您有新通知”，而不显示实际通知。有没有比这个更好的 ipa？    提交人    /u/korng_sok   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzgmxq/best_facebook_no_ads_ipa/</guid>
-      <pubDate>Sun, 12 Jan 2025 06:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改 WiFi 上的 DNS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hze8xj/change_dns_on_wifi/</link>
-      <description><![CDATA[我已经使用 NextDNS 创建了配置文件，但我是否还必须在 WiFi 设置中将 DNS 设置为“手动”并将 NextDNS ipv6 输入？ 我正在遵循 PureEnvyUs 指南进行电子签名    提交人    /u/silvtti   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hze8xj/change_dns_on_wifi/</guid>
-      <pubDate>Sun, 12 Jan 2025 03:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Apollo 打开 Reddit 链接</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hz5kwc/open_reddit_links_with_apollo/</link>
-      <description><![CDATA[花了一些时间解决这个问题，想分享我的解决方案 点击链接后直接打开（需要越狱）  安装 Evil Scheme（https://0xkuj.yourepo.com/）。 查找 Tweak Bundle ID（可以使用 Filza 或其他方式） 转到设置中的 Evil Scheme 首选项 添加新 --&gt; 选择 Apollo 预设 更改“新 Bundle ID”到您正在使用的 Apollo IPA 的 Bundle ID（如果您自行注入了 ICA，请保留默认值） 在 Evil Scheme 的主要首选项中，单击右上角的应用 下载常规 Reddit 应用程序，只需安装即可，不必使用它。  想要选择留在 Safari 或转到 Apollo https://github.com/AnthonyGress/Open-In-Apollo    提交人    /u/WhatTheOnEarth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hz5kwc/open_reddit_links_with_apollo/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwaggyP36000 重新上线了吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hz5dig/swaggyp36000_back_online/</link>
-      <description><![CDATA[https://github.com/swaggyP36000/TrollStore-IPAs    由   提交  /u/quantumwebb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hz5dig/swaggyp36000_back_online/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:44:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
