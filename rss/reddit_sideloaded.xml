@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 13 Jan 2025 09:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 12:20:04 GMT</lastBuildDate>
+    <item>
+      <title>IPAD上的UTM</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i0c9vo/utm_on_ipad/</link>
+      <description><![CDATA[大家好，我想在我的 ipad 上使用 UTM，但我不知道如何使用 JIT。有没有关于如何操作的教程或者有人已经这样做了？谢谢    提交人    /u/fololologrt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i0c9vo/utm_on_ipad/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i0am7e/dxsign/</link>
+      <description><![CDATA[我知道问这个问题很愚蠢，因为我对这一切都不熟悉。但我对 dxsign 有一个疑问。我打算购买它，但它能绕过 3 个应用程序的限制吗？或者这些东西如何帮助我。我不明白 esign 是如何工作的 :(    提交人    /u/DenseUniversity8031   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i0am7e/dxsign/</guid>
+      <pubDate>Mon, 13 Jan 2025 09:53:50 GMT</pubDate>
+    </item>
     <item>
       <title>应用程序版本不起作用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i07t8y/app_version_not_working/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>Dylib/Deb 文件兔子洞</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</link>
-      <description><![CDATA[好吧，我一直在关注有关使用 Dylib 文件和一些 Deb 文件的大量指南。一个指南说将 Dylib 文件注入应用程序库并使解密的应用程序运行，但是否真的如另一个指南所说，我需要一个单独的越狱设备？其他人说我可以使用 sideloadly、ESign 或 Trollstore 做同样的事情，这可行吗，还是我缺少任何信息来真正使这些侧载应用程序运行？ 附注：我正在记录。iOS 18.2 || 未越狱 TLDR：如何在未越狱的设备上有效使用 dylib 文件？    提交人    /u/SkyyezSD   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，我一直在关注有关使用 Dylib 文件和一些 Deb 文件的大量指南。一个指南说将 Dylib 文件注入应用程序库并使解密的应用程序运行，但是否真的像另一个指南所说的那样，我需要一个单独的越狱设备？其他人说我可以使用 sideloadly、ESign 或 Trollstore 做同样的事情，这是否可行，或者我是否缺少任何信息来真正使这些侧载应用程序运行？ 附注：我正在记录。iOS 18.2 || 未越狱 TLDR：如何在未越狱的设备上有效使用 dylib 文件？    提交人    /u/SkyyezSD   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</guid>
       <pubDate>Sun, 12 Jan 2025 22:39:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我本来要下载 esign，因为它又被屏蔽了，但是当我按下信任 dns 配置文件进行 esign 时，我的屏幕重新启动并显示信任 dns 配置文件，但这从未发生过，所以我可以信任它吗？还是不可以？它说了一些关于数据的事情，我需要帮助    提交人    /u/ZZZ-YoursTruly   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1hzys4w/i_was_downloading_esign_but_can_i_trust_it_read/</guid>
       <pubDate>Sun, 12 Jan 2025 22:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 和 Sparsebox 错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzyl66/sidestore_and_sparsebox_error/</link>
-      <description><![CDATA[      我在 Sidestore 上安装了 Sparsebox。我使用相同的配对文件，当我点击“绕过 3 个应用限制”时在 Sparsebox 中，我收到以下错误消息：  https://preview.redd.it/vfhujkti0nce1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=9ece00b258b8abfc46174ab6c5662a851327b21e 有什么办法可以解决这个问题？我打开了 Sideguard VPN，并且在运行 Sparsebox 时关闭了 SideStore。    由    /u/n33d0n3  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzyl66/sidestore_and_sparsebox_error/</guid>
-      <pubDate>Sun, 12 Jan 2025 22:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何去除信号</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzvlvx/how_to_remove_signulous/</link>
-      <description><![CDATA[所以我对这种侧面加载还不熟悉，但是在 ios 上，当 signulous 第一次添加时，它让我创建一个配置文件，如果我想删除 signulous，我该如何摆脱它在第一次添加时让我创建的配置文件     提交人    /u/SandDue5172   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzvlvx/how_to_remove_signulous/</guid>
-      <pubDate>Sun, 12 Jan 2025 20:08:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
