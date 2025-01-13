@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:08:52 GMT</lastBuildDate>
+    <item>
+      <title>如何在我安装的应用程序中找到贝壳扩展？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i0mrnw/how_can_i_find_seashell_extension_in_apps_i/</link>
+      <description><![CDATA[所以我了解了 TrollStore 应用的 seashell 扩展，我该如何检测它？以及如何检查我安装的应用是否被感染？提前致谢 😁 Ps：设备：iOS 17.0 上的 iPhone 12 Pro 和 14.2 上的 8 plus    提交人    /u/ContributionMoney306   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i0mrnw/how_can_i_find_seashell_extension_in_apps_i/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:49:02 GMT</pubDate>
+    </item>
     <item>
       <title>Whatsapp 收不到验证码或短信</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hzoa3t/whatsapp_not_receiving_verification_code_or_sms/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      TrollStore 可以安装的最新版本是 IOS/IPADOS 17.0。 但是对于 TrollStore Lite，您可以将其安装到 IOS/IPADOS 17.6.1 为止？ 这怎么可能呢？TrollStore Lite 不是也基于 CoreTrust 漏洞吗？ CoreTrust 漏洞不是在 IOS/IPADOS 17.0+ 上不可用吗？ 甚至在网站上也说 TrollStore 永远不会在 IOS/IPADOS 17.0.1 或更新版本上受支持。    提交人    /u/Valorant_Steve   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hucchb/how_is_trollstore_lite_available_on_iosipados_170/</guid>
       <pubDate>Sun, 05 Jan 2025 17:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>！帮助 - TrollFools”</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1ht4qxt/help_trollfools/</link>
-      <description><![CDATA[      大家好，我希望这里有人遇到过这个问题并且已经有了解决方案。 我正在使用 TrollStore 并尝试使用 TrollFools 注入一些dylib 调整。我看过一些 YouTube 视频，他们选择 .dylib 文件没有任何问题，但使用我最新的 TrollFool，.dylib 文件显示为灰色且不可选择。 有人可以帮忙吗？ 此外，是否可以将 .deb 文件转换为 .dylib 并注入它？ 提前致谢！ 2 张屏幕截图合并在一起     提交人    /u/robi_750   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1ht4qxt/help_trollfools/</guid>
-      <pubDate>Sat, 04 Jan 2025 03:01:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
