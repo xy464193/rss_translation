@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 13 Jan 2025 15:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 18:14:29 GMT</lastBuildDate>
+    <item>
+      <title>目前没有方法可以通过机器人或群组获取所请求的付费游戏 IPA 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i0go5p/is_there_currently_no_method_to_get_a_requested/</link>
+      <description><![CDATA[研究了这个子版块后，似乎所有的机器人和群组都只适用于免费应用。    提交人    /u/yellowroll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i0go5p/is_there_currently_no_method_to_get_a_requested/</guid>
+      <pubDate>Mon, 13 Jan 2025 15:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个 Instagram IPA 具有“OpenInInstagram”插件，当您在 Safari/Orion 中打开链接时，它会将您重定向到侧载应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i0gaj8/which_instagram_ipa_has_openininstagram_plugin/</link>
+      <description><![CDATA[我需要类似于 Apollo for Reddit 和 BHTikTok++ 中的插件。每当我在 Orion/Safari 上打开 Reddit 或 TikTok 链接时，它都会自动将我重定向到侧载应用程序，而无需我点击右上角的“在...中打开”。    提交人    /u/yellowroll   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i0gaj8/which_instagram_ipa_has_openininstagram_plugin/</guid>
+      <pubDate>Mon, 13 Jan 2025 15:20:33 GMT</pubDate>
+    </item>
     <item>
       <title>史丹利·帕布尔</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i0dovg/stanley_parable/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人可以分享 remini 破解版 ipa 链接吗？    提交人    /u/Dry-Revenue-9778   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i00qc8/anyone_have_link_for_remini_cracked_ipa/</guid>
       <pubDate>Sun, 12 Jan 2025 23:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 摘要应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzzkul/reddit_summarization_app/</link>
-      <description><![CDATA[我开发了这个简单、轻量级的 reddit 应用程序，其主要目的是获取评论摘要，谁有时间阅读我们很多人每天关注的如此多 subreddit 上的数百条评论？ 此代码针对 iPhone 进行了优化，尽管我正在寻找针对 Ipad / Mac 优化的版本 https://github.com/Joaov41/redapp 受到 https://lo.cafe 团队的出色工作的启发，特别是他们出色的应用程序 OpenArtemis，我开始增强这个使用 Reddit 的免费个人 API 的应用程序概念，旨在添加评论摘要和问答功能 该应用程序不允许发布或评论，它只是一个阅读应用程序，尽管它包含一个简单的手势在浏览器上快速打开该帖子进行评论。 主要目的是用于 reddit 阅读，具有摘要和问答功能。 在开发应用程序时，我使用的是 4o mini，但决定换成 Gemini 2.0 flash，因为它速度更快，在长上下文总结方面比 4o mini 做得更好，而且...目前是免费的。 对于大多数没有付费开发者账户的人来说，您需要在 Xcode 上创建 iPad 以通过其中一种方式进行侧载。    提交人    /u/John_val   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzzkul/reddit_summarization_app/</guid>
-      <pubDate>Sun, 12 Jan 2025 22:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dylib/Deb 文件兔子洞</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</link>
-      <description><![CDATA[好吧，我一直在关注有关使用 Dylib 文件和一些 Deb 文件的大量指南。一个指南说将 Dylib 文件注入应用程序库并使解密的应用程序运行，但是否真的如另一个指南所说，我需要一个单独的越狱设备？其他人说我可以使用 sideloadly、ESign 或 Trollstore 做同样的事情，这可行吗，还是我缺少任何信息来真正使这些侧载应用程序运行？ 附注：我正在记录。iOS 18.2 || 未越狱 TLDR：如何在未越狱的设备上有效使用 dylib 文件？    提交人    /u/SkyyezSD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1hzz504/dylibdeb_files_rabbit_hole/</guid>
-      <pubDate>Sun, 12 Jan 2025 22:39:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
