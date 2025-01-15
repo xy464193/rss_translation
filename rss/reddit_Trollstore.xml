@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 15 Jan 2025 09:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:18:12 GMT</lastBuildDate>
+    <item>
+      <title>安装应用程序时出现错误 168</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i1v3wt/error_168_while_installing_an_app/</link>
+      <description><![CDATA[尝试使用从 iosgods 网站获取的 ipa 安装 Asphalt 8。我收到该错误代码。文件大小为 3.57 Gb，不知道这是否是问题所在，能否帮助我。 Ios 版本 17.7.2，IPad 6th Gen（A10），已越狱无根    提交人    /u/South-Goat2722   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i1v3wt/error_168_while_installing_an_app/</guid>
+      <pubDate>Wed, 15 Jan 2025 11:08:41 GMT</pubDate>
+    </item>
     <item>
       <title>以下是如何永久阻止更新 - 防止丢失 Trollstore</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i1ob0o/heres_how_to_block_updates_permanently_prevent/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>在评论中列出 trollapps 的仓库</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</link>
-      <description><![CDATA[“请不要重复 repos”    提交者    /u/NoozPrime   [链接] [评论]]]></description>
+      <description><![CDATA[“请不要重复 repos”    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</guid>
       <pubDate>Tue, 14 Jan 2025 03:26:48 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>如何在不受支持的设备上玩 Tropico？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</link>
-      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。” 因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。”因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</guid>
       <pubDate>Thu, 09 Jan 2025 07:33:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我使用的是最新版本的 Dopamine JB。在 iOS 15.4.1 上。最近，通过 Trollstore 安装的所有经过调整的手机游戏都无法再加载。它立即崩溃了。以前它可以正常工作。我尝试使用 choicy，禁用游戏的调整，但它不再起作用了。安装了 Shadow 和 Vnodebypass，也不起作用。我试过从 Dopamine 本身隐藏 Jaibreak，但它也不起作用。  有人找到解决办法了吗？或者有人遇到同样的问题吗？    提交人    /u/Routine_Ordinary_281   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hvtgsa/help_with_tweaked_mobile_games/</guid>
       <pubDate>Tue, 07 Jan 2025 15:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有地方对 troll 安装程序进行签名吗？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</link>
-      <description><![CDATA[有没有地方可以在没有电脑的情况下对 tix（troll installer x）进行签名？    提交人    /u/Dry-Association-387   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hvde55/is_there_anywhere_where_troll_installer_is_signed/</guid>
-      <pubDate>Mon, 06 Jan 2025 23:36:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
