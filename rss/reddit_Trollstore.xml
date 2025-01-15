@@ -4,7 +4,7 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 15 Jan 2025 12:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:13:12 GMT</lastBuildDate>
     <item>
       <title>安装应用程序时出现错误 168</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i1v3wt/error_168_while_installing_an_app/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>在评论中列出 trollapps 的仓库</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</link>
-      <description><![CDATA[“请不要重复 repos”    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
+      <description><![CDATA[“请不要重复 repos”    提交者    /u/NoozPrime   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</guid>
       <pubDate>Tue, 14 Jan 2025 03:26:48 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>如何在不受支持的设备上玩 Tropico？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</link>
-      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。”因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。” 因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</guid>
       <pubDate>Thu, 09 Jan 2025 07:33:40 GMT</pubDate>
     </item>
