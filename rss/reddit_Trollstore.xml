@@ -4,7 +4,21 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Thu, 16 Jan 2025 06:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:18:05 GMT</lastBuildDate>
+    <item>
+      <title>任何用于更改锁屏字体的巨魔商店应用程序（非越狱）</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i2mvg7/any_troll_store_application_for_change_lockscreen/</link>
+      <description><![CDATA[        提交人    /u/felix_thor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i2mvg7/any_troll_store_application_for_change_lockscreen/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这支持 iOS 18 吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i2mu2v/does_this_support_ios_18/</link>
+      <description><![CDATA[Js 想知道 trollstore 是否支持 iOS 18，因为我目前使用的是这个系统    提交人    /u/SoLaR_levi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i2mu2v/does_this_support_ios_18/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>无法拨打 FaceTime 电话 - Trollstore IOS 16.6</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i2hcmg/outgoing_facetime_calls_not_working_trollstore/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/Tuchelsunderwear   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</guid>
       <pubDate>Thu, 09 Jan 2025 11:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不受支持的设备上玩 Tropico？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</link>
-      <description><![CDATA[大家好！正如标题所示，我想在我的 iPad Air 2 - iPadOS 15.8.3 上玩 TROPICO（显然我无法像在其他设备上一样从 Appstore 下载它），但是当我使用 Trollstore 安装它时，游戏启动了，但弹出窗口告诉我“此游戏无法在此设备上玩，请在兼容设备上下载。” 因此，在尝试安装 ipa 的第一个版本（和其他版本）并使用 Esign+ 切换“RemoveUIcompatible Device”后，我明白我必须直接对 .plist 文件进行操作来修改它…… 但我必须更改什么？哪个字符串是关于设备兼容性的？提前致谢    提交人    /u/Breaking_Bad13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hx7mpv/how_to_play_tropico_on_an_unsupported_device/</guid>
-      <pubDate>Thu, 09 Jan 2025 07:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何伪造 iOS 版本从 Appstore 下载应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hwb2se/how_to_spoof_ios_version_to_download_app_from/</link>
-      <description><![CDATA[与标题相同    提交人    /u/appledz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hwb2se/how_to_spoof_ios_version_to_download_app_from/</guid>
-      <pubDate>Wed, 08 Jan 2025 04:09:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
