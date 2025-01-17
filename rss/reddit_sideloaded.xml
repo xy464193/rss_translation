@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 17 Jan 2025 06:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 09:10:35 GMT</lastBuildDate>
+    <item>
+      <title>无法使用 Sideloadly 安装 uYouEnhanced：Windows 11 上的路径限制错误</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i3a9bo/cannot_install_uyouenhanced_with_sideloadly_path/</link>
+      <description><![CDATA[我根据最近的版本编译了自己的 uYouEnhanced IPA，但使用 Sideloadly 将其侧载到我的 iPhone（iOS 18.0）上时，遇到了 Guru Meditation 错误，提示指定的文件或路径不存在。经过一番研究，我发现 iOSGods 论坛上的一些用户遇到了相同的错误，并通过以下方法解决了该问题    将 Windows 临时路径更改为 C:\TEMP  使用 7zip 将 IPA 中的 .app 文件夹重命名为 X.app（一个字母）  然而，尽管做了这两件事，错误仍然没有解决。上述解决方案是针对乐高游戏的，因此 uYouEnhanced 可能有所不同。 需要注意的重要事项：这个错误是新的，似乎仅限于最新的 uYouEnhanced 版本。我成功侧载了 YTLitePlus，但它没有更新。我记得过去也将 uYouEnhanced 与 Sideloadly 一起使用时也没有出现此错误。 我使用的是最新版本的 Sideloadly。我发现 3 个月前的一条开发人员评论称此问题将在下次更新中得到解决，但显然没有。要么是尚未修复，要么这完全是我的 IPA 的错误。 我看到 uYouEnhanced GitHub 页面上出现了类似的问题，但似乎尚未建立具有路径限制错误的连接    提交人    /u/SplatoonOrSky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i3a9bo/cannot_install_uyouenhanced_with_sideloadly_path/</guid>
+      <pubDate>Fri, 17 Jan 2025 06:25:25 GMT</pubDate>
+    </item>
     <item>
       <title>有任何好的 IPA 建议吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i39l9e/any_good_ipa_suggestions/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Reddit 过滤器替代品</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i2v7nu/reddit_filter_alternative/</link>
-      <description><![CDATA[对于 ipa reddits mods 有任何建议吗，因为 Reddit 过滤器每隔几天就会崩溃一次。     提交人    /u/akhisharafath   [链接] [评论]]]></description>
+      <description><![CDATA[对于 ipa reddits mods 有任何建议吗，因为 Reddit 过滤器每隔几天就会崩溃一次。     由    /u/akhisharafath 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i2v7nu/reddit_filter_alternative/</guid>
       <pubDate>Thu, 16 Jan 2025 18:09:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[因此我想为我和我的直系亲属运行本地音乐流媒体服务。我选择了 ras pi 上的无头 plex amp 服务器。问题是我没有电脑，所以我想要一个像 Spotify 这样的 ap，可以让我下载音乐。然后我可以将该音乐移动到 pi 谢谢    提交人    /u/Useful_Horror_985   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i2te7q/does_any_app_allow_you_to_download_songs_use_case/</guid>
       <pubDate>Thu, 16 Jan 2025 16:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机/应用程序因后台/锁屏应用程序崩溃</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i2sitd/phoneapp_crashes_for_backgroundlockscreen_apps/</link>
-      <description><![CDATA[我使用侧载应用已有大约一年，通常只是通过 signolous 网站对 IPA 进行签名。这种方法运行良好，但有些应用经常崩溃，因此在寻找更新的 IPA（主要是 sultanmods）时，我弄清楚了如何将自定义证书添加到 esign，然后在其中加载 IPA，对其进行签名并安装。 但有一种应用让我无法按预期运行：动态警报。 Sleep Cycle、Sleepzy 和其他应用都遭遇了同样的命运： 它们安装完美，其中一些已解锁高级版（显然仅用于测试目的），我设置了它，设置了一个动态闹钟（它会监控声音/运动，等待您未处于深度睡眠状态时响起闹钟），按下电源按钮让手机进入睡眠状态，然后将手机放在床边的无线充电器上。 第二天早上我醒来，发现晚上没有录音，如果我运气不好，会出现一个带有小旋转图标的全黑屏，之后我的手机会重启（手机崩溃）。其他时候，应用程序在后台运行约一小时后崩溃了。 我做错了什么？我尝试修补文件，但也没有解决问题。后台应用程序是否存在问题？是 HealthKit 集成导致的吗？还是只是我的手机/解锁的应用程序？我尝试使用从 App Store 解密的 ipa，但发生了同样的事情。但是当我从 App Store 安装它时，一切都正常工作，应用程序版本相同。    提交人    /u/stoelwinder   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i2sitd/phoneapp_crashes_for_backgroundlockscreen_apps/</guid>
-      <pubDate>Thu, 16 Jan 2025 16:16:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
