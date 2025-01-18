@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 18 Jan 2025 06:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 09:09:15 GMT</lastBuildDate>
+    <item>
+      <title>有谁有适用于 Apple Music/Spotfy/YTMusic 或任何其他稳定的无广告音乐流媒体应用程序的 IPA 文件，请帮帮忙</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i43kbk/does_anybody_have_ipa_file_for_apple/</link>
+      <description><![CDATA[过去 5 小时内我找不到任何内容，请帮忙    由   提交  /u/Own-Comfortable-5418   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i43kbk/does_anybody_have_ipa_file_for_apple/</guid>
+      <pubDate>Sat, 18 Jan 2025 08:57:44 GMT</pubDate>
+    </item>
     <item>
       <title>好的，有没有适合 pikashow 的 IPA 文件，或者任何有印地语音频的流媒体应用程序，我不是在谈论 hdo 播放器，因为它没有音频选项，只有字幕选项，我的意思是你可以在更换服务器后用英语观看，但很少</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i40ddg/ok_is_there_any_ipa_file_for_pikashow_or_like_any/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 18 Jan 2025 05:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>在TikTok</title>
+      <title>在抖音上</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i3zfnl/tiktok_ban/</link>
       <description><![CDATA[如果 tiktok 被禁，侧载还能用吗？    提交人    /u/No-Butterscotch-8619   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i3zfnl/tiktok_ban/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我根据最近的版本编译了自己的 uYouEnhanced IPA，但使用 Sideloadly 将其侧载到我的 iPhone（iOS 18.0）上时，遇到了 Guru Meditation 错误，提示指定的文件或路径不存在。经过一番研究，我发现 iOSGods 论坛上的一些用户遇到了相同的错误，并通过以下方法解决了该问题    将 Windows 临时路径更改为 C:\TEMP  使用 7zip 将 IPA 中的 .app 文件夹重命名为 X.app（一个字母）  然而，尽管做了这两件事，错误仍然没有解决。上述解决方案是针对乐高游戏的，因此 uYouEnhanced 可能有所不同。 需要注意的重要事项：这个错误是新的，似乎仅限于最新的 uYouEnhanced 版本。我成功侧载了 YTLitePlus，但它没有更新。我记得过去也将 uYouEnhanced 与 Sideloadly 一起使用时也没有出现此错误。 我使用的是最新版本的 Sideloadly。我发现 3 个月前的一条开发人员评论称此问题将在下次更新中得到解决，但显然没有。要么是尚未修复，要么这完全是我的 IPA 的错误。 我看到 uYouEnhanced GitHub 页面上出现了类似的问题，但似乎尚未建立具有路径限制错误的连接    提交人    /u/SplatoonOrSky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i3a9bo/cannot_install_uyouenhanced_with_sideloadly_path/</guid>
       <pubDate>Fri, 17 Jan 2025 06:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何好的 IPA 建议吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i39l9e/any_good_ipa_suggestions/</link>
-      <description><![CDATA[我的意思是我有 YouTube、instagram 和 Reddit。但我想知道你们是否有其他建议，不要说 TikTok，我已经两年没用那个东西了。我的意思是我有 Spotify，没有广告，但我真的经常使用它。  任何其他我不知道的 ipa 建议。     提交人    /u/akhisharafath   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i39l9e/any_good_ipa_suggestions/</guid>
-      <pubDate>Fri, 17 Jan 2025 05:40:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
