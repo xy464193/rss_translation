@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 18 Jan 2025 12:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 15:08:28 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么地方我可以请求使用 xcode 的人来构建 ipas？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i49f9p/is_there_any_place_where_i_can_request_for_people/</link>
+      <description><![CDATA[我有 .xcodeproj 文件，但我没有 Mac，所以我想知道是否有 discord/telegram/website 可以在那里请求构建项目    提交人    /u/SpookyXmorph   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i49f9p/is_there_any_place_where_i_can_request_for_people/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找最新更新的 rocket instagram ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i499tt/im_looking_for_last_update_rocket_instagram_ipa/</link>
+      <description><![CDATA[有人有它吗？或者能告诉我确切的下载位置吗？到处都是让你下载假文件或其他文件的网站，我需要确定，我知道最新的是 362.10 对吗？哪个应该是本月 1 月发布的，对吗？我在哪里可以下载它？    提交人    /u/Jax_Teller7   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i499tt/im_looking_for_last_update_rocket_instagram_ipa/</guid>
+      <pubDate>Sat, 18 Jan 2025 14:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何找到密码</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i48f65/how_do_i_find_the_password/</link>
+      <description><![CDATA[      它说密码是 1 但是当我尝试时它不起作用    提交人    /u/Party-Stuff-8684   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i48f65/how_do_i_find_the_password/</guid>
+      <pubDate>Sat, 18 Jan 2025 14:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Mac 上下载 IPA 文件，然后在 IOS 上侧载？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i46ztq/how_do_i_download_ipa_files_on_mac_and_then/</link>
+      <description><![CDATA[      我正在使用苹果配置器来执行此操作，但我需要先在我的 macOS 上安装 IPA 文件，因此我收到一个错误，这是... 有什么办法可以绕过它 https://preview.redd.it/ancfmy2i2rde1.png?width=251&amp;format=png&amp;auto=webp&amp;s=ec7c0f81f71f45677fe4b338c8d193933183f423    提交人    /u/Own-Comfortable-5418   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i46ztq/how_do_i_download_ipa_files_on_mac_and_then/</guid>
+      <pubDate>Sat, 18 Jan 2025 12:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧载一定数量的应用程序后是否会有任何限制或约束？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i46uzm/is_there_any_limits_or_restrictions_after/</link>
+      <description><![CDATA[您好，我是侧载应用程序的新手。我使用 Sideload 在我的 iPhone 上侧载了两个应用程序。我可以安装更多应用程序吗，还是我的 Apple 帐户会出现问题？我记得 Sideloadly 提到过在我的 iPhone 上安装的应用程序数量限制为 10 个。我不确定这是否会激活应用程序，或者是否会阻止我安装更多应用程序。提前致谢    提交人    /u/BasraEmpire   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i46uzm/is_there_any_limits_or_restrictions_after/</guid>
+      <pubDate>Sat, 18 Jan 2025 12:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>宁静</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i46l4r/serenity/</link>
+      <description><![CDATA[您觉得这个应用怎么样？ Serenity 是一个即将推出的基于 Web 的第三方商店，它将您的文件上传到云端，免费的最大文件大小为 5GB。此应用还具有 Repo 支持，这意味着您可以直接从存储库对应用进行签名或将其导入 scarlet/trollstore/altstore 等，您还可以安装 .ipa 文件。签名器完全免费，配置也是如此，它允许您注入 Dylibs/Debs、更改应用的版本/名称/捆绑包 ID、更改授权，这一切都因为我们使用 zsign 而实现。您还可以在 Serenity 中共享数据，这意味着您可以使用此应用与其他人共享证书/存储库/设置。为应用设置主题；您可以更改 webclip 的名称/图标 &amp; 还有主题让 Serenity 看起来更好 &amp;您可以更改字体等。还有一个很酷的“调整”页面，让您可以为每个 iOS 版本安装有趣的 .mobileconfig，例如虚拟越狱/包管理器。添加证书时，除了添加 p12 和 mobileprovision 文件外，您还可以选择始终使用最新的企业证书或切换到当前适合您的旧证书。其他内容：该应用程序还有一个帮助中心，页面可直接通过应用程序请求应用程序/调整，serenity 还允许您启用机器人程序，包括通知过滤器页面，以便您可以过滤收到的通知类型，它有开发人员工具，您还可以垂直锁定应用程序。您还可以清除本地存储，从而删除所有存储库、证书和设置。闲聊会话结束。 在此处查看图片： https://i.imgur.com/Rean3ss.png https://i.imgur.com/k0BqiPI.png https://i.imgur.com/lnQZxMF.png    提交人    /u/serenity-ios   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i46l4r/serenity/</guid>
+      <pubDate>Sat, 18 Jan 2025 12:31:45 GMT</pubDate>
+    </item>
     <item>
       <title>iPad 电池耗尽</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i45lod/battery_drain_on_ipad/</link>
@@ -29,7 +71,7 @@
     <item>
       <title>在 iOS 中，有什么与 loklok 相当的应用？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i44pfc/whats_equivalent_for_loklok_but_in_ios/</link>
-      <description><![CDATA[我很确定你们听说过 📽️ 个名为 loklok 的 Android 应用，但 iOS 上有哪些类似的应用呢？我想在我的 ipad 上看电影 🙂🙂🙂    提交人    /u/dotsip   [link] [评论]]]></description>
+      <description><![CDATA[我很确定你们听说过 📽️ 个名为 loklok 的 android 应用，但 iOS 上有哪些类似的应用呢？我想在我的 ipad 上看电影 🙂🙂🙂    提交人    /u/dotsip   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i44pfc/whats_equivalent_for_loklok_but_in_ios/</guid>
       <pubDate>Sat, 18 Jan 2025 10:22:30 GMT</pubDate>
     </item>
@@ -41,14 +83,7 @@
       <pubDate>Sat, 18 Jan 2025 08:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>好的，有没有适合 pikashow 的 IPA 文件，或者任何有印地语音频的流媒体应用程序，我不是在谈论 hdo 播放器，因为它没有音频选项，只有字幕选项，我的意思是你可以在更换服务器后观看英文版，但很少</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i40ddg/ok_is_there_any_ipa_file_for_pikashow_or_like_any/</link>
-      <description><![CDATA[侧载 movieapp iOS    提交人    /u/Top_Addition_4681   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i40ddg/ok_is_there_any_ipa_file_for_pikashow_or_like_any/</guid>
-      <pubDate>Sat, 18 Jan 2025 05:13:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在TikTok</title>
+      <title>在抖音上</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i3zfnl/tiktok_ban/</link>
       <description><![CDATA[如果 tiktok 被禁，侧载还能用吗？    提交人    /u/No-Butterscotch-8619   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i3zfnl/tiktok_ban/</guid>
@@ -64,7 +99,7 @@
     <item>
       <title>帮助让此应用在 iOS 18.3 上运行</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i3xssi/help_with_getting_this_app_to_work_on_ios_183/</link>
-      <description><![CDATA[嘿，我有一个应用程序的解密 IPA，我将 Stellajailed.dylib 注入其中，它可以打开，但是当我尝试购买任何东西时，应用程序就会崩溃。是我的 iOS 版本有问题吗？还是我遗漏了其他什么？请给我发私信，我可以给你发文件    提交人    /u/Sohighimspinning   [link] [评论]]]></description>
+      <description><![CDATA[嘿，我有一个应用程序的解密 IPA，我将 Stellajailed.dylib 注入其中，它可以打开，但是当我尝试购买任何东西时，应用程序就会崩溃。是我的 iOS 版本有问题吗？还是我遗漏了其他什么？请 PM 我，我可以向您发送文件    提交人    /u/Sohighimspinning   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i3xssi/help_with_getting_this_app_to_work_on_ios_183/</guid>
       <pubDate>Sat, 18 Jan 2025 02:44:21 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在尝试在手机上使用 esign，我正在使用本指南： https://docs.google.com/document/u/0/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/mobilebasic?pli=1 我已经完成了快速指南的第 3 步，但不知道接下来该做什么。有人可以提供任何说明吗？或者有人知道任何问题吗？    提交人    /u/Cooliovanilla   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i3ugkj/what_exactly_am_i_supposed_to_do_with_this_guide/</guid>
       <pubDate>Fri, 17 Jan 2025 23:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有比我聪明的人回答这个问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i3ppie/someone_smarter_than_me_answer_this/</link>
-      <description><![CDATA[随着 Tik Tok 禁令的实施，根据他们如何彻底摆脱该应用程序，我们是否能够假设能够侧载一个在禁令后可以运行的 Tik Tok 版本？同样，这取决于他们如何做，但如果他们所做的只是简单的“从美国 App Store 下载的任何版本都被关闭”，那么我们不能侧载一个在允许的地方下载的版本吗？    提交人    /u/CallMeDrowzy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i3ppie/someone_smarter_than_me_answer_this/</guid>
-      <pubDate>Fri, 17 Jan 2025 20:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Esign 的音频用途是什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i3p47q/audio_usage_for_esign/</link>
-      <description><![CDATA[有人知道为什么 Esign 使用音频并消耗这么多电量吗？    提交人    /u/DanielnTheHouse   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i3p47q/audio_usage_for_esign/</guid>
-      <pubDate>Fri, 17 Jan 2025 19:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以下载的 iOS 版 SoundCloud 应用，而且是更新版的。我现在用的那些应用不允许通过 Google 登录 :(</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i3olp1/are_there_any_soundcloud_apps_for_ios_i_can/</link>
-      <description><![CDATA[我使用 signulous    提交人    /u/KingAbz1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i3olp1/are_there_any_soundcloud_apps_for_ios_i_can/</guid>
-      <pubDate>Fri, 17 Jan 2025 19:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易 BOA 和 CA + V 1,2,3 和 4.5</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i3njz4/trading_boa_and_ca_v_123_and_45/</link>
-      <description><![CDATA[我正在交易其中任何一个以出售，但如果我们要交易，我想要 Wells Fargo Chase 或 Apple 钱包    提交人    /u/No-Crow1873   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i3njz4/trading_boa_and_ca_v_123_and_45/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:47:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ipacrack.com 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i3njdo/is_ipacrackcom_safe/</link>
-      <description><![CDATA[我甚至不确定我是怎么偶然发现它的，我认为它来自 reddit，但它似乎有一个我正在寻找的 ipa，所以有人试过从那里下载 ipa 吗？如果这是一个愚蠢的问题/不是合适的地方问，我很抱歉，我是新手😭    提交人    /u/Calm_Mountain8535   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i3njdo/is_ipacrackcom_safe/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:46:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
