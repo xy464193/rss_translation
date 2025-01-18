@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 18 Jan 2025 00:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 03:10:01 GMT</lastBuildDate>
+    <item>
+      <title>我可以关掉我的手机吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i3xtkc/can_i_turn_off_my_phone/</link>
+      <description><![CDATA[我对侧载 DNS 泄漏证书和所有这些事情并不是很了解，但不知何故，我设法购买了一年的证书来签署应用程序并使用 DNS 以避免被撤销？有人可以向我解释撤销是什么意思吗？出于个人原因，我每天至少会关闭手机一两次，但由于我看到很多人谈论不这样做，我想知道如果我这样做会发生什么……有人可以好心地解释一下吗？如果我听起来很蠢，我很抱歉，我对所有这些都很陌生……    提交人    /u/Davoxiccc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i3xtkc/can_i_turn_off_my_phone/</guid>
+      <pubDate>Sat, 18 Jan 2025 02:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助让此应用在 iOS 18.3 上运行</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i3xssi/help_with_getting_this_app_to_work_on_ios_183/</link>
+      <description><![CDATA[嘿，我有一个应用程序的解密 IPA，我将 Stellajailed.dylib 注入其中，它可以打开，但是当我尝试购买任何东西时，应用程序就会崩溃。是我的 iOS 版本有问题吗？还是我遗漏了其他什么？请 PM 我，我可以向您发送文件    提交人    /u/Sohighimspinning   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i3xssi/help_with_getting_this_app_to_work_on_ios_183/</guid>
+      <pubDate>Sat, 18 Jan 2025 02:44:21 GMT</pubDate>
+    </item>
     <item>
       <title>我到底应该用本指南做什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i3ugkj/what_exactly_am_i_supposed_to_do_with_this_guide/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想我被列入了黑名单。几个月前，我一直在使用 Esign 和普通的 eSign DN，在切换到 NextDNS 并被列入黑名单之前，它一直运行良好。现在我尝试了 Khoindvn 的新证书，它工作了一段时间，但后来它在 VPN 和设备管理中显示“未经验证”。我尝试切换 DNS，但没有帮助。现在，我无法下载其他 eSign。取消黑名单需要多长时间，或者我该如何解决这个问题（我厌倦了告诉人们只需重置，我现在没有电脑）？    提交人    /u/Worried_Impact3256   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i34yek/how_long_does_it_take_to_get_on_blacklisted/</guid>
       <pubDate>Fri, 17 Jan 2025 01:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redditfilter + Chrome（或首选浏览器）的“在 Reddit 中打开”iOS 快捷方式</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i33dsc/open_in_reddit_ios_shortcut_for_redditfilter/</link>
-      <description><![CDATA[我修改了由 /Manchovies 为现已停用的第三方 reddit 应用 (Reddplanet) 创建的快捷方式，以便仅打开 Reddit(filter)。 我没有安装官方 reddit 应用，我想这是一个要求，因此快捷方式只能看到 Redditfilter 应用。 在 Chrome 中，您可以添加操作并将其设置为收藏夹，以便它显示在顶部。 Imgur https://www.icloud.com/shortcuts/ed4e6ad6775b4b1a9ee135a57bfe46d5 编辑：对于 safari，我发现您只需使用应用商店中的“openinyt”即可    提交人    /u/vaezi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i33dsc/open_in_reddit_ios_shortcut_for_redditfilter/</guid>
-      <pubDate>Fri, 17 Jan 2025 00:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载快餐应用程序？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i32lw1/sideload_fastfood_apps/</link>
-      <description><![CDATA[刚刚想到，如果我们可以破解游戏，为什么我们不能（即使这是高度违法的）破解快餐应用程序，获得无限积分，从而获得无限餐食？就像一个可以拥有 100000000 麦当劳积分的应用程序？    提交人    /u/L2Inconnu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i32lw1/sideload_fastfood_apps/</guid>
-      <pubDate>Thu, 16 Jan 2025 23:31:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

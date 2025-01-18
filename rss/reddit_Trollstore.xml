@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 18 Jan 2025 00:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 03:09:55 GMT</lastBuildDate>
+    <item>
+      <title>我认为...iOS 20 发布后就会发现一个新的 CoreTrust 错误！</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i3xk3h/i_thinka_new_coretrust_bug_will_be_found_once_ios/</link>
+      <description><![CDATA[我怎么知道的？嗯……我不知道！我只是想打赌。但如果我猜对了，有人请我吃披萨吧。     提交人    /u/No_Proposal_5731   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i3xk3h/i_thinka_new_coretrust_bug_will_be_found_once_ios/</guid>
+      <pubDate>Sat, 18 Jan 2025 02:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>任何用于更改锁屏字体的巨魔商店应用程序（非越狱）</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i2mvg7/any_troll_store_application_for_change_lockscreen/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
       <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的设备只有 TrollStore，并且我关闭了 URL 方案</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</link>
-      <description><![CDATA[        提交人    /u/Tuchelsunderwear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hxaz6j/my_device_has_trollstore_only_and_i_switched_off/</guid>
-      <pubDate>Thu, 09 Jan 2025 11:42:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
