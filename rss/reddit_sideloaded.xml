@@ -4,13 +4,27 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 19 Jan 2025 09:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:17:03 GMT</lastBuildDate>
     <item>
-      <title>Arctic Repo 的应用建议</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i4tval/app_sugestions_for_arctic_repo/</link>
-      <description><![CDATA[需要建议哈哈    由   提交  /u/Mrsheep571   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i4tval/app_sugestions_for_arctic_repo/</guid>
-      <pubDate>Sun, 19 Jan 2025 08:17:25 GMT</pubDate>
+      <title>Radarbot 不能与 sideloadly 配合使用，但可以与 appdb 配合使用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4we1l/radarbot_doesnt_work_with_sideloadly_but_works/</link>
+      <description><![CDATA[大家好，我在调整侧载 radarbot 时遇到了问题。 也就是说，当我使用 sidloadly 安装它时，它可以正确安装，但打开后会出现连接错误，而使用相同的 IPA 通过 appdb 安装它时，应用程序可以打开并正常工作。 有没有办法通过 sidloadly 使其正常工作？ 提前感谢大家的帮助。    提交人    /u/BatZealousideal1400   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4we1l/radarbot_doesnt_work_with_sideloadly_but_works/</guid>
+      <pubDate>Sun, 19 Jan 2025 11:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的电子签名停止工作了，我需要帮助..</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4w0tf/my_esign_stopped_working_i_need_help/</link>
+      <description><![CDATA[2024 年有半年时间，我作为一个新手一直在使用 esign。运行非常顺畅。但突然间应用程序不让我打开，然后 esign 也不让我打开。好吧。我删除了 esign 和应用程序并再次执行该过程，它可以正常工作，我拿回了我的应用程序，但随后它又停止工作了。这次它甚至不让我下载 esign 这个东西。我现在该怎么办？我制作了自己的 dns 东西，我做了所有事情......人们说要完全重置我的手机，但我没有足够的存储空间来备份它。    提交人    /u/Active-Sound-9093   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4w0tf/my_esign_stopped_working_i_need_help/</guid>
+      <pubDate>Sun, 19 Jan 2025 10:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要链接到TikTok IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4utiy/do_not_link_to_tiktok_ipas/</link>
+      <description><![CDATA[如果您没有制作 IPA，则不允许在此处分发它们。请勿链接到任何包含它的 ipas 或 repos。这可能会导致 subreddit 被删除，因为新法律明确针对那些重新托管它的人。 大家注意安全。    提交人    /u/Lunascaped   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4utiy/do_not_link_to_tiktok_ipas/</guid>
+      <pubDate>Sun, 19 Jan 2025 09:28:25 GMT</pubDate>
     </item>
     <item>
       <title>请分享你最喜欢的 Live Container 调整</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨！我想问你一个问题。我能以某种方式在不使用 JIT 的情况下运行 !play 模拟器吗？因为我买了一个游戏手柄，我想随时随地玩游戏。    提交人    /u/PerfectDude228   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i4fvjr/run_ps2_emulation_without_jit/</guid>
       <pubDate>Sat, 18 Jan 2025 19:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否会有可以删除广告的 Snapchat IPA（这是我需要/想要的唯一功能）？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i4ewaw/will_there_ever_be_a_snapchat_ipa_that_removes/</link>
-      <description><![CDATA[类似这样的内容发布的可能性有多大？ 如果我们可以保存媒体，那将是一个额外的好处，但我无法忍受所有的广告！    提交人    /u/yellowroll   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i4ewaw/will_there_ever_be_a_snapchat_ipa_that_removes/</guid>
-      <pubDate>Sat, 18 Jan 2025 19:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我从 KravaSign 购买证书，我可以为通过 KravaSign 侧载的应用程序启用 JIT 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i4dmgu/can_i_enable_jit_for_apps_sideloaded_with/</link>
-      <description><![CDATA[换句话说，它是否支持 com.apple.security.get-task-allow？    提交人    /u/Temporary_Rest7721   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i4dmgu/can_i_enable_jit_for_apps_sideloaded_with/</guid>
-      <pubDate>Sat, 18 Jan 2025 18:15:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
