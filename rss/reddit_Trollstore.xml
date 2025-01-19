@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 19 Jan 2025 15:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 18:12:09 GMT</lastBuildDate>
+    <item>
+      <title>你们认为将来会发现另一个类似 CoreTrust 的错误吗？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1i53usj/do_yall_think_that_another_coretrustlike_bug_will/</link>
+      <description><![CDATA[如果这真的发生了，那真是太棒了。虽然真的不太可能。    由    /u/Valorant_Steve 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1i53usj/do_yall_think_that_another_coretrustlike_bug_will/</guid>
+      <pubDate>Sun, 19 Jan 2025 17:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何避免 TikTok 被封禁？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i4q2ef/how_to_bypass_tiktok_being_banned/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>无法拨打 FaceTime 电话 - Trollstore IOS 16.6</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i2hcmg/outgoing_facetime_calls_not_working_trollstore/</link>
-      <description><![CDATA[我使用 trollstore 已有一段时间了，但最近我注意到我只能接收 FaceTime 音频/视频通话，但似乎没人看到甚至错过我的 FaceTime 通话。有人也遇到过这个问题吗？你是怎么解决的？任何帮助都将不胜感激。    提交人    /u/Usma_Dihk   [link] [评论]]]></description>
+      <description><![CDATA[我使用 trollstore 已有一段时间了，但最近我注意到我只能接收 FaceTime 音频/视频通话，但似乎没人看到甚至错过我的 FaceTime 通话。有人也遇到了这个问题吗？你是怎么解决的？任何帮助都将不胜感激。    提交人    /u/Usma_Dihk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i2hcmg/outgoing_facetime_calls_not_working_trollstore/</guid>
       <pubDate>Thu, 16 Jan 2025 04:53:51 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>在评论中列出 trollapps 的仓库</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</link>
-      <description><![CDATA[“请不要重复 repos”    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
+      <description><![CDATA[“请不要重复 repos”    提交者    /u/NoozPrime   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</guid>
       <pubDate>Tue, 14 Jan 2025 03:26:48 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否可以在运行 iOS 18 的 iPad mini 6 上下载 trollstore？我看了一些视频，但我想确定一下    提交人    /u/Prestigious_Salad491   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxtevb/ios_1821/</guid>
       <pubDate>Fri, 10 Jan 2025 01:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关已修改 .ipa 文件的帮助</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</link>
-      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
-      <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
