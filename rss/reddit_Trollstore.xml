@@ -4,20 +4,13 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sun, 19 Jan 2025 12:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 15:09:29 GMT</lastBuildDate>
     <item>
       <title>如何避免 TikTok 被封禁？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i4q2ef/how_to_bypass_tiktok_being_banned/</link>
       <description><![CDATA[任何能帮忙的人    提交人    /u/Puzzled_Analyst_6078   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i4q2ef/how_to_bypass_tiktok_being_banned/</guid>
       <pubDate>Sun, 19 Jan 2025 04:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何安全地安装ipas？</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1i4drr5/how_to_install_ipas_safely/</link>
-      <description><![CDATA[如果文本不是黄色或橙色，那么应用程序是否安全？它能以某种方式逃离沙盒吗？使用注入的 dylibs 钥匙串功能等？ 我从拥有数千名成员的来源和群组中获取了 ipas，但它仍然让我感到疑神疑鬼    提交人    /u/quantumwebb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1i4drr5/how_to_install_ipas_safely/</guid>
-      <pubDate>Sat, 18 Jan 2025 18:22:15 GMT</pubDate>
     </item>
     <item>
       <title>任何用于更改锁屏字体的巨魔商店应用程序（非越狱）</title>
@@ -71,7 +64,7 @@
     <item>
       <title>在评论中列出 trollapps 的仓库</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</link>
-      <description><![CDATA[“请不要重复 repos”    提交者    /u/NoozPrime   [链接] [评论]]]></description>
+      <description><![CDATA[“请不要重复 repos”    由    /u/NoozPrime  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i0wvr3/lists_repos_for_trollapps_in_the_comments/</guid>
       <pubDate>Tue, 14 Jan 2025 03:26:48 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[是否可以在运行 iOS 18 的 iPad mini 6 上下载 trollstore？我看了一些视频，但我想确定一下    提交人    /u/Prestigious_Salad491   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxtevb/ios_1821/</guid>
       <pubDate>Fri, 10 Jan 2025 01:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关已修改 .ipa 文件的帮助</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</link>
+      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
