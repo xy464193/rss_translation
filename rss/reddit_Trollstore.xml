@@ -4,7 +4,7 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Sat, 18 Jan 2025 21:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 03:14:35 GMT</lastBuildDate>
     <item>
       <title>如何安全地安装ipas？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i4drr5/how_to_install_ipas_safely/</link>
@@ -106,7 +106,7 @@
     <item>
       <title>有关已修改 .ipa 文件的帮助</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</link>
-      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复此问题？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
+      <description><![CDATA[我修改了 .ipa 中一个文件的一个字符，并使文件结构与另一个可以正常工作的文件完全相同。但是 trollstore 说它无法在 .ipa 存档中找到应用程序包（解析错误 301）。我该如何修复？    提交人    /u/LifeislikelemonsE6EE   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1hxrop7/help_on_modified_ipa_files/</guid>
       <pubDate>Fri, 10 Jan 2025 00:24:09 GMT</pubDate>
     </item>
