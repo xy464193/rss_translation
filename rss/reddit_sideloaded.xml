@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 19 Jan 2025 03:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 06:12:47 GMT</lastBuildDate>
+    <item>
+      <title>发现 TikTok 绕过漏洞（美国）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4rprc/tiktok_bypass_found_usa/</link>
+      <description><![CDATA[TikTok Bypass（美国） 要求： • 安装了 iCloud 的笔记本电脑或 PC（网络版，不是 Microsoft Store） • iPhone 和 USB-C/Lightning 线 • VPN Unlimited 设置为加拿大，并启用 IKEv2 和 OpenVPN • 3uTools 用于加拿大的 GPS 欺骗 • Sideloadly 以侧载 TikTok IPA • 来自 IPAOMTK 的 TikTok IPA（在线搜索） • AdGuard 应用程序和 DNS 配置文件（Google“AdGuard DNS”进行安装） • Patience 步骤： 1. 安装 AdGuard 和 DNS 配置文件 在您的 iPhone 上下载并安装 AdGuard 应用程序。 激活应用程序并按照说明从其网站手动安装 AdGuard DNS 配置文件（搜索“AdGuard DNS”获取指导）。 2. 准备 VPN 在您的 PC 和 iPhone 上安装 VPN Unlimited。 将服务器设置为加拿大并打开。 在 VPN 设置中启用 IKEv2 和 OpenVPN。 3. GPS 欺骗 在您的电脑上安装 3uTools。使用 USB-C 或 Lightning 数据线将您的 iPhone 连接到 PC。打开 3uTools，转到工具箱，然后转到虚拟位置。将您的位置设置为加拿大。单击修改虚拟位置并重启您的 iPhone。4. 侧载 TikTok 从 IPAOMTK 下载 Sideloadly 和 TikTok IPA。打开 Sideloadly 并连接您的 iPhone。将 TikTok IPA 文件拖到 Sideloadly 中。出现提示时输入您的 Apple ID 凭据（如果需要，请使用临时 Apple ID）。等待 TikTok 安装在您的 iPhone 上。   登录 创建一个从未在 TikTok 上使用过的新 Google 帐户。打开 TikTok 并使用新的 Google 帐户登录。PSA：可能有问题，请仔细检查您的 vpn 设置、AdGuard dns、gps 欺骗位置和侧载应用程序     提交人    /u/Livid-Ad-5037   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4rprc/tiktok_bypass_found_usa/</guid>
+      <pubDate>Sun, 19 Jan 2025 05:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>snapchat 南卡罗来纳猎鹰</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4r1vf/snapchat_sc_falcon/</link>
+      <description><![CDATA[如果我安装旧版 snapchat sc falcon tweak 比如 12.71，它会起作用吗？请帮忙    提交人    /u/dead_eye-09   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4r1vf/snapchat_sc_falcon/</guid>
+      <pubDate>Sun, 19 Jan 2025 05:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以为 .ipa 添加本地网络发现权限吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4q6a2/can_i_add_local_network_discovery_permissions_to/</link>
+      <description><![CDATA[.ipa 没有本地网络发现权限。可以将其添加到 plist 中吗？还是需要二进制修改？    提交人    /u/Former_Cat_9470   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4q6a2/can_i_add_local_network_discovery_permissions_to/</guid>
+      <pubDate>Sun, 19 Jan 2025 04:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法制作一个 .ipa 文件，让 TikTok 在目前无法在美国使用的情况下再次可用？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i4pe81/would_there_be_a_way_to_make_an_ipa_that_could/</link>
+      <description><![CDATA[由于 TikTok 在美国不再可用，我很好奇是否有办法让 TikTok 相信你在美国境外，使用“破解的”（如果你可以这么称呼它）.ipa 文件。    提交人    /u/SkateBird2027   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i4pe81/would_there_be_a_way_to_make_an_ipa_that_could/</guid>
+      <pubDate>Sun, 19 Jan 2025 03:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>控制中心/锁屏中的空白控件</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i4ot2q/blank_controls_in_control_center_lockscreen/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[TS.Weather v0.2 发布了！🚀 嘿 Reddit！ 我很高兴地宣布发布 TS.Weather v0.2 — 一款使用 Swift 和 SwiftUI 构建的简洁直观的天气应用！ 🌤️ v0.2 中有哪些新功能？  实时天气：获取任何城市的最新天气信息。 5 天预报：通过详细的 5 天天气预报提前规划。 精美的动画：享受流畅且引人入胜的动画，获得更好的用户体验。  已知问题  某些 UI 元素可能无法在较小的屏幕上完美对齐。 获取天气数据偶尔会延迟。  如何使用  在搜索栏中输入城市名称以获取实时天气更新。 向左滑动即可查看 5 天预报。  下载 您可以下载该应用程序或在 GitHub 上查看源代码：GitHub 发布页面 反馈 我很乐意听到您的反馈！让我知道您的想法，并随时建议新功能或报告任何问题。 感谢您的支持！❤️  附注：如果您对 Swift/SwiftUI 开发感兴趣，请随时查看源代码并做出贡献！🛠️    提交人    /u/r0mch1k15   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i4n9qt/tsweather_finally_released/</guid>
       <pubDate>Sun, 19 Jan 2025 01:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shellshock live ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i4isww/shellshock_live_ipa/</link>
-      <description><![CDATA[有人有 Shellshock Live IPA 吗？拜托    提交人    /u/Used_Entry6206   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i4isww/shellshock_live_ipa/</guid>
-      <pubDate>Sat, 18 Jan 2025 22:10:05 GMT</pubDate>
     </item>
     <item>
       <title>既然人们每年只需支付 8 至 20 美元而不必处理任何问题，为什么还要选择免费方法呢？</title>
@@ -85,30 +106,9 @@
     <item>
       <title>我正在寻找最新更新的 rocket instagram ipa</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i499tt/im_looking_for_last_update_rocket_instagram_ipa/</link>
-      <description><![CDATA[有人有它吗？或者能告诉我确切的下载位置吗？到处都是让你下载假文件或其他文件的网站，我需要确定，我知道最新的是 362.10 对吗？哪个应该在本月 1 月发布，对吗？我在哪里可以下载它？    提交人    /u/Jax_Teller7   [link] [评论]]]></description>
+      <description><![CDATA[有人有它吗？或者能告诉我确切的下载位置吗？到处都是让你下载假文件或其他文件的网站，我需要确定，我知道最新的是 362.10 对吗？哪个应该是本月 1 月发布的，对吗？我在哪里可以下载它？    提交人    /u/Jax_Teller7   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i499tt/im_looking_for_last_update_rocket_instagram_ipa/</guid>
       <pubDate>Sat, 18 Jan 2025 14:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Mac 上下载 IPA 文件，然后在 IOS 上侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i46ztq/how_do_i_download_ipa_files_on_mac_and_then/</link>
-      <description><![CDATA[      我正在使用苹果配置器来执行此操作，但我需要先在我的 macOS 上安装 IPA 文件，因此我收到一个错误，这是... 有什么办法可以绕过它 https://preview.redd.it/ancfmy2i2rde1.png?width=251&amp;format=png&amp;auto=webp&amp;s=ec7c0f81f71f45677fe4b338c8d193933183f423    提交人    /u/Own-Comfortable-5418   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i46ztq/how_do_i_download_ipa_files_on_mac_and_then/</guid>
-      <pubDate>Sat, 18 Jan 2025 12:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载一定数量的应用程序后是否会有任何限制或约束？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i46uzm/is_there_any_limits_or_restrictions_after/</link>
-      <description><![CDATA[您好，我是侧载应用程序的新手。我使用 Sideload 在我的 iPhone 上侧载了两个应用程序。我可以安装更多应用程序吗，还是我的 Apple 帐户会出现问题？我记得 Sideloadly 提到过在我的 iPhone 上安装的应用程序数量限制为 10 个。我不确定这是否会激活应用程序，或者是否会阻止我安装更多应用程序。提前致谢    提交人    /u/BasraEmpire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i46uzm/is_there_any_limits_or_restrictions_after/</guid>
-      <pubDate>Sat, 18 Jan 2025 12:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>宁静</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i46l4r/serenity/</link>
-      <description><![CDATA[您觉得这个应用怎么样？ Serenity 是一个即将推出的基于 Web 的第三方商店，它将您的文件上传到云端，免费的最大文件大小为 5GB。此应用还具有 Repo 支持，这意味着您可以直接从存储库对应用进行签名或将其导入 scarlet/trollstore/altstore 等，您还可以安装 .ipa 文件。签名器完全免费，配置也是如此，它允许您注入 Dylibs/Debs、更改应用的版本/名称/捆绑包 ID、更改授权，这一切都因为我们使用 zsign 而实现。您还可以在 Serenity 中共享数据，这意味着您可以使用此应用与其他人共享证书/存储库/设置。为应用设置主题；您可以更改 webclip 的名称/图标 &amp; 还有主题让 Serenity 看起来更好 &amp;您可以更改字体等。还有一个很酷的“调整”页面，让您可以为每个 iOS 版本安装有趣的 .mobileconfig，例如虚拟越狱/包管理器。添加证书时，除了添加 p12 和 mobileprovision 文件外，您还可以选择始终使用最新的企业证书或切换到当前适合您的旧证书。其他内容：该应用程序还有一个帮助中心，页面可直接通过应用程序请求应用程序/调整，serenity 还允许您启用机器人程序，包括通知过滤器页面，以便您可以过滤收到的通知类型，它有开发人员工具，您还可以垂直锁定应用程序。您还可以清除本地存储，从而删除所有存储库、证书和设置。闲聊会话结束。 在此处查看图片： https://i.imgur.com/Rean3ss.png https://i.imgur.com/k0BqiPI.png https://i.imgur.com/lnQZxMF.png    提交人    /u/serenity-ios   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i46l4r/serenity/</guid>
-      <pubDate>Sat, 18 Jan 2025 12:31:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
