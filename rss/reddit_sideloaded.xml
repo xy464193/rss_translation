@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 21 Jan 2025 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 18:13:50 GMT</lastBuildDate>
+    <item>
+      <title>有谁能帮助我使用 Regram</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6jxon/can_anyone_help_me_with_regram/</link>
+      <description><![CDATA[我使用 AltStore 侧载我的应用程序，但无法下载 Regram（Instagram ipa），它使用 Rocket/Theta 没有问题，但就是无法安装 Regram？ 任何帮助都将不胜感激！    提交人    /u/aaruno   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6jxon/can_anyone_help_me_with_regram/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:36:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看 Minercraft Luncher</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6hxfd/pojav_minercraft_luncher/</link>
+      <description><![CDATA[您好，我想下载 Pojav Minercraft 启动器，但之前从未这样做过，也没有任何其他关于 ipa 文件的想法。所以我知道如何轻松做到这一点，而无需付出太多努力，也无需投入资金。    提交人    /u/Initial_Rhubarb_3473   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6hxfd/pojav_minercraft_luncher/</guid>
+      <pubDate>Tue, 21 Jan 2025 12:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6hlzh/looking_for_advice/</link>
+      <description><![CDATA[大家好，我知道这里已经有很多指南了，所以我希望这篇文章不会被删掉。我想知道：我有 ios 17.6.1，你认为侧载的最佳方法是什么？我试过 Sidestore，但它不断崩溃。 抱歉我的英语不好，我来自意大利。谢谢     提交人    /u/sugobugo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6hlzh/looking_for_advice/</guid>
+      <pubDate>Tue, 21 Jan 2025 12:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个 DNS 最好？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6hjme/which_dns_is_the_best/</link>
+      <description><![CDATA[我听说过 NextDNS，Khomod。也许还有更多我不知道。 哪个 DNS 最好？    提交人    /u/Valorant_Steve   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6hjme/which_dns_is_the_best/</guid>
+      <pubDate>Tue, 21 Jan 2025 12:32:24 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以为我创建 API 密钥吗</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i6g2ov/can_anyone_please_create_an_api_key_for_me/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      我正在尝试总结我在本篇文章中学到的所有东西sub。如果我错了或者我理解了所有内容，请纠正我。 在第一个屏幕截图中，我们有一个已撤销的证书。要使用该证书在我的 iPhone 中侧载应用程序，我需要一个 DNS。我需要 DNS，这样 Apple 就不会检测到证书已被撤销。如果我关闭 DNS，或者它被泄露（这种情况很少见，至少我希望如此），Apple 会将我的 iPhone 列入黑名单。如果我想在我的 iPhone 上侧载，我需要删除黑名单。所以我需要将我的 iPhone 备份到 iCloud，然后重置我的 iPhone。 在第二个屏幕截图中，我们有一个已签名的证书。因为这个证书还没有被撤销，而且它已经签名，所以我不需要 DNS 就可以使用此证书侧载应用程序。我只需使用 sign.kravasign.com 和该证书签署 Feather，使用该证书设置 Feather，然后使用 Feather 侧载应用程序。直到该签名证书被撤销。当这种情况发生时，我所有的应用程序都将停止工作。要么我 100% 会立即被列入黑名单，要么我有可能被列入黑名单。如果我没有被列入黑名单，我只需等待新的签名证书即可。如果我真的被列入黑名单，我必须先备份并重置我的 iPhone。 我是否理解了一切？有什么我遗漏了的东西？有什么我完全错的东西吗？或者我完全正确。请让我知道 🙏🏼。    提交人    /u/Valorant_Steve   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i5yf8c/so_if_i_use_a_signed_cert_i_dont_need_a_dns_but/</guid>
       <pubDate>Mon, 20 Jan 2025 19:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序崩溃？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5xp68/crashing_apps/</link>
-      <description><![CDATA[我使用的是 iPadOS 18.2 测试版，并拥有付费证书。非越狱。我注意到很多应用程序在打开后立即崩溃，或者在执行特定操作后立即崩溃。我尝试使用 eSign + feather 对有问题的应用程序进行签名，无论哪种方式都得到相同的结果。我还尝试从不同的存储库对应用程序进行签名，以防 IPA 损坏或其他问题，但结果相同。这是侧载的常见问题吗？这种情况的常见原因是什么？iOS 版本？坏的 ipa？可以修改 ipa 以某种方式修复吗？我是新手，不知道修改或注入 dylibs 究竟意味着什么，但如果有人有好的链接或可以帮助我的东西，我很想了解。  谢谢    提交人    /u/couch-lock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5xp68/crashing_apps/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的 iOS 上修改 spotify premium？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5xmsp/how_do_i_get_spotify_premium_modded_on_my_ios/</link>
-      <description><![CDATA[像 sideloadly 不同，我喜欢更安全的东西，我也想不用 PC 就能刷新    提交人    /u/StrikeredL   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5xmsp/how_do_i_get_spotify_premium_modded_on_my_ios/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，你们知道有什么好用的均衡器应用程序吗？或者有什么好用的链接可以让我找到它吗？请不要购买使用</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5x1da/hey_do_you_guys_know_any_good_sound_equalizer_app/</link>
-      <description><![CDATA[我想要一个免费的应用程序...谢谢     提交人    /u/Own-Comfortable-5418   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5x1da/hey_do_you_guys_know_any_good_sound_equalizer_app/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于安装未越狱的 ipad ios 15.6 trollstore 后 ipa 崩溃的问题。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5wmax/question_regarding_crashing_ipa_unjailbroken_ipad/</link>
-      <description><![CDATA[我安装了 trollstore，尝试安装在线找到的 Korg Gadget 2/3 .ipa，由于某种原因不断崩溃。有什么解决办法吗？    提交人    /u/rkbit29   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5wmax/question_regarding_crashing_ipa_unjailbroken_ipad/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
