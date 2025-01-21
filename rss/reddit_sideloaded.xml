@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 21:09:11 GMT</lastBuildDate>
+    <item>
+      <title>幸存者 io 修改版 ipa</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6scf1/survivor_io_modded_ipa/</link>
+      <description><![CDATA[有人有最近更新的 survivor io modded ipa 吗？    提交人    /u/-Galaxy_wolf-OwO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6scf1/survivor_io_modded_ipa/</guid>
+      <pubDate>Tue, 21 Jan 2025 20:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPad 到 iPhone</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6r98s/ipad_to_iphone/</link>
+      <description><![CDATA[是否有应用程序或软件可以将 ipad ipa 转换为与 iphone 一起使用，或者这是否可能？    提交人    /u/ScreamingFlip   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6r98s/ipad_to_iphone/</guid>
+      <pubDate>Tue, 21 Jan 2025 19:42:03 GMT</pubDate>
+    </item>
     <item>
       <title>有谁能帮助我使用 Regram</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i6jxon/can_anyone_help_me_with_regram/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[每次我尝试下载 Scarlet，甚至在它开始下载之前，它都会显示“无法验证应用程序完整性”，并且它不会出现在“VPN 和设备管理”中。 如果很多人问这个问题让您觉得烦人，我很抱歉。 谢谢    提交人    /u/Mizukiwannabe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i64v93/pls_help/</guid>
       <pubDate>Mon, 20 Jan 2025 23:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsorblock 无法在 YT Plus 20.02.3 上运行？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5z1z6/sponsorblock_not_working_yt_plus_20023/</link>
-      <description><![CDATA[最近下载了最新版本的 YT Plus Ver. 20.02.3。我喜欢做的事情之一是被要求跳过片段，所以我在 Sponsorblock 部分为所有片段都添加了“询问”。我重新启动应用程序，但窗口没有出现。见鬼，我尝试了所有选项上的“在播放器中显示”选项，但没有看到任何可以跳过片段的内容。是只有我一个人遇到这个问题，还是其他人也遇到了这个问题？以及有什么解决方案吗？感谢任何帮助。    提交人    /u/brod625   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5z1z6/sponsorblock_not_working_yt_plus_20023/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>因此，如果我使用签名证书，则不需要 DNS，但如果我使用已撤销的证书，则需要 DNS</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5yf8c/so_if_i_use_a_signed_cert_i_dont_need_a_dns_but/</link>
-      <description><![CDATA[      我正在尝试总结我在本篇文章中学到的所有东西sub。如果我错了或者我理解了所有内容，请纠正我。 在第一个屏幕截图中，我们有一个已撤销的证书。要使用该证书在我的 iPhone 中侧载应用程序，我需要一个 DNS。我需要 DNS，这样 Apple 就不会检测到证书已被撤销。如果我关闭 DNS，或者它被泄露（这种情况很少见，至少我希望如此），Apple 会将我的 iPhone 列入黑名单。如果我想在我的 iPhone 上侧载，我需要删除黑名单。所以我需要将我的 iPhone 备份到 iCloud，然后重置我的 iPhone。 在第二个屏幕截图中，我们有一个已签名的证书。因为这个证书还没有被撤销，而且它已经签名，所以我不需要 DNS 就可以使用此证书侧载应用程序。我只需使用 sign.kravasign.com 和该证书签署 Feather，使用该证书设置 Feather，然后使用 Feather 侧载应用程序。直到该签名证书被撤销。当这种情况发生时，我所有的应用程序都将停止工作。要么我 100% 会立即被列入黑名单，要么我有可能被列入黑名单。如果我没有被列入黑名单，我只需等待新的签名证书即可。如果我真的被列入黑名单，我必须先备份并重置我的 iPhone。 我是否理解了一切？有什么我遗漏了的东西？有什么我完全错的东西吗？或者我完全正确。请让我知道 🙏🏼。    提交人    /u/Valorant_Steve   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5yf8c/so_if_i_use_a_signed_cert_i_dont_need_a_dns_but/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:19:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
