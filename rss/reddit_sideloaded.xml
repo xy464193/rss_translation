@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 21 Jan 2025 09:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:18:33 GMT</lastBuildDate>
+    <item>
+      <title>有人可以为我创建 API 密钥吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6g2ov/can_anyone_please_create_an_api_key_for_me/</link>
+      <description><![CDATA[我需要由 Apple Developer 创建的 API 密钥 ID 和颁发者 ID。我非常需要它，但我可以支付 Apple Developers 的订阅费    提交人    /u/ham0zzz   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6g2ov/can_anyone_please_create_an_api_key_for_me/</guid>
+      <pubDate>Tue, 21 Jan 2025 10:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是不是聊天聊得有点过了？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6g1r4/am_i_cooked_chat/</link>
+      <description><![CDATA[就像我在尝试寻找证书来安装 esign 或 scarlet，然后我不小心点击了一个证书 p12 东西，它就冻结了。 （其实不是，它冻结了应用程序，它们在开始时就冻结了，然后才完全冻结。 我重启了手机。）然后在 vpn 中，有两个“身份证书”（顺便说一下未经验证..？）我删除了它们我在 iphone 11 上，所以是的，我肯定完蛋了🙏永远不会得到一部 iphone。     提交人    /u/Actual-Paper-6769   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6g1r4/am_i_cooked_chat/</guid>
+      <pubDate>Tue, 21 Jan 2025 10:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>sidestore + WireGuard 是否仍应是一个手动过程？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i6epys/is_sidestore_wireguard_supposed_to_be_a_manual/</link>
+      <description><![CDATA[我已将 WireGuard 设置为按需。但每周，我都看到侧边存储仍然需要刷新，因此我使用 WireGuard 并打开 vpn - 它从不自行打开。我以为它应该自动连接 vpn？ 我也将 WireGuard 设置为我的 WiFi ssid。    提交人    /u/piece_of_shyt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i6epys/is_sidestore_wireguard_supposed_to_be_a_manual/</guid>
+      <pubDate>Tue, 21 Jan 2025 09:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>将 watusi 侧载到 WhatsApp 或任何其他经过修改的 WhatsApp 是否安全？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i6dyvf/is_it_safe_to_sideload_watusi_for_whatsapp_or_any/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我安装了 trollstore，尝试安装在线找到的 Korg Gadget 2/3 .ipa，由于某种原因不断崩溃。有什么解决办法吗？    提交人    /u/rkbit29   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i5wmax/question_regarding_crashing_ipa_unjailbroken_ipad/</guid>
       <pubDate>Mon, 20 Jan 2025 18:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在没有电脑的情况下获取 iPhone SE 2 上的 Apple 情报</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5vkr7/how_on_earth_do_u_get_apple_intelligence_on/</link>
-      <description><![CDATA[有人可以告诉我吗，我会很高兴的 😀     提交人    /u/Primary-Offer1992   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5vkr7/how_on_earth_do_u_get_apple_intelligence_on/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在同一设备上使用不同的证书而不会引起苹果的问题吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5vff2/can_i_use_different_certificates_on_the_same/</link>
-      <description><![CDATA[我有 apptester 证书，但偶尔会遇到问题（这其实不是他们的错），而且要等待很长时间才能解决，所以我想从 kravasign 或 dxsign 另外获取另一个证书。 是否有可能在同一设备上签署多个证书而不会出现问题？    提交人    /u/Dramatic_Dark_Opera   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5vff2/can_i_use_different_certificates_on_the_same/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以关闭 khoin DNS 中的广告软件过滤器吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i5vfaj/can_i_turn_off_the_adware_filter_in_khoin_dns/</link>
-      <description><![CDATA[如果广告软件过滤器处于打开状态，则无法在游戏中获得广告奖励。如果我关闭此过滤器，Apple 可以弄清楚侧载吗？    提交人    /u/qn1304   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i5vfaj/can_i_turn_off_the_adware_filter_in_khoin_dns/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:20:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
