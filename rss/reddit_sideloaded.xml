@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 23 Jan 2025 12:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 18:13:40 GMT</lastBuildDate>
+    <item>
+      <title>需要有关 eSign 安装和证书的帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i86e1j/need_help_with_esign_installation_and_certificates/</link>
+      <description><![CDATA[大家好， 大约一个月前，我开始使用 eSign，按照 YouTube 上的教程和 WSF 指南进行安装。一切都运行良好，直到昨天我不小心删除了 DNS 配置，现在我必须从头开始。 这次，我遇到了一个问题，我无法安装门户应用程序，因为它不断被撤销。当我联系支持人员时，他们说我需要在 DFU 模式下重置我的设备来解决这个问题。但是，重置对我来说是一项繁重的工作，所以我正在考虑购买证书。 以下是我的问题：1. 如果我获得了新的移动管理和 P12 文件，我是否可以将其与 eSign 一起使用？2. 如何使用新证书安装 eSign？可以在 FlekStore 内直接完成吗？ 3. 我是否仍需要 DNS 配置文件来防止应用程序被撤销，或者证书是否可以解决这个问题？ 4. 我是否必须重置设备才能安装任何证书，或者我可以避免该步骤？ 我是这方面的完全初学者，因此非常感谢任何指导或建议。提前致谢！    提交人    /u/CantaloupeDismal1989   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i86e1j/need_help_with_esign_installation_and_certificates/</guid>
+      <pubDate>Thu, 23 Jan 2025 15:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助解决侧载问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i84yuj/help_with_sideload_issues/</link>
+      <description><![CDATA[nba 2K25 街机版帮助 大家好，有谁能帮我解决 nba 2K25 街机版问题？ 我购买了 esing 证书，可以玩 Apple Arcade 游戏，我可以安装 nba，但当我尝试进入时，它说无法下载游戏的基本资源。支持人员告诉我，这是因为应用程序可以识别出它正在被侧载！有人知道该如何修复它吗？    提交人    /u/Fit_War_9291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i84yuj/help_with_sideload_issues/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:47:30 GMT</pubDate>
+    </item>
     <item>
       <title>Instagram 改良 IPA</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i81r8q/instagram_modified_ipa/</link>
@@ -29,14 +43,14 @@
     <item>
       <title>如何在没有侧载或侧存的情况下进行侧载？？？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i7zx1x/how_do_i_sideload_without_sideload_or_sidestore/</link>
-      <description><![CDATA[我的意思是没有 sideloady* 和 sidestore 的东西实际上可以工作，而不是要求在 PC 上具有管理员权限而不是 eSign 的可疑操作，这看起来也很可疑    提交人    /u/StrikeredL   [link] [评论]]]></description>
+      <description><![CDATA[我的意思是没有 sideloady* 和 sidestore 的东西实际上可以工作，而不是要求在 PC 中具有管理员权限而不是 eSign 的可疑操作，这看起来也很可疑    提交人    /u/StrikeredL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i7zx1x/how_do_i_sideload_without_sideload_or_sidestore/</guid>
       <pubDate>Thu, 23 Jan 2025 09:50:16 GMT</pubDate>
     </item>
     <item>
       <title>如何让我的手机认为我在欧盟？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i7xcpw/how_to_make_my_phone_think_im_in_the_eu/</link>
-      <description><![CDATA[您好，我在圣诞节收到了一部 iPhone 14，我住在澳大利亚。我使用 Trollstore 等工具进行了相当长一段时间的侧载，但我的新手机有最新的 iOS。 那么，我该如何让它认为我的手机在欧盟，这样我就可以进行侧载等？    提交人    /u/HenryofSAC   [link] [评论]]]></description>
+      <description><![CDATA[您好，我在圣诞节收到了一部 iPhone 14，我住在澳大利亚。我已经使用 Trollstore 等工具进行了相当长一段时间的侧载，但我的新手机有最新的 iOS。 那么，我该如何让它认为我的手机在欧盟，这样我就可以进行侧载等？    提交人    /u/HenryofSAC   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i7xcpw/how_to_make_my_phone_think_im_in_the_eu/</guid>
       <pubDate>Thu, 23 Jan 2025 06:33:16 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想使用 PojavLauncher 在我的 iPhone 上玩 MC Java。 但它需要 JIT。 我的问题是，我可以在 LiveContainer 中使用 JIT 运行 PojavLauncher 吗（没有 PC）？    提交人    /u/Valorant_Steve   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i7jedv/does_livecontainer_work_with_apps_needing_jit/</guid>
       <pubDate>Wed, 22 Jan 2025 19:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能解释一下为什么从 Esign 安装的某些 IPAS 无法打开吗？我在应用程序中输入内容，它会自动关闭。有人有解决方案吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i7i8az/can_someone_explain_to_me_why_some_ipas_installed/</link>
-      <description><![CDATA[我进入应用程序，它自动将我带出，我已经尝试了它的几个版本和应用程序，但还是发生了同样的事情    提交人    /u/forr_eversatoru   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i7i8az/can_someone_explain_to_me_why_some_ipas_installed/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 nba 2K25 街机版的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i7i6gb/help_with_nba_2k25_arcade_edition/</link>
-      <description><![CDATA[大家好，有谁能帮我下载 nba 2K25 街机版吗？ 我购买了 esing 证书，可以让我玩 Apple Arcade 游戏，我可以安装 nba，但当我尝试进入它时，它说无法下载游戏的基本资源。支持人员告诉我，这是因为应用程序可以识别出它正在被侧载！有人知道该如何修复它吗？    提交人    /u/Fit_War_9291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i7i6gb/help_with_nba_2k25_arcade_edition/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:33:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
