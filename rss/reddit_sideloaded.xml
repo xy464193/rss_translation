@@ -4,7 +4,56 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 24 Jan 2025 03:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 06:13:58 GMT</lastBuildDate>
+    <item>
+      <title>稍后再感谢我并打开这个</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8oqbm/thank_me_later_and_open_this/</link>
+      <description><![CDATA[https://archive.org/download/ios-ipa-collection    由   提交  /u/szafan4lifeee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8oqbm/thank_me_later_and_open_this/</guid>
+      <pubDate>Fri, 24 Jan 2025 05:54:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不确定这里是不是可以问的地方，但有人有 Box Container Pro 邀请码吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8ok9v/im_not_sure_if_this_is_the_place_to_ask_but_does/</link>
+      <description><![CDATA[如果有人有的话我会非常感激     由   提交  /u/Ze-aku   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8ok9v/im_not_sure_if_this_is_the_place_to_ask_but_does/</guid>
+      <pubDate>Fri, 24 Jan 2025 05:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何可用的 ipa 更新程序吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8nq96/any_ipa_updater_available/</link>
+      <description><![CDATA[有没有什么工具可以将 32 位游戏转换为 64 位？如果没有，有谁知道该怎么做。我一直想玩 2011 年的俄勒冈小道，我已经讨厌 ipa 了，唯一的问题是启动它，因为应用程序需要更新。    提交人    /u/garbage_ahh_site   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8nq96/any_ipa_updater_available/</guid>
+      <pubDate>Fri, 24 Jan 2025 04:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>spotify premium ipa 指南</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8n04a/guide_for_spotify_premium_ipa/</link>
+      <description><![CDATA[我对 ipas 一无所知，真的很困惑。有人可以链接指南或给出如何操作的说明吗？我有一部运行 iOS 16.7 的 iPhone 8    提交人    /u/Miserable-Ocelot-271   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8n04a/guide_for_spotify_premium_ipa/</guid>
+      <pubDate>Fri, 24 Jan 2025 04:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>人是傻子吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8mx76/are_people_dumb/</link>
+      <description><![CDATA[我看到有人在谈论 iOS 设备在 eBay 上与 tiktok 一起以高价出售……这对侧载程序来说是一个潜在的无限金钱故障吗？    提交人    /u/roninshere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8mx76/are_people_dumb/</guid>
+      <pubDate>Fri, 24 Jan 2025 04:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新：Feather v1.2.0 已经发布！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8mi25/update_feather_v120_is_out/</link>
+      <description><![CDATA[大家好，新的羽毛更新在这里，带有一个巨大的更新日志，请查看！ 注意：由于有很多变化，预计使用此更新中的应用程序时会出现一定程度的错误，所以请注意！ 如果有任何错误，请在 github 上报告！ 改变了什么  feat：在签名配置中添加了“游戏模式”选项 feat：在签名应用程序时能够更改为现有的替代应用程序图标 feat：应用更新 自动检测应用是否需要更新，如果用户拥有同一个应用程序的多个存储库，这很可能无法正常工作  修复：通过使用其他提供程序修复本地安装 用户现在应该能够通过覆盖文件来自定义他们的证书和 url 路径在文档目录中  feat：动态保护 此保护使用 iTunes API 来查看应用商店中是否存在匹配的软件包标识符，如果存在，它将相应地更改标识符  feat：签名视图中的证书更改 您可以在签名时通过滑动证书单元格来更改证书  feat：自动保存签名选项设置 签名选项现在将自动保存，无需不断按保存按钮  feat：添加中文支持 修复：修复了未选择证书时崩溃的问题 feat：添加更多 url 方案路径 feat：在签名选项中自动替换显示名称 RU 本地化更新 JA 本地化更新  Github https://github.com/khcrysalis/Feather    由   提交  /u/Joastyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8mi25/update_feather_v120_is_out/</guid>
+      <pubDate>Fri, 24 Jan 2025 03:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>uYouPlus 和 uYouEnhanced 之间有什么区别？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8m1zq/differences_between_uyouplus_v_uyouenhanced/</link>
+      <description><![CDATA[12 年来我拥有了第一部 iPhone，对侧载功能还比较陌生，我只是想知道这两款手机之间有什么大的区别？用哪个比较好？    提交人    /u/ced14986   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8m1zq/differences_between_uyouplus_v_uyouenhanced/</guid>
+      <pubDate>Fri, 24 Jan 2025 03:19:33 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道 altstore 是否更好或 sideloadly 的优缺点吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i8lkqq/anyone_know_if_altstore_better_or_sideloadly_pros/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[      所以，我的 iPhone 被列入了黑名单。因此 DNS 方法不起作用，它显示“无法验证完整性”。 我的问题是：当它再次签名时，我可以在被列入黑名单的 iPhone 上直接安装 Scarlet 吗？ 或者我被列入黑名单，甚至无法在签名后安装它？    提交人    /u/Valorant_Steve   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i8bz6f/when_scarlet_is_signed_again_will_i_be_able_to/</guid>
       <pubDate>Thu, 23 Jan 2025 19:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该买什么证书？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i8atiu/what_certificate_should_i_buy/</link>
-      <description><![CDATA[您好，我的 maplesign 证书将在 10 天后过期。我想知道我应该在哪里更新我的证书，因为 maplesign 不再存在？你们有什么建议吗？谢谢！    提交人    /u/Embarrassed_Cut3800   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i8atiu/what_certificate_should_i_buy/</guid>
-      <pubDate>Thu, 23 Jan 2025 18:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关 eSign 安装和证书的帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i86e1j/need_help_with_esign_installation_and_certificates/</link>
-      <description><![CDATA[大家好， 大约一个月前，我开始使用 eSign，按照 YouTube 上的教程和 WSF 指南进行安装。一切都运行良好，直到昨天我不小心删除了 DNS 配置，现在我必须从头开始。 这次，我遇到了一个问题，我无法安装门户应用程序，因为它不断被撤销。当我联系支持人员时，他们说我需要在 DFU 模式下重置我的设备来解决这个问题。但是，重置对我来说是一项繁重的工作，所以我正在考虑购买证书。 以下是我的问题：1. 如果我获得了新的移动管理和 P12 文件，我是否可以将其与 eSign 一起使用？2. 如何使用新证书安装 eSign？可以在 FlekStore 内直接完成吗？ 3. 我是否仍需要 DNS 配置文件来防止应用程序被撤销，或者证书是否可以解决这个问题？ 4. 我是否必须重置设备才能安装任何证书，或者我可以避免该步骤？ 我是这方面的完全初学者，因此非常感谢任何指导或建议。提前致谢！    提交人    /u/CantaloupeDismal1989   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i86e1j/need_help_with_esign_installation_and_certificates/</guid>
-      <pubDate>Thu, 23 Jan 2025 15:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助解决侧载问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i84yuj/help_with_sideload_issues/</link>
-      <description><![CDATA[nba 2K25 街机版帮助 大家好，有谁能帮我解决 nba 2K25 街机版问题？ 我购买了 esing 证书，可以玩 Apple Arcade 游戏，我可以安装 nba，但当我尝试进入时，它说无法下载游戏的基本资源。支持人员告诉我，这是因为应用程序可以识别出它正在被侧载！有人知道该如何修复它吗？    提交人    /u/Fit_War_9291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i84yuj/help_with_sideload_issues/</guid>
-      <pubDate>Thu, 23 Jan 2025 14:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 改良 IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i81r8q/instagram_modified_ipa/</link>
-      <description><![CDATA[有人知道哪里可以找到 Instagram 的修改版本，它不是破解的 regram，或者是一次性购买而不是每月订阅 patreon？我非常痴迷于隐私，而且没有技术技能（即使我确实进行侧载，这也是一种矛盾），我想要半合法的 repos，这些 repos 至少来自场景中知名的开发人员，或者使用开源的 git hub 工具，因此是半安全的    提交人    /u/dnl97   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i81r8q/instagram_modified_ipa/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i81e7f/esign_question/</link>
-      <description><![CDATA[      嗨，我主要使用 Esign 将 deb 注入应用程序以进行测试。我最近尝试签署一个应用程序并收到此错误。有什么建议可以解决此问题吗？此外，所有证书都显示“撤销”。任何帮助都将不胜感激。提前感谢您的回复。 ;)   由    /u/ncgnto  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i81e7f/esign_question/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>ethSign 的库？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i811ep/libraries_for_ethsign/</link>
-      <description><![CDATA[正在寻找用于 esign 或 feather 的 ethSign 库或存储库    由   提交  /u/FakeDinner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i811ep/libraries_for_ethsign/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在没有侧载或侧存的情况下进行侧载？？？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i7zx1x/how_do_i_sideload_without_sideload_or_sidestore/</link>
-      <description><![CDATA[我的意思是没有 sideloady* 和 sidestore 的东西实际上可以工作，而不是要求在 PC 中具有管理员权限而不是 eSign 的可疑操作，这看起来也很可疑    提交人    /u/StrikeredL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i7zx1x/how_do_i_sideload_without_sideload_or_sidestore/</guid>
-      <pubDate>Thu, 23 Jan 2025 09:50:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
