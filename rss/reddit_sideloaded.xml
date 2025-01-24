@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 24 Jan 2025 12:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:10:01 GMT</lastBuildDate>
+    <item>
+      <title>列入黑名单</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8v5y0/blacklisted/</link>
+      <description><![CDATA[所以我发现我的 iPhone 被列入黑名单 14 到 33 天。这是否意味着我无法在任何地方获得 CERT，或者只能从 kravasign 获得？    提交人    /u/jlinn75   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8v5y0/blacklisted/</guid>
+      <pubDate>Fri, 24 Jan 2025 13:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，如果不是这个或 altstore subreddit，我可以在哪个 subreddit 上询问有关 IPA 文件的问题？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8upyr/hey_so_what_subreddit_can_i_ask_about_ipa_files/</link>
+      <description><![CDATA[谢什    由   提交  /u/OutrageousCream4219   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8upyr/hey_so_what_subreddit_can_i_ask_about_ipa_files/</guid>
+      <pubDate>Fri, 24 Jan 2025 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是我的 SideStore 快捷方式的更新版本</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i8u2rx/this_is_the_updated_version_of_my_shortcut_for/</link>
+      <description><![CDATA[我之前为总是忘记刷新的 SideStore 用户做了一个快捷方式。 编辑：更改了链接，修复了一些问题 快捷方式：https://www.icloud.com/shortcuts/f83cd08a66234ecaa2f57ad1c1e8d3b0 我的上一篇文章：https://www.np.reddit.com/r/sideloaded/s/h0hl8jQQ7X 它有一个漂亮的菜单对于那些不想观看视频的人来说，只需进行设置（它只设置了 VPN 部分，您仍然必须设置您的 Apple ID） 如果您有任何要求，请在此处发表评论，或者如果我在快捷方式中遗漏了某些内容，或者您​​对快捷方式有任何问题，请随时在此处发布内容    提交人    /u/Kiwai__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i8u2rx/this_is_the_updated_version_of_my_shortcut_for/</guid>
+      <pubDate>Fri, 24 Jan 2025 12:18:01 GMT</pubDate>
+    </item>
     <item>
       <title>TS.Notes 发布！</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i8ta5b/tsnotes_released/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>应用程序无法安装 SideStore，但可以与 Sideloadly 和 TrollStore 配合使用</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i8t6x7/app_fails_sidestore_installation_but_works_with/</link>
-      <description><![CDATA[大家好，我有一个应用程序，当我尝试将我在网上找到的任何 ipa 安装到 SideStore（已更新到最新版本）时，它不断给出“可执行文件已使用无效授权签名”错误。这个相同的 ipa 文件在 SideLoadly 和 TrollStore 上都可以正常工作。由于我已经尝试了 4 个替代 ipas，但它们都因相同的错误而失败，有没有办法让 SideStore 使用此文件？它可以很好地安装其他 ipa 文件。谢谢 :)    提交人    /u/met_MY_verse   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有一个应用程序，当我尝试将在线找到的任何 ipa 安装到 SideStore（已更新到最新版本）时，它不断给出“可执行文件已使用无效授权签名”错误。这个相同的 ipa 文件在 SideLoadly 和 TrollStore 上都可以正常工作。由于我已经尝试了 4 个替代 ipas，但它们都因相同的错误而失败，有没有办法让 SideStore 使用此文件？它可以很好地安装其他 ipa 文件。谢谢 :)    提交人    /u/met_MY_verse   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i8t6x7/app_fails_sidestore_installation_but_works_with/</guid>
       <pubDate>Fri, 24 Jan 2025 11:20:45 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>Zx 的一体化 repo 坏了吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i8qw9h/zxs_allinone_repo_down/</link>
-      <description><![CDATA[发现 json 链接不起作用。它被删除了吗？    提交人    /u/PogPig75   [链接] [评论]]]></description>
+      <description><![CDATA[发现 json 链接不起作用。它被删除了吗？    提交者    /u/PogPig75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i8qw9h/zxs_allinone_repo_down/</guid>
       <pubDate>Fri, 24 Jan 2025 08:29:42 GMT</pubDate>
     </item>
@@ -41,32 +62,11 @@
       <pubDate>Fri, 24 Jan 2025 07:43:30 GMT</pubDate>
     </item>
     <item>
-      <title>稍后再感谢我并打开这个</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i8oqbm/thank_me_later_and_open_this/</link>
-      <description><![CDATA[https://archive.org/download/ios-ipa-collection    由   提交  /u/szafan4lifeee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i8oqbm/thank_me_later_and_open_this/</guid>
-      <pubDate>Fri, 24 Jan 2025 05:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不确定这里是不是可以问的地方，但有人有 Box Container Pro 邀请码吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i8ok9v/im_not_sure_if_this_is_the_place_to_ask_but_does/</link>
-      <description><![CDATA[如果有人有的话我会非常感激     由   提交  /u/Ze-aku   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i8ok9v/im_not_sure_if_this_is_the_place_to_ask_but_does/</guid>
-      <pubDate>Fri, 24 Jan 2025 05:43:19 GMT</pubDate>
-    </item>
-    <item>
       <title>有任何可用的 ipa 更新程序吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i8nq96/any_ipa_updater_available/</link>
       <description><![CDATA[有没有什么工具可以将 32 位游戏转换为 64 位？如果没有，有谁知道该怎么做。我一直想玩 2011 年的俄勒冈小道，我已经讨厌 ipa 了，唯一的问题是启动它，因为应用程序需要更新。    提交人    /u/garbage_ahh_site   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i8nq96/any_ipa_updater_available/</guid>
       <pubDate>Fri, 24 Jan 2025 04:53:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>spotify premium ipa 指南</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i8n04a/guide_for_spotify_premium_ipa/</link>
-      <description><![CDATA[我对 ipas 一无所知，真的很困惑。有人可以链接指南或给出如何操作的说明吗？我有一部运行 iOS 16.7 的 iPhone 8    提交人    /u/Miserable-Ocelot-271   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i8n04a/guide_for_spotify_premium_ipa/</guid>
-      <pubDate>Fri, 24 Jan 2025 04:11:57 GMT</pubDate>
     </item>
     <item>
       <title>人是傻子吗？</title>
