@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 25 Jan 2025 18:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 21:08:06 GMT</lastBuildDate>
+    <item>
+      <title>无法通过 TikTok 侧载的登录屏幕（TikTok 在美国被禁）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i9wwf6/cant_get_pass_the_login_screen_for_tiktok/</link>
+      <description><![CDATA[TikTok 在美国被禁，所以我决定侧载 TikTok，但我无法登录或创建新账户。我收到一条错误消息，提示“意外错误” 我已经尝试过的方法  使用 4 个不同的 TikTok ipa 侧载 TikTok，其中一个甚至是来自日本的解密 ipa 尝试在使用 Nordvpn 时登录或创建新账户。有人能帮帮我吗🙏     提交人    /u/Littleoemmett   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i9wwf6/cant_get_pass_the_login_screen_for_tiktok/</guid>
+      <pubDate>Sat, 25 Jan 2025 20:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有神秘案件档案：命运夫人的 ipa 吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i9wst9/does_anyone_have_the_ipa_for_mystery_case/</link>
+      <description><![CDATA[您好，这是我第一次在 r/sideload 发帖，希望这里的任何人都可以提供帮助。 我在寻找一款名为 Mystery Case File Madame Fate 的游戏，该游戏曾在 App Store 中，但后来被删除，可能是因为它没有更新 我将它在我爸爸的旧帐户中，但现在我无法访问它，并且没有它的 ipa 在任何地方，所以你可以称它为丢失的 ipa 如果有人有它的版本，请将其转储，请这样做 我想在我的 iPhone 上玩这个游戏很长时间了 任何能让我得到它的 ipa 的东西都将不胜感激    提交人    /u/Lanky-Path346   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i9wst9/does_anyone_have_the_ipa_for_mystery_case/</guid>
+      <pubDate>Sat, 25 Jan 2025 20:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法通过侧载应用触发 iOS/iPadOS 游戏模式？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i9vzfr/any_way_to_trigger_iosipados_game_mode_with_side/</link>
+      <description><![CDATA[有没有办法通过侧载应用触发 iOS/iPadOS 游戏模式？ 我可以访问 Apple 开发者工具。我需要在标识符中启用什么吗？我尝试的游戏在从 App Store 下载时启用了游戏模式。    提交人    /u/Jeff03blue_Instinct   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i9vzfr/any_way_to_trigger_iosipados_game_mode_with_side/</guid>
+      <pubDate>Sat, 25 Jan 2025 20:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>在应用程序内打开 TikTok 链接</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i9s1js/open_tiktok_links_inside_of_app/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>除了 zsign 之外，PC 或网络上是否还有其他工具既可以使用 p12 证书签名 IPA，又可以使用 tweak dylibs 注入它？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i989ek/is_there_any_tool_on_pc_or_the_web_besides_zsign/</link>
-      <description><![CDATA[我知道 feather 和 esign，但我更喜欢在 PC 上签署我的 ipas，这样更简单。我有一台 Windows，但不是很懂技术，我觉得尝试编译 zsign 会付出比它值得的更多的努力，而且我在网上能找到的唯一编译版本是 2021 年左右的 我知道有些网站可以在线签署 IPA，我不是要求那样。我在要求那些你也可以在 IPA 中注入调整的网站    提交人    /u/_urn   [链接] [评论]]]></description>
+      <description><![CDATA[我知道 feather 和 esign，但我更喜欢在我的 PC 上签署我的 ipas，这样更简单。我有一台 Windows，但不是超级技术达人，我觉得尝试编译 zsign 会付出比它值得的更多的努力，而且我在网上能找到的唯一编译版本是 2021 年左右的 我知道有些网站可以在线签署 IPA，我不是要求那样。我在要求那些你也可以在 IPA 中注入调整的网站    提交人    /u/_urn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i989ek/is_there_any_tool_on_pc_or_the_web_besides_zsign/</guid>
       <pubDate>Fri, 24 Jan 2025 22:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 阻止访问某些应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i963px/dns_blocking_access_to_certain_apps/</link>
-      <description><![CDATA[我试图在我的 iPhone 上访问我的体育博彩和相关应用程序，但它一直给我连接错误或无限加载。我得出的结论是，这是由于 DNS 过滤器阻止它运行造成的。我的问题是，我是否可以使用 NextDNS 或 Adguard 来访问这些应用程序，同时仍然绕过对我的 esign/sideloaded 应用程序的撤销。谢谢。    提交人    /u/InternationalAd7386   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i963px/dns_blocking_access_to_certain_apps/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览解密的 YouTube IPA</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i95yid/navigating_decrypted_youtube_ipa/</link>
-      <description><![CDATA[我找不到一个可以不出错地阻止短信的 YouTube 调整版本（我找到的最接近的是 uYou 增强版 v18.0.3），所以我希望自己制作一个。我有一个解密的 IPA，但有人知道代码导航指南吗？    由   提交  /u/randoufu3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i95yid/navigating_decrypted_youtube_ipa/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Movieboxpro 邀请码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i93mx3/movieboxpro_invitation_code/</link>
-      <description><![CDATA[有人可以滑动邀请码吗！    提交人    /u/Distinct-Royal-6698   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i93mx3/movieboxpro_invitation_code/</guid>
-      <pubDate>Fri, 24 Jan 2025 19:24:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
