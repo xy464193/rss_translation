@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 25 Jan 2025 09:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 12:15:56 GMT</lastBuildDate>
+    <item>
+      <title>最近从 uYouEnhanced 切换到 YouTube Plus (FKA YTLite)。是否有允许在锁定屏幕上播放的设置？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i9kq9z/recently_switched_from_uyouenhanced_to_youtube/</link>
+      <description><![CDATA[当我锁定手机时，YouTube Plus 会停止播放。我找不到更改此设置的选项。在 uYouEnhanced 上，当我锁定屏幕时，视频的音频会继续播放。如果可能的话，我希望在 YouTube Plus 上启用此功能。 这对我来说是个大问题，所以如果这不可能，我将不得不回到 uYouEnhanced。 非常感谢    提交人    /u/AkashKS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i9kq9z/recently_switched_from_uyouenhanced_to_youtube/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以侧载 7 天</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1i9jvbo/kodi_sideloadly_7days/</link>
+      <description><![CDATA[我还有 2 天时间才能通过 Sideloadly 在 Apple TV 上续订 Kodi。我今天怎么才能再续订 7 天呢？我总是在 Sideloadly 中收到错误 8220    提交人    /u/Crzy999   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1i9jvbo/kodi_sideloadly_7days/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:04:26 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些可以安全查找 ipas 的网站？（而且免费）</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i9j52b/what_are_some_safe_websites_to_find_ipas_and_free/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>除了 zsign 之外，PC 或网络上是否还有其他工具既可以使用 p12 证书签名 IPA，又可以使用 tweak dylibs 注入它？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i989ek/is_there_any_tool_on_pc_or_the_web_besides_zsign/</link>
-      <description><![CDATA[我知道 feather 和 esign，但我更喜欢在 PC 上签署我的 ipas，这样更简单。我有一台 Windows，但不是很懂技术，我觉得尝试编译 zsign 会付出比它值得的更多的努力，而且我在网上能找到的唯一编译版本是 2021 年左右的 我知道有些网站可以在线签署 IPA，我不是要求那样。我在要求那些你也可以在 IPA 中注入调整的网站    提交人    /u/_urn   [链接] [评论]]]></description>
+      <description><![CDATA[我知道 feather 和 esign，但我更喜欢在我的 PC 上签署我的 ipas，这样更简单。我有一台 Windows，但不是超级技术达人，我觉得尝试编译 zsign 会付出比它值得的更多的努力，而且我在网上能找到的唯一编译版本是 2021 年左右的 我知道有些网站可以在线签署 IPA，我不是要求那样。我在要求那些你也可以在 IPA 中注入调整的网站    提交人    /u/_urn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i989ek/is_there_any_tool_on_pc_or_the_web_besides_zsign/</guid>
       <pubDate>Fri, 24 Jan 2025 22:44:25 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>推荐一些 Feather 仓库吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1i91wy1/recommended_feather_repos/</link>
-      <description><![CDATA[寻找一些好的和更新的 .json 存储库！任何指导都非常感谢！ 我添加的很多存储库已经死了或永远没有更新，所以越新越好！    提交人    /u/PIatopus   [link] [comments]]]></description>
+      <description><![CDATA[寻找一些好的和更新的 .json 存储库！任何指导都非常感谢！ 我添加的很多存储库已经死了或者永远没有更新了，所以越新越好！    提交人    /u/PIatopus   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1i91wy1/recommended_feather_repos/</guid>
       <pubDate>Fri, 24 Jan 2025 18:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以安装多少个 LiveContainer？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i916fe/how_many_livecontainers_can_i_install/</link>
-      <description><![CDATA[所以，LiveContainer 是一款非常棒的应用程序。唯一的缺点是您一次只能运行 1 个应用程序。LiveContainer 中有一个设置，可让您安装另一个 LiveContainer 实例。 因此，您可以同时运行 2 个应用程序。我的问题是，您可以重复此过程并安装无限个 LiveContainer 吗？并且同时运行无限个应用程序。还是只有 2 个？ 如果只有 2 个，我是否可以只修改 LiveContainer 的 ipa 文件并使用 SideStore 再次安装它。那么我可以拥有 4 个 LiveContainer 并同时打开 4 个应用程序吗？    提交人    /u/Valorant_Steve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i916fe/how_many_livecontainers_can_i_install/</guid>
-      <pubDate>Fri, 24 Jan 2025 17:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人在用 signulous 吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i8zdly/anyone_still_use_signulous/</link>
-      <description><![CDATA[效果好吗？    提交人    /u/ObjectiveDocument956   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i8zdly/anyone_still_use_signulous/</guid>
-      <pubDate>Fri, 24 Jan 2025 16:28:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
