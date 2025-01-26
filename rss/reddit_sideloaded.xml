@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 26 Jan 2025 12:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 15:09:17 GMT</lastBuildDate>
+    <item>
+      <title>如何修改应用程序的 .ipa 文件以绕过基于 UDID 的身份验证？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iagfs9/how_do_i_modify_the_ipa_file_of_an_app_to_bypass/</link>
+      <description><![CDATA[我第一次将应用程序侧载到我的 iPhone 上。 这是一款流行视频游戏 (方舟终极版) 的修改版。 制作该修改版的人要求的游戏价格高得离谱，他们基本上会向您发送一个与您的 UDID 关联的密钥，您需要此密钥才能使用该应用程序。 我可以只删除 ipa 文件中管理此身份验证的部分并完全绕过购买密钥的需要吗？我不会每周为这款游戏支付 60 美元。    提交人    /u/Regular_Confusion901   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iagfs9/how_do_i_modify_the_ipa_file_of_an_app_to_bypass/</guid>
+      <pubDate>Sun, 26 Jan 2025 14:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法在 BHTwitter 上打开 2 倍视频速度？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iag84t/is_there_anyway_to_turn_on_2x_video_speed_on/</link>
+      <description><![CDATA[或者有其他没有广告和此功能的替代方案吗？    提交人    /u/Dsnahans   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iag84t/is_there_anyway_to_turn_on_2x_video_speed_on/</guid>
+      <pubDate>Sun, 26 Jan 2025 14:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>（教程）如何在禁令后下载TikTok</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iae3l9/tutorial_how_to_download_tiktok_after_the_ban/</link>
+      <description><![CDATA[感谢在我上一篇 Reddit 帖子中帮助我找到此绕过方法的人！ 步骤 1：侧载此修改后的 TikTok 版本（此版本绕过区域限制并具有其他很酷的功能） https://www.dropbox.com/scl/fi/kwed61fm243sfxnw4ti3a/TikTok.ipa?rlkey=ijfhi4401g3u4i8zg299qbays&amp;st=zb6hr3my&amp;dl=0 步骤 2：成功下载 TikTok .ipa 文件后，您只需要通过用户名和密码登录即可。（Facebook、Google 等登录不起作用）。此外，尝试登录 TikTok 时不要使用任何 vpn 或位置欺骗器，这导致我最初无法登录我的帐户。 额外：如果您不知道您的 TikTok 密码，请在 TikTok 网站上重置密码。 步骤 3：您已全部完成，您应该可以成功登录 TikTok。如果你们遇到任何问题，请告诉我！    提交人    /u/Littleoemmett   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iae3l9/tutorial_how_to_download_tiktok_after_the_ban/</guid>
+      <pubDate>Sun, 26 Jan 2025 13:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>uYou Plus/增强音量过低</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iacihp/uyou_plus_enhanced_volume_too_low/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[寻找一款可以在车里休息时使用而无需越狱的应用程序。我目前也在使用 signulous。    提交人    /u/ObjectiveDocument956   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ia04sc/is_there_an_app_that_lets_me_watch_movies_and_tv/</guid>
       <pubDate>Sat, 25 Jan 2025 23:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何仅使用 PC 进行设置的免费侧面加载应用程序吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i9zp4f/any_free_side_loading_apps_that_only_use_pc_to/</link>
-      <description><![CDATA[对此不太了解，但据我所知，Altstore 需要每 7 天连接一次 PC。有没有不需要这样做的替代方案？    提交人    /u/SeaManufacturer12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i9zp4f/any_free_side_loading_apps_that_only_use_pc_to/</guid>
-      <pubDate>Sat, 25 Jan 2025 23:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>JitStreamer 2.0 现已推出（部分发布）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i9xof7/jitstreamer_20_available_now_partial_release/</link>
-      <description><![CDATA[JitStreamer-EB (2.0) 现已部分发布，只需按照链接页面中的步骤操作即可。设置完成后，它根本不需要 PC，而且几乎完美无缺。这里有一个视频演示了设置后它是多么容易使用 https://streamable.com/8y7zgw  适用于 iOS 18    提交人    /u/No-Agency2719   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i9xof7/jitstreamer_20_available_now_partial_release/</guid>
-      <pubDate>Sat, 25 Jan 2025 21:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 UYou 的修复方法吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1i9xkkv/anyone_know_a_fix_for_uyou/</link>
-      <description><![CDATA[想知道是否有办法修复 uYou 的问题，向下滚动应用程序时什么都没有，只有黑色，然后视频在几秒钟后弹出。几乎就像延迟或滞后一样。     提交人    /u/x24amd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1i9xkkv/anyone_know_a_fix_for_uyou/</guid>
-      <pubDate>Sat, 25 Jan 2025 21:29:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
