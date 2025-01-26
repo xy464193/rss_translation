@@ -4,7 +4,35 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sun, 26 Jan 2025 15:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 18:12:00 GMT</lastBuildDate>
+    <item>
+      <title>在哪里可以使用 get-task-allow 获取开发证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iajl5h/where_do_i_get_development_certificates_with/</link>
+      <description><![CDATA[我在哪里可以购买带有 get-task-allow 的开发证书？KravaSign 没有这个……所以我在哪里可以买到？请仅在您自己检查过后才回答    提交人    /u/Temporary_Rest7721   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iajl5h/where_do_i_get_development_certificates_with/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试通过 sidestore 使用 livecontainer 时如何修复此问题？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iajciq/how_to_fix_this_issue_when_trying_to_use/</link>
+      <description><![CDATA[      当我单击“修补 sidestore”和“测试 jitless”时发生这种情况    提交人    /u/Car-Grouchy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iajciq/how_to_fix_this_issue_when_trying_to_use/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在还能创建一个临时 Apple ID 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iaid69/is_it_even_possible_to_create_a_burner_apple_id/</link>
+      <description><![CDATA[我一直在尝试侧载《无尽之剑》游戏，但似乎无法再创建假的 Apple ID。每次我在 Windows iTunes 上尝试时，它都会显示“联系 Apple 支持”并带有无用的链接，当我尝试登录我的帐户时，它显示此帐户目前不可用。     由   提交  /u/No-Dingo2062   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iaid69/is_it_even_possible_to_create_a_burner_apple_id/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买 esign 证书</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iahytl/buying_esign_certs/</link>
+      <description><![CDATA[如果我购买了 esign 证书，我是否仍需要启用 DNS 以防止被列入黑名单？    提交人    /u/Spiritual-Shift3091   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iahytl/buying_esign_certs/</guid>
+      <pubDate>Sun, 26 Jan 2025 15:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>如何修改应用程序的 .ipa 文件以绕过基于 UDID 的身份验证？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iagfs9/how_do_i_modify_the_ipa_file_of_an_app_to_bypass/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>有没有什么好的适用于 iOS 的侧载应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iabea1/are_there_any_good_sideloading_apps_for_ios/</link>
-      <description><![CDATA[我想获得 delta executor，但找不到任何不需要越狱或 PC 的好用或可靠的侧载应用程序。有没有什么好的应用程序可以做到这一点？    提交人    /u/Garythegaryz   [link] [评论]]]></description>
+      <description><![CDATA[我想获取 delta executor，但找不到任何不需要越狱或 PC 的好用或可靠的侧载应用程序。有没有什么好的应用程序可以做到这一点？    提交人    /u/Garythegaryz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iabea1/are_there_any_good_sideloading_apps_for_ios/</guid>
       <pubDate>Sun, 26 Jan 2025 10:41:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[使用付费证书的 feather。todoist、structured 和 things3 等应用都存在问题。它们可以安装，但打开时会崩溃。有修复方法吗？    提交人    /u/Boricuababy69   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ia6w23/issues_with_apps_crashing/</guid>
       <pubDate>Sun, 26 Jan 2025 05:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>叶子</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ia3qjx/folium/</link>
-      <description><![CDATA[我最近开始使用 delta，但发现它不能玩 3ds 游戏，我想下载 folium，但我不会为它付费，到处搜索经过修改的 AppStore，比如 tutu，试图免费下载它，但没有任何帮助，我也没有电脑，正在研究侧载，但它让我很困惑（尊重制作 folium 的开发人员，并不是说它的价格不合理，我只是宁愿把钱花在现实生活中的东西上）任何帮助获得应用程序的帮助都将不胜感激，我也在网上看到了 folium ++ 的视频，但我在网上找不到任何关于它的内容     提交人    /u/EquipmentFamiliar275   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ia3qjx/folium/</guid>
-      <pubDate>Sun, 26 Jan 2025 02:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monkey App IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ia3epr/monkey_app_ipa/</link>
-      <description><![CDATA[有人有旧的 Monkey App IPA 吗？因为它已从 IOS 应用商店中删除？    提交人    /u/bumbasticcc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ia3epr/monkey_app_ipa/</guid>
-      <pubDate>Sun, 26 Jan 2025 02:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>烦人的弹出窗口</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ia0dby/annoying_pop_up/</link>
-      <description><![CDATA[      我有这个 ipa，过了一段时间它开始显示这个弹出窗口，我无法关闭。有什么办法可以从 ipa 中删除它吗？我不能使用其他 ipa，因为它有点旧版本，我更喜欢新版本，而且我找不到其他旧版本。    提交人    /u/Express-Bill-8034   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ia0dby/annoying_pop_up/</guid>
-      <pubDate>Sat, 25 Jan 2025 23:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一个应用程序可以让我在 Apple Car Play 屏幕上观看电影和电视？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ia04sc/is_there_an_app_that_lets_me_watch_movies_and_tv/</link>
-      <description><![CDATA[寻找一款可以在车里休息时使用而无需越狱的应用程序。我目前也在使用 signulous。    提交人    /u/ObjectiveDocument956   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ia04sc/is_there_an_app_that_lets_me_watch_movies_and_tv/</guid>
-      <pubDate>Sat, 25 Jan 2025 23:27:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
