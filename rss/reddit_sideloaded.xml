@@ -4,18 +4,25 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 27 Jan 2025 15:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 18:13:41 GMT</lastBuildDate>
+    <item>
+      <title>将 iOS 16 更新到最新版本（18.2.1）有什么缺点吗？在 13 pro 上</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ibbni5/any_downsides_updating_ios_16_to_the_newest_one/</link>
+      <description><![CDATA[我没有越狱，我只有 2 个侧载应用程序    提交人    /u/camillexoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ibbni5/any_downsides_updating_ios_16_to_the_newest_one/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>本地签名</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</link>
-      <description><![CDATA[我真的需要一个可靠的答案，localsigning 在 ios 18.1 上有效吗？很多人说他们在 RC18 中修复了它，但我无法让它工作。我之前尝试过用企业证书签名，而且成功了。现在我已经从 dxsign 购买了证书，但它不起作用了。所以是肯定的还是否定的？如果是，我需要做什么来启用它吗？    提交人    /u/KamRize   [link] [评论]]]></description>
+      <description><![CDATA[我真的需要一个可靠的答案，localsigning 在 ios 18.1 上有效吗？很多人说他们在 RC18 中修复了它，但我无法让它工作。我之前尝试过用企业证书签名，而且成功了。现在我已经从 dxsign 购买了证书，但它不起作用了。所以是肯定的还是否定的？如果是，我需要做些什么来启用它吗？    提交人    /u/KamRize   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</guid>
       <pubDate>Mon, 27 Jan 2025 15:01:46 GMT</pubDate>
     </item>
     <item>
       <title>添加源的快捷方式</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ib7ncx/useful_shortcut_for_adding_sources/</link>
-      <description><![CDATA[大家好，我只是想分享一下我拥有的这个快捷方式。它的作用是为许多不同的侧载工具添加不同的受信任存储库，包括 AltStore、SideStore、Feather、GBox、Scarlet、ESign 和 TrollApps。我希望它能帮助你们，因为它对我非常有用。 icloud 链接  预览其功能    提交人    /u/Luhjusbetta   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我只是想分享一下我拥有的这个快捷方式。它的作用是为许多不同的侧载工具添加不同的受信任存储库，包括 AltStore、SideStore、Feather、GBox、Scarlet、ESign 和 TrollApps。我希望它能帮助你们，因为它对我非常有用。 icloud 链接  预览其功能    提交者    /u/Luhjusbetta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ib7ncx/useful_shortcut_for_adding_sources/</guid>
       <pubDate>Mon, 27 Jan 2025 12:26:58 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>现在还能创建一个临时 Apple ID 吗？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iaid69/is_it_even_possible_to_create_a_burner_apple_id/</link>
-      <description><![CDATA[我一直在尝试侧载《无尽之剑》游戏，但似乎无法再创建假的 Apple ID。每次我在 Windows iTunes 上尝试时，它都会显示“联系 Apple 支持”并带有无用的链接，当我尝试登录我的帐户时，它显示此帐户目前不可用。     由   提交  /u/No-Dingo2062   [link] [评论]]]></description>
+      <description><![CDATA[我一直在尝试侧载《无尽之剑》游戏，但似乎无法再创建假的 Apple ID。每次我在 Windows iTunes 上尝试时，它都会显示“联系 Apple 支持”并带有无用的链接，而当我尝试登录我的帐户时，它显示此帐户目前不可用。     由   提交  /u/No-Dingo2062   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iaid69/is_it_even_possible_to_create_a_burner_apple_id/</guid>
       <pubDate>Sun, 26 Jan 2025 16:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买 esign 证书</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iahytl/buying_esign_certs/</link>
-      <description><![CDATA[如果我购买了 esign 证书，我是否仍需要启用 DNS 以防止被列入黑名单？    提交人    /u/Spiritual-Shift3091   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iahytl/buying_esign_certs/</guid>
-      <pubDate>Sun, 26 Jan 2025 15:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
