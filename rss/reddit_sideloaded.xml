@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Mon, 27 Jan 2025 12:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:09:59 GMT</lastBuildDate>
+    <item>
+      <title>本地签名</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</link>
+      <description><![CDATA[我真的需要一个可靠的答案，localsigning 在 ios 18.1 上有效吗？很多人说他们在 RC18 中修复了它，但我无法让它工作。我之前尝试过用企业证书签名，而且成功了。现在我已经从 dxsign 购买了证书，但它不起作用了。所以是肯定的还是否定的？如果是，我需要做什么来启用它吗？    提交人    /u/KamRize   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>添加源的快捷方式</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ib7ncx/useful_shortcut_for_adding_sources/</link>
+      <description><![CDATA[大家好，我只是想分享一下我拥有的这个快捷方式。它的作用是为许多不同的侧载工具添加不同的受信任存储库，包括 AltStore、SideStore、Feather、GBox、Scarlet、ESign 和 TrollApps。我希望它能帮助你们，因为它对我非常有用。 icloud 链接  预览其功能    提交人    /u/Luhjusbetta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ib7ncx/useful_shortcut_for_adding_sources/</guid>
+      <pubDate>Mon, 27 Jan 2025 12:26:58 GMT</pubDate>
+    </item>
     <item>
       <title>有谁有适用于 SideStore 的 Procreate IPA？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ib5dpi/does_anyone_have_a_working_procreate_ipa_for/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Signulous 最新 CapCut</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ib4q12/signulous_latest_capcut/</link>
-      <description><![CDATA[有人从他们的应用库中获取了该应用吗？我收到一条安全警告消息，告诉我直接从 App Store 下载它    提交人    /u/quitas_   [link] [comments]]]></description>
+      <description><![CDATA[有人从他们的应用库中下载过这个应用吗？我收到一条安全警告消息，告诉我直接从 App Store 下载它    提交人    /u/quitas_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ib4q12/signulous_latest_capcut/</guid>
       <pubDate>Mon, 27 Jan 2025 09:48:54 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[如果我购买了 esign 证书，我是否仍需要启用 DNS 以防止被列入黑名单？    提交人    /u/Spiritual-Shift3091   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iahytl/buying_esign_certs/</guid>
       <pubDate>Sun, 26 Jan 2025 15:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修改应用程序的 .ipa 文件以绕过基于 UDID 的身份验证？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iagfs9/how_do_i_modify_the_ipa_file_of_an_app_to_bypass/</link>
-      <description><![CDATA[我第一次将应用程序侧载到我的 iPhone 上。 这是一款流行视频游戏 (方舟终极版) 的修改版。 制作该修改版的人要求的游戏价格高得离谱，他们基本上会向您发送一个与您的 UDID 关联的密钥，您需要此密钥才能使用该应用程序。 我可以只删除 ipa 文件中管理此身份验证的部分并完全绕过购买密钥的需要吗？我不会每周为这款游戏支付 60 美元。    提交人    /u/Regular_Confusion901   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iagfs9/how_do_i_modify_the_ipa_file_of_an_app_to_bypass/</guid>
-      <pubDate>Sun, 26 Jan 2025 14:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 BHTwitter 上打开 2 倍视频速度？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iag84t/is_there_anyway_to_turn_on_2x_video_speed_on/</link>
-      <description><![CDATA[或者有其他没有广告和此功能的替代方案吗？    提交人    /u/Dsnahans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iag84t/is_there_anyway_to_turn_on_2x_video_speed_on/</guid>
-      <pubDate>Sun, 26 Jan 2025 14:43:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
