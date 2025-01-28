@@ -4,13 +4,20 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 28 Jan 2025 18:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 21:09:28 GMT</lastBuildDate>
     <item>
-      <title>您建议添加哪些存储库？ 是否有更新的列表？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ic70sc/what_repos_do_you_recommend_adding_is_there_an/</link>
-      <description><![CDATA[正在寻找要添加的存储库！我找到的很多资源要么已关闭，要么未更新，要么不存在。  任何帮助都感激不尽！     由   提交  /u/PIatopus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ic70sc/what_repos_do_you_recommend_adding_is_there_an/</guid>
-      <pubDate>Tue, 28 Jan 2025 17:31:09 GMT</pubDate>
+      <title>JitStreamer-EB 发布</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic93tr/jitstreamereb_release/</link>
+      <description><![CDATA[大家早上好！希望你们今天过得很愉快。 我是 jkcoxson，我刚刚发布了一项新服务，可让您通过互联网激活 JIT。它被称为 JitStreamer-EB，它是开源的，可以免费使用。  在 https://jkcoxson.com/jitstreamer 上有安装说明，当我有时间时，视频安装将很快发布到我的频道：https://www.youtube.com/@jkcoxson 社区支持的 Discord：https://discord.gg/xRvWJ79cTc 一点历史：几年前，我和几个朋友开发了第一个 JitStreamer。它上线了很长一段时间，但我找到了一种使用 SideStore 在设备上激活 JIT 的方法，所以我让服务器关闭了。此后不久，我离开去教堂服务了两年。  在我离开的那段时间里，Apple 更新了他们的开发工具，使得旧的 JitStreamer 和 SideStore 在 JIT 方面变得毫无用处。好吧，大约一个月前我回家了，开发了一个新的 JitStreamer！ 请放心，设备上的 JIT 将会回归。我已经铺平了大部分道路，只需要对一些细节协议进行逆向工程，然后是一些前端工作堵嘴。 与此同时，JitStreamer 可以在任何有 WiFi 的地方激活 JIT。 仍有工作要做：快捷方式对某些人来说不起作用，所以我们正在设计一个网络应用程序来填补那些不幸的人的空白。锁定数据库存在问题，需要用真正的队列系统来替换。  这些问题都不是大问题，但仍有待解决。 我利用业余时间为这个系统投入了大量精力。我是一名大学生，需要您的支持才能继续从事此类工作。如果此计划对您有帮助，请考虑捐款：https://buymeacoffee.com/jkcoxson 祝您有美好的一天！    提交人    /u/jkcoxson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic93tr/jitstreamereb_release/</guid>
+      <pubDate>Tue, 28 Jan 2025 18:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪泽尔 IPA</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic8s4u/deezer_ipa/</link>
+      <description><![CDATA[请问您有 Deezer Ipa 吗    提交人    /u/ReplacementJolly7939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic8s4u/deezer_ipa/</guid>
+      <pubDate>Tue, 28 Jan 2025 18:42:46 GMT</pubDate>
     </item>
     <item>
       <title>有谁有更新的 Tinder</title>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 28 Jan 2025 13:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试在 IOS 14 上侧载 YouTube 18.22.9 版本，但它不起作用，我不知道为什么，我做错了什么？</title>
+      <title>我尝试在 IOS 14 上侧面加载 YouTube 18.22.9 版本，但它不起作用，我不知道为什么，我做错了什么？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</link>
       <description><![CDATA[标题说明了一切，我试图在装有 v14 IOS 的 iPad 上获取 YouTube 应用 18.22.9 版本的工作版本，我花了 4 个半小时独自尝试解决这个问题，但我完全不知道自己在做什么，并且开始因为极度沮丧而流泪！ 需要澄清的是，我确实有另一台运行更高版本 IOS 的 iPad，但即便如此，我仍然绝对无法忍受更高版本的 YouTube 应用的 UI 布局（尤其是观看历史记录选项卡），我尝试使用“LetMePass”调整，但它甚至不让我启动修改后的版本应用，我不知道我做错了什么。 我试图避免使用涉及越狱或提供我的 Apple-ID 的任何东西，所以我最终在我的 PC（Windows 10）上使用 sidloadly 来注入 deb文件转换成我想要的 YouTube 版本的 ipa 文件，然后使用我找到的名为“InstallOnAir”的网站将其作为应用程序安装在我的 iPad 上！ 任何建议都将不胜感激！！ 我使用的资源/文件的链接： deb 文件（LetMePass）：https://github.com/0xilis/LetMePass/releases/tag/1.4 ipa（YouTube v18.22.9）：https://ipabox.net/id544007664/ InstallOnAir 链接（修改后的 ipa）：https://www.installonair.com/app-download-link/at6BNl    由   提交  /u/FennecLover69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>合适的侧载应用商店在哪里？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ibzexk/where_is_a_proper_sideloaded_app_store/</link>
-      <description><![CDATA[所以我终于让 Sideloadly 工作了，这太神奇了，其他的像 AltServer 和 Sidestore 都不能用，另外我该怎么做才能让它可以在没有电脑的情况下刷新？也不必安装修改过的 ios 软件？    提交人    /u/StrikeredL   [link] [评论]]]></description>
+      <description><![CDATA[所以我终于让 Sideloadly 工作了，这太神奇了，其他的像 AltServer 和 Sidestore 都不能用，另外我该怎么做才能让它可以在没有电脑的情况下刷新？也不需要安装修改过的 ios 软件？    提交人    /u/StrikeredL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ibzexk/where_is_a_proper_sideloaded_app_store/</guid>
       <pubDate>Tue, 28 Jan 2025 11:24:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人更新到 18.3 来查看侧载是否有效吗？（更新：是的）    提交人    /u/Sphinctor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ibn97t/sideload_in_183/</guid>
       <pubDate>Mon, 27 Jan 2025 23:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何 yt 音乐高级 ipa</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ibm675/any_yt_music_premium_ipa/</link>
-      <description><![CDATA[寻找可以下载音乐的 ipa    提交人    /u/MKTAB_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ibm675/any_yt_music_premium_ipa/</guid>
-      <pubDate>Mon, 27 Jan 2025 22:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
