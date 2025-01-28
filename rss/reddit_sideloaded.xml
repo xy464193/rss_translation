@@ -4,7 +4,42 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 28 Jan 2025 12:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 18:13:25 GMT</lastBuildDate>
+    <item>
+      <title>您建议添加哪些存储库？ 是否有更新的列表？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic70sc/what_repos_do_you_recommend_adding_is_there_an/</link>
+      <description><![CDATA[正在寻找要添加的存储库！我找到的很多资源要么已关闭，要么未更新，要么不存在。  任何帮助都感激不尽！     由   提交  /u/PIatopus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic70sc/what_repos_do_you_recommend_adding_is_there_an/</guid>
+      <pubDate>Tue, 28 Jan 2025 17:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有更新的 Tinder</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic4zgn/does_anyone_have_a_updated_tinder/</link>
+      <description><![CDATA[Ti    由   提交  /u/ProfessionalWild9074   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic4zgn/does_anyone_have_a_updated_tinder/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以获得 altstore 而不会在 7 天后被撤销？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic1gnr/any_way_to_get_altstore_without_getting_it/</link>
+      <description><![CDATA[☝️ 我对这些东西不太了解，但是我之前用过 Scarlet，然后它和所有的应用程序一起过期了    提交人    /u/reeveishere   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic1gnr/any_way_to_get_altstore_without_getting_it/</guid>
+      <pubDate>Tue, 28 Jan 2025 13:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>在手机上玩游戏时可以使用侧载的 YouTube 应用吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic1euc/can_sideloaded_youtube_apps_be_used_while_playing/</link>
+      <description><![CDATA[如果这个问题没有意义或者答案很明显，我深表歉意。我是 iOS 和侧载的新手。 在某些游戏中，您无法收听游戏声音和来自 Spotify、Apple Music、YouTube、浏览器或任何东西的音乐。打开游戏后，您的音乐就会暂停。您可以使用耳塞或 Apple Watch 取消暂停，这很有效，但音乐完全没有声音。如果您多次快速暂停和播放，那么游戏声音将完全消失，您只能在玩游戏时听音乐。侧载 YouTube 可以绕过这个问题吗？ 这个问题发生在 Roblox 上。很多用户都在报告这个问题，解决方法（耳塞、Apple Watch 和小部件）不再起作用。如果侧载 YouTube 应用无法绕过这个问题，您知道是否有办法绕过它吗？提前谢谢您。 在 Android 上，您可以一边玩游戏（包括 Roblox），一边收听 Spotify 和 YouTube 等服务。我很怀念一边在手机上玩游戏一边听音乐的日子。我难以置信，这么昂贵的智能手机竟然无法实现如此简单的事情。     提交人    /u/Remote-Astronaut-499   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic1euc/can_sideloaded_youtube_apps_be_used_while_playing/</guid>
+      <pubDate>Tue, 28 Jan 2025 13:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试在 IOS 14 上侧载 YouTube 18.22.9 版本，但它不起作用，我不知道为什么，我做错了什么？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</link>
+      <description><![CDATA[标题说明了一切，我试图在装有 v14 IOS 的 iPad 上获取 YouTube 应用 18.22.9 版本的工作版本，我花了 4 个半小时独自尝试解决这个问题，但我完全不知道自己在做什么，并且开始因为极度沮丧而流泪！ 需要澄清的是，我确实有另一台运行更高版本 IOS 的 iPad，但即便如此，我仍然绝对无法忍受更高版本的 YouTube 应用的 UI 布局（尤其是观看历史记录选项卡），我尝试使用“LetMePass”调整，但它甚至不让我启动修改后的版本应用，我不知道我做错了什么。 我试图避免使用涉及越狱或提供我的 Apple-ID 的任何东西，所以我最终在我的 PC（Windows 10）上使用 sidloadly 来注入 deb文件转换成我想要的 YouTube 版本的 ipa 文件，然后使用我找到的名为“InstallOnAir”的网站将其作为应用程序安装在我的 iPad 上！ 任何建议都将不胜感激！！ 我使用的资源/文件的链接： deb 文件（LetMePass）：https://github.com/0xilis/LetMePass/releases/tag/1.4 ipa（YouTube v18.22.9）：https://ipabox.net/id544007664/ InstallOnAir 链接（修改后的 ipa）：https://www.installonair.com/app-download-link/at6BNl    由   提交  /u/FennecLover69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</guid>
+      <pubDate>Tue, 28 Jan 2025 12:19:04 GMT</pubDate>
+    </item>
     <item>
       <title>合适的侧载应用商店在哪里？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ibzexk/where_is_a_proper_sideloaded_app_store/</link>
@@ -43,7 +78,7 @@
     <item>
       <title>SideJITServer 快捷方式可以连接到服务器</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ibtxkq/sidejitserver_shortcut_can_connect_to_server/</link>
-      <description><![CDATA[每当我尝试使用 SideJIT 快捷方式时，它都可以建立安全的 SSL 连接吗？我做错了什么？我在 IOS 18.11 上    提交人    /u/MessageNovel7192   [link] [评论]]]></description>
+      <description><![CDATA[每当我尝试使用 SideJIT 快捷方式时，它都无法建立安全的 SSL 连接？我做错了什么？我在 IOS 18.11 上    提交人    /u/MessageNovel7192   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ibtxkq/sidejitserver_shortcut_can_connect_to_server/</guid>
       <pubDate>Tue, 28 Jan 2025 04:52:06 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[寻找可以下载音乐的 ipa    提交人    /u/MKTAB_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ibm675/any_yt_music_premium_ipa/</guid>
       <pubDate>Mon, 27 Jan 2025 22:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>出行频繁无法使用西南航空的 wifi</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ibk01j/travel_a_lot_cannot_use_southwest_wifi/</link>
-      <description><![CDATA[几周前我才知道侧载，很高兴能从我早年越狱 1-10 部 iPhone 的岁月中重拾侧载的乐趣。 我的问题是，我经常乘坐西南航空出差，一开始我并没有把这些点联系起来，但在空中时，我无法使用飞机 wifi 发短信/看电影等。昨天我看到我旁边的人正常使用她的 WiFi 功能，但我不能。然后我恍然大悟。也许当我将 DNS 切换到 KHO 配置文件时，它禁用了使用西南航空 wifi 的功能。我关闭了 kho DNS，西南航空 wifi 工作了，我想问题解决了。 我拿到我的租赁尝试使用我的侧载 YouTube，它强制退出，电子签名停止工作，我不得不重新进行整个侧载设置。 有什么我可以做的来防止这种情况再次发生？     由    /u/SpeedRevolutionary29 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ibk01j/travel_a_lot_cannot_use_southwest_wifi/</guid>
-      <pubDate>Mon, 27 Jan 2025 21:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 iOS 16 更新到最新版本（18.2.1）有什么缺点吗？在 13 pro 上</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ibbni5/any_downsides_updating_ios_16_to_the_newest_one/</link>
-      <description><![CDATA[我没有越狱，我只有 2 个侧载应用程序    提交人    /u/camillexoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ibbni5/any_downsides_updating_ios_16_to_the_newest_one/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地签名</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</link>
-      <description><![CDATA[我真的需要一个可靠的答案，localsigning 在 ios 18.1 上有效吗？很多人说他们在 RC18 中修复了它，但我无法让它工作。我之前尝试过用企业证书签名，而且成功了。现在我已经从 dxsign 购买了证书，但它不起作用了。所以是肯定的还是否定的？如果是，我需要做什么来启用它吗？    提交人    /u/KamRize   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ibb26h/localsigning/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有适用于 SideStore 的 Procreate IPA？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ib5dpi/does_anyone_have_a_working_procreate_ipa_for/</link>
-      <description><![CDATA[嗨，几天来我一直在尝试使用 SideStore 安装 Procreate，我尝试了不同的版本和网站，但每次都出错。如果有人有这个应用程序的有效 ipa 文件，将不胜感激！非常感谢！    提交人    /u/Mithunii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ib5dpi/does_anyone_have_a_working_procreate_ipa_for/</guid>
-      <pubDate>Mon, 27 Jan 2025 10:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signulous 最新 CapCut</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ib4q12/signulous_latest_capcut/</link>
-      <description><![CDATA[有人从他们的应用库中下载过这个应用吗？我收到一条安全警告消息，告诉我直接从 App Store 下载它    提交人    /u/quitas_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ib4q12/signulous_latest_capcut/</guid>
-      <pubDate>Mon, 27 Jan 2025 09:48:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
