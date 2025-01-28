@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 28 Jan 2025 06:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 09:10:40 GMT</lastBuildDate>
+    <item>
+      <title>iPhone 备份问题</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ibviin/iphone_backup_problem/</link>
+      <description><![CDATA[有人尝试过使用 TS 和 Roothide 备份到电脑吗？每次我尝试备份时，都会出现错误：iPhone 断开连接？我已经重启了，但仍然没有成功。有什么想法/解决方案吗？    提交人    /u/ncgnto   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ibviin/iphone_backup_problem/</guid>
+      <pubDate>Tue, 28 Jan 2025 06:31:16 GMT</pubDate>
+    </item>
     <item>
       <title>安装 trollstore</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ibagrf/install_trollstore/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://ios.cfw.guide/blocking-updates/ 按照本指南，无论使用哪种 IOS 或设备，都可以完全禁用更新。非常适合防止他人篡改您的设备、发生意外等。  自从我使用 17.0 14PM 以来，这对我来说是一次巨大的生活质量改变，我不希望发生任何不好的事情。     提交人    /u/reddragonoooo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i1ob0o/heres_how_to_block_updates_permanently_prevent/</guid>
       <pubDate>Wed, 15 Jan 2025 03:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>意外更新至 iOS 18</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1i1e7qk/accidentally_updated_to_ios_18/</link>
-      <description><![CDATA[我能做些什么来找回 trollstore 吗？我所有的 dolphin ios 游戏都没了 😞 编辑：因为人们似乎专注于“意外”，我不想说得太详细，但我把我的 ipad 给了我的朋友用于她的学习，她晚上点击了安装，所以是的    提交人    /u/superiorsuperiority   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1i1e7qk/accidentally_updated_to_ios_18/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:28:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
