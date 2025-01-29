@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 29 Jan 2025 03:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:14:16 GMT</lastBuildDate>
+    <item>
+      <title>ESign 未安装 ipa 文件，我该如何修复此问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1icm1m3/esign_not_installing_ipa_files_how_can_i_fix_this/</link>
+      <description><![CDATA[我一直试图通过 ESign 将一些 ipa 文件安装到我的设备上，但什么都没安装，我有自己的证书，仍然有效，我收到对话框询问我是否要安装但什么也没发生，我以为这是一个错误所以我尝试了几个其他 ipa 签名应用程序，但都出现了同样的问题，到目前为止 flekstore 已经可以使用，但它们对可以上传的大小有限制，我该如何解决这个问题？     提交人    /u/Bougouge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1icm1m3/esign_not_installing_ipa_files_how_can_i_fix_this/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:47:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何修复“无法验证完整性”我使用 nextdns</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iclph8/how_to_fix_cannot_verify_integrity_i_use_nextdns/</link>
+      <description><![CDATA[我的所有 ipas 都出现这种情况，有人知道该如何修复它吗    提交人    /u/Intrepid_Sir7658   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iclph8/how_to_fix_cannot_verify_integrity_i_use_nextdns/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 Sideloaders 的 Enmity（discord）通知的（希望是暂时的）修复！</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ickcyf/a_hopefully_temporary_fix_for_notifications_on/</link>
+      <description><![CDATA[      哟，我做的修复是一个快捷方式，可以更快地将您的通知从 Discord 传输到 Enmity。需要几个步骤才能获取您想要查看的通知，但如果您像我一样使用 Enmity，并且您有很多服务器，那么这适合您。 开始所需的条件  快捷方式 Discord Enmity  设置 如果您没有 Enmity，请搜索并研究它。我不确定您是否被允许在此 subreddit 上分享像 Enmity 这样的经过修改的 ipa。此外，要在 Enmity 上关闭来自 Discord 的通知，您可以创建一个焦点，当您使用 Enmity 时使 Discord 通知静音。  下载我链接到“开始使用所需内容”部分的快捷方式。 确保安装了 discord，并且“Discord://”（尝试安装扩展时显示的“在 Enmity 中打开”）超链接会将您发送到 Enmity 而不是 Discord。您通常可以通过删除 discord、在 Enmity 上下载并安装扩展或主题并重新下载 Discord 来设置此项 在快捷方式应用程序上创建自动化并将其设置为在您打开 Discord 时进行检查。（不是 Enmity） 这就是设置！接下来，如何使用快捷方式！  如何使用快捷方式  打开您想要的通知 快速从那里复制任何文本！（因为您即将被转移到 Enmity，您还可以通过编辑快捷方式中的“等待秒数”操作来编辑转移所需的时间。） 如果您在计时器完成之前成功复制它，您应该已经重定向到 Enmity 并且您的通知应该已经打开！如果它不起作用，请确保单击“始终允许”打开链接并重试。  我如何做得更好 我认为这是为我们 Sideloader 制作 Enmity 完整通知的开始。我觉得我们可以扩展这一点。例如，如果我们可以从通知中复制超链接，或者如果我们获取 Discord API 密钥并使用其他来源（如用于网络推送通知的网站）从那里接收通知。但是现在这就是我们所拥有的一切，所以呃，就是这样。    提交人    /u/ScreamingFlip   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ickcyf/a_hopefully_temporary_fix_for_notifications_on/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:14:41 GMT</pubDate>
+    </item>
     <item>
       <title>其他人的 spotilife/sposify 本地文件是否被删除/出现错误？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1icjoux/did_anyone_elses_spotilifesposify_local_files_get/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>iosninja.io 是否安全且合法？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1icgz7k/is_iosninjaio_safe_and_legit/</link>
-      <description><![CDATA[寻找合适的改装 ipa 商店    由    /u/StrikeredL 提交   [链接] [评论]]]></description>
+      <description><![CDATA[寻找合适的改装 ipa 商店    由   提交  /u/StrikeredL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1icgz7k/is_iosninjaio_safe_and_legit/</guid>
       <pubDate>Wed, 29 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[☝️ 我对这些东西不太了解，但是我之前用过 Scarlet，然后它和所有的应用程序一起过期了    提交人    /u/reeveishere   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1ic1gnr/any_way_to_get_altstore_without_getting_it/</guid>
       <pubDate>Tue, 28 Jan 2025 13:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在手机上玩游戏时可以使用侧载的 YouTube 应用吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ic1euc/can_sideloaded_youtube_apps_be_used_while_playing/</link>
-      <description><![CDATA[如果这个问题没有意义或者答案很明显，我深表歉意。我是 iOS 和侧载的新手。 在某些游戏中，您无法收听游戏声音和来自 Spotify、Apple Music、YouTube、浏览器或任何东西的音乐。打开游戏后，您的音乐就会暂停。您可以使用耳塞或 Apple Watch 取消暂停，这很有效，但音乐完全没有声音。如果您多次快速暂停和播放，那么游戏声音将完全消失，您只能在玩游戏时听音乐。侧载 YouTube 可以绕过这个问题吗？ 这个问题发生在 Roblox 上。很多用户都在报告这个问题，解决方法（耳塞、Apple Watch 和小部件）不再起作用。如果侧载 YouTube 应用无法绕过这个问题，您知道是否有办法绕过它吗？提前谢谢您。 在 Android 上，您可以一边玩游戏（包括 Roblox），一边收听 Spotify 和 YouTube 等服务。我很怀念一边在手机上玩游戏一边听音乐的日子。我难以置信，这么昂贵的智能手机竟然无法实现如此简单的事情。     提交人    /u/Remote-Astronaut-499   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ic1euc/can_sideloaded_youtube_apps_be_used_while_playing/</guid>
-      <pubDate>Tue, 28 Jan 2025 13:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试在 IOS 14 上侧载 YouTube 18.22.9 版本，但它不起作用，我不知道为什么，我做错了什么？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</link>
-      <description><![CDATA[标题说明了一切，我试图在装有 v14 IOS 的 iPad 上获取 YouTube 应用 18.22.9 版本的工作版本，我花了 4 个半小时独自尝试解决这个问题，但我完全不知道自己在做什么，并且开始因为极度沮丧而流泪！ 需要澄清的是，我确实有另一台运行更高版本 IOS 的 iPad，但即便如此，我仍然绝对无法忍受更高版本的 YouTube 应用的 UI 布局（尤其是观看历史记录选项卡），我尝试使用“LetMePass”调整，但它甚至不让我启动修改后的版本应用，我不知道我做错了什么。 我试图避免使用涉及越狱或提供我的 Apple-ID 的任何东西，所以我最终在我的 PC（Windows 10）上使用 sidloadly 来注入 deb文件转换成我想要的 YouTube 版本的 ipa 文件，然后使用我找到的名为“InstallOnAir”的网站将其作为应用程序安装在我的 iPad 上！ 任何建议都将不胜感激！！ 我使用的资源/文件的链接： deb 文件（LetMePass）：https://github.com/0xilis/LetMePass/releases/tag/1.4 ipa（YouTube v18.22.9）：https://ipabox.net/id544007664/ InstallOnAir 链接（修改后的 ipa）：https://www.installonair.com/app-download-link/at6BNl    由   提交  /u/FennecLover69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ic0a9g/i_tried_side_loading_a_version_of_youtube_18229/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>合适的侧载应用商店在哪里？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ibzexk/where_is_a_proper_sideloaded_app_store/</link>
-      <description><![CDATA[所以我终于让 Sideloadly 工作了，这太神奇了，其他的像 AltServer 和 Sidestore 都不能用，另外我该怎么做才能让它可以在没有电脑的情况下刷新？也不必安装修改过的 ios 软件？    提交人    /u/StrikeredL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ibzexk/where_is_a_proper_sideloaded_app_store/</guid>
-      <pubDate>Tue, 28 Jan 2025 11:24:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
