@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 28 Jan 2025 21:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:11:53 GMT</lastBuildDate>
+    <item>
+      <title>如何在 iOS 15.8.3 iPhone 6s 上安装 trollstore</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1ici598/how_to_install_trollstore_on_ios_1583_iphone_6s/</link>
+      <description><![CDATA[我得到了 sidestore    由    /u/Sideloadguy 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1ici598/how_to_install_trollstore_on_ios_1583_iphone_6s/</guid>
+      <pubDate>Wed, 29 Jan 2025 01:22:50 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone 备份问题</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ibviin/iphone_backup_problem/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>iPhone XS Max 16.4</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</link>
-      <description><![CDATA[如果我遗漏了某些内容，我深表歉意，但我查看了常见问题解答，并相信自己正确地遵循了安装表。每当我尝试从 jailbreaks.app 使用 troll installer X 时，我都会收到此错误消息：无法验证完整性。请帮忙，谢谢。     提交人    /u/DLoGuru   [link] [评论]]]></description>
+      <description><![CDATA[如果我遗漏了某些内容，我深表歉意，但我查看了常见问题解答，并相信我正确地遵循了安装表。每当我尝试从 jailbreaks.app 使用 troll 安装程序 X 时，我都会收到此错误消息：无法验证完整性。请帮忙，谢谢。     提交人    /u/DLoGuru   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</guid>
       <pubDate>Wed, 22 Jan 2025 03:32:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[尝试使用从 iosgods 网站获取的 ipa 安装 Asphalt 8。我收到该错误代码。文件大小为 3.57 Gb，不知道这是否是问题所在，能否帮助我。 Ios 版本 17.7.2，IPad 6th Gen（A10），已越狱无根    提交人    /u/South-Goat2722   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i1v3wt/error_168_while_installing_an_app/</guid>
       <pubDate>Wed, 15 Jan 2025 11:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是如何永久阻止更新 - 防止丢失 Trollstore</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1i1ob0o/heres_how_to_block_updates_permanently_prevent/</link>
-      <description><![CDATA[https://ios.cfw.guide/blocking-updates/ 按照本指南，无论使用哪种 IOS 或设备，都可以完全禁用更新。非常适合防止他人篡改您的设备、发生意外等。  自从我使用 17.0 14PM 以来，这对我来说是一次巨大的生活质量改变，我不希望发生任何不好的事情。     提交人    /u/reddragonoooo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1i1ob0o/heres_how_to_block_updates_permanently_prevent/</guid>
-      <pubDate>Wed, 15 Jan 2025 03:18:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
