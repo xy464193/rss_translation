@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 30 Jan 2025 15:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:09:15 GMT</lastBuildDate>
+    <item>
+      <title>无法使用此应用程序</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idtxa8/not_able_to_use_this_app/</link>
+      <description><![CDATA[https://imgur.com/a/FuJEujj 这是与学习相关的应用程序，每当我尝试在我的 Mac 上安装它时，它都会出现此错误。有人知道怎么解决吗？我有 Mac 的证书，它将在今年年底到期。所以我不认为这与证书有关，但我可能错了。 附言：我遵循的步骤安装此应用程序。 访问 ipasign 网站并使用我的证书签署此应用程序，然后安装它，但它给了我这个错误。 如果有人想尝试，应用程序链接。 Myinstitute   由    /u/that_geekboy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idtxa8/not_able_to_use_this_app/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>SparseBox 可以在 iOS 18.1.1 上运行吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idta1k/does_sparsebox_work_on_ios_1811/</link>
+      <description><![CDATA[有些人说它适用于 iOS 18.2 beta 4（或类似的 smt）及更低版本，而其他人则说它不适用于 iOS 18.1+。 那么有人可以告诉我 SparseBox 是否适用于 iOS 18.1.1 吗？    提交人    /u/Valorant_Steve   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idta1k/does_sparsebox_work_on_ios_1811/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:08:49 GMT</pubDate>
+    </item>
     <item>
       <title>SideStore 立即崩溃</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idolgv/sidestore_crashes_instantly/</link>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 30 Jan 2025 02:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 上的 Streamer 是否带有 AdGuard？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idbr4r/streamer_on_ios_with_adguard/</link>
-      <description><![CDATA[      有没有人使用 streamer PRO 可以告诉我是否可以在启用 AdGuard 的情况下同时使用 streamer？  我说的是 AdGuard dns ，即 dns-over-https 原生版本  我想购买 streamer pro，但到目前为止，免费版无法与 AdGuard 配合使用，我想知道 pro 是否会改变任何东西（因为 pro 不会加载广告）     提交人    /u/Acrobatic-Monitor516   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idbr4r/streamer_on_ios_with_adguard/</guid>
-      <pubDate>Thu, 30 Jan 2025 02:22:49 GMT</pubDate>
-    </item>
-    <item>
       <title>YouTube 国际音标</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</link>
       <description><![CDATA[CyPwn 库中的 YTPlusFull 的 YouTube ipa 不断向我发送错误消息并且在某些视频上崩溃    提交人    /u/Tanech4life   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</guid>
       <pubDate>Thu, 30 Jan 2025 02:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>gameseagull 无法为朋友工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idbb7e/gameseagull_not_working_for_friend/</link>
-      <description><![CDATA[刚刚花了时间使用 altstore 获取 gameseagull，这是 gamepigeon 的一个 hack，我用它来戏弄我的朋友，但他无法进入实际游戏。有人知道如何解决这个问题吗？谢谢    提交人    /u/Legitimate-Skin337   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idbb7e/gameseagull_not_working_for_friend/</guid>
-      <pubDate>Thu, 30 Jan 2025 02:01:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
