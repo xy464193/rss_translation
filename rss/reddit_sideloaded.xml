@@ -4,7 +4,91 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 30 Jan 2025 00:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 06:13:58 GMT</lastBuildDate>
+    <item>
+      <title>设计帮助</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idg3pi/help_with_esign/</link>
+      <description><![CDATA[嗨，正如标题所说，我需要电子签名方面的帮助。我今天被列入了黑名单，所以我按照指南操作，删除了内容和设置，并使用新的电子邮件帐户设置了新的 DNS。问题是，在下载并安装配置文件后，我仍然被列入了黑名单（至少我认为我被告知任何证书返回的应用程序完整性都无法验证）。我是否遗漏了什么，或者我是否被永久列入了黑名单？    提交人    /u/SooNW   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idg3pi/help_with_esign/</guid>
+      <pubDate>Thu, 30 Jan 2025 05:58:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jitterbugpair 问题</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idee1j/jitterbugpair_question/</link>
+      <description><![CDATA[大家好，如果发错了子版块，请见谅，但我手机的充电器端口坏了，我一直在尝试让 Jitterbug 的配对文件工作。我一直在使用 3utools 无线侧载我的应用程序，但似乎无法对配对文件执行此操作。有没有人有办法不用电脑或至少不插入我的充电端口来完成此操作，因为它物理上坏了，无法通过该端口充电或交换文件。谢谢！    提交人    /u/Spadingdong   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idee1j/jitterbugpair_question/</guid>
+      <pubDate>Thu, 30 Jan 2025 04:26:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以使用 SideStore 刷新通过 sideloadly 安装的应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idedvj/is_it_possible_to_use_sidestore_to_refresh_apps/</link>
+      <description><![CDATA[标题     由   提交  /u/Acrobatic-Monitor516   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idedvj/is_it_possible_to_use_sidestore_to_refresh_apps/</guid>
+      <pubDate>Thu, 30 Jan 2025 04:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>不使用电脑是否真的可以下载 E-sign</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</link>
+      <description><![CDATA[我已经看到了所有关于如何在没有电脑的情况下下载 E sign 的教程，但我发现它们非常粗略。那么，实际上可以在没有电脑的情况下下载 E sign 吗？    提交人    /u/HanzwodiePanzerfaust   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</guid>
+      <pubDate>Thu, 30 Jan 2025 03:46:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 JIT 和 SideStore 的 Livecontainer？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iddang/livecontainer_with_jit_and_sidestore/</link>
+      <description><![CDATA[我对此有点困惑  如果我不想经历 jit less 证书的麻烦 我可以保持 JIT 开启并通过 SideStore 安装吗？ 如果我这样做会有问题吗？    提交人    /u/Acrobatic-Monitor516   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iddang/livecontainer_with_jit_and_sidestore/</guid>
+      <pubDate>Thu, 30 Jan 2025 03:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Livecontainer 的缺点？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idd566/livecontainer_drawbacks/</link>
+      <description><![CDATA[livecontainer 及其通过其安装的应用是否会消耗更多电量？我收到的信号很混乱    提交人    /u/Acrobatic-Monitor516   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idd566/livecontainer_drawbacks/</guid>
+      <pubDate>Thu, 30 Jan 2025 03:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>egern 只有在其 vpn 处于活动状态时才有效吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idcoog/does_egern_only_work_while_its_vpn_is_active/</link>
+      <description><![CDATA[大家好，我尝试使用 egern 破解应用程序 DSPhoto Backup 的 iap，似乎成功了。但是，只要我关闭应用程序，停止 egern vpn 并再次打开应用程序，它就会再次请求激活 iap。我以为它就像其他经过修改的应用程序一样，iap 激活是永久的。有没有办法用 egern 做到这一点？     提交人    /u/St-ivan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idcoog/does_egern_only_work_while_its_vpn_is_active/</guid>
+      <pubDate>Thu, 30 Jan 2025 03:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时容器正在运行定位服务吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idca3v/live_container_running_location_services/</link>
+      <description><![CDATA[因此，我最近开始通过 SideStore 运行实时容器并安装了 AllTrails，它需要位置服务才能实现其功能之一。具体来说，它需要精确的位置才能工作。这可以通过实时容器实现吗？     提交人    /u/Cheap-Ad4804   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idca3v/live_container_running_location_services/</guid>
+      <pubDate>Thu, 30 Jan 2025 02:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 上的 Streamer 是否带有 AdGuard？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idbr4r/streamer_on_ios_with_adguard/</link>
+      <description><![CDATA[      有没有人使用 streamer PRO 可以告诉我是否可以在启用 AdGuard 的情况下同时使用 streamer？  我说的是 AdGuard dns ，即 dns-over-https 原生版本  我想购买 streamer pro，但到目前为止，免费版无法与 AdGuard 配合使用，我想知道 pro 是否会改变任何东西（因为 pro 不会加载广告）     提交人    /u/Acrobatic-Monitor516   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idbr4r/streamer_on_ios_with_adguard/</guid>
+      <pubDate>Thu, 30 Jan 2025 02:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 国际音标</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</link>
+      <description><![CDATA[CyPwn 库中的 YTPlusFull 的 YouTube ipa 不断向我发送错误消息并且在某些视频上崩溃    提交人    /u/Tanech4life   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</guid>
+      <pubDate>Thu, 30 Jan 2025 02:19:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>gameseagull 无法为朋友工作</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idbb7e/gameseagull_not_working_for_friend/</link>
+      <description><![CDATA[刚刚花了时间使用 altstore 获取 gameseagull，这是 gamepigeon 的一个 hack，我用它来戏弄我的朋友，但他无法进入实际游戏。有人知道如何解决这个问题吗？谢谢    提交人    /u/Legitimate-Skin337   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idbb7e/gameseagull_not_working_for_friend/</guid>
+      <pubDate>Thu, 30 Jan 2025 02:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序库中的文件夹与我的 Apple ID 中的旧名称绑定，我似乎无法更改它</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idamvv/the_folder_in_the_app_library_is_tied_to_the_old/</link>
+      <description><![CDATA[基本上就是标题所说的，我开始使用 scarlet 侧载一些应用程序，应用程序库中的文件夹以我的 apple id 中的名字命名，但这个名字已经好几年没有出现了，这让我有点烦 其他人有类似的情况吗？我能以某种方式改变它吗？苹果支持没有提供太多帮助，网上也没有相关信息    提交人    /u/LNviewer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idamvv/the_folder_in_the_app_library_is_tied_to_the_old/</guid>
+      <pubDate>Thu, 30 Jan 2025 01:29:16 GMT</pubDate>
+    </item>
     <item>
       <title>使用 sideloadly 侧载 alt 商店？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1id5wji/side_loading_alt_store_with_sideloadly/</link>
@@ -22,93 +106,9 @@
     <item>
       <title>如何在电脑上侧载应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1id55k6/how_to_sideload_apps_on_a_pc/</link>
-      <description><![CDATA[嗨， 我是新手。  我想知道是否有办法在我的笔记本电脑上获取像 Netflix VIP 这样的应用程序。 我的 iPad 上有它，但我也希望在笔记本电脑上使用它。 我启用了开发者模式，但那里没有侧载选项。    提交人    /u/Equivalent-Baker-418   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 我是新手。  我想知道是否有办法在我的笔记本电脑上获取 Netflix VIP 之类的应用程序。 我的 iPad 上有它，但我也希望在笔记本电脑上使用它。 我启用了开发者模式，但那里没有侧载选项。    提交人    /u/Equivalent-Baker-418   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1id55k6/how_to_sideload_apps_on_a_pc/</guid>
       <pubDate>Wed, 29 Jan 2025 21:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在电脑上侧载应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1id55i6/how_to_sideload_apps_on_a_pc/</link>
-      <description><![CDATA[嗨， 我是新手。  我想知道是否有办法在我的笔记本电脑上获取像 Netflix VIP 这样的应用程序。 我的 iPad 上有它，但我也希望在笔记本电脑上使用它。 我启用了开发者模式，但那里没有侧载选项。    提交人    /u/Equivalent-Baker-418   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1id55i6/how_to_sideload_apps_on_a_pc/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 音频质量和服务器端选项</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1id36u4/spotify_audio_quality_and_server_sided_options/</link>
-      <description><![CDATA[当我使用 spotify ++ 8.5.5/6 版本时，可以使用非常高质量的音频选项，这是否意味着旧版本可以以非常高的质量进行流式传输，或者它是服务器端的，以至于在调整后的版本中永远无法使用？    提交人    /u/knightrider4991   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1id36u4/spotify_audio_quality_and_server_sided_options/</guid>
-      <pubDate>Wed, 29 Jan 2025 20:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以绕过 Snapchat 设备禁令吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1id1mkt/working_snapchat_device_ban_bypass/</link>
-      <description><![CDATA[我的设备在 Snapchat 上被禁用了，我知道 Wicked 不再更新了。有人尝试过“Zero Snap”或其他可靠的绕过方法吗？如果有效，请分享您的经验。谢谢！    提交人    /u/Cjo_21   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1id1mkt/working_snapchat_device_ban_bypass/</guid>
-      <pubDate>Wed, 29 Jan 2025 19:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram IPA 可以绕过设备禁令吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1id1k2w/instagram_ipa_with_device_ban_bypass/</link>
-      <description><![CDATA[设备在 IG 上被禁止，无法在手机上创建帐户；我可以，但它们不起作用（关注、dms 等）...尝试在另一台设备上创建帐户，它成功了。有人知道可以绕过这个问题的 IPA 吗？谢谢！    提交人    /u/Cjo_21   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1id1k2w/instagram_ipa_with_device_ban_bypass/</guid>
-      <pubDate>Wed, 29 Jan 2025 19:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有破解的 VIDS ipa？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1id03ip/is_there_any_vids_ipa_cracked/</link>
-      <description><![CDATA[您好，有人有教程或 ipa 文件可以分享吗？我正在使用 AltStore，是否可以使用 AltStore（无 EU）安装？提前致谢！    提交人    /u/MAKROH_KZI   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1id03ip/is_there_any_vids_ipa_cracked/</guid>
-      <pubDate>Wed, 29 Jan 2025 18:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 JitStreamer 和 Wireguard VPN 的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icytuj/question_regarding_jitstreamer_and_the_whole/</link>
-      <description><![CDATA[许多人使用 DNS 方法侧载已吊销证书的应用程序。Wireguard VPN 是否会禁用通过 DNS 配置文件的 DNS 过滤？ 因为我知道使用 Tailscale 确实会干扰 DNS 配置文件，并且它确实会导致设备因我使用的证书而被列入黑名单，这就是我尽可能避免使用 VPN 的原因。    提交人    /u/MightyWolf39   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icytuj/question_regarding_jitstreamer_and_the_whole/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以侧载 Galaxy 可穿戴设备？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icu8ef/is_it_possible_to_sideload_galaxy_wearable/</link>
-      <description><![CDATA[我刚刚买了一部 iPhone，不知道如何将它与我的 Galaxy 手表一起使用    提交人    /u/Brolonbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icu8ef/is_it_possible_to_sideload_galaxy_wearable/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icttz4/help/</link>
-      <description><![CDATA[每次我尝试下载 DNS 时，都会收到“权限被拒绝”的提示。这是什么？我以前从来没有遇到过这种情况。直到现在我才开始收到此错误。我尝试下载其他 DNS 时也发生这种情况。请帮忙，这非常紧急    提交人    /u/Neat_Phase6019   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icttz4/help/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>MovieBoxPro 代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icskw4/code_for_movieboxpro/</link>
-      <description><![CDATA[我刚刚注册并安装了 movieboxpro，但当我尝试登录时，它要求输入特殊的邀请码才能登录     提交人    /u/Embarrassed-Law-1892   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icskw4/code_for_movieboxpro/</guid>
-      <pubDate>Wed, 29 Jan 2025 12:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPAOMTK 安全吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icqgzc/is_ipaomtk_safe/</link>
-      <description><![CDATA[需要一些方法来获取 IPA，IPAOMTK 安全吗？    提交人    /u/Dualshock1223   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icqgzc/is_ipaomtk_safe/</guid>
-      <pubDate>Wed, 29 Jan 2025 10:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在 iOS 18.3 上验证应用程序</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icp4d2/unable_to_verify_apps_on_ios_183/</link>
-      <description><![CDATA[我最近将我的 IOS 版本更新到了 18.3。今天早上我的应用程序运行得很好，突然就不工作了。我一直收到一个弹出窗口，上面写着“无法验证”。 我使用 sideloadly 来侧载我的应用程序。还有其他人遇到过这个问题吗？    提交人    /u/Yeeting_Person   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icp4d2/unable_to_verify_apps_on_ios_183/</guid>
-      <pubDate>Wed, 29 Jan 2025 08:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Movieboxpro 代码</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1icoqg8/movieboxpro_codes/</link>
-      <description><![CDATA[我有邀请码 $8    提交人    /u/New_Pay_2844   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1icoqg8/movieboxpro_codes/</guid>
-      <pubDate>Wed, 29 Jan 2025 07:46:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
