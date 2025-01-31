@@ -4,13 +4,20 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Fri, 31 Jan 2025 00:46:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 06:14:22 GMT</lastBuildDate>
     <item>
-      <title>如何删除黑名单（需要物理电脑）</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idzmue/how_to_remove_your_blacklist_physical_pc_required/</link>
-      <description><![CDATA[ 将 mega.nz/file/ssoQBZiB#VpCG- ERAuiOlgHeuNa9HcRER93BehUpU4A3UF57vp1g 下载到您的电脑上 将文件解压到您会记得的目录中 打开终端 导航到文件所在的目录 (cd path/to/unblacklist.py) 插入您的手机并确保它显示在 Finder 或 iTunes 中 在终端中运行 unblacklist.py（确保您已安装 python，输入 python3 unblacklist.py 来运行该文件） 在终端中输入 1 等待您的手机重启 如果不成功，请多试几次！这可能会弄乱你的 iPhone，为以防万一，请在使用前进行备份。 该程序由 @skadz108 创建 请在 Discord 或 X 上向 @skadz108 发送消息以获得支持。 我没有创建这个程序，我只是与你分享它     提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idzmue/how_to_remove_your_blacklist_physical_pc_required/</guid>
-      <pubDate>Thu, 30 Jan 2025 22:35:36 GMT</pubDate>
+      <title>请帮忙</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ie527y/help_please/</link>
+      <description><![CDATA[忘记了 esign 链接，有人能帮我记起来吗？我被列入黑名单了，需要重新安装 :/    提交人    /u/Qibli-Comeback-Line   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ie527y/help_please/</guid>
+      <pubDate>Fri, 31 Jan 2025 02:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可能在 iOS 模拟器上侧载亚马逊应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ie4cdd/is_it_even_possible_to_sideload_amazon_app_on_ios/</link>
+      <description><![CDATA[您好， 我正在尝试在 iOS 模拟器上侧载 Amazon 应用程序。有什么办法吗？    提交人    /u/Pretend_Gain   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ie4cdd/is_it_even_possible_to_sideload_amazon_app_on_ios/</guid>
+      <pubDate>Fri, 31 Jan 2025 02:17:01 GMT</pubDate>
     </item>
     <item>
       <title>尝试侧载一个应用程序，但无法使用，因为出现错误消息提示我从 App Store 下载。有解决办法吗？</title>
@@ -43,7 +50,7 @@
     <item>
       <title>黑名单</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idnzlb/blacklist/</link>
-      <description><![CDATA[所有电子签名均未下载，有没有办法在不恢复手机的情况下删除黑名单？另外，你们怎么知道是否有任何证书即将发布，如果我只能等待另一个证书发布，因为我的其余证书已被撤销     提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
+      <description><![CDATA[所有电子签名均未下载，有没有办法在不恢复手机的情况下删除黑名单？另外，如果我只能等待另一个证书发布，你们怎么知道是否有任何证书即将发布，因为我的其余证书已被撤销     提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idnzlb/blacklist/</guid>
       <pubDate>Thu, 30 Jan 2025 14:19:56 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>最安全的应用程序？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idgtf8/safest_app/</link>
-      <description><![CDATA[在我的朋友为我设置 esign 之前，我曾经使用过一次，大概一个月前，它持续了一两个星期，然后开始崩溃，所有的应用程序也是如此，我删除了它和应用程序，并试图重新下载，但我被列入了黑名单，所以过了一段时间，我将手机恢复出厂设置，然后再次尝试，瞧，它持续了一个星期，然后同样的事情发生了，所以现在我想知道它是否是 esign 特有的，如果不是，那么我可能会再次将手机恢复出厂设置    提交人    /u/Full-Hippo-4611   [链接] [评论]]]></description>
+      <description><![CDATA[在我的朋友为我设置 esign 之前，我曾经使用过一次，大约一个月，它持续了一两个星期，然后开始崩溃，所有的应用程序也是如此，我删除了它和应用程序并尝试重新下载，但我被列入黑名单，所以过了一段时间，我将手机恢复出厂设置并再次尝试，瞧，它持续了一个星期然后同样的事情发生了，所以现在我想知道它是否特定于 esign，如果不是，那么我可能会再次将手机恢复出厂设置    提交人    /u/Full-Hippo-4611   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idgtf8/safest_app/</guid>
       <pubDate>Thu, 30 Jan 2025 06:38:33 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>不使用电脑是否真的可以下载 E-sign</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</link>
-      <description><![CDATA[我已经看到了所有关于如何在没有电脑的情况下下载 E sign 的教程，但我发现它们非常粗略。那么，没有电脑真的可以下载 E sign 吗？    提交人    /u/HanzwodiePanzerfaust   [link] [评论]]]></description>
+      <description><![CDATA[我已经看到了所有关于如何在没有电脑的情况下下载 E sign 的教程，但我发现它们非常粗略。那么，实际上可以在没有电脑的情况下下载 E sign 吗？    提交人    /u/HanzwodiePanzerfaust   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</guid>
       <pubDate>Thu, 30 Jan 2025 03:46:29 GMT</pubDate>
     </item>
     <item>
       <title>带有 JIT 和 SideStore 的 Livecontainer？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iddang/livecontainer_with_jit_and_sidestore/</link>
-      <description><![CDATA[我对此有点困惑  如果我不想经历 jit less 证书的麻烦  我可以保持 JIT 开启并通过 SideStore 安装吗？  如果我这样做会有问题吗？     提交人    /u/Acrobatic-Monitor516   [link] [评论]]]></description>
+      <description><![CDATA[我对此有点困惑  如果我不想经历 jit less 证书的麻烦 我可以保持 JIT 开启并通过 SideStore 安装吗？ 如果我这样做会有问题吗？    提交人    /u/Acrobatic-Monitor516   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iddang/livecontainer_with_jit_and_sidestore/</guid>
       <pubDate>Thu, 30 Jan 2025 03:34:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[livecontainer 及其通过其安装的应用是否会消耗更多电量？我收到的信号很混乱    提交人    /u/Acrobatic-Monitor516   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idd566/livecontainer_drawbacks/</guid>
       <pubDate>Thu, 30 Jan 2025 03:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>egern 只有在其 vpn 处于活动状态时才有效吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idcoog/does_egern_only_work_while_its_vpn_is_active/</link>
-      <description><![CDATA[大家好，我尝试使用 egern 破解应用程序 DSPhoto Backup 的 iap，似乎成功了。但是，只要我关闭应用程序，停止 egern vpn 并再次打开应用程序，它就会再次请求激活 iap。我以为它就像其他经过修改的应用程序一样，iap 激活是永久的。有没有办法用 egern 做到这一点？     提交人    /u/St-ivan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idcoog/does_egern_only_work_while_its_vpn_is_active/</guid>
-      <pubDate>Thu, 30 Jan 2025 03:05:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
