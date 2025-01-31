@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 30 Jan 2025 21:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 00:46:16 GMT</lastBuildDate>
+    <item>
+      <title>如何删除黑名单（需要物理电脑）</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idzmue/how_to_remove_your_blacklist_physical_pc_required/</link>
+      <description><![CDATA[ 将 mega.nz/file/ssoQBZiB#VpCG- ERAuiOlgHeuNa9HcRER93BehUpU4A3UF57vp1g 下载到您的电脑上 将文件解压到您会记得的目录中 打开终端 导航到文件所在的目录 (cd path/to/unblacklist.py) 插入您的手机并确保它显示在 Finder 或 iTunes 中 在终端中运行 unblacklist.py（确保您已安装 python，输入 python3 unblacklist.py 来运行该文件） 在终端中输入 1 等待您的手机重启 如果不成功，请多试几次！这可能会弄乱你的 iPhone，为以防万一，请在使用前进行备份。 该程序由 @skadz108 创建 请在 Discord 或 X 上向 @skadz108 发送消息以获得支持。 我没有创建这个程序，我只是与你分享它     提交人    /u/Smart-Ad-8635   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idzmue/how_to_remove_your_blacklist_physical_pc_required/</guid>
+      <pubDate>Thu, 30 Jan 2025 22:35:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试侧载一个应用程序，但无法使用，因为出现错误消息提示我从 App Store 下载。有解决办法吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1idzddb/tried_to_sideload_an_app_but_cant_use_it_as/</link>
+      <description><![CDATA[有问题的应用程序是 CapCut。  因此，我在网上找到了它的 ipa 文件，并尝试使用 AltStore 侧载它。它成功了，但是当我打开应用程序时，它给出了一个错误，并且除非我在 App Store 上下载更新版本，否则它拒绝关闭。 这个错误有修复方法吗？它是官方应用程序，只是告诉我这是一个“安全问题”，我应该从 App Store 下载。 而且 App Store 上没有应用程序。它甚至不在那里。 由于法律原因，该应用程序不存在，我既没有询问也没有提供链接。我请求帮助摆脱侧载应用程序上的错误消息。无论名称和法律如何，它都是关于具有这些错误的应用程序的一般问题。    提交人    /u/Welcome_666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1idzddb/tried_to_sideload_an_app_but_cant_use_it_as/</guid>
+      <pubDate>Thu, 30 Jan 2025 22:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>无法使用此应用程序</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idtxa8/not_able_to_use_this_app/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>黑名单</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1idnzlb/blacklist/</link>
-      <description><![CDATA[所有电子签名均未下载，有没有办法在不恢复手机的情况下删除黑名单？另外，如果我只能等待另一个证书发布，你们怎么知道是否有任何证书即将发布，因为我的其余证书已被撤销     提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
+      <description><![CDATA[所有电子签名均未下载，有没有办法在不恢复手机的情况下删除黑名单？另外，你们怎么知道是否有任何证书即将发布，如果我只能等待另一个证书发布，因为我的其余证书已被撤销     提交人    /u/ChocolateMedium4353   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idnzlb/blacklist/</guid>
       <pubDate>Thu, 30 Jan 2025 14:19:56 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>不使用电脑是否真的可以下载 E-sign</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</link>
-      <description><![CDATA[我已经看到了所有关于如何在没有电脑的情况下下载 E sign 的教程，但我发现它们非常粗略。那么，实际上可以在没有电脑的情况下下载 E sign 吗？    提交人    /u/HanzwodiePanzerfaust   [link] [评论]]]></description>
+      <description><![CDATA[我已经看到了所有关于如何在没有电脑的情况下下载 E sign 的教程，但我发现它们非常粗略。那么，没有电脑真的可以下载 E sign 吗？    提交人    /u/HanzwodiePanzerfaust   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iddk1j/is_it_actually_possible_to_download_e_sign/</guid>
       <pubDate>Thu, 30 Jan 2025 03:46:29 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我尝试使用 egern 破解应用程序 DSPhoto Backup 的 iap，似乎成功了。但是，只要我关闭应用程序，停止 egern vpn 并再次打开应用程序，它就会再次请求激活 iap。我以为它就像其他经过修改的应用程序一样，iap 激活是永久的。有没有办法用 egern 做到这一点？     提交人    /u/St-ivan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1idcoog/does_egern_only_work_while_its_vpn_is_active/</guid>
       <pubDate>Thu, 30 Jan 2025 03:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时容器正在运行定位服务吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idca3v/live_container_running_location_services/</link>
-      <description><![CDATA[因此，我最近开始通过 SideStore 运行实时容器并安装了 AllTrails，它需要位置服务才能实现其功能之一。具体来说，它需要精确的位置才能工作。这可以通过实时容器实现吗？     提交人    /u/Cheap-Ad4804   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idca3v/live_container_running_location_services/</guid>
-      <pubDate>Thu, 30 Jan 2025 02:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 国际音标</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</link>
-      <description><![CDATA[CyPwn 库中的 YTPlusFull 的 YouTube ipa 不断向我发送错误消息并且在某些视频上崩溃    提交人    /u/Tanech4life   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1idbob5/youtube_ipa/</guid>
-      <pubDate>Thu, 30 Jan 2025 02:19:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
