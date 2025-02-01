@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Sat, 01 Feb 2025 09:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 12:16:04 GMT</lastBuildDate>
+    <item>
+      <title>您可以直接在 PC 上签署 ipas 并将其上传到 idevice 吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1if3h8z/can_you_sign_ipas_directly_on_pc_and_upload_them/</link>
+      <description><![CDATA[基本上就是标题。我已经从 apptesters 购买了证书，我想在我的电脑上签署 ipas 并将其上传到我的设备，这样我就不需要在实际设备上使用 esign 或其他人了。如果可能的话，有人会怎么做？由于我搜索了又搜索，我找不到任何地方的 esign 没有日志，所以上述方法的替代方案是，如果您能指出我正确的 ipa。谢谢大家    提交人    /u/PizzaSalamino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1if3h8z/can_you_sign_ipas_directly_on_pc_and_upload_them/</guid>
+      <pubDate>Sat, 01 Feb 2025 10:22:11 GMT</pubDate>
+    </item>
     <item>
       <title>修改过的 AppStore？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1if13l4/modded_appstores/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Flekstore 对我来说效果很好，但我觉得我错过了一些资源，无法充分利用它，如果有人能帮助我，我将不胜感激    提交人    /u/Willvember   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iemr9n/good_sources_for_flekstore/</guid>
       <pubDate>Fri, 31 Jan 2025 19:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，兄弟们，帮帮忙吧。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1ieiq9q/hey_bros_help_this_bro/</link>
-      <description><![CDATA[我是个菜鸟，我一辈子都在用安卓，现在系统是 iOS 18.2。 所以基本上我是跟着 YouTube 视频做的。  安装了 DNS 安装了 ESign 导入同名证书并安装。  现在怎么办？我想安装高级 Spotify。我从谷歌下载了一些 ipa 并用 ESign 安装了，但打开 Spotify 时显示无法验证完整性或其他信息。  我是不是哪里搞砸了？我安装了中国大陆的那个。 如果我只删除 dns 和 ESign，我的手机会安全并且不会被追踪吗？    提交人    /u/Sovereignn_Boss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1ieiq9q/hey_bros_help_this_bro/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:30:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
