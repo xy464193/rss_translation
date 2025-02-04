@@ -4,7 +4,28 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Tue, 04 Feb 2025 00:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 03:12:30 GMT</lastBuildDate>
+    <item>
+      <title>对于我来说，YTLite 不再可用。</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ih7qee/ytlite_is_no_longer_usable_for_me/</link>
+      <description><![CDATA[我无法再使用 YTLite，因为它现在强制您更新应用程序。我打开应用程序，然后收到一条消息，提示“需要更新，您必须更新才能继续。我尝试再次侧载它，但没有任何效果。还有其他可以使用的 YouTube IPA 吗？    提交人    /u/NTXSirens   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ih7qee/ytlite_is_no_longer_usable_for_me/</guid>
+      <pubDate>Tue, 04 Feb 2025 02:52:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Youtube v18 不再可用</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ih798z/youtube_v18_no_longer_live/</link>
+      <description><![CDATA[因此，我侧载了 AppStore++，唯一的原因就是降级那些收到更新但 UI 和功能变化糟糕的应用程序。我想我可能会遇到这个问题，这些我降级的应用程序的开发人员最终会停止对我降级的版本的支持，以强迫用户更新并使用当前版本。我认为没有办法绕过他们停止支持，这些版本将永远消失（但如果我错了，请纠正我）。我只想能够使用 Youtube（或客户端），允许我回滚某些功能或至少在设置中自定义它们。我甚至不能 100% 确定这是否是发布此内容的正确 subreddit，但我想我会试一试    提交人    /u/vxije   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ih798z/youtube_v18_no_longer_live/</guid>
+      <pubDate>Tue, 04 Feb 2025 02:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>主 iCloud 设备上的刻录 iCloud 帐户？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ih6xtd/burner_icloud_account_on_primary_icloud_device/</link>
+      <description><![CDATA[如何在已经登录主 iCloud 帐户的设备上，使用刻录机 iCloud 帐户（已安装 2FA）？ 理想情况下，我不会退出主帐户。 有什么想法吗？这可能吗？    提交人    /u/ionet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ih6xtd/burner_icloud_account_on_primary_icloud_device/</guid>
+      <pubDate>Tue, 04 Feb 2025 02:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>IG 火箭 18.3 号</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ih3n91/ig_rocket_issue_183/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>点击视频时，YouTube/YouTube 音乐背景播放器不会进入应用程序。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1igojab/youtubeyoutube_music_background_player_not_going/</link>
-      <description><![CDATA[      Ні, 这两个应用程序都不允许我点击视频进入应用程序，我必须手动使用后台应用程序选择器才能进入。 我购买了付费证书，并使用 Feather &amp; Esign 签名和安装 YtlitePlus 和 YouTube Music。我尝试了不同的 YouTube 应用程序，使用相同和不同的捆绑包 ID。这两个应用程序都出现相同的问题。 我认为使用 Alt-Store 时，它​​会进入应用程序。 我在 iOS 18.2.1、Iphone 11 上 如何修复它？如果第一个解决方案不起作用，是否有解决方法？ 谢谢。    提交人    /u/amaar786   [链接] [评论] ]]></description>
+      <description><![CDATA[      Ні, 这两个应用程序都不允许我点击视频进入应用程序，我必须手动使用后台应用程序选择器才能进入。 我购买了付费证书，并使用 Feather &amp; Esign 签名和安装 YtlitePlus 和 YouTube Music。我尝试了不同的 YouTube 应用程序，使用相同和不同的捆绑包 ID。两个应用程序都出现相同的问题。 我认为使用 Alt-Store 时，它​​会进入应用程序。 我在 iOS 18.2.1、Iphone 11 上 如何修复它？如果第一个解决方案不起作用，有没有解决方法？ 谢谢。    提交人    /u/amaar786   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1igojab/youtubeyoutube_music_background_player_not_going/</guid>
       <pubDate>Mon, 03 Feb 2025 13:01:35 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[当我尝试打开 Musi 时，它一直崩溃，我已经将其侧面加载，但我不知道为什么会这样。    提交人    /u/Sufficient-Initial33   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1igho4c/musi_keeps_crashing/</guid>
       <pubDate>Mon, 03 Feb 2025 05:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>动态岛不工作？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iggnj5/dynamic_island_not_working/</link>
-      <description><![CDATA[我的动态岛无法在侧载应用程序上运行，因为单击实时活动不会再将我引导至应用程序，不确定原因，有什么方法可以修复它吗？    提交人    /u/OrganizationRare1358   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iggnj5/dynamic_island_not_working/</guid>
-      <pubDate>Mon, 03 Feb 2025 04:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧载 YouTube SharePlay</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1igfy1q/sideloaded_youtube_shareplay/</link>
-      <description><![CDATA[有没有办法在 FaceTime 上共享屏幕并观看 YouTube？视频对参与者来说是冻结的。    由    /u/djquik1 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1igfy1q/sideloaded_youtube_shareplay/</guid>
-      <pubDate>Mon, 03 Feb 2025 03:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 SideStore 上添加实时容器？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1igezi4/how_do_i_add_live_container_on_sidestore/</link>
-      <description><![CDATA[你安装的只是一个 ipa 吗？它使用 JIT 吗？    提交者    /u/SeaManufacturer12   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1igezi4/how_do_i_add_live_container_on_sidestore/</guid>
-      <pubDate>Mon, 03 Feb 2025 02:46:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
