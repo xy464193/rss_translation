@@ -4,7 +4,21 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Thu, 06 Feb 2025 12:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:10:56 GMT</lastBuildDate>
+    <item>
+      <title>证书会保存钥匙串吗</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ij21sa/does_certificates_save_keychains/</link>
+      <description><![CDATA[所以我一直在使用 ytplus，每当我更改证书时，它都会登录到我创建的其他 Google 帐户。这是否意味着证书会保存钥匙串信息？？？    提交人    /u/Virtual-Crow2562   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ij21sa/does_certificates_save_keychains/</guid>
+      <pubDate>Thu, 06 Feb 2025 13:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找在最新 iOS 上进行侧载的最佳方法</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1ij1xqf/looking_for_the_best_way_to_sideload_on_latest_ios/</link>
+      <description><![CDATA[我的朋友收到了一部 iPhone 作为礼物，他想侧载一些经过修改的应用程序，但我从未拥有过 iPhone，也永远不会拥有。所以我的问题是：在 iOS 上侧载应用程序最可靠、最好的免费方式是什么。此外，侧载的最佳指南是什么？我的朋友不太懂技术，所以他做不了什么，但他仍然想侧载一些应用程序。我应该注意哪些缺点或限制？ 附注：我的朋友住在欧洲，所以如果只有欧洲有更好的方法，那也很好。提前谢谢！    提交人    /u/AdRoz78   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1ij1xqf/looking_for_the_best_way_to_sideload_on_latest_ios/</guid>
+      <pubDate>Thu, 06 Feb 2025 12:59:13 GMT</pubDate>
+    </item>
     <item>
       <title>如何在较旧的不受支持的 iPhone 上安装《刺客信条：幻影》？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1ij0yvu/how_to_install_assassins_creed_mirage_on_older/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我最近下载了一个 .ipa 文件并想安装它，但我有点担心它是否包含病毒或恶意软件。由于我不能相信任何人，我想确保它在安装到我的设备上之前是安全的。 是否有任何可靠的方法可以扫描或分析 .ipa 文件以检查它是否被感染或做了什么可疑的事情？ 我听说过 VirusTotal，但我不确定它是否适用于 .ipa 文件。此外，是否有任何工具或手动检查可以用来查看文件是否被篡改？ 非常感谢那些经常侧载应用程序的人的任何建议！提前致谢！    提交人    /u/Brilliant_Still_9605   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iinopl/is_there_a_way_to_verify_if_an_ipa_file_is/</guid>
       <pubDate>Wed, 05 Feb 2025 23:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在没有链接设备的情况下从 appdb 下载 ipas？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iim3t5/how_to_download_ipas_from_appdb_wo_linking_device/</link>
-      <description><![CDATA[我知道这很容易做到，但是有没有办法在不链接设备的情况下获得它们     提交人    /u/Affectionate__Dog   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iim3t5/how_to_download_ipas_from_appdb_wo_linking_device/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管我只安装了一个应用程序和两个免费的应用程序 ID，但 Sidestore 告诉我我已经达到了应用程序限制。</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iiiibi/sidestore_telling_me_ive_reached_my_app_limit/</link>
-      <description><![CDATA[不确定发生了什么，所以希望有人能帮助我。我之前试图通过 Sidestore 安装 Play！但一直失败。我收到一条错误消息，告诉我已达到免费帐户的应用程序限制。但除了 Sidestore 本身之外，我目前安装的唯一应用程序是 Live Container。而且我只使用了 10 个应用程序 ID 中的 8 个，所以没有理由它不能工作。我仔细检查了一下，Wireguard VPN 已开启，所以不是这个原因。我还有 7 天中的 5 天，但我尝试刷新，但这也没有帮助。有什么想法吗？    提交人    /u/JesseB342   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iiiibi/sidestore_telling_me_ive_reached_my_app_limit/</guid>
-      <pubDate>Wed, 05 Feb 2025 19:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
