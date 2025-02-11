@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Tue, 11 Feb 2025 18:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:09:24 GMT</lastBuildDate>
+    <item>
+      <title>TrollStore 是否依赖于 iOS 版本才能运行，或者它能否在每个存在 CoreTrust 漏洞的 iOS 版本上运行？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1in68kb/does_trollstore_work_ios_version_dependent_or_it/</link>
+      <description><![CDATA[例如，如果 Apple 再次犯错，并在 iOS 18.3.1 或 iOS 19 上发布另一个 CoreTrust 错误。 TrollStore 会自动在这些 iOS 版本上运行吗？还是必须针对这些确切的 iOS 版本重新编码？    提交人    /u/Valorant_Steve   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1in68kb/does_trollstore_work_ios_version_dependent_or_it/</guid>
+      <pubDate>Tue, 11 Feb 2025 18:57:03 GMT</pubDate>
+    </item>
     <item>
       <title>trollstore 的新内容/推荐？/ 如果我更新 iOS 会发生什么？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1ili69h/new_to_trollstore_recommendations_what_happens_if/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>iPhone XS Max 16.4</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</link>
-      <description><![CDATA[如果我遗漏了某些内容，我深表歉意，但我查看了常见问题解答，并相信我正确地遵循了安装表。每当我尝试从 jailbreaks.app 使用 troll 安装程序 X 时，我都会收到此错误消息：无法验证完整性。请帮忙，谢谢。     提交人    /u/DLoGuru   [link] [评论]]]></description>
+      <description><![CDATA[如果我遗漏了某些内容，我深表歉意，但我查看了常见问题解答，并相信自己正确地遵循了安装表。每当我尝试从 jailbreaks.app 使用 troll installer X 时，我都会收到此错误消息：无法验证完整性。请帮忙，谢谢。     提交人    /u/DLoGuru   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</guid>
       <pubDate>Wed, 22 Jan 2025 03:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的……列表中还有一个应用程序</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1i6mhj2/yeahone_more_app_at_the_list/</link>
-      <description><![CDATA[      接下来会是什么？Chrome？YouTube？Uber？如果这种情况持续发生，我想我需要保存这些 blob 并转到 iOS 18，直到我可以购买更好的 iPhone。    提交人    /u/No_Proposal_5731   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1i6mhj2/yeahone_more_app_at_the_list/</guid>
-      <pubDate>Tue, 21 Jan 2025 16:27:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
