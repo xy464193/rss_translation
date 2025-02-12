@@ -4,7 +4,14 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 12 Feb 2025 03:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 06:14:59 GMT</lastBuildDate>
+    <item>
+      <title>某些应用程序在打开时崩溃</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1inhi0u/certain_apps_crash_on_opening/</link>
+      <description><![CDATA[由于我的 Apple ID 存在问题，我无法安装应用程序，因此我不得不改为侧载它们。使用 esign 侧载时，大多数应用程序都可以正常工作，但某些应用程序（如 ish shell 和 supercell 游戏）在打开时会立即崩溃。我尝试了几个不同的来源，但都没有成功，但我很确定 supercell 游戏在侧载时应该可以工作。我是不是错过了一个调整或什么？    提交人    /u/-jackhax   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1inhi0u/certain_apps_crash_on_opening/</guid>
+      <pubDate>Wed, 12 Feb 2025 03:18:15 GMT</pubDate>
+    </item>
     <item>
       <title>羽毛 和 猩红色 有什么区别？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1inh59n/difference_between_feather_and_scarlet/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ 我来找你们是因为我有急需。我正在寻找适用于 iPad4 的 iOS 10.3.3 的最新版 ipa。 我真的尽了最大的努力去找到它，但要么所有链接都失效了，要么是旧版 1.3.4 如果您能将链接和任何适用于我的 iPad 的版本发送给我，我将不胜感激！    提交人    /u/Straight-Cricket2862   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1imstfe/paper_by_fiftythree_ipa_32_bit/</guid>
       <pubDate>Tue, 11 Feb 2025 06:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidestore 现在崩溃了吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1imrkab/sidestore_crashing_now/</link>
-      <description><![CDATA[几个月来它一直运行良好，但现在每次我打开它，它都会在第一秒崩溃    由    /u/punishedunder  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1imrkab/sidestore_crashing_now/</guid>
-      <pubDate>Tue, 11 Feb 2025 05:37:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

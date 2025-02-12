@@ -4,7 +4,14 @@
     <title>最新提交：Trollstore</title>
     <link>https://www.reddit.com/r/Trollstore/new</link>
     <description>TrollStore 是适用于 iOS 14-17.0 的永久签名 iPA 安装程序</description>
-    <lastBuildDate>Wed, 12 Feb 2025 03:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 06:14:53 GMT</lastBuildDate>
+    <item>
+      <title>我可以用 trollstore 做哪些有趣的事情？</title>
+      <link>https://www.reddit.com/r/Trollstore/comments/1injk2e/what_kind_of_cool_things_can_i_do_with_trollstore/</link>
+      <description><![CDATA[我是 trollstore 的新手，刚刚在我的 14 pro max 上安装了它。我不得不安装它，因为我买了一个需要应用程序才能使用的东西，但我无法在不更新 IOS（我不想这样做）的情况下安装该应用程序，而使用 troll store/MuffinStore，我可以解决这个问题并获得该应用程序的旧版本。  我还能用 trollstore 做什么？每个人都用它安装了什么样的酷炫应用程序？到目前为止，我刚刚安装了 MuffinStore，并重新安装了 uYouPlus，这样我就可以避免 7 天的 altstore 刷新。我还错过了哪些其他应用程序？     提交人    /u/Palmonte88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/Trollstore/comments/1injk2e/what_kind_of_cool_things_can_i_do_with_trollstore/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:14:57 GMT</pubDate>
+    </item>
     <item>
       <title>TrollStore 是否依赖于 iOS 版本才能运行，或者它能否在每个存在 CoreTrust 漏洞的 iOS 版本上运行？</title>
       <link>https://www.reddit.com/r/Trollstore/comments/1in68kb/does_trollstore_work_ios_version_dependent_or_it/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我使用的某些应用程序存在错误，并且在 16 上缺乏支持，因此我需要更新我的设备，有什么方法可以即使我更新也能保留 Trollstore 吗？    提交人    /u/MohamedH_Q   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/Trollstore/comments/1i7dlru/is_there_a_way_to_keep_trollstore_if_i_update/</guid>
       <pubDate>Wed, 22 Jan 2025 15:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone XS Max 16.4</title>
-      <link>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</link>
-      <description><![CDATA[如果我遗漏了某些内容，我深表歉意，但我查看了常见问题解答，并相信自己正确地遵循了安装表。每当我尝试从 jailbreaks.app 使用 troll installer X 时，我都会收到此错误消息：无法验证完整性。请帮忙，谢谢。     提交人    /u/DLoGuru   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/Trollstore/comments/1i71vk0/iphone_xs_max_164/</guid>
-      <pubDate>Wed, 22 Jan 2025 03:32:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
