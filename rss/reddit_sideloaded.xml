@@ -4,7 +4,49 @@
     <title>最新提交：侧载</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以使用它们在无需越狱的情况下在 iOS 设备上进行侧载！</description>
-    <lastBuildDate>Wed, 12 Feb 2025 15:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 21:09:31 GMT</lastBuildDate>
+    <item>
+      <title>Twitter / X 调整可禁用自动滚动吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1io0tvg/twitter_x_tweak_that_disables_auto_scroll/</link>
+      <description><![CDATA[我最近安装了 BHTwitter IPA，但它似乎已经有一段时间没有更新了。有这样一个“功能”，只要我看完一个视频，它就会像在 TikTok 上一样自动滚动。有人知道有什么调整可以禁用它吗？ 如果可能的话，我也希望有一个选项可以删除底部栏上的视频按钮，能够完全删除广告就太好了（我觉得 BHTwitter 删除了一些广告，但有些仍然会出现）。 谢谢！    提交人    /u/Isacucho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1io0tvg/twitter_x_tweak_that_disables_auto_scroll/</guid>
+      <pubDate>Wed, 12 Feb 2025 20:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 ESign 更新 IPA 版本</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1io0jcd/update_version_of_an_ipa_via_esign/</link>
+      <description><![CDATA[当 IPA 的新版本发布时（例如，我安装了 IPA 游戏版本 .911，然后发布了版本 .922），我需要在 ESign 中删除以前版本的 IPA 的所有文件。或者我可以直接加载新版本吗？有人可以告诉我吗？谢谢     提交人    /u/lais_oliveirag   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1io0jcd/update_version_of_an_ipa_via_esign/</guid>
+      <pubDate>Wed, 12 Feb 2025 20:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>sideload 能修复 YouTube 更新所需问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1inzxz5/does_sideload_fix_the_youtube_update_required_nag/</link>
+      <description><![CDATA[对于我的奶奶来说，她有一部 iPhone 6，它无法升级到 iOS 12，但是较新的 YouTube 版本无法在 iOS 12 上安装，并唠叨她升级她的 YouTube，否则该应用程序将关闭。    提交人    /u/No-Money-5104   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1inzxz5/does_sideload_fix_the_youtube_update_required_nag/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您“必须拥有”的侧载应用程序有哪些？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1inzttk/whatre_your_must_have_side_loaded_apps/</link>
+      <description><![CDATA[您认为哪些应用是“必备”的？ 我看到了这么多不同的经过调整的应用，不知道从哪里开始！有没有什么好的推荐？ 感谢您的任何反馈！    提交人    /u/PIatopus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1inzttk/whatre_your_must_have_side_loaded_apps/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1inxv3x/newbie/</link>
+      <description><![CDATA[有人能帮我侧载应用程序吗？我的手机上有 altstore，我该如何在手机上安装调整过的应用程序。在此之前，我使用 scarlet wnd，它工作正常，没有问题，但有一天它停止工作了，我再也找不回来了。    由   提交  /u/Top_Set1330   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1inxv3x/newbie/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我只安装了两个应用程序，Sidestore 告诉我安装了三个应用程序？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1invd8i/sidestore_telling_me_i_have_three_apps_installed/</link>
+      <description><![CDATA[Sidestore 的行为对我来说非常奇怪，我不知道这是否是一个已知问题，但也许有人可以帮忙。我目前只通过 Sidestore 安装了两个应用程序（Sidestore 本身和 Live 容器），以及五个免费的应用程序 ID，没有停用的应用程序。但每当我尝试安装第三个应用程序时，它都会失败，告诉我我已经安装了三个应用程序。它说我目前有 Sidestore 和 LC，这很有道理，但它也告诉我我有 Folium，所以没有空闲位置。但问题是我没有安装 Folium。正如我所说，我没有任何停用的应用程序，所以不是这个原因，Folium 不是当前正在占用的应用程序 ID 之一。即使 Sidestore 给我一个错误，它仍然会安装应用程序并删除其中一个应用程序 ID，但应用程序本身不会显示在 Sidestore 中，如果我尝试启动它，我只会收到“无法验证完整性”错误。有没有人遇到过这种情况，或者知道是什么原因造成的？而且在安装新应用时，我也选择在提示时删除应用扩展，所以我很困惑。也许如果我删除 Sidestore 并通过 Altserver 重新安装并重新登录，就可以解决这个问题？    提交人    /u/JesseB342   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1invd8i/sidestore_telling_me_i_have_three_apps_installed/</guid>
+      <pubDate>Wed, 12 Feb 2025 16:47:48 GMT</pubDate>
+    </item>
     <item>
       <title>改装的 dummynation</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1insq30/modded_dummynation/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[此 subreddit 的规则之一是“禁止盗版！”。因此您不能发布有关破解应用程序的帖子。 修改后的 YouTube 应用程序在技术上也是破解的。因为它们会删除所有广告。 但是有数百条关于它们的帖子。那么为什么它们不算作盗版？    提交人    /u/Valorant_Steve   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1in5pkc/arent_modified_youtube_versions_not_counted_as/</guid>
       <pubDate>Tue, 11 Feb 2025 18:35:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我会被列入黑名单吗</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1in5aws/will_i_get_blacklisted/</link>
-      <description><![CDATA[我最近开始使用 ESign，在阅读了更多相关信息后，我现在担心我会被列入黑名单，有什么方法可以防止这种情况发生    提交人    /u/OwlAncient6213   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1in5aws/will_i_get_blacklisted/</guid>
-      <pubDate>Tue, 11 Feb 2025 18:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 必需品？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1in2cbm/iphone_essentials/</link>
-      <description><![CDATA[刚刚开始使用 signulous 进行侧载。你们喜欢使用哪些基本应用程序？ 目前，我已经从 signulous 网站上修改了 TikTok、Youtube 和 Facebook。尝试了 Watusi，但缺少通知使得继续使用变得困难。有人有解决方法吗？    提交人    /u/xRostro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1in2cbm/iphone_essentials/</guid>
-      <pubDate>Tue, 11 Feb 2025 16:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为朋友选择侧载</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1in0xoi/chosing_sideloading_for_a_friend/</link>
-      <description><![CDATA[大家好，我想让我的一个朋友尝试一下侧载，因为他是所有经过调整的应用程序的粉丝。但由于他的手机不兼容 Trollstore，而且我对侧载本身也不太了解，所以我想问你们。什么是最适合初学者的侧载方式。我需要看看侧载是否适合他，所以花钱买证书可能最终会浪费钱，而且我听说电子签名 + dns 阻止会产生很多恼人的副作用，所以你们会推荐什么适合初学者且简单的侧载方式？     提交人    /u/Professional_Bite865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1in0xoi/chosing_sideloading_for_a_friend/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以获取合法的 dylib？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1in0kw9/where_can_you_get_legitimate_dylibs/</link>
-      <description><![CDATA[正如标题所说。有没有值得信赖的地方可以获取最新的 Dylibs cor 注入？我在考虑侧载绕过等。    提交人    /u/Weak-Network-6912   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1in0kw9/where_can_you_get_legitimate_dylibs/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 ipados 18.3 上进行侧载？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1imzgp8/how_to_sideload_on_ipados_183/</link>
-      <description><![CDATA[?    由   提交  /u/Suspicious_Status759   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1imzgp8/how_to_sideload_on_ipados_183/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录修改后的 TikTok</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1imx4q3/cant_sign_in_modded_tiktok/</link>
-      <description><![CDATA[请帮忙，每次我尝试登录 bhtiktok 时，它都说已达到最大尝试次数。我等了一个星期，但仍然不起作用     提交人    /u/Character-Praline421   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1imx4q3/cant_sign_in_modded_tiktok/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:09:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
