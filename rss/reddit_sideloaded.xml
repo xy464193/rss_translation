@@ -4,7 +4,28 @@
     <title>最新提交的内容：侧重</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以在iOS设备上使用无越狱的iOS设备上的局限！</description>
-    <lastBuildDate>Thu, 20 Feb 2025 15:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 21:09:11 GMT</lastBuildDate>
+    <item>
+      <title>带有羽毛的XC通配符证书，但没有通知</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iu93s1/xc_wildcard_certificate_with_feather_but_no/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我有一个Apple开发人员帐户。我从Xcode导出了P12和MobileProvision，并进口到羽毛。它被命名为“ XC Wildcard”。  但是，我想我必须为每个证书启用通知，但我不想为每个应用程序创建新的P12和MobileProvision。我只想使用一个p12并为每个应用程序启用通知。 我缺少一个东西吗？ 编辑：我的意思是我不想创建新的捆绑包ID来自每个应用程序的Apple开发人员。另外，我的ppqcheck被禁用  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/atahanking     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iu93s1/xc_wildcard_certificate_with_feather_but_no/</guid>
+      <pubDate>Thu, 20 Feb 2025 20:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>可能注入“ peferencelododer”依赖性DEB</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iu7aic/possible_to_inject_preferenceloader_dependency/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我曾经有一个越狱，但现在坚持了sideloading。我想向IPA注入一些DEB，这些DEB需要pereceencelodoader（设置应用程序的首选项）。有解决方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/atahanking     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iu7aic/possible_to_inject_preferenceloader_dependency/</guid>
+      <pubDate>Thu, 20 Feb 2025 19:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助下载游戏</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iu14ch/need_help_downloading_a_game/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是这个subreddit的一个非常愚蠢的问题，或者也许不属于这里，但我想在我的iPad第七代iPados上下载Minecraft 18.0我到处都在看，说我需要Mac或PC，所有这些都可以在没有PC的情况下做到这一点？ 一个好人试图在 r/越狱，但是当我尝试通过Esign下载IPA时，它说“您没有许可访问blah blah blah blah blah blah blah blah blah blah”解决方案？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/librarianno4648     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iu14ch/need_help_downloading_a_game/</guid>
+      <pubDate>Thu, 20 Feb 2025 15:29:51 GMT</pubDate>
+    </item>
     <item>
       <title>SUP，需要帮助来创建个人资料。</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iu0lfz/sup_need_help_to_create_profiles/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  当我尝试运行Minecraft 1.21.4时，它说错误Minecraft 1.21.4需要Java 21才能运行。请先安装它 我在iOS 18.1.1上，在iPhone 12上，请帮助  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/loduha     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iu01og/help_with_pojavlauncher/</guid>
       <pubDate>Thu, 20 Feb 2025 14:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在工作Duolingo吗？</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1itzrox/anyone_has_working_duolingo/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   iosgods显示“出现问题！”   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/el1teman     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1itzrox/anyone_has_working_duolingo/</guid>
-      <pubDate>Thu, 20 Feb 2025 14:30:33 GMT</pubDate>
     </item>
     <item>
       <title>电影IPA</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试使用我可以使用的agario（移动设备）的良好自动化器。你们中的任何人都可以使用任何好的IPA吗？具有自动点击器菜单的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hz786     [link]    32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1itqh52/good_auto_clicker_for_ios/</guid>
       <pubDate>Thu, 20 Feb 2025 04:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的非越狱调整</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1itq2bx/best_non_jailbreak_tweaks/</link>
-      <description><![CDATA[在&gt;＆＃32;提交由＆＃32; /u/u/tech20gaming     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1itq2bx/best_non_jailbreak_tweaks/</guid>
-      <pubDate>Thu, 20 Feb 2025 04:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>YT Plus实时容器错误</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1itph3o/yt_plus_live_container_bug/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我将yt plus与实时容器一起使用时，它正常工作，但是当我尝试下载视频时，它会下载音频和视频，然后说错误检查剪贴板以获取更多信息并且它不能保存到文件或视频中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/sideloaded/comments/1itph3o/yt_plus_live_container_bug/”&gt; [link]   ＆＃32;   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1itph3o/yt_plus_live_container_bug/</guid>
-      <pubDate>Thu, 20 Feb 2025 03:55:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
