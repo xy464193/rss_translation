@@ -4,7 +4,42 @@
     <title>最新提交的内容：侧重</title>
     <link>https://www.reddit.com/r/sideloaded/new</link>
     <description>一个致力于讨论各种工具和应用程序的社区，您可以在iOS设备上使用无越狱的iOS设备上的局限！</description>
-    <lastBuildDate>Fri, 21 Feb 2025 21:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:46:07 GMT</lastBuildDate>
+    <item>
+      <title>包装失败了！我该如何修复？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iv5yzp/packaging_failed_how_do_i_fix_it/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  为什么说包装失败？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/open_action_1949     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iv5yzp/packaging_failed_how_do_i_fix_it/</guid>
+      <pubDate>Sat, 22 Feb 2025 00:12:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人为Altos Adventure/Odyssey提供IPA吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iv4yvs/does_anyone_have_an_ipa_for_altos_adventureodyssey/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在寻找，但还没有找到一个工作。我在iOS 18   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/sideloaded/comments/comments/1iv4yvs/does_anyone_have_an_ipa_ipa_for_altos_altos_altos_adventureodyssey/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/sideloaded/comments/1iv4yvs/does_anyone_have_ipa_ipa_altos_altos_altos_altos_adventureodyssey/]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iv4yvs/does_anyone_have_an_ipa_for_altos_adventureodyssey/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>TVOS</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iv4tw4/tvos/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我是游戏中的新事物。我有一台Apple TV（1.gen），想获得一个.IPA，这为我提供了更好的YouTube经验。我发现了这个github项目： https://github.com/duell11111/reaecttube 我需要创建源代码.ipa我有一个苹果开发人员帐户，所以我可以自己签署.IPA，并且可以局限于IR，但我没有知识通过Xcode创建.IPA。 如果Somone可以帮助我，请  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/soillosion-meeting-66     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iv4tw4/tvos/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我下载的所有Esign证书都被吊销了，现在我无法安装Esign，有什么方法可以解决此问题吗？</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iv4rno/all_the_esign_certificates_i_downloaded_are/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请帮助  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/prumartSignature9378     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iv4rno/all_the_esign_certificates_i_downloaded_are/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何绕过iosgods提供安装</title>
+      <link>https://www.reddit.com/r/sideloaded/comments/1iv3bek/how_to_bypass_iosgods_offer_install/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   title sate nat nit   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sur-hat-5105     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/sideloaded/comments/1iv3bek/how_to_bypass_iosgods_offer_install/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>设置“应用程序”部分中的侧载应用程序显示？</title>
       <link>https://www.reddit.com/r/sideloaded/comments/1iv09hq/sideloaded_apps_shows_in_settings_app_section/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  使用我的udidRegrigrations/signulous证书，使用任何类型的签名应用程序（羽毛，eSign，gbox，Scarlet）时，我的应用每隔几天重置。就像应用程序带我进入欢迎屏幕一样，好像这是我第一次打开应用程序。发生在每个应用程序以及每种类型的证书（通配符，Adhoc，explicit）上。使用APPDB，签名或UdidRegrightrations在线签名者签名时，不会发生此问题。我还注意到（有时）由于某种原因，应用程序保留其数据和登录信息，但会带我来欢迎屏幕。  这没什么大不了的，但是有些应用程序具有其笨蛋互动的欢迎屏幕，这些屏幕需要永远单击，这些屏幕应“教”您使用该应用程序及其功能，仅用于要推广其价格过高的订阅（在大多数情况下，调整应用程序应该给您lmao） 更大的问题是，使用诸如AppDB之类的在线签名或signuly Spiensi将IPA上传到签名者，这与较大的IPA无法使用一半。   Esign和其他“应用程序”版本IPA签名者的便利性是我可以单击“在Esign中打开”并保存自己的存储空间，以及将IPA上传到其糟糕的服务器所需的时间。我想找到一种解决这些应用程序（例如Esign）的方法，而无需切换到签名或udidreg。在线签名者，因为使用Esign还可以获得定制我的签名，注入调整并更改应用程序设置的选项。  如果有人有修复程序，请这样说（“只是处理并使用其在线签名者”）。我可以获得另一个证书，但我不想浪费20美元，而我有其他证书的建议。我正在考虑Kravasign。  如果您没有修复程序，或者这没有发生，如果有任何有关Esign或signulous的信息，请告诉我，因为ATP我不知道是否在那里是一个，我只是在tryna看看其他人是否有这个问题，或者发现人们对智慧和其他良好证书选择的意见。 谢谢你雷迪特国家沿着Tiktok Egirl降低陆军！ （我将其标记为讨论，以便我们可以讨论解决方案，因此它与此Sub Lmao上标记的其他大多数帖子都不会融合）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ubbertoeneedshelp     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/sideloaded/comments/1iuhcur/resetting_apps_esign_signulous_cert/</guid>
       <pubDate>Fri, 21 Feb 2025 03:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>从2013年开始寻找炼金术合成器移动工作室</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iug1xf/looking_for_alchemy_synth_mobile_studio_from_2013/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道Alchemy带有GarageBand 2.2+，但是我特别在寻找此应用程序，因为它在32位iPad上起作用，可悲的不是无论出于何种原因，在AppStore上都可以使用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bolsonaropresoamanha     [link]  &lt;a href =“ https://www.reddit.com/r/sideloaded/comments/1iug1xf/looking_for_alchemy_alchemy_synth_mobile_mobile_studio_studio_from_2013/”]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iug1xf/looking_for_alchemy_synth_mobile_studio_from_2013/</guid>
-      <pubDate>Fri, 21 Feb 2025 02:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>羽毛用户的问题</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iucyzd/question_for_feather_users/</link>
-      <description><![CDATA[      嗨，我不确定如果已经回答了，但是在将它们安装到手机上后，我可以在羽毛应用程序中删除应用程序吗？它占用了很多空间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dicipal     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iucyzd/question_for_feather_users/</guid>
-      <pubDate>Thu, 20 Feb 2025 23:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.7.2：Sparsebox说不支持iOS版本</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iub3fp/ios_1772_sparsebox_says_ios_version_is_not/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   pls pls建议我解决此  &lt;！ -  sc_on-&gt;＆＃32 ;提交由＆＃32;态href =“ https://www.reddit.com/r/sideloaded/comments/1iub3fp/ios_1772_sparsebox_says_says_ios_ios_isversion_is_not/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iub3fp/ios_1772_sparsebox_says_ios_version_is_not/</guid>
-      <pubDate>Thu, 20 Feb 2025 22:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在可以合并iOS应用程序！！！</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iu9uvv/merging_ios_apps_is_now_possible/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您使用的是任何YouTube调整，则可以从AppStore安装YouTube并获取小部件！！    &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/mrsheep571     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iu9uvv/merging_ios_apps_is_now_possible/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经改装了IPA，我有证书，但我无法使用羽毛，Esign也无法正常工作</title>
-      <link>https://www.reddit.com/r/sideloaded/comments/1iu9g71/i_have_modded_ipa_and_i_have_a_certificate_but_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经通过羽毛安装了，但是由于某种原因，mod不起作用，我尝试了sidelodally且mod工作，但据我了解，我需要继续连接到我的每7天计算机一次，因此不会被吊销。 我购买了证书以避免这种情况，但我似乎无法使Mod工作。有建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/el1teman     &lt;a href =“ https://www.reddit.com/r/sideloaded/comments/1iu9g71/i_have_have_modded_ipa_ipa_ipa_ipa_i_i_have_have_certificate_certificate_but_but_i/]]></description>
-      <guid>https://www.reddit.com/r/sideloaded/comments/1iu9g71/i_have_modded_ipa_and_i_have_a_certificate_but_i/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:09:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
